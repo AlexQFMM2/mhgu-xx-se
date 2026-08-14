@@ -1,11 +1,78 @@
-# mhgu-xx-se
+# MHGU / MHXX Save Editor
 
-Planned save editor for Monster Hunter Generations Ultimate (Nintendo Switch)
-and Monster Hunter XX (Nintendo 3DS).
+Monster Hunter Generations Ultimate（Nintendo Switch）存档修改器。项目远期也
+计划支持 Nintendo 3DS 的 MHXX，但目前没有 XX 存档样本，因此现阶段只开发和
+验证 MHGU。
 
-The project is currently in the save-format research and planning stage. Do not
-assume that GU and XX use identical save layouts until both platforms have been
-compared with controlled samples.
+项目当前处于存档格式研究和核心设计阶段。修改任何存档前，请备份完整存档目录。
 
-Always back up the complete save directory before testing or modifying a save.
+## 存档与角色槽结构
 
+MHGU 与 MH3G、MH4G 的 `user1` / `user2` / `user3` 多文件方式不同：三个角色
+存档槽都保存在同一个 `system` 文件中。
+
+- `0x04`、`0x05`、`0x06`：存档槽 1、2、3 的使用标志；
+- `0x10`、`0x14`、`0x18`：三个槽位的角色数据基址，使用 32 位小端值；
+- 每个角色槽拥有各自的人物、道具箱、装备箱和随从猫数据；
+- 未使用槽即使保留了基址，也不能当作有效角色开放编辑。
+
+修改器打开 `system` 后，必须先显示“选择要编辑的存档”页面：
+
+```text
+打开 system
+    ↓
+选择存档 1 / 存档 2 / 存档 3
+    ↓
+进入所选角色的编辑页面
+    ├─ 角色信息
+    ├─ 道具箱
+    ├─ 装备箱
+    └─ 随从猫
+```
+
+只允许修改用户明确选中的角色槽。保存时，另外两个槽位以及 `system` 中的全局
+区域必须逐字节保持不变。初期不提供删除、复制或移动角色槽功能。
+
+## 首期功能范围
+
+### 角色信息
+
+提供已确认安全的人物基础字段。所有未确认字段原样保留。
+
+### 道具箱
+
+查看、搜索和修改箱内道具。随身背包不纳入首期范围：容量小、实际修改价值有限，
+而道具箱已经能够覆盖主要使用场景。
+
+### 装备箱
+
+GU 没有 MH4G 的发掘装备系统，武器和防具仍按普通装备记录处理。重点支持：
+
+- 普通武器、防具、护石和装饰珠；
+- 防具幻化：实际装备 ID 与外观 ID 分开编辑；
+- 当前穿戴副本与装备箱源记录的安全同步；
+- 实验性武器幻化研究。武器记录虽然保留外观 ID 字段，但游戏是否读取仍需实机
+  验证，未经验证不能作为正式功能开放。
+
+### 随从猫
+
+随从猫是本项目的核心功能之一，计划支持：
+
+- 名字、经验、等级、倾向、热情和目标偏好；
+- 已学及当前装备的支援行动；
+- 已学及当前装备的被动技能；
+- 行动/技能生成模式与合法性校验；
+- 声音、眼睛、服装、毛色、耳朵、尾巴及颜色；
+- 猫猫武器、防具以及猫防具幻化。
+
+猫猫的倾向、已学池、装备池、槽位成本和生成模式存在关联。编辑器应提供合法性
+校验，避免游戏在进入任务时清空或重置不合法配置。
+
+## 安全原则
+
+- 正常编辑目标是 `system`，不修改游戏已有的 `system_backup`；
+- 保存 `system` 前另建带时间戳的安全副本；
+- 完整原始字节缓冲区是唯一数据源，只补丁用户实际修改的已知字段；
+- 未编辑的打开/保存结果必须与原文件逐字节一致；
+- 每项功能先通过样本差分和往返测试，再进入界面；
+- 真实玩家存档只放在本地私有研究目录，不得提交到公开仓库。
