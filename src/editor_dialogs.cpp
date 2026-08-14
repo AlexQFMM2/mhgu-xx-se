@@ -329,18 +329,42 @@ private:
 
 class IdArrayEditor : public QWidget {
 public:
-    IdArrayEditor(const QString &title, const QVector<GameDataEntry> &entries, int count,
-                  const quint8 *values, QWidget *parent = nullptr) : QWidget(parent)
+    IdArrayEditor(const QString &title, const QVector<GameDataEntry> &entries, int storageCount,
+                  int normalCount, const quint8 *values, QWidget *parent = nullptr) : QWidget(parent)
     {
         auto *group = new QGroupBox(title, this);
-        auto *grid = new QGridLayout(group);
-        for (int i = 0; i < count; ++i) {
+        auto *groupLayout = new QVBoxLayout(group);
+        auto *grid = new QGridLayout;
+        bool extraSlotsContainData = false;
+        for (int i = 0; i < storageCount; ++i) {
             auto *combo = new QComboBox(group);
             configureCombo(combo);
             fillCombo(combo, entries, values[i]);
-            grid->addWidget(new QLabel(QString::number(i + 1), group), i / 2, (i % 2) * 2);
+            auto *number = new QLabel(QString::number(i + 1), group);
+            grid->addWidget(number, i / 2, (i % 2) * 2);
             grid->addWidget(combo, i / 2, (i % 2) * 2 + 1);
             m_combos.push_back(combo);
+            if (i >= normalCount) {
+                number->hide();
+                combo->hide();
+                m_extraWidgets.push_back(number);
+                m_extraWidgets.push_back(combo);
+                extraSlotsContainData = extraSlotsContainData || values[i] != 0;
+            }
+        }
+        groupLayout->addLayout(grid);
+        if (normalCount < storageCount) {
+            QString toggleText = QStringLiteral("显示存档额外槽 %1–%2【高级】")
+                                     .arg(normalCount + 1).arg(storageCount);
+            if (extraSlotsContainData)
+                toggleText += QStringLiteral("（当前有数据）");
+            auto *toggle = new QCheckBox(toggleText, group);
+            toggle->setToolTip(QStringLiteral("游戏常规上限为 %1 个，但存档预留了 %2 个位置。隐藏位置会原样保留。")
+                                   .arg(normalCount).arg(storageCount));
+            connect(toggle, &QCheckBox::toggled, this, [this](bool shown) {
+                for (QWidget *widget : m_extraWidgets) widget->setVisible(shown);
+            });
+            groupLayout->addWidget(toggle);
         }
         auto *layout = new QVBoxLayout(this);
         layout->setContentsMargins(0, 0, 0, 0);
@@ -354,6 +378,7 @@ public:
     }
 private:
     QVector<QComboBox *> m_combos;
+    QVector<QWidget *> m_extraWidgets;
 };
 
 class PalicoEditDialog : public QDialog {
@@ -427,8 +452,8 @@ public:
 
         auto *actions = new QWidget(tabs);
         auto *actionsLayout = new QVBoxLayout(actions);
-        m_learnedActions = new IdArrayEditor(QStringLiteral("已学支援行动（最多 10 个）"), data->entries(QStringLiteral("palico_support_moves")), 16, m_value.learnedActions.data(), actions);
-        m_equippedActions = new IdArrayEditor(QStringLiteral("已装备支援行动（随等级开放，最多 6 个）"), data->entries(QStringLiteral("palico_support_moves")), 8, m_value.equippedActions.data(), actions);
+        m_learnedActions = new IdArrayEditor(QStringLiteral("已学支援行动（常规最多 10 个）"), data->entries(QStringLiteral("palico_support_moves")), 16, 10, m_value.learnedActions.data(), actions);
+        m_equippedActions = new IdArrayEditor(QStringLiteral("已装备支援行动（随等级开放，最多 6 个）"), data->entries(QStringLiteral("palico_support_moves")), 8, 6, m_value.equippedActions.data(), actions);
         actionsLayout->addWidget(m_learnedActions);
         actionsLayout->addWidget(m_equippedActions);
         actionsLayout->addStretch();
@@ -439,8 +464,8 @@ public:
 
         auto *skills = new QWidget(tabs);
         auto *skillsLayout = new QVBoxLayout(skills);
-        m_learnedSkills = new IdArrayEditor(QStringLiteral("已学被动技能（最多 8 个）"), data->entries(QStringLiteral("palico_skills")), 12, m_value.learnedSkills.data(), skills);
-        m_equippedSkills = new IdArrayEditor(QStringLiteral("已装备被动技能（最多 4 个）"), data->entries(QStringLiteral("palico_skills")), 8, m_value.equippedSkills.data(), skills);
+        m_learnedSkills = new IdArrayEditor(QStringLiteral("已学被动技能（常规最多 8 个）"), data->entries(QStringLiteral("palico_skills")), 12, 8, m_value.learnedSkills.data(), skills);
+        m_equippedSkills = new IdArrayEditor(QStringLiteral("已装备被动技能（最多 4 个）"), data->entries(QStringLiteral("palico_skills")), 8, 4, m_value.equippedSkills.data(), skills);
         skillsLayout->addWidget(m_learnedSkills);
         skillsLayout->addWidget(m_equippedSkills);
         skillsLayout->addStretch();
