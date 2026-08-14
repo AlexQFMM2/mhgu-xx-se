@@ -1,1156 +1,1178 @@
 id,name,english,source,rarity
 0,无,None,mhxx-save-format-community,0
-5,皮制长裤,Leather Trousers,mhxx-dex-1.0,1
-10,锁甲长裤,Chainmail Trousers,mhxx-dex-1.0,1
-15,贝鲁纳护腿,Bherna Greaves,mhxx-dex-1.0,1
-20,狩猎护腿,Hunting Greaves,mhxx-dex-1.0,1
-25,狩猎胫甲,Hunting Leggings,mhxx-dex-1.0,1
-30,毛皮靴,Mafumofu Boots,mhxx-dex-1.0,1
-35,结云之下裳,Yukumo Hakama,mhxx-dex-1.0,1
-38,石架靴,Loc Lac Boots,mhxx-dex-1.0,1
-43,猎人护腿,Hunter's Greaves,mhxx-dex-1.0,1
-48,猎人胫甲,Hunter's Leggings,mhxx-dex-1.0,1
-53,骨制护腿,Bone Greaves,mhxx-dex-1.0,1
-58,骨制胫甲,Bone Leggings,mhxx-dex-1.0,1
-66,猎手皮护腿,Trapper's Greaves,mhxx-dex-1.0,1
-68,猎手皮长靴,Trapper's Boots,mhxx-dex-1.0,1
-70,跳狗龙王皮护腿,Maccao Shinguards,mhxx-dex-1.0,1
-72,跳狗龙王皮长靴,Maccao Boots,mhxx-dex-1.0,1
-74,狗龙王皮护腿,Jaggi Shinguards,mhxx-dex-1.0,1
-76,狗龙王皮长靴,Jaggi Boots,mhxx-dex-1.0,1
-81,狗龙护腿,Jaggi Greaves,mhxx-dex-1.0,1
-86,狗龙胫甲,Jaggi Leggings,mhxx-dex-1.0,1
-91,跳狗龙护腿,Maccao Greaves,mhxx-dex-1.0,1
-96,跳狗龙胫甲,Maccao Leggings,mhxx-dex-1.0,1
-101,蓝速龙护腿,Velociprey Greaves,mhxx-dex-1.0,1
-106,蓝速龙胫甲,Velociprey Leggings,mhxx-dex-1.0,1
-111,白速龙护腿,Giaprey Greaves,mhxx-dex-1.0,1
-116,白速龙胫甲,Giaprey Leggings,mhxx-dex-1.0,1
-121,黄速龙护腿,Genprey Greaves,mhxx-dex-1.0,1
-126,黄速龙胫甲,Genprey Leggings,mhxx-dex-1.0,1
-131,巨蜂护腿,Vespoid Greaves,mhxx-dex-1.0,1
-136,巨蜂胫甲,Vespoid Leggings,mhxx-dex-1.0,1
-141,巨甲虫护腿,Hornetaur Greaves,mhxx-dex-1.0,1
-146,巨甲虫胫甲,Hornetaur Leggings,mhxx-dex-1.0,1
-151,飞甲虫靴,Bnahabra Boots,mhxx-dex-1.0,1
-156,飞甲虫鞋子,Bnahabra Pants,mhxx-dex-1.0,1
-165,蘑菇猪鞋子,Mosswine Feet,mhxx-dex-1.0,1
-170,硬甲龙护腿,Rhenoplos Greaves,mhxx-dex-1.0,1
-175,硬甲龙胫甲,Rhenoplos Leggings,mhxx-dex-1.0,1
-180,野猪护腿,Bulldrome Greaves,mhxx-dex-1.0,1
-185,野猪胫甲,Bulldrome Leggings,mhxx-dex-1.0,1
-191,青熊兽护腿,Arzuros Greaves,mhxx-dex-1.0,1
-196,青熊兽胫甲,Arzuros Leggings,mhxx-dex-1.0,1
-201,砂龙护腿,Cephalos Greaves,mhxx-dex-1.0,1
-206,砂龙胫甲,Cephalos Leggings,mhxx-dex-1.0,1
-211,勇气长裤,Derring Trousers,mhxx-dex-1.0,2
-216,合金护腿,Alloy Greaves,mhxx-dex-1.0,2
-221,合金胫甲,Alloy Leggings,mhxx-dex-1.0,2
-226,战斗护腿,Battle Greaves,mhxx-dex-1.0,2
-231,战斗胫甲,Battle Leggings,mhxx-dex-1.0,2
-236,铸铁护腿,Ingot Greaves,mhxx-dex-1.0,2
-241,铸铁胫甲,Ingot Leggings,mhxx-dex-1.0,2
-246,矿石护腿,High Metal Greaves,mhxx-dex-1.0,2
-251,矿石胫甲,High Metal Leggings,mhxx-dex-1.0,2
-252,金属靴,Metal Boots,mhxx-dex-1.0,2
-253,金属鞋子,Metal Feet,mhxx-dex-1.0,2
-258,花瓣扎根,Melahoa Roots,mhxx-dex-1.0,2
-263,花瓣之根,Melahoa Taproot,mhxx-dex-1.0,2
-268,鱼鳞长裤,Makluva Pants,mhxx-dex-1.0,2
-273,鱼鳞鞋,Makluva Leggings,mhxx-dex-1.0,2
-284,独角仙脚,Obituary Crura,mhxx-dex-1.0,2
-289,独角仙足,Obituary Tarsi,mhxx-dex-1.0,2
-294,燕尾蝶脚,Butterfly Crura,mhxx-dex-1.0,2
-299,燕尾蝶足,Butterfly Tarsi,mhxx-dex-1.0,2
-304,死神脚跟,Death Stench Heel,mhxx-dex-1.0,2
-309,死神意志,Death Stench March,mhxx-dex-1.0,2
-318,南瓜扎根,Mosgharl Roots,mhxx-dex-1.0,2
-323,南瓜之根,Mosgharl Radicles,mhxx-dex-1.0,2
-328,雪绒花扎根,Edel Roots,mhxx-dex-1.0,2
-333,雪绒花之根,Edel Radicles,mhxx-dex-1.0,2
-338,毒蝎脚,Skalda Crura,mhxx-dex-1.0,2
-343,毒蝎足,Skalda Tarsi,mhxx-dex-1.0,2
-348,毒蛛脚,Spio Crura,mhxx-dex-1.0,2
-353,毒蛛足,Spio Tarsi,mhxx-dex-1.0,2
-356,水生兽护腿,Droth Greaves,mhxx-dex-1.0,2
-359,水生兽胫甲,Droth Leggings,mhxx-dex-1.0,2
-378,蓝速龙套装鞋子,Velociprey Feet,mhxx-dex-1.0,2
-382,蓝速龙套装长袜,Velociprey Tights,mhxx-dex-1.0,2
-386,黄速龙套装鞋子,Genprey Feet,mhxx-dex-1.0,2
-390,黄速龙套装长袜,Genprey Tights,mhxx-dex-1.0,2
-394,红速龙套装鞋子,Ioprey Feet,mhxx-dex-1.0,2
-398,红速龙套装长袜,Ioprey Tights,mhxx-dex-1.0,2
-403,蛇龙套装鞋子,Remobra Feet,mhxx-dex-1.0,2
-408,蛇龙套装长袜,Remobra Tights,mhxx-dex-1.0,2
-413,红速龙护腿,Ioprey Greaves,mhxx-dex-1.0,2
-418,红速龙胫甲,Ioprey Leggings,mhxx-dex-1.0,2
-423,怪鸟护腿,Kut-Ku Greaves,mhxx-dex-1.0,2
-428,怪鸟胫甲,Kut-Ku Leggings,mhxx-dex-1.0,2
-433,白兔兽护腿,Lagombi Greaves,mhxx-dex-1.0,2
-438,白兔兽胫甲,Lagombi Leggings,mhxx-dex-1.0,2
-443,毒怪鸟护腿,Gypceros Greaves,mhxx-dex-1.0,2
-448,毒怪鸟胫甲,Gypceros Leggings,mhxx-dex-1.0,2
-453,鬼蛙护腿,Tetsucabra Greaves,mhxx-dex-1.0,2
-458,鬼蛙胫甲,Tetsucabra Leggings,mhxx-dex-1.0,2
-463,大名盾蟹护腿,Hermitaur Greaves,mhxx-dex-1.0,2
-468,大名盾蟹胫甲,Hermitaur Leggings,mhxx-dex-1.0,2
-473,赤甲兽护腿,Volvidon Greaves,mhxx-dex-1.0,2
-478,赤甲兽胫甲,Volvidon Leggings,mhxx-dex-1.0,2
-483,水兽护腿,Ludroth Greaves,mhxx-dex-1.0,2
-488,水兽胫甲,Ludroth Leggings,mhxx-dex-1.0,2
-493,夜鸟护腿,Malfestio Greaves,mhxx-dex-1.0,2
-498,夜鸟胫甲,Malfestio Leggings,mhxx-dex-1.0,2
-503,白电护腿,Khezu Greaves,mhxx-dex-1.0,2
-508,白电胫甲,Khezu Leggings,mhxx-dex-1.0,2
-513,雌火龙护腿,Rathian Greaves,mhxx-dex-1.0,2
-518,雌火龙胫甲,Rathian Leggings,mhxx-dex-1.0,2
-523,潜口龙护腿,Nibelsnarf Greaves,mhxx-dex-1.0,2
-528,潜口龙胫甲,Nibelsnarf Leggings,mhxx-dex-1.0,2
-533,雪狮子护腿,Blango Greaves,mhxx-dex-1.0,2
-538,雪狮子胫甲,Blango Leggings,mhxx-dex-1.0,2
-543,将军镰蟹护腿,Ceanataur Greaves,mhxx-dex-1.0,2
-548,将军镰蟹胫甲,Ceanataur Leggings,mhxx-dex-1.0,2
-553,绞蛇龙护腿,Najarala Greaves,mhxx-dex-1.0,2
-558,绞蛇龙胫甲,Najarala Leggings,mhxx-dex-1.0,2
-563,迅龙护腿,Nargacuga Greaves,mhxx-dex-1.0,2
-568,迅龙胫甲,Nargacuga Leggings,mhxx-dex-1.0,2
-573,贤者靴,Scholarly Boots,mhxx-dex-1.0,2
-578,贤者长袜,Scholarly Tights,mhxx-dex-1.0,2
-583,海境护腿,Vaik Greaves,mhxx-dex-1.0,3
-588,海境胫甲,Vaik Leggings,mhxx-dex-1.0,3
-595,锹形脚,Aelucanth Crura,mhxx-dex-1.0,3
-600,锹形足,Aelucanth Tarsi,mhxx-dex-1.0,3
-605,凤蝶脚,Rhopessa Crura,mhxx-dex-1.0,3
-610,凤蝶足,Rhopessa Tarsi,mhxx-dex-1.0,3
-613,机械护腿,Artian Greaves,mhxx-dex-1.0,3
-616,机械胫甲,Artian Leggings,mhxx-dex-1.0,3
-621,黑狼鸟护腿,Garuga Greaves,mhxx-dex-1.0,3
-626,黑狼鸟胫甲,Garuga Leggings,mhxx-dex-1.0,3
-632,爆锤龙护腿,Uragaan Greaves,mhxx-dex-1.0,3
-637,爆锤龙胫甲,Uragaan Leggings,mhxx-dex-1.0,3
-642,火龙护腿,Rathalos Greaves,mhxx-dex-1.0,3
-647,火龙胫甲,Rathalos Leggings,mhxx-dex-1.0,3
-652,海龙护腿,Lagiacrus Greaves,mhxx-dex-1.0,3
-657,海龙胫甲,Lagiacrus Leggings,mhxx-dex-1.0,3
-662,雷狼龙护腿,Zinogre Greaves,mhxx-dex-1.0,3
-667,雷狼龙胫甲,Zinogre Leggings,mhxx-dex-1.0,3
-672,泡狐龙护腿,Mizutsune Greaves,mhxx-dex-1.0,3
-677,泡狐龙胫甲,Mizutsune Leggings,mhxx-dex-1.0,3
-682,电龙护腿,Astalos Greaves,mhxx-dex-1.0,3
-687,电龙胫甲,Astalos Leggings,mhxx-dex-1.0,3
-692,巨兽护腿,Gammoth Greaves,mhxx-dex-1.0,3
-697,巨兽胫甲,Gammoth Leggings,mhxx-dex-1.0,3
-702,斩龙护腿,Glavenus Greaves,mhxx-dex-1.0,3
-707,斩龙胫甲,Glavenus Leggings,mhxx-dex-1.0,3
-712,黑蚀龙护腿,Gore Greaves,mhxx-dex-1.0,3
-717,黑蚀龙胫甲,Gore Leggings,mhxx-dex-1.0,3
-722,千刃龙护腿,Regios Greaves,mhxx-dex-1.0,3
-727,千刃龙胫甲,Regios Leggings,mhxx-dex-1.0,3
-732,轰龙护腿,Tigrex Greaves,mhxx-dex-1.0,3
-737,轰龙胫甲,Tigrex Leggings,mhxx-dex-1.0,3
-742,麒麟护胫,Kirin Leg Guards,mhxx-dex-1.0,3
-747,麒麟靴,Kirin Boots,mhxx-dex-1.0,3
-752,碎龙护腿,Brachydios Greaves,mhxx-dex-1.0,3
-757,碎龙胫甲,Brachydios Leggings,mhxx-dex-1.0,3
-762,方舟护腿,Arc Greaves,mhxx-dex-1.0,3
-767,方舟胫甲,Arc Leggings,mhxx-dex-1.0,3
-772,友爱护腿,Storge Greaves,mhxx-dex-1.0,3
-777,友爱胫甲,Storge Leggings,mhxx-dex-1.0,3
-782,钢龙踏实,Kushala Crus,mhxx-dex-1.0,3
-787,钢龙勇健,Kushala Shank,mhxx-dex-1.0,3
-792,水行【腿甲】,Mizuha Gaiters,mhxx-dex-1.0,3
-797,丰玉【腿甲】,Cham Trousers,mhxx-dex-1.0,3
-802,帝王护腿,Kaiser Greaves,mhxx-dex-1.0,3
-807,帝王胫甲,Kaiser Leggings,mhxx-dex-1.0,3
-812,骸装甲【腿骨】,Skeletal Femur,mhxx-dex-1.0,3
-817,尸装甲【腿骨】,Decayed Femur,mhxx-dex-1.0,3
-822,黑色鞋子,Black Feet,mhxx-dex-1.0,3
-827,黑色双脚,Black Legs,mhxx-dex-1.0,3
-832,黑带护腿,Black Belt Greaves,mhxx-dex-1.0,3
-837,黑带胫甲,Black Belt Leggings,mhxx-dex-1.0,3
-842,公会诗人靴,Guild Bard Boots,mhxx-dex-1.0,3
-847,公会诗人鞋子,Guild Bard Gaiters,mhxx-dex-1.0,3
-852,女仆短袜,Maiden's Socks,mhxx-dex-1.0,3
-857,休闲长袜,French Maid Tights,mhxx-dex-1.0,3
-862,支援者短袜,Helper Socks,mhxx-dex-1.0,3
-867,治疗者短袜,Healer Socks,mhxx-dex-1.0,3
-872,抚子【马裤】,Dianthus Pants,mhxx-dex-1.0,3
-877,桔梗【马裤】,Campanile Pants,mhxx-dex-1.0,3
-881,泡澡凉鞋,Bath Sandals,mhxx-dex-1.0,3
-886,美食喵靴,Gourmew Boots,mhxx-dex-1.0,3
-891,美食喵鞋子,Gourmew Paws,mhxx-dex-1.0,3
-896,皮制S护腿,Leather Greaves S,mhxx-dex-1.0,4
-901,皮制S胫甲,Leather Leggings S,mhxx-dex-1.0,4
-906,锁甲S护腿,Chainmail Greaves S,mhxx-dex-1.0,4
-911,锁甲S胫甲,Chainmail Leggings S,mhxx-dex-1.0,4
-916,贝鲁纳S护腿,Bherna Greaves S,mhxx-dex-1.0,4
-921,贝鲁纳S胫甲,Bherna Leggings S,mhxx-dex-1.0,4
-926,狩猎S护腿,Hunting Greaves S,mhxx-dex-1.0,4
-931,狩猎S胫甲,Hunting Leggings S,mhxx-dex-1.0,4
-936,毛皮S靴,Mafumofu Boots S,mhxx-dex-1.0,4
-941,毛皮S长袜,Mafumofu Tights S,mhxx-dex-1.0,4
-946,结云之下裳･天,Yukumo Sky Hakama,mhxx-dex-1.0,4
-951,结云之下裳･地,Yukumo Land Hakama,mhxx-dex-1.0,4
-954,石架S靴,Loc Lac Boots S,mhxx-dex-1.0,4
-959,猎人S护腿,Hunter's Greaves S,mhxx-dex-1.0,4
-964,猎人S胫甲,Hunter's Leggings S,mhxx-dex-1.0,4
-969,猎人R护腿,Hunter's Greaves R,mhxx-dex-1.0,4
-974,猎人R胫甲,Hunter's Leggings R,mhxx-dex-1.0,4
-979,骨制S护腿,Bone Greaves S,mhxx-dex-1.0,4
-984,骨制S胫甲,Bone Leggings S,mhxx-dex-1.0,4
-987,银合金靴,Silver Metal Boots,mhxx-dex-1.0,4
-988,银合金鞋子,Silver Feet,mhxx-dex-1.0,4
-997,花瓣S扎根,Melahoa Roots S,mhxx-dex-1.0,4
-1002,花瓣S之根,Melahoa Taproot S,mhxx-dex-1.0,4
-1007,花瓣U扎根,Melahoa Roots U,mhxx-dex-1.0,4
-1012,花瓣U之根,Melahoa Taproot U,mhxx-dex-1.0,4
-1017,鱼鳞S长裤,Makluva Pants S,mhxx-dex-1.0,4
-1022,鱼鳞S鞋,Makluva Leggings S,mhxx-dex-1.0,4
-1027,鱼鳞U长裤,Makluva Pants U,mhxx-dex-1.0,4
-1032,鱼鳞U鞋,Makluva Leggings U,mhxx-dex-1.0,4
-1047,南瓜S扎根,Mosgharl Roots S,mhxx-dex-1.0,4
-1052,南瓜S之根,Mosgharl Radicles S,mhxx-dex-1.0,4
-1057,雪绒花S扎根,Edel Roots S,mhxx-dex-1.0,4
-1062,雪绒花S之根,Edel Radicles S,mhxx-dex-1.0,4
-1081,蓝速龙套装S鞋子,Velociprey Feet S,mhxx-dex-1.0,4
-1085,蓝速龙套装S长袜,Velociprey Tights S,mhxx-dex-1.0,4
-1089,白速龙套装鞋子,Giaprey Feet,mhxx-dex-1.0,4
-1093,白速龙套装长袜,Giaprey Tights,mhxx-dex-1.0,4
-1097,黄速龙套装S鞋子,Genprey Feet S,mhxx-dex-1.0,4
-1101,黄速龙套装S长袜,Genprey Tights S,mhxx-dex-1.0,4
-1105,红速龙套装S鞋子,Ioprey Feet S,mhxx-dex-1.0,4
-1109,红速龙套装S长袜,Ioprey Tights S,mhxx-dex-1.0,4
-1114,蛇龙套装S鞋子,Remobra Feet S,mhxx-dex-1.0,4
-1119,蛇龙套装S长袜,Remobra Tights S,mhxx-dex-1.0,4
-1121,猎手皮护腿S,Trapper's Shinguards S,mhxx-dex-1.0,4
-1123,猎手皮长靴S,Trapper's Boots S,mhxx-dex-1.0,4
-1125,跳狗龙王皮护腿S,Maccao Shinguards S,mhxx-dex-1.0,4
-1127,跳狗龙王皮长靴S,Maccao Boots S,mhxx-dex-1.0,4
-1129,狗龙王皮护腿S,Jaggi Shinguards S,mhxx-dex-1.0,4
-1131,狗龙王皮长靴S,Jaggi Boots S,mhxx-dex-1.0,4
-1136,蘑菇猪S鞋子,Mosswine Feet S,mhxx-dex-1.0,4
-1141,硬甲龙S护腿,Rhenoplos Greaves S,mhxx-dex-1.0,4
-1146,硬甲龙S胫甲,Rhenoplos Leggings S,mhxx-dex-1.0,4
-1151,狗龙S护腿,Jaggi Greaves S,mhxx-dex-1.0,4
-1156,狗龙S胫甲,Jaggi Leggings S,mhxx-dex-1.0,4
-1159,水生兽S护腿,Droth Greaves S,mhxx-dex-1.0,4
-1162,水生兽S胫甲,Droth Leggings S,mhxx-dex-1.0,4
-1171,跳狗龙S护腿,Maccao Greaves S,mhxx-dex-1.0,4
-1176,跳狗龙S胫甲,Maccao Leggings S,mhxx-dex-1.0,4
-1181,蓝速龙S护腿,Velociprey Greaves S,mhxx-dex-1.0,4
-1186,蓝速龙S胫甲,Velociprey Leggings S,mhxx-dex-1.0,4
-1191,白速龙S护腿,Giaprey Greaves S,mhxx-dex-1.0,4
-1196,白速龙S胫甲,Giaprey Leggings S,mhxx-dex-1.0,4
-1201,黄速龙S护腿,Genprey Greaves S,mhxx-dex-1.0,4
-1206,黄速龙S胫甲,Genprey Leggings S,mhxx-dex-1.0,4
-1211,EX黄速龙护腿,EX Genprey Greaves,mhxx-dex-1.0,4
-1216,EX黄速龙胫甲,EX Genprey Leggings,mhxx-dex-1.0,4
-1221,红速龙S护腿,Ioprey Greaves S,mhxx-dex-1.0,4
-1226,红速龙S胫甲,Ioprey Leggings S,mhxx-dex-1.0,4
-1231,EX红速龙护腿,EX Ioprey Greaves,mhxx-dex-1.0,4
-1236,EX红速龙胫甲,EX Ioprey Leggings,mhxx-dex-1.0,4
-1241,巨蜂S护腿,Vespoid Greaves S,mhxx-dex-1.0,4
-1246,巨蜂S胫甲,Vespoid Leggings S,mhxx-dex-1.0,4
-1251,EX巨蜂护腿,EX Vespoid Greaves,mhxx-dex-1.0,4
-1256,EX巨蜂胫甲,EX Vespoid Leggings,mhxx-dex-1.0,4
-1261,巨甲虫S护腿,Hornetaur Greaves S,mhxx-dex-1.0,4
-1266,巨甲虫S胫甲,Hornetaur Leggings S,mhxx-dex-1.0,4
-1271,EX巨甲虫护腿,EX Hornetaur Greaves,mhxx-dex-1.0,4
-1276,EX巨甲虫胫甲,EX Hornetaur Leggings,mhxx-dex-1.0,4
-1281,巨甲虫R护腿,Hornetaur Greaves R,mhxx-dex-1.0,4
-1286,巨甲虫R胫甲,Hornetaur Leggings R,mhxx-dex-1.0,4
-1291,飞甲虫S靴,Bnahabra Boots S,mhxx-dex-1.0,4
-1296,飞甲虫S鞋子,Bnahabra Pants S,mhxx-dex-1.0,4
-1305,野猪S护腿,Bulldrome Greaves S,mhxx-dex-1.0,4
-1310,野猪S胫甲,Bulldrome Leggings S,mhxx-dex-1.0,4
-1316,青熊兽S护腿,Arzuros Greaves S,mhxx-dex-1.0,4
-1321,青熊兽S胫甲,Arzuros Leggings S,mhxx-dex-1.0,4
-1326,砂龙S护腿,Cephalos Greaves S,mhxx-dex-1.0,4
-1331,砂龙S胫甲,Cephalos Leggings S,mhxx-dex-1.0,4
-1336,EX砂龙护腿,EX Cephalos Greaves,mhxx-dex-1.0,4
-1341,EX砂龙胫甲,EX Cephalos Leggings,mhxx-dex-1.0,4
-1346,怪鸟S护腿,Kut-Ku Greaves S,mhxx-dex-1.0,4
-1351,怪鸟S胫甲,Kut-Ku Leggings S,mhxx-dex-1.0,4
-1356,奇猿狐护腿,Kecha Greaves,mhxx-dex-1.0,4
-1361,奇猿狐胫甲,Kecha Leggings,mhxx-dex-1.0,4
-1366,白兔兽S护腿,Lagombi Greaves S,mhxx-dex-1.0,4
-1371,白兔兽S胫甲,Lagombi Leggings S,mhxx-dex-1.0,4
-1376,毒怪鸟S护腿,Gypceros Greaves S,mhxx-dex-1.0,4
-1381,毒怪鸟S胫甲,Gypceros Leggings S,mhxx-dex-1.0,4
-1386,毒怪鸟R护腿,Gypceros Greaves R,mhxx-dex-1.0,4
-1391,毒怪鸟R胫甲,Gypceros Leggings R,mhxx-dex-1.0,4
-1396,鬼蛙S护腿,Tetsucabra Greaves S,mhxx-dex-1.0,4
-1401,鬼蛙S胫甲,Tetsucabra Leggings S,mhxx-dex-1.0,4
-1406,大名盾蟹S护腿,Hermitaur Greaves S,mhxx-dex-1.0,4
-1411,大名盾蟹S胫甲,Hermitaur Leggings S,mhxx-dex-1.0,4
-1416,EX大名盾蟹护腿,EX Hermitaur Greaves,mhxx-dex-1.0,4
-1421,EX大名盾蟹胫甲,EX Hermitaur Leggings,mhxx-dex-1.0,4
-1426,大名盾蟹R护腿,Hermitaur Greaves R,mhxx-dex-1.0,4
-1431,大名盾蟹R胫甲,Hermitaur Leggings R,mhxx-dex-1.0,4
-1436,赤甲兽S护腿,Volvidon Greaves S,mhxx-dex-1.0,4
-1441,赤甲兽S胫甲,Volvidon Leggings S,mhxx-dex-1.0,4
-1446,桃毛兽王护腿,Conga Greaves,mhxx-dex-1.0,4
-1451,桃毛兽王胫甲,Conga Leggings,mhxx-dex-1.0,4
-1456,水兽S护腿,Ludroth Greaves S,mhxx-dex-1.0,4
-1461,水兽S胫甲,Ludroth Leggings S,mhxx-dex-1.0,4
-1466,水兽R护腿,Ludroth Greaves R,mhxx-dex-1.0,4
-1471,水兽R胫甲,Ludroth Leggings R,mhxx-dex-1.0,4
-1476,土砂龙护腿,Barroth Greaves,mhxx-dex-1.0,4
-1481,土砂龙胫甲,Barroth Leggings,mhxx-dex-1.0,4
-1486,求知靴,Lecturer's Boots,mhxx-dex-1.0,4
-1491,求知鞋子,Lecturer's Footwear,mhxx-dex-1.0,4
-1496,合金S护腿,Alloy Greaves S,mhxx-dex-1.0,5
-1501,合金S胫甲,Alloy Leggings S,mhxx-dex-1.0,5
-1506,合金R护腿,Alloy Greaves R,mhxx-dex-1.0,5
-1511,合金R胫甲,Alloy Leggings R,mhxx-dex-1.0,5
-1516,战斗S护腿,Battle Greaves S,mhxx-dex-1.0,5
-1521,战斗S胫甲,Battle Leggings S,mhxx-dex-1.0,5
-1526,铸铁S护腿,Ingot Greaves S,mhxx-dex-1.0,5
-1531,铸铁S胫甲,Ingot Leggings S,mhxx-dex-1.0,5
-1536,铸铁R护腿,Ingot Greaves R,mhxx-dex-1.0,5
-1541,铸铁R胫甲,Ingot Leggings R,mhxx-dex-1.0,5
-1546,矿石S护腿,High Metal Greaves S,mhxx-dex-1.0,5
-1551,矿石S胫甲,High Metal Leggings S,mhxx-dex-1.0,5
-1556,矿石U护腿,High Metal Greaves U,mhxx-dex-1.0,5
-1561,矿石U胫甲,High Metal Leggings U,mhxx-dex-1.0,5
-1562,粉红合金靴,Pink Metal Boots,mhxx-dex-1.0,5
-1563,粉红合金鞋子,Pink Metal Feet,mhxx-dex-1.0,5
-1568,龙虾护腿,Lobster Greaves,mhxx-dex-1.0,5
-1573,龙虾胫甲,Lobster Leggings,mhxx-dex-1.0,5
-1578,独角仙S脚,Obituary Crura S,mhxx-dex-1.0,5
-1583,独角仙S足,Obituary Tarsi S,mhxx-dex-1.0,5
-1588,燕尾蝶S脚,Butterfly Crura S,mhxx-dex-1.0,5
-1593,燕尾蝶S足,Butterfly Tarsi S,mhxx-dex-1.0,5
-1598,死神S脚跟,Death Stench Heel S,mhxx-dex-1.0,5
-1603,死神S意志,Death Stench March S,mhxx-dex-1.0,5
-1608,死神R脚跟,Death Stench Heel R,mhxx-dex-1.0,5
-1613,死神R意志,Death Stench March R,mhxx-dex-1.0,5
-1618,海境S护腿,Vaik Greaves S,mhxx-dex-1.0,5
-1623,海境S胫甲,Vaik Leggings S,mhxx-dex-1.0,5
-1628,锹形S脚,Aelucanth Crura S,mhxx-dex-1.0,5
-1633,锹形S足,Aelucanth Tarsi S,mhxx-dex-1.0,5
-1638,凤蝶S脚,Rhopessa Crura S,mhxx-dex-1.0,5
-1643,凤蝶S足,Rhopessa Tarsi S,mhxx-dex-1.0,5
-1648,糕点师靴,Patissier's Boots,mhxx-dex-1.0,5
-1653,糕点师鞋子,Patissier's Footwear,mhxx-dex-1.0,5
-1658,毒蝎S脚,Skalda Crura S,mhxx-dex-1.0,5
-1663,毒蝎S足,Skalda Tarsi S,mhxx-dex-1.0,5
-1668,毒蛛S脚,Spio Crura S,mhxx-dex-1.0,5
-1673,毒蛛S足,Spio Tarsi S,mhxx-dex-1.0,5
-1679,岩龙护腿,Basarios Greaves,mhxx-dex-1.0,5
-1684,岩龙胫甲,Basarios Leggings,mhxx-dex-1.0,5
-1689,夜鸟S护腿,Malfestio Greaves S,mhxx-dex-1.0,5
-1694,夜鸟S胫甲,Malfestio Leggings S,mhxx-dex-1.0,5
-1699,变形冰鲨护腿,Zamtrios Greaves,mhxx-dex-1.0,5
-1704,变形冰鲨胫甲,Zamtrios Leggings,mhxx-dex-1.0,5
-1709,白电S护腿,Khezu Greaves S,mhxx-dex-1.0,5
-1714,白电S胫甲,Khezu Leggings S,mhxx-dex-1.0,5
-1719,白电R护腿,Khezu Greaves R,mhxx-dex-1.0,5
-1724,白电R胫甲,Khezu Leggings R,mhxx-dex-1.0,5
-1729,影蜘蛛护腿,Nerscylla Greaves,mhxx-dex-1.0,5
-1734,影蜘蛛胫甲,Nerscylla Leggings,mhxx-dex-1.0,5
-1739,雌火龙S护腿,Rathian Greaves S,mhxx-dex-1.0,5
-1744,雌火龙S胫甲,Rathian Leggings S,mhxx-dex-1.0,5
-1749,EX雌火龙护腿,EX Rathian Greaves,mhxx-dex-1.0,5
-1754,EX雌火龙胫甲,EX Rathian Leggings,mhxx-dex-1.0,5
-1759,雌火龙R护腿,Rathian Greaves R,mhxx-dex-1.0,5
-1764,雌火龙R胫甲,Rathian Leggings R,mhxx-dex-1.0,5
-1769,潜口龙S护腿,Nibelsnarf Greaves S,mhxx-dex-1.0,5
-1774,潜口龙S胫甲,Nibelsnarf Leggings S,mhxx-dex-1.0,5
-1778,水龙护腿,Plesioth Greaves,mhxx-dex-1.0,5
-1782,水龙胫甲,Plesioth Leggings,mhxx-dex-1.0,5
-1787,雪狮子S护腿,Blango Greaves S,mhxx-dex-1.0,5
-1792,雪狮子S胫甲,Blango Leggings S,mhxx-dex-1.0,5
-1797,EX雪狮子护腿,EX Blango Greaves,mhxx-dex-1.0,5
-1802,EX雪狮子胫甲,EX Blango Leggings,mhxx-dex-1.0,5
-1807,熔岩龙护腿,Lavasioth Greaves,mhxx-dex-1.0,5
-1812,熔岩龙胫甲,Lavasioth Leggings,mhxx-dex-1.0,5
-1817,EX熔岩龙护腿,EX Lavasioth Greaves,mhxx-dex-1.0,5
-1822,EX熔岩龙胫甲,EX Lavasioth Leggings,mhxx-dex-1.0,5
-1827,将军镰蟹S护腿,Ceanataur Greaves S,mhxx-dex-1.0,5
-1832,将军镰蟹S胫甲,Ceanataur Leggings S,mhxx-dex-1.0,5
-1837,EX将军镰蟹护腿,EX Ceanataur Greaves,mhxx-dex-1.0,5
-1842,EX将军镰蟹胫甲,EX Ceanataur Leggings,mhxx-dex-1.0,5
-1847,将军镰蟹R护腿,Ceanataur Greaves R,mhxx-dex-1.0,5
-1852,将军镰蟹R胫甲,Ceanataur Leggings R,mhxx-dex-1.0,5
-1857,绞蛇龙S护腿,Najarala Greaves S,mhxx-dex-1.0,5
-1862,绞蛇龙S胫甲,Najarala Leggings S,mhxx-dex-1.0,5
-1867,迅龙S护腿,Nargacuga Greaves S,mhxx-dex-1.0,5
-1872,迅龙S胫甲,Nargacuga Leggings S,mhxx-dex-1.0,5
-1877,黑狼鸟S护腿,Garuga Greaves S,mhxx-dex-1.0,5
-1882,黑狼鸟S胫甲,Garuga Leggings S,mhxx-dex-1.0,5
-1888,爆锤龙S护腿,Uragaan Greaves S,mhxx-dex-1.0,5
-1893,爆锤龙S胫甲,Uragaan Leggings S,mhxx-dex-1.0,5
-1898,黑带S护腿,Black Belt Greaves S,mhxx-dex-1.0,5
-1903,黑带S胫甲,Black Belt Leggings S,mhxx-dex-1.0,5
-1908,守护者靴,Guardian Boots,mhxx-dex-1.0,5
-1913,守护者鞋子,Guardian Pants,mhxx-dex-1.0,5
-1918,守护者U靴,Guardian Boots U,mhxx-dex-1.0,5
-1923,守护者U鞋子,Guardian Pants U,mhxx-dex-1.0,5
-1928,学士短袜,Scholar's Socks,mhxx-dex-1.0,5
-1933,学士凉鞋,Scholar's Sandals,mhxx-dex-1.0,5
-1938,水手短袜,Sailor Socks,mhxx-dex-1.0,5
-1943,水手凉鞋,Sailor Sandals,mhxx-dex-1.0,5
-1947,高级泡澡凉鞋,Luxury Bath Sandals,mhxx-dex-1.0,5
-1951,北极星【下裳】,Kita Star Hakama,mhxx-dex-1.0,5
-1955,海渊【下裳】,Umi Ocean Hakama,mhxx-dex-1.0,5
-1961,勇气S护腿,Derring Greaves S,mhxx-dex-1.0,6
-1966,勇气S胫甲,Derring Leggings S,mhxx-dex-1.0,6
-1971,杜宾护腿,Dober Greaves,mhxx-dex-1.0,6
-1976,杜宾胫甲,Dober Leggings,mhxx-dex-1.0,6
-1981,花纹钢护腿,Damascus Greaves,mhxx-dex-1.0,6
-1986,花纹钢胫甲,Damascus Leggings,mhxx-dex-1.0,6
-1991,花纹钢R护腿,Damascus Greaves R,mhxx-dex-1.0,6
-1996,花纹钢R胫甲,Damascus Leggings R,mhxx-dex-1.0,6
-1999,暗合金靴,Dark Metal Boots,mhxx-dex-1.0,6
-2000,暗合金鞋子,Dark Metal Feet,mhxx-dex-1.0,6
-2002,铬合金靴,Chrome Metal Boots,mhxx-dex-1.0,6
-2004,铬合金鞋子,Chrome Metal Feet,mhxx-dex-1.0,6
-2009,机械S护腿,Artian Greaves S,mhxx-dex-1.0,6
-2014,机械S胫甲,Artian Leggings S,mhxx-dex-1.0,6
-2019,机械R护腿,Artian Greaves R,mhxx-dex-1.0,6
-2024,机械R胫甲,Artian Leggings R,mhxx-dex-1.0,6
-2029,冰牙龙护腿,Barioth Greaves,mhxx-dex-1.0,6
-2034,冰牙龙胫甲,Barioth Leggings,mhxx-dex-1.0,6
-2039,重甲虫护腿,Seltas Greaves,mhxx-dex-1.0,6
-2044,重甲虫胫甲,Seltas Leggings,mhxx-dex-1.0,6
-2049,火龙S护腿,Rathalos Greaves S,mhxx-dex-1.0,6
-2054,火龙S胫甲,Rathalos Leggings S,mhxx-dex-1.0,6
-2059,EX火龙护腿,EX Rathalos Greaves,mhxx-dex-1.0,6
-2064,EX火龙胫甲,EX Rathalos Leggings,mhxx-dex-1.0,6
-2069,火龙R护腿,Rathalos Greaves R,mhxx-dex-1.0,6
-2074,火龙R胫甲,Rathalos Leggings R,mhxx-dex-1.0,6
-2079,海龙S护腿,Lagiacrus Greaves S,mhxx-dex-1.0,6
-2084,海龙S胫甲,Lagiacrus Leggings S,mhxx-dex-1.0,6
-2089,海龙R护腿,Lagiacrus Greaves R,mhxx-dex-1.0,6
-2094,海龙R胫甲,Lagiacrus Leggings R,mhxx-dex-1.0,6
-2099,雷狼龙S护腿,Zinogre Greaves S,mhxx-dex-1.0,6
-2104,雷狼龙S胫甲,Zinogre Leggings S,mhxx-dex-1.0,6
-2109,EX雷狼龙护腿,EX Zinogre Greaves,mhxx-dex-1.0,6
-2114,EX雷狼龙胫甲,EX Zinogre Leggings,mhxx-dex-1.0,6
-2119,铠龙护腿,Gravios Greaves,mhxx-dex-1.0,6
-2124,铠龙胫甲,Gravios Leggings,mhxx-dex-1.0,6
-2129,泡狐龙S护腿,Mizutsune Greaves S,mhxx-dex-1.0,6
-2134,泡狐龙S胫甲,Mizutsune Leggings S,mhxx-dex-1.0,6
-2139,电龙S护腿,Astalos Greaves S,mhxx-dex-1.0,6
-2144,电龙S胫甲,Astalos Leggings S,mhxx-dex-1.0,6
-2149,巨兽S护腿,Gammoth Greaves S,mhxx-dex-1.0,6
-2154,巨兽S胫甲,Gammoth Leggings S,mhxx-dex-1.0,6
-2159,斩龙S护腿,Glavenus Greaves S,mhxx-dex-1.0,6
-2164,斩龙S胫甲,Glavenus Leggings S,mhxx-dex-1.0,6
-2169,炎戈龙护腿,Agnaktor Greaves,mhxx-dex-1.0,6
-2174,炎戈龙胫甲,Agnaktor Leggings,mhxx-dex-1.0,6
-2179,黑蚀龙S护腿,Gore Greaves S,mhxx-dex-1.0,6
-2184,黑蚀龙S胫甲,Gore Leggings S,mhxx-dex-1.0,6
-2189,EX黑蚀龙护腿,EX Gore Greaves,mhxx-dex-1.0,6
-2194,EX黑蚀龙胫甲,EX Gore Leggings,mhxx-dex-1.0,6
-2199,黑蚀龙R护腿,Gore Greaves R,mhxx-dex-1.0,6
-2204,黑蚀龙R胫甲,Gore Leggings R,mhxx-dex-1.0,6
-2209,千刃龙S护腿,Regios Greaves S,mhxx-dex-1.0,6
-2214,千刃龙S胫甲,Regios Leggings S,mhxx-dex-1.0,6
-2219,尾锤龙护腿,Duramboros Greaves,mhxx-dex-1.0,6
-2224,尾锤龙胫甲,Duramboros Leggings,mhxx-dex-1.0,6
-2229,轰龙S护腿,Tigrex Greaves S,mhxx-dex-1.0,6
-2234,轰龙S胫甲,Tigrex Leggings S,mhxx-dex-1.0,6
-2239,EX轰龙护腿,EX Tigrex Greaves,mhxx-dex-1.0,6
-2244,EX轰龙胫甲,EX Tigrex Leggings,mhxx-dex-1.0,6
-2249,轰龙R护腿,Tigrex Greaves R,mhxx-dex-1.0,6
-2254,轰龙R胫甲,Tigrex Leggings R,mhxx-dex-1.0,6
-2259,麒麟S护胫,Kirin Leg Guards S,mhxx-dex-1.0,6
-2264,麒麟S靴,Kirin Boots S,mhxx-dex-1.0,6
-2269,麒麟R护胫,Kirin Leg Guards R,mhxx-dex-1.0,6
-2274,麒麟R靴,Kirin Boots R,mhxx-dex-1.0,6
-2279,碎龙S护腿,Brachydios Greaves S,mhxx-dex-1.0,6
-2284,碎龙S胫甲,Brachy Leggings S,mhxx-dex-1.0,6
-2289,EX碎龙护腿,EX Brachydios Greaves,mhxx-dex-1.0,6
-2294,EX碎龙胫甲,EX Brachydios Leggings,mhxx-dex-1.0,6
-2299,金色下裳,Golden Hakama,mhxx-dex-1.0,6
-2304,黑衣分趾袜,Puppeteer Tabi,mhxx-dex-1.0,6
-2309,恐暴龙护腿,Vangis Greaves,mhxx-dex-1.0,6
-2314,恐暴龙胫甲,Vangis Leggings,mhxx-dex-1.0,6
-2319,公会骑士靴,Guild Knight Boots,mhxx-dex-1.0,6
-2324,公会骑士长袜,Guild Knight Tights,mhxx-dex-1.0,6
-2329,女仆S短袜,Maiden's Socks S,mhxx-dex-1.0,6
-2334,休闲S长袜,French Maid Tights S,mhxx-dex-1.0,6
-2339,公会守卫蓝靴,Blue Guild Boots,mhxx-dex-1.0,6
-2344,公会守卫蓝长袜,Blue Guild Tights,mhxx-dex-1.0,6
-2349,公会守卫蓝靴,Blue Guild Boots,mhxx-dex-1.0,6
-2354,公会守卫蓝长袜,Blue Guild Tights,mhxx-dex-1.0,6
-2359,公会守卫红靴,Red Guild Boots,mhxx-dex-1.0,6
-2364,公会守卫红长袜,Red Guild Tights,mhxx-dex-1.0,6
-2369,公会守卫红靴,Red Guild Boots,mhxx-dex-1.0,6
-2374,公会守卫红长袜,Red Guild Tights,mhxx-dex-1.0,6
-2379,支援者S短袜,Helper Socks S,mhxx-dex-1.0,6
-2384,治疗者S短袜,Healer Socks S,mhxx-dex-1.0,6
-2389,支援者U短袜,Helper Socks U,mhxx-dex-1.0,6
-2394,治疗者U短袜,Healer Socks U,mhxx-dex-1.0,6
-2399,公会诗人S靴,Guild Bard Boots S,mhxx-dex-1.0,6
-2404,公会诗人S鞋子,Guild Bard Gaiters S,mhxx-dex-1.0,6
-2409,三眼脚环,Chakra Anklet,mhxx-dex-1.0,6
-2414,抚子･华【马裤】,Dianthus Wealpants,mhxx-dex-1.0,6
-2419,桔梗･华【马裤】,Campanile Wealpants,mhxx-dex-1.0,6
-2424,王牌护腿,Ace Greaves,mhxx-dex-1.0,6
-2429,王牌胫甲,Ace Leggings,mhxx-dex-1.0,6
-2434,女王护腿,Sororal Greaves,mhxx-dex-1.0,6
-2439,女王胫甲,Sororal Leggings,mhxx-dex-1.0,6
-2444,猎鹰靴,Hawkboots,mhxx-dex-1.0,6
-2449,猎鹰鞋子,Hawkfeet,mhxx-dex-1.0,6
-2454,美食喵S靴,Gourmew Boots S,mhxx-dex-1.0,6
-2459,美食喵S鞋子,Gourmew Paws S,mhxx-dex-1.0,6
-2465,贤者S靴,Scholarly Boots S,mhxx-dex-1.0,6
-2470,贤者S长袜,Scholarly Tights S,mhxx-dex-1.0,6
-2475,城塞游击队【分趾袜】,Ranger's Espadrilles,mhxx-dex-1.0,6
-2480,城塞弓击队【分趾袜】,Archer's Espadrilles,mhxx-dex-1.0,6
-2485,忍者分趾袜･天,Shinobi Heaven Boots,mhxx-dex-1.0,7
-2490,忍者分趾袜･地,Shinobi Land Boots,mhxx-dex-1.0,7
-2495,忍者分趾袜･空,Shinobi Sky Boots,mhxx-dex-1.0,7
-2500,忍者分趾袜･海,Shinobi Sea Boots,mhxx-dex-1.0,7
-2505,龙历士靴,Ancient Boots,mhxx-dex-1.0,7
-2510,龙历士鞋子,Ancient Feet,mhxx-dex-1.0,7
-2515,大师护腿,Master's Greaves,mhxx-dex-1.0,7
-2520,大师胫甲,Master's Leggings,mhxx-dex-1.0,7
-2525,黑色S鞋子,Black Feet S,mhxx-dex-1.0,7
-2530,黑色S双脚,Black Legs S,mhxx-dex-1.0,7
-2535,桐花【腿甲】,Toka Gusoku,mhxx-dex-1.0,7
-2540,三葵【腿甲】,Mitsuaoi Gusoku,mhxx-dex-1.0,7
-2545,聪慧靴,Wisdom Boots,mhxx-dex-1.0,7
-2550,聪慧鞋子,Wisdom Feet,mhxx-dex-1.0,7
-2555,活泼靴,Cheerful Boots,mhxx-dex-1.0,7
-2560,活泼鞋子,Cheerful Feet,mhxx-dex-1.0,7
-2565,海歌短袜,Mariner Socks,mhxx-dex-1.0,7
-2570,海歌凉鞋,Mariner Sandals,mhxx-dex-1.0,7
-2575,EX雌火龙S护腿,EX Rathian Greaves S,mhxx-dex-1.0,7
-2580,EX雌火龙S胫甲,EX Rathian Leggings S,mhxx-dex-1.0,7
-2585,EX火龙S护腿,EX Rathalos Greaves S,mhxx-dex-1.0,7
-2590,EX火龙S胫甲,EX Rathalos Leggings S,mhxx-dex-1.0,7
-2595,EX轰龙S护腿,EX Tigrex Greaves S,mhxx-dex-1.0,7
-2600,EX轰龙S胫甲,EX Tigrex Leggings S,mhxx-dex-1.0,7
-2605,角龙护腿,Diablos Greaves,mhxx-dex-1.0,7
-2610,角龙胫甲,Diablos Leggings,mhxx-dex-1.0,7
-2615,角龙R护腿,Diablos Greaves R,mhxx-dex-1.0,7
-2620,角龙R胫甲,Diablos Leggings R,mhxx-dex-1.0,7
-2625,方舟S护腿,Arc Greaves S,mhxx-dex-1.0,7
-2630,方舟S胫甲,Arc Leggings S,mhxx-dex-1.0,7
-2635,友爱S护腿,Storge Greaves S,mhxx-dex-1.0,7
-2640,友爱S胫甲,Storge Leggings S,mhxx-dex-1.0,7
-2645,EX方舟护腿,EX Arc Greaves,mhxx-dex-1.0,7
-2650,EX方舟胫甲,EX Arc Leggings,mhxx-dex-1.0,7
-2655,EX友爱护腿,EX Storge Greaves,mhxx-dex-1.0,7
-2660,EX友爱胫甲,EX Storge Leggings,mhxx-dex-1.0,7
-2665,方舟R护腿,Arc Greaves R,mhxx-dex-1.0,7
-2670,方舟R胫甲,Arc Leggings R,mhxx-dex-1.0,7
-2675,友爱R护腿,Storge Greaves R,mhxx-dex-1.0,7
-2680,友爱R胫甲,Storge Leggings R,mhxx-dex-1.0,7
-2685,天彗龙护腿,Valstrax Greaves,mhxx-dex-1.0,7
-2690,天彗龙胫甲,Valstrax Leggings,mhxx-dex-1.0,7
-2695,钢龙S踏实,Kushala Crus S,mhxx-dex-1.0,7
-2700,钢龙S勇健,Kushala Shank S,mhxx-dex-1.0,7
-2705,EX钢龙踏实,EX Kushala Crus,mhxx-dex-1.0,7
-2710,EX钢龙勇健,EX Kushala Shank,mhxx-dex-1.0,7
-2715,钢龙R踏实,Kushala Crus R,mhxx-dex-1.0,7
-2720,钢龙R勇健,Kushala Shank R,mhxx-dex-1.0,7
-2725,水行霸【腿甲】,Mizuha Gaiters S,mhxx-dex-1.0,7
-2730,丰玉霸【腿甲】,Cham Trousers S,mhxx-dex-1.0,7
-2735,EX水行【腿甲】,EX Mizuha Gaiters,mhxx-dex-1.0,7
-2740,EX丰玉【腿甲】,EX Cham Trousers,mhxx-dex-1.0,7
-2745,帝王S护腿,Kaiser Greaves S,mhxx-dex-1.0,7
-2750,帝王S胫甲,Kaiser Leggings S,mhxx-dex-1.0,7
-2755,EX帝王护腿,EX Kaiser Greaves,mhxx-dex-1.0,7
-2760,EX帝王胫甲,EX Kaiser Leggings,mhxx-dex-1.0,7
-2765,银白耀日护腿,Silver Solgreaves,mhxx-dex-1.0,7
-2770,银白耀日胫甲,Silver Solleggings,mhxx-dex-1.0,7
-2775,EX银白耀日护腿,EX Silver Solgreaves,mhxx-dex-1.0,7
-2780,EX银白耀日胫甲,EX Silver Solleggings,mhxx-dex-1.0,7
-2785,银白耀日R护腿,Silver Solgreaves R,mhxx-dex-1.0,7
-2790,银白耀日R胫甲,Silver Solleggings R,mhxx-dex-1.0,7
-2795,金黄澄月护腿,Golden Lunegreaves,mhxx-dex-1.0,7
-2800,金黄澄月胫甲,Golden Luneleggings,mhxx-dex-1.0,7
-2805,EX金黄澄月护腿,EX Golden Lunegreaves,mhxx-dex-1.0,7
-2810,EX金黄澄月胫甲,EX Golden Luneleggings,mhxx-dex-1.0,7
-2815,怒天下裳,Divine Ire Hakama,mhxx-dex-1.0,7
-2820,心灭分趾袜,Mind Crusher Tabi,mhxx-dex-1.0,7
-2825,贪婪护腿,Esurient Greaves,mhxx-dex-1.0,7
-2830,贪婪胫甲,Esurient Leggings,mhxx-dex-1.0,7
-2835,贪婪R护腿,Esurient Greaves R,mhxx-dex-1.0,7
-2840,贪婪R胫甲,Esurient Leggings R,mhxx-dex-1.0,7
-2845,霸龙足爪,Akantor Hessian,mhxx-dex-1.0,7
-2850,霸龙坚靴,Akantor Boots,mhxx-dex-1.0,7
-2855,霸龙R足爪,Akantor Hessian R,mhxx-dex-1.0,7
-2860,霸龙R坚靴,Akantor Boots R,mhxx-dex-1.0,7
-2865,崩龙足爪,Ukanlos Hessian,mhxx-dex-1.0,7
-2870,崩龙坚靴,Ukanlos Boots,mhxx-dex-1.0,7
-2875,荒天【下裳】,Tempest Hakama,mhxx-dex-1.0,7
-2880,苍天【下裳】,Welkin Hakama,mhxx-dex-1.0,7
-2885,荒天亚流【下裳】,Tempest Hakama R,mhxx-dex-1.0,7
-2890,苍天亚流【下裳】,Welkin Hakama R,mhxx-dex-1.0,7
-2895,骸装甲･霸【腿骨】,Skeletal Femur R,mhxx-dex-1.0,7
-2900,尸装甲･霸【腿骨】,Decayed Femur R,mhxx-dex-1.0,7
-2905,苍星靴,Astral Boots,mhxx-dex-1.0,7
-2910,苍星鞋子,Astral Feet,mhxx-dex-1.0,7
-2915,煌黑龙碎鳞,Escadora Sheath,mhxx-dex-1.0,7
-2920,煌黑龙古城,Escadora Scala,mhxx-dex-1.0,7
-2925,煌黑龙R碎鳞,Escadora Sheath R,mhxx-dex-1.0,7
-2930,煌黑龙R古城,Escadora Scala R,mhxx-dex-1.0,7
-2947,皮制X护腿,Leather Greaves X,mhxx-dex-1.0,8
-2952,皮制X胫甲,Leather Leggings X,mhxx-dex-1.0,8
-2957,锁甲X护腿,Chainmail Greaves X,mhxx-dex-1.0,8
-2962,锁甲X胫甲,Chainmail Leggings X,mhxx-dex-1.0,8
-2967,贝鲁纳X护腿,Bherna Greaves X,mhxx-dex-1.0,8
-2972,贝鲁纳X胫甲,Bherna Leggings X,mhxx-dex-1.0,8
-2977,狩猎X护腿,Hunting Greaves X,mhxx-dex-1.0,8
-2982,狩猎X胫甲,Hunting Leggings X,mhxx-dex-1.0,8
-2987,毛皮X靴,Mafumofu Boots X,mhxx-dex-1.0,8
-2992,毛皮X长袜,Mafumofu Tights X,mhxx-dex-1.0,8
-2997,结云之下裳･极天,Yukumo Sky Hakama Goku,mhxx-dex-1.0,8
-3002,结云之下裳･极地,Yukumo Land Hakama Goku,mhxx-dex-1.0,8
-3006,最高级泡澡凉鞋,Posh Bath Sandals,mhxx-dex-1.0,8
-3009,石架X靴,Loc Lac Boots X,mhxx-dex-1.0,8
-3014,猎人X护腿,Hunter's Greaves X,mhxx-dex-1.0,8
-3019,猎人X胫甲,Hunter's Leggings X,mhxx-dex-1.0,8
-3024,猎人XR护腿,Hunter's Greaves XR,mhxx-dex-1.0,8
-3029,猎人XR胫甲,Hunter's Leggings XR,mhxx-dex-1.0,8
-3034,骨制X护腿,Bone Greaves X,mhxx-dex-1.0,8
-3039,骨制X胫甲,Bone Leggings X,mhxx-dex-1.0,8
-3040,银合金X靴,Silver Boots X,mhxx-dex-1.0,8
-3041,银合金X鞋子,Metal Feet X,mhxx-dex-1.0,8
-3043,猎手皮护腿X,Trapper's Greaves X,mhxx-dex-1.0,8
-3045,猎手皮长靴X,Trapper's Boots X,mhxx-dex-1.0,8
-3051,跳狗龙王皮护腿X,Maccao Shinguards X,mhxx-dex-1.0,8
-3053,跳狗龙王皮长靴X,Maccao Boots X,mhxx-dex-1.0,8
-3055,狗龙王皮护腿X,Jaggi Shinguards X,mhxx-dex-1.0,8
-3057,狗龙王皮长靴X,Jaggi Boots X,mhxx-dex-1.0,8
-3062,花瓣X扎根,Melahoa Roots X,mhxx-dex-1.0,8
-3067,花瓣X之根,Melahoa Taproot X,mhxx-dex-1.0,8
-3072,花瓣Z扎根,Melahoa Roots Z,mhxx-dex-1.0,8
-3077,花瓣Z之根,Melahoa Taproot Z,mhxx-dex-1.0,8
-3082,鱼鳞X长裤,Makluva Pants X,mhxx-dex-1.0,8
-3087,鱼鳞X鞋,Makluva Leggings X,mhxx-dex-1.0,8
-3092,鱼鳞Z长裤,Makluva Pants Z,mhxx-dex-1.0,8
-3097,鱼鳞Z鞋,Makluva Leggings Z,mhxx-dex-1.0,8
-3102,独角仙X脚,Obituary Crura X,mhxx-dex-1.0,8
-3107,独角仙X足,Obituary Tarsi X,mhxx-dex-1.0,8
-3112,燕尾蝶X脚,Butterfly Crura X,mhxx-dex-1.0,8
-3117,燕尾蝶X足,Butterfly Tarsi X,mhxx-dex-1.0,8
-3122,死神X脚跟,Death Stench Heel X,mhxx-dex-1.0,8
-3127,死神X意志,Death Stench March X,mhxx-dex-1.0,8
-3132,死神XR脚跟,Death Stench Heel XR,mhxx-dex-1.0,8
-3137,死神XR意志,Death Stench March XR,mhxx-dex-1.0,8
-3146,南瓜X扎根,Mosgharl Roots X,mhxx-dex-1.0,8
-3151,南瓜X之根,Mosgharl Radicles X,mhxx-dex-1.0,8
-3156,雪绒花X扎根,Edel Roots X,mhxx-dex-1.0,8
-3161,雪绒花X之根,Edel Radicles X,mhxx-dex-1.0,8
-3166,毒蝎X脚,Skalda Crura X,mhxx-dex-1.0,8
-3171,毒蝎X足,Skalda Tarsi X,mhxx-dex-1.0,8
-3176,毒蛛X脚,Spio Crura X,mhxx-dex-1.0,8
-3181,毒蛛X足,Spio Tarsi X,mhxx-dex-1.0,8
-3186,合金X护腿,Alloy Greaves X,mhxx-dex-1.0,8
-3191,合金X胫甲,Alloy Leggings X,mhxx-dex-1.0,8
-3196,合金XR护腿,Alloy Greaves XR,mhxx-dex-1.0,8
-3201,合金XR胫甲,Alloy Leggings XR,mhxx-dex-1.0,8
-3206,战斗X护腿,Battle Greaves X,mhxx-dex-1.0,8
-3211,战斗X胫甲,Battle Leggings X,mhxx-dex-1.0,8
-3216,铸铁X护腿,Ingot Greaves X,mhxx-dex-1.0,8
-3221,铸铁X胫甲,Ingot Leggings X,mhxx-dex-1.0,8
-3226,铸铁XR护腿,Ingot Greaves XR,mhxx-dex-1.0,8
-3231,铸铁XR胫甲,Ingot Leggings XR,mhxx-dex-1.0,8
-3236,矿石X护腿,High Metal Greaves X,mhxx-dex-1.0,8
-3241,矿石X胫甲,Hi Metal Leggings X,mhxx-dex-1.0,8
-3246,矿石Z护腿,High Metal Greaves Z,mhxx-dex-1.0,8
-3251,矿石Z胫甲,Hi Metal Leggings Z,mhxx-dex-1.0,8
-3252,粉红合金X靴,Pink Metal Boots X,mhxx-dex-1.0,8
-3253,粉红合金X鞋子,Pink Metal Feet X,mhxx-dex-1.0,8
-3258,龙虾X靴,Lobster Boots X,mhxx-dex-1.0,8
-3263,龙虾X鞋子,Lobster Feet X,mhxx-dex-1.0,8
-3268,海境X护腿,Vaik Greaves X,mhxx-dex-1.0,8
-3273,海境X胫甲,Vaik Leggings X,mhxx-dex-1.0,8
-3284,糕点师X靴,Patissier's Boots X,mhxx-dex-1.0,8
-3289,糕点师X鞋子,Patissier's Footwear X,mhxx-dex-1.0,8
-3294,美食喵X靴,Gourmew Boots X,mhxx-dex-1.0,8
-3299,美食喵X鞋子,Gourmew Paws X,mhxx-dex-1.0,8
-3304,锹形X脚,Aelucanth Crura X,mhxx-dex-1.0,8
-3309,锹形X足,Aelucanth Tarsi X,mhxx-dex-1.0,8
-3314,凤蝶X脚,Rhopessa Crura X,mhxx-dex-1.0,8
-3319,凤蝶X足,Rhopessa Tarsi X,mhxx-dex-1.0,8
-3324,求知X靴,Lecturer's Boots X,mhxx-dex-1.0,8
-3329,求知X鞋子,Lecturer's Footwear X,mhxx-dex-1.0,8
-3334,勇气X护腿,Derring Greaves X,mhxx-dex-1.0,8
-3339,勇气X胫甲,Derring Leggings X,mhxx-dex-1.0,8
-3344,机械X护腿,Artian Greaves X,mhxx-dex-1.0,8
-3349,机械X胫甲,Artian Leggings X,mhxx-dex-1.0,8
-3354,机械XR护腿,Artian Greaves XR,mhxx-dex-1.0,8
-3359,机械XR胫甲,Artian Leggings XR,mhxx-dex-1.0,8
-3364,女仆X短袜,Maiden's Socks X,mhxx-dex-1.0,8
-3369,休闲X长袜,French Maid Tights X,mhxx-dex-1.0,8
-3374,抚子･雅【马裤】,Dianthus Masapants,mhxx-dex-1.0,8
-3379,桔梗･雅【马裤】,Campanile Masapants,mhxx-dex-1.0,8
-3384,猎鹰X靴,Hawkboots X,mhxx-dex-1.0,8
-3389,猎鹰X鞋子,Hawkfeet X,mhxx-dex-1.0,8
-3394,贤者X靴,Scholarly Boots X,mhxx-dex-1.0,8
-3399,贤者X长袜,Scholarly Tights X,mhxx-dex-1.0,8
-3404,杜宾X护腿,Dober Greaves X,mhxx-dex-1.0,8
-3409,杜宾X胫甲,Dober Leggings X,mhxx-dex-1.0,8
-3414,学士X短袜,Scholar's Socks X,mhxx-dex-1.0,8
-3419,学士X凉鞋,Scholar's Sandals X,mhxx-dex-1.0,8
-3424,水手X短袜,Sailor Socks X,mhxx-dex-1.0,8
-3429,水手X凉鞋,Sailor Sandals X,mhxx-dex-1.0,8
-3434,海歌X短袜,Mariner Socks X,mhxx-dex-1.0,8
-3439,海歌X凉鞋,Mariner Sandals X,mhxx-dex-1.0,8
-3448,狗龙X护腿,Jaggi Greaves X,mhxx-dex-1.0,8
-3453,狗龙X胫甲,Jaggi Leggings X,mhxx-dex-1.0,8
-3459,跳狗龙X护腿,Maccao Greaves X,mhxx-dex-1.0,8
-3464,跳狗龙X胫甲,Maccao Leggings X,mhxx-dex-1.0,8
-3469,蓝速龙X护腿,Velociprey Greaves X,mhxx-dex-1.0,8
-3474,蓝速龙X胫甲,Velociprey Leggings X,mhxx-dex-1.0,8
-3479,白速龙X护腿,Giaprey Greaves X,mhxx-dex-1.0,8
-3484,白速龙X胫甲,Giaprey Leggings X,mhxx-dex-1.0,8
-3489,黄速龙X护腿,Genprey Greaves X,mhxx-dex-1.0,8
-3494,黄速龙X胫甲,Genprey Leggings X,mhxx-dex-1.0,8
-3499,GX黄速龙护腿,Genprey Greaves GX,mhxx-dex-1.0,8
-3504,GX黄速龙胫甲,Genprey Leggings GX,mhxx-dex-1.0,8
-3509,巨蜂X护腿,Vespoid Greaves X,mhxx-dex-1.0,8
-3514,巨蜂X胫甲,Vespoid Leggings X,mhxx-dex-1.0,8
-3519,GX巨蜂护腿,Vespoid Greaves GX,mhxx-dex-1.0,8
-3524,GX巨蜂胫甲,Vespoid Leggings GX,mhxx-dex-1.0,8
-3529,巨甲虫X护腿,Hornetaur Greaves X,mhxx-dex-1.0,8
-3534,巨甲虫X胫甲,Hornetaur Leggings X,mhxx-dex-1.0,8
-3539,GX巨甲虫护腿,Hornetaur Greaves GX,mhxx-dex-1.0,8
-3544,GX巨甲虫胫甲,Hornetaur Leggings GX,mhxx-dex-1.0,8
-3549,巨甲虫XR护腿,Hornetaur Greaves XR,mhxx-dex-1.0,8
-3554,巨甲虫XR胫甲,Hornetaur Leggings XR,mhxx-dex-1.0,8
-3559,飞甲虫X靴,Bnahabra Boots X,mhxx-dex-1.0,8
-3564,飞甲虫X鞋子,Bnahabra Pants X,mhxx-dex-1.0,8
-3573,蘑菇猪X鞋子,Mosswine Feet X,mhxx-dex-1.0,8
-3578,硬甲龙X护腿,Rhenoplos Greaves X,mhxx-dex-1.0,8
-3583,硬甲龙X胫甲,Rhenoplos Leggings X,mhxx-dex-1.0,8
-3588,野猪X护腿,Bulldrome Greaves X,mhxx-dex-1.0,8
-3593,野猪X胫甲,Bulldrome Leggings X,mhxx-dex-1.0,8
-3599,青熊兽X护腿,Arzuros Greaves X,mhxx-dex-1.0,8
-3604,青熊兽X胫甲,Arzuros Leggings X,mhxx-dex-1.0,8
-3609,砂龙X护腿,Cephalos Greaves X,mhxx-dex-1.0,8
-3614,砂龙X胫甲,Cephalos Leggings X,mhxx-dex-1.0,8
-3619,GX砂龙护腿,Cephalos Greaves GX,mhxx-dex-1.0,8
-3624,GX砂龙胫甲,Cephalos Leggings GX,mhxx-dex-1.0,8
-3627,水生兽X护腿,Droth Greaves X,mhxx-dex-1.0,8
-3630,水生兽X胫甲,Droth Leggings X,mhxx-dex-1.0,8
-3648,蓝速龙套装X鞋子,Velociprey Feet X,mhxx-dex-1.0,8
-3652,蓝速龙套装X长袜,Velociprey Tights X,mhxx-dex-1.0,8
-3656,白速龙套装X鞋子,Giaprey Feet X,mhxx-dex-1.0,8
-3660,白速龙套装X长袜,Giaprey Tights X,mhxx-dex-1.0,8
-3664,黄速龙套装X鞋子,Genprey Feet X,mhxx-dex-1.0,8
-3668,黄速龙套装X长袜,Genprey Tights X,mhxx-dex-1.0,8
-3672,红速龙套装X鞋子,Ioprey Feet X,mhxx-dex-1.0,8
-3676,红速龙套装X长袜,Ioprey Tights X,mhxx-dex-1.0,8
-3681,蛇龙套装X鞋子,Remobra Feet X,mhxx-dex-1.0,8
-3686,蛇龙套装X长袜,Remobra Tights X,mhxx-dex-1.0,8
-3691,红速龙X护腿,Ioprey Greaves X,mhxx-dex-1.0,8
-3696,红速龙X胫甲,Ioprey Leggings X,mhxx-dex-1.0,8
-3701,GX红速龙护腿,Ioprey Greaves GX,mhxx-dex-1.0,8
-3706,GX红速龙胫甲,Ioprey Leggings GX,mhxx-dex-1.0,8
-3711,怪鸟X护腿,Kut-Ku Greaves X,mhxx-dex-1.0,8
-3716,怪鸟X胫甲,Kut-Ku Leggings X,mhxx-dex-1.0,8
-3721,奇猿狐X护腿,Kecha Greaves X,mhxx-dex-1.0,8
-3726,奇猿狐X胫甲,Kecha Leggings X,mhxx-dex-1.0,8
-3731,白兔兽X护腿,Lagombi Greaves X,mhxx-dex-1.0,8
-3736,白兔兽X胫甲,Lagombi Leggings X,mhxx-dex-1.0,8
-3741,毒怪鸟X护腿,Gypceros Greaves X,mhxx-dex-1.0,8
-3746,毒怪鸟X胫甲,Gypceros Leggings X,mhxx-dex-1.0,8
-3751,毒怪鸟XR护腿,Gypceros Greaves XR,mhxx-dex-1.0,8
-3756,毒怪鸟XR胫甲,Gypceros Leggings XR,mhxx-dex-1.0,8
-3761,鬼蛙X护腿,Tetsucabra Greaves X,mhxx-dex-1.0,8
-3766,鬼蛙X胫甲,Tetsucabra Leggings X,mhxx-dex-1.0,8
-3771,大名盾蟹X护腿,Hermitaur Greaves X,mhxx-dex-1.0,8
-3776,大名盾蟹X胫甲,Hermitaur Leggings X,mhxx-dex-1.0,8
-3781,GX大名盾蟹护腿,Hermitaur Greaves GX,mhxx-dex-1.0,8
-3786,GX大名盾蟹胫甲,Hermitaur Leggings GX,mhxx-dex-1.0,8
-3791,大名盾蟹XR护腿,Hermitaur Greaves XR,mhxx-dex-1.0,8
-3796,大名盾蟹XR胫甲,Hermitaur Leggings XR,mhxx-dex-1.0,8
-3801,赤甲兽X护腿,Volvidon Greaves X,mhxx-dex-1.0,8
-3806,赤甲兽X胫甲,Volvidon Leggings X,mhxx-dex-1.0,8
-3811,桃毛兽王X护腿,Conga Greaves X,mhxx-dex-1.0,8
-3816,桃毛兽王X胫甲,Conga Leggings X,mhxx-dex-1.0,8
-3821,GX桃毛兽王护腿,Conga Greaves GX,mhxx-dex-1.0,8
-3826,GX桃毛兽王胫甲,Conga Leggings GX,mhxx-dex-1.0,8
-3831,水兽X护腿,Ludroth Greaves X,mhxx-dex-1.0,8
-3836,水兽X胫甲,Ludroth Leggings X,mhxx-dex-1.0,8
-3841,水兽XR护腿,Ludroth Greaves XR,mhxx-dex-1.0,8
-3846,水兽XR胫甲,Ludroth Leggings XR,mhxx-dex-1.0,8
-3851,土砂龙X护腿,Barroth Greaves X,mhxx-dex-1.0,8
-3856,土砂龙X胫甲,Barroth Leggings X,mhxx-dex-1.0,8
-3861,岩龙X护腿,Basarios Greaves X,mhxx-dex-1.0,8
-3866,岩龙X胫甲,Basarios Leggings X,mhxx-dex-1.0,8
-3871,夜鸟X护腿,Malfestio Greaves X,mhxx-dex-1.0,8
-3876,夜鸟X胫甲,Malfestio Leggings X,mhxx-dex-1.0,8
-3881,变形冰鲨X护腿,Zamtrios Greaves X,mhxx-dex-1.0,8
-3886,变形冰鲨X胫甲,Zamtrios Leggings X,mhxx-dex-1.0,8
-3891,白电X护腿,Khezu Greaves X,mhxx-dex-1.0,8
-3896,白电X胫甲,Khezu Leggings X,mhxx-dex-1.0,8
-3901,白电XR护腿,Khezu Greaves XR,mhxx-dex-1.0,8
-3906,白电XR胫甲,Khezu Leggings XR,mhxx-dex-1.0,8
-3911,影蜘蛛X护腿,Nerscylla Greaves X,mhxx-dex-1.0,8
-3916,影蜘蛛X胫甲,Nerscylla Leggings X,mhxx-dex-1.0,8
-3921,雌火龙X护腿,Rathian Greaves X,mhxx-dex-1.0,8
-3926,雌火龙X胫甲,Rathian Leggings X,mhxx-dex-1.0,8
-3931,GX雌火龙护腿,Rathian Greaves GX,mhxx-dex-1.0,8
-3936,GX雌火龙胫甲,Rathian Leggings GX,mhxx-dex-1.0,8
-3941,雌火龙XR护腿,Rathian Greaves XR,mhxx-dex-1.0,8
-3946,雌火龙XR胫甲,Rathian Leggings XR,mhxx-dex-1.0,8
-3951,潜口龙X护腿,Nibelsnarf Greaves X,mhxx-dex-1.0,8
-3956,潜口龙X胫甲,Nibelsnarf Leggings X,mhxx-dex-1.0,8
-3960,水龙X护腿,Plesioth Greaves X,mhxx-dex-1.0,8
-3965,水龙X胫甲,Plesioth Leggings X,mhxx-dex-1.0,8
-3970,雪狮子X护腿,Blango Greaves X,mhxx-dex-1.0,8
-3975,雪狮子X胫甲,Blango Leggings X,mhxx-dex-1.0,8
-3980,GX雪狮子护腿,Blango Greaves GX,mhxx-dex-1.0,8
-3985,GX雪狮子胫甲,Blango Leggings GX,mhxx-dex-1.0,8
-3990,熔岩龙X护腿,Lava Greaves X,mhxx-dex-1.0,8
-3995,熔岩龙X胫甲,Lava Leggings X,mhxx-dex-1.0,8
-4000,GX熔岩龙护腿,Lavasioth Greaves GX,mhxx-dex-1.0,8
-4005,GX熔岩龙胫甲,Lavasioth Leggings GX,mhxx-dex-1.0,8
-4010,将军镰蟹X护腿,Ceanataur Greaves X,mhxx-dex-1.0,8
-4015,将军镰蟹X胫甲,Ceanataur Leggings X,mhxx-dex-1.0,8
-4020,GX将军镰蟹护腿,Ceanataur Greaves GX,mhxx-dex-1.0,8
-4025,GX将军镰蟹胫甲,Ceanataur Leggings GX,mhxx-dex-1.0,8
-4030,将军镰蟹XR护腿,Ceanataur Greaves XR,mhxx-dex-1.0,8
-4035,将军镰蟹XR胫甲,Ceanataur Leggings XR,mhxx-dex-1.0,8
-4040,绞蛇龙X护腿,Najarala Greaves X,mhxx-dex-1.0,8
-4045,绞蛇龙X胫甲,Najarala Leggings X,mhxx-dex-1.0,8
-4050,迅龙X护腿,Nargacuga Greaves X,mhxx-dex-1.0,8
-4055,迅龙X胫甲,Nargacuga Leggings X,mhxx-dex-1.0,8
-4060,黑狼鸟X护腿,Garuga Greaves X,mhxx-dex-1.0,8
-4065,黑狼鸟X胫甲,Garuga Leggings X,mhxx-dex-1.0,8
-4071,爆锤龙X护腿,Uragaan Greaves X,mhxx-dex-1.0,8
-4076,爆锤龙X胫甲,Uragaan Leggings X,mhxx-dex-1.0,8
-4080,GX北极星【下裳】,GX Kita Star Hakama,mhxx-dex-1.0,8
-4084,GX海渊【下裳】,GX Umi Ocean Hakama,mhxx-dex-1.0,8
-4089,公会骑士X靴,G. Knight Boots X,mhxx-dex-1.0,8
-4094,公会骑士X长袜,G. Knight Tights X,mhxx-dex-1.0,8
-4099,公会诗人X靴,Guild Bard Boots X,mhxx-dex-1.0,8
-4104,公会诗人X鞋子,Guild Bard Gaiters X,mhxx-dex-1.0,8
-4105,暗合金X靴,Dark Metal Boots X,mhxx-dex-1.0,8
-4106,暗合金X鞋子,Dark Metal Feet X,mhxx-dex-1.0,8
-4108,铬合金X靴,Chrome Metal Boots X,mhxx-dex-1.0,8
-4110,铬合金X鞋子,Chrome Metal Feet X,mhxx-dex-1.0,8
-4116,支援者X短袜,Helper Socks X,mhxx-dex-1.0,9
-4121,治疗者X短袜,Healer Socks X,mhxx-dex-1.0,9
-4126,支援者Z短袜,Helper Socks Z,mhxx-dex-1.0,9
-4131,治疗者Z短袜,Healer Socks Z,mhxx-dex-1.0,9
-4136,龙历士X靴,Ancient Boots X,mhxx-dex-1.0,9
-4141,龙历士X鞋子,Ancient Feet X,mhxx-dex-1.0,9
-4146,王牌X护腿,Ace Greaves X,mhxx-dex-1.0,9
-4151,王牌X胫甲,Ace Leggings X,mhxx-dex-1.0,9
-4156,女王X护腿,Sororal Greaves X,mhxx-dex-1.0,9
-4161,女王X胫甲,Sororal Leggings X,mhxx-dex-1.0,9
-4166,城塞特攻队【分趾袜】,Strider's Espadrilles,mhxx-dex-1.0,9
-4171,城塞隐蔽队【分趾袜】,Deadeye's Espadrilles,mhxx-dex-1.0,9
-4176,忍者分趾袜･极天,Shinobi Heaven Boots Goku,mhxx-dex-1.0,9
-4181,忍者分趾袜･极地,Shinobi Land Boots Goku,mhxx-dex-1.0,9
-4186,大师X护腿,Master's Greaves X,mhxx-dex-1.0,9
-4191,大师X胫甲,Master's Leggings X,mhxx-dex-1.0,9
-4196,桐花･真【腿甲】,Grand Toka Gusoku,mhxx-dex-1.0,9
-4201,三葵･真【腿甲】,Grand Mitsuaoi Gusoku,mhxx-dex-1.0,9
-4206,夜叉【尊足】,Yaksha Boots,mhxx-dex-1.0,9
-4211,修罗【尊足】,Carnage Boots,mhxx-dex-1.0,9
-4216,太阳神X护腿,Helios Greaves X,mhxx-dex-1.0,9
-4221,太阳神X胫甲,Helios Leggings X,mhxx-dex-1.0,9
-4226,月神X护腿,Selene Greaves X,mhxx-dex-1.0,9
-4231,月神X胫甲,Selene Leggings X,mhxx-dex-1.0,9
-4236,聪慧X靴,Wisdom Boots X,mhxx-dex-1.0,9
-4241,聪慧X鞋子,Wisdom Feet X,mhxx-dex-1.0,9
-4246,探究靴,Research Boots,mhxx-dex-1.0,9
-4251,探究长袜,Research Tights,mhxx-dex-1.0,9
-4256,活泼X靴,Cheerful Boots X,mhxx-dex-1.0,9
-4261,活泼X鞋子,Cheerful Feet X,mhxx-dex-1.0,9
-4266,冰牙龙X护腿,Barioth Greaves X,mhxx-dex-1.0,9
-4271,冰牙龙X胫甲,Barioth Leggings X,mhxx-dex-1.0,9
-4276,重甲虫X护腿,Seltas Greaves X,mhxx-dex-1.0,9
-4281,重甲虫X胫甲,Seltas Leggings X,mhxx-dex-1.0,9
-4286,火龙X护腿,Rathalos Greaves X,mhxx-dex-1.0,9
-4291,火龙X胫甲,Rathalos Leggings X,mhxx-dex-1.0,9
-4296,GX火龙护腿,Rathalos Greaves GX,mhxx-dex-1.0,9
-4301,GX火龙胫甲,Rathalos Leggings GX,mhxx-dex-1.0,9
-4306,火龙XR护腿,Rathalos Greaves XR,mhxx-dex-1.0,9
-4311,火龙XR胫甲,Rathalos Leggings XR,mhxx-dex-1.0,9
-4316,海龙X护腿,Lagiacrus Greaves X,mhxx-dex-1.0,9
-4321,海龙X胫甲,Lagiacrus Leggings X,mhxx-dex-1.0,9
-4326,海龙XR护腿,Lagiacrus Greaves XR,mhxx-dex-1.0,9
-4331,海龙XR胫甲,Lagiacrus Leggings XR,mhxx-dex-1.0,9
-4336,雷狼龙X护腿,Zinogre Greaves X,mhxx-dex-1.0,9
-4341,雷狼龙X胫甲,Zinogre Leggings X,mhxx-dex-1.0,9
-4346,GX雷狼龙护腿,Zinogre Greaves GX,mhxx-dex-1.0,9
-4351,GX雷狼龙胫甲,Zinogre Leggings GX,mhxx-dex-1.0,9
-4356,铠龙X护腿,Gravios Greaves X,mhxx-dex-1.0,9
-4361,铠龙X胫甲,Gravios Leggings X,mhxx-dex-1.0,9
-4366,泡狐龙X护腿,Mizutsune Greaves X,mhxx-dex-1.0,9
-4371,泡狐龙X胫甲,Mizutsune Leggings X,mhxx-dex-1.0,9
-4376,电龙X护腿,Astalos Greaves X,mhxx-dex-1.0,9
-4381,电龙X胫甲,Astalos Leggings X,mhxx-dex-1.0,9
-4386,巨兽X护腿,Gammoth Greaves X,mhxx-dex-1.0,9
-4391,巨兽X胫甲,Gammoth Leggings X,mhxx-dex-1.0,9
-4396,斩龙X护腿,Glavenus Greaves X,mhxx-dex-1.0,9
-4401,斩龙X胫甲,Glavenus Leggings X,mhxx-dex-1.0,9
-4406,炎戈龙X护腿,Agnaktor Greaves X,mhxx-dex-1.0,9
-4411,炎戈龙X胫甲,Agnaktor Leggings X,mhxx-dex-1.0,9
-4416,黑蚀龙X护腿,Gore Greaves X,mhxx-dex-1.0,9
-4421,黑蚀龙X胫甲,Gore Leggings X,mhxx-dex-1.0,9
-4426,GX黑蚀龙护腿,Gore Greaves GX,mhxx-dex-1.0,9
-4431,GX黑蚀龙胫甲,Gore Leggings GX,mhxx-dex-1.0,9
-4436,黑蚀龙XR护腿,Gore Greaves XR,mhxx-dex-1.0,9
-4441,黑蚀龙XR胫甲,Gore Leggings XR,mhxx-dex-1.0,9
-4446,千刃龙X护腿,Regios Greaves X,mhxx-dex-1.0,9
-4451,千刃龙X胫甲,Regios Leggings X,mhxx-dex-1.0,9
-4456,尾锤龙X护腿,Duramboros Greaves X,mhxx-dex-1.0,9
-4461,尾锤龙X胫甲,Duramboros Leggings X,mhxx-dex-1.0,9
-4466,轰龙X护腿,Tigrex Greaves X,mhxx-dex-1.0,9
-4471,轰龙X胫甲,Tigrex Leggings X,mhxx-dex-1.0,9
-4476,GX轰龙护腿,Tigrex Greaves GX,mhxx-dex-1.0,9
-4481,GX轰龙胫甲,Tigrex Leggings GX,mhxx-dex-1.0,9
-4486,轰龙XR护腿,Tigrex Greaves XR,mhxx-dex-1.0,9
-4491,轰龙XR胫甲,Tigrex Leggings XR,mhxx-dex-1.0,9
-4496,角龙X护腿,Diablos Greaves X,mhxx-dex-1.0,9
-4501,角龙X胫甲,Diablos Leggings X,mhxx-dex-1.0,9
-4506,角龙XR护腿,Diablos Greaves XR,mhxx-dex-1.0,9
-4511,角龙XR胫甲,Diablos Leggings XR,mhxx-dex-1.0,9
-4516,麒麟X护胫,Kirin Leg Guards X,mhxx-dex-1.0,9
-4521,麒麟X靴,Kirin Boots X,mhxx-dex-1.0,9
-4526,麒麟XR护胫,Kirin Leg Guards XR,mhxx-dex-1.0,9
-4531,麒麟XR靴,Kirin Boots XR,mhxx-dex-1.0,9
-4536,碎龙X护腿,Brachydios Greaves X,mhxx-dex-1.0,9
-4541,碎龙X胫甲,Brachydios Leggings X,mhxx-dex-1.0,9
-4546,GX碎龙护腿,Brachydios Greaves GX,mhxx-dex-1.0,9
-4551,GX碎龙胫甲,Brachydios Leggings GX,mhxx-dex-1.0,9
-4556,方舟X护腿,Arc Greaves X,mhxx-dex-1.0,9
-4561,方舟X胫甲,Arc Leggings X,mhxx-dex-1.0,9
-4566,友爱X护腿,Storge Greaves X,mhxx-dex-1.0,9
-4571,友爱X胫甲,Storge Leggings X,mhxx-dex-1.0,9
-4576,GX方舟护腿,Arc Greaves GX,mhxx-dex-1.0,9
-4581,GX方舟胫甲,Arc Leggings GX,mhxx-dex-1.0,9
-4586,GX友爱护腿,Storge Greaves GX,mhxx-dex-1.0,9
-4591,GX友爱胫甲,Storge Leggings GX,mhxx-dex-1.0,9
-4596,方舟XR护腿,Arc Greaves XR,mhxx-dex-1.0,9
-4601,方舟XR胫甲,Arc Leggings XR,mhxx-dex-1.0,9
-4606,友爱XR护腿,Storge Greaves XR,mhxx-dex-1.0,9
-4611,友爱XR胫甲,Storge Leggings XR,mhxx-dex-1.0,9
-4616,天彗龙X护腿,Valstrax Greaves X,mhxx-dex-1.0,9
-4621,天彗龙X胫甲,Valstrax Leggings X,mhxx-dex-1.0,9
-4626,齐天腿甲･真,Grand God's Peer Feet,mhxx-dex-1.0,9
-4631,仙师腿甲･真,Grand Hermit Feet,mhxx-dex-1.0,9
-4636,恐暴龙X护腿,Vangis Greaves X,mhxx-dex-1.0,9
-4641,恐暴龙X胫甲,Vangis Leggings X,mhxx-dex-1.0,9
-4646,混沌护腿,Chaos Greaves,mhxx-dex-1.0,9
-4651,混沌胫甲,Chaos Leggings,mhxx-dex-1.0,9
-4656,堕天护腿,Nephilim Greaves,mhxx-dex-1.0,9
-4661,堕天胫甲,Nephilim Leggings,mhxx-dex-1.0,9
-4666,黑带X护腿,Black Belt Greaves X,mhxx-dex-1.0,9
-4671,黑带X胫甲,Black Belt Leggings X,mhxx-dex-1.0,9
-4676,守护者X靴,Guardian Boots X,mhxx-dex-1.0,9
-4681,守护者X鞋子,Guardian Pants X,mhxx-dex-1.0,9
-4686,守护者Z靴,Guardian Boots Z,mhxx-dex-1.0,9
-4691,守护者Z鞋子,Guardian Pants Z,mhxx-dex-1.0,9
-4696,公会守卫X蓝靴,Blue Guild Boots X,mhxx-dex-1.0,9
-4701,公会守卫X蓝长袜,Blue Guild Tights X,mhxx-dex-1.0,9
-4706,公会守卫X蓝靴,Blue Guild Boots X,mhxx-dex-1.0,9
-4711,公会守卫X蓝长袜,Blue Guild Tights X,mhxx-dex-1.0,9
-4716,公会守卫X红靴,Red Guild Boots X,mhxx-dex-1.0,9
-4721,公会守卫X红长袜,Red Guild Tights X,mhxx-dex-1.0,9
-4726,公会守卫X红靴,Red Guild Boots X,mhxx-dex-1.0,9
-4731,公会守卫X红长袜,Red Guild Tights X,mhxx-dex-1.0,9
-4736,黑色X鞋子,Black Feet X,mhxx-dex-1.0,9
-4741,黑色X双脚,Black Legs X,mhxx-dex-1.0,9
-4746,花纹钢X护腿,Damascus Greaves X,mhxx-dex-1.0,9
-4751,花纹钢X胫甲,Damascus Leggings X,mhxx-dex-1.0,9
-4756,花纹钢XR护腿,Damascus Greaves XR,mhxx-dex-1.0,9
-4761,花纹钢XR胫甲,Damascus Leggings XR,mhxx-dex-1.0,9
-4768,王后护腿,Kaiserin Greaves,mhxx-dex-1.0,9
-4773,王后胫甲,Kaiserin Leggings,mhxx-dex-1.0,9
-4778,酒吧主人靴,Barmaid's Boots,mhxx-dex-1.0,9
-4783,酒吧主人长袜,Barmaid's Tights,mhxx-dex-1.0,9
-4788,酒保靴,Barman's Boots,mhxx-dex-1.0,9
-4793,酒保鞋子,Barman's Pants,mhxx-dex-1.0,9
-4804,钢龙X踏实,Kushala Crus X,mhxx-dex-1.0,10
-4809,钢龙X勇健,Kushala Shank X,mhxx-dex-1.0,10
-4814,GX钢龙踏实,Kushala Crus GX,mhxx-dex-1.0,10
-4819,GX钢龙勇健,Kushala Shank GX,mhxx-dex-1.0,10
-4824,钢龙XR踏实,Kushala Crus XR,mhxx-dex-1.0,10
-4829,钢龙XR勇健,Kushala Shank XR,mhxx-dex-1.0,10
-4834,水行真【腿甲】,Grand Mizuha Leg Wrap,mhxx-dex-1.0,10
-4839,丰玉真【腿甲】,Grand Cham Trousers,mhxx-dex-1.0,10
-4844,GX水行【腿甲】,Mizuha Gaiters GX,mhxx-dex-1.0,10
-4849,GX丰玉【腿甲】,Cham Trousers GX,mhxx-dex-1.0,10
-4854,帝王X护腿,Kaiser Greaves X,mhxx-dex-1.0,10
-4859,帝王X胫甲,Kaiser Leggings X,mhxx-dex-1.0,10
-4864,GX帝王护腿,Kaiser Greaves GX,mhxx-dex-1.0,10
-4869,GX帝王胫甲,Kaiser Leggings GX,mhxx-dex-1.0,10
-4874,银白耀日Z护腿,Silver Solgreaves Z,mhxx-dex-1.0,10
-4879,银白耀日Z胫甲,Silver Solleggings Z,mhxx-dex-1.0,10
-4884,GX银白耀日护腿,GX Silver Solgreaves,mhxx-dex-1.0,10
-4889,GX银白耀日胫甲,GX Silver Solleggings,mhxx-dex-1.0,10
-4894,银白耀日XR护腿,Silver Solgreaves XR,mhxx-dex-1.0,10
-4899,银白耀日XR胫甲,Silver Solleggings XR,mhxx-dex-1.0,10
-4904,金黄澄月Z护腿,Golden Lunegreaves Z,mhxx-dex-1.0,10
-4909,金黄澄月Z胫甲,Golden Luneleggings Z,mhxx-dex-1.0,10
-4914,GX金黄澄月护腿,GX Gold Lunegreaves,mhxx-dex-1.0,10
-4919,GX金黄澄月胫甲,GX Gold Luneleggings,mhxx-dex-1.0,10
-4924,怒天下裳･真,Grand Divine Ire Hakama,mhxx-dex-1.0,10
-4929,心灭分趾袜･真,Grand Mind Crusher Tabi,mhxx-dex-1.0,10
-4934,贪婪Z护腿,Esurient Greaves Z,mhxx-dex-1.0,10
-4939,贪婪Z胫甲,Esurient Leggings Z,mhxx-dex-1.0,10
-4944,贪婪XR护腿,Esurient Greaves XR,mhxx-dex-1.0,10
-4949,贪婪XR胫甲,Esurient Leggings XR,mhxx-dex-1.0,10
-4954,铁腕护腿,Brachydium Greaves,mhxx-dex-1.0,10
-4959,铁腕胫甲,Brachydium Leggings,mhxx-dex-1.0,10
-4964,晓丸【腿甲】,Auroros Pants,mhxx-dex-1.0,10
-4969,曙丸【腿甲】,Genesis Pants,mhxx-dex-1.0,10
-4974,凛【下裳】,Borealis Hakama,mhxx-dex-1.0,10
-4979,艳【下裳】,Glyph Hakama,mhxx-dex-1.0,10
-4984,GX晓丸【腿甲】,Auroros Pants GX,mhxx-dex-1.0,10
-4989,GX曙丸【腿甲】,Genesis Pants GX,mhxx-dex-1.0,10
-4994,GX凛【下裳】,Borealis Hakama GX,mhxx-dex-1.0,10
-4999,GX艳【下裳】,Glyph Hakama GX,mhxx-dex-1.0,10
-5004,晓丸战流【腿甲】,Auroros Pants XR,mhxx-dex-1.0,10
-5009,曙丸战流【腿甲】,Genesis Pants XR,mhxx-dex-1.0,10
-5014,凛战流【下裳】,Borealis Hakama XR,mhxx-dex-1.0,10
-5019,艳战流【下裳】,Glyph Hakama XR,mhxx-dex-1.0,10
-5024,晓丸亚流【腿甲】,Auroros Pants R,mhxx-dex-1.0,10
-5029,曙丸亚流【腿甲】,Genesis Pants R,mhxx-dex-1.0,10
-5034,凛亚流【下裳】,Borealis Hakama R,mhxx-dex-1.0,10
-5039,艳亚流【下裳】,Glyph Hakama R,mhxx-dex-1.0,10
-5044,霸龙X足爪,Akantor Hessian X,mhxx-dex-1.0,10
-5049,霸龙X坚靴,Akantor Boots X,mhxx-dex-1.0,10
-5054,霸龙XR足爪,Akantor Hessian XR,mhxx-dex-1.0,10
-5059,霸龙XR坚靴,Akantor Boots XR,mhxx-dex-1.0,10
-5064,崩龙X足爪,Ukanlos Hessian X,mhxx-dex-1.0,10
-5069,崩龙X坚靴,Ukanlos Boots X,mhxx-dex-1.0,10
-5074,荒天･真【下裳】,Grand Tempest Hakama,mhxx-dex-1.0,10
-5079,苍天･真【下裳】,Grand Welkin Hakama,mhxx-dex-1.0,10
-5084,荒天战流【下裳】,Tempest Hakama XR,mhxx-dex-1.0,10
-5089,苍天战流【下裳】,Welkin Hakama XR,mhxx-dex-1.0,10
-5094,骸装甲･真【腿骨】,Grand Skeletal Femur,mhxx-dex-1.0,10
-5099,尸装甲･真【腿骨】,Grand Decayed Femur,mhxx-dex-1.0,10
-5104,苍星X靴,Astral Boots X,mhxx-dex-1.0,10
-5109,苍星X鞋子,Astral Feet X,mhxx-dex-1.0,10
-5114,王座传承,Neset Boots,mhxx-dex-1.0,10
-5119,王座习俗,Neset Feet,mhxx-dex-1.0,10
-5124,黑龙鞋子,Dragonfeet,mhxx-dex-1.0,10
-5129,黑龙双脚,Dragonlegs,mhxx-dex-1.0,10
-5134,煌黑龙X碎鳞,Escadora Sheath X,mhxx-dex-1.0,10
-5139,煌黑龙X古城,Escadora Scala X,mhxx-dex-1.0,10
-5144,煌黑龙XR碎鳞,Escadora Sheath XR,mhxx-dex-1.0,10
-5149,煌黑龙XR古城,Escadora Scala XR,mhxx-dex-1.0,10
-5154,红龙鞋子,Fatalis Crimsonfeet,mhxx-dex-1.0,10
-5159,红龙双脚,Fatalis Crimsonlegs,mhxx-dex-1.0,10
-5164,GX红龙鞋子,GX Fatalis Crimsonfeet,mhxx-dex-1.0,10
-5169,GX红龙双脚,GX Fatalis Crimsonlegs,mhxx-dex-1.0,10
-5174,红龙XR鞋子,Fatalis Crimsonfeet XR,mhxx-dex-1.0,10
-5179,红龙XR双脚,Fatalis Crimsonlegs XR,mhxx-dex-1.0,10
-5184,祖龙鞋子,Old Fatalis Feet,mhxx-dex-1.0,10
-5189,祖龙双脚,Old Fatalis Legs,mhxx-dex-1.0,10
-5194,GX祖龙鞋子,GX Old Fatalis Feet,mhxx-dex-1.0,10
-5199,GX祖龙双脚,GX Old Fatalis Legs,mhxx-dex-1.0,10
-5204,异形护腿,Strange Greaves,mhxx-dex-1.0,5
-5209,异形胫甲,Strange Leggings,mhxx-dex-1.0,5
-5214,异形X护腿,Strange Greaves X,mhxx-dex-1.0,8
-5219,异形X胫甲,Strange Leggings X,mhxx-dex-1.0,8
-5224,红盔护腿,Redhelm Greaves,mhxx-dex-1.0,11
-5229,红盔胫甲,Redhelm Leggings,mhxx-dex-1.0,11
-5234,大雪主护腿,Snowbaron Greaves,mhxx-dex-1.0,11
-5239,大雪主胫甲,Snowbaron Leggings,mhxx-dex-1.0,11
-5244,矛碎护腿,Stonefist Greaves,mhxx-dex-1.0,11
-5249,矛碎胫甲,Stonefist Leggings,mhxx-dex-1.0,11
-5254,紫毒姬护腿,Dreadqueen Greaves,mhxx-dex-1.0,11
-5259,紫毒姬胫甲,Dreadqueen Leggings,mhxx-dex-1.0,11
-5264,岩穿护腿,Drilltusk Greaves,mhxx-dex-1.0,11
-5269,岩穿胫甲,Drilltusk Leggings,mhxx-dex-1.0,11
-5274,白疾风护腿,Silverwind Greaves,mhxx-dex-1.0,11
-5279,白疾风胫甲,Silverwind Leggings,mhxx-dex-1.0,11
-5284,宝缠护腿,Crystalbeard Greaves,mhxx-dex-1.0,11
-5289,宝缠胫甲,Crystalbeard Leggings,mhxx-dex-1.0,11
-5294,独眼护腿,Deadeye Greaves,mhxx-dex-1.0,11
-5299,独眼胫甲,Deadeye Leggings,mhxx-dex-1.0,11
-5304,黑炎王护腿,Dreadking Greaves,mhxx-dex-1.0,11
-5309,黑炎王胫甲,Dreadking Leggings,mhxx-dex-1.0,11
-5314,金雷公护腿,Thunderlord Greaves,mhxx-dex-1.0,11
-5319,金雷公胫甲,Thunderlord Leggings,mhxx-dex-1.0,11
-5324,荒钩爪护腿,Grimclaw Greaves,mhxx-dex-1.0,11
-5329,荒钩爪胫甲,Grimclaw Leggings,mhxx-dex-1.0,11
-5334,烬灭刃护腿,Hellblade Greaves,mhxx-dex-1.0,11
-5339,烬灭刃胫甲,Hellblade Leggings,mhxx-dex-1.0,11
-5344,胧隐护腿,Nightcloak Greaves,mhxx-dex-1.0,11
-5349,胧隐胫甲,Nightcloak Leggings,mhxx-dex-1.0,11
-5354,铠裂护腿,Rustrazor Greaves,mhxx-dex-1.0,11
-5359,铠裂胫甲,Rustrazor Leggings,mhxx-dex-1.0,11
-5364,天眼护腿,Soulseer Greaves,mhxx-dex-1.0,11
-5369,天眼胫甲,Soulseer Leggings,mhxx-dex-1.0,11
-5374,青电主护腿,Boltreaver Greaves,mhxx-dex-1.0,11
-5379,青电主胫甲,Boltreaver Leggings,mhxx-dex-1.0,11
-5384,银峰护腿,Elderfrost Greaves,mhxx-dex-1.0,11
-5389,银峰胫甲,Elderfrost Leggings,mhxx-dex-1.0,11
-5394,鏖魔护腿,Bloodbath Greaves,mhxx-dex-1.0,11
-5399,鏖魔胫甲,Bloodbath Leggings,mhxx-dex-1.0,11
-5404,【日】瑞星【腿甲】,[JP] Promising Sabatons,mhxx-dex-1.0,3
-5409,【日】景星【腿甲】,[JP] Halcyon Sabatons,mhxx-dex-1.0,3
-5414,【日】梦视【腿甲】,[JP] Lucid Pleats,mhxx-dex-1.0,3
-5419,【日】梦言【腿甲】,[JP] Dreamy Pleats,mhxx-dex-1.0,3
-5424,【日】烈火【下裳】,[JP] Arcfire Hakama,mhxx-dex-1.0,3
-5429,【日】活火【下裳】,[JP] Bonfire Hakama,mhxx-dex-1.0,3
-5434,【日】和歌【腿甲】,[JP] Waka Hakama,mhxx-dex-1.0,3
-5439,【日】和乐【腿甲】,[JP] Wagaku Hakama,mhxx-dex-1.0,3
-5443,【日】伪蛋蛋紧身袜,[JP] Fake Tama Legs,mhxx-dex-1.0,3
-5447,【日】伪蛋蛋裤袜,[JP] Fake Tama Legs Suit,mhxx-dex-1.0,3
-5452,海盗J靴,Pirate Boots J,mhxx-dex-1.0,6
-5457,海盗J长裤,Pirate Pants J,mhxx-dex-1.0,6
-5462,大海盗J靴,Buccaneer Boots J,mhxx-dex-1.0,6
-5467,大海盗J长裤,Buccaneer Pants J,mhxx-dex-1.0,6
-5474,星灵护腿,Zodias Greaves,mhxx-dex-1.0,7
-5479,星灵胫甲,Zodias Leggings,mhxx-dex-1.0,7
-5482,坊屋牛仔裤,Booyah Jeans,mhxx-dex-1.0,5
-5485,坊屋丹宁裤,Booyah Denim,mhxx-dex-1.0,5
-5490,地上最强的下裳,Ultimate Pleats,mhxx-dex-1.0,7
-5493,地上最强的下衣,Ultimate Walkers,mhxx-dex-1.0,7
-5498,王者的绑腿,Champion's Shorts,mhxx-dex-1.0,7
-5503,强者的绑腿,Strongman's Shorts,mhxx-dex-1.0,7
-5508,电衣库工装裤,Dynaqlo Cargo Pants,mhxx-dex-1.0,6
-5513,电衣库七分裤,Dynaqlo Combats,mhxx-dex-1.0,6
-5518,【日】蓝星花靴,[JP] Blue Star Boots,mhxx-dex-1.0,6
-5523,【日】蓝星花鞋子,[JP] Blue Star Footwear,mhxx-dex-1.0,6
-5528,【日】星骑士护腿,[JP] Star Knight Greaves,mhxx-dex-1.0,6
-5533,【日】星骑士胫甲,[JP] Star Knight Leggings,mhxx-dex-1.0,6
-5538,【日】星城护腿,[JP] Star Rook Greaves,mhxx-dex-1.0,7
-5543,【日】星城胫甲,[JP] Star Rook Leggings,mhxx-dex-1.0,7
-5548,【日】瑞星･霸【腿甲】,[JP] Promising Archpleats,mhxx-dex-1.0,7
-5553,【日】景星･霸【腿甲】,[JP] Halcyon Archpleats,mhxx-dex-1.0,7
-5558,【日】梦视･霸【腿甲】,[JP] Lucid Archpleats,mhxx-dex-1.0,7
-5563,【日】梦言･霸【腿甲】,[JP] Dreamy Archpleats,mhxx-dex-1.0,7
-5568,【日】烈火･霸【下裳】,[JP] Ruler Arcfire Hakama,mhxx-dex-1.0,7
-5573,【日】活火･霸【下裳】,[JP] Ruler Bonfire Hakama,mhxx-dex-1.0,7
-5578,【日】和歌･霸【腿甲】,[JP] Ruler Waka Hakama,mhxx-dex-1.0,7
-5583,【日】和乐･霸【腿甲】,[JP] Ruler Wagaku Hakama,mhxx-dex-1.0,7
-5587,【日】伪蛋蛋S紧身袜,[JP] Fake Tama Legs S,mhxx-dex-1.0,4
-5591,【日】伪蛋蛋S裤袜,[JP] Fake Tama Legs Suit S,mhxx-dex-1.0,4
-5595,防护服护胫,Varia Suit Leg Guards,mhxx-dex-1.0,6
-5599,防护服壳靴,Varia Suit Legs,mhxx-dex-1.0,6
-5603,零装甲靴,Zero Suit Boots,mhxx-dex-1.0,6
-5607,零装甲长袜,Zero Suit Tights,mhxx-dex-1.0,6
-5612,勇者靴,Hero's Boots,mhxx-dex-1.0,7
-5617,勇者腿甲,Hero's Leggings,mhxx-dex-1.0,7
-5622,星耀领主靴,Lodestar Boots,mhxx-dex-1.0,7
-5627,星耀领主鞋子,Lodestar Greaves,mhxx-dex-1.0,7
-5631,狂怒护腿,Greaves of Rage,mhxx-dex-1.0,7
-5635,狂怒胫甲,Leggings of Rage,mhxx-dex-1.0,7
-5639,女神护腿,Greaves of Anat,mhxx-dex-1.0,7
-5643,女神胫甲,Leggings of Anat,mhxx-dex-1.0,7
-5647,黑色皮制双脚,Black Leather Chaps,mhxx-dex-1.0,5
-5648,黑色皮制长裤,Black Leather Pants,mhxx-dex-1.0,5
-5661,飞龙分趾袜･天,Hiryu Sky Boots,mhxx-dex-1.0,7
-5666,飞龙分趾袜･地,Hiryu Land Boots,mhxx-dex-1.0,7
-5670,【日】小杰腿部,[JP] Gon Greaves,mhxx-dex-1.0,8
-5674,【日】小杰短裤,[JP] Gon Leggings,mhxx-dex-1.0,8
-5678,犯人腿部,Criminal Legs,mhxx-dex-1.0,9
-5682,犯人鞋子,Criminal Feet,mhxx-dex-1.0,9
-5687,【日】烈火･极【下裳】,[JP] Supreme Arcfire Hakama,mhxx-dex-1.0,10
-5692,【日】活火･极【下裳】,[JP] Supreme Bonfire Hakama,mhxx-dex-1.0,10
-5697,【日】和歌･极【腿甲】,[JP] Supreme Wagaku Hakama,mhxx-dex-1.0,10
-5702,【日】和乐･极【腿甲】,[JP] Supreme Wagaku Hakama,mhxx-dex-1.0,10
-5707,黄金骑士【腿甲】,Garo Guards,mhxx-dex-1.0,10
-5712,黄金骑士【护腿】,Garo Greaves,mhxx-dex-1.0,10
-5717,海利亚靴,Hylian Footwear,mhxx-dex-1.0,10
-5722,海利亚靴子,Hylian Boots,mhxx-dex-1.0,10
+1,皮制长裤,Leather Trousers,mhxx-dex-1.0+mhxx-save-format-community,1
+2,锁甲长裤,Chainmail Trousers,mhxx-dex-1.0+mhxx-save-format-community,1
+3,贝鲁纳护腿,Bherna Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+4,狩猎护腿,Hunting Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+5,狩猎胫甲,Hunting Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+6,毛皮靴,Mafumofu Boots,mhxx-dex-1.0+mhxx-save-format-community,1
+7,结云之下裳,Yukumo Hakama,mhxx-dex-1.0+mhxx-save-format-community,1
+8,石架靴,Loc Lac Boots,mhxx-dex-1.0+mhxx-save-format-community,1
+9,猎人护腿,Hunter's Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+10,猎人胫甲,Hunter's Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+11,骨制护腿,Bone Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+12,骨制胫甲,Bone Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+17,猎手皮护腿,Trapper's Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+18,猎手皮长靴,Trapper's Boots,mhxx-dex-1.0+mhxx-save-format-community,1
+19,跳狗龙王皮护腿,Maccao Shinguards,mhxx-dex-1.0+mhxx-save-format-community,1
+20,跳狗龙王皮长靴,Maccao Boots,mhxx-dex-1.0+mhxx-save-format-community,1
+21,狗龙王皮护腿,Jaggi Shinguards,mhxx-dex-1.0+mhxx-save-format-community,1
+22,狗龙王皮长靴,Jaggi Boots,mhxx-dex-1.0+mhxx-save-format-community,1
+23,狗龙护腿,Jaggi Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+24,狗龙胫甲,Jaggi Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+25,跳狗龙护腿,Maccao Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+26,跳狗龙胫甲,Maccao Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+27,蓝速龙护腿,Velociprey Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+28,蓝速龙胫甲,Velociprey Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+29,白速龙护腿,Giaprey Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+30,白速龙胫甲,Giaprey Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+31,黄速龙护腿,Genprey Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+32,黄速龙胫甲,Genprey Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+33,巨蜂护腿,Vespoid Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+34,巨蜂胫甲,Vespoid Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+35,巨甲虫护腿,Hornetaur Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+36,巨甲虫胫甲,Hornetaur Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+37,飞甲虫靴,Bnahabra Boots,mhxx-dex-1.0+mhxx-save-format-community,1
+38,飞甲虫鞋子,Bnahabra Pants,mhxx-dex-1.0+mhxx-save-format-community,1
+41,蘑菇猪鞋子,Mosswine Feet,mhxx-dex-1.0+mhxx-save-format-community,1
+42,硬甲龙护腿,Rhenoplos Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+43,硬甲龙胫甲,Rhenoplos Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+44,野猪护腿,Bulldrome Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+45,野猪胫甲,Bulldrome Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+47,青熊兽护腿,Arzuros Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+48,青熊兽胫甲,Arzuros Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+49,砂龙护腿,Cephalos Greaves,mhxx-dex-1.0+mhxx-save-format-community,1
+50,砂龙胫甲,Cephalos Leggings,mhxx-dex-1.0+mhxx-save-format-community,1
+51,勇气长裤,Derring Trousers,mhxx-dex-1.0+mhxx-save-format-community,2
+52,合金护腿,Alloy Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+53,合金胫甲,Alloy Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+54,战斗护腿,Battle Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+55,战斗胫甲,Battle Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+56,铸铁护腿,Ingot Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+57,铸铁胫甲,Ingot Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+58,矿石护腿,High Metal Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+59,矿石胫甲,High Metal Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+60,金属靴,Metal Boots,mhxx-dex-1.0+mhxx-save-format-community,2
+61,金属鞋子,Metal Feet,mhxx-dex-1.0+mhxx-save-format-community,2
+62,花瓣扎根,Melahoa Roots,mhxx-dex-1.0+mhxx-save-format-community,2
+63,花瓣之根,Melahoa Taproot,mhxx-dex-1.0+mhxx-save-format-community,2
+64,鱼鳞长裤,Makluva Pants,mhxx-dex-1.0+mhxx-save-format-community,2
+65,鱼鳞鞋,Makluva Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+68,独角仙脚,Obituary Crura,mhxx-dex-1.0+mhxx-save-format-community,2
+69,独角仙足,Obituary Tarsi,mhxx-dex-1.0+mhxx-save-format-community,2
+70,燕尾蝶脚,Butterfly Crura,mhxx-dex-1.0+mhxx-save-format-community,2
+71,燕尾蝶足,Butterfly Tarsi,mhxx-dex-1.0+mhxx-save-format-community,2
+72,死神脚跟,Death Stench Heel,mhxx-dex-1.0+mhxx-save-format-community,2
+73,死神意志,Death Stench March,mhxx-dex-1.0+mhxx-save-format-community,2
+76,南瓜扎根,Mosgharl Roots,mhxx-dex-1.0+mhxx-save-format-community,2
+77,南瓜之根,Mosgharl Radicles,mhxx-dex-1.0+mhxx-save-format-community,2
+78,雪绒花扎根,Edel Roots,mhxx-dex-1.0+mhxx-save-format-community,2
+79,雪绒花之根,Edel Radicles,mhxx-dex-1.0+mhxx-save-format-community,2
+80,毒蝎脚,Skalda Crura,mhxx-dex-1.0+mhxx-save-format-community,2
+81,毒蝎足,Skalda Tarsi,mhxx-dex-1.0+mhxx-save-format-community,2
+82,毒蛛脚,Spio Crura,mhxx-dex-1.0+mhxx-save-format-community,2
+83,毒蛛足,Spio Tarsi,mhxx-dex-1.0+mhxx-save-format-community,2
+84,水生兽护腿,Droth Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+85,水生兽胫甲,Droth Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+93,蓝速龙套装鞋子,Velociprey Feet,mhxx-dex-1.0+mhxx-save-format-community,2
+94,蓝速龙套装长袜,Velociprey Tights,mhxx-dex-1.0+mhxx-save-format-community,2
+95,黄速龙套装鞋子,Genprey Feet,mhxx-dex-1.0+mhxx-save-format-community,2
+96,黄速龙套装长袜,Genprey Tights,mhxx-dex-1.0+mhxx-save-format-community,2
+97,红速龙套装鞋子,Ioprey Feet,mhxx-dex-1.0+mhxx-save-format-community,2
+98,红速龙套装长袜,Ioprey Tights,mhxx-dex-1.0+mhxx-save-format-community,2
+99,蛇龙套装鞋子,Remobra Feet,mhxx-dex-1.0+mhxx-save-format-community,2
+100,蛇龙套装长袜,Remobra Tights,mhxx-dex-1.0+mhxx-save-format-community,2
+101,红速龙护腿,Ioprey Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+102,红速龙胫甲,Ioprey Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+103,怪鸟护腿,Kut-Ku Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+104,怪鸟胫甲,Kut-Ku Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+105,白兔兽护腿,Lagombi Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+106,白兔兽胫甲,Lagombi Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+107,毒怪鸟护腿,Gypceros Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+108,毒怪鸟胫甲,Gypceros Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+109,鬼蛙护腿,Tetsucabra Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+110,鬼蛙胫甲,Tetsucabra Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+111,大名盾蟹护腿,Hermitaur Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+112,大名盾蟹胫甲,Hermitaur Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+113,赤甲兽护腿,Volvidon Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+114,赤甲兽胫甲,Volvidon Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+115,水兽护腿,Ludroth Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+116,水兽胫甲,Ludroth Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+117,夜鸟护腿,Malfestio Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+118,夜鸟胫甲,Malfestio Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+119,白电护腿,Khezu Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+120,白电胫甲,Khezu Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+121,雌火龙护腿,Rathian Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+122,雌火龙胫甲,Rathian Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+123,潜口龙护腿,Nibelsnarf Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+124,潜口龙胫甲,Nibelsnarf Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+125,雪狮子护腿,Blango Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+126,雪狮子胫甲,Blango Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+127,将军镰蟹护腿,Ceanataur Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+128,将军镰蟹胫甲,Ceanataur Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+129,绞蛇龙护腿,Najarala Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+130,绞蛇龙胫甲,Najarala Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+131,迅龙护腿,Nargacuga Greaves,mhxx-dex-1.0+mhxx-save-format-community,2
+132,迅龙胫甲,Nargacuga Leggings,mhxx-dex-1.0+mhxx-save-format-community,2
+133,贤者靴,Scholarly Boots,mhxx-dex-1.0+mhxx-save-format-community,2
+134,贤者长袜,Scholarly Tights,mhxx-dex-1.0+mhxx-save-format-community,2
+135,海境护腿,Vaik Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+136,海境胫甲,Vaik Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+139,锹形脚,Aelucanth Crura,mhxx-dex-1.0+mhxx-save-format-community,3
+140,锹形足,Aelucanth Tarsi,mhxx-dex-1.0+mhxx-save-format-community,3
+141,凤蝶脚,Rhopessa Crura,mhxx-dex-1.0+mhxx-save-format-community,3
+142,凤蝶足,Rhopessa Tarsi,mhxx-dex-1.0+mhxx-save-format-community,3
+143,机械护腿,Artian Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+144,机械胫甲,Artian Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+145,黑狼鸟护腿,Garuga Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+146,黑狼鸟胫甲,Garuga Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+148,爆锤龙护腿,Uragaan Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+149,爆锤龙胫甲,Uragaan Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+150,火龙护腿,Rathalos Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+151,火龙胫甲,Rathalos Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+152,海龙护腿,Lagiacrus Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+153,海龙胫甲,Lagiacrus Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+154,雷狼龙护腿,Zinogre Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+155,雷狼龙胫甲,Zinogre Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+156,泡狐龙护腿,Mizutsune Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+157,泡狐龙胫甲,Mizutsune Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+158,电龙护腿,Astalos Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+159,电龙胫甲,Astalos Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+160,巨兽护腿,Gammoth Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+161,巨兽胫甲,Gammoth Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+162,斩龙护腿,Glavenus Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+163,斩龙胫甲,Glavenus Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+164,黑蚀龙护腿,Gore Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+165,黑蚀龙胫甲,Gore Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+166,千刃龙护腿,Regios Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+167,千刃龙胫甲,Regios Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+168,轰龙护腿,Tigrex Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+169,轰龙胫甲,Tigrex Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+170,麒麟护胫,Kirin Leg Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+171,麒麟靴,Kirin Boots,mhxx-dex-1.0+mhxx-save-format-community,3
+172,碎龙护腿,Brachydios Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+173,碎龙胫甲,Brachydios Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+174,方舟护腿,Arc Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+175,友爱护腿,Storge Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+176,方舟胫甲,Arc Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+177,友爱胫甲,Storge Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+178,钢龙踏实,Kushala Crus,mhxx-dex-1.0+mhxx-save-format-community,3
+179,钢龙勇健,Kushala Shank,mhxx-dex-1.0+mhxx-save-format-community,3
+180,水行【腿甲】,Mizuha Gaiters,mhxx-dex-1.0+mhxx-save-format-community,3
+181,丰玉【腿甲】,Cham Trousers,mhxx-dex-1.0+mhxx-save-format-community,3
+182,帝王护腿,Kaiser Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+183,帝王胫甲,Kaiser Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+184,骸装甲【腿骨】,Skeletal Femur,mhxx-dex-1.0+mhxx-save-format-community,3
+185,尸装甲【腿骨】,Decayed Femur,mhxx-dex-1.0+mhxx-save-format-community,3
+186,黑色鞋子,Black Feet,mhxx-dex-1.0+mhxx-save-format-community,3
+187,黑色双脚,Black Legs,mhxx-dex-1.0+mhxx-save-format-community,3
+188,黑带护腿,Black Belt Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+189,黑带胫甲,Black Belt Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+190,公会诗人靴,Guild Bard Boots,mhxx-dex-1.0+mhxx-save-format-community,3
+191,公会诗人鞋子,Guild Bard Gaiters,mhxx-dex-1.0+mhxx-save-format-community,3
+192,女仆短袜,Maiden's Socks,mhxx-dex-1.0+mhxx-save-format-community,3
+193,休闲长袜,French Maid Tights,mhxx-dex-1.0+mhxx-save-format-community,3
+194,支援者短袜,Helper Socks,mhxx-dex-1.0+mhxx-save-format-community,3
+195,治疗者短袜,Healer Socks,mhxx-dex-1.0+mhxx-save-format-community,3
+196,抚子【马裤】,Dianthus Pants,mhxx-dex-1.0+mhxx-save-format-community,3
+197,桔梗【马裤】,Campanile Pants,mhxx-dex-1.0+mhxx-save-format-community,3
+198,泡澡凉鞋,Bath Sandals,mhxx-dex-1.0+mhxx-save-format-community,3
+199,美食喵靴,Gourmew Boots,mhxx-dex-1.0+mhxx-save-format-community,3
+200,美食喵鞋子,Gourmew Paws,mhxx-dex-1.0+mhxx-save-format-community,3
+201,皮制S护腿,Leather Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+202,锁甲S护腿,Chainmail Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+203,贝鲁纳S护腿,Bherna Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+204,贝鲁纳S胫甲,Bherna Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+205,狩猎S护腿,Hunting Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+206,狩猎S胫甲,Hunting Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+207,毛皮S靴,Mafumofu Boots S,mhxx-dex-1.0+mhxx-save-format-community,4
+208,毛皮S长袜,Mafumofu Tights S,mhxx-dex-1.0+mhxx-save-format-community,4
+209,结云之下裳･天,Yukumo Sky Hakama,mhxx-dex-1.0+mhxx-save-format-community,4
+210,结云之下裳･地,Yukumo Land Hakama,mhxx-dex-1.0+mhxx-save-format-community,4
+211,石架S靴,Loc Lac Boots S,mhxx-dex-1.0+mhxx-save-format-community,4
+212,猎人S护腿,Hunter's Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+213,猎人S胫甲,Hunter's Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+214,猎人R护腿,Hunter's Greaves R,mhxx-dex-1.0+mhxx-save-format-community,4
+215,猎人R胫甲,Hunter's Leggings R,mhxx-dex-1.0+mhxx-save-format-community,4
+216,骨制S护腿,Bone Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+217,骨制S胫甲,Bone Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+220,银合金靴,Silver Metal Boots,mhxx-dex-1.0+mhxx-save-format-community,4
+221,银合金鞋子,Silver Feet,mhxx-dex-1.0+mhxx-save-format-community,4
+224,花瓣S扎根,Melahoa Roots S,mhxx-dex-1.0+mhxx-save-format-community,4
+225,花瓣S之根,Melahoa Taproot S,mhxx-dex-1.0+mhxx-save-format-community,4
+226,花瓣U扎根,Melahoa Roots U,mhxx-dex-1.0+mhxx-save-format-community,4
+227,花瓣U之根,Melahoa Taproot U,mhxx-dex-1.0+mhxx-save-format-community,4
+228,鱼鳞S长裤,Makluva Pants S,mhxx-dex-1.0+mhxx-save-format-community,4
+229,鱼鳞S鞋,Makluva Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+230,鱼鳞U长裤,Makluva Pants U,mhxx-dex-1.0+mhxx-save-format-community,4
+231,鱼鳞U鞋,Makluva Leggings U,mhxx-dex-1.0+mhxx-save-format-community,4
+236,南瓜S扎根,Mosgharl Roots S,mhxx-dex-1.0+mhxx-save-format-community,4
+237,南瓜S之根,Mosgharl Radicles S,mhxx-dex-1.0+mhxx-save-format-community,4
+238,雪绒花S扎根,Edel Roots S,mhxx-dex-1.0+mhxx-save-format-community,4
+239,雪绒花S之根,Edel Radicles S,mhxx-dex-1.0+mhxx-save-format-community,4
+247,蓝速龙套装S鞋子,Velociprey Feet S,mhxx-dex-1.0+mhxx-save-format-community,4
+248,蓝速龙套装S长袜,Velociprey Tights S,mhxx-dex-1.0+mhxx-save-format-community,4
+249,黄速龙套装S鞋子,Genprey Feet S,mhxx-dex-1.0+mhxx-save-format-community,4
+250,黄速龙套装S长袜,Genprey Tights S,mhxx-dex-1.0+mhxx-save-format-community,4
+251,红速龙套装S鞋子,Ioprey Feet S,mhxx-dex-1.0+mhxx-save-format-community,4
+252,红速龙套装S长袜,Ioprey Tights S,mhxx-dex-1.0+mhxx-save-format-community,4
+253,蛇龙套装S鞋子,Remobra Feet S,mhxx-dex-1.0+mhxx-save-format-community,4
+254,蛇龙套装S长袜,Remobra Tights S,mhxx-dex-1.0+mhxx-save-format-community,4
+255,猎手皮护腿S,Trapper's Shinguards S,mhxx-dex-1.0+mhxx-save-format-community,4
+256,猎手皮长靴S,Trapper's Boots S,mhxx-dex-1.0+mhxx-save-format-community,4
+257,跳狗龙王皮护腿S,Maccao Shinguards S,mhxx-dex-1.0+mhxx-save-format-community,4
+258,跳狗龙王皮长靴S,Maccao Boots S,mhxx-dex-1.0+mhxx-save-format-community,4
+259,狗龙王皮护腿S,Jaggi Shinguards S,mhxx-dex-1.0+mhxx-save-format-community,4
+260,狗龙王皮长靴S,Jaggi Boots S,mhxx-dex-1.0+mhxx-save-format-community,4
+261,蘑菇猪S鞋子,Mosswine Feet S,mhxx-dex-1.0+mhxx-save-format-community,4
+262,硬甲龙S护腿,Rhenoplos Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+263,硬甲龙S胫甲,Rhenoplos Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+264,狗龙S护腿,Jaggi Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+265,狗龙S胫甲,Jaggi Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+266,水生兽S护腿,Droth Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+267,水生兽S胫甲,Droth Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+270,跳狗龙S护腿,Maccao Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+271,跳狗龙S胫甲,Maccao Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+272,蓝速龙S护腿,Velociprey Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+273,蓝速龙S胫甲,Velociprey Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+274,白速龙S护腿,Giaprey Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+275,白速龙S胫甲,Giaprey Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+276,黄速龙S护腿,Genprey Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+277,黄速龙S胫甲,Genprey Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+278,EX黄速龙护腿,EX Genprey Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+279,EX黄速龙胫甲,EX Genprey Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+280,红速龙S护腿,Ioprey Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+281,红速龙S胫甲,Ioprey Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+282,EX红速龙护腿,EX Ioprey Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+283,EX红速龙胫甲,EX Ioprey Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+284,巨蜂S护腿,Vespoid Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+285,巨蜂S胫甲,Vespoid Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+286,EX巨蜂护腿,EX Vespoid Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+287,EX巨蜂胫甲,EX Vespoid Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+288,巨甲虫S护腿,Hornetaur Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+289,巨甲虫S胫甲,Hornetaur Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+290,EX巨甲虫护腿,EX Hornetaur Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+291,EX巨甲虫胫甲,EX Hornetaur Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+292,巨甲虫R护腿,Hornetaur Greaves R,mhxx-dex-1.0+mhxx-save-format-community,4
+293,巨甲虫R胫甲,Hornetaur Leggings R,mhxx-dex-1.0+mhxx-save-format-community,4
+294,飞甲虫S靴,Bnahabra Boots S,mhxx-dex-1.0+mhxx-save-format-community,4
+295,飞甲虫S鞋子,Bnahabra Pants S,mhxx-dex-1.0+mhxx-save-format-community,4
+298,野猪S护腿,Bulldrome Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+299,野猪S胫甲,Bulldrome Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+301,青熊兽S护腿,Arzuros Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+302,青熊兽S胫甲,Arzuros Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+303,砂龙S护腿,Cephalos Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+304,砂龙S胫甲,Cephalos Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+305,EX砂龙护腿,EX Cephalos Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+306,EX砂龙胫甲,EX Cephalos Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+307,怪鸟S护腿,Kut-Ku Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+308,怪鸟S胫甲,Kut-Ku Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+309,奇猿狐护腿,Kecha Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+310,奇猿狐胫甲,Kecha Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+311,白兔兽S护腿,Lagombi Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+312,白兔兽S胫甲,Lagombi Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+313,毒怪鸟S护腿,Gypceros Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+314,毒怪鸟S胫甲,Gypceros Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+315,毒怪鸟R护腿,Gypceros Greaves R,mhxx-dex-1.0+mhxx-save-format-community,4
+316,毒怪鸟R胫甲,Gypceros Leggings R,mhxx-dex-1.0+mhxx-save-format-community,4
+317,鬼蛙S护腿,Tetsucabra Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+318,鬼蛙S胫甲,Tetsucabra Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+319,大名盾蟹S护腿,Hermitaur Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+320,大名盾蟹S胫甲,Hermitaur Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+321,EX大名盾蟹护腿,EX Hermitaur Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+322,EX大名盾蟹胫甲,EX Hermitaur Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+323,大名盾蟹R护腿,Hermitaur Greaves R,mhxx-dex-1.0+mhxx-save-format-community,4
+324,大名盾蟹R胫甲,Hermitaur Leggings R,mhxx-dex-1.0+mhxx-save-format-community,4
+325,赤甲兽S护腿,Volvidon Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+326,赤甲兽S胫甲,Volvidon Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+327,水兽S护腿,Ludroth Greaves S,mhxx-dex-1.0+mhxx-save-format-community,4
+328,水兽S胫甲,Ludroth Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+329,水兽R护腿,Ludroth Greaves R,mhxx-dex-1.0+mhxx-save-format-community,4
+330,水兽R胫甲,Ludroth Leggings R,mhxx-dex-1.0+mhxx-save-format-community,4
+331,求知靴,Lecturer's Boots,mhxx-dex-1.0+mhxx-save-format-community,4
+332,求知鞋子,Lecturer's Footwear,mhxx-dex-1.0+mhxx-save-format-community,4
+333,合金S护腿,Alloy Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+334,合金S胫甲,Alloy Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+335,合金R护腿,Alloy Greaves R,mhxx-dex-1.0+mhxx-save-format-community,5
+336,合金R胫甲,Alloy Leggings R,mhxx-dex-1.0+mhxx-save-format-community,5
+337,战斗S护腿,Battle Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+338,战斗S胫甲,Battle Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+339,铸铁S护腿,Ingot Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+340,铸铁S胫甲,Ingot Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+341,铸铁R护腿,Ingot Greaves R,mhxx-dex-1.0+mhxx-save-format-community,5
+342,铸铁R胫甲,Ingot Leggings R,mhxx-dex-1.0+mhxx-save-format-community,5
+343,矿石S护腿,High Metal Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+344,矿石S胫甲,High Metal Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+345,矿石U护腿,High Metal Greaves U,mhxx-dex-1.0+mhxx-save-format-community,5
+346,矿石U胫甲,High Metal Leggings U,mhxx-dex-1.0+mhxx-save-format-community,5
+347,粉红合金靴,Pink Metal Boots,mhxx-dex-1.0+mhxx-save-format-community,5
+348,粉红合金鞋子,Pink Metal Feet,mhxx-dex-1.0+mhxx-save-format-community,5
+349,龙虾护腿,Lobster Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+350,龙虾胫甲,Lobster Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+351,独角仙S脚,Obituary Crura S,mhxx-dex-1.0+mhxx-save-format-community,5
+352,独角仙S足,Obituary Tarsi S,mhxx-dex-1.0+mhxx-save-format-community,5
+353,燕尾蝶S脚,Butterfly Crura S,mhxx-dex-1.0+mhxx-save-format-community,5
+354,燕尾蝶S足,Butterfly Tarsi S,mhxx-dex-1.0+mhxx-save-format-community,5
+355,死神S脚跟,Death Stench Heel S,mhxx-dex-1.0+mhxx-save-format-community,5
+356,死神S意志,Death Stench March S,mhxx-dex-1.0+mhxx-save-format-community,5
+357,死神R脚跟,Death Stench Heel R,mhxx-dex-1.0+mhxx-save-format-community,5
+358,死神R意志,Death Stench March R,mhxx-dex-1.0+mhxx-save-format-community,5
+359,海境S护腿,Vaik Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+360,海境S胫甲,Vaik Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+361,锹形S脚,Aelucanth Crura S,mhxx-dex-1.0+mhxx-save-format-community,5
+362,锹形S足,Aelucanth Tarsi S,mhxx-dex-1.0+mhxx-save-format-community,5
+363,凤蝶S脚,Rhopessa Crura S,mhxx-dex-1.0+mhxx-save-format-community,5
+364,凤蝶S足,Rhopessa Tarsi S,mhxx-dex-1.0+mhxx-save-format-community,5
+365,糕点师靴,Patissier's Boots,mhxx-dex-1.0+mhxx-save-format-community,5
+366,糕点师鞋子,Patissier's Footwear,mhxx-dex-1.0+mhxx-save-format-community,5
+367,毒蝎S脚,Skalda Crura S,mhxx-dex-1.0+mhxx-save-format-community,5
+368,毒蝎S足,Skalda Tarsi S,mhxx-dex-1.0+mhxx-save-format-community,5
+369,毒蛛S脚,Spio Crura S,mhxx-dex-1.0+mhxx-save-format-community,5
+370,毒蛛S足,Spio Tarsi S,mhxx-dex-1.0+mhxx-save-format-community,5
+371,夜鸟S护腿,Malfestio Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+372,夜鸟S胫甲,Malfestio Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+373,变形冰鲨护腿,Zamtrios Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+374,变形冰鲨胫甲,Zamtrios Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+375,白电S护腿,Khezu Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+376,白电S胫甲,Khezu Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+377,白电R护腿,Khezu Greaves R,mhxx-dex-1.0+mhxx-save-format-community,5
+378,白电R胫甲,Khezu Leggings R,mhxx-dex-1.0+mhxx-save-format-community,5
+379,雌火龙S护腿,Rathian Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+380,雌火龙S胫甲,Rathian Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+381,EX雌火龙护腿,EX Rathian Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+382,EX雌火龙胫甲,EX Rathian Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+383,雌火龙R护腿,Rathian Greaves R,mhxx-dex-1.0+mhxx-save-format-community,5
+384,雌火龙R胫甲,Rathian Leggings R,mhxx-dex-1.0+mhxx-save-format-community,5
+385,潜口龙S护腿,Nibelsnarf Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+386,潜口龙S胫甲,Nibelsnarf Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+387,水龙护腿,Plesioth Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+388,水龙胫甲,Plesioth Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+389,雪狮子S护腿,Blango Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+390,雪狮子S胫甲,Blango Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+391,EX雪狮子护腿,EX Blango Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+392,EX雪狮子胫甲,EX Blango Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+393,熔岩龙护腿,Lavasioth Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+394,熔岩龙胫甲,Lavasioth Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+395,EX熔岩龙护腿,EX Lavasioth Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+396,EX熔岩龙胫甲,EX Lavasioth Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+397,将军镰蟹S护腿,Ceanataur Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+398,将军镰蟹S胫甲,Ceanataur Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+399,EX将军镰蟹护腿,EX Ceanataur Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+400,EX将军镰蟹胫甲,EX Ceanataur Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+401,将军镰蟹R护腿,Ceanataur Greaves R,mhxx-dex-1.0+mhxx-save-format-community,5
+402,将军镰蟹R胫甲,Ceanataur Leggings R,mhxx-dex-1.0+mhxx-save-format-community,5
+403,绞蛇龙S护腿,Najarala Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+404,绞蛇龙S胫甲,Najarala Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+405,迅龙S护腿,Nargacuga Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+406,迅龙S胫甲,Nargacuga Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+407,黑狼鸟S护腿,Garuga Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+408,黑狼鸟S胫甲,Garuga Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+410,爆锤龙S护腿,Uragaan Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+411,爆锤龙S胫甲,Uragaan Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+412,黑带S护腿,Black Belt Greaves S,mhxx-dex-1.0+mhxx-save-format-community,5
+413,黑带S胫甲,Black Belt Leggings S,mhxx-dex-1.0+mhxx-save-format-community,5
+414,守护者靴,Guardian Boots,mhxx-dex-1.0+mhxx-save-format-community,5
+415,守护者鞋子,Guardian Pants,mhxx-dex-1.0+mhxx-save-format-community,5
+416,守护者U靴,Guardian Boots U,mhxx-dex-1.0+mhxx-save-format-community,5
+417,守护者U鞋子,Guardian Pants U,mhxx-dex-1.0+mhxx-save-format-community,5
+418,学士短袜,Scholar's Socks,mhxx-dex-1.0+mhxx-save-format-community,5
+419,学士凉鞋,Scholar's Sandals,mhxx-dex-1.0+mhxx-save-format-community,5
+420,水手短袜,Sailor Socks,mhxx-dex-1.0+mhxx-save-format-community,5
+421,水手凉鞋,Sailor Sandals,mhxx-dex-1.0+mhxx-save-format-community,5
+422,高级泡澡凉鞋,Luxury Bath Sandals,mhxx-dex-1.0+mhxx-save-format-community,5
+423,北极星【下裳】,Kita Star Hakama,mhxx-dex-1.0+mhxx-save-format-community,5
+424,海渊【下裳】,Umi Ocean Hakama,mhxx-dex-1.0+mhxx-save-format-community,5
+426,勇气S护腿,Derring Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+427,勇气S胫甲,Derring Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+428,杜宾护腿,Dober Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+429,杜宾胫甲,Dober Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+430,花纹钢护腿,Damascus Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+431,花纹钢胫甲,Damascus Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+432,花纹钢R护腿,Damascus Greaves R,mhxx-dex-1.0+mhxx-save-format-community,6
+433,花纹钢R胫甲,Damascus Leggings R,mhxx-dex-1.0+mhxx-save-format-community,6
+436,暗合金靴,Dark Metal Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+437,暗合金鞋子,Dark Metal Feet,mhxx-dex-1.0+mhxx-save-format-community,6
+438,铬合金靴,Chrome Metal Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+439,铬合金鞋子,Chrome Metal Feet,mhxx-dex-1.0+mhxx-save-format-community,6
+440,机械S护腿,Artian Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+441,机械S胫甲,Artian Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+442,机械R护腿,Artian Greaves R,mhxx-dex-1.0+mhxx-save-format-community,6
+443,机械R胫甲,Artian Leggings R,mhxx-dex-1.0+mhxx-save-format-community,6
+444,重甲虫护腿,Seltas Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+445,重甲虫胫甲,Seltas Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+446,火龙S护腿,Rathalos Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+447,火龙S胫甲,Rathalos Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+448,EX火龙护腿,EX Rathalos Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+449,EX火龙胫甲,EX Rathalos Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+450,火龙R护腿,Rathalos Greaves R,mhxx-dex-1.0+mhxx-save-format-community,6
+451,火龙R胫甲,Rathalos Leggings R,mhxx-dex-1.0+mhxx-save-format-community,6
+452,海龙S护腿,Lagiacrus Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+453,海龙S胫甲,Lagiacrus Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+454,海龙R护腿,Lagiacrus Greaves R,mhxx-dex-1.0+mhxx-save-format-community,6
+455,海龙R胫甲,Lagiacrus Leggings R,mhxx-dex-1.0+mhxx-save-format-community,6
+456,雷狼龙S护腿,Zinogre Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+457,雷狼龙S胫甲,Zinogre Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+458,EX雷狼龙护腿,EX Zinogre Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+459,EX雷狼龙胫甲,EX Zinogre Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+460,泡狐龙S护腿,Mizutsune Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+461,泡狐龙S胫甲,Mizutsune Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+462,电龙S护腿,Astalos Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+463,电龙S胫甲,Astalos Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+464,巨兽S护腿,Gammoth Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+465,巨兽S胫甲,Gammoth Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+466,斩龙S护腿,Glavenus Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+467,斩龙S胫甲,Glavenus Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+468,炎戈龙护腿,Agnaktor Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+469,炎戈龙胫甲,Agnaktor Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+470,黑蚀龙S护腿,Gore Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+471,黑蚀龙S胫甲,Gore Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+472,EX黑蚀龙护腿,EX Gore Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+473,EX黑蚀龙胫甲,EX Gore Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+474,黑蚀龙R护腿,Gore Greaves R,mhxx-dex-1.0+mhxx-save-format-community,6
+475,黑蚀龙R胫甲,Gore Leggings R,mhxx-dex-1.0+mhxx-save-format-community,6
+476,千刃龙S护腿,Regios Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+477,千刃龙S胫甲,Regios Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+478,尾锤龙护腿,Duramboros Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+479,尾锤龙胫甲,Duramboros Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+480,轰龙S护腿,Tigrex Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+481,轰龙S胫甲,Tigrex Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+482,EX轰龙护腿,EX Tigrex Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+483,EX轰龙胫甲,EX Tigrex Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+484,轰龙R护腿,Tigrex Greaves R,mhxx-dex-1.0+mhxx-save-format-community,6
+485,轰龙R胫甲,Tigrex Leggings R,mhxx-dex-1.0+mhxx-save-format-community,6
+486,麒麟S护胫,Kirin Leg Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+487,麒麟S靴,Kirin Boots S,mhxx-dex-1.0+mhxx-save-format-community,6
+488,麒麟R护胫,Kirin Leg Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
+489,麒麟R靴,Kirin Boots R,mhxx-dex-1.0+mhxx-save-format-community,6
+490,碎龙S护腿,Brachydios Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+491,碎龙S胫甲,Brachy Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+492,EX碎龙护腿,EX Brachydios Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+493,EX碎龙胫甲,EX Brachydios Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+494,金色下裳,Golden Hakama,mhxx-dex-1.0+mhxx-save-format-community,6
+495,黑衣分趾袜,Puppeteer Tabi,mhxx-dex-1.0+mhxx-save-format-community,6
+496,恐暴龙护腿,Vangis Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+497,恐暴龙胫甲,Vangis Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+498,公会骑士靴,Guild Knight Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+499,公会骑士长袜,Guild Knight Tights,mhxx-dex-1.0+mhxx-save-format-community,6
+500,女仆S短袜,Maiden's Socks S,mhxx-dex-1.0+mhxx-save-format-community,6
+501,休闲S长袜,French Maid Tights S,mhxx-dex-1.0+mhxx-save-format-community,6
+502,公会守卫蓝靴,Blue Guild Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+503,公会守卫蓝长袜,Blue Guild Tights,mhxx-dex-1.0+mhxx-save-format-community,6
+504,公会守卫红靴,Red Guild Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+505,公会守卫红长袜,Red Guild Tights,mhxx-dex-1.0+mhxx-save-format-community,6
+506,支援者S短袜,Helper Socks S,mhxx-dex-1.0+mhxx-save-format-community,6
+507,治疗者S短袜,Healer Socks S,mhxx-dex-1.0+mhxx-save-format-community,6
+508,支援者U短袜,Helper Socks U,mhxx-dex-1.0+mhxx-save-format-community,6
+509,治疗者U短袜,Healer Socks U,mhxx-dex-1.0+mhxx-save-format-community,6
+510,公会诗人S靴,Guild Bard Boots S,mhxx-dex-1.0+mhxx-save-format-community,6
+511,公会诗人S鞋子,Guild Bard Gaiters S,mhxx-dex-1.0+mhxx-save-format-community,6
+512,三眼脚环,Chakra Anklet,mhxx-dex-1.0+mhxx-save-format-community,6
+515,抚子･华【马裤】,Dianthus Wealpants,mhxx-dex-1.0+mhxx-save-format-community,6
+516,桔梗･华【马裤】,Campanile Wealpants,mhxx-dex-1.0+mhxx-save-format-community,6
+517,王牌护腿,Ace Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+518,王牌胫甲,Ace Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+519,女王护腿,Sororal Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+520,女王胫甲,Sororal Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+521,猎鹰靴,Hawkboots,mhxx-dex-1.0+mhxx-save-format-community,6
+522,猎鹰鞋子,Hawkfeet,mhxx-dex-1.0+mhxx-save-format-community,6
+523,美食喵S靴,Gourmew Boots S,mhxx-dex-1.0+mhxx-save-format-community,6
+524,美食喵S鞋子,Gourmew Paws S,mhxx-dex-1.0+mhxx-save-format-community,6
+526,贤者S靴,Scholarly Boots S,mhxx-dex-1.0+mhxx-save-format-community,6
+527,贤者S长袜,Scholarly Tights S,mhxx-dex-1.0+mhxx-save-format-community,6
+528,城塞游击队【分趾袜】,Ranger's Espadrilles,mhxx-dex-1.0+mhxx-save-format-community,6
+529,城塞弓击队【分趾袜】,Archer's Espadrilles,mhxx-dex-1.0+mhxx-save-format-community,6
+530,忍者分趾袜･天,Shinobi Heaven Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+531,忍者分趾袜･地,Shinobi Land Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+532,忍者分趾袜･空,Shinobi Sky Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+533,忍者分趾袜･海,Shinobi Sea Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+534,龙历士靴,Ancient Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+535,龙历士鞋子,Ancient Feet,mhxx-dex-1.0+mhxx-save-format-community,7
+536,大师护腿,Master's Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+537,大师胫甲,Master's Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+538,黑色S鞋子,Black Feet S,mhxx-dex-1.0+mhxx-save-format-community,7
+539,黑色S双脚,Black Legs S,mhxx-dex-1.0+mhxx-save-format-community,7
+540,桐花【腿甲】,Toka Gusoku,mhxx-dex-1.0+mhxx-save-format-community,7
+541,三葵【腿甲】,Mitsuaoi Gusoku,mhxx-dex-1.0+mhxx-save-format-community,7
+542,EX雌火龙S护腿,EX Rathian Greaves S,mhxx-dex-1.0+mhxx-save-format-community,7
+543,EX雌火龙S胫甲,EX Rathian Leggings S,mhxx-dex-1.0+mhxx-save-format-community,7
+544,EX火龙S护腿,EX Rathalos Greaves S,mhxx-dex-1.0+mhxx-save-format-community,7
+545,EX火龙S胫甲,EX Rathalos Leggings S,mhxx-dex-1.0+mhxx-save-format-community,7
+546,EX轰龙S护腿,EX Tigrex Greaves S,mhxx-dex-1.0+mhxx-save-format-community,7
+547,EX轰龙S胫甲,EX Tigrex Leggings S,mhxx-dex-1.0+mhxx-save-format-community,7
+548,方舟S护腿,Arc Greaves S,mhxx-dex-1.0+mhxx-save-format-community,7
+549,友爱S护腿,Storge Greaves S,mhxx-dex-1.0+mhxx-save-format-community,7
+550,方舟S胫甲,Arc Leggings S,mhxx-dex-1.0+mhxx-save-format-community,7
+551,友爱S胫甲,Storge Leggings S,mhxx-dex-1.0+mhxx-save-format-community,7
+552,EX方舟护腿,EX Arc Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+553,EX友爱护腿,EX Storge Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+554,EX方舟胫甲,EX Arc Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+555,EX友爱胫甲,EX Storge Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+556,方舟R护腿,Arc Greaves R,mhxx-dex-1.0+mhxx-save-format-community,7
+557,友爱R护腿,Storge Greaves R,mhxx-dex-1.0+mhxx-save-format-community,7
+558,方舟R胫甲,Arc Leggings R,mhxx-dex-1.0+mhxx-save-format-community,7
+559,友爱R胫甲,Storge Leggings R,mhxx-dex-1.0+mhxx-save-format-community,7
+560,钢龙S踏实,Kushala Crus S,mhxx-dex-1.0+mhxx-save-format-community,7
+561,钢龙S勇健,Kushala Shank S,mhxx-dex-1.0+mhxx-save-format-community,7
+562,EX钢龙踏实,EX Kushala Crus,mhxx-dex-1.0+mhxx-save-format-community,7
+563,EX钢龙勇健,EX Kushala Shank,mhxx-dex-1.0+mhxx-save-format-community,7
+564,钢龙R踏实,Kushala Crus R,mhxx-dex-1.0+mhxx-save-format-community,7
+565,钢龙R勇健,Kushala Shank R,mhxx-dex-1.0+mhxx-save-format-community,7
+566,水行霸【腿甲】,Mizuha Gaiters S,mhxx-dex-1.0+mhxx-save-format-community,7
+567,丰玉霸【腿甲】,Cham Trousers S,mhxx-dex-1.0+mhxx-save-format-community,7
+568,EX水行【腿甲】,EX Mizuha Gaiters,mhxx-dex-1.0+mhxx-save-format-community,7
+569,EX丰玉【腿甲】,EX Cham Trousers,mhxx-dex-1.0+mhxx-save-format-community,7
+570,帝王S护腿,Kaiser Greaves S,mhxx-dex-1.0+mhxx-save-format-community,7
+571,帝王S胫甲,Kaiser Leggings S,mhxx-dex-1.0+mhxx-save-format-community,7
+572,EX帝王护腿,EX Kaiser Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+573,EX帝王胫甲,EX Kaiser Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+574,银白耀日护腿,Silver Solgreaves,mhxx-dex-1.0+mhxx-save-format-community,7
+575,银白耀日胫甲,Silver Solleggings,mhxx-dex-1.0+mhxx-save-format-community,7
+576,EX银白耀日护腿,EX Silver Solgreaves,mhxx-dex-1.0+mhxx-save-format-community,7
+577,EX银白耀日胫甲,EX Silver Solleggings,mhxx-dex-1.0+mhxx-save-format-community,7
+578,银白耀日R护腿,Silver Solgreaves R,mhxx-dex-1.0+mhxx-save-format-community,7
+579,银白耀日R胫甲,Silver Solleggings R,mhxx-dex-1.0+mhxx-save-format-community,7
+580,金黄澄月护腿,Golden Lunegreaves,mhxx-dex-1.0+mhxx-save-format-community,7
+581,金黄澄月胫甲,Golden Luneleggings,mhxx-dex-1.0+mhxx-save-format-community,7
+582,EX金黄澄月护腿,EX Golden Lunegreaves,mhxx-dex-1.0+mhxx-save-format-community,7
+583,EX金黄澄月胫甲,EX Golden Luneleggings,mhxx-dex-1.0+mhxx-save-format-community,7
+584,怒天下裳,Divine Ire Hakama,mhxx-dex-1.0+mhxx-save-format-community,7
+585,心灭分趾袜,Mind Crusher Tabi,mhxx-dex-1.0+mhxx-save-format-community,7
+586,贪婪护腿,Esurient Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+587,贪婪胫甲,Esurient Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+588,贪婪R护腿,Esurient Greaves R,mhxx-dex-1.0+mhxx-save-format-community,7
+589,贪婪R胫甲,Esurient Leggings R,mhxx-dex-1.0+mhxx-save-format-community,7
+590,霸龙足爪,Akantor Hessian,mhxx-dex-1.0+mhxx-save-format-community,7
+591,霸龙坚靴,Akantor Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+592,霸龙R足爪,Akantor Hessian R,mhxx-dex-1.0+mhxx-save-format-community,7
+593,霸龙R坚靴,Akantor Boots R,mhxx-dex-1.0+mhxx-save-format-community,7
+594,崩龙足爪,Ukanlos Hessian,mhxx-dex-1.0+mhxx-save-format-community,7
+595,崩龙坚靴,Ukanlos Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+596,荒天【下裳】,Tempest Hakama,mhxx-dex-1.0+mhxx-save-format-community,7
+597,苍天【下裳】,Welkin Hakama,mhxx-dex-1.0+mhxx-save-format-community,7
+598,荒天亚流【下裳】,Tempest Hakama R,mhxx-dex-1.0+mhxx-save-format-community,7
+599,苍天亚流【下裳】,Welkin Hakama R,mhxx-dex-1.0+mhxx-save-format-community,7
+600,骸装甲･霸【腿骨】,Skeletal Femur R,mhxx-dex-1.0+mhxx-save-format-community,7
+601,尸装甲･霸【腿骨】,Decayed Femur R,mhxx-dex-1.0+mhxx-save-format-community,7
+602,苍星靴,Astral Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+603,苍星鞋子,Astral Feet,mhxx-dex-1.0+mhxx-save-format-community,7
+604,煌黑龙碎鳞,Escadora Sheath,mhxx-dex-1.0+mhxx-save-format-community,7
+605,煌黑龙古城,Escadora Scala,mhxx-dex-1.0+mhxx-save-format-community,7
+606,煌黑龙R碎鳞,Escadora Sheath R,mhxx-dex-1.0+mhxx-save-format-community,7
+607,煌黑龙R古城,Escadora Scala R,mhxx-dex-1.0+mhxx-save-format-community,7
+615,异形护腿,Strange Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+616,异形胫甲,Strange Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+617,红盔护腿,Redhelm Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+618,红盔胫甲,Redhelm Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+619,大雪主护腿,Snowbaron Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+620,大雪主胫甲,Snowbaron Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+621,矛碎护腿,Stonefist Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+622,矛碎胫甲,Stonefist Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+623,紫毒姬护腿,Dreadqueen Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+624,紫毒姬胫甲,Dreadqueen Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+625,岩穿护腿,Drilltusk Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+626,岩穿胫甲,Drilltusk Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+627,白疾风护腿,Silverwind Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+628,白疾风胫甲,Silverwind Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+629,宝缠护腿,Crystalbeard Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+630,宝缠胫甲,Crystalbeard Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+631,独眼护腿,Deadeye Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+632,独眼胫甲,Deadeye Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+633,黑炎王护腿,Dreadking Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+634,黑炎王胫甲,Dreadking Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+635,金雷公护腿,Thunderlord Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+636,金雷公胫甲,Thunderlord Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+637,荒钩爪护腿,Grimclaw Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+638,荒钩爪胫甲,Grimclaw Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+639,烬灭刃护腿,Hellblade Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+640,烬灭刃胫甲,Hellblade Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+642,黑色皮制双脚,Black Leather Chaps,mhxx-dex-1.0+mhxx-save-format-community,5
+643,黑色皮制长裤,Black Leather Pants,mhxx-dex-1.0+mhxx-save-format-community,5
+654,坊屋牛仔裤,Booyah Jeans,mhxx-dex-1.0+mhxx-save-format-community,5
+655,坊屋丹宁裤,Booyah Denim,mhxx-dex-1.0+mhxx-save-format-community,5
+658,地上最强的下裳,Ultimate Pleats,mhxx-dex-1.0+mhxx-save-format-community,7
+659,地上最强的下衣,Ultimate Walkers,mhxx-dex-1.0+mhxx-save-format-community,7
+660,王者的绑腿,Champion's Shorts,mhxx-dex-1.0+mhxx-save-format-community,7
+661,强者的绑腿,Strongman's Shorts,mhxx-dex-1.0+mhxx-save-format-community,7
+662,星灵护腿,Zodias Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+663,星灵胫甲,Zodias Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+664,海盗J靴,Pirate Boots J,mhxx-dex-1.0+mhxx-save-format-community,6
+665,海盗J长裤,Pirate Pants J,mhxx-dex-1.0+mhxx-save-format-community,6
+666,大海盗J靴,Buccaneer Boots J,mhxx-dex-1.0+mhxx-save-format-community,6
+667,大海盗J长裤,Buccaneer Pants J,mhxx-dex-1.0+mhxx-save-format-community,6
+668,电衣库工装裤,Dynaqlo Cargo Pants,mhxx-dex-1.0+mhxx-save-format-community,6
+669,电衣库七分裤,Dynaqlo Combats,mhxx-dex-1.0+mhxx-save-format-community,6
+670,Promising Sabatons,Promising Sabatons,mhxx-save-format-community-en-fallback,0
+671,Halcyon Sabatons,Halcyon Sabatons,mhxx-save-format-community-en-fallback,0
+672,Blue Star Boots,Blue Star Boots,mhxx-save-format-community-en-fallback,0
+673,Blue Star Footwear,Blue Star Footwear,mhxx-save-format-community-en-fallback,0
+674,Star Rook Greaves,Star Rook Greaves,mhxx-save-format-community-en-fallback,0
+675,Star Rook Leggings,Star Rook Leggings,mhxx-save-format-community-en-fallback,0
+676,Star Knight Greaves,Star Knight Greaves,mhxx-save-format-community-en-fallback,0
+677,Star Knight Leggings,Star Knight Leggings,mhxx-save-format-community-en-fallback,0
+678,Nisetama Greaves,Nisetama Greaves,mhxx-save-format-community-en-fallback,0
+679,Nisetama Leggings,Nisetama Leggings,mhxx-save-format-community-en-fallback,0
+680,Nisetama Greaves S,Nisetama Greaves S,mhxx-save-format-community-en-fallback,0
+681,Nisetama Leggings S,Nisetama Leggings S,mhxx-save-format-community-en-fallback,0
+682,勇者靴,Hero's Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+683,勇者腿甲,Hero's Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+684,防护服护胫,Varia Suit Leg Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+685,防护服壳靴,Varia Suit Legs,mhxx-dex-1.0+mhxx-save-format-community,6
+686,零装甲靴,Zero Suit Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+687,零装甲长袜,Zero Suit Tights,mhxx-dex-1.0+mhxx-save-format-community,6
+688,狂怒护腿,Greaves of Rage,mhxx-dex-1.0+mhxx-save-format-community,7
+689,狂怒胫甲,Leggings of Rage,mhxx-dex-1.0+mhxx-save-format-community,7
+690,女神护腿,Greaves of Anat,mhxx-dex-1.0+mhxx-save-format-community,7
+691,女神胫甲,Leggings of Anat,mhxx-dex-1.0+mhxx-save-format-community,7
+694,南瓜扎根,Mosgharl Roots,mhxx-dex-1.0+mhxx-save-format-community,2
+695,南瓜之根,Mosgharl Radicles,mhxx-dex-1.0+mhxx-save-format-community,2
+696,巨兽护腿,Gammoth Greaves,mhxx-dex-1.0+mhxx-save-format-community,3
+697,巨兽胫甲,Gammoth Leggings,mhxx-dex-1.0+mhxx-save-format-community,3
+698,美食喵靴,Gourmew Boots,mhxx-dex-1.0+mhxx-save-format-community,3
+699,美食喵鞋子,Gourmew Paws,mhxx-dex-1.0+mhxx-save-format-community,3
+700,皮制S胫甲,Leather Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+701,锁甲S胫甲,Chainmail Leggings S,mhxx-dex-1.0+mhxx-save-format-community,4
+702,南瓜S扎根,Mosgharl Roots S,mhxx-dex-1.0+mhxx-save-format-community,4
+703,南瓜S之根,Mosgharl Radicles S,mhxx-dex-1.0+mhxx-save-format-community,4
+704,巨兽S护腿,Gammoth Greaves S,mhxx-dex-1.0+mhxx-save-format-community,6
+705,巨兽S胫甲,Gammoth Leggings S,mhxx-dex-1.0+mhxx-save-format-community,6
+706,公会守卫蓝靴,Blue Guild Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+707,公会守卫蓝长袜,Blue Guild Tights,mhxx-dex-1.0+mhxx-save-format-community,6
+708,公会守卫红靴,Red Guild Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+709,公会守卫红长袜,Red Guild Tights,mhxx-dex-1.0+mhxx-save-format-community,6
+710,美食喵S靴,Gourmew Boots S,mhxx-dex-1.0+mhxx-save-format-community,6
+711,美食喵S鞋子,Gourmew Paws S,mhxx-dex-1.0+mhxx-save-format-community,6
+712,Promising Archpleats,Promising Archpleats,mhxx-save-format-community-en-fallback,0
+713,Halcyon Archpleats,Halcyon Archpleats,mhxx-save-format-community-en-fallback,0
+714,Lucid Pleats,Lucid Pleats,mhxx-save-format-community-en-fallback,0
+715,Dreamy Pleats,Dreamy Pleats,mhxx-save-format-community-en-fallback,0
+716,Lucid Archpleats,Lucid Archpleats,mhxx-save-format-community-en-fallback,0
+717,Dreamy Archpleats,Dreamy Archpleats,mhxx-save-format-community-en-fallback,0
+718,桃毛兽王护腿,Conga Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+719,桃毛兽王胫甲,Conga Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+720,白速龙套装鞋子,Giaprey Feet,mhxx-dex-1.0+mhxx-save-format-community,4
+721,白速龙套装长袜,Giaprey Tights,mhxx-dex-1.0+mhxx-save-format-community,4
+722,土砂龙护腿,Barroth Greaves,mhxx-dex-1.0+mhxx-save-format-community,4
+723,土砂龙胫甲,Barroth Leggings,mhxx-dex-1.0+mhxx-save-format-community,4
+724,岩龙护腿,Basarios Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+725,岩龙胫甲,Basarios Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+726,影蜘蛛护腿,Nerscylla Greaves,mhxx-dex-1.0+mhxx-save-format-community,5
+727,影蜘蛛胫甲,Nerscylla Leggings,mhxx-dex-1.0+mhxx-save-format-community,5
+728,冰牙龙护腿,Barioth Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+729,冰牙龙胫甲,Barioth Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+730,铠龙护腿,Gravios Greaves,mhxx-dex-1.0+mhxx-save-format-community,6
+731,铠龙胫甲,Gravios Leggings,mhxx-dex-1.0+mhxx-save-format-community,6
+732,活泼靴,Cheerful Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+733,活泼鞋子,Cheerful Feet,mhxx-dex-1.0+mhxx-save-format-community,7
+734,海歌短袜,Mariner Socks,mhxx-dex-1.0+mhxx-save-format-community,7
+735,海歌凉鞋,Mariner Sandals,mhxx-dex-1.0+mhxx-save-format-community,7
+738,角龙护腿,Diablos Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+739,角龙胫甲,Diablos Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+740,角龙R护腿,Diablos Greaves R,mhxx-dex-1.0+mhxx-save-format-community,7
+741,角龙R胫甲,Diablos Leggings R,mhxx-dex-1.0+mhxx-save-format-community,7
+742,天彗龙护腿,Valstrax Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+743,天彗龙胫甲,Valstrax Leggings,mhxx-dex-1.0+mhxx-save-format-community,7
+744,聪慧靴,Wisdom Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+745,聪慧鞋子,Wisdom Feet,mhxx-dex-1.0+mhxx-save-format-community,7
+751,贝鲁纳X护腿,Bherna Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+752,贝鲁纳X胫甲,Bherna Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+753,狩猎X护腿,Hunting Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+754,狩猎X胫甲,Hunting Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+755,毛皮X靴,Mafumofu Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+756,毛皮X长袜,Mafumofu Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+757,结云之下裳･极天,Yukumo Sky Hakama Goku,mhxx-dex-1.0+mhxx-save-format-community,8
+758,结云之下裳･极地,Yukumo Land Hakama Goku,mhxx-dex-1.0+mhxx-save-format-community,8
+763,蓝速龙套装X鞋子,Velociprey Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+764,蓝速龙套装X长袜,Velociprey Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+765,黄速龙套装X鞋子,Genprey Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+766,黄速龙套装X长袜,Genprey Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+767,红速龙套装X鞋子,Ioprey Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+768,红速龙套装X长袜,Ioprey Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+769,蛇龙套装X鞋子,Remobra Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+770,蛇龙套装X长袜,Remobra Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+771,猎手皮护腿X,Trapper's Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+772,猎手皮长靴X,Trapper's Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+773,蘑菇猪X鞋子,Mosswine Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+774,硬甲龙X护腿,Rhenoplos Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+775,硬甲龙X胫甲,Rhenoplos Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+776,狗龙X护腿,Jaggi Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+777,狗龙X胫甲,Jaggi Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+780,水生兽X护腿,Droth Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+781,水生兽X胫甲,Droth Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+784,跳狗龙X护腿,Maccao Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+785,跳狗龙X胫甲,Maccao Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+786,蓝速龙X护腿,Velociprey Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+787,蓝速龙X胫甲,Velociprey Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+788,白速龙X护腿,Giaprey Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+789,白速龙X胫甲,Giaprey Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+790,黄速龙X护腿,Genprey Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+791,黄速龙X胫甲,Genprey Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+792,红速龙X护腿,Ioprey Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+793,红速龙X胫甲,Ioprey Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+794,巨蜂X护腿,Vespoid Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+795,巨蜂X胫甲,Vespoid Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+796,巨甲虫X护腿,Hornetaur Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+797,巨甲虫X胫甲,Hornetaur Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+798,飞甲虫X靴,Bnahabra Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+799,飞甲虫X鞋子,Bnahabra Pants X,mhxx-dex-1.0+mhxx-save-format-community,8
+802,野猪X护腿,Bulldrome Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+803,野猪X胫甲,Bulldrome Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+805,青熊兽X护腿,Arzuros Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+806,青熊兽X胫甲,Arzuros Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+807,砂龙X护腿,Cephalos Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+808,砂龙X胫甲,Cephalos Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+809,怪鸟X护腿,Kut-Ku Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+810,怪鸟X胫甲,Kut-Ku Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+811,奇猿狐X护腿,Kecha Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+812,奇猿狐X胫甲,Kecha Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+813,白兔兽X护腿,Lagombi Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+814,白兔兽X胫甲,Lagombi Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+815,毒怪鸟X护腿,Gypceros Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+816,毒怪鸟X胫甲,Gypceros Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+817,鬼蛙X护腿,Tetsucabra Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+818,鬼蛙X胫甲,Tetsucabra Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+819,大名盾蟹X护腿,Hermitaur Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+820,大名盾蟹X胫甲,Hermitaur Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+821,水兽X护腿,Ludroth Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+822,水兽X胫甲,Ludroth Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+823,美食喵X靴,Gourmew Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+824,美食喵X鞋子,Gourmew Paws X,mhxx-dex-1.0+mhxx-save-format-community,8
+825,美食喵X靴,Gourmew Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+826,美食喵X鞋子,Gourmew Paws X,mhxx-dex-1.0+mhxx-save-format-community,8
+829,雪绒花X扎根,Edel Roots X,mhxx-dex-1.0+mhxx-save-format-community,8
+830,雪绒花X之根,Edel Radicles X,mhxx-dex-1.0+mhxx-save-format-community,8
+833,死神X脚跟,Death Stench Heel X,mhxx-dex-1.0+mhxx-save-format-community,8
+834,死神X意志,Death Stench March X,mhxx-dex-1.0+mhxx-save-format-community,8
+835,毒蝎X脚,Skalda Crura X,mhxx-dex-1.0+mhxx-save-format-community,8
+836,毒蝎X足,Skalda Tarsi X,mhxx-dex-1.0+mhxx-save-format-community,8
+837,毒蛛X脚,Spio Crura X,mhxx-dex-1.0+mhxx-save-format-community,8
+838,毒蛛X足,Spio Tarsi X,mhxx-dex-1.0+mhxx-save-format-community,8
+839,猎人XR护腿,Hunter's Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+840,猎人XR胫甲,Hunter's Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+841,赤甲兽X护腿,Volvidon Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+842,赤甲兽X胫甲,Volvidon Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+843,桃毛兽王X护腿,Conga Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+844,桃毛兽王X胫甲,Conga Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+845,土砂龙X护腿,Barroth Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+846,土砂龙X胫甲,Barroth Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+847,岩龙X护腿,Basarios Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+848,岩龙X胫甲,Basarios Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+849,夜鸟X护腿,Malfestio Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+850,夜鸟X胫甲,Malfestio Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+851,变形冰鲨X护腿,Zamtrios Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+852,变形冰鲨X胫甲,Zamtrios Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+853,白电X护腿,Khezu Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+854,白电X胫甲,Khezu Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+855,影蜘蛛X护腿,Nerscylla Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+856,影蜘蛛X胫甲,Nerscylla Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+857,雌火龙X护腿,Rathian Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+858,雌火龙X胫甲,Rathian Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+859,潜口龙X护腿,Nibelsnarf Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+860,潜口龙X胫甲,Nibelsnarf Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+861,水龙X护腿,Plesioth Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+862,水龙X胫甲,Plesioth Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+863,雪狮子X护腿,Blango Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+864,雪狮子X胫甲,Blango Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+865,将军镰蟹X护腿,Ceanataur Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+866,将军镰蟹X胫甲,Ceanataur Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+867,绞蛇龙X护腿,Najarala Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+868,绞蛇龙X胫甲,Najarala Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+869,迅龙X护腿,Nargacuga Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+870,迅龙X胫甲,Nargacuga Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+871,毒怪鸟XR护腿,Gypceros Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+872,毒怪鸟XR胫甲,Gypceros Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+873,大名盾蟹XR护腿,Hermitaur Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+874,大名盾蟹XR胫甲,Hermitaur Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+875,水兽XR护腿,Ludroth Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+876,水兽XR胫甲,Ludroth Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+877,异形X护腿,Strange Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+878,异形X胫甲,Strange Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+881,求知X靴,Lecturer's Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+882,求知X鞋子,Lecturer's Footwear X,mhxx-dex-1.0+mhxx-save-format-community,8
+883,糕点师X靴,Patissier's Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+884,糕点师X鞋子,Patissier's Footwear X,mhxx-dex-1.0+mhxx-save-format-community,8
+885,最高级泡澡凉鞋,Posh Bath Sandals,mhxx-dex-1.0+mhxx-save-format-community,8
+886,女仆X短袜,Maiden's Socks X,mhxx-dex-1.0+mhxx-save-format-community,8
+887,休闲X长袜,French Maid Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+888,抚子･雅【马裤】,Dianthus Masapants,mhxx-dex-1.0+mhxx-save-format-community,8
+889,桔梗･雅【马裤】,Campanile Masapants,mhxx-dex-1.0+mhxx-save-format-community,8
+890,GX桃毛兽王护腿,Conga Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+891,GX桃毛兽王胫甲,Conga Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+892,合金XR护腿,Alloy Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+893,合金XR胫甲,Alloy Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+894,铸铁XR护腿,Ingot Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+895,铸铁XR胫甲,Ingot Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+896,机械X护腿,Artian Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+897,机械X胫甲,Artian Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+898,龙虾X靴,Lobster Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+899,龙虾X鞋子,Lobster Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+900,白电XR护腿,Khezu Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+901,白电XR胫甲,Khezu Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+902,将军镰蟹XR护腿,Ceanataur Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+903,将军镰蟹XR胫甲,Ceanataur Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+904,雌火龙XR护腿,Rathian Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+905,雌火龙XR胫甲,Rathian Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+906,熔岩龙X护腿,Lava Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+907,熔岩龙X胫甲,Lava Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+908,黑狼鸟X护腿,Garuga Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+909,黑狼鸟X胫甲,Garuga Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+910,爆锤龙X护腿,Uragaan Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+911,爆锤龙X胫甲,Uragaan Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+912,冰牙龙X护腿,Barioth Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+913,冰牙龙X胫甲,Barioth Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+914,重甲虫X护腿,Seltas Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+915,重甲虫X胫甲,Seltas Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+916,火龙X护腿,Rathalos Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+917,火龙X胫甲,Rathalos Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+918,海龙X护腿,Lagiacrus Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+919,海龙X胫甲,Lagiacrus Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+920,雷狼龙X护腿,Zinogre Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+921,雷狼龙X胫甲,Zinogre Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+922,铠龙X护腿,Gravios Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+923,铠龙X胫甲,Gravios Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+924,泡狐龙X护腿,Mizutsune Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+925,泡狐龙X胫甲,Mizutsune Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+926,电龙X护腿,Astalos Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+927,电龙X胫甲,Astalos Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+928,巨兽X护腿,Gammoth Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+929,巨兽X胫甲,Gammoth Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+930,斩龙X护腿,Glavenus Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+931,斩龙X胫甲,Glavenus Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+932,黑蚀龙X护腿,Gore Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+933,黑蚀龙X胫甲,Gore Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+934,麒麟X护胫,Kirin Leg Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+935,麒麟X靴,Kirin Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+936,麒麟XR护胫,Kirin Leg Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+937,麒麟XR靴,Kirin Boots XR,mhxx-dex-1.0+mhxx-save-format-community,9
+938,晓丸【腿甲】,Auroros Pants,mhxx-dex-1.0+mhxx-save-format-community,10
+939,凛【下裳】,Borealis Hakama,mhxx-dex-1.0+mhxx-save-format-community,10
+940,曙丸【腿甲】,Genesis Pants,mhxx-dex-1.0+mhxx-save-format-community,10
+941,艳【下裳】,Glyph Hakama,mhxx-dex-1.0+mhxx-save-format-community,10
+942,GX晓丸【腿甲】,Auroros Pants GX,mhxx-dex-1.0+mhxx-save-format-community,10
+943,GX凛【下裳】,Borealis Hakama GX,mhxx-dex-1.0+mhxx-save-format-community,10
+944,GX曙丸【腿甲】,Genesis Pants GX,mhxx-dex-1.0+mhxx-save-format-community,10
+945,GX艳【下裳】,Glyph Hakama GX,mhxx-dex-1.0+mhxx-save-format-community,10
+946,晓丸战流【腿甲】,Auroros Pants XR,mhxx-dex-1.0+mhxx-save-format-community,10
+947,凛战流【下裳】,Borealis Hakama XR,mhxx-dex-1.0+mhxx-save-format-community,10
+948,曙丸战流【腿甲】,Genesis Pants XR,mhxx-dex-1.0+mhxx-save-format-community,10
+949,艳战流【下裳】,Glyph Hakama XR,mhxx-dex-1.0+mhxx-save-format-community,10
+950,学士X短袜,Scholar's Socks X,mhxx-dex-1.0+mhxx-save-format-community,8
+951,学士X凉鞋,Scholar's Sandals X,mhxx-dex-1.0+mhxx-save-format-community,8
+952,水手X短袜,Sailor Socks X,mhxx-dex-1.0+mhxx-save-format-community,8
+953,水手X凉鞋,Sailor Sandals X,mhxx-dex-1.0+mhxx-save-format-community,8
+954,猎鹰X靴,Hawkboots X,mhxx-dex-1.0+mhxx-save-format-community,8
+955,猎鹰X鞋子,Hawkfeet X,mhxx-dex-1.0+mhxx-save-format-community,8
+956,贤者X靴,Scholarly Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+957,贤者X长袜,Scholarly Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+958,探究靴,Research Boots,mhxx-dex-1.0+mhxx-save-format-community,9
+959,探究长袜,Research Tights,mhxx-dex-1.0+mhxx-save-format-community,9
+960,火龙XR护腿,Rathalos Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+961,火龙XR胫甲,Rathalos Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,9
+962,海龙XR护腿,Lagiacrus Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+963,海龙XR胫甲,Lagiacrus Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,9
+964,黑蚀龙XR护腿,Gore Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+965,黑蚀龙XR胫甲,Gore Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,9
+966,炎戈龙X护腿,Agnaktor Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+967,炎戈龙X胫甲,Agnaktor Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+968,千刃龙X护腿,Regios Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+969,千刃龙X胫甲,Regios Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+970,尾锤龙X护腿,Duramboros Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+971,尾锤龙X胫甲,Duramboros Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+972,轰龙X护腿,Tigrex Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+973,轰龙X胫甲,Tigrex Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+974,轰龙XR护腿,Tigrex Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+975,轰龙XR胫甲,Tigrex Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,9
+976,角龙X护腿,Diablos Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+977,角龙X胫甲,Diablos Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+978,角龙XR护腿,Diablos Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+979,角龙XR胫甲,Diablos Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,9
+980,碎龙X护腿,Brachydios Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+981,碎龙X胫甲,Brachydios Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+982,方舟X护腿,Arc Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+983,友爱X护腿,Storge Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+984,方舟X胫甲,Arc Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+985,友爱X胫甲,Storge Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+986,方舟XR护腿,Arc Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+987,友爱XR护腿,Storge Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+988,方舟XR胫甲,Arc Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,9
+989,友爱XR胫甲,Storge Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,9
+990,天彗龙X护腿,Valstrax Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+991,天彗龙X胫甲,Valstrax Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+992,齐天腿甲･真,Grand God's Peer Feet,mhxx-dex-1.0+mhxx-save-format-community,9
+993,仙师腿甲･真,Grand Hermit Feet,mhxx-dex-1.0+mhxx-save-format-community,9
+994,恐暴龙X护腿,Vangis Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+995,恐暴龙X胫甲,Vangis Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+996,钢龙X踏实,Kushala Crus X,mhxx-dex-1.0+mhxx-save-format-community,10
+997,钢龙X勇健,Kushala Shank X,mhxx-dex-1.0+mhxx-save-format-community,10
+998,钢龙XR踏实,Kushala Crus XR,mhxx-dex-1.0+mhxx-save-format-community,10
+999,钢龙XR勇健,Kushala Shank XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1000,水行真【腿甲】,Grand Mizuha Leg Wrap,mhxx-dex-1.0+mhxx-save-format-community,10
+1001,丰玉真【腿甲】,Grand Cham Trousers,mhxx-dex-1.0+mhxx-save-format-community,10
+1002,帝王X护腿,Kaiser Greaves X,mhxx-dex-1.0+mhxx-save-format-community,10
+1003,帝王X胫甲,Kaiser Leggings X,mhxx-dex-1.0+mhxx-save-format-community,10
+1004,银白耀日Z护腿,Silver Solgreaves Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1005,银白耀日Z胫甲,Silver Solleggings Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1006,金黄澄月Z护腿,Golden Lunegreaves Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1007,金黄澄月Z胫甲,Golden Luneleggings Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1008,夜叉【尊足】,Yaksha Boots,mhxx-dex-1.0+mhxx-save-format-community,9
+1009,修罗【尊足】,Carnage Boots,mhxx-dex-1.0+mhxx-save-format-community,9
+1010,守护者X靴,Guardian Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+1011,守护者X鞋子,Guardian Pants X,mhxx-dex-1.0+mhxx-save-format-community,9
+1012,公会守卫X蓝靴,Blue Guild Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+1013,公会守卫X蓝靴,Blue Guild Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+1014,公会守卫X蓝长袜,Blue Guild Tights X,mhxx-dex-1.0+mhxx-save-format-community,9
+1015,公会守卫X蓝长袜,Blue Guild Tights X,mhxx-dex-1.0+mhxx-save-format-community,9
+1016,公会守卫X红靴,Red Guild Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+1017,公会守卫X红靴,Red Guild Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+1018,公会守卫X红长袜,Red Guild Tights X,mhxx-dex-1.0+mhxx-save-format-community,9
+1019,公会守卫X红长袜,Red Guild Tights X,mhxx-dex-1.0+mhxx-save-format-community,9
+1020,公会骑士X靴,G. Knight Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1021,公会骑士X长袜,G. Knight Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+1022,公会诗人X靴,Guild Bard Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1023,公会诗人X鞋子,Guild Bard Gaiters X,mhxx-dex-1.0+mhxx-save-format-community,8
+1024,王牌X护腿,Ace Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1025,王牌X胫甲,Ace Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+1026,女王X护腿,Sororal Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1027,女王X胫甲,Sororal Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+1028,忍者分趾袜･极天,Shinobi Heaven Boots Goku,mhxx-dex-1.0+mhxx-save-format-community,9
+1029,忍者分趾袜･极地,Shinobi Land Boots Goku,mhxx-dex-1.0+mhxx-save-format-community,9
+1030,王后护腿,Kaiserin Greaves,mhxx-dex-1.0+mhxx-save-format-community,9
+1031,王后胫甲,Kaiserin Leggings,mhxx-dex-1.0+mhxx-save-format-community,9
+1032,酒吧主人靴,Barmaid's Boots,mhxx-dex-1.0+mhxx-save-format-community,9
+1033,酒吧主人长袜,Barmaid's Tights,mhxx-dex-1.0+mhxx-save-format-community,9
+1034,酒保靴,Barman's Boots,mhxx-dex-1.0+mhxx-save-format-community,9
+1035,酒保鞋子,Barman's Pants,mhxx-dex-1.0+mhxx-save-format-community,9
+1036,太阳神X护腿,Helios Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1037,月神X护腿,Selene Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1038,太阳神X胫甲,Helios Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+1039,月神X胫甲,Selene Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+1040,城塞特攻队【分趾袜】,Strider's Espadrilles,mhxx-dex-1.0+mhxx-save-format-community,9
+1041,城塞隐蔽队【分趾袜】,Deadeye's Espadrilles,mhxx-dex-1.0+mhxx-save-format-community,9
+1042,花纹钢X护腿,Damascus Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1043,花纹钢X胫甲,Damascus Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+1044,混沌护腿,Chaos Greaves,mhxx-dex-1.0+mhxx-save-format-community,9
+1045,堕天护腿,Nephilim Greaves,mhxx-dex-1.0+mhxx-save-format-community,9
+1046,混沌胫甲,Chaos Leggings,mhxx-dex-1.0+mhxx-save-format-community,9
+1047,堕天胫甲,Nephilim Leggings,mhxx-dex-1.0+mhxx-save-format-community,9
+1048,怒天下裳･真,Grand Divine Ire Hakama,mhxx-dex-1.0+mhxx-save-format-community,10
+1049,心灭分趾袜･真,Grand Mind Crusher Tabi,mhxx-dex-1.0+mhxx-save-format-community,10
+1050,贪婪Z护腿,Esurient Greaves Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1051,贪婪Z胫甲,Esurient Leggings Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1052,铁腕护腿,Brachydium Greaves,mhxx-dex-1.0+mhxx-save-format-community,10
+1053,铁腕胫甲,Brachydium Leggings,mhxx-dex-1.0+mhxx-save-format-community,10
+1054,霸龙X足爪,Akantor Hessian X,mhxx-dex-1.0+mhxx-save-format-community,10
+1055,霸龙X坚靴,Akantor Boots X,mhxx-dex-1.0+mhxx-save-format-community,10
+1056,霸龙XR足爪,Akantor Hessian XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1057,霸龙XR坚靴,Akantor Boots XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1058,崩龙X足爪,Ukanlos Hessian X,mhxx-dex-1.0+mhxx-save-format-community,10
+1059,崩龙X坚靴,Ukanlos Boots X,mhxx-dex-1.0+mhxx-save-format-community,10
+1060,荒天･真【下裳】,Grand Tempest Hakama,mhxx-dex-1.0+mhxx-save-format-community,10
+1061,苍天･真【下裳】,Grand Welkin Hakama,mhxx-dex-1.0+mhxx-save-format-community,10
+1062,骸装甲･真【腿骨】,Grand Skeletal Femur,mhxx-dex-1.0+mhxx-save-format-community,10
+1063,尸装甲･真【腿骨】,Grand Decayed Femur,mhxx-dex-1.0+mhxx-save-format-community,10
+1064,苍星X靴,Astral Boots X,mhxx-dex-1.0+mhxx-save-format-community,10
+1065,苍星X鞋子,Astral Feet X,mhxx-dex-1.0+mhxx-save-format-community,10
+1066,王座传承,Neset Boots,mhxx-dex-1.0+mhxx-save-format-community,10
+1067,王座习俗,Neset Feet,mhxx-dex-1.0+mhxx-save-format-community,10
+1068,黑色X鞋子,Black Feet X,mhxx-dex-1.0+mhxx-save-format-community,9
+1069,黑色X双脚,Black Legs X,mhxx-dex-1.0+mhxx-save-format-community,9
+1070,煌黑龙X碎鳞,Escadora Sheath X,mhxx-dex-1.0+mhxx-save-format-community,10
+1071,煌黑龙X古城,Escadora Scala X,mhxx-dex-1.0+mhxx-save-format-community,10
+1072,煌黑龙XR碎鳞,Escadora Sheath XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1073,煌黑龙XR古城,Escadora Scala XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1074,红龙鞋子,Fatalis Crimsonfeet,mhxx-dex-1.0+mhxx-save-format-community,10
+1075,红龙双脚,Fatalis Crimsonlegs,mhxx-dex-1.0+mhxx-save-format-community,10
+1076,GX红龙鞋子,GX Fatalis Crimsonfeet,mhxx-dex-1.0+mhxx-save-format-community,10
+1077,GX红龙双脚,GX Fatalis Crimsonlegs,mhxx-dex-1.0+mhxx-save-format-community,10
+1078,红龙XR鞋子,Fatalis Crimsonfeet XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1079,红龙XR双脚,Fatalis Crimsonlegs XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1080,祖龙鞋子,Old Fatalis Feet,mhxx-dex-1.0+mhxx-save-format-community,10
+1081,祖龙双脚,Old Fatalis Legs,mhxx-dex-1.0+mhxx-save-format-community,10
+1082,GX祖龙鞋子,GX Old Fatalis Feet,mhxx-dex-1.0+mhxx-save-format-community,10
+1083,GX祖龙双脚,GX Old Fatalis Legs,mhxx-dex-1.0+mhxx-save-format-community,10
+1084,支援者X短袜,Helper Socks X,mhxx-dex-1.0+mhxx-save-format-community,9
+1085,治疗者X短袜,Healer Socks X,mhxx-dex-1.0+mhxx-save-format-community,9
+1086,龙历士X靴,Ancient Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+1087,龙历士X鞋子,Ancient Feet X,mhxx-dex-1.0+mhxx-save-format-community,9
+1088,大师X护腿,Master's Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1089,大师X胫甲,Master's Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+1090,桐花･真【腿甲】,Grand Toka Gusoku,mhxx-dex-1.0+mhxx-save-format-community,9
+1091,三葵･真【腿甲】,Grand Mitsuaoi Gusoku,mhxx-dex-1.0+mhxx-save-format-community,9
+1096,黑带X护腿,Black Belt Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1097,黑带X胫甲,Black Belt Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+1100,晓丸亚流【腿甲】,Auroros Pants R,mhxx-dex-1.0+mhxx-save-format-community,10
+1101,凛亚流【下裳】,Borealis Hakama R,mhxx-dex-1.0+mhxx-save-format-community,10
+1102,曙丸亚流【腿甲】,Genesis Pants R,mhxx-dex-1.0+mhxx-save-format-community,10
+1103,艳亚流【下裳】,Glyph Hakama R,mhxx-dex-1.0+mhxx-save-format-community,10
+1104,银白耀日XR护腿,Silver Solgreaves XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1105,银白耀日XR胫甲,Silver Solleggings XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1106,贪婪XR护腿,Esurient Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1107,贪婪XR胫甲,Esurient Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1108,铠裂护腿,Rustrazor Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+1109,铠裂胫甲,Rustrazor Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+1110,胧隐护腿,Nightcloak Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+1111,胧隐胫甲,Nightcloak Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+1112,天眼护腿,Soulseer Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+1113,天眼胫甲,Soulseer Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+1114,青电主护腿,Boltreaver Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+1115,青电主胫甲,Boltreaver Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+1116,银峰护腿,Elderfrost Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+1117,银峰胫甲,Elderfrost Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+1118,鏖魔护腿,Bloodbath Greaves,mhxx-dex-1.0+mhxx-save-format-community,11
+1119,鏖魔胫甲,Bloodbath Leggings,mhxx-dex-1.0+mhxx-save-format-community,11
+1120,巨兽X护腿,Gammoth Greaves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1121,巨兽X胫甲,Gammoth Leggings X,mhxx-dex-1.0+mhxx-save-format-community,9
+1122,GX黄速龙护腿,Genprey Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1123,GX黄速龙胫甲,Genprey Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1124,GX红速龙护腿,Ioprey Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1125,GX红速龙胫甲,Ioprey Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1126,GX巨蜂护腿,Vespoid Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1127,GX巨蜂胫甲,Vespoid Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1128,巨甲虫XR护腿,Hornetaur Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1129,巨甲虫XR胫甲,Hornetaur Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1130,GX巨甲虫护腿,Hornetaur Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1131,GX巨甲虫胫甲,Hornetaur Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1132,GX砂龙护腿,Cephalos Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1133,GX砂龙胫甲,Cephalos Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1134,GX大名盾蟹护腿,Hermitaur Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1135,GX大名盾蟹胫甲,Hermitaur Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1136,GX雌火龙护腿,Rathian Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1137,GX雌火龙胫甲,Rathian Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1138,GX将军镰蟹护腿,Ceanataur Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1139,GX将军镰蟹胫甲,Ceanataur Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1140,GX雪狮子护腿,Blango Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1141,GX雪狮子胫甲,Blango Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1142,GX黑蚀龙护腿,Gore Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1143,GX黑蚀龙胫甲,Gore Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1144,GX雷狼龙护腿,Zinogre Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1145,GX雷狼龙胫甲,Zinogre Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1146,GX轰龙护腿,Tigrex Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1147,GX轰龙胫甲,Tigrex Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1148,GX碎龙护腿,Brachydios Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1149,GX碎龙胫甲,Brachydios Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1150,GX火龙护腿,Rathalos Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1151,GX火龙胫甲,Rathalos Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1152,GX方舟护腿,Arc Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1153,GX方舟胫甲,Arc Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1154,GX友爱护腿,Storge Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1155,GX友爱胫甲,Storge Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1156,GX钢龙踏实,Kushala Crus GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1157,GX钢龙勇健,Kushala Shank GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1158,GX水行【腿甲】,Mizuha Gaiters GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1159,GX丰玉【腿甲】,Cham Trousers GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1160,GX帝王护腿,Kaiser Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1161,GX帝王胫甲,Kaiser Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1162,GX熔岩龙护腿,Lavasioth Greaves GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1163,GX熔岩龙胫甲,Lavasioth Leggings GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1164,GX银白耀日护腿,GX Silver Solgreaves,mhxx-dex-1.0+mhxx-save-format-community,10
+1165,GX银白耀日胫甲,GX Silver Solleggings,mhxx-dex-1.0+mhxx-save-format-community,10
+1166,GX金黄澄月护腿,GX Gold Lunegreaves,mhxx-dex-1.0+mhxx-save-format-community,10
+1167,GX金黄澄月胫甲,GX Gold Luneleggings,mhxx-dex-1.0+mhxx-save-format-community,10
+1168,荒天战流【下裳】,Tempest Hakama XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1169,苍天战流【下裳】,Welkin Hakama XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1170,皮制X护腿,Leather Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1171,皮制X胫甲,Leather Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1172,锁甲X护腿,Chainmail Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1173,锁甲X胫甲,Chainmail Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1174,石架X靴,Loc Lac Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1175,猎人X护腿,Hunter's Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1176,猎人X胫甲,Hunter's Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1177,骨制X护腿,Bone Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1178,骨制X胫甲,Bone Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1179,杜宾X护腿,Dober Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1180,杜宾X胫甲,Dober Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1181,合金X护腿,Alloy Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1182,合金X胫甲,Alloy Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1183,铸铁X护腿,Ingot Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1184,铸铁X胫甲,Ingot Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1185,花纹钢XR护腿,Damascus Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+1186,花纹钢XR胫甲,Damascus Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,9
+1187,战斗X护腿,Battle Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1188,战斗X胫甲,Battle Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1189,矿石X护腿,High Metal Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1190,矿石X胫甲,Hi Metal Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1191,矿石Z护腿,High Metal Greaves Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1192,矿石Z胫甲,Hi Metal Leggings Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1193,南瓜X扎根,Mosgharl Roots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1194,南瓜X之根,Mosgharl Radicles X,mhxx-dex-1.0+mhxx-save-format-community,8
+1195,南瓜X扎根,Mosgharl Roots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1196,南瓜X之根,Mosgharl Radicles X,mhxx-dex-1.0+mhxx-save-format-community,8
+1197,独角仙X脚,Obituary Crura X,mhxx-dex-1.0+mhxx-save-format-community,8
+1198,独角仙X足,Obituary Tarsi X,mhxx-dex-1.0+mhxx-save-format-community,8
+1199,燕尾蝶X脚,Butterfly Crura X,mhxx-dex-1.0+mhxx-save-format-community,8
+1200,燕尾蝶X足,Butterfly Tarsi X,mhxx-dex-1.0+mhxx-save-format-community,8
+1201,锹形X脚,Aelucanth Crura X,mhxx-dex-1.0+mhxx-save-format-community,8
+1202,锹形X足,Aelucanth Tarsi X,mhxx-dex-1.0+mhxx-save-format-community,8
+1203,凤蝶X脚,Rhopessa Crura X,mhxx-dex-1.0+mhxx-save-format-community,8
+1204,凤蝶X足,Rhopessa Tarsi X,mhxx-dex-1.0+mhxx-save-format-community,8
+1205,海境X护腿,Vaik Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1206,海境X胫甲,Vaik Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1207,守护者Z靴,Guardian Boots Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1208,守护者Z鞋子,Guardian Pants Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1209,支援者Z短袜,Helper Socks Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1210,治疗者Z短袜,Healer Socks Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1211,死神XR脚跟,Death Stench Heel XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1212,死神XR意志,Death Stench March XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1213,鱼鳞X长裤,Makluva Pants X,mhxx-dex-1.0+mhxx-save-format-community,8
+1214,鱼鳞X鞋,Makluva Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1215,鱼鳞Z长裤,Makluva Pants Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1216,鱼鳞Z鞋,Makluva Leggings Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1217,花瓣X扎根,Melahoa Roots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1218,花瓣X之根,Melahoa Taproot X,mhxx-dex-1.0+mhxx-save-format-community,8
+1219,花瓣Z扎根,Melahoa Roots Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1220,花瓣Z之根,Melahoa Taproot Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1221,勇气X护腿,Derring Greaves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1222,勇气X胫甲,Derring Leggings X,mhxx-dex-1.0+mhxx-save-format-community,8
+1223,GX北极星【下裳】,GX Kita Star Hakama,mhxx-dex-1.0+mhxx-save-format-community,8
+1224,GX海渊【下裳】,GX Umi Ocean Hakama,mhxx-dex-1.0+mhxx-save-format-community,8
+1227,聪慧X靴,Wisdom Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+1228,聪慧X鞋子,Wisdom Feet X,mhxx-dex-1.0+mhxx-save-format-community,9
+1229,活泼X靴,Cheerful Boots X,mhxx-dex-1.0+mhxx-save-format-community,9
+1230,活泼X鞋子,Cheerful Feet X,mhxx-dex-1.0+mhxx-save-format-community,9
+1231,海歌X短袜,Mariner Socks X,mhxx-dex-1.0+mhxx-save-format-community,8
+1232,海歌X凉鞋,Mariner Sandals X,mhxx-dex-1.0+mhxx-save-format-community,8
+1233,银合金X靴,Silver Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1234,银合金X鞋子,Metal Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+1235,暗合金X靴,Dark Metal Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1236,暗合金X鞋子,Dark Metal Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+1237,粉红合金X靴,Pink Metal Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1238,粉红合金X鞋子,Pink Metal Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+1239,铬合金X靴,Chrome Metal Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1240,铬合金X鞋子,Chrome Metal Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+1241,白速龙套装X鞋子,Giaprey Feet X,mhxx-dex-1.0+mhxx-save-format-community,8
+1242,白速龙套装X长袜,Giaprey Tights X,mhxx-dex-1.0+mhxx-save-format-community,8
+1247,跳狗龙王皮护腿X,Maccao Shinguards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1248,跳狗龙王皮长靴X,Maccao Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1249,狗龙王皮护腿X,Jaggi Shinguards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1250,狗龙王皮长靴X,Jaggi Boots X,mhxx-dex-1.0+mhxx-save-format-community,8
+1251,机械XR护腿,Artian Greaves XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1252,机械XR胫甲,Artian Leggings XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1253,黑龙鞋子,Dragonfeet,mhxx-dex-1.0+mhxx-save-format-community,10
+1254,黑龙双脚,Dragonlegs,mhxx-dex-1.0+mhxx-save-format-community,10
+1255,犯人腿部,Criminal Legs,mhxx-dex-1.0+mhxx-save-format-community,9
+1256,犯人鞋子,Criminal Feet,mhxx-dex-1.0+mhxx-save-format-community,9
+1257,Gon Greaves,Gon Greaves,mhxx-save-format-community-en-fallback,0
+1258,Gon Leggings,Gon Leggings,mhxx-save-format-community-en-fallback,0
+1259,Arcfire Hakama,Arcfire Hakama,mhxx-save-format-community-en-fallback,0
+1260,Bonfire Hakama,Bonfire Hakama,mhxx-save-format-community-en-fallback,0
+1261,Waka Hakama,Waka Hakama,mhxx-save-format-community-en-fallback,0
+1262,Wagaku Hakama,Wagaku Hakama,mhxx-save-format-community-en-fallback,0
+1263,Ruler Arcfire Hakama,Ruler Arcfire Hakama,mhxx-save-format-community-en-fallback,0
+1264,Ruler Bonfire Hakama,Ruler Bonfire Hakama,mhxx-save-format-community-en-fallback,0
+1265,Ruler Waka Hakama,Ruler Waka Hakama,mhxx-save-format-community-en-fallback,0
+1266,Ruler Wagaku Hakama,Ruler Wagaku Hakama,mhxx-save-format-community-en-fallback,0
+1267,Supreme Arcfire Hakama,Supreme Arcfire Hakama,mhxx-save-format-community-en-fallback,0
+1268,Supreme Bonfire Hakama,Supreme Bonfire Hakama,mhxx-save-format-community-en-fallback,0
+1269,Supreme Wagaku Hakama,Supreme Wagaku Hakama,mhxx-save-format-community-en-fallback,0
+1270,Supreme Wagaku Hakama,Supreme Wagaku Hakama,mhxx-save-format-community-en-fallback,0
+1271,黄金骑士【腿甲】,Garo Guards,mhxx-dex-1.0+mhxx-save-format-community,10
+1272,黄金骑士【护腿】,Garo Greaves,mhxx-dex-1.0+mhxx-save-format-community,10
+1273,防护服护胫,Varia Suit Leg Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+1274,防护服壳靴,Varia Suit Legs,mhxx-dex-1.0+mhxx-save-format-community,6
+1275,零装甲靴,Zero Suit Boots,mhxx-dex-1.0+mhxx-save-format-community,6
+1276,零装甲长袜,Zero Suit Tights,mhxx-dex-1.0+mhxx-save-format-community,6
+1277,星耀领主靴,Lodestar Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+1278,星耀领主鞋子,Lodestar Greaves,mhxx-dex-1.0+mhxx-save-format-community,7
+1279,海利亚靴,Hylian Footwear,mhxx-dex-1.0+mhxx-save-format-community,10
+1280,海利亚靴子,Hylian Boots,mhxx-dex-1.0+mhxx-save-format-community,10
+1281,飞龙分趾袜･天,Hiryu Sky Boots,mhxx-dex-1.0+mhxx-save-format-community,7
+1282,飞龙分趾袜･地,Hiryu Land Boots,mhxx-dex-1.0+mhxx-save-format-community,7

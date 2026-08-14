@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "1.1.1"
+GENERATOR_VERSION = "1.2.0"
 DEX_SOURCE = "mhxx-dex-1.0"
 DEX_FALLBACK_SOURCE = "mhxx-dex-1.0-en-fallback"
 SAVE_SOURCE = "mhxx-save-format-community"
@@ -92,6 +92,11 @@ PALICO_CN = {
     "fortes": ("领导", "战斗", "防御", "协助", "回复", "爆弹", "采集", "野兽"),
     "targets": ("-----", "只攻击小型", "小型优先", "均衡", "大型优先", "只攻击大型"),
 }
+
+TALISMAN_CN = (
+    "无", "士兵护石", "斗士护石", "骑士护石", "城塞护石", "女王护石",
+    "国王护石", "龙之护石", "英雄护石", "传说护石", "天之护石",
+)
 
 
 def read_json(path: Path) -> dict:
@@ -228,15 +233,31 @@ def build_language(
 
     armor_data = {int(row["Amr_ID"]): row for row in read_csv(sql_dir / "DB_Amr.csv")}
     armor_names = {int(row["Amr_ID"]): row for row in read_csv(sql_dir / "ID_Amr_Name.csv")}
-    for file_name, part in ARMOR:
-        rows = [none_row(language, equipment=True)]
-        for identifier, data in armor_data.items():
-            if int(data["Part"]) != part:
-                continue
-            name, english, source = localized(armor_names[identifier], "Amr_Name_", language)
-            rows.append(
-                {"id": identifier, "name": name, "english": english, "source": source, "rarity": int(data["Rare"])}
-            )
+    for file_name, _part in ARMOR:
+        rows = []
+        for entry in crosswalk["armor"][Path(file_name).stem]:
+            save_id = int(entry["save_id"])
+            dex_id = int(entry["dex_id"])
+            if save_id == 0:
+                rows.append(none_row(language, equipment=True))
+            elif dex_id < 0:
+                english = str(entry["english"])
+                rows.append({
+                    "id": save_id,
+                    "name": english,
+                    "english": english,
+                    "source": SAVE_FALLBACK_SOURCE if language == "cn" else SAVE_SOURCE,
+                    "rarity": 0,
+                })
+            else:
+                name, english, source = localized(armor_names[dex_id], "Amr_Name_", language)
+                rows.append({
+                    "id": save_id,
+                    "name": name,
+                    "english": english,
+                    "source": source + "+" + SAVE_SOURCE,
+                    "rarity": int(armor_data[dex_id]["Rare"]),
+                })
         rows.sort(key=lambda row: int(row["id"]))
         counts[file_name] = write_csv(output / file_name, EQUIPMENT_COLUMNS, rows)
 
@@ -278,8 +299,8 @@ def build_language(
     for entry in crosswalk["talismans"]:
         identifier = int(entry["id"])
         english = str(entry["english"])
-        name = "无" if language == "cn" and identifier == 0 else english
-        source = SAVE_FALLBACK_SOURCE if language == "cn" and identifier != 0 else SAVE_SOURCE
+        name = TALISMAN_CN[identifier] if language == "cn" else english
+        source = SAVE_SOURCE
         talismans.append({"id": identifier, "name": name, "english": english, "source": source, "rarity": 0})
     counts["talismans.csv"] = write_csv(output / "talismans.csv", EQUIPMENT_COLUMNS, talismans)
 
@@ -312,25 +333,39 @@ def build_language(
 
     peli_weapon_data = {int(row["PeliWpn_ID"]): row for row in read_csv(sql_dir / "DB_PeliWpn.csv")}
     peli_weapon_names = {int(row["PeliWpn_ID"]): row for row in read_csv(sql_dir / "ID_PeliWpn_Name.csv")}
-    palico_weapons = [none_row(language, equipment=True)]
-    for identifier, data in peli_weapon_data.items():
-        name, english, source = localized(peli_weapon_names[identifier], "PeliWpn_Name_", language)
-        palico_weapons.append(
-            {"id": identifier, "name": name, "english": english, "source": source, "rarity": int(data["Rare"])}
-        )
+    palico_weapons = []
+    for entry in crosswalk["palico_equipment"]["palico_weapons"]:
+        save_id, dex_id = int(entry["save_id"]), int(entry["dex_id"])
+        if save_id == 0:
+            palico_weapons.append(none_row(language, equipment=True))
+        elif dex_id < 0:
+            english = str(entry["english"])
+            palico_weapons.append({"id": save_id, "name": english, "english": english,
+                "source": SAVE_FALLBACK_SOURCE if language == "cn" else SAVE_SOURCE, "rarity": 0})
+        else:
+            name, english, source = localized(peli_weapon_names[dex_id], "PeliWpn_Name_", language)
+            palico_weapons.append({"id": save_id, "name": name, "english": english,
+                "source": source + "+" + SAVE_SOURCE, "rarity": int(peli_weapon_data[dex_id]["Rare"])})
+    palico_weapons.sort(key=lambda row: int(row["id"]))
     counts["palico_weapons.csv"] = write_csv(output / "palico_weapons.csv", EQUIPMENT_COLUMNS, palico_weapons)
 
     peli_armor_data = {int(row["PeliAmr_ID"]): row for row in read_csv(sql_dir / "DB_PeliAmr.csv")}
     peli_armor_names = {int(row["PeliAmr_ID"]): row for row in read_csv(sql_dir / "ID_PeliAmr_Name.csv")}
     for file_name, part in (("palico_head.csv", 11), ("palico_armor.csv", 12)):
-        rows = [none_row(language, equipment=True)]
-        for identifier, data in peli_armor_data.items():
-            if int(data["Part"]) != part:
-                continue
-            name, english, source = localized(peli_armor_names[identifier], "PeliAmr_Name_", language)
-            rows.append(
-                {"id": identifier, "name": name, "english": english, "source": source, "rarity": int(data["Rare"])}
-            )
+        rows = []
+        for entry in crosswalk["palico_equipment"][Path(file_name).stem]:
+            save_id, dex_id = int(entry["save_id"]), int(entry["dex_id"])
+            if save_id == 0:
+                rows.append(none_row(language, equipment=True))
+            elif dex_id < 0:
+                english = str(entry["english"])
+                rows.append({"id": save_id, "name": english, "english": english,
+                    "source": SAVE_FALLBACK_SOURCE if language == "cn" else SAVE_SOURCE, "rarity": 0})
+            else:
+                name, english, source = localized(peli_armor_names[dex_id], "PeliAmr_Name_", language)
+                rows.append({"id": save_id, "name": name, "english": english,
+                    "source": source + "+" + SAVE_SOURCE, "rarity": int(peli_armor_data[dex_id]["Rare"])})
+        rows.sort(key=lambda row: int(row["id"]))
         counts[file_name] = write_csv(output / file_name, EQUIPMENT_COLUMNS, rows)
 
     palico = crosswalk["palico"]

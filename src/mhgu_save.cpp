@@ -237,6 +237,18 @@ bool MhguSave::setItem(int index, const MhguItem &value)
     return true;
 }
 
+bool MhguSave::setItems(const QVector<MhguItem> &values)
+{
+    if (!selectedBase() || values.size() != ItemCount) return false;
+    for (const MhguItem &value : values)
+        if (value.id > 0x0FFF || value.count > 0x7F) return false;
+    QVector<MhguItem> normalized = values;
+    for (MhguItem &value : normalized)
+        if (value.id == 0) value = MhguItem{};
+    encodeItems(normalized);
+    return true;
+}
+
 MhguEquipment MhguSave::equipment(int index) const
 {
     MhguEquipment out;

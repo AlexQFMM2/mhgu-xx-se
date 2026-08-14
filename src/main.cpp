@@ -32,7 +32,9 @@ static void applyApplicationStyle(QApplication &app)
         QPushButton#saveButton:hover { background: #1b714c; border-color: #1b714c; }
         QLineEdit, QSpinBox, QComboBox, QTextEdit, QPlainTextEdit { color: #1e293b; background: #ffffff; border: 1px solid #cfd8e6; border-radius: 7px; padding: 5px 8px; min-height: 22px; selection-background-color: #2d70c7; }
         QLineEdit:focus, QSpinBox:focus, QComboBox:focus, QTextEdit:focus { border: 1px solid #4f88d3; }
-        QComboBox::drop-down { border: 0; width: 24px; }
+        QComboBox { padding-right: 28px; }
+        QComboBox::drop-down { subcontrol-origin: padding; subcontrol-position: top right; border: 0; width: 26px; }
+        QComboBox::down-arrow { image: url(:/icons/combobox-arrow.svg); width: 10px; height: 6px; }
         QTableWidget, QTableView { color: #1e293b; background: #ffffff; alternate-background-color: #f7f9fc; border: 1px solid #d8e0eb; border-radius: 8px; gridline-color: #e5eaf1; selection-background-color: #2d70c7; selection-color: #ffffff; }
         QHeaderView::section { color: #344158; background: #edf2f8; border: 0; border-right: 1px solid #d8e0eb; border-bottom: 1px solid #d8e0eb; padding: 7px 8px; font-weight: 600; }
         QGroupBox { background: #ffffff; border: 1px solid #d8e0eb; border-radius: 9px; margin-top: 12px; padding-top: 9px; font-weight: 600; }

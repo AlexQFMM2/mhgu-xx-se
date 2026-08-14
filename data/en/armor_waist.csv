@@ -1,1092 +1,1109 @@
 id,name,english,source,rarity
 0,None,None,mhxx-save-format-community,0
-4,Leather Belt,Leather Belt,mhxx-dex-1.0,1
-9,Chainmail Belt,Chainmail Belt,mhxx-dex-1.0,1
-14,Bherna Belt,Bherna Belt,mhxx-dex-1.0,1
-19,Hunting Faulds,Hunting Faulds,mhxx-dex-1.0,1
-24,Hunting Coat,Hunting Coat,mhxx-dex-1.0,1
-29,Mafumofu Coat,Mafumofu Coat,mhxx-dex-1.0,1
-34,Yukumo Obi,Yukumo Obi,mhxx-dex-1.0,1
-37,Loc Lac Kilt,Loc Lac Kilt,mhxx-dex-1.0,1
-42,Hunter's Faulds,Hunter's Faulds,mhxx-dex-1.0,1
-47,Hunter's Coat,Hunter's Coat,mhxx-dex-1.0,1
-52,Bone Faulds,Bone Faulds,mhxx-dex-1.0,1
-57,Bone Coat,Bone Coat,mhxx-dex-1.0,1
-59,Light Belt,Light Belt,mhxx-dex-1.0,1
-60,Iron Belt,Iron Belt,mhxx-dex-1.0,1
-80,Jaggi Faulds,Jaggi Faulds,mhxx-dex-1.0,1
-85,Jaggi Coat,Jaggi Coat,mhxx-dex-1.0,1
-90,Maccao Faulds,Maccao Faulds,mhxx-dex-1.0,1
-95,Maccao Coat,Maccao Coat,mhxx-dex-1.0,1
-100,Velociprey Tassets,Velociprey Tassets,mhxx-dex-1.0,1
-105,Velociprey Coat,Velociprey Coat,mhxx-dex-1.0,1
-110,Giaprey Tassets,Giaprey Tassets,mhxx-dex-1.0,1
-115,Giaprey Coat,Giaprey Coat,mhxx-dex-1.0,1
-120,Genprey Tassets,Genprey Tassets,mhxx-dex-1.0,1
-125,Genprey Coat,Genprey Coat,mhxx-dex-1.0,1
-130,Vespoid Tassets,Vespoid Tassets,mhxx-dex-1.0,1
-135,Vespoid Coat,Vespoid Coat,mhxx-dex-1.0,1
-140,Hornetaur Tassets,Hornetaur Tassets,mhxx-dex-1.0,1
-145,Hornetaur Coat,Hornetaur Coat,mhxx-dex-1.0,1
-150,Bnahabra Coil,Bnahabra Coil,mhxx-dex-1.0,1
-155,Bnahabra Coat,Bnahabra Coat,mhxx-dex-1.0,1
-164,Mosswine Hip,Mosswine Hip,mhxx-dex-1.0,1
-169,Rhenoplos Coil,Rhenoplos Coil,mhxx-dex-1.0,1
-174,Rhenoplos Coat,Rhenoplos Coat,mhxx-dex-1.0,1
-179,Bulldrome Faulds,Bulldrome Faulds,mhxx-dex-1.0,1
-184,Bulldrome Coat,Bulldrome Coat,mhxx-dex-1.0,1
-190,Arzuros Faulds,Arzuros Faulds,mhxx-dex-1.0,1
-195,Arzuros Coat,Arzuros Coat,mhxx-dex-1.0,1
-200,Cephalos Tassets,Cephalos Tassets,mhxx-dex-1.0,1
-205,Cephalos Coat,Cephalos Coat,mhxx-dex-1.0,1
-210,Derring Belt,Derring Belt,mhxx-dex-1.0,2
-215,Alloy Coil,Alloy Coil,mhxx-dex-1.0,2
-220,Alloy Coat,Alloy Coat,mhxx-dex-1.0,2
-225,Battle Tassets,Battle Tassets,mhxx-dex-1.0,2
-230,Battle Coat,Battle Coat,mhxx-dex-1.0,2
-235,Ingot Coil,Ingot Coil,mhxx-dex-1.0,2
-240,Ingot Coat,Ingot Coat,mhxx-dex-1.0,2
-245,High Metal Tassets,High Metal Tassets,mhxx-dex-1.0,2
-250,High Metal Coat,High Metal Coat,mhxx-dex-1.0,2
-257,Melahoa Folia,Melahoa Folia,mhxx-dex-1.0,2
-262,Melahoa Trunk,Melahoa Trunk,mhxx-dex-1.0,2
-267,Makluva Coil,Makluva Coil,mhxx-dex-1.0,2
-272,Makluva Fin,Makluva Fin,mhxx-dex-1.0,2
-276,Bistro Sarong,Bistro Sarong,mhxx-dex-1.0,2
-279,Bistro Apron,Bistro Apron,mhxx-dex-1.0,2
-283,Obituary Elytra,Obituary Elytra,mhxx-dex-1.0,2
-288,Obituary Alae,Obituary Alae,mhxx-dex-1.0,2
-293,Butterfly Elytra,Butterfly Elytra,mhxx-dex-1.0,2
-298,Butterfly Alae,Butterfly Alae,mhxx-dex-1.0,2
-303,Death Stench Bowels,Death Stench Bowels,mhxx-dex-1.0,2
-308,Death Stench Belly,Death Stench Belly,mhxx-dex-1.0,2
-317,Mosgharl Folia,Mosgharl Folia,mhxx-dex-1.0,2
-322,Mosgharl Fronds,Mosgharl Fronds,mhxx-dex-1.0,2
-327,Edel Folia,Edel Folia,mhxx-dex-1.0,2
-332,Edel Fronds,Edel Fronds,mhxx-dex-1.0,2
-337,Skalda Elytra,Skalda Elytra,mhxx-dex-1.0,2
-342,Skalda Alae,Skalda Alae,mhxx-dex-1.0,2
-347,Spio Elytra,Spio Elytra,mhxx-dex-1.0,2
-352,Spio Alae,Spio Alae,mhxx-dex-1.0,2
-355,Droth Faulds,Droth Faulds,mhxx-dex-1.0,2
-358,Droth Coat,Droth Coat,mhxx-dex-1.0,2
-361,Uroktor Tassets,Uroktor Tassets,mhxx-dex-1.0,2
-363,Uroktor Coat,Uroktor Coat,mhxx-dex-1.0,2
-369,Moofah Coil,Moofah Coil,mhxx-dex-1.0,2
-373,Moofah Coat,Moofah Coat,mhxx-dex-1.0,2
-402,Remobra Belt,Remobra Belt,mhxx-dex-1.0,2
-407,Remobra Band,Remobra Band,mhxx-dex-1.0,2
-412,Ioprey Tassets,Ioprey Tassets,mhxx-dex-1.0,2
-417,Ioprey Coat,Ioprey Coat,mhxx-dex-1.0,2
-422,Kut-Ku Tassets,Kut-Ku Tassets,mhxx-dex-1.0,2
-427,Kut-Ku Coat,Kut-Ku Coat,mhxx-dex-1.0,2
-432,Lagombi Faulds,Lagombi Faulds,mhxx-dex-1.0,2
-437,Lagombi Coat,Lagombi Coat,mhxx-dex-1.0,2
-442,Gypceros Tassets,Gypceros Tassets,mhxx-dex-1.0,2
-447,Gypceros Coat,Gypceros Coat,mhxx-dex-1.0,2
-452,Tetsucabra Faulds,Tetsucabra Faulds,mhxx-dex-1.0,2
-457,Tetsucabra Coat,Tetsucabra Coat,mhxx-dex-1.0,2
-462,Hermitaur Tassets,Hermitaur Tassets,mhxx-dex-1.0,2
-467,Hermitaur Coat,Hermitaur Coat,mhxx-dex-1.0,2
-472,Volvidon Faulds,Volvidon Faulds,mhxx-dex-1.0,2
-477,Volvidon Coat,Volvidon Coat,mhxx-dex-1.0,2
-482,Ludroth Faulds,Ludroth Faulds,mhxx-dex-1.0,2
-487,Ludroth Coat,Ludroth Coat,mhxx-dex-1.0,2
-492,Malfestio Faulds,Malfestio Faulds,mhxx-dex-1.0,2
-497,Malfestio Coat,Malfestio Coat,mhxx-dex-1.0,2
-502,Khezu Tassets,Khezu Tassets,mhxx-dex-1.0,2
-507,Khezu Coat,Khezu Coat,mhxx-dex-1.0,2
-512,Rathian Faulds,Rathian Faulds,mhxx-dex-1.0,2
-517,Rathian Coat,Rathian Coat,mhxx-dex-1.0,2
-522,Nibelsnarf Faulds,Nibelsnarf Faulds,mhxx-dex-1.0,2
-527,Nibelsnarf Coat,Nibelsnarf Coat,mhxx-dex-1.0,2
-532,Blango Tassets,Blango Tassets,mhxx-dex-1.0,2
-537,Blango Coat,Blango Coat,mhxx-dex-1.0,2
-542,Ceanataur Tassets,Ceanataur Tassets,mhxx-dex-1.0,2
-547,Ceanataur Coat,Ceanataur Coat,mhxx-dex-1.0,2
-552,Najarala Faulds,Najarala Faulds,mhxx-dex-1.0,2
-557,Najarala Coat,Najarala Coat,mhxx-dex-1.0,2
-562,Nargacuga Faulds,Nargacuga Faulds,mhxx-dex-1.0,2
-567,Nargacuga Coat,Nargacuga Coat,mhxx-dex-1.0,2
-572,Scholarly Sash,Scholarly Sash,mhxx-dex-1.0,2
-577,Scholarly Coat,Scholarly Coat,mhxx-dex-1.0,2
-582,Vaik Faulds,Vaik Faulds,mhxx-dex-1.0,3
-587,Vaik Coat,Vaik Coat,mhxx-dex-1.0,3
-594,Aelucanth Elytra,Aelucanth Elytra,mhxx-dex-1.0,3
-599,Aelucanth Alae,Aelucanth Alae,mhxx-dex-1.0,3
-604,Rhopessa Elytra,Rhopessa Elytra,mhxx-dex-1.0,3
-609,Rhopessa Alae,Rhopessa Alae,mhxx-dex-1.0,3
-620,Garuga Tassets,Garuga Tassets,mhxx-dex-1.0,3
-625,Garuga Coat,Garuga Coat,mhxx-dex-1.0,3
-631,Uragaan Faulds,Uragaan Faulds,mhxx-dex-1.0,3
-636,Uragaan Coat,Uragaan Coat,mhxx-dex-1.0,3
-641,Rathalos Faulds,Rathalos Faulds,mhxx-dex-1.0,3
-646,Rathalos Coat,Rathalos Coat,mhxx-dex-1.0,3
-651,Lagiacrus Faulds,Lagiacrus Faulds,mhxx-dex-1.0,3
-656,Lagiacrus Coat,Lagiacrus Coat,mhxx-dex-1.0,3
-661,Zinogre Faulds,Zinogre Faulds,mhxx-dex-1.0,3
-666,Zinogre Coat,Zinogre Coat,mhxx-dex-1.0,3
-671,Mizutsune Faulds,Mizutsune Faulds,mhxx-dex-1.0,3
-676,Mizutsune Coat,Mizutsune Coat,mhxx-dex-1.0,3
-681,Astalos Faulds,Astalos Faulds,mhxx-dex-1.0,3
-686,Astalos Coat,Astalos Coat,mhxx-dex-1.0,3
-691,Gammoth Faulds,Gammoth Faulds,mhxx-dex-1.0,3
-696,Gammoth Coat,Gammoth Coat,mhxx-dex-1.0,3
-701,Glavenus Faulds,Glavenus Faulds,mhxx-dex-1.0,3
-706,Glavenus Coat,Glavenus Coat,mhxx-dex-1.0,3
-711,Gore Faulds,Gore Faulds,mhxx-dex-1.0,3
-716,Gore Coat,Gore Coat,mhxx-dex-1.0,3
-721,Regios Tassets,Regios Tassets,mhxx-dex-1.0,3
-726,Regios Coat,Regios Coat,mhxx-dex-1.0,3
-731,Tigrex Tassets,Tigrex Tassets,mhxx-dex-1.0,3
-736,Tigrex Coat,Tigrex Coat,mhxx-dex-1.0,3
-741,Kirin Hoop,Kirin Hoop,mhxx-dex-1.0,3
-746,Kirin Shorts,Kirin Shorts,mhxx-dex-1.0,3
-751,Brachydios Faulds,Brachydios Faulds,mhxx-dex-1.0,3
-756,Brachydios Coat,Brachydios Coat,mhxx-dex-1.0,3
-761,Arc Faulds,Arc Faulds,mhxx-dex-1.0,3
-766,Arc Coat,Arc Coat,mhxx-dex-1.0,3
-771,Storge Faulds,Storge Faulds,mhxx-dex-1.0,3
-776,Storge Coat,Storge Coat,mhxx-dex-1.0,3
-781,Kushala Cocoon,Kushala Cocoon,mhxx-dex-1.0,3
-786,Kushala Wind Wrap,Kushala Wind Wrap,mhxx-dex-1.0,3
-791,Mizuha Sash,Mizuha Sash,mhxx-dex-1.0,3
-796,Cham Coat,Cham Coat,mhxx-dex-1.0,3
-801,Kaiser Tassets,Kaiser Tassets,mhxx-dex-1.0,3
-806,Kaiser Coat,Kaiser Coat,mhxx-dex-1.0,3
-811,Skeletal Hipbone,Skeletal Hipbone,mhxx-dex-1.0,3
-816,Decayed Hipbone,Decayed Hipbone,mhxx-dex-1.0,3
-821,Black Spine,Black Spine,mhxx-dex-1.0,3
-826,Black Scale,Black Scale,mhxx-dex-1.0,3
-831,Black Belt Tassets,Black Belt Tassets,mhxx-dex-1.0,3
-836,Black Belt Coat,Black Belt Coat,mhxx-dex-1.0,3
-841,Guild Bard Coil,Guild Bard Coil,mhxx-dex-1.0,3
-846,Guild Bard Coat,Guild Bard Coat,mhxx-dex-1.0,3
-851,Maiden's Skirt,Maiden's Skirt,mhxx-dex-1.0,3
-856,French Maid Frills,French Maid Frills,mhxx-dex-1.0,3
-861,Helper Skirt,Helper Skirt,mhxx-dex-1.0,3
-866,Healer Frills,Healer Frills,mhxx-dex-1.0,3
-871,Dianthus Skirt,Dianthus Skirt,mhxx-dex-1.0,3
-876,Campanile Skirt,Campanile Skirt,mhxx-dex-1.0,3
-885,Gourmew Sarong,Gourmew Sarong,mhxx-dex-1.0,3
-890,Gourmew Apron,Gourmew Apron,mhxx-dex-1.0,3
-895,Leather Faulds S,Leather Faulds S,mhxx-dex-1.0,4
-900,Leather Coat S,Leather Coat S,mhxx-dex-1.0,4
-905,Chainmail Faulds S,Chainmail Faulds S,mhxx-dex-1.0,4
-910,Chainmail Coat S,Chainmail Coat S,mhxx-dex-1.0,4
-915,Bherna Belt S,Bherna Belt S,mhxx-dex-1.0,4
-920,Bherna Coat S,Bherna Coat S,mhxx-dex-1.0,4
-925,Hunting Faulds S,Hunting Faulds S,mhxx-dex-1.0,4
-930,Hunting Coat S,Hunting Coat S,mhxx-dex-1.0,4
-935,Mafumofu Coil S,Mafumofu Coil S,mhxx-dex-1.0,4
-940,Mafumofu Coat S,Mafumofu Coat S,mhxx-dex-1.0,4
-945,Yukumo Sky Obi,Yukumo Sky Obi,mhxx-dex-1.0,4
-950,Yukumo Land Obi,Yukumo Land Obi,mhxx-dex-1.0,4
-953,Loc Lac Kilt S,Loc Lac Kilt S,mhxx-dex-1.0,4
-958,Hunter's Faulds S,Hunter's Faulds S,mhxx-dex-1.0,4
-963,Hunter's Coat S,Hunter's Coat S,mhxx-dex-1.0,4
-968,Hunter's Faulds R,Hunter's Faulds R,mhxx-dex-1.0,4
-973,Hunter's Coat R,Hunter's Coat R,mhxx-dex-1.0,4
-978,Bone Faulds S,Bone Faulds S,mhxx-dex-1.0,4
-983,Bone Coat S,Bone Coat S,mhxx-dex-1.0,4
-985,Light Belt S,Light Belt S,mhxx-dex-1.0,4
-986,Iron Belt S,Iron Belt S,mhxx-dex-1.0,4
-996,Melahoa Folia S,Melahoa Folia S,mhxx-dex-1.0,4
-1001,Melahoa Trunk S,Melahoa Trunk S,mhxx-dex-1.0,4
-1006,Melahoa Folia U,Melahoa Folia U,mhxx-dex-1.0,4
-1011,Melahoa Trunk U,Melahoa Trunk U,mhxx-dex-1.0,4
-1016,Makluva Coil S,Makluva Coil S,mhxx-dex-1.0,4
-1021,Makluva Fin S,Makluva Fin S,mhxx-dex-1.0,4
-1026,Makluva Coil U,Makluva Coil U,mhxx-dex-1.0,4
-1031,Makluva Fin U,Makluva Fin U,mhxx-dex-1.0,4
-1035,Bistro Sarong S,Bistro Sarong S,mhxx-dex-1.0,4
-1038,Bistro Apron S,Bistro Apron S,mhxx-dex-1.0,4
-1046,Mosgharl Folia S,Mosgharl Folia S,mhxx-dex-1.0,4
-1051,Mosgharl Fronds S,Mosgharl Fronds S,mhxx-dex-1.0,4
-1056,Edel Folia S,Edel Folia S,mhxx-dex-1.0,4
-1061,Edel Fronds S,Edel Fronds S,mhxx-dex-1.0,4
-1066,Moofah Coil S,Moofah Coil S,mhxx-dex-1.0,4
-1070,Moofah Coat S,Moofah Coat S,mhxx-dex-1.0,4
-1113,Remobra Belt S,Remobra Belt S,mhxx-dex-1.0,4
-1118,Remobra Band S,Remobra Band S,mhxx-dex-1.0,4
-1135,Mosswine Hip S,Mosswine Hip S,mhxx-dex-1.0,4
-1140,Rhenoplos Coil S,Rhenoplos Coil S,mhxx-dex-1.0,4
-1145,Rhenoplos Coat S,Rhenoplos Coat S,mhxx-dex-1.0,4
-1150,Jaggi Faulds S,Jaggi Faulds S,mhxx-dex-1.0,4
-1155,Jaggi Coat S,Jaggi Coat S,mhxx-dex-1.0,4
-1158,Droth Faulds S,Droth Faulds S,mhxx-dex-1.0,4
-1161,Droth Coat S,Droth Coat S,mhxx-dex-1.0,4
-1164,Uroktor Tassets S,Uroktor Tassets S,mhxx-dex-1.0,4
-1166,Uroktor Coat S,Uroktor Coat S,mhxx-dex-1.0,4
-1170,Maccao Faulds S,Maccao Faulds S,mhxx-dex-1.0,4
-1175,Maccao Coat S,Maccao Coat S,mhxx-dex-1.0,4
-1180,Velociprey Tassets S,Velociprey Tassets S,mhxx-dex-1.0,4
-1185,Velociprey Coat S,Velociprey Coat S,mhxx-dex-1.0,4
-1190,Giaprey Faulds S,Giaprey Faulds S,mhxx-dex-1.0,4
-1195,Giaprey Coat S,Giaprey Coat S,mhxx-dex-1.0,4
-1200,Genprey Tassets S,Genprey Tassets S,mhxx-dex-1.0,4
-1205,Genprey Coat S,Genprey Coat S,mhxx-dex-1.0,4
-1210,EX Genprey Tassets,EX Genprey Tassets,mhxx-dex-1.0,4
-1215,EX Genprey Coat,EX Genprey Coat,mhxx-dex-1.0,4
-1220,Ioprey Tassets S,Ioprey Tassets S,mhxx-dex-1.0,4
-1225,Ioprey Coat S,Ioprey Coat S,mhxx-dex-1.0,4
-1230,EX Ioprey Tassets,EX Ioprey Tassets,mhxx-dex-1.0,4
-1235,EX Ioprey Coat,EX Ioprey Coat,mhxx-dex-1.0,4
-1240,Vespoid Tassets S,Vespoid Tassets S,mhxx-dex-1.0,4
-1245,Vespoid Coat S,Vespoid Coat S,mhxx-dex-1.0,4
-1250,EX Vespoid Tassets,EX Vespoid Tassets,mhxx-dex-1.0,4
-1255,EX Vespoid Coat,EX Vespoid Coat,mhxx-dex-1.0,4
-1260,Hornetaur Tassets S,Hornetaur Tassets S,mhxx-dex-1.0,4
-1265,Hornetaur Coat S,Hornetaur Coat S,mhxx-dex-1.0,4
-1270,EX Hornetaur Tassets,EX Hornetaur Tassets,mhxx-dex-1.0,4
-1275,EX Hornetaur Coat,EX Hornetaur Coat,mhxx-dex-1.0,4
-1280,Hornetaur Tassets R,Hornetaur Tassets R,mhxx-dex-1.0,4
-1285,Hornetaur Coat R,Hornetaur Coat R,mhxx-dex-1.0,4
-1290,Bnahabra Coil S,Bnahabra Coil S,mhxx-dex-1.0,4
-1295,Bnahabra Coat S,Bnahabra Coat S,mhxx-dex-1.0,4
-1304,Bulldrome Faulds S,Bulldrome Faulds S,mhxx-dex-1.0,4
-1309,Bulldrome Coat S,Bulldrome Coat S,mhxx-dex-1.0,4
-1315,Arzuros Faulds S,Arzuros Faulds S,mhxx-dex-1.0,4
-1320,Arzuros Coat S,Arzuros Coat S,mhxx-dex-1.0,4
-1325,Cephalos Tassets S,Cephalos Tassets S,mhxx-dex-1.0,4
-1330,Cephalos Coat S,Cephalos Coat S,mhxx-dex-1.0,4
-1335,EX Cephalos Tassets,EX Cephalos Tassets,mhxx-dex-1.0,4
-1340,EX Cephalos Coat,EX Cephalos Coat,mhxx-dex-1.0,4
-1345,Kut-Ku Tassets S,Kut-Ku Tassets S,mhxx-dex-1.0,4
-1350,Kut-Ku Coat S,Kut-Ku Coat S,mhxx-dex-1.0,4
-1355,Kecha Faulds,Kecha Faulds,mhxx-dex-1.0,4
-1360,Kecha Coat,Kecha Coat,mhxx-dex-1.0,4
-1365,Lagombi Faulds S,Lagombi Faulds S,mhxx-dex-1.0,4
-1370,Lagombi Coat S,Lagombi Coat S,mhxx-dex-1.0,4
-1375,Gypceros Tassets S,Gypceros Tassets S,mhxx-dex-1.0,4
-1380,Gypceros Coat S,Gypceros Coat S,mhxx-dex-1.0,4
-1385,Gypceros Tassets R,Gypceros Tassets R,mhxx-dex-1.0,4
-1390,Gypceros Coat R,Gypceros Coat R,mhxx-dex-1.0,4
-1395,Tetsucabra Faulds S,Tetsucabra Faulds S,mhxx-dex-1.0,4
-1400,Tetsucabra Coat S,Tetsucabra Coat S,mhxx-dex-1.0,4
-1405,Hermitaur Tassets S,Hermitaur Tassets S,mhxx-dex-1.0,4
-1410,Hermitaur Coat S,Hermitaur Coat S,mhxx-dex-1.0,4
-1415,EX Hermitaur Tassets,EX Hermitaur Tassets,mhxx-dex-1.0,4
-1420,EX Hermitaur Coat,EX Hermitaur Coat,mhxx-dex-1.0,4
-1425,Hermitaur Tassets R,Hermitaur Tassets R,mhxx-dex-1.0,4
-1430,Hermitaur Coat R,Hermitaur Coat R,mhxx-dex-1.0,4
-1435,Volvidon Faulds S,Volvidon Faulds S,mhxx-dex-1.0,4
-1440,Volvidon Coat S,Volvidon Coat S,mhxx-dex-1.0,4
-1445,Conga Tassets,Conga Tassets,mhxx-dex-1.0,4
-1450,Conga Coat,Conga Coat,mhxx-dex-1.0,4
-1455,Ludroth Faulds S,Ludroth Faulds S,mhxx-dex-1.0,4
-1460,Ludroth Coat S,Ludroth Coat S,mhxx-dex-1.0,4
-1465,Ludroth Tassets R,Ludroth Tassets R,mhxx-dex-1.0,4
-1470,Ludroth Coat R,Ludroth Coat R,mhxx-dex-1.0,4
-1475,Barroth Faulds,Barroth Faulds,mhxx-dex-1.0,4
-1480,Barroth Coat,Barroth Coat,mhxx-dex-1.0,4
-1485,Lecturer's Skirt,Lecturer's Skirt,mhxx-dex-1.0,4
-1490,Lecturer's Frills,Lecturer's Frills,mhxx-dex-1.0,4
-1495,Alloy Coil S,Alloy Coil S,mhxx-dex-1.0,5
-1500,Alloy Coat S,Alloy Coat S,mhxx-dex-1.0,5
-1505,Alloy Coil R,Alloy Coil R,mhxx-dex-1.0,5
-1510,Alloy Coat R,Alloy Coat R,mhxx-dex-1.0,5
-1515,Battle Tassets S,Battle Tassets S,mhxx-dex-1.0,5
-1520,Battle Coat S,Battle Coat S,mhxx-dex-1.0,5
-1525,Ingot Coil S,Ingot Coil S,mhxx-dex-1.0,5
-1530,Ingot Coat S,Ingot Coat S,mhxx-dex-1.0,5
-1535,Ingot Coil R,Ingot Coil R,mhxx-dex-1.0,5
-1540,Ingot Coat R,Ingot Coat R,mhxx-dex-1.0,5
-1545,High Metal Tassets S,High Metal Tassets S,mhxx-dex-1.0,5
-1550,High Metal Coat S,High Metal Coat S,mhxx-dex-1.0,5
-1555,High Metal Tassets U,High Metal Tassets U,mhxx-dex-1.0,5
-1560,High Metal Coat U,High Metal Coat U,mhxx-dex-1.0,5
-1567,Lobster Coil,Lobster Coil,mhxx-dex-1.0,5
-1572,Lobster Coat,Lobster Coat,mhxx-dex-1.0,5
-1577,Obituary Elytra S,Obituary Elytra S,mhxx-dex-1.0,5
-1582,Obituary Alae S,Obituary Alae S,mhxx-dex-1.0,5
-1587,Butterfly Elytra S,Butterfly Elytra S,mhxx-dex-1.0,5
-1592,Butterfly Alae S,Butterfly Alae S,mhxx-dex-1.0,5
-1597,Death Stench Bowels S,Death Stench Bowels S,mhxx-dex-1.0,5
-1602,Death Stench Belly S,Death Stench Belly S,mhxx-dex-1.0,5
-1607,Death Stench Bowels R,Death Stench Bowels R,mhxx-dex-1.0,5
-1612,Death Stench Belly R,Death Stench Belly R,mhxx-dex-1.0,5
-1617,Vaik Faulds S,Vaik Faulds S,mhxx-dex-1.0,5
-1622,Vaik Coat S,Vaik Coat S,mhxx-dex-1.0,5
-1627,Aelucanth Elytra S,Aelucanth Elytra S,mhxx-dex-1.0,5
-1632,Aelucanth Alae S,Aelucanth Alae S,mhxx-dex-1.0,5
-1637,Rhopessa Elytra S,Rhopessa Elytra S,mhxx-dex-1.0,5
-1642,Rhopessa Alae S,Rhopessa Alae S,mhxx-dex-1.0,5
-1647,Patissier's Sarong,Patissier's Sarong,mhxx-dex-1.0,5
-1652,Patissier's Apron,Patissier's Apron,mhxx-dex-1.0,5
-1657,Skalda Elytra S,Skalda Elytra S,mhxx-dex-1.0,5
-1662,Skalda Alae S,Skalda Alae S,mhxx-dex-1.0,5
-1667,Spio Elytra S,Spio Elytra S,mhxx-dex-1.0,5
-1672,Spio Alae S,Spio Alae S,mhxx-dex-1.0,5
-1678,Basarios Tassets,Basarios Tassets,mhxx-dex-1.0,5
-1683,Basarios Coat,Basarios Coat,mhxx-dex-1.0,5
-1688,Malfestio Faulds S,Malfestio Faulds S,mhxx-dex-1.0,5
-1693,Malfestio Coat S,Malfestio Coat S,mhxx-dex-1.0,5
-1698,Zamtrios Faulds,Zamtrios Faulds,mhxx-dex-1.0,5
-1703,Zamtrios Coat,Zamtrios Coat,mhxx-dex-1.0,5
-1708,Khezu Tassets S,Khezu Tassets S,mhxx-dex-1.0,5
-1713,Khezu Coat S,Khezu Coat S,mhxx-dex-1.0,5
-1718,Khezu Tassets R,Khezu Tassets R,mhxx-dex-1.0,5
-1723,Khezu Coat R,Khezu Coat R,mhxx-dex-1.0,5
-1728,Nerscylla Faulds,Nerscylla Faulds,mhxx-dex-1.0,5
-1733,Nerscylla Coat,Nerscylla Coat,mhxx-dex-1.0,5
-1738,Rathian Faulds S,Rathian Faulds S,mhxx-dex-1.0,5
-1743,Rathian Coat S,Rathian Coat S,mhxx-dex-1.0,5
-1748,EX Rathian Faulds,EX Rathian Faulds,mhxx-dex-1.0,5
-1753,EX Rathian Coat,EX Rathian Coat,mhxx-dex-1.0,5
-1758,Rathian Faulds R,Rathian Faulds R,mhxx-dex-1.0,5
-1763,Rathian Coat R,Rathian Coat R,mhxx-dex-1.0,5
-1768,Nibelsnarf Faulds S,Nibelsnarf Faulds S,mhxx-dex-1.0,5
-1773,Nibelsnarf Coat S,Nibelsnarf Coat S,mhxx-dex-1.0,5
-1786,Blango Tassets S,Blango Tassets S,mhxx-dex-1.0,5
-1791,Blango Coat S,Blango Coat S,mhxx-dex-1.0,5
-1796,EX Blango Tassets,EX Blango Tassets,mhxx-dex-1.0,5
-1801,EX Blango Coat,EX Blango Coat,mhxx-dex-1.0,5
-1806,Lavasioth Tassets,Lavasioth Tassets,mhxx-dex-1.0,5
-1811,Lavasioth Coat,Lavasioth Coat,mhxx-dex-1.0,5
-1816,EX Lavasioth Tassets,EX Lavasioth Tassets,mhxx-dex-1.0,5
-1821,EX Lavasioth Coat,EX Lavasioth Coat,mhxx-dex-1.0,5
-1826,Ceanataur Tassets S,Ceanataur Tassets S,mhxx-dex-1.0,5
-1831,Ceanataur Coat S,Ceanataur Coat S,mhxx-dex-1.0,5
-1836,EX Ceanataur Tassets,EX Ceanataur Tassets,mhxx-dex-1.0,5
-1841,EX Ceanataur Coat,EX Ceanataur Coat,mhxx-dex-1.0,5
-1846,Ceanataur Tassets R,Ceanataur Tassets R,mhxx-dex-1.0,5
-1851,Ceanataur Coat R,Ceanataur Coat R,mhxx-dex-1.0,5
-1856,Najarala Faulds S,Najarala Faulds S,mhxx-dex-1.0,5
-1861,Najarala Coat S,Najarala Coat S,mhxx-dex-1.0,5
-1866,Nargacuga Tassets S,Nargacuga Tassets S,mhxx-dex-1.0,5
-1871,Nargacuga Coat S,Nargacuga Coat S,mhxx-dex-1.0,5
-1876,Garuga Tassets S,Garuga Tassets S,mhxx-dex-1.0,5
-1881,Garuga Coat S,Garuga Coat S,mhxx-dex-1.0,5
-1887,Uragaan Faulds S,Uragaan Faulds S,mhxx-dex-1.0,5
-1892,Uragaan Coat S,Uragaan Coat S,mhxx-dex-1.0,5
-1897,Black Belt Tassets S,Black Belt Tassets S,mhxx-dex-1.0,5
-1902,Black Belt Coat S,Black Belt Coat S,mhxx-dex-1.0,5
-1907,Guardian Coil,Guardian Coil,mhxx-dex-1.0,5
-1912,Guardian Coat,Guardian Coat,mhxx-dex-1.0,5
-1917,Guardian Coil U,Guardian Coil U,mhxx-dex-1.0,5
-1922,Guardian Coat U,Guardian Coat U,mhxx-dex-1.0,5
-1927,Scholar's Skirt,Scholar's Skirt,mhxx-dex-1.0,5
-1932,Scholar's Mini,Scholar's Mini,mhxx-dex-1.0,5
-1937,Sailor Skirt,Sailor Skirt,mhxx-dex-1.0,5
-1942,Sailor Mini,Sailor Mini,mhxx-dex-1.0,5
-1960,Derring Faulds S,Derring Faulds S,mhxx-dex-1.0,6
-1965,Derring Coat S,Derring Coat S,mhxx-dex-1.0,6
-1970,Dober Coil,Dober Coil,mhxx-dex-1.0,6
-1975,Dober Coat,Dober Coat,mhxx-dex-1.0,6
-1980,Damascus Coil,Damascus Coil,mhxx-dex-1.0,6
-1985,Damascus Coat,Damascus Coat,mhxx-dex-1.0,6
-1990,Damascus Coil R,Damascus Coil R,mhxx-dex-1.0,6
-1995,Damascus Coat R,Damascus Coat R,mhxx-dex-1.0,6
-2001,Chrome Metal Coil,Chrome Metal Coil,mhxx-dex-1.0,6
-2003,Chrome Metal Coat,Chrome Metal Coat,mhxx-dex-1.0,6
-2008,Artian Coil S,Artian Coil S,mhxx-dex-1.0,6
-2013,Artian Coat S,Artian Coat S,mhxx-dex-1.0,6
-2018,Artian Coil R,Artian Coil R,mhxx-dex-1.0,6
-2023,Artian Coat R,Artian Coat R,mhxx-dex-1.0,6
-2028,Barioth Faulds,Barioth Faulds,mhxx-dex-1.0,6
-2033,Barioth Coat,Barioth Coat,mhxx-dex-1.0,6
-2038,Seltas Faulds,Seltas Faulds,mhxx-dex-1.0,6
-2043,Seltas Coat,Seltas Coat,mhxx-dex-1.0,6
-2048,Rathalos Faulds S,Rathalos Faulds S,mhxx-dex-1.0,6
-2053,Rathalos Coat S,Rathalos Coat S,mhxx-dex-1.0,6
-2058,EX Rathalos Faulds,EX Rathalos Faulds,mhxx-dex-1.0,6
-2063,EX Rathalos Coat,EX Rathalos Coat,mhxx-dex-1.0,6
-2068,Rathalos Faulds R,Rathalos Faulds R,mhxx-dex-1.0,6
-2073,Rathalos Coat R,Rathalos Coat R,mhxx-dex-1.0,6
-2078,Lagiacrus Faulds S,Lagiacrus Faulds S,mhxx-dex-1.0,6
-2083,Lagiacrus Coat S,Lagiacrus Coat S,mhxx-dex-1.0,6
-2088,Lagiacrus Faulds R,Lagiacrus Faulds R,mhxx-dex-1.0,6
-2093,Lagiacrus Coat R,Lagiacrus Coat R,mhxx-dex-1.0,6
-2098,Zinogre Faulds S,Zinogre Faulds S,mhxx-dex-1.0,6
-2103,Zinogre Coat S,Zinogre Coat S,mhxx-dex-1.0,6
-2108,EX Zinogre Faulds,EX Zinogre Faulds,mhxx-dex-1.0,6
-2113,EX Zinogre Coat,EX Zinogre Coat,mhxx-dex-1.0,6
-2118,Gravios Tassets,Gravios Tassets,mhxx-dex-1.0,6
-2123,Gravios Coat,Gravios Coat,mhxx-dex-1.0,6
-2128,Mizutsune Faulds S,Mizutsune Faulds S,mhxx-dex-1.0,6
-2133,Mizutsune Coat S,Mizutsune Coat S,mhxx-dex-1.0,6
-2138,Astalos Faulds S,Astalos Faulds S,mhxx-dex-1.0,6
-2143,Astalos Coat S,Astalos Coat S,mhxx-dex-1.0,6
-2148,Gammoth Faulds S,Gammoth Faulds S,mhxx-dex-1.0,6
-2153,Gammoth Coat S,Gammoth Coat S,mhxx-dex-1.0,6
-2158,Glavenus Faulds S,Glavenus Faulds S,mhxx-dex-1.0,6
-2163,Glavenus Coat S,Glavenus Coat S,mhxx-dex-1.0,6
-2168,Agnaktor Faulds,Agnaktor Faulds,mhxx-dex-1.0,6
-2173,Agnaktor Coat,Agnaktor Coat,mhxx-dex-1.0,6
-2178,Gore Faulds S,Gore Faulds S,mhxx-dex-1.0,6
-2183,Gore Coat S,Gore Coat S,mhxx-dex-1.0,6
-2188,EX Gore Faulds,EX Gore Faulds,mhxx-dex-1.0,6
-2193,EX Gore Coat,EX Gore Coat,mhxx-dex-1.0,6
-2198,Gore Faulds R,Gore Faulds R,mhxx-dex-1.0,6
-2203,Gore Coat R,Gore Coat R,mhxx-dex-1.0,6
-2208,Regios Tassets S,Regios Tassets S,mhxx-dex-1.0,6
-2213,Regios Coat S,Regios Coat S,mhxx-dex-1.0,6
-2218,Duramboros Faulds,Duramboros Faulds,mhxx-dex-1.0,6
-2223,Duramboros Coat,Duramboros Coat,mhxx-dex-1.0,6
-2228,Tigrex Tassets S,Tigrex Tassets S,mhxx-dex-1.0,6
-2233,Tigrex Coat S,Tigrex Coat S,mhxx-dex-1.0,6
-2238,EX Tigrex Tassets,EX Tigrex Tassets,mhxx-dex-1.0,6
-2243,EX Tigrex Coat,EX Tigrex Coat,mhxx-dex-1.0,6
-2248,Tigrex Tassets R,Tigrex Tassets R,mhxx-dex-1.0,6
-2253,Tigrex Coat R,Tigrex Coat R,mhxx-dex-1.0,6
-2258,Kirin Hoop S,Kirin Hoop S,mhxx-dex-1.0,6
-2263,Kirin Shorts S,Kirin Shorts S,mhxx-dex-1.0,6
-2268,Kirin Hoop R,Kirin Hoop R,mhxx-dex-1.0,6
-2273,Kirin Shorts R,Kirin Shorts R,mhxx-dex-1.0,6
-2278,Brachydios Faulds S,Brachydios Faulds S,mhxx-dex-1.0,6
-2283,Brachydios Coat S,Brachydios Coat S,mhxx-dex-1.0,6
-2288,EX Brachydios Faulds,EX Brachydios Faulds,mhxx-dex-1.0,6
-2293,EX Brachydios Coat,EX Brachydios Coat,mhxx-dex-1.0,6
-2298,Golden Obi,Golden Obi,mhxx-dex-1.0,6
-2303,Puppeteer Obi,Puppeteer Obi,mhxx-dex-1.0,6
-2308,Vangis Coil,Vangis Coil,mhxx-dex-1.0,6
-2313,Vangis Coat,Vangis Coat,mhxx-dex-1.0,6
-2318,Guild Knight Coat,Guild Knight Coat,mhxx-dex-1.0,6
-2323,Guild Knight Kilt,Guild Knight Kilt,mhxx-dex-1.0,6
-2328,Maiden's Skirt S,Maiden's Skirt S,mhxx-dex-1.0,6
-2333,French Maid Frills S,French Maid Frills S,mhxx-dex-1.0,6
-2338,Blue Guild Coil,Blue Guild Coil,mhxx-dex-1.0,6
-2343,Blue Guild Coat,Blue Guild Coat,mhxx-dex-1.0,6
-2348,Blue Guild Coil,Blue Guild Coil,mhxx-dex-1.0,6
-2353,Blue Guild Coat,Blue Guild Coat,mhxx-dex-1.0,6
-2358,Red Guild Coil,Red Guild Coil,mhxx-dex-1.0,6
-2363,Red Guild Coat,Red Guild Coat,mhxx-dex-1.0,6
-2368,Red Guild Coil,Red Guild Coil,mhxx-dex-1.0,6
-2373,Red Guild Coat,Red Guild Coat,mhxx-dex-1.0,6
-2378,Helper Skirt S,Helper Skirt S,mhxx-dex-1.0,6
-2383,Healer Frills S,Healer Frills S,mhxx-dex-1.0,6
-2388,Helper Skirt U,Helper Skirt U,mhxx-dex-1.0,6
-2393,Healer Frills U,Healer Frills U,mhxx-dex-1.0,6
-2398,Guild Bard Coil S,Guild Bard Coil S,mhxx-dex-1.0,6
-2403,Guild Bard Coat S,Guild Bard Coat S,mhxx-dex-1.0,6
-2408,Chakra Waistlet,Chakra Waistlet,mhxx-dex-1.0,6
-2413,Dianthus Wealskirt,Dianthus Wealskirt,mhxx-dex-1.0,6
-2418,Campanile Wealskirt,Campanile Wealskirt,mhxx-dex-1.0,6
-2423,Ace Faulds,Ace Faulds,mhxx-dex-1.0,6
-2428,Ace Coat,Ace Coat,mhxx-dex-1.0,6
-2433,Sororal Faulds,Sororal Faulds,mhxx-dex-1.0,6
-2438,Sororal Coat,Sororal Coat,mhxx-dex-1.0,6
-2443,Hawkcoil,Hawkcoil,mhxx-dex-1.0,6
-2448,Hawkcoat,Hawkcoat,mhxx-dex-1.0,6
-2453,Gourmew Sarong S,Gourmew Sarong S,mhxx-dex-1.0,6
-2458,Gourmew Apron S,Gourmew Apron S,mhxx-dex-1.0,6
-2464,Scholarly Sash S,Scholarly Sash S,mhxx-dex-1.0,6
-2469,Scholarly Coat S,Scholarly Coat S,mhxx-dex-1.0,6
-2474,Ranger's Sash,Ranger's Sash,mhxx-dex-1.0,6
-2479,Archer's Belt,Archer's Belt,mhxx-dex-1.0,6
-2484,Shinobi Heaven Belt,Shinobi Heaven Belt,mhxx-dex-1.0,7
-2489,Shinobi Land Belt,Shinobi Land Belt,mhxx-dex-1.0,7
-2494,Shinobi Sky Belt,Shinobi Sky Belt,mhxx-dex-1.0,7
-2499,Shinobi Sea Belt,Shinobi Sea Belt,mhxx-dex-1.0,7
-2504,Ancient Coil,Ancient Coil,mhxx-dex-1.0,7
-2509,Ancient Coat,Ancient Coat,mhxx-dex-1.0,7
-2514,Master's Faulds,Master's Faulds,mhxx-dex-1.0,7
-2519,Master's Coat,Master's Coat,mhxx-dex-1.0,7
-2524,Black Spine S,Black Spine S,mhxx-dex-1.0,7
-2529,Black Scale S,Black Scale S,mhxx-dex-1.0,7
-2534,Toka Koshiate,Toka Koshiate,mhxx-dex-1.0,7
-2539,Mitsuaoi Koshiate,Mitsuaoi Koshiate,mhxx-dex-1.0,7
-2544,Wisdom Coil,Wisdom Coil,mhxx-dex-1.0,7
-2549,Wisdom Coat,Wisdom Coat,mhxx-dex-1.0,7
-2554,Cheerful Belt,Cheerful Belt,mhxx-dex-1.0,7
-2559,Cheerful Band,Cheerful Band,mhxx-dex-1.0,7
-2564,Mariner Skirt,Mariner Skirt,mhxx-dex-1.0,7
-2569,Mariner Frills,Mariner Frills,mhxx-dex-1.0,7
-2574,EX Rathian Faulds S,EX Rathian Faulds S,mhxx-dex-1.0,7
-2579,EX Rathian Coat S,EX Rathian Coat S,mhxx-dex-1.0,7
-2584,EX Rathalos Faulds S,EX Rathalos Faulds S,mhxx-dex-1.0,7
-2589,EX Rathalos Coat S,EX Rathalos Coat S,mhxx-dex-1.0,7
-2594,EX Tigrex Coil S,EX Tigrex Coil S,mhxx-dex-1.0,7
-2599,EX Tigrex Coat S,EX Tigrex Coat S,mhxx-dex-1.0,7
-2604,Diablos Coil,Diablos Coil,mhxx-dex-1.0,7
-2609,Diablos Coat,Diablos Coat,mhxx-dex-1.0,7
-2614,Diablos Coil R,Diablos Coil R,mhxx-dex-1.0,7
-2619,Diablos Coat R,Diablos Coat R,mhxx-dex-1.0,7
-2624,Arc Faulds S,Arc Faulds S,mhxx-dex-1.0,7
-2629,Arc Coat S,Arc Coat S,mhxx-dex-1.0,7
-2634,Storge Faulds S,Storge Faulds S,mhxx-dex-1.0,7
-2639,Storge Coat S,Storge Coat S,mhxx-dex-1.0,7
-2644,EX Arc Faulds,EX Arc Faulds,mhxx-dex-1.0,7
-2649,EX Arc Coat,EX Arc Coat,mhxx-dex-1.0,7
-2654,EX Storge Faulds,EX Storge Faulds,mhxx-dex-1.0,7
-2659,EX Storge Coat,EX Storge Coat,mhxx-dex-1.0,7
-2664,Arc Faulds R,Arc Faulds R,mhxx-dex-1.0,7
-2669,Arc Coat R,Arc Coat R,mhxx-dex-1.0,7
-2674,Storge Faulds R,Storge Faulds R,mhxx-dex-1.0,7
-2679,Storge Coat R,Storge Coat R,mhxx-dex-1.0,7
-2684,Valstrax Faulds,Valstrax Faulds,mhxx-dex-1.0,7
-2689,Valstrax Coat,Valstrax Coat,mhxx-dex-1.0,7
-2694,Kushala Cocoon S,Kushala Cocoon S,mhxx-dex-1.0,7
-2699,Kushala Wind Wrap S,Kushala Wind Wrap S,mhxx-dex-1.0,7
-2704,EX Kushala Cocoon,EX Kushala Cocoon,mhxx-dex-1.0,7
-2709,EX Kushala Wind Wrap,EX Kushala Wind Wrap,mhxx-dex-1.0,7
-2714,Kushala Cocoon R,Kushala Cocoon R,mhxx-dex-1.0,7
-2719,Kushala Wind Wrap R,Kushala Wind Wrap R,mhxx-dex-1.0,7
-2724,Mizuha Sash S,Mizuha Sash S,mhxx-dex-1.0,7
-2729,Cham Coat S,Cham Coat S,mhxx-dex-1.0,7
-2734,EX Mizuha Sash,EX Mizuha Sash,mhxx-dex-1.0,7
-2739,EX Cham Coat,EX Cham Coat,mhxx-dex-1.0,7
-2744,Kaiser Tassets S,Kaiser Tassets S,mhxx-dex-1.0,7
-2749,Kaiser Coat S,Kaiser Coat S,mhxx-dex-1.0,7
-2754,EX Kaiser Tassets,EX Kaiser Tassets,mhxx-dex-1.0,7
-2759,EX Kaiser Coat,EX Kaiser Coat,mhxx-dex-1.0,7
-2764,Silver Solcoil,Silver Solcoil,mhxx-dex-1.0,7
-2769,Silver Solcoat,Silver Solcoat,mhxx-dex-1.0,7
-2774,EX Silver Solcoil,EX Silver Solcoil,mhxx-dex-1.0,7
-2779,EX Silver Solcoat,EX Silver Solcoat,mhxx-dex-1.0,7
-2784,Silver Solcoil R,Silver Solcoil R,mhxx-dex-1.0,7
-2789,Silver Solcoat R,Silver Solcoat R,mhxx-dex-1.0,7
-2794,Golden Lunecoil,Golden Lunecoil,mhxx-dex-1.0,7
-2799,Golden Lunecoat,Golden Lunecoat,mhxx-dex-1.0,7
-2804,EX Golden Lunecoil,EX Golden Lunecoil,mhxx-dex-1.0,7
-2809,EX Golden Lunecoat,EX Golden Lunecoat,mhxx-dex-1.0,7
-2814,Divine Ire Obi,Divine Ire Obi,mhxx-dex-1.0,7
-2819,Crusher Belt,Crusher Belt,mhxx-dex-1.0,7
-2824,Esurient Faulds,Esurient Faulds,mhxx-dex-1.0,7
-2829,Esurient Coat,Esurient Coat,mhxx-dex-1.0,7
-2834,Esurient Faulds R,Esurient Faulds R,mhxx-dex-1.0,7
-2839,Esurient Coat R,Esurient Coat R,mhxx-dex-1.0,7
-2844,Akantor Cincture,Akantor Cincture,mhxx-dex-1.0,7
-2849,Akantor Sash,Akantor Sash,mhxx-dex-1.0,7
-2854,Akantor Cincture R,Akantor Cincture R,mhxx-dex-1.0,7
-2859,Akantor Sash R,Akantor Sash R,mhxx-dex-1.0,7
-2864,Ukanlos Cincture,Ukanlos Cincture,mhxx-dex-1.0,7
-2869,Ukanlos Sash,Ukanlos Sash,mhxx-dex-1.0,7
-2874,Tempest Obi,Tempest Obi,mhxx-dex-1.0,7
-2879,Welkin Obi,Welkin Obi,mhxx-dex-1.0,7
-2884,Tempest Obi R,Tempest Obi R,mhxx-dex-1.0,7
-2889,Welkin Obi R,Welkin Obi R,mhxx-dex-1.0,7
-2894,Skeletal Hipbone R,Skeletal Hipbone R,mhxx-dex-1.0,7
-2899,Decayed Hipbone R,Decayed Hipbone R,mhxx-dex-1.0,7
-2904,Astral Coil,Astral Coil,mhxx-dex-1.0,7
-2909,Astral Coat,Astral Coat,mhxx-dex-1.0,7
-2914,Escadora Might,Escadora Might,mhxx-dex-1.0,7
-2919,Escadora Force,Escadora Force,mhxx-dex-1.0,7
-2924,Escadora Might R,Escadora Might R,mhxx-dex-1.0,7
-2929,Escadora Force R,Escadora Force R,mhxx-dex-1.0,7
-2946,Leather Faulds X,Leather Faulds X,mhxx-dex-1.0,8
-2951,Leather Coat X,Leather Coat X,mhxx-dex-1.0,8
-2956,Chainmail Faulds X,Chainmail Faulds X,mhxx-dex-1.0,8
-2961,Chainmail Coat X,Chainmail Coat X,mhxx-dex-1.0,8
-2966,Bherna Belt X,Bherna Belt X,mhxx-dex-1.0,8
-2971,Bherna Coat X,Bherna Coat X,mhxx-dex-1.0,8
-2976,Hunting Faulds X,Hunting Faulds X,mhxx-dex-1.0,8
-2981,Hunting Coat X,Hunting Coat X,mhxx-dex-1.0,8
-2986,Mafumofu Coil X,Mafumofu Coil X,mhxx-dex-1.0,8
-2991,Mafumofu Coat X,Mafumofu Coat X,mhxx-dex-1.0,8
-2996,Yukumo Sky Obi Goku,Yukumo Sky Obi Goku,mhxx-dex-1.0,8
-3001,Yukumo Land Obi Goku,Yukumo Land Obi Goku,mhxx-dex-1.0,8
-3008,Loc Lac Kilt X,Loc Lac Kilt X,mhxx-dex-1.0,8
-3013,Hunter's Faulds X,Hunter's Faulds X,mhxx-dex-1.0,8
-3018,Hunter's Coat X,Hunter's Coat X,mhxx-dex-1.0,8
-3023,Hunter's Faulds XR,Hunter's Faulds XR,mhxx-dex-1.0,8
-3028,Hunter's Coat XR,Hunter's Coat XR,mhxx-dex-1.0,8
-3033,Bone Faulds X,Bone Faulds X,mhxx-dex-1.0,8
-3038,Bone Coat X,Bone Coat X,mhxx-dex-1.0,8
-3061,Melahoa Folia X,Melahoa Folia X,mhxx-dex-1.0,8
-3066,Melahoa Trunk X,Melahoa Trunk X,mhxx-dex-1.0,8
-3071,Melahoa Skirt Z,Melahoa Skirt Z,mhxx-dex-1.0,8
-3076,Melahoa Trunk Z,Melahoa Trunk Z,mhxx-dex-1.0,8
-3081,Makluva Coil X,Makluva Coil X,mhxx-dex-1.0,8
-3086,Makluva Fin X,Makluva Fin X,mhxx-dex-1.0,8
-3091,Makluva Coil Z,Makluva Coil Z,mhxx-dex-1.0,8
-3096,Makluva Fin Z,Makluva Fin Z,mhxx-dex-1.0,8
-3101,Obituary Elytra X,Obituary Elytra X,mhxx-dex-1.0,8
-3106,Obituary Alae X,Obituary Alae X,mhxx-dex-1.0,8
-3111,Butterfly Elytra X,Butterfly Elytra X,mhxx-dex-1.0,8
-3116,Butterfly Alae X,Butterfly Alae X,mhxx-dex-1.0,8
-3121,Death Stench Bowels X,Death Stench Bowels X,mhxx-dex-1.0,8
-3126,Death Stench Belly X,Death Stench Belly X,mhxx-dex-1.0,8
-3131,Death Stench Bowels XR,Death Stench Bowels XR,mhxx-dex-1.0,8
-3136,Death Stench Belly XR,Death Stench Belly XR,mhxx-dex-1.0,8
-3145,Mosgharl Folia X,Mosgharl Folia X,mhxx-dex-1.0,8
-3150,Mosgharl Fronds X,Mosgharl Fronds X,mhxx-dex-1.0,8
-3155,Edel Folia X,Edel Folia X,mhxx-dex-1.0,8
-3160,Edel Fronds X,Edel Fronds X,mhxx-dex-1.0,8
-3165,Skalda Elytra X,Skalda Elytra X,mhxx-dex-1.0,8
-3170,Skalda Alae X,Skalda Alae X,mhxx-dex-1.0,8
-3175,Spio Elytra X,Spio Elytra X,mhxx-dex-1.0,8
-3180,Spio Alae X,Spio Alae X,mhxx-dex-1.0,8
-3185,Alloy Coil X,Alloy Coil X,mhxx-dex-1.0,8
-3190,Alloy Coat X,Alloy Coat X,mhxx-dex-1.0,8
-3195,Alloy Faulds XR,Alloy Faulds XR,mhxx-dex-1.0,8
-3200,Alloy Coat XR,Alloy Coat XR,mhxx-dex-1.0,8
-3205,Battle Tassets X,Battle Tassets X,mhxx-dex-1.0,8
-3210,Battle Coat X,Battle Coat X,mhxx-dex-1.0,8
-3215,Ingot Coil X,Ingot Coil X,mhxx-dex-1.0,8
-3220,Ingot Coat X,Ingot Coat X,mhxx-dex-1.0,8
-3225,Ingot Coil XR,Ingot Coil XR,mhxx-dex-1.0,8
-3230,Ingot Coat XR,Ingot Coat XR,mhxx-dex-1.0,8
-3235,High Metal Tassets X,High Metal Tassets X,mhxx-dex-1.0,8
-3240,High Metal Coat X,High Metal Coat X,mhxx-dex-1.0,8
-3245,High Metal Tassets Z,High Metal Tassets Z,mhxx-dex-1.0,8
-3250,High Metal Coat Z,High Metal Coat Z,mhxx-dex-1.0,8
-3257,Lobster Coil X,Lobster Coil X,mhxx-dex-1.0,8
-3262,Lobster Coat X,Lobster Coat X,mhxx-dex-1.0,8
-3267,Vaik Faulds X,Vaik Faulds X,mhxx-dex-1.0,8
-3272,Vaik Coat X,Vaik Coat X,mhxx-dex-1.0,8
-3276,Bistro Sarong X,Bistro Sarong X,mhxx-dex-1.0,8
-3279,Bistro Apron X,Bistro Apron X,mhxx-dex-1.0,8
-3283,Patissier's Sarong X,Patissier's Sarong X,mhxx-dex-1.0,8
-3288,Patissier's Apron X,Patissier's Apron X,mhxx-dex-1.0,8
-3293,Gourmew Sarong X,Gourmew Sarong X,mhxx-dex-1.0,8
-3298,Gourmew Apron X,Gourmew Apron X,mhxx-dex-1.0,8
-3303,Aelucanth Elytra X,Aelucanth Elytra X,mhxx-dex-1.0,8
-3308,Aelucanth Alae X,Aelucanth Alae X,mhxx-dex-1.0,8
-3313,Rhopessa Elytra X,Rhopessa Elytra X,mhxx-dex-1.0,8
-3318,Rhopessa Alae X,Rhopessa Alae X,mhxx-dex-1.0,8
-3323,Lecturer's Skirt X,Lecturer's Skirt X,mhxx-dex-1.0,8
-3328,Lecturer's Frills X,Lecturer's Frills X,mhxx-dex-1.0,8
-3333,Derring Faulds X,Derring Faulds X,mhxx-dex-1.0,8
-3338,Derring Coat X,Derring Coat X,mhxx-dex-1.0,8
-3343,Artian Coil X,Artian Coil X,mhxx-dex-1.0,8
-3348,Artian Coat X,Artian Coat X,mhxx-dex-1.0,8
-3353,Artian Coil XR,Artian Coil XR,mhxx-dex-1.0,8
-3358,Artian Coat XR,Artian Coat XR,mhxx-dex-1.0,8
-3363,Maiden's Skirt X,Maiden's Skirt X,mhxx-dex-1.0,8
-3368,French Maid Frills X,French Maid Frills X,mhxx-dex-1.0,8
-3373,Dianthus Masaskirt,Dianthus Masaskirt,mhxx-dex-1.0,8
-3378,Campanile Masaskirt,Campanile Masaskirt,mhxx-dex-1.0,8
-3383,Hawkcoil X,Hawkcoil X,mhxx-dex-1.0,8
-3388,Hawkcoat X,Hawkcoat X,mhxx-dex-1.0,8
-3393,Scholarly Sash X,Scholarly Sash X,mhxx-dex-1.0,8
-3398,Scholarly Coat X,Scholarly Coat X,mhxx-dex-1.0,8
-3403,Dober Coil X,Dober Coil X,mhxx-dex-1.0,8
-3408,Dober Coat X,Dober Coat X,mhxx-dex-1.0,8
-3413,Scholar's Skirt X,Scholar's Skirt X,mhxx-dex-1.0,8
-3418,Scholar's Mini X,Scholar's Mini X,mhxx-dex-1.0,8
-3423,Sailor Skirt X,Sailor Skirt X,mhxx-dex-1.0,8
-3428,Sailor Mini X,Sailor Mini X,mhxx-dex-1.0,8
-3433,Mariner Skirt X,Mariner Skirt X,mhxx-dex-1.0,8
-3438,Mariner Frills X,Mariner Frills X,mhxx-dex-1.0,8
-3447,Jaggi Faulds X,Jaggi Faulds X,mhxx-dex-1.0,8
-3452,Jaggi Coat X,Jaggi Coat X,mhxx-dex-1.0,8
-3458,Maccao Faulds X,Maccao Faulds X,mhxx-dex-1.0,8
-3463,Maccao Coat X,Maccao Coat X,mhxx-dex-1.0,8
-3468,Velociprey Tassets X,Velociprey Tassets X,mhxx-dex-1.0,8
-3473,Velociprey Coat X,Velociprey Coat X,mhxx-dex-1.0,8
-3478,Giaprey Faulds X,Giaprey Faulds X,mhxx-dex-1.0,8
-3483,Giaprey Coat X,Giaprey Coat X,mhxx-dex-1.0,8
-3488,Genprey Tassets X,Genprey Tassets X,mhxx-dex-1.0,8
-3493,Genprey Coat X,Genprey Coat X,mhxx-dex-1.0,8
-3498,Genprey Tassets GX,Genprey Tassets GX,mhxx-dex-1.0,8
-3503,Genprey Coat GX,Genprey Coat GX,mhxx-dex-1.0,8
-3508,Vespoid Tassets X,Vespoid Tassets X,mhxx-dex-1.0,8
-3513,Vespoid Coat X,Vespoid Coat X,mhxx-dex-1.0,8
-3518,Vespoid Tassets GX,Vespoid Tassets GX,mhxx-dex-1.0,8
-3523,Vespoid Coat GX,Vespoid Coat GX,mhxx-dex-1.0,8
-3528,Hornetaur Tassets X,Hornetaur Tassets X,mhxx-dex-1.0,8
-3533,Hornetaur Coat X,Hornetaur Coat X,mhxx-dex-1.0,8
-3538,Hornetaur Tassets GX,Hornetaur Tassets GX,mhxx-dex-1.0,8
-3543,Hornetaur Coat GX,Hornetaur Coat GX,mhxx-dex-1.0,8
-3548,Hornetaur Tassets XR,Hornetaur Tassets XR,mhxx-dex-1.0,8
-3553,Hornetaur Coat XR,Hornetaur Coat XR,mhxx-dex-1.0,8
-3558,Bnahabra Coil X,Bnahabra Coil X,mhxx-dex-1.0,8
-3563,Bnahabra Coat X,Bnahabra Coat X,mhxx-dex-1.0,8
-3572,Mosswine Hip X,Mosswine Hip X,mhxx-dex-1.0,8
-3577,Rhenoplos Coil X,Rhenoplos Coil X,mhxx-dex-1.0,8
-3582,Rhenoplos Coat X,Rhenoplos Coat X,mhxx-dex-1.0,8
-3587,Bulldrome Faulds X,Bulldrome Faulds X,mhxx-dex-1.0,8
-3592,Bulldrome Coat X,Bulldrome Coat X,mhxx-dex-1.0,8
-3598,Arzuros Faulds X,Arzuros Faulds X,mhxx-dex-1.0,8
-3603,Arzuros Coat X,Arzuros Coat X,mhxx-dex-1.0,8
-3608,Cephalos Tassets X,Cephalos Tassets X,mhxx-dex-1.0,8
-3613,Cephalos Coat X,Cephalos Coat X,mhxx-dex-1.0,8
-3618,Cephalos Tassets GX,Cephalos Tassets GX,mhxx-dex-1.0,8
-3623,Cephalos Coat GX,Cephalos Coat GX,mhxx-dex-1.0,8
-3626,Droth Faulds X,Droth Faulds X,mhxx-dex-1.0,8
-3629,Droth Coat X,Droth Coat X,mhxx-dex-1.0,8
-3632,Uroktor Tassets X,Uroktor Tassets X,mhxx-dex-1.0,8
-3634,Uroktor Coat X,Uroktor Coat X,mhxx-dex-1.0,8
-3640,Moofah Coil X,Moofah Coil X,mhxx-dex-1.0,8
-3644,Moofah Coat X,Moofah Coat X,mhxx-dex-1.0,8
-3680,Remobra Belt X,Remobra Belt X,mhxx-dex-1.0,8
-3685,Remobra Band X,Remobra Band X,mhxx-dex-1.0,8
-3690,Ioprey Tassets X,Ioprey Tassets X,mhxx-dex-1.0,8
-3695,Ioprey Coat X,Ioprey Coat X,mhxx-dex-1.0,8
-3700,Ioprey Tassets GX,Ioprey Tassets GX,mhxx-dex-1.0,8
-3705,Ioprey Coat GX,Ioprey Coat GX,mhxx-dex-1.0,8
-3710,Kut-Ku Tassets X,Kut-Ku Tassets X,mhxx-dex-1.0,8
-3715,Kut-Ku Coat X,Kut-Ku Coat X,mhxx-dex-1.0,8
-3720,Kecha Faulds X,Kecha Faulds X,mhxx-dex-1.0,8
-3725,Kecha Coat X,Kecha Coat X,mhxx-dex-1.0,8
-3730,Lagombi Faulds X,Lagombi Faulds X,mhxx-dex-1.0,8
-3735,Lagombi Coat X,Lagombi Coat X,mhxx-dex-1.0,8
-3740,Gypceros Tassets X,Gypceros Tassets X,mhxx-dex-1.0,8
-3745,Gypceros Coat X,Gypceros Coat X,mhxx-dex-1.0,8
-3750,Gypceros Tassets XR,Gypceros Tassets XR,mhxx-dex-1.0,8
-3755,Gypceros Coat XR,Gypceros Coat XR,mhxx-dex-1.0,8
-3760,Tetsucabra Faulds X,Tetsucabra Faulds X,mhxx-dex-1.0,8
-3765,Tetsucabra Coat X,Tetsucabra Coat X,mhxx-dex-1.0,8
-3770,Hermitaur Tassets X,Hermitaur Tassets X,mhxx-dex-1.0,8
-3775,Hermitaur Coat X,Hermitaur Coat X,mhxx-dex-1.0,8
-3780,Hermitaur Tassets GX,Hermitaur Tassets GX,mhxx-dex-1.0,8
-3785,Hermitaur Coat GX,Hermitaur Coat GX,mhxx-dex-1.0,8
-3790,Hermitaur Tassets XR,Hermitaur Tassets XR,mhxx-dex-1.0,8
-3795,Hermitaur Coat XR,Hermitaur Coat XR,mhxx-dex-1.0,8
-3800,Volvidon Faulds X,Volvidon Faulds X,mhxx-dex-1.0,8
-3805,Volvidon Coat X,Volvidon Coat X,mhxx-dex-1.0,8
-3810,Conga Tassets X,Conga Tassets X,mhxx-dex-1.0,8
-3815,Conga Coat X,Conga Coat X,mhxx-dex-1.0,8
-3820,Conga Tassets GX,Conga Tassets GX,mhxx-dex-1.0,8
-3825,Conga Coat GX,Conga Coat GX,mhxx-dex-1.0,8
-3830,Ludroth Faulds X,Ludroth Faulds X,mhxx-dex-1.0,8
-3835,Ludroth Coat X,Ludroth Coat X,mhxx-dex-1.0,8
-3840,Ludroth Faulds XR,Ludroth Faulds XR,mhxx-dex-1.0,8
-3845,Ludroth Coat XR,Ludroth Coat XR,mhxx-dex-1.0,8
-3850,Barroth Faulds X,Barroth Faulds X,mhxx-dex-1.0,8
-3855,Barroth Coat X,Barroth Coat X,mhxx-dex-1.0,8
-3860,Basarios Tassets X,Basarios Tassets X,mhxx-dex-1.0,8
-3865,Basarios Coat X,Basarios Coat X,mhxx-dex-1.0,8
-3870,Malfestio Faulds X,Malfestio Faulds X,mhxx-dex-1.0,8
-3875,Malfestio Coat X,Malfestio Coat X,mhxx-dex-1.0,8
-3880,Zamtrios Faulds X,Zamtrios Faulds X,mhxx-dex-1.0,8
-3885,Zamtrios Coat X,Zamtrios Coat X,mhxx-dex-1.0,8
-3890,Khezu Tassets X,Khezu Tassets X,mhxx-dex-1.0,8
-3895,Khezu Coat X,Khezu Coat X,mhxx-dex-1.0,8
-3900,Khezu Tassets XR,Khezu Tassets XR,mhxx-dex-1.0,8
-3905,Khezu Coat XR,Khezu Coat XR,mhxx-dex-1.0,8
-3910,Nerscylla Faulds X,Nerscylla Faulds X,mhxx-dex-1.0,8
-3915,Nerscylla Coat X,Nerscylla Coat X,mhxx-dex-1.0,8
-3920,Rathian Faulds X,Rathian Faulds X,mhxx-dex-1.0,8
-3925,Rathian Coat X,Rathian Coat X,mhxx-dex-1.0,8
-3930,Rathian Faulds GX,Rathian Faulds GX,mhxx-dex-1.0,8
-3935,Rathian Coat GX,Rathian Coat GX,mhxx-dex-1.0,8
-3940,Rathian Faulds XR,Rathian Faulds XR,mhxx-dex-1.0,8
-3945,Rathian Coat XR,Rathian Coat XR,mhxx-dex-1.0,8
-3950,Nibelsnarf Faulds X,Nibelsnarf Faulds X,mhxx-dex-1.0,8
-3955,Nibelsnarf Coat X,Nibelsnarf Coat X,mhxx-dex-1.0,8
-3964,---,---,mhxx-dex-1.0,8
-3969,Blango Tassets X,Blango Tassets X,mhxx-dex-1.0,8
-3974,Blango Coat X,Blango Coat X,mhxx-dex-1.0,8
-3979,Blango Tassets GX,Blango Tassets GX,mhxx-dex-1.0,8
-3984,Blango Coat GX,Blango Coat GX,mhxx-dex-1.0,8
-3989,Lava Tassets X,Lava Tassets X,mhxx-dex-1.0,8
-3994,Lava Coat X,Lava Coat X,mhxx-dex-1.0,8
-3999,Lavasioth Tassets GX,Lavasioth Tassets GX,mhxx-dex-1.0,8
-4004,Lavasioth Coat GX,Lavasioth Coat GX,mhxx-dex-1.0,8
-4009,Ceanataur Tassets X,Ceanataur Tassets X,mhxx-dex-1.0,8
-4014,Ceanataur Coat X,Ceanataur Coat X,mhxx-dex-1.0,8
-4019,Ceanataur Tassets GX,Ceanataur Tassets GX,mhxx-dex-1.0,8
-4024,Ceanataur Coat GX,Ceanataur Coat GX,mhxx-dex-1.0,8
-4029,Ceanataur Tassets XR,Ceanataur Tassets XR,mhxx-dex-1.0,8
-4034,Ceanataur Coat XR,Ceanataur Coat XR,mhxx-dex-1.0,8
-4039,Najarala Faulds X,Najarala Faulds X,mhxx-dex-1.0,8
-4044,Najarala Coat X,Najarala Coat X,mhxx-dex-1.0,8
-4049,Nargacuga Faulds X,Nargacuga Faulds X,mhxx-dex-1.0,8
-4054,Nargacuga Coat X,Nargacuga Coat X,mhxx-dex-1.0,8
-4059,Garuga Tassets X,Garuga Tassets X,mhxx-dex-1.0,8
-4064,Garuga Coat X,Garuga Coat X,mhxx-dex-1.0,8
-4070,Uragaan Faulds X,Uragaan Faulds X,mhxx-dex-1.0,8
-4075,Uragaan Coat X,Uragaan Coat X,mhxx-dex-1.0,8
-4088,G. Knight Coat X,G. Knight Coat X,mhxx-dex-1.0,8
-4093,G. Knight Kilt X,G. Knight Kilt X,mhxx-dex-1.0,8
-4098,Guild Bard Coil X,Guild Bard Coil X,mhxx-dex-1.0,8
-4103,Guild Bard Coat X,Guild Bard Coat X,mhxx-dex-1.0,8
-4107,Chrome Metal Coil X,Chrome Metal Coil X,mhxx-dex-1.0,8
-4109,Chrome Metal Coat X,Chrome Metal Coat X,mhxx-dex-1.0,8
-4115,Helper Skirt X,Helper Skirt X,mhxx-dex-1.0,9
-4120,Healer Frills X,Healer Frills X,mhxx-dex-1.0,9
-4125,Helper Skirt Z,Helper Skirt Z,mhxx-dex-1.0,9
-4130,Healer Frills Z,Healer Frills Z,mhxx-dex-1.0,9
-4135,Ancient Coil X,Ancient Coil X,mhxx-dex-1.0,9
-4140,Ancient Coat X,Ancient Coat X,mhxx-dex-1.0,9
-4145,Ace Faulds X,Ace Faulds X,mhxx-dex-1.0,9
-4150,Ace Coat X,Ace Coat X,mhxx-dex-1.0,9
-4155,Sororal Faulds X,Sororal Faulds X,mhxx-dex-1.0,9
-4160,Sororal Coat X,Sororal Coat X,mhxx-dex-1.0,9
-4165,Strider's Sash,Strider's Sash,mhxx-dex-1.0,9
-4170,Deadeye's Belt,Deadeye's Belt,mhxx-dex-1.0,9
-4175,Shinobi Heaven Belt Goku,Shinobi Heaven Belt Goku,mhxx-dex-1.0,9
-4180,Shinobi Land Belt Goku,Shinobi Land Belt Goku,mhxx-dex-1.0,9
-4185,Master's Faulds X,Master's Faulds X,mhxx-dex-1.0,9
-4190,Master's Coat X,Master's Coat X,mhxx-dex-1.0,9
-4195,Grand Toka Koshiate,Grand Toka Koshiate,mhxx-dex-1.0,9
-4200,Grand Mitsuaoi Koshiate,Grand Mitsuaoi Koshiate,mhxx-dex-1.0,9
-4205,Yaksha Coil,Yaksha Coil,mhxx-dex-1.0,9
-4210,Carnage Wrap,Carnage Wrap,mhxx-dex-1.0,9
-4215,Helios Coil X,Helios Coil X,mhxx-dex-1.0,9
-4220,Helios Coat X,Helios Coat X,mhxx-dex-1.0,9
-4225,Selene Coil X,Selene Coil X,mhxx-dex-1.0,9
-4230,Selene Coat X,Selene Coat X,mhxx-dex-1.0,9
-4235,Wisdom Coil X,Wisdom Coil X,mhxx-dex-1.0,9
-4240,Wisdom Coat X,Wisdom Coat X,mhxx-dex-1.0,9
-4245,Research Sash,Research Sash,mhxx-dex-1.0,9
-4250,Research Coat,Research Coat,mhxx-dex-1.0,9
-4255,Cheerful Belt X,Cheerful Belt X,mhxx-dex-1.0,9
-4260,Cheerful Band X,Cheerful Band X,mhxx-dex-1.0,9
-4265,Barioth Faulds X,Barioth Faulds X,mhxx-dex-1.0,9
-4270,Barioth Coat X,Barioth Coat X,mhxx-dex-1.0,9
-4275,Seltas Faulds X,Seltas Faulds X,mhxx-dex-1.0,9
-4280,Seltas Coat X,Seltas Coat X,mhxx-dex-1.0,9
-4285,Rathalos Faulds X,Rathalos Faulds X,mhxx-dex-1.0,9
-4290,Rathalos Coat X,Rathalos Coat X,mhxx-dex-1.0,9
-4295,Rathalos Faulds GX,Rathalos Faulds GX,mhxx-dex-1.0,9
-4300,Rathalos Coat GX,Rathalos Coat GX,mhxx-dex-1.0,9
-4305,Rathalos Faulds XR,Rathalos Faulds XR,mhxx-dex-1.0,9
-4310,Rathalos Coat XR,Rathalos Coat XR,mhxx-dex-1.0,9
-4315,Lagiacrus Faulds X,Lagiacrus Faulds X,mhxx-dex-1.0,9
-4320,Lagiacrus Coat X,Lagiacrus Coat X,mhxx-dex-1.0,9
-4325,Lagiacrus Faulds XR,Lagiacrus Faulds XR,mhxx-dex-1.0,9
-4330,Lagiacrus Coat XR,Lagiacrus Coat XR,mhxx-dex-1.0,9
-4335,Zinogre Faulds X,Zinogre Faulds X,mhxx-dex-1.0,9
-4340,Zinogre Coat X,Zinogre Coat X,mhxx-dex-1.0,9
-4345,Zinogre Faulds GX,Zinogre Faulds GX,mhxx-dex-1.0,9
-4350,Zinogre Coat GX,Zinogre Coat GX,mhxx-dex-1.0,9
-4355,Gravios Tassets X,Gravios Tassets X,mhxx-dex-1.0,9
-4360,Gravios Coat X,Gravios Coat X,mhxx-dex-1.0,9
-4365,Mizutsune Faulds X,Mizutsune Faulds X,mhxx-dex-1.0,9
-4370,Mizutsune Coat X,Mizutsune Coat X,mhxx-dex-1.0,9
-4375,Astalos Faulds X,Astalos Faulds X,mhxx-dex-1.0,9
-4380,Astalos Coat X,Astalos Coat X,mhxx-dex-1.0,9
-4385,Gammoth Faulds X,Gammoth Faulds X,mhxx-dex-1.0,9
-4390,Gammoth Coat X,Gammoth Coat X,mhxx-dex-1.0,9
-4395,Glavenus Faulds X,Glavenus Faulds X,mhxx-dex-1.0,9
-4400,Glavenus Coat X,Glavenus Coat X,mhxx-dex-1.0,9
-4405,Agnaktor Faulds X,Agnaktor Faulds X,mhxx-dex-1.0,9
-4410,Agnaktor Coat X,Agnaktor Coat X,mhxx-dex-1.0,9
-4415,Gore Faulds X,Gore Faulds X,mhxx-dex-1.0,9
-4420,Gore Coat X,Gore Coat X,mhxx-dex-1.0,9
-4425,Gore Faulds GX,Gore Faulds GX,mhxx-dex-1.0,9
-4430,Gore Coat GX,Gore Coat GX,mhxx-dex-1.0,9
-4435,Gore Faulds XR,Gore Faulds XR,mhxx-dex-1.0,9
-4440,Gore Coat XR,Gore Coat XR,mhxx-dex-1.0,9
-4445,Regios Tassets X,Regios Tassets X,mhxx-dex-1.0,9
-4450,Regios Coat X,Regios Coat X,mhxx-dex-1.0,9
-4455,Duramboros Faulds X,Duramboros Faulds X,mhxx-dex-1.0,9
-4460,Duramboros Coat X,Duramboros Coat X,mhxx-dex-1.0,9
-4465,Tigrex Tassets X,Tigrex Tassets X,mhxx-dex-1.0,9
-4470,Tigrex Coat X,Tigrex Coat X,mhxx-dex-1.0,9
-4475,Tigrex Tassets GX,Tigrex Tassets GX,mhxx-dex-1.0,9
-4480,Tigrex Coat GX,Tigrex Coat GX,mhxx-dex-1.0,9
-4485,Tigrex Tassets XR,Tigrex Tassets XR,mhxx-dex-1.0,9
-4490,Tigrex Coat XR,Tigrex Coat XR,mhxx-dex-1.0,9
-4495,Diablos Coil X,Diablos Coil X,mhxx-dex-1.0,9
-4500,Diablos Coat X,Diablos Coat X,mhxx-dex-1.0,9
-4505,Diablos Coil XR,Diablos Coil XR,mhxx-dex-1.0,9
-4510,Diablos Coat XR,Diablos Coat XR,mhxx-dex-1.0,9
-4515,Kirin Hoop X,Kirin Hoop X,mhxx-dex-1.0,9
-4520,Kirin Shorts X,Kirin Shorts X,mhxx-dex-1.0,9
-4525,Kirin Hoop XR,Kirin Hoop XR,mhxx-dex-1.0,9
-4530,Kirin Shorts XR,Kirin Shorts XR,mhxx-dex-1.0,9
-4535,Brachydios Faulds X,Brachydios Faulds X,mhxx-dex-1.0,9
-4540,Brachydios Coat X,Brachydios Coat X,mhxx-dex-1.0,9
-4545,Brachydios Faulds GX,Brachydios Faulds GX,mhxx-dex-1.0,9
-4550,Brachydios Coat GX,Brachydios Coat GX,mhxx-dex-1.0,9
-4555,Arc Faulds X,Arc Faulds X,mhxx-dex-1.0,9
-4560,Arc Coat X,Arc Coat X,mhxx-dex-1.0,9
-4565,Storge Faulds X,Storge Faulds X,mhxx-dex-1.0,9
-4570,Storge Coat X,Storge Coat X,mhxx-dex-1.0,9
-4575,Arc Faulds GX,Arc Faulds GX,mhxx-dex-1.0,9
-4580,Arc Coat GX,Arc Coat GX,mhxx-dex-1.0,9
-4585,Storge Faulds GX,Storge Faulds GX,mhxx-dex-1.0,9
-4590,Storge Coat GX,Storge Coat GX,mhxx-dex-1.0,9
-4595,Arc Faulds XR,Arc Faulds XR,mhxx-dex-1.0,9
-4600,Arc Coat XR,Arc Coat XR,mhxx-dex-1.0,9
-4605,Storge Faulds XR,Storge Faulds XR,mhxx-dex-1.0,9
-4610,Storge Coat XR,Storge Coat XR,mhxx-dex-1.0,9
-4615,Valstrax Faulds X,Valstrax Faulds X,mhxx-dex-1.0,9
-4620,Valstrax Coat X,Valstrax Coat X,mhxx-dex-1.0,9
-4625,Grand God's Peer Belt,Grand God's Peer Belt,mhxx-dex-1.0,9
-4630,Grand Hermit Belt,Grand Hermit Belt,mhxx-dex-1.0,9
-4635,Vangis Coil X,Vangis Coil X,mhxx-dex-1.0,9
-4640,Vangis Coat X,Vangis Coat X,mhxx-dex-1.0,9
-4645,Chaos Faulds,Chaos Faulds,mhxx-dex-1.0,9
-4650,Chaos Coat,Chaos Coat,mhxx-dex-1.0,9
-4655,Nephilim Tassets,Nephilim Tassets,mhxx-dex-1.0,9
-4660,Nephilim Coat,Nephilim Coat,mhxx-dex-1.0,9
-4665,Black Belt Tassets X,Black Belt Tassets X,mhxx-dex-1.0,9
-4670,Black Belt Coat X,Black Belt Coat X,mhxx-dex-1.0,9
-4675,Guardian Coil X,Guardian Coil X,mhxx-dex-1.0,9
-4680,Guardian Coat X,Guardian Coat X,mhxx-dex-1.0,9
-4685,Guardian Coil Z,Guardian Coil Z,mhxx-dex-1.0,9
-4690,Guardian Coat Z,Guardian Coat Z,mhxx-dex-1.0,9
-4695,Blue Guild Coil X,Blue Guild Coil X,mhxx-dex-1.0,9
-4700,Blue Guild Coat X,Blue Guild Coat X,mhxx-dex-1.0,9
-4705,Blue Guild Coil X,Blue Guild Coil X,mhxx-dex-1.0,9
-4710,Blue Guild Coat X,Blue Guild Coat X,mhxx-dex-1.0,9
-4715,Red Guild Coil X,Red Guild Coil X,mhxx-dex-1.0,9
-4720,Red Guild Coat X,Red Guild Coat X,mhxx-dex-1.0,9
-4725,Red Guild Coil X,Red Guild Coil X,mhxx-dex-1.0,9
-4730,Red Guild Coat X,Red Guild Coat X,mhxx-dex-1.0,9
-4735,Black Spine X,Black Spine X,mhxx-dex-1.0,9
-4740,Black Scale X,Black Scale X,mhxx-dex-1.0,9
-4745,Damascus Coil X,Damascus Coil X,mhxx-dex-1.0,9
-4750,Damascus Coat X,Damascus Coat X,mhxx-dex-1.0,9
-4755,Damascus Coil XR,Damascus Coil XR,mhxx-dex-1.0,9
-4760,Damascus Coat XR,Damascus Coat XR,mhxx-dex-1.0,9
-4767,Kaiserin Faulds,Kaiserin Faulds,mhxx-dex-1.0,9
-4772,Kaiserin Coat,Kaiserin Coat,mhxx-dex-1.0,9
-4777,Barmaid's Skirt,Barmaid's Skirt,mhxx-dex-1.0,9
-4782,Barmaid's Frills,Barmaid's Frills,mhxx-dex-1.0,9
-4787,Barman's Coil,Barman's Coil,mhxx-dex-1.0,9
-4792,Barman's Coat,Barman's Coat,mhxx-dex-1.0,9
-4803,Kushala Cocoon X,Kushala Cocoon X,mhxx-dex-1.0,10
-4808,Kushala Wind Wrap X,Kushala Wind Wrap X,mhxx-dex-1.0,10
-4813,Kushala Cocoon GX,Kushala Cocoon GX,mhxx-dex-1.0,10
-4818,Kushala Wind Wrap GX,Kushala Wind Wrap GX,mhxx-dex-1.0,10
-4823,Kushala Cocoon XR,Kushala Cocoon XR,mhxx-dex-1.0,10
-4828,Kushala Wind Wrap XR,Kushala Wind Wrap XR,mhxx-dex-1.0,10
-4833,Grand Mizuha Sash,Grand Mizuha Sash,mhxx-dex-1.0,10
-4838,Grand Cham Coat,Grand Cham Coat,mhxx-dex-1.0,10
-4843,Mizuha Sash GX,Mizuha Sash GX,mhxx-dex-1.0,10
-4848,Cham Coat GX,Cham Coat GX,mhxx-dex-1.0,10
-4853,Kaiser Tassets X,Kaiser Tassets X,mhxx-dex-1.0,10
-4858,Kaiser Coat X,Kaiser Coat X,mhxx-dex-1.0,10
-4863,Kaiser Tassets GX,Kaiser Tassets GX,mhxx-dex-1.0,10
-4868,Kaiser Coat GX,Kaiser Coat GX,mhxx-dex-1.0,10
-4873,Silver Solcoil Z,Silver Solcoil Z,mhxx-dex-1.0,10
-4878,Silver Solcoat Z,Silver Solcoat Z,mhxx-dex-1.0,10
-4883,GX Silver Solcoil,GX Silver Solcoil,mhxx-dex-1.0,10
-4888,GX Silver Solcoat,GX Silver Solcoat,mhxx-dex-1.0,10
-4893,Silver Solfaulds XR,Silver Solfaulds XR,mhxx-dex-1.0,10
-4898,Silver Solcoat XR,Silver Solcoat XR,mhxx-dex-1.0,10
-4903,Golden Lunecoil Z,Golden Lunecoil Z,mhxx-dex-1.0,10
-4908,Golden Lunecoat Z,Golden Lunecoat Z,mhxx-dex-1.0,10
-4913,GX Golden Lunecoil,GX Golden Lunecoil,mhxx-dex-1.0,10
-4918,GX Golden Lunecoat,GX Golden Lunecoat,mhxx-dex-1.0,10
-4923,Grand Divine Ire Obi,Grand Divine Ire Obi,mhxx-dex-1.0,10
-4928,Grand Crusher Belt,Grand Crusher Belt,mhxx-dex-1.0,10
-4933,Esurient Faulds Z,Esurient Faulds Z,mhxx-dex-1.0,10
-4938,Esurient Coat Z,Esurient Coat Z,mhxx-dex-1.0,10
-4943,Esurient Faulds XR,Esurient Faulds XR,mhxx-dex-1.0,10
-4948,Esurient Coat XR,Esurient Coat XR,mhxx-dex-1.0,10
-4953,Brachydium Faulds,Brachydium Faulds,mhxx-dex-1.0,10
-4958,Brachydium Coat,Brachydium Coat,mhxx-dex-1.0,10
-4963,Auroros Tassets,Auroros Tassets,mhxx-dex-1.0,10
-4968,Genesis Tassets,Genesis Tassets,mhxx-dex-1.0,10
-4973,Borealis Tassets,Borealis Tassets,mhxx-dex-1.0,10
-4978,Glyph Tassets,Glyph Tassets,mhxx-dex-1.0,10
-4983,Auroros Tassets GX,Auroros Tassets GX,mhxx-dex-1.0,10
-4988,Genesis Tassets GX,Genesis Tassets GX,mhxx-dex-1.0,10
-4993,Borealis Tassets GX,Borealis Tassets GX,mhxx-dex-1.0,10
-4998,Glyph Tassets GX,Glyph Tassets GX,mhxx-dex-1.0,10
-5003,Auroros Tassets XR,Auroros Tassets XR,mhxx-dex-1.0,10
-5008,Genesis Tassets XR,Genesis Tassets XR,mhxx-dex-1.0,10
-5013,Borealis Tassets XR,Borealis Tassets XR,mhxx-dex-1.0,10
-5018,Glyph Tassets XR,Glyph Tassets XR,mhxx-dex-1.0,10
-5023,Auroros Tassets R,Auroros Tassets R,mhxx-dex-1.0,10
-5028,Genesis Tassets R,Genesis Tassets R,mhxx-dex-1.0,10
-5033,Borealis Tassets R,Borealis Tassets R,mhxx-dex-1.0,10
-5038,Glyph Tassets R,Glyph Tassets R,mhxx-dex-1.0,10
-5043,Akantor Cincture X,Akantor Cincture X,mhxx-dex-1.0,10
-5048,Akantor Sash X,Akantor Sash X,mhxx-dex-1.0,10
-5053,Akantor Cincture XR,Akantor Cincture XR,mhxx-dex-1.0,10
-5058,Akantor Sash XR,Akantor Sash XR,mhxx-dex-1.0,10
-5063,Ukanlos Cincture X,Ukanlos Cincture X,mhxx-dex-1.0,10
-5068,Ukanlos Sash X,Ukanlos Sash X,mhxx-dex-1.0,10
-5073,Grand Tempest Obi,Grand Tempest Obi,mhxx-dex-1.0,10
-5078,Grand Welkin Obi,Grand Welkin Obi,mhxx-dex-1.0,10
-5083,Tempest Obi XR,Tempest Obi XR,mhxx-dex-1.0,10
-5088,Welkin Obi XR,Welkin Obi XR,mhxx-dex-1.0,10
-5093,Grand Skeletal Hipbone,Grand Skeletal Hipbone,mhxx-dex-1.0,10
-5098,Grand Decayed Hipbone,Grand Decayed Hipbone,mhxx-dex-1.0,10
-5103,Astral Coil X,Astral Coil X,mhxx-dex-1.0,10
-5108,Astral Coat X,Astral Coat X,mhxx-dex-1.0,10
-5113,Neset Coat,Neset Coat,mhxx-dex-1.0,10
-5118,Neset Elytra,Neset Elytra,mhxx-dex-1.0,10
-5123,Dragonbarbs,Dragonbarbs,mhxx-dex-1.0,10
-5128,Dragonsheath,Dragonsheath,mhxx-dex-1.0,10
-5133,Escadora Might X,Escadora Might X,mhxx-dex-1.0,10
-5138,Escadora Force X,Escadora Force X,mhxx-dex-1.0,10
-5143,Escadora Might XR,Escadora Might XR,mhxx-dex-1.0,10
-5148,Escadora Force XR,Escadora Force XR,mhxx-dex-1.0,10
-5153,Fatalis Crimsonbarbs,Fatalis Crimsonbarbs,mhxx-dex-1.0,10
-5158,Fatalis Crimsonscale,Fatalis Crimsonscale,mhxx-dex-1.0,10
-5163,GX Fatalis Crimsonbarbs,GX Fatalis Crimsonbarbs,mhxx-dex-1.0,10
-5168,GX Fatalis Crimsonscale,GX Fatalis Crimsonscale,mhxx-dex-1.0,10
-5173,Fatalis Crimsonbarbs XR,Fatalis Crimsonbarbs XR,mhxx-dex-1.0,10
-5178,Fatalis Crimsonscale XR,Fatalis Crimsonscale XR,mhxx-dex-1.0,10
-5183,Old Fatalis Spine,Old Fatalis Spine,mhxx-dex-1.0,10
-5188,Old Fatalis Scale,Old Fatalis Scale,mhxx-dex-1.0,10
-5193,GX Old Fatalis Spine,GX Old Fatalis Spine,mhxx-dex-1.0,10
-5198,GX Old Fatalis Scale,GX Old Fatalis Scale,mhxx-dex-1.0,10
-5203,Strange Faulds,Strange Faulds,mhxx-dex-1.0,5
-5208,Strange Coat,Strange Coat,mhxx-dex-1.0,5
-5213,Strange Faulds X,Strange Faulds X,mhxx-dex-1.0,8
-5218,Strange Coat X,Strange Coat X,mhxx-dex-1.0,8
-5223,Redhelm Faulds,Redhelm Faulds,mhxx-dex-1.0,11
-5228,Redhelm Coat,Redhelm Coat,mhxx-dex-1.0,11
-5233,Snowbaron Faulds,Snowbaron Faulds,mhxx-dex-1.0,11
-5238,Snowbaron Coat,Snowbaron Coat,mhxx-dex-1.0,11
-5243,Stonefist Faulds,Stonefist Faulds,mhxx-dex-1.0,11
-5248,Stonefist Coat,Stonefist Coat,mhxx-dex-1.0,11
-5253,Dreadqueen Faulds,Dreadqueen Faulds,mhxx-dex-1.0,11
-5258,Dreadqueen Coat,Dreadqueen Coat,mhxx-dex-1.0,11
-5263,Drilltusk Faulds,Drilltusk Faulds,mhxx-dex-1.0,11
-5268,Drilltusk Coat,Drilltusk Coat,mhxx-dex-1.0,11
-5273,Silverwind Faulds,Silverwind Faulds,mhxx-dex-1.0,11
-5278,Silverwind Coat,Silverwind Coat,mhxx-dex-1.0,11
-5283,Crystalbeard Faulds,Crystalbeard Faulds,mhxx-dex-1.0,11
-5288,Crystalbeard Coat,Crystalbeard Coat,mhxx-dex-1.0,11
-5293,Deadeye Faulds,Deadeye Faulds,mhxx-dex-1.0,11
-5298,Deadeye Coat,Deadeye Coat,mhxx-dex-1.0,11
-5303,Dreadking Faulds,Dreadking Faulds,mhxx-dex-1.0,11
-5308,Dreadking Coat,Dreadking Coat,mhxx-dex-1.0,11
-5313,Thunderlord Faulds,Thunderlord Faulds,mhxx-dex-1.0,11
-5318,Thunderlord Coat,Thunderlord Coat,mhxx-dex-1.0,11
-5323,Grimclaw Faulds,Grimclaw Faulds,mhxx-dex-1.0,11
-5328,Grimclaw Coat,Grimclaw Coat,mhxx-dex-1.0,11
-5333,Hellblade Faulds,Hellblade Faulds,mhxx-dex-1.0,11
-5338,Hellblade Coat,Hellblade Coat,mhxx-dex-1.0,11
-5343,Nightcloak Faulds,Nightcloak Faulds,mhxx-dex-1.0,11
-5348,Nightcloak Coat,Nightcloak Coat,mhxx-dex-1.0,11
-5353,Rustrazor Faulds,Rustrazor Faulds,mhxx-dex-1.0,11
-5358,Rustrazor Coat,Rustrazor Coat,mhxx-dex-1.0,11
-5363,Soulseer Faulds,Soulseer Faulds,mhxx-dex-1.0,11
-5368,Soulseer Coat,Soulseer Coat,mhxx-dex-1.0,11
-5373,Boltreaver Faulds,Boltreaver Faulds,mhxx-dex-1.0,11
-5378,Boltreaver Coat,Boltreaver Coat,mhxx-dex-1.0,11
-5383,Elderfrost Faulds,Elderfrost Faulds,mhxx-dex-1.0,11
-5388,Elderfrost Coat,Elderfrost Coat,mhxx-dex-1.0,11
-5393,Bloodbath Faulds,Bloodbath Faulds,mhxx-dex-1.0,11
-5398,Bloodbath Coat,Bloodbath Coat,mhxx-dex-1.0,11
-5403,[JP] Promising Girdle,[JP] Promising Girdle,mhxx-dex-1.0,3
-5408,[JP] Halcyon Girdle,[JP] Halcyon Girdle,mhxx-dex-1.0,3
-5413,[JP] Lucid Tassets,[JP] Lucid Tassets,mhxx-dex-1.0,3
-5418,[JP] Dreamy Tassets,[JP] Dreamy Tassets,mhxx-dex-1.0,3
-5423,[JP] Arcfire Obi,[JP] Arcfire Obi,mhxx-dex-1.0,3
-5428,[JP] Bonfire Obi,[JP] Bonfire Obi,mhxx-dex-1.0,3
-5433,[JP] Waka Obi,[JP] Waka Obi,mhxx-dex-1.0,3
-5438,[JP] Wagaku Obi,[JP] Wagaku Obi,mhxx-dex-1.0,3
-5451,Pirate Coil J,Pirate Coil J,mhxx-dex-1.0,6
-5456,Pirate Skirt J,Pirate Skirt J,mhxx-dex-1.0,6
-5461,Buccaneer Coil J,Buccaneer Coil J,mhxx-dex-1.0,6
-5466,Buccaneer Skirt J,Buccaneer Skirt J,mhxx-dex-1.0,6
-5473,Zodias Coil,Zodias Coil,mhxx-dex-1.0,7
-5478,Zodias Coat,Zodias Coat,mhxx-dex-1.0,7
-5481,Booyah Belt,Booyah Belt,mhxx-dex-1.0,5
-5484,Booyah Buckle,Booyah Buckle,mhxx-dex-1.0,5
-5497,Champion's Belt,Champion's Belt,mhxx-dex-1.0,7
-5502,Strongman's Belt,Strongman's Belt,mhxx-dex-1.0,7
-5507,Dynaqlo Belt,Dynaqlo Belt,mhxx-dex-1.0,6
-5512,Dynaqlo Pouch,Dynaqlo Pouch,mhxx-dex-1.0,6
-5517,[JP] Blue Star Coil,[JP] Blue Star Coil,mhxx-dex-1.0,6
-5522,[JP] Blue Star Coat,[JP] Blue Star Coat,mhxx-dex-1.0,6
-5527,[JP] Star Knight Coil,[JP] Star Knight Coil,mhxx-dex-1.0,6
-5532,[JP] Star Knight Coat,[JP] Star Knight Coat,mhxx-dex-1.0,6
-5537,[JP] Star Rook Coil,[JP] Star Rook Coil,mhxx-dex-1.0,7
-5542,[JP] Star Rook Coat,[JP] Star Rook Coat,mhxx-dex-1.0,7
-5547,[JP] Promising Archgirdle,[JP] Promising Archgirdle,mhxx-dex-1.0,7
-5552,[JP] Halcyon Archgirdle,[JP] Halcyon Archgirdle,mhxx-dex-1.0,7
-5557,[JP] Lucid Archgirdle,[JP] Lucid Archgirdle,mhxx-dex-1.0,7
-5562,[JP] Dreamy Archgirdle,[JP] Dreamy Archgirdle,mhxx-dex-1.0,7
-5567,[JP] Ruler Arcfire Obi,[JP] Ruler Arcfire Obi,mhxx-dex-1.0,7
-5572,[JP] Ruler Bonfire Obi,[JP] Ruler Bonfire Obi,mhxx-dex-1.0,7
-5577,[JP] Ruler Waka Obi,[JP] Ruler Waka Obi,mhxx-dex-1.0,7
-5582,[JP] Ruler Wagaku Obi,[JP] Ruler Wagaku Obi,mhxx-dex-1.0,7
-5611,Hero's Belt,Hero's Belt,mhxx-dex-1.0,7
-5616,Hero's Band,Hero's Band,mhxx-dex-1.0,7
-5621,Lodestar Belt,Lodestar Belt,mhxx-dex-1.0,7
-5626,Lodestar Cloak,Lodestar Cloak,mhxx-dex-1.0,7
-5660,Hiryu Sky Belt,Hiryu Sky Belt,mhxx-dex-1.0,7
-5665,Hiryu Land Belt,Hiryu Land Belt,mhxx-dex-1.0,7
-5686,[JP] Supreme Arcfire Obi,[JP] Supreme Arcfire Obi,mhxx-dex-1.0,10
-5691,[JP] Supreme Bonfire Obi,[JP] Supreme Bonfire Obi,mhxx-dex-1.0,10
-5696,[JP] Supreme Wagaku Obi,[JP] Supreme Wagaku Obi,mhxx-dex-1.0,10
-5701,[JP] Supreme Wagaku Obi,[JP] Supreme Wagaku Obi,mhxx-dex-1.0,10
-5706,Garo Tassets,Garo Tassets,mhxx-dex-1.0,10
-5711,Garo Belt,Garo Belt,mhxx-dex-1.0,10
-5716,Hylian Belt,Hylian Belt,mhxx-dex-1.0,10
-5721,Hylian Bandolier,Hylian Bandolier,mhxx-dex-1.0,10
+1,Leather Belt,Leather Belt,mhxx-dex-1.0+mhxx-save-format-community,1
+2,Chainmail Belt,Chainmail Belt,mhxx-dex-1.0+mhxx-save-format-community,1
+3,Bherna Belt,Bherna Belt,mhxx-dex-1.0+mhxx-save-format-community,1
+4,Hunting Faulds,Hunting Faulds,mhxx-dex-1.0+mhxx-save-format-community,1
+5,Hunting Coat,Hunting Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+6,Mafumofu Coat,Mafumofu Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+7,Yukumo Obi,Yukumo Obi,mhxx-dex-1.0+mhxx-save-format-community,1
+8,Loc Lac Kilt,Loc Lac Kilt,mhxx-dex-1.0+mhxx-save-format-community,1
+9,Hunter's Faulds,Hunter's Faulds,mhxx-dex-1.0+mhxx-save-format-community,1
+10,Hunter's Coat,Hunter's Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+11,Bone Faulds,Bone Faulds,mhxx-dex-1.0+mhxx-save-format-community,1
+12,Bone Coat,Bone Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+13,Light Belt,Light Belt,mhxx-dex-1.0+mhxx-save-format-community,1
+14,Iron Belt,Iron Belt,mhxx-dex-1.0+mhxx-save-format-community,1
+23,Jaggi Faulds,Jaggi Faulds,mhxx-dex-1.0+mhxx-save-format-community,1
+24,Jaggi Coat,Jaggi Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+25,Maccao Faulds,Maccao Faulds,mhxx-dex-1.0+mhxx-save-format-community,1
+26,Maccao Coat,Maccao Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+27,Velociprey Tassets,Velociprey Tassets,mhxx-dex-1.0+mhxx-save-format-community,1
+28,Velociprey Coat,Velociprey Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+29,Giaprey Tassets,Giaprey Tassets,mhxx-dex-1.0+mhxx-save-format-community,1
+30,Giaprey Coat,Giaprey Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+31,Genprey Tassets,Genprey Tassets,mhxx-dex-1.0+mhxx-save-format-community,1
+32,Genprey Coat,Genprey Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+33,Vespoid Tassets,Vespoid Tassets,mhxx-dex-1.0+mhxx-save-format-community,1
+34,Vespoid Coat,Vespoid Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+35,Hornetaur Tassets,Hornetaur Tassets,mhxx-dex-1.0+mhxx-save-format-community,1
+36,Hornetaur Coat,Hornetaur Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+37,Bnahabra Coil,Bnahabra Coil,mhxx-dex-1.0+mhxx-save-format-community,1
+38,Bnahabra Coat,Bnahabra Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+41,Mosswine Hip,Mosswine Hip,mhxx-dex-1.0+mhxx-save-format-community,1
+42,Rhenoplos Coil,Rhenoplos Coil,mhxx-dex-1.0+mhxx-save-format-community,1
+43,Rhenoplos Coat,Rhenoplos Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+44,Bulldrome Faulds,Bulldrome Faulds,mhxx-dex-1.0+mhxx-save-format-community,1
+45,Bulldrome Coat,Bulldrome Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+47,Arzuros Faulds,Arzuros Faulds,mhxx-dex-1.0+mhxx-save-format-community,1
+48,Arzuros Coat,Arzuros Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+49,Cephalos Tassets,Cephalos Tassets,mhxx-dex-1.0+mhxx-save-format-community,1
+50,Cephalos Coat,Cephalos Coat,mhxx-dex-1.0+mhxx-save-format-community,1
+51,Derring Belt,Derring Belt,mhxx-dex-1.0+mhxx-save-format-community,2
+52,Alloy Coil,Alloy Coil,mhxx-dex-1.0+mhxx-save-format-community,2
+53,Alloy Coat,Alloy Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+54,Battle Tassets,Battle Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+55,Battle Coat,Battle Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+56,Ingot Coil,Ingot Coil,mhxx-dex-1.0+mhxx-save-format-community,2
+57,Ingot Coat,Ingot Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+58,High Metal Tassets,High Metal Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+59,High Metal Coat,High Metal Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+62,Melahoa Folia,Melahoa Folia,mhxx-dex-1.0+mhxx-save-format-community,2
+63,Melahoa Trunk,Melahoa Trunk,mhxx-dex-1.0+mhxx-save-format-community,2
+64,Makluva Coil,Makluva Coil,mhxx-dex-1.0+mhxx-save-format-community,2
+65,Makluva Fin,Makluva Fin,mhxx-dex-1.0+mhxx-save-format-community,2
+66,Bistro Sarong,Bistro Sarong,mhxx-dex-1.0+mhxx-save-format-community,2
+67,Bistro Apron,Bistro Apron,mhxx-dex-1.0+mhxx-save-format-community,2
+68,Obituary Elytra,Obituary Elytra,mhxx-dex-1.0+mhxx-save-format-community,2
+69,Obituary Alae,Obituary Alae,mhxx-dex-1.0+mhxx-save-format-community,2
+70,Butterfly Elytra,Butterfly Elytra,mhxx-dex-1.0+mhxx-save-format-community,2
+71,Butterfly Alae,Butterfly Alae,mhxx-dex-1.0+mhxx-save-format-community,2
+72,Death Stench Bowels,Death Stench Bowels,mhxx-dex-1.0+mhxx-save-format-community,2
+73,Death Stench Belly,Death Stench Belly,mhxx-dex-1.0+mhxx-save-format-community,2
+76,Mosgharl Folia,Mosgharl Folia,mhxx-dex-1.0+mhxx-save-format-community,2
+77,Mosgharl Fronds,Mosgharl Fronds,mhxx-dex-1.0+mhxx-save-format-community,2
+78,Edel Folia,Edel Folia,mhxx-dex-1.0+mhxx-save-format-community,2
+79,Edel Fronds,Edel Fronds,mhxx-dex-1.0+mhxx-save-format-community,2
+80,Skalda Elytra,Skalda Elytra,mhxx-dex-1.0+mhxx-save-format-community,2
+81,Skalda Alae,Skalda Alae,mhxx-dex-1.0+mhxx-save-format-community,2
+82,Spio Elytra,Spio Elytra,mhxx-dex-1.0+mhxx-save-format-community,2
+83,Spio Alae,Spio Alae,mhxx-dex-1.0+mhxx-save-format-community,2
+84,Droth Faulds,Droth Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+85,Droth Coat,Droth Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+86,Uroktor Tassets,Uroktor Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+87,Uroktor Coat,Uroktor Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+90,Moofah Coil,Moofah Coil,mhxx-dex-1.0+mhxx-save-format-community,2
+91,Moofah Coat,Moofah Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+99,Remobra Belt,Remobra Belt,mhxx-dex-1.0+mhxx-save-format-community,2
+100,Remobra Band,Remobra Band,mhxx-dex-1.0+mhxx-save-format-community,2
+101,Ioprey Tassets,Ioprey Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+102,Ioprey Coat,Ioprey Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+103,Kut-Ku Tassets,Kut-Ku Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+104,Kut-Ku Coat,Kut-Ku Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+105,Lagombi Faulds,Lagombi Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+106,Lagombi Coat,Lagombi Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+107,Gypceros Tassets,Gypceros Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+108,Gypceros Coat,Gypceros Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+109,Tetsucabra Faulds,Tetsucabra Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+110,Tetsucabra Coat,Tetsucabra Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+111,Hermitaur Tassets,Hermitaur Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+112,Hermitaur Coat,Hermitaur Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+113,Volvidon Faulds,Volvidon Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+114,Volvidon Coat,Volvidon Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+115,Ludroth Faulds,Ludroth Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+116,Ludroth Coat,Ludroth Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+117,Malfestio Faulds,Malfestio Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+118,Malfestio Coat,Malfestio Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+119,Khezu Tassets,Khezu Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+120,Khezu Coat,Khezu Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+121,Rathian Faulds,Rathian Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+122,Rathian Coat,Rathian Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+123,Nibelsnarf Faulds,Nibelsnarf Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+124,Nibelsnarf Coat,Nibelsnarf Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+125,Blango Tassets,Blango Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+126,Blango Coat,Blango Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+127,Ceanataur Tassets,Ceanataur Tassets,mhxx-dex-1.0+mhxx-save-format-community,2
+128,Ceanataur Coat,Ceanataur Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+129,Najarala Faulds,Najarala Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+130,Najarala Coat,Najarala Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+131,Nargacuga Faulds,Nargacuga Faulds,mhxx-dex-1.0+mhxx-save-format-community,2
+132,Nargacuga Coat,Nargacuga Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+133,Scholarly Sash,Scholarly Sash,mhxx-dex-1.0+mhxx-save-format-community,2
+134,Scholarly Coat,Scholarly Coat,mhxx-dex-1.0+mhxx-save-format-community,2
+135,Vaik Faulds,Vaik Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+136,Vaik Coat,Vaik Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+139,Aelucanth Elytra,Aelucanth Elytra,mhxx-dex-1.0+mhxx-save-format-community,3
+140,Aelucanth Alae,Aelucanth Alae,mhxx-dex-1.0+mhxx-save-format-community,3
+141,Rhopessa Elytra,Rhopessa Elytra,mhxx-dex-1.0+mhxx-save-format-community,3
+142,Rhopessa Alae,Rhopessa Alae,mhxx-dex-1.0+mhxx-save-format-community,3
+145,Garuga Tassets,Garuga Tassets,mhxx-dex-1.0+mhxx-save-format-community,3
+146,Garuga Coat,Garuga Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+148,Uragaan Faulds,Uragaan Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+149,Uragaan Coat,Uragaan Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+150,Rathalos Faulds,Rathalos Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+151,Rathalos Coat,Rathalos Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+152,Lagiacrus Faulds,Lagiacrus Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+153,Lagiacrus Coat,Lagiacrus Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+154,Zinogre Faulds,Zinogre Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+155,Zinogre Coat,Zinogre Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+156,Mizutsune Faulds,Mizutsune Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+157,Mizutsune Coat,Mizutsune Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+158,Astalos Faulds,Astalos Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+159,Astalos Coat,Astalos Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+160,Gammoth Faulds,Gammoth Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+161,Gammoth Coat,Gammoth Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+162,Glavenus Faulds,Glavenus Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+163,Glavenus Coat,Glavenus Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+164,Gore Faulds,Gore Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+165,Gore Coat,Gore Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+166,Regios Tassets,Regios Tassets,mhxx-dex-1.0+mhxx-save-format-community,3
+167,Regios Coat,Regios Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+168,Tigrex Tassets,Tigrex Tassets,mhxx-dex-1.0+mhxx-save-format-community,3
+169,Tigrex Coat,Tigrex Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+170,Kirin Hoop,Kirin Hoop,mhxx-dex-1.0+mhxx-save-format-community,3
+171,Kirin Shorts,Kirin Shorts,mhxx-dex-1.0+mhxx-save-format-community,3
+172,Brachydios Faulds,Brachydios Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+173,Brachydios Coat,Brachydios Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+174,Arc Faulds,Arc Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+175,Storge Faulds,Storge Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+176,Arc Coat,Arc Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+177,Storge Coat,Storge Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+178,Kushala Cocoon,Kushala Cocoon,mhxx-dex-1.0+mhxx-save-format-community,3
+179,Kushala Wind Wrap,Kushala Wind Wrap,mhxx-dex-1.0+mhxx-save-format-community,3
+180,Mizuha Sash,Mizuha Sash,mhxx-dex-1.0+mhxx-save-format-community,3
+181,Cham Coat,Cham Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+182,Kaiser Tassets,Kaiser Tassets,mhxx-dex-1.0+mhxx-save-format-community,3
+183,Kaiser Coat,Kaiser Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+184,Skeletal Hipbone,Skeletal Hipbone,mhxx-dex-1.0+mhxx-save-format-community,3
+185,Decayed Hipbone,Decayed Hipbone,mhxx-dex-1.0+mhxx-save-format-community,3
+186,Black Spine,Black Spine,mhxx-dex-1.0+mhxx-save-format-community,3
+187,Black Scale,Black Scale,mhxx-dex-1.0+mhxx-save-format-community,3
+188,Black Belt Tassets,Black Belt Tassets,mhxx-dex-1.0+mhxx-save-format-community,3
+189,Black Belt Coat,Black Belt Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+190,Guild Bard Coil,Guild Bard Coil,mhxx-dex-1.0+mhxx-save-format-community,3
+191,Guild Bard Coat,Guild Bard Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+192,Maiden's Skirt,Maiden's Skirt,mhxx-dex-1.0+mhxx-save-format-community,3
+193,French Maid Frills,French Maid Frills,mhxx-dex-1.0+mhxx-save-format-community,3
+194,Helper Skirt,Helper Skirt,mhxx-dex-1.0+mhxx-save-format-community,3
+195,Healer Frills,Healer Frills,mhxx-dex-1.0+mhxx-save-format-community,3
+196,Dianthus Skirt,Dianthus Skirt,mhxx-dex-1.0+mhxx-save-format-community,3
+197,Campanile Skirt,Campanile Skirt,mhxx-dex-1.0+mhxx-save-format-community,3
+199,Gourmew Sarong,Gourmew Sarong,mhxx-dex-1.0+mhxx-save-format-community,3
+200,Gourmew Apron,Gourmew Apron,mhxx-dex-1.0+mhxx-save-format-community,3
+201,Leather Faulds S,Leather Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+202,Chainmail Faulds S,Chainmail Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+203,Bherna Belt S,Bherna Belt S,mhxx-dex-1.0+mhxx-save-format-community,4
+204,Bherna Coat S,Bherna Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+205,Hunting Faulds S,Hunting Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+206,Hunting Coat S,Hunting Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+207,Mafumofu Coil S,Mafumofu Coil S,mhxx-dex-1.0+mhxx-save-format-community,4
+208,Mafumofu Coat S,Mafumofu Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+209,Yukumo Sky Obi,Yukumo Sky Obi,mhxx-dex-1.0+mhxx-save-format-community,4
+210,Yukumo Land Obi,Yukumo Land Obi,mhxx-dex-1.0+mhxx-save-format-community,4
+211,Loc Lac Kilt S,Loc Lac Kilt S,mhxx-dex-1.0+mhxx-save-format-community,4
+212,Hunter's Faulds S,Hunter's Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+213,Hunter's Coat S,Hunter's Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+214,Hunter's Faulds R,Hunter's Faulds R,mhxx-dex-1.0+mhxx-save-format-community,4
+215,Hunter's Coat R,Hunter's Coat R,mhxx-dex-1.0+mhxx-save-format-community,4
+216,Bone Faulds S,Bone Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+217,Bone Coat S,Bone Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+218,Light Belt S,Light Belt S,mhxx-dex-1.0+mhxx-save-format-community,4
+219,Iron Belt S,Iron Belt S,mhxx-dex-1.0+mhxx-save-format-community,4
+224,Melahoa Folia S,Melahoa Folia S,mhxx-dex-1.0+mhxx-save-format-community,4
+225,Melahoa Trunk S,Melahoa Trunk S,mhxx-dex-1.0+mhxx-save-format-community,4
+226,Melahoa Folia U,Melahoa Folia U,mhxx-dex-1.0+mhxx-save-format-community,4
+227,Melahoa Trunk U,Melahoa Trunk U,mhxx-dex-1.0+mhxx-save-format-community,4
+228,Makluva Coil S,Makluva Coil S,mhxx-dex-1.0+mhxx-save-format-community,4
+229,Makluva Fin S,Makluva Fin S,mhxx-dex-1.0+mhxx-save-format-community,4
+230,Makluva Coil U,Makluva Coil U,mhxx-dex-1.0+mhxx-save-format-community,4
+231,Makluva Fin U,Makluva Fin U,mhxx-dex-1.0+mhxx-save-format-community,4
+232,Bistro Sarong S,Bistro Sarong S,mhxx-dex-1.0+mhxx-save-format-community,4
+233,Bistro Apron S,Bistro Apron S,mhxx-dex-1.0+mhxx-save-format-community,4
+236,Mosgharl Folia S,Mosgharl Folia S,mhxx-dex-1.0+mhxx-save-format-community,4
+237,Mosgharl Fronds S,Mosgharl Fronds S,mhxx-dex-1.0+mhxx-save-format-community,4
+238,Edel Folia S,Edel Folia S,mhxx-dex-1.0+mhxx-save-format-community,4
+239,Edel Fronds S,Edel Fronds S,mhxx-dex-1.0+mhxx-save-format-community,4
+240,Moofah Coil S,Moofah Coil S,mhxx-dex-1.0+mhxx-save-format-community,4
+241,Moofah Coat S,Moofah Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+253,Remobra Belt S,Remobra Belt S,mhxx-dex-1.0+mhxx-save-format-community,4
+254,Remobra Band S,Remobra Band S,mhxx-dex-1.0+mhxx-save-format-community,4
+261,Mosswine Hip S,Mosswine Hip S,mhxx-dex-1.0+mhxx-save-format-community,4
+262,Rhenoplos Coil S,Rhenoplos Coil S,mhxx-dex-1.0+mhxx-save-format-community,4
+263,Rhenoplos Coat S,Rhenoplos Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+264,Jaggi Faulds S,Jaggi Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+265,Jaggi Coat S,Jaggi Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+266,Droth Faulds S,Droth Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+267,Droth Coat S,Droth Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+268,Uroktor Tassets S,Uroktor Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+269,Uroktor Coat S,Uroktor Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+270,Maccao Faulds S,Maccao Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+271,Maccao Coat S,Maccao Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+272,Velociprey Tassets S,Velociprey Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+273,Velociprey Coat S,Velociprey Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+274,Giaprey Faulds S,Giaprey Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+275,Giaprey Coat S,Giaprey Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+276,Genprey Tassets S,Genprey Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+277,Genprey Coat S,Genprey Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+278,EX Genprey Tassets,EX Genprey Tassets,mhxx-dex-1.0+mhxx-save-format-community,4
+279,EX Genprey Coat,EX Genprey Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+280,Ioprey Tassets S,Ioprey Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+281,Ioprey Coat S,Ioprey Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+282,EX Ioprey Tassets,EX Ioprey Tassets,mhxx-dex-1.0+mhxx-save-format-community,4
+283,EX Ioprey Coat,EX Ioprey Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+284,Vespoid Tassets S,Vespoid Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+285,Vespoid Coat S,Vespoid Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+286,EX Vespoid Tassets,EX Vespoid Tassets,mhxx-dex-1.0+mhxx-save-format-community,4
+287,EX Vespoid Coat,EX Vespoid Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+288,Hornetaur Tassets S,Hornetaur Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+289,Hornetaur Coat S,Hornetaur Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+290,EX Hornetaur Tassets,EX Hornetaur Tassets,mhxx-dex-1.0+mhxx-save-format-community,4
+291,EX Hornetaur Coat,EX Hornetaur Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+292,Hornetaur Tassets R,Hornetaur Tassets R,mhxx-dex-1.0+mhxx-save-format-community,4
+293,Hornetaur Coat R,Hornetaur Coat R,mhxx-dex-1.0+mhxx-save-format-community,4
+294,Bnahabra Coil S,Bnahabra Coil S,mhxx-dex-1.0+mhxx-save-format-community,4
+295,Bnahabra Coat S,Bnahabra Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+298,Bulldrome Faulds S,Bulldrome Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+299,Bulldrome Coat S,Bulldrome Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+301,Arzuros Faulds S,Arzuros Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+302,Arzuros Coat S,Arzuros Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+303,Cephalos Tassets S,Cephalos Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+304,Cephalos Coat S,Cephalos Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+305,EX Cephalos Tassets,EX Cephalos Tassets,mhxx-dex-1.0+mhxx-save-format-community,4
+306,EX Cephalos Coat,EX Cephalos Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+307,Kut-Ku Tassets S,Kut-Ku Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+308,Kut-Ku Coat S,Kut-Ku Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+309,Kecha Faulds,Kecha Faulds,mhxx-dex-1.0+mhxx-save-format-community,4
+310,Kecha Coat,Kecha Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+311,Lagombi Faulds S,Lagombi Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+312,Lagombi Coat S,Lagombi Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+313,Gypceros Tassets S,Gypceros Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+314,Gypceros Coat S,Gypceros Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+315,Gypceros Tassets R,Gypceros Tassets R,mhxx-dex-1.0+mhxx-save-format-community,4
+316,Gypceros Coat R,Gypceros Coat R,mhxx-dex-1.0+mhxx-save-format-community,4
+317,Tetsucabra Faulds S,Tetsucabra Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+318,Tetsucabra Coat S,Tetsucabra Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+319,Hermitaur Tassets S,Hermitaur Tassets S,mhxx-dex-1.0+mhxx-save-format-community,4
+320,Hermitaur Coat S,Hermitaur Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+321,EX Hermitaur Tassets,EX Hermitaur Tassets,mhxx-dex-1.0+mhxx-save-format-community,4
+322,EX Hermitaur Coat,EX Hermitaur Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+323,Hermitaur Tassets R,Hermitaur Tassets R,mhxx-dex-1.0+mhxx-save-format-community,4
+324,Hermitaur Coat R,Hermitaur Coat R,mhxx-dex-1.0+mhxx-save-format-community,4
+325,Volvidon Faulds S,Volvidon Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+326,Volvidon Coat S,Volvidon Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+327,Ludroth Faulds S,Ludroth Faulds S,mhxx-dex-1.0+mhxx-save-format-community,4
+328,Ludroth Coat S,Ludroth Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+329,Ludroth Tassets R,Ludroth Tassets R,mhxx-dex-1.0+mhxx-save-format-community,4
+330,Ludroth Coat R,Ludroth Coat R,mhxx-dex-1.0+mhxx-save-format-community,4
+331,Lecturer's Skirt,Lecturer's Skirt,mhxx-dex-1.0+mhxx-save-format-community,4
+332,Lecturer's Frills,Lecturer's Frills,mhxx-dex-1.0+mhxx-save-format-community,4
+333,Alloy Coil S,Alloy Coil S,mhxx-dex-1.0+mhxx-save-format-community,5
+334,Alloy Coat S,Alloy Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+335,Alloy Coil R,Alloy Coil R,mhxx-dex-1.0+mhxx-save-format-community,5
+336,Alloy Coat R,Alloy Coat R,mhxx-dex-1.0+mhxx-save-format-community,5
+337,Battle Tassets S,Battle Tassets S,mhxx-dex-1.0+mhxx-save-format-community,5
+338,Battle Coat S,Battle Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+339,Ingot Coil S,Ingot Coil S,mhxx-dex-1.0+mhxx-save-format-community,5
+340,Ingot Coat S,Ingot Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+341,Ingot Coil R,Ingot Coil R,mhxx-dex-1.0+mhxx-save-format-community,5
+342,Ingot Coat R,Ingot Coat R,mhxx-dex-1.0+mhxx-save-format-community,5
+343,High Metal Tassets S,High Metal Tassets S,mhxx-dex-1.0+mhxx-save-format-community,5
+344,High Metal Coat S,High Metal Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+345,High Metal Tassets U,High Metal Tassets U,mhxx-dex-1.0+mhxx-save-format-community,5
+346,High Metal Coat U,High Metal Coat U,mhxx-dex-1.0+mhxx-save-format-community,5
+349,Lobster Coil,Lobster Coil,mhxx-dex-1.0+mhxx-save-format-community,5
+350,Lobster Coat,Lobster Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+351,Obituary Elytra S,Obituary Elytra S,mhxx-dex-1.0+mhxx-save-format-community,5
+352,Obituary Alae S,Obituary Alae S,mhxx-dex-1.0+mhxx-save-format-community,5
+353,Butterfly Elytra S,Butterfly Elytra S,mhxx-dex-1.0+mhxx-save-format-community,5
+354,Butterfly Alae S,Butterfly Alae S,mhxx-dex-1.0+mhxx-save-format-community,5
+355,Death Stench Bowels S,Death Stench Bowels S,mhxx-dex-1.0+mhxx-save-format-community,5
+356,Death Stench Belly S,Death Stench Belly S,mhxx-dex-1.0+mhxx-save-format-community,5
+357,Death Stench Bowels R,Death Stench Bowels R,mhxx-dex-1.0+mhxx-save-format-community,5
+358,Death Stench Belly R,Death Stench Belly R,mhxx-dex-1.0+mhxx-save-format-community,5
+359,Vaik Faulds S,Vaik Faulds S,mhxx-dex-1.0+mhxx-save-format-community,5
+360,Vaik Coat S,Vaik Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+361,Aelucanth Elytra S,Aelucanth Elytra S,mhxx-dex-1.0+mhxx-save-format-community,5
+362,Aelucanth Alae S,Aelucanth Alae S,mhxx-dex-1.0+mhxx-save-format-community,5
+363,Rhopessa Elytra S,Rhopessa Elytra S,mhxx-dex-1.0+mhxx-save-format-community,5
+364,Rhopessa Alae S,Rhopessa Alae S,mhxx-dex-1.0+mhxx-save-format-community,5
+365,Patissier's Sarong,Patissier's Sarong,mhxx-dex-1.0+mhxx-save-format-community,5
+366,Patissier's Apron,Patissier's Apron,mhxx-dex-1.0+mhxx-save-format-community,5
+367,Skalda Elytra S,Skalda Elytra S,mhxx-dex-1.0+mhxx-save-format-community,5
+368,Skalda Alae S,Skalda Alae S,mhxx-dex-1.0+mhxx-save-format-community,5
+369,Spio Elytra S,Spio Elytra S,mhxx-dex-1.0+mhxx-save-format-community,5
+370,Spio Alae S,Spio Alae S,mhxx-dex-1.0+mhxx-save-format-community,5
+371,Malfestio Faulds S,Malfestio Faulds S,mhxx-dex-1.0+mhxx-save-format-community,5
+372,Malfestio Coat S,Malfestio Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+373,Zamtrios Faulds,Zamtrios Faulds,mhxx-dex-1.0+mhxx-save-format-community,5
+374,Zamtrios Coat,Zamtrios Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+375,Khezu Tassets S,Khezu Tassets S,mhxx-dex-1.0+mhxx-save-format-community,5
+376,Khezu Coat S,Khezu Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+377,Khezu Tassets R,Khezu Tassets R,mhxx-dex-1.0+mhxx-save-format-community,5
+378,Khezu Coat R,Khezu Coat R,mhxx-dex-1.0+mhxx-save-format-community,5
+379,Rathian Faulds S,Rathian Faulds S,mhxx-dex-1.0+mhxx-save-format-community,5
+380,Rathian Coat S,Rathian Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+381,EX Rathian Faulds,EX Rathian Faulds,mhxx-dex-1.0+mhxx-save-format-community,5
+382,EX Rathian Coat,EX Rathian Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+383,Rathian Faulds R,Rathian Faulds R,mhxx-dex-1.0+mhxx-save-format-community,5
+384,Rathian Coat R,Rathian Coat R,mhxx-dex-1.0+mhxx-save-format-community,5
+385,Nibelsnarf Faulds S,Nibelsnarf Faulds S,mhxx-dex-1.0+mhxx-save-format-community,5
+386,Nibelsnarf Coat S,Nibelsnarf Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+389,Blango Tassets S,Blango Tassets S,mhxx-dex-1.0+mhxx-save-format-community,5
+390,Blango Coat S,Blango Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+391,EX Blango Tassets,EX Blango Tassets,mhxx-dex-1.0+mhxx-save-format-community,5
+392,EX Blango Coat,EX Blango Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+393,Lavasioth Tassets,Lavasioth Tassets,mhxx-dex-1.0+mhxx-save-format-community,5
+394,Lavasioth Coat,Lavasioth Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+395,EX Lavasioth Tassets,EX Lavasioth Tassets,mhxx-dex-1.0+mhxx-save-format-community,5
+396,EX Lavasioth Coat,EX Lavasioth Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+397,Ceanataur Tassets S,Ceanataur Tassets S,mhxx-dex-1.0+mhxx-save-format-community,5
+398,Ceanataur Coat S,Ceanataur Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+399,EX Ceanataur Tassets,EX Ceanataur Tassets,mhxx-dex-1.0+mhxx-save-format-community,5
+400,EX Ceanataur Coat,EX Ceanataur Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+401,Ceanataur Tassets R,Ceanataur Tassets R,mhxx-dex-1.0+mhxx-save-format-community,5
+402,Ceanataur Coat R,Ceanataur Coat R,mhxx-dex-1.0+mhxx-save-format-community,5
+403,Najarala Faulds S,Najarala Faulds S,mhxx-dex-1.0+mhxx-save-format-community,5
+404,Najarala Coat S,Najarala Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+405,Nargacuga Tassets S,Nargacuga Tassets S,mhxx-dex-1.0+mhxx-save-format-community,5
+406,Nargacuga Coat S,Nargacuga Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+407,Garuga Tassets S,Garuga Tassets S,mhxx-dex-1.0+mhxx-save-format-community,5
+408,Garuga Coat S,Garuga Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+410,Uragaan Faulds S,Uragaan Faulds S,mhxx-dex-1.0+mhxx-save-format-community,5
+411,Uragaan Coat S,Uragaan Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+412,Black Belt Tassets S,Black Belt Tassets S,mhxx-dex-1.0+mhxx-save-format-community,5
+413,Black Belt Coat S,Black Belt Coat S,mhxx-dex-1.0+mhxx-save-format-community,5
+414,Guardian Coil,Guardian Coil,mhxx-dex-1.0+mhxx-save-format-community,5
+415,Guardian Coat,Guardian Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+416,Guardian Coil U,Guardian Coil U,mhxx-dex-1.0+mhxx-save-format-community,5
+417,Guardian Coat U,Guardian Coat U,mhxx-dex-1.0+mhxx-save-format-community,5
+418,Scholar's Skirt,Scholar's Skirt,mhxx-dex-1.0+mhxx-save-format-community,5
+419,Scholar's Mini,Scholar's Mini,mhxx-dex-1.0+mhxx-save-format-community,5
+420,Sailor Skirt,Sailor Skirt,mhxx-dex-1.0+mhxx-save-format-community,5
+421,Sailor Mini,Sailor Mini,mhxx-dex-1.0+mhxx-save-format-community,5
+426,Derring Faulds S,Derring Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+427,Derring Coat S,Derring Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+428,Dober Coil,Dober Coil,mhxx-dex-1.0+mhxx-save-format-community,6
+429,Dober Coat,Dober Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+430,Damascus Coil,Damascus Coil,mhxx-dex-1.0+mhxx-save-format-community,6
+431,Damascus Coat,Damascus Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+432,Damascus Coil R,Damascus Coil R,mhxx-dex-1.0+mhxx-save-format-community,6
+433,Damascus Coat R,Damascus Coat R,mhxx-dex-1.0+mhxx-save-format-community,6
+438,Chrome Metal Coil,Chrome Metal Coil,mhxx-dex-1.0+mhxx-save-format-community,6
+439,Chrome Metal Coat,Chrome Metal Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+440,Artian Coil S,Artian Coil S,mhxx-dex-1.0+mhxx-save-format-community,6
+441,Artian Coat S,Artian Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+442,Artian Coil R,Artian Coil R,mhxx-dex-1.0+mhxx-save-format-community,6
+443,Artian Coat R,Artian Coat R,mhxx-dex-1.0+mhxx-save-format-community,6
+444,Seltas Faulds,Seltas Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+445,Seltas Coat,Seltas Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+446,Rathalos Faulds S,Rathalos Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+447,Rathalos Coat S,Rathalos Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+448,EX Rathalos Faulds,EX Rathalos Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+449,EX Rathalos Coat,EX Rathalos Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+450,Rathalos Faulds R,Rathalos Faulds R,mhxx-dex-1.0+mhxx-save-format-community,6
+451,Rathalos Coat R,Rathalos Coat R,mhxx-dex-1.0+mhxx-save-format-community,6
+452,Lagiacrus Faulds S,Lagiacrus Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+453,Lagiacrus Coat S,Lagiacrus Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+454,Lagiacrus Faulds R,Lagiacrus Faulds R,mhxx-dex-1.0+mhxx-save-format-community,6
+455,Lagiacrus Coat R,Lagiacrus Coat R,mhxx-dex-1.0+mhxx-save-format-community,6
+456,Zinogre Faulds S,Zinogre Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+457,Zinogre Coat S,Zinogre Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+458,EX Zinogre Faulds,EX Zinogre Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+459,EX Zinogre Coat,EX Zinogre Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+460,Mizutsune Faulds S,Mizutsune Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+461,Mizutsune Coat S,Mizutsune Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+462,Astalos Faulds S,Astalos Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+463,Astalos Coat S,Astalos Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+464,Gammoth Faulds S,Gammoth Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+465,Gammoth Coat S,Gammoth Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+466,Glavenus Faulds S,Glavenus Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+467,Glavenus Coat S,Glavenus Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+468,Agnaktor Faulds,Agnaktor Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+469,Agnaktor Coat,Agnaktor Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+470,Gore Faulds S,Gore Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+471,Gore Coat S,Gore Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+472,EX Gore Faulds,EX Gore Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+473,EX Gore Coat,EX Gore Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+474,Gore Faulds R,Gore Faulds R,mhxx-dex-1.0+mhxx-save-format-community,6
+475,Gore Coat R,Gore Coat R,mhxx-dex-1.0+mhxx-save-format-community,6
+476,Regios Tassets S,Regios Tassets S,mhxx-dex-1.0+mhxx-save-format-community,6
+477,Regios Coat S,Regios Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+478,Duramboros Faulds,Duramboros Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+479,Duramboros Coat,Duramboros Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+480,Tigrex Tassets S,Tigrex Tassets S,mhxx-dex-1.0+mhxx-save-format-community,6
+481,Tigrex Coat S,Tigrex Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+482,EX Tigrex Tassets,EX Tigrex Tassets,mhxx-dex-1.0+mhxx-save-format-community,6
+483,EX Tigrex Coat,EX Tigrex Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+484,Tigrex Tassets R,Tigrex Tassets R,mhxx-dex-1.0+mhxx-save-format-community,6
+485,Tigrex Coat R,Tigrex Coat R,mhxx-dex-1.0+mhxx-save-format-community,6
+486,Kirin Hoop S,Kirin Hoop S,mhxx-dex-1.0+mhxx-save-format-community,6
+487,Kirin Shorts S,Kirin Shorts S,mhxx-dex-1.0+mhxx-save-format-community,6
+488,Kirin Hoop R,Kirin Hoop R,mhxx-dex-1.0+mhxx-save-format-community,6
+489,Kirin Shorts R,Kirin Shorts R,mhxx-dex-1.0+mhxx-save-format-community,6
+490,Brachydios Faulds S,Brachydios Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+491,Brachydios Coat S,Brachydios Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+492,EX Brachydios Faulds,EX Brachydios Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+493,EX Brachydios Coat,EX Brachydios Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+494,Golden Obi,Golden Obi,mhxx-dex-1.0+mhxx-save-format-community,6
+495,Puppeteer Obi,Puppeteer Obi,mhxx-dex-1.0+mhxx-save-format-community,6
+496,Vangis Coil,Vangis Coil,mhxx-dex-1.0+mhxx-save-format-community,6
+497,Vangis Coat,Vangis Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+498,Guild Knight Coat,Guild Knight Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+499,Guild Knight Kilt,Guild Knight Kilt,mhxx-dex-1.0+mhxx-save-format-community,6
+500,Maiden's Skirt S,Maiden's Skirt S,mhxx-dex-1.0+mhxx-save-format-community,6
+501,French Maid Frills S,French Maid Frills S,mhxx-dex-1.0+mhxx-save-format-community,6
+502,Blue Guild Coil,Blue Guild Coil,mhxx-dex-1.0+mhxx-save-format-community,6
+503,Blue Guild Coat,Blue Guild Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+504,Red Guild Coil,Red Guild Coil,mhxx-dex-1.0+mhxx-save-format-community,6
+505,Red Guild Coat,Red Guild Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+506,Helper Skirt S,Helper Skirt S,mhxx-dex-1.0+mhxx-save-format-community,6
+507,Healer Frills S,Healer Frills S,mhxx-dex-1.0+mhxx-save-format-community,6
+508,Helper Skirt U,Helper Skirt U,mhxx-dex-1.0+mhxx-save-format-community,6
+509,Healer Frills U,Healer Frills U,mhxx-dex-1.0+mhxx-save-format-community,6
+510,Guild Bard Coil S,Guild Bard Coil S,mhxx-dex-1.0+mhxx-save-format-community,6
+511,Guild Bard Coat S,Guild Bard Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+512,Chakra Waistlet,Chakra Waistlet,mhxx-dex-1.0+mhxx-save-format-community,6
+515,Dianthus Wealskirt,Dianthus Wealskirt,mhxx-dex-1.0+mhxx-save-format-community,6
+516,Campanile Wealskirt,Campanile Wealskirt,mhxx-dex-1.0+mhxx-save-format-community,6
+517,Ace Faulds,Ace Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+518,Ace Coat,Ace Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+519,Sororal Faulds,Sororal Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+520,Sororal Coat,Sororal Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+521,Hawkcoil,Hawkcoil,mhxx-dex-1.0+mhxx-save-format-community,6
+522,Hawkcoat,Hawkcoat,mhxx-dex-1.0+mhxx-save-format-community,6
+523,Gourmew Sarong S,Gourmew Sarong S,mhxx-dex-1.0+mhxx-save-format-community,6
+524,Gourmew Apron S,Gourmew Apron S,mhxx-dex-1.0+mhxx-save-format-community,6
+526,Scholarly Sash S,Scholarly Sash S,mhxx-dex-1.0+mhxx-save-format-community,6
+527,Scholarly Coat S,Scholarly Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+528,Ranger's Sash,Ranger's Sash,mhxx-dex-1.0+mhxx-save-format-community,6
+529,Archer's Belt,Archer's Belt,mhxx-dex-1.0+mhxx-save-format-community,6
+530,Shinobi Heaven Belt,Shinobi Heaven Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+531,Shinobi Land Belt,Shinobi Land Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+532,Shinobi Sky Belt,Shinobi Sky Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+533,Shinobi Sea Belt,Shinobi Sea Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+534,Ancient Coil,Ancient Coil,mhxx-dex-1.0+mhxx-save-format-community,7
+535,Ancient Coat,Ancient Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+536,Master's Faulds,Master's Faulds,mhxx-dex-1.0+mhxx-save-format-community,7
+537,Master's Coat,Master's Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+538,Black Spine S,Black Spine S,mhxx-dex-1.0+mhxx-save-format-community,7
+539,Black Scale S,Black Scale S,mhxx-dex-1.0+mhxx-save-format-community,7
+540,Toka Koshiate,Toka Koshiate,mhxx-dex-1.0+mhxx-save-format-community,7
+541,Mitsuaoi Koshiate,Mitsuaoi Koshiate,mhxx-dex-1.0+mhxx-save-format-community,7
+542,EX Rathian Faulds S,EX Rathian Faulds S,mhxx-dex-1.0+mhxx-save-format-community,7
+543,EX Rathian Coat S,EX Rathian Coat S,mhxx-dex-1.0+mhxx-save-format-community,7
+544,EX Rathalos Faulds S,EX Rathalos Faulds S,mhxx-dex-1.0+mhxx-save-format-community,7
+545,EX Rathalos Coat S,EX Rathalos Coat S,mhxx-dex-1.0+mhxx-save-format-community,7
+546,EX Tigrex Coil S,EX Tigrex Coil S,mhxx-dex-1.0+mhxx-save-format-community,7
+547,EX Tigrex Coat S,EX Tigrex Coat S,mhxx-dex-1.0+mhxx-save-format-community,7
+548,Arc Faulds S,Arc Faulds S,mhxx-dex-1.0+mhxx-save-format-community,7
+549,Storge Faulds S,Storge Faulds S,mhxx-dex-1.0+mhxx-save-format-community,7
+550,Arc Coat S,Arc Coat S,mhxx-dex-1.0+mhxx-save-format-community,7
+551,Storge Coat S,Storge Coat S,mhxx-dex-1.0+mhxx-save-format-community,7
+552,EX Arc Faulds,EX Arc Faulds,mhxx-dex-1.0+mhxx-save-format-community,7
+553,EX Storge Faulds,EX Storge Faulds,mhxx-dex-1.0+mhxx-save-format-community,7
+554,EX Arc Coat,EX Arc Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+555,EX Storge Coat,EX Storge Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+556,Arc Faulds R,Arc Faulds R,mhxx-dex-1.0+mhxx-save-format-community,7
+557,Storge Faulds R,Storge Faulds R,mhxx-dex-1.0+mhxx-save-format-community,7
+558,Arc Coat R,Arc Coat R,mhxx-dex-1.0+mhxx-save-format-community,7
+559,Storge Coat R,Storge Coat R,mhxx-dex-1.0+mhxx-save-format-community,7
+560,Kushala Cocoon S,Kushala Cocoon S,mhxx-dex-1.0+mhxx-save-format-community,7
+561,Kushala Wind Wrap S,Kushala Wind Wrap S,mhxx-dex-1.0+mhxx-save-format-community,7
+562,EX Kushala Cocoon,EX Kushala Cocoon,mhxx-dex-1.0+mhxx-save-format-community,7
+563,EX Kushala Wind Wrap,EX Kushala Wind Wrap,mhxx-dex-1.0+mhxx-save-format-community,7
+564,Kushala Cocoon R,Kushala Cocoon R,mhxx-dex-1.0+mhxx-save-format-community,7
+565,Kushala Wind Wrap R,Kushala Wind Wrap R,mhxx-dex-1.0+mhxx-save-format-community,7
+566,Mizuha Sash S,Mizuha Sash S,mhxx-dex-1.0+mhxx-save-format-community,7
+567,Cham Coat S,Cham Coat S,mhxx-dex-1.0+mhxx-save-format-community,7
+568,EX Mizuha Sash,EX Mizuha Sash,mhxx-dex-1.0+mhxx-save-format-community,7
+569,EX Cham Coat,EX Cham Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+570,Kaiser Tassets S,Kaiser Tassets S,mhxx-dex-1.0+mhxx-save-format-community,7
+571,Kaiser Coat S,Kaiser Coat S,mhxx-dex-1.0+mhxx-save-format-community,7
+572,EX Kaiser Tassets,EX Kaiser Tassets,mhxx-dex-1.0+mhxx-save-format-community,7
+573,EX Kaiser Coat,EX Kaiser Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+574,Silver Solcoil,Silver Solcoil,mhxx-dex-1.0+mhxx-save-format-community,7
+575,Silver Solcoat,Silver Solcoat,mhxx-dex-1.0+mhxx-save-format-community,7
+576,EX Silver Solcoil,EX Silver Solcoil,mhxx-dex-1.0+mhxx-save-format-community,7
+577,EX Silver Solcoat,EX Silver Solcoat,mhxx-dex-1.0+mhxx-save-format-community,7
+578,Silver Solcoil R,Silver Solcoil R,mhxx-dex-1.0+mhxx-save-format-community,7
+579,Silver Solcoat R,Silver Solcoat R,mhxx-dex-1.0+mhxx-save-format-community,7
+580,Golden Lunecoil,Golden Lunecoil,mhxx-dex-1.0+mhxx-save-format-community,7
+581,Golden Lunecoat,Golden Lunecoat,mhxx-dex-1.0+mhxx-save-format-community,7
+582,EX Golden Lunecoil,EX Golden Lunecoil,mhxx-dex-1.0+mhxx-save-format-community,7
+583,EX Golden Lunecoat,EX Golden Lunecoat,mhxx-dex-1.0+mhxx-save-format-community,7
+584,Divine Ire Obi,Divine Ire Obi,mhxx-dex-1.0+mhxx-save-format-community,7
+585,Crusher Belt,Crusher Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+586,Esurient Faulds,Esurient Faulds,mhxx-dex-1.0+mhxx-save-format-community,7
+587,Esurient Coat,Esurient Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+588,Esurient Faulds R,Esurient Faulds R,mhxx-dex-1.0+mhxx-save-format-community,7
+589,Esurient Coat R,Esurient Coat R,mhxx-dex-1.0+mhxx-save-format-community,7
+590,Akantor Cincture,Akantor Cincture,mhxx-dex-1.0+mhxx-save-format-community,7
+591,Akantor Sash,Akantor Sash,mhxx-dex-1.0+mhxx-save-format-community,7
+592,Akantor Cincture R,Akantor Cincture R,mhxx-dex-1.0+mhxx-save-format-community,7
+593,Akantor Sash R,Akantor Sash R,mhxx-dex-1.0+mhxx-save-format-community,7
+594,Ukanlos Cincture,Ukanlos Cincture,mhxx-dex-1.0+mhxx-save-format-community,7
+595,Ukanlos Sash,Ukanlos Sash,mhxx-dex-1.0+mhxx-save-format-community,7
+596,Tempest Obi,Tempest Obi,mhxx-dex-1.0+mhxx-save-format-community,7
+597,Welkin Obi,Welkin Obi,mhxx-dex-1.0+mhxx-save-format-community,7
+598,Tempest Obi R,Tempest Obi R,mhxx-dex-1.0+mhxx-save-format-community,7
+599,Welkin Obi R,Welkin Obi R,mhxx-dex-1.0+mhxx-save-format-community,7
+600,Skeletal Hipbone R,Skeletal Hipbone R,mhxx-dex-1.0+mhxx-save-format-community,7
+601,Decayed Hipbone R,Decayed Hipbone R,mhxx-dex-1.0+mhxx-save-format-community,7
+602,Astral Coil,Astral Coil,mhxx-dex-1.0+mhxx-save-format-community,7
+603,Astral Coat,Astral Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+604,Escadora Might,Escadora Might,mhxx-dex-1.0+mhxx-save-format-community,7
+605,Escadora Force,Escadora Force,mhxx-dex-1.0+mhxx-save-format-community,7
+606,Escadora Might R,Escadora Might R,mhxx-dex-1.0+mhxx-save-format-community,7
+607,Escadora Force R,Escadora Force R,mhxx-dex-1.0+mhxx-save-format-community,7
+615,Strange Faulds,Strange Faulds,mhxx-dex-1.0+mhxx-save-format-community,5
+616,Strange Coat,Strange Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+617,Redhelm Faulds,Redhelm Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+618,Redhelm Coat,Redhelm Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+619,Snowbaron Faulds,Snowbaron Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+620,Snowbaron Coat,Snowbaron Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+621,Stonefist Faulds,Stonefist Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+622,Stonefist Coat,Stonefist Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+623,Dreadqueen Faulds,Dreadqueen Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+624,Dreadqueen Coat,Dreadqueen Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+625,Drilltusk Faulds,Drilltusk Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+626,Drilltusk Coat,Drilltusk Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+627,Silverwind Faulds,Silverwind Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+628,Silverwind Coat,Silverwind Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+629,Crystalbeard Faulds,Crystalbeard Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+630,Crystalbeard Coat,Crystalbeard Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+631,Deadeye Faulds,Deadeye Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+632,Deadeye Coat,Deadeye Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+633,Dreadking Faulds,Dreadking Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+634,Dreadking Coat,Dreadking Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+635,Thunderlord Faulds,Thunderlord Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+636,Thunderlord Coat,Thunderlord Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+637,Grimclaw Faulds,Grimclaw Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+638,Grimclaw Coat,Grimclaw Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+639,Hellblade Faulds,Hellblade Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+640,Hellblade Coat,Hellblade Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+654,Booyah Belt,Booyah Belt,mhxx-dex-1.0+mhxx-save-format-community,5
+655,Booyah Buckle,Booyah Buckle,mhxx-dex-1.0+mhxx-save-format-community,5
+660,Champion's Belt,Champion's Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+661,Strongman's Belt,Strongman's Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+662,Zodias Coil,Zodias Coil,mhxx-dex-1.0+mhxx-save-format-community,7
+663,Zodias Coat,Zodias Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+664,Pirate Coil J,Pirate Coil J,mhxx-dex-1.0+mhxx-save-format-community,6
+665,Pirate Skirt J,Pirate Skirt J,mhxx-dex-1.0+mhxx-save-format-community,6
+666,Buccaneer Coil J,Buccaneer Coil J,mhxx-dex-1.0+mhxx-save-format-community,6
+667,Buccaneer Skirt J,Buccaneer Skirt J,mhxx-dex-1.0+mhxx-save-format-community,6
+668,Dynaqlo Belt,Dynaqlo Belt,mhxx-dex-1.0+mhxx-save-format-community,6
+669,Dynaqlo Pouch,Dynaqlo Pouch,mhxx-dex-1.0+mhxx-save-format-community,6
+670,Promising Girdle,Promising Girdle,mhxx-save-format-community,0
+671,Halcyon Girdle,Halcyon Girdle,mhxx-save-format-community,0
+672,Blue Star Coil,Blue Star Coil,mhxx-save-format-community,0
+673,Blue Star Coat,Blue Star Coat,mhxx-save-format-community,0
+674,Star Rook Coil,Star Rook Coil,mhxx-save-format-community,0
+675,Star Rook Coat,Star Rook Coat,mhxx-save-format-community,0
+676,Star Knight Coil,Star Knight Coil,mhxx-save-format-community,0
+677,Star Knight Coat,Star Knight Coat,mhxx-save-format-community,0
+682,Hero's Belt,Hero's Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+683,Hero's Band,Hero's Band,mhxx-dex-1.0+mhxx-save-format-community,7
+694,Mosgharl Folia,Mosgharl Folia,mhxx-dex-1.0+mhxx-save-format-community,2
+695,Mosgharl Fronds,Mosgharl Fronds,mhxx-dex-1.0+mhxx-save-format-community,2
+696,Gammoth Faulds,Gammoth Faulds,mhxx-dex-1.0+mhxx-save-format-community,3
+697,Gammoth Coat,Gammoth Coat,mhxx-dex-1.0+mhxx-save-format-community,3
+698,Gourmew Sarong,Gourmew Sarong,mhxx-dex-1.0+mhxx-save-format-community,3
+699,Gourmew Apron,Gourmew Apron,mhxx-dex-1.0+mhxx-save-format-community,3
+700,Leather Coat S,Leather Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+701,Chainmail Coat S,Chainmail Coat S,mhxx-dex-1.0+mhxx-save-format-community,4
+702,Mosgharl Folia S,Mosgharl Folia S,mhxx-dex-1.0+mhxx-save-format-community,4
+703,Mosgharl Fronds S,Mosgharl Fronds S,mhxx-dex-1.0+mhxx-save-format-community,4
+704,Gammoth Faulds S,Gammoth Faulds S,mhxx-dex-1.0+mhxx-save-format-community,6
+705,Gammoth Coat S,Gammoth Coat S,mhxx-dex-1.0+mhxx-save-format-community,6
+706,Blue Guild Coil,Blue Guild Coil,mhxx-dex-1.0+mhxx-save-format-community,6
+707,Blue Guild Coat,Blue Guild Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+708,Red Guild Coil,Red Guild Coil,mhxx-dex-1.0+mhxx-save-format-community,6
+709,Red Guild Coat,Red Guild Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+710,Gourmew Sarong S,Gourmew Sarong S,mhxx-dex-1.0+mhxx-save-format-community,6
+711,Gourmew Apron S,Gourmew Apron S,mhxx-dex-1.0+mhxx-save-format-community,6
+712,Promising Archgirdle,Promising Archgirdle,mhxx-save-format-community,0
+713,Halcyon Archgirdle,Halcyon Archgirdle,mhxx-save-format-community,0
+714,Lucid Tassets,Lucid Tassets,mhxx-save-format-community,0
+715,Dreamy Tassets,Dreamy Tassets,mhxx-save-format-community,0
+716,Lucid Archgirdle,Lucid Archgirdle,mhxx-save-format-community,0
+717,Dreamy Archgirdle,Dreamy Archgirdle,mhxx-save-format-community,0
+718,Conga Tassets,Conga Tassets,mhxx-dex-1.0+mhxx-save-format-community,4
+719,Conga Coat,Conga Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+722,Barroth Faulds,Barroth Faulds,mhxx-dex-1.0+mhxx-save-format-community,4
+723,Barroth Coat,Barroth Coat,mhxx-dex-1.0+mhxx-save-format-community,4
+724,Basarios Tassets,Basarios Tassets,mhxx-dex-1.0+mhxx-save-format-community,5
+725,Basarios Coat,Basarios Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+726,Nerscylla Faulds,Nerscylla Faulds,mhxx-dex-1.0+mhxx-save-format-community,5
+727,Nerscylla Coat,Nerscylla Coat,mhxx-dex-1.0+mhxx-save-format-community,5
+728,Barioth Faulds,Barioth Faulds,mhxx-dex-1.0+mhxx-save-format-community,6
+729,Barioth Coat,Barioth Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+730,Gravios Tassets,Gravios Tassets,mhxx-dex-1.0+mhxx-save-format-community,6
+731,Gravios Coat,Gravios Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+732,Cheerful Belt,Cheerful Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+733,Cheerful Band,Cheerful Band,mhxx-dex-1.0+mhxx-save-format-community,7
+734,Mariner Skirt,Mariner Skirt,mhxx-dex-1.0+mhxx-save-format-community,7
+735,Mariner Frills,Mariner Frills,mhxx-dex-1.0+mhxx-save-format-community,7
+738,Diablos Coil,Diablos Coil,mhxx-dex-1.0+mhxx-save-format-community,7
+739,Diablos Coat,Diablos Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+740,Diablos Coil R,Diablos Coil R,mhxx-dex-1.0+mhxx-save-format-community,7
+741,Diablos Coat R,Diablos Coat R,mhxx-dex-1.0+mhxx-save-format-community,7
+742,Valstrax Faulds,Valstrax Faulds,mhxx-dex-1.0+mhxx-save-format-community,7
+743,Valstrax Coat,Valstrax Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+744,Wisdom Coil,Wisdom Coil,mhxx-dex-1.0+mhxx-save-format-community,7
+745,Wisdom Coat,Wisdom Coat,mhxx-dex-1.0+mhxx-save-format-community,7
+751,Bherna Belt X,Bherna Belt X,mhxx-dex-1.0+mhxx-save-format-community,8
+752,Bherna Coat X,Bherna Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+753,Hunting Faulds X,Hunting Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+754,Hunting Coat X,Hunting Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+755,Mafumofu Coil X,Mafumofu Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+756,Mafumofu Coat X,Mafumofu Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+757,Yukumo Sky Obi Goku,Yukumo Sky Obi Goku,mhxx-dex-1.0+mhxx-save-format-community,8
+758,Yukumo Land Obi Goku,Yukumo Land Obi Goku,mhxx-dex-1.0+mhxx-save-format-community,8
+769,Remobra Belt X,Remobra Belt X,mhxx-dex-1.0+mhxx-save-format-community,8
+770,Remobra Band X,Remobra Band X,mhxx-dex-1.0+mhxx-save-format-community,8
+773,Mosswine Hip X,Mosswine Hip X,mhxx-dex-1.0+mhxx-save-format-community,8
+774,Rhenoplos Coil X,Rhenoplos Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+775,Rhenoplos Coat X,Rhenoplos Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+776,Jaggi Faulds X,Jaggi Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+777,Jaggi Coat X,Jaggi Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+780,Droth Faulds X,Droth Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+781,Droth Coat X,Droth Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+782,Uroktor Tassets X,Uroktor Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+783,Uroktor Coat X,Uroktor Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+784,Maccao Faulds X,Maccao Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+785,Maccao Coat X,Maccao Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+786,Velociprey Tassets X,Velociprey Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+787,Velociprey Coat X,Velociprey Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+788,Giaprey Faulds X,Giaprey Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+789,Giaprey Coat X,Giaprey Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+790,Genprey Tassets X,Genprey Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+791,Genprey Coat X,Genprey Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+792,Ioprey Tassets X,Ioprey Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+793,Ioprey Coat X,Ioprey Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+794,Vespoid Tassets X,Vespoid Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+795,Vespoid Coat X,Vespoid Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+796,Hornetaur Tassets X,Hornetaur Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+797,Hornetaur Coat X,Hornetaur Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+798,Bnahabra Coil X,Bnahabra Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+799,Bnahabra Coat X,Bnahabra Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+802,Bulldrome Faulds X,Bulldrome Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+803,Bulldrome Coat X,Bulldrome Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+805,Arzuros Faulds X,Arzuros Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+806,Arzuros Coat X,Arzuros Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+807,Cephalos Tassets X,Cephalos Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+808,Cephalos Coat X,Cephalos Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+809,Kut-Ku Tassets X,Kut-Ku Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+810,Kut-Ku Coat X,Kut-Ku Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+811,Kecha Faulds X,Kecha Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+812,Kecha Coat X,Kecha Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+813,Lagombi Faulds X,Lagombi Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+814,Lagombi Coat X,Lagombi Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+815,Gypceros Tassets X,Gypceros Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+816,Gypceros Coat X,Gypceros Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+817,Tetsucabra Faulds X,Tetsucabra Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+818,Tetsucabra Coat X,Tetsucabra Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+819,Hermitaur Tassets X,Hermitaur Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+820,Hermitaur Coat X,Hermitaur Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+821,Ludroth Faulds X,Ludroth Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+822,Ludroth Coat X,Ludroth Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+823,Gourmew Sarong X,Gourmew Sarong X,mhxx-dex-1.0+mhxx-save-format-community,8
+824,Gourmew Apron X,Gourmew Apron X,mhxx-dex-1.0+mhxx-save-format-community,8
+825,Gourmew Sarong X,Gourmew Sarong X,mhxx-dex-1.0+mhxx-save-format-community,8
+826,Gourmew Apron X,Gourmew Apron X,mhxx-dex-1.0+mhxx-save-format-community,8
+827,Moofah Coil X,Moofah Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+828,Moofah Coat X,Moofah Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+829,Edel Folia X,Edel Folia X,mhxx-dex-1.0+mhxx-save-format-community,8
+830,Edel Fronds X,Edel Fronds X,mhxx-dex-1.0+mhxx-save-format-community,8
+833,Death Stench Bowels X,Death Stench Bowels X,mhxx-dex-1.0+mhxx-save-format-community,8
+834,Death Stench Belly X,Death Stench Belly X,mhxx-dex-1.0+mhxx-save-format-community,8
+835,Skalda Elytra X,Skalda Elytra X,mhxx-dex-1.0+mhxx-save-format-community,8
+836,Skalda Alae X,Skalda Alae X,mhxx-dex-1.0+mhxx-save-format-community,8
+837,Spio Elytra X,Spio Elytra X,mhxx-dex-1.0+mhxx-save-format-community,8
+838,Spio Alae X,Spio Alae X,mhxx-dex-1.0+mhxx-save-format-community,8
+839,Hunter's Faulds XR,Hunter's Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,8
+840,Hunter's Coat XR,Hunter's Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+841,Volvidon Faulds X,Volvidon Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+842,Volvidon Coat X,Volvidon Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+843,Conga Tassets X,Conga Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+844,Conga Coat X,Conga Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+845,Barroth Faulds X,Barroth Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+846,Barroth Coat X,Barroth Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+847,Basarios Tassets X,Basarios Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+848,Basarios Coat X,Basarios Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+849,Malfestio Faulds X,Malfestio Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+850,Malfestio Coat X,Malfestio Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+851,Zamtrios Faulds X,Zamtrios Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+852,Zamtrios Coat X,Zamtrios Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+853,Khezu Tassets X,Khezu Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+854,Khezu Coat X,Khezu Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+855,Nerscylla Faulds X,Nerscylla Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+856,Nerscylla Coat X,Nerscylla Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+857,Rathian Faulds X,Rathian Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+858,Rathian Coat X,Rathian Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+859,Nibelsnarf Faulds X,Nibelsnarf Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+860,Nibelsnarf Coat X,Nibelsnarf Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+863,Blango Tassets X,Blango Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+864,Blango Coat X,Blango Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+865,Ceanataur Tassets X,Ceanataur Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+866,Ceanataur Coat X,Ceanataur Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+867,Najarala Faulds X,Najarala Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+868,Najarala Coat X,Najarala Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+869,Nargacuga Faulds X,Nargacuga Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+870,Nargacuga Coat X,Nargacuga Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+871,Gypceros Tassets XR,Gypceros Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,8
+872,Gypceros Coat XR,Gypceros Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+873,Hermitaur Tassets XR,Hermitaur Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,8
+874,Hermitaur Coat XR,Hermitaur Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+875,Ludroth Faulds XR,Ludroth Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,8
+876,Ludroth Coat XR,Ludroth Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+877,Strange Faulds X,Strange Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+878,Strange Coat X,Strange Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+879,Bistro Sarong X,Bistro Sarong X,mhxx-dex-1.0+mhxx-save-format-community,8
+880,Bistro Apron X,Bistro Apron X,mhxx-dex-1.0+mhxx-save-format-community,8
+881,Lecturer's Skirt X,Lecturer's Skirt X,mhxx-dex-1.0+mhxx-save-format-community,8
+882,Lecturer's Frills X,Lecturer's Frills X,mhxx-dex-1.0+mhxx-save-format-community,8
+883,Patissier's Sarong X,Patissier's Sarong X,mhxx-dex-1.0+mhxx-save-format-community,8
+884,Patissier's Apron X,Patissier's Apron X,mhxx-dex-1.0+mhxx-save-format-community,8
+886,Maiden's Skirt X,Maiden's Skirt X,mhxx-dex-1.0+mhxx-save-format-community,8
+887,French Maid Frills X,French Maid Frills X,mhxx-dex-1.0+mhxx-save-format-community,8
+888,Dianthus Masaskirt,Dianthus Masaskirt,mhxx-dex-1.0+mhxx-save-format-community,8
+889,Campanile Masaskirt,Campanile Masaskirt,mhxx-dex-1.0+mhxx-save-format-community,8
+890,Conga Tassets GX,Conga Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+891,Conga Coat GX,Conga Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+892,Alloy Faulds XR,Alloy Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,8
+893,Alloy Coat XR,Alloy Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+894,Ingot Coil XR,Ingot Coil XR,mhxx-dex-1.0+mhxx-save-format-community,8
+895,Ingot Coat XR,Ingot Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+896,Artian Coil X,Artian Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+897,Artian Coat X,Artian Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+898,Lobster Coil X,Lobster Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+899,Lobster Coat X,Lobster Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+900,Khezu Tassets XR,Khezu Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,8
+901,Khezu Coat XR,Khezu Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+902,Ceanataur Tassets XR,Ceanataur Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,8
+903,Ceanataur Coat XR,Ceanataur Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+904,Rathian Faulds XR,Rathian Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,8
+905,Rathian Coat XR,Rathian Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+906,Lava Tassets X,Lava Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+907,Lava Coat X,Lava Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+908,Garuga Tassets X,Garuga Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+909,Garuga Coat X,Garuga Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+910,Uragaan Faulds X,Uragaan Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+911,Uragaan Coat X,Uragaan Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+912,Barioth Faulds X,Barioth Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+913,Barioth Coat X,Barioth Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+914,Seltas Faulds X,Seltas Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+915,Seltas Coat X,Seltas Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+916,Rathalos Faulds X,Rathalos Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+917,Rathalos Coat X,Rathalos Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+918,Lagiacrus Faulds X,Lagiacrus Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+919,Lagiacrus Coat X,Lagiacrus Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+920,Zinogre Faulds X,Zinogre Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+921,Zinogre Coat X,Zinogre Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+922,Gravios Tassets X,Gravios Tassets X,mhxx-dex-1.0+mhxx-save-format-community,9
+923,Gravios Coat X,Gravios Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+924,Mizutsune Faulds X,Mizutsune Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+925,Mizutsune Coat X,Mizutsune Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+926,Astalos Faulds X,Astalos Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+927,Astalos Coat X,Astalos Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+928,Gammoth Faulds X,Gammoth Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+929,Gammoth Coat X,Gammoth Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+930,Glavenus Faulds X,Glavenus Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+931,Glavenus Coat X,Glavenus Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+932,Gore Faulds X,Gore Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+933,Gore Coat X,Gore Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+934,Kirin Hoop X,Kirin Hoop X,mhxx-dex-1.0+mhxx-save-format-community,9
+935,Kirin Shorts X,Kirin Shorts X,mhxx-dex-1.0+mhxx-save-format-community,9
+936,Kirin Hoop XR,Kirin Hoop XR,mhxx-dex-1.0+mhxx-save-format-community,9
+937,Kirin Shorts XR,Kirin Shorts XR,mhxx-dex-1.0+mhxx-save-format-community,9
+938,Auroros Tassets,Auroros Tassets,mhxx-dex-1.0+mhxx-save-format-community,10
+939,Borealis Tassets,Borealis Tassets,mhxx-dex-1.0+mhxx-save-format-community,10
+940,Genesis Tassets,Genesis Tassets,mhxx-dex-1.0+mhxx-save-format-community,10
+941,Glyph Tassets,Glyph Tassets,mhxx-dex-1.0+mhxx-save-format-community,10
+942,Auroros Tassets GX,Auroros Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+943,Borealis Tassets GX,Borealis Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+944,Genesis Tassets GX,Genesis Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+945,Glyph Tassets GX,Glyph Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+946,Auroros Tassets XR,Auroros Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+947,Borealis Tassets XR,Borealis Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+948,Genesis Tassets XR,Genesis Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+949,Glyph Tassets XR,Glyph Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+950,Scholar's Skirt X,Scholar's Skirt X,mhxx-dex-1.0+mhxx-save-format-community,8
+951,Scholar's Mini X,Scholar's Mini X,mhxx-dex-1.0+mhxx-save-format-community,8
+952,Sailor Skirt X,Sailor Skirt X,mhxx-dex-1.0+mhxx-save-format-community,8
+953,Sailor Mini X,Sailor Mini X,mhxx-dex-1.0+mhxx-save-format-community,8
+954,Hawkcoil X,Hawkcoil X,mhxx-dex-1.0+mhxx-save-format-community,8
+955,Hawkcoat X,Hawkcoat X,mhxx-dex-1.0+mhxx-save-format-community,8
+956,Scholarly Sash X,Scholarly Sash X,mhxx-dex-1.0+mhxx-save-format-community,8
+957,Scholarly Coat X,Scholarly Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+958,Research Sash,Research Sash,mhxx-dex-1.0+mhxx-save-format-community,9
+959,Research Coat,Research Coat,mhxx-dex-1.0+mhxx-save-format-community,9
+960,Rathalos Faulds XR,Rathalos Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,9
+961,Rathalos Coat XR,Rathalos Coat XR,mhxx-dex-1.0+mhxx-save-format-community,9
+962,Lagiacrus Faulds XR,Lagiacrus Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,9
+963,Lagiacrus Coat XR,Lagiacrus Coat XR,mhxx-dex-1.0+mhxx-save-format-community,9
+964,Gore Faulds XR,Gore Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,9
+965,Gore Coat XR,Gore Coat XR,mhxx-dex-1.0+mhxx-save-format-community,9
+966,Agnaktor Faulds X,Agnaktor Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+967,Agnaktor Coat X,Agnaktor Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+968,Regios Tassets X,Regios Tassets X,mhxx-dex-1.0+mhxx-save-format-community,9
+969,Regios Coat X,Regios Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+970,Duramboros Faulds X,Duramboros Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+971,Duramboros Coat X,Duramboros Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+972,Tigrex Tassets X,Tigrex Tassets X,mhxx-dex-1.0+mhxx-save-format-community,9
+973,Tigrex Coat X,Tigrex Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+974,Tigrex Tassets XR,Tigrex Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,9
+975,Tigrex Coat XR,Tigrex Coat XR,mhxx-dex-1.0+mhxx-save-format-community,9
+976,Diablos Coil X,Diablos Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+977,Diablos Coat X,Diablos Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+978,Diablos Coil XR,Diablos Coil XR,mhxx-dex-1.0+mhxx-save-format-community,9
+979,Diablos Coat XR,Diablos Coat XR,mhxx-dex-1.0+mhxx-save-format-community,9
+980,Brachydios Faulds X,Brachydios Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+981,Brachydios Coat X,Brachydios Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+982,Arc Faulds X,Arc Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+983,Storge Faulds X,Storge Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+984,Arc Coat X,Arc Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+985,Storge Coat X,Storge Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+986,Arc Faulds XR,Arc Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,9
+987,Storge Faulds XR,Storge Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,9
+988,Arc Coat XR,Arc Coat XR,mhxx-dex-1.0+mhxx-save-format-community,9
+989,Storge Coat XR,Storge Coat XR,mhxx-dex-1.0+mhxx-save-format-community,9
+990,Valstrax Faulds X,Valstrax Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+991,Valstrax Coat X,Valstrax Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+992,Grand God's Peer Belt,Grand God's Peer Belt,mhxx-dex-1.0+mhxx-save-format-community,9
+993,Grand Hermit Belt,Grand Hermit Belt,mhxx-dex-1.0+mhxx-save-format-community,9
+994,Vangis Coil X,Vangis Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+995,Vangis Coat X,Vangis Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+996,Kushala Cocoon X,Kushala Cocoon X,mhxx-dex-1.0+mhxx-save-format-community,10
+997,Kushala Wind Wrap X,Kushala Wind Wrap X,mhxx-dex-1.0+mhxx-save-format-community,10
+998,Kushala Cocoon XR,Kushala Cocoon XR,mhxx-dex-1.0+mhxx-save-format-community,10
+999,Kushala Wind Wrap XR,Kushala Wind Wrap XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1000,Grand Mizuha Sash,Grand Mizuha Sash,mhxx-dex-1.0+mhxx-save-format-community,10
+1001,Grand Cham Coat,Grand Cham Coat,mhxx-dex-1.0+mhxx-save-format-community,10
+1002,Kaiser Tassets X,Kaiser Tassets X,mhxx-dex-1.0+mhxx-save-format-community,10
+1003,Kaiser Coat X,Kaiser Coat X,mhxx-dex-1.0+mhxx-save-format-community,10
+1004,Silver Solcoil Z,Silver Solcoil Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1005,Silver Solcoat Z,Silver Solcoat Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1006,Golden Lunecoil Z,Golden Lunecoil Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1007,Golden Lunecoat Z,Golden Lunecoat Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1008,Yaksha Coil,Yaksha Coil,mhxx-dex-1.0+mhxx-save-format-community,9
+1009,Carnage Wrap,Carnage Wrap,mhxx-dex-1.0+mhxx-save-format-community,9
+1010,Guardian Coil X,Guardian Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1011,Guardian Coat X,Guardian Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1012,Blue Guild Coil X,Blue Guild Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1013,Blue Guild Coil X,Blue Guild Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1014,Blue Guild Coat X,Blue Guild Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1015,Blue Guild Coat X,Blue Guild Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1016,Red Guild Coil X,Red Guild Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1017,Red Guild Coil X,Red Guild Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1018,Red Guild Coat X,Red Guild Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1019,Red Guild Coat X,Red Guild Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1020,G. Knight Coat X,G. Knight Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1021,G. Knight Kilt X,G. Knight Kilt X,mhxx-dex-1.0+mhxx-save-format-community,8
+1022,Guild Bard Coil X,Guild Bard Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+1023,Guild Bard Coat X,Guild Bard Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1024,Ace Faulds X,Ace Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+1025,Ace Coat X,Ace Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1026,Sororal Faulds X,Sororal Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+1027,Sororal Coat X,Sororal Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1028,Shinobi Heaven Belt Goku,Shinobi Heaven Belt Goku,mhxx-dex-1.0+mhxx-save-format-community,9
+1029,Shinobi Land Belt Goku,Shinobi Land Belt Goku,mhxx-dex-1.0+mhxx-save-format-community,9
+1030,Kaiserin Faulds,Kaiserin Faulds,mhxx-dex-1.0+mhxx-save-format-community,9
+1031,Kaiserin Coat,Kaiserin Coat,mhxx-dex-1.0+mhxx-save-format-community,9
+1032,Barmaid's Skirt,Barmaid's Skirt,mhxx-dex-1.0+mhxx-save-format-community,9
+1033,Barmaid's Frills,Barmaid's Frills,mhxx-dex-1.0+mhxx-save-format-community,9
+1034,Barman's Coil,Barman's Coil,mhxx-dex-1.0+mhxx-save-format-community,9
+1035,Barman's Coat,Barman's Coat,mhxx-dex-1.0+mhxx-save-format-community,9
+1036,Helios Coil X,Helios Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1037,Selene Coil X,Selene Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1038,Helios Coat X,Helios Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1039,Selene Coat X,Selene Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1040,Strider's Sash,Strider's Sash,mhxx-dex-1.0+mhxx-save-format-community,9
+1041,Deadeye's Belt,Deadeye's Belt,mhxx-dex-1.0+mhxx-save-format-community,9
+1042,Damascus Coil X,Damascus Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1043,Damascus Coat X,Damascus Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1044,Chaos Faulds,Chaos Faulds,mhxx-dex-1.0+mhxx-save-format-community,9
+1045,Nephilim Tassets,Nephilim Tassets,mhxx-dex-1.0+mhxx-save-format-community,9
+1046,Chaos Coat,Chaos Coat,mhxx-dex-1.0+mhxx-save-format-community,9
+1047,Nephilim Coat,Nephilim Coat,mhxx-dex-1.0+mhxx-save-format-community,9
+1048,Grand Divine Ire Obi,Grand Divine Ire Obi,mhxx-dex-1.0+mhxx-save-format-community,10
+1049,Grand Crusher Belt,Grand Crusher Belt,mhxx-dex-1.0+mhxx-save-format-community,10
+1050,Esurient Faulds Z,Esurient Faulds Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1051,Esurient Coat Z,Esurient Coat Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1052,Brachydium Faulds,Brachydium Faulds,mhxx-dex-1.0+mhxx-save-format-community,10
+1053,Brachydium Coat,Brachydium Coat,mhxx-dex-1.0+mhxx-save-format-community,10
+1054,Akantor Cincture X,Akantor Cincture X,mhxx-dex-1.0+mhxx-save-format-community,10
+1055,Akantor Sash X,Akantor Sash X,mhxx-dex-1.0+mhxx-save-format-community,10
+1056,Akantor Cincture XR,Akantor Cincture XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1057,Akantor Sash XR,Akantor Sash XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1058,Ukanlos Cincture X,Ukanlos Cincture X,mhxx-dex-1.0+mhxx-save-format-community,10
+1059,Ukanlos Sash X,Ukanlos Sash X,mhxx-dex-1.0+mhxx-save-format-community,10
+1060,Grand Tempest Obi,Grand Tempest Obi,mhxx-dex-1.0+mhxx-save-format-community,10
+1061,Grand Welkin Obi,Grand Welkin Obi,mhxx-dex-1.0+mhxx-save-format-community,10
+1062,Grand Skeletal Hipbone,Grand Skeletal Hipbone,mhxx-dex-1.0+mhxx-save-format-community,10
+1063,Grand Decayed Hipbone,Grand Decayed Hipbone,mhxx-dex-1.0+mhxx-save-format-community,10
+1064,Astral Coil X,Astral Coil X,mhxx-dex-1.0+mhxx-save-format-community,10
+1065,Astral Coat X,Astral Coat X,mhxx-dex-1.0+mhxx-save-format-community,10
+1066,Neset Coat,Neset Coat,mhxx-dex-1.0+mhxx-save-format-community,10
+1067,Neset Elytra,Neset Elytra,mhxx-dex-1.0+mhxx-save-format-community,10
+1068,Black Spine X,Black Spine X,mhxx-dex-1.0+mhxx-save-format-community,9
+1069,Black Scale X,Black Scale X,mhxx-dex-1.0+mhxx-save-format-community,9
+1070,Escadora Might X,Escadora Might X,mhxx-dex-1.0+mhxx-save-format-community,10
+1071,Escadora Force X,Escadora Force X,mhxx-dex-1.0+mhxx-save-format-community,10
+1072,Escadora Might XR,Escadora Might XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1073,Escadora Force XR,Escadora Force XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1074,Fatalis Crimsonbarbs,Fatalis Crimsonbarbs,mhxx-dex-1.0+mhxx-save-format-community,10
+1075,Fatalis Crimsonscale,Fatalis Crimsonscale,mhxx-dex-1.0+mhxx-save-format-community,10
+1076,GX Fatalis Crimsonbarbs,GX Fatalis Crimsonbarbs,mhxx-dex-1.0+mhxx-save-format-community,10
+1077,GX Fatalis Crimsonscale,GX Fatalis Crimsonscale,mhxx-dex-1.0+mhxx-save-format-community,10
+1078,Fatalis Crimsonbarbs XR,Fatalis Crimsonbarbs XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1079,Fatalis Crimsonscale XR,Fatalis Crimsonscale XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1080,Old Fatalis Spine,Old Fatalis Spine,mhxx-dex-1.0+mhxx-save-format-community,10
+1081,Old Fatalis Scale,Old Fatalis Scale,mhxx-dex-1.0+mhxx-save-format-community,10
+1082,GX Old Fatalis Spine,GX Old Fatalis Spine,mhxx-dex-1.0+mhxx-save-format-community,10
+1083,GX Old Fatalis Scale,GX Old Fatalis Scale,mhxx-dex-1.0+mhxx-save-format-community,10
+1084,Helper Skirt X,Helper Skirt X,mhxx-dex-1.0+mhxx-save-format-community,9
+1085,Healer Frills X,Healer Frills X,mhxx-dex-1.0+mhxx-save-format-community,9
+1086,Ancient Coil X,Ancient Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1087,Ancient Coat X,Ancient Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1088,Master's Faulds X,Master's Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+1089,Master's Coat X,Master's Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1090,Grand Toka Koshiate,Grand Toka Koshiate,mhxx-dex-1.0+mhxx-save-format-community,9
+1091,Grand Mitsuaoi Koshiate,Grand Mitsuaoi Koshiate,mhxx-dex-1.0+mhxx-save-format-community,9
+1096,Black Belt Tassets X,Black Belt Tassets X,mhxx-dex-1.0+mhxx-save-format-community,9
+1097,Black Belt Coat X,Black Belt Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1100,Auroros Tassets R,Auroros Tassets R,mhxx-dex-1.0+mhxx-save-format-community,10
+1101,Borealis Tassets R,Borealis Tassets R,mhxx-dex-1.0+mhxx-save-format-community,10
+1102,Genesis Tassets R,Genesis Tassets R,mhxx-dex-1.0+mhxx-save-format-community,10
+1103,Glyph Tassets R,Glyph Tassets R,mhxx-dex-1.0+mhxx-save-format-community,10
+1104,Silver Solfaulds XR,Silver Solfaulds XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1105,Silver Solcoat XR,Silver Solcoat XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1106,Esurient Faulds XR,Esurient Faulds XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1107,Esurient Coat XR,Esurient Coat XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1108,Rustrazor Faulds,Rustrazor Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+1109,Rustrazor Coat,Rustrazor Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+1110,Nightcloak Faulds,Nightcloak Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+1111,Nightcloak Coat,Nightcloak Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+1112,Soulseer Faulds,Soulseer Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+1113,Soulseer Coat,Soulseer Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+1114,Boltreaver Faulds,Boltreaver Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+1115,Boltreaver Coat,Boltreaver Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+1116,Elderfrost Faulds,Elderfrost Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+1117,Elderfrost Coat,Elderfrost Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+1118,Bloodbath Faulds,Bloodbath Faulds,mhxx-dex-1.0+mhxx-save-format-community,11
+1119,Bloodbath Coat,Bloodbath Coat,mhxx-dex-1.0+mhxx-save-format-community,11
+1120,Gammoth Faulds X,Gammoth Faulds X,mhxx-dex-1.0+mhxx-save-format-community,9
+1121,Gammoth Coat X,Gammoth Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1122,Genprey Tassets GX,Genprey Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1123,Genprey Coat GX,Genprey Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1124,Ioprey Tassets GX,Ioprey Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1125,Ioprey Coat GX,Ioprey Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1126,Vespoid Tassets GX,Vespoid Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1127,Vespoid Coat GX,Vespoid Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1128,Hornetaur Tassets XR,Hornetaur Tassets XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1129,Hornetaur Coat XR,Hornetaur Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1130,Hornetaur Tassets GX,Hornetaur Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1131,Hornetaur Coat GX,Hornetaur Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1132,Cephalos Tassets GX,Cephalos Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1133,Cephalos Coat GX,Cephalos Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1134,Hermitaur Tassets GX,Hermitaur Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1135,Hermitaur Coat GX,Hermitaur Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1136,Rathian Faulds GX,Rathian Faulds GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1137,Rathian Coat GX,Rathian Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1138,Ceanataur Tassets GX,Ceanataur Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1139,Ceanataur Coat GX,Ceanataur Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1140,Blango Tassets GX,Blango Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1141,Blango Coat GX,Blango Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1142,Gore Faulds GX,Gore Faulds GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1143,Gore Coat GX,Gore Coat GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1144,Zinogre Faulds GX,Zinogre Faulds GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1145,Zinogre Coat GX,Zinogre Coat GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1146,Tigrex Tassets GX,Tigrex Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1147,Tigrex Coat GX,Tigrex Coat GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1148,Brachydios Faulds GX,Brachydios Faulds GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1149,Brachydios Coat GX,Brachydios Coat GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1150,Rathalos Faulds GX,Rathalos Faulds GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1151,Rathalos Coat GX,Rathalos Coat GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1152,Arc Faulds GX,Arc Faulds GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1153,Arc Coat GX,Arc Coat GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1154,Storge Faulds GX,Storge Faulds GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1155,Storge Coat GX,Storge Coat GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1156,Kushala Cocoon GX,Kushala Cocoon GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1157,Kushala Wind Wrap GX,Kushala Wind Wrap GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1158,Mizuha Sash GX,Mizuha Sash GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1159,Cham Coat GX,Cham Coat GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1160,Kaiser Tassets GX,Kaiser Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1161,Kaiser Coat GX,Kaiser Coat GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1162,Lavasioth Tassets GX,Lavasioth Tassets GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1163,Lavasioth Coat GX,Lavasioth Coat GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1164,GX Silver Solcoil,GX Silver Solcoil,mhxx-dex-1.0+mhxx-save-format-community,10
+1165,GX Silver Solcoat,GX Silver Solcoat,mhxx-dex-1.0+mhxx-save-format-community,10
+1166,GX Golden Lunecoil,GX Golden Lunecoil,mhxx-dex-1.0+mhxx-save-format-community,10
+1167,GX Golden Lunecoat,GX Golden Lunecoat,mhxx-dex-1.0+mhxx-save-format-community,10
+1168,Tempest Obi XR,Tempest Obi XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1169,Welkin Obi XR,Welkin Obi XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1170,Leather Faulds X,Leather Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+1171,Leather Coat X,Leather Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1172,Chainmail Faulds X,Chainmail Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+1173,Chainmail Coat X,Chainmail Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1174,Loc Lac Kilt X,Loc Lac Kilt X,mhxx-dex-1.0+mhxx-save-format-community,8
+1175,Hunter's Faulds X,Hunter's Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+1176,Hunter's Coat X,Hunter's Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1177,Bone Faulds X,Bone Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+1178,Bone Coat X,Bone Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1179,Dober Coil X,Dober Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+1180,Dober Coat X,Dober Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1181,Alloy Coil X,Alloy Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+1182,Alloy Coat X,Alloy Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1183,Ingot Coil X,Ingot Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+1184,Ingot Coat X,Ingot Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1185,Damascus Coil XR,Damascus Coil XR,mhxx-dex-1.0+mhxx-save-format-community,9
+1186,Damascus Coat XR,Damascus Coat XR,mhxx-dex-1.0+mhxx-save-format-community,9
+1187,Battle Tassets X,Battle Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+1188,Battle Coat X,Battle Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1189,High Metal Tassets X,High Metal Tassets X,mhxx-dex-1.0+mhxx-save-format-community,8
+1190,High Metal Coat X,High Metal Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1191,High Metal Tassets Z,High Metal Tassets Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1192,High Metal Coat Z,High Metal Coat Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1193,Mosgharl Folia X,Mosgharl Folia X,mhxx-dex-1.0+mhxx-save-format-community,8
+1194,Mosgharl Fronds X,Mosgharl Fronds X,mhxx-dex-1.0+mhxx-save-format-community,8
+1195,Mosgharl Folia X,Mosgharl Folia X,mhxx-dex-1.0+mhxx-save-format-community,8
+1196,Mosgharl Fronds X,Mosgharl Fronds X,mhxx-dex-1.0+mhxx-save-format-community,8
+1197,Obituary Elytra X,Obituary Elytra X,mhxx-dex-1.0+mhxx-save-format-community,8
+1198,Obituary Alae X,Obituary Alae X,mhxx-dex-1.0+mhxx-save-format-community,8
+1199,Butterfly Elytra X,Butterfly Elytra X,mhxx-dex-1.0+mhxx-save-format-community,8
+1200,Butterfly Alae X,Butterfly Alae X,mhxx-dex-1.0+mhxx-save-format-community,8
+1201,Aelucanth Elytra X,Aelucanth Elytra X,mhxx-dex-1.0+mhxx-save-format-community,8
+1202,Aelucanth Alae X,Aelucanth Alae X,mhxx-dex-1.0+mhxx-save-format-community,8
+1203,Rhopessa Elytra X,Rhopessa Elytra X,mhxx-dex-1.0+mhxx-save-format-community,8
+1204,Rhopessa Alae X,Rhopessa Alae X,mhxx-dex-1.0+mhxx-save-format-community,8
+1205,Vaik Faulds X,Vaik Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+1206,Vaik Coat X,Vaik Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1207,Guardian Coil Z,Guardian Coil Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1208,Guardian Coat Z,Guardian Coat Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1209,Helper Skirt Z,Helper Skirt Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1210,Healer Frills Z,Healer Frills Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1211,Death Stench Bowels XR,Death Stench Bowels XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1212,Death Stench Belly XR,Death Stench Belly XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1213,Makluva Coil X,Makluva Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+1214,Makluva Fin X,Makluva Fin X,mhxx-dex-1.0+mhxx-save-format-community,8
+1215,Makluva Coil Z,Makluva Coil Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1216,Makluva Fin Z,Makluva Fin Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1217,Melahoa Folia X,Melahoa Folia X,mhxx-dex-1.0+mhxx-save-format-community,8
+1218,Melahoa Trunk X,Melahoa Trunk X,mhxx-dex-1.0+mhxx-save-format-community,8
+1219,Melahoa Skirt Z,Melahoa Skirt Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1220,Melahoa Trunk Z,Melahoa Trunk Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1221,Derring Faulds X,Derring Faulds X,mhxx-dex-1.0+mhxx-save-format-community,8
+1222,Derring Coat X,Derring Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1227,Wisdom Coil X,Wisdom Coil X,mhxx-dex-1.0+mhxx-save-format-community,9
+1228,Wisdom Coat X,Wisdom Coat X,mhxx-dex-1.0+mhxx-save-format-community,9
+1229,Cheerful Belt X,Cheerful Belt X,mhxx-dex-1.0+mhxx-save-format-community,9
+1230,Cheerful Band X,Cheerful Band X,mhxx-dex-1.0+mhxx-save-format-community,9
+1231,Mariner Skirt X,Mariner Skirt X,mhxx-dex-1.0+mhxx-save-format-community,8
+1232,Mariner Frills X,Mariner Frills X,mhxx-dex-1.0+mhxx-save-format-community,8
+1239,Chrome Metal Coil X,Chrome Metal Coil X,mhxx-dex-1.0+mhxx-save-format-community,8
+1240,Chrome Metal Coat X,Chrome Metal Coat X,mhxx-dex-1.0+mhxx-save-format-community,8
+1251,Artian Coil XR,Artian Coil XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1252,Artian Coat XR,Artian Coat XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1253,Dragonbarbs,Dragonbarbs,mhxx-dex-1.0+mhxx-save-format-community,10
+1254,Dragonsheath,Dragonsheath,mhxx-dex-1.0+mhxx-save-format-community,10
+1259,Arcfire Obi,Arcfire Obi,mhxx-save-format-community,0
+1260,Bonfire Obi,Bonfire Obi,mhxx-save-format-community,0
+1261,Waka Obi,Waka Obi,mhxx-save-format-community,0
+1262,Wagaku Obi,Wagaku Obi,mhxx-save-format-community,0
+1263,Ruler Arcfire Obi,Ruler Arcfire Obi,mhxx-save-format-community,0
+1264,Ruler Bonfire Obi,Ruler Bonfire Obi,mhxx-save-format-community,0
+1265,Ruler Waka Obi,Ruler Waka Obi,mhxx-save-format-community,0
+1266,Ruler Wagaku Obi,Ruler Wagaku Obi,mhxx-save-format-community,0
+1267,Supreme Arcfire Obi,Supreme Arcfire Obi,mhxx-save-format-community,0
+1268,Supreme Bonfire Obi,Supreme Bonfire Obi,mhxx-save-format-community,0
+1269,Supreme Wagaku Obi,Supreme Wagaku Obi,mhxx-save-format-community,0
+1270,Supreme Wagaku Obi,Supreme Wagaku Obi,mhxx-save-format-community,0
+1271,Garo Tassets,Garo Tassets,mhxx-dex-1.0+mhxx-save-format-community,10
+1272,Garo Belt,Garo Belt,mhxx-dex-1.0+mhxx-save-format-community,10
+1277,Lodestar Belt,Lodestar Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+1278,Lodestar Cloak,Lodestar Cloak,mhxx-dex-1.0+mhxx-save-format-community,7
+1279,Hylian Belt,Hylian Belt,mhxx-dex-1.0+mhxx-save-format-community,10
+1280,Hylian Bandolier,Hylian Bandolier,mhxx-dex-1.0+mhxx-save-format-community,10
+1281,Hiryu Sky Belt,Hiryu Sky Belt,mhxx-dex-1.0+mhxx-save-format-community,7
+1282,Hiryu Land Belt,Hiryu Land Belt,mhxx-dex-1.0+mhxx-save-format-community,7

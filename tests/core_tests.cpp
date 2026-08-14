@@ -83,12 +83,16 @@ int main(int argc, char **argv)
     require(data.load(QStringLiteral("cn")), "load generated Chinese game data");
     require(data.name(QStringLiteral("equipment_types"), 1) == QStringLiteral("头甲"), "equipment type 1 is head");
     require(data.name(QStringLiteral("equipment_types"), 5) == QStringLiteral("腿甲"), "equipment type 5 is legs");
+    require(data.name(QStringLiteral("armor_chest"), 1281) == QStringLiteral("飞龙装束･天"), "armor uses real chest save ID");
+    require(data.name(QStringLiteral("armor_arms"), 1080) == QStringLiteral("祖龙护肘"), "armor save ID is mapped per part");
     require(data.entries(QStringLiteral("palico_weapons")).size() == 509, "Palico weapon count");
     require(data.entries(QStringLiteral("palico_head")).size() == 502, "Palico head count");
     require(data.entries(QStringLiteral("palico_armor")).size() == 524, "Palico armor count");
     require(data.entries(QStringLiteral("palico_support_moves")).size() == 58, "Palico support move count");
     require(data.entries(QStringLiteral("palico_skills")).size() == 97, "Palico skill count");
-    require(data.contains(QStringLiteral("palico_head"), 1023) && data.contains(QStringLiteral("palico_armor"), 1024), "non-contiguous Palico equipment IDs");
+    require(!data.contains(QStringLiteral("palico_head"), 503) && data.contains(QStringLiteral("palico_head"), 504)
+            && !data.contains(QStringLiteral("palico_armor"), 524) && data.contains(QStringLiteral("palico_armor"), 525),
+            "non-contiguous Palico equipment IDs");
     require(!data.patterns(QStringLiteral("move")).isEmpty() && !data.forteGrants(1, QStringLiteral("move")).isEmpty(), "Palico patterns and forte grants");
 
     MhguSave save;
@@ -115,6 +119,10 @@ int main(int argc, char **argv)
     require(save.setItem(0, MhguItem{9, 99}), "set bit-packed item");
     require(save.items()[0].id == 9 && save.items()[0].count == 99, "round-trip bit-packed item");
     require(save.items()[1].id == 0, "adjacent item unchanged");
+    QVector<MhguItem> bulkItems = save.items();
+    bulkItems[10] = MhguItem{321, 45};
+    require(save.setItems(bulkItems) && save.items()[10].id == 321 && save.items()[10].count == 45,
+            "bulk item import round-trip");
 
     MhguEquipment equipment;
     equipment.type = 1;
@@ -175,6 +183,24 @@ int main(int argc, char **argv)
         require(sampleSlots[0].hunterRank == 119, "private sample HR");
         require(!sampleSlots[1].used && !sampleSlots[2].used, "private sample unused slots");
         require(privateSample.selectSlot(0) && privateSample.character().money == 9999999, "private sample money");
+        int unknownEquipment = 0;
+        for (int i = 0; i < MhguSave::EquipmentCount; ++i) {
+            const MhguEquipment entry = privateSample.equipment(i);
+            if (entry.type > 0 && entry.type <= 20) {
+                const QString table = data.equipmentTable(entry.type);
+                if (!data.contains(table, entry.id) || (entry.appearanceId && !data.contains(table, entry.appearanceId)))
+                    ++unknownEquipment;
+            }
+        }
+        for (int i = 0; i < MhguSave::PalicoEquipmentCount; ++i) {
+            const MhguPalicoEquipment entry = privateSample.palicoEquipment(i);
+            if (entry.rawType == 22 || entry.rawType == 23 || entry.rawType == 24) {
+                const QString table = data.palicoEquipmentTable(entry.rawType);
+                if (!data.contains(table, entry.id) || (entry.appearanceId && !data.contains(table, entry.appearanceId)))
+                    ++unknownEquipment;
+            }
+        }
+        require(unknownEquipment == 0, "all used sample equipment IDs resolve to names");
     }
 
     std::cout << "All MHGU core tests passed.\n";

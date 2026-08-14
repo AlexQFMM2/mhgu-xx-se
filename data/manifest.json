@@ -2,28 +2,28 @@
   "files": [
     {
       "path": "cn/armor_arms.csv",
-      "rows": 1136,
-      "sha256": "d398503842f8da96f84a6bf1275e57eb1082796b61314e2fbbcbcbc7d5a64732"
+      "rows": 1158,
+      "sha256": "05680834baf565743e692715a6eefb2835a89ce10477f7731becc440466a4cc8"
     },
     {
       "path": "cn/armor_chest.csv",
-      "rows": 1167,
-      "sha256": "82859e073d49e7b4ec2535a421b1d4c3bafe4bf94a4f95a573c666e2ac4aa4dc"
+      "rows": 1189,
+      "sha256": "81365435757d0690447ed71455b0233741f9612f76c5173ea4540439fa3c71d0"
     },
     {
       "path": "cn/armor_head.csv",
-      "rows": 1182,
-      "sha256": "b659e2f22c8845145849a640c70205ea5d967e785e5020fea70b95a7bb15d550"
+      "rows": 1204,
+      "sha256": "30c5975241962e50a1224ba4927b269d9c54e2398067ff63004a8fe59c16e0c9"
     },
     {
       "path": "cn/armor_legs.csv",
-      "rows": 1155,
-      "sha256": "b7a20fa9cffc0a192784b9fef2f170dacd45a7dea238738ff46e544debd426e2"
+      "rows": 1177,
+      "sha256": "365ad40e454270fd8a6b872b002bf1d6d61971182e07942429c66e037a10f69d"
     },
     {
       "path": "cn/armor_waist.csv",
-      "rows": 1091,
-      "sha256": "396c641378be0fef32128cf69e546a243b02bbc61b6072d9cf9d6201675759ee"
+      "rows": 1108,
+      "sha256": "8266feed40f8740e4bafedd2e25fed0dae891fb7e986760b3f91fbc68c02e545"
     },
     {
       "path": "cn/decorations.csv",
@@ -48,7 +48,7 @@
     {
       "path": "cn/palico_armor.csv",
       "rows": 524,
-      "sha256": "0d773746224d72206785c546dfa8d5080fbf91b8b58656b36f0b58a677dddf6d"
+      "sha256": "02c12f77917e041c0b7a6d385811545c67252b21c791f302208c2a03df5122b1"
     },
     {
       "path": "cn/palico_forte_grants.csv",
@@ -68,7 +68,7 @@
     {
       "path": "cn/palico_head.csv",
       "rows": 502,
-      "sha256": "e812adf9c27129f0ae166a5c017abc65bffd0a0ec346949f5219909e3a5d84dc"
+      "sha256": "9e351f4fb0b75cf6ead893f4bb697a433fc2e698676769f7d1320f3831f372b6"
     },
     {
       "path": "cn/palico_limits.csv",
@@ -93,7 +93,7 @@
     {
       "path": "cn/palico_weapons.csv",
       "rows": 509,
-      "sha256": "cab6e55587156728bcf9a892863582e9eecdd310cf90312f385180d17877aba6"
+      "sha256": "81c5bf748c0d0c9c45e86040f5d73ecae31641621d2beede5059608eebfd9009"
     },
     {
       "path": "cn/skills.csv",
@@ -103,7 +103,7 @@
     {
       "path": "cn/talismans.csv",
       "rows": 11,
-      "sha256": "6f17823cd28dd7ab7d394fca6cdd8545d53f3dc9b3fc83f5e9422861f18e34ae"
+      "sha256": "aadac342d5ea2ab315c05562bcb6fa31e499c2b8e8b9e2cd48105eed20a98358"
     },
     {
       "path": "cn/weapon_bow.csv",
@@ -177,28 +177,28 @@
     },
     {
       "path": "en/armor_arms.csv",
-      "rows": 1136,
-      "sha256": "38ba4a5361dba8e49731f8315ca1504e9e33745e048f64e354e8fcf14094d6fa"
+      "rows": 1158,
+      "sha256": "734cb73d72e9f944fce0450de2d9ff167c1368c0b2eaeca2f9baa9a0f704c5b5"
     },
     {
       "path": "en/armor_chest.csv",
-      "rows": 1167,
-      "sha256": "fb208881d8a95b16fa4a3fb8b6d789a68df05bb7c9fab72f0317193cbdd5ed21"
+      "rows": 1189,
+      "sha256": "7c0b9668ba5887a239b930c721acea5173defa96a525c837140f4f6c0513b30e"
     },
     {
       "path": "en/armor_head.csv",
-      "rows": 1182,
-      "sha256": "c7e48e5d57af6a9cc261c4b81bb8fb45820bb36fbfaf93e10e93c79524e26d6d"
+      "rows": 1204,
+      "sha256": "cb59e350cd385ca1bf89adb6f5865b0b0eedc50f6ddd8d8bb769620666683c30"
     },
     {
       "path": "en/armor_legs.csv",
-      "rows": 1155,
-      "sha256": "5f77293215547645cba52cf8924bce4db54aacba5447691faceea4958b616e47"
+      "rows": 1177,
+      "sha256": "024d9e23121ef5e13500abfdcfc5aa1cae17588ac115057e55dc2caa16cf17dd"
     },
     {
       "path": "en/armor_waist.csv",
-      "rows": 1091,
-      "sha256": "25c9bacf26723f2e94e1ee0d71e50fa54649937af6bf3839fb406f5d7559c420"
+      "rows": 1108,
+      "sha256": "954aea0633eb972bd61f9ca2b2045d87cc0c22d191790d947ba80811a2227851"
     },
     {
       "path": "en/decorations.csv",
@@ -223,7 +223,7 @@
     {
       "path": "en/palico_armor.csv",
       "rows": 524,
-      "sha256": "752495a8229ac82f2800518ac602e30ddf801dcdad45b055132e6bf7cdf63044"
+      "sha256": "656668850c437666b4abaf0a12ca2485f5d879c0a4be401c2ca7c45be928b55f"
     },
     {
       "path": "en/palico_forte_grants.csv",
@@ -243,7 +243,7 @@
     {
       "path": "en/palico_head.csv",
       "rows": 502,
-      "sha256": "1fbe99dab1e0441acd14bfdd4ba60dab278dc44260093abe6b9a836ad25e9892"
+      "sha256": "093d472a678828bbdebeb4ccf3f30e010e04a7e08c86d81526cc5253a08b47f9"
     },
     {
       "path": "en/palico_limits.csv",
@@ -268,7 +268,7 @@
     {
       "path": "en/palico_weapons.csv",
       "rows": 509,
-      "sha256": "624ed50990ae98eda205cb8d1684ce1ba6435c21d942e4f96c40ae70107a6426"
+      "sha256": "35bb75c20022ad61aaa769abed3aa5f9c1a60c6cb4ace10338c19a64e2855391"
     },
     {
       "path": "en/skills.csv",
@@ -352,11 +352,11 @@
     }
   ],
   "format": "mhxx-save-editor-data-v1",
-  "generator_version": "1.1.1",
+  "generator_version": "1.2.0",
   "sources": {
     "dex_dump_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
     "mhxx_dex_exe_sha256": "5e0508b80b02565c5c7217861c315911878896567b07659631c34b7f7dae46c7",
     "palico_cn_translation_sha256": "e83abe3813020389a0591dde40bb4a853d77a962b9346c58066532fa0e9820b9",
-    "save_data_crosswalk_sha256": "679c970d54588fcc2460cd2ed2ba72a8d7dc0e2414a96b49ac94e11e0a2be6f2"
+    "save_data_crosswalk_sha256": "02ded1a771ec07234fb06b91d153b1013275d9a33968130d5f775b3fd9a10705"
   }
 }

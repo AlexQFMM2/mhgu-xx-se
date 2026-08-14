@@ -8,6 +8,8 @@
 #include <QComboBox>
 #include <QCompleter>
 #include <QDialogButtonBox>
+#include <QFile>
+#include <QFileDialog>
 #include <QFormLayout>
 #include <QGridLayout>
 #include <QGroupBox>
@@ -19,7 +21,9 @@
 #include <QPushButton>
 #include <QRegularExpression>
 #include <QRegularExpressionValidator>
+#include <QSet>
 #include <QScrollArea>
+#include <QSizePolicy>
 #include <QSpinBox>
 #include <QTabWidget>
 #include <QTableWidget>
@@ -30,6 +34,25 @@
 #include <array>
 
 namespace {
+void localizeButtons(QDialogButtonBox *buttons, const QString &acceptText = QStringLiteral("确定"))
+{
+    if (buttons->button(QDialogButtonBox::Ok))
+        buttons->button(QDialogButtonBox::Ok)->setText(acceptText);
+    if (buttons->button(QDialogButtonBox::Save))
+        buttons->button(QDialogButtonBox::Save)->setText(acceptText);
+    if (buttons->button(QDialogButtonBox::Cancel))
+        buttons->button(QDialogButtonBox::Cancel)->setText(QStringLiteral("取消"));
+}
+
+bool confirmImport(QWidget *parent, const QString &title, const QString &text)
+{
+    QMessageBox box(QMessageBox::Question, title, text, QMessageBox::NoButton, parent);
+    auto *confirm = box.addButton(QStringLiteral("导入"), QMessageBox::AcceptRole);
+    box.addButton(QStringLiteral("取消"), QMessageBox::RejectRole);
+    box.exec();
+    return box.clickedButton() == confirm;
+}
+
 void configureCombo(QComboBox *combo)
 {
     combo->setEditable(true);
@@ -78,30 +101,6 @@ QByteArray parseRgba(const QString &text)
     return QByteArray::fromHex(text.trimmed().toLatin1());
 }
 
-QString palicoLegality(GameData *data, const MhguPalico &cat)
-{
-    QStringList issues;
-    QString coreIssue;
-    if (!MhguSave::validatePalico(cat, &coreIssue)) issues << coreIssue;
-    auto checkPattern = [data, &issues](const QString &kind, const QString &table,
-                                        const auto &values, int patternId, const QString &label) {
-        QString sequence;
-        for (quint8 id : values) {
-            if (!id) continue;
-            const int tier = data->entry(table, id).generationTier;
-            if (tier > 0) sequence += QString::number(tier);
-        }
-        if (sequence.isEmpty()) return;
-        bool matches = false;
-        for (const PalicoPattern &pattern : data->patterns(kind))
-            if (pattern.id == patternId && pattern.sequence == sequence) matches = true;
-        if (!matches) issues << QStringLiteral("%1 generation tier 序列与模式 %2 不一致。").arg(label).arg(patternId);
-    };
-    checkPattern(QStringLiteral("move"), QStringLiteral("palico_support_moves"), cat.learnedActions, cat.actionPattern, QStringLiteral("行动"));
-    checkPattern(QStringLiteral("skill"), QStringLiteral("palico_skills"), cat.learnedSkills, cat.skillPattern, QStringLiteral("技能"));
-    return issues.join(QStringLiteral("\n"));
-}
-
 class ItemEditDialog : public QDialog {
 public:
     ItemEditDialog(GameData *data, const MhguItem &item, QWidget *parent = nullptr) : QDialog(parent)
@@ -120,6 +119,7 @@ public:
         form->addRow(QStringLiteral("道具"), m_item);
         form->addRow(QStringLiteral("数量"), m_count);
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Ok | QDialogButtonBox::Cancel, this);
+        localizeButtons(buttons);
         connect(buttons, &QDialogButtonBox::accepted, this, &QDialog::accept);
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         auto *layout = new QVBoxLayout(this);
@@ -179,7 +179,9 @@ public:
 
         m_warning = new QLabel(this);
         m_warning->setObjectName(QStringLiteral("warningLabel"));
-        m_warning->setWordWrap(true);
+        m_warning->setWordWrap(false);
+        m_warning->setSizePolicy(QSizePolicy::Preferred, QSizePolicy::Fixed);
+        m_warning->setMaximumHeight(46);
         auto *form = new QFormLayout;
         form->addRow(QStringLiteral("装备类型"), m_type);
         form->addRow(QStringLiteral("实际装备"), m_id);
@@ -196,6 +198,7 @@ public:
         talismanForm->addRow(QStringLiteral("技能点 2"), m_skill2Points);
         talismanForm->addRow(QStringLiteral("孔数"), m_slots);
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Ok | QDialogButtonBox::Cancel, this);
+        localizeButtons(buttons, QStringLiteral("应用修改"));
         connect(buttons, &QDialogButtonBox::accepted, this, &QDialog::accept);
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         connect(m_type, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateType(); });
@@ -205,7 +208,7 @@ public:
         layout->addWidget(m_talisman);
         layout->addWidget(buttons);
         updateType();
-        resize(650, 700);
+        resize(650, 630);
     }
     MhguEquipment value() const
     {
@@ -233,10 +236,11 @@ private:
         m_appearance->setEnabled(testAppearance);
         m_talisman->setVisible(type == 6);
         if (type >= 7 && type <= 20)
-            m_warning->setText(QStringLiteral("⚠ 武器幻化【测试】：存档中存在外观字段，但游戏可能忽略、还原或错误显示。仅可选择同一武器种类。"));
+            m_warning->setText(QStringLiteral("⚠ 武器幻化【测试】：游戏可能不会读取此外观。"));
         else if (type >= 1 && type <= 5)
-            m_warning->setText(QStringLiteral("防具幻化【测试】：外观选择被限制在相同防具部位。"));
+            m_warning->setText(QStringLiteral("防具幻化【测试】：请选择相同部位的外观。"));
         else m_warning->setText(QStringLiteral("此装备类型不使用幻化。"));
+        m_warning->setToolTip(QStringLiteral("武器幻化尚未经过充分实机验证，游戏可能忽略、还原或错误显示该字段。防具外观应选择相同部位。"));
     }
     GameData *m_data;
     MhguEquipment m_original;
@@ -272,12 +276,15 @@ public:
         configureCombo(m_appearance);
         m_warning = new QLabel(this);
         m_warning->setObjectName(QStringLiteral("warningLabel"));
-        m_warning->setWordWrap(true);
+        m_warning->setWordWrap(false);
+        m_warning->setSizePolicy(QSizePolicy::Preferred, QSizePolicy::Fixed);
+        m_warning->setMaximumHeight(46);
         auto *form = new QFormLayout;
         form->addRow(QStringLiteral("类型"), m_type);
         form->addRow(QStringLiteral("实际装备"), m_id);
         form->addRow(QStringLiteral("幻化【测试】"), m_appearance);
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Ok | QDialogButtonBox::Cancel, this);
+        localizeButtons(buttons, QStringLiteral("应用修改"));
         connect(buttons, &QDialogButtonBox::accepted, this, &QDialog::accept);
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         connect(m_type, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateType(); });
@@ -306,10 +313,11 @@ private:
         m_id->setEnabled(type != 0);
         m_appearance->setEnabled(type != 0);
         if (type == 22)
-            m_warning->setText(QStringLiteral("⚠ 猫武器幻化【测试】：游戏可能忽略、还原或错误显示该外观字段。"));
+            m_warning->setText(QStringLiteral("⚠ 猫武器幻化【测试】：游戏可能不会读取此外观。"));
         else if (type == 23 || type == 24)
-            m_warning->setText(QStringLiteral("猫防具幻化【测试】：外观选择被限制在相同部位。"));
+            m_warning->setText(QStringLiteral("猫防具幻化【测试】：请选择相同部位的外观。"));
         else m_warning->setText(QStringLiteral("空装备格。"));
+        m_warning->setToolTip(QStringLiteral("猫武器幻化尚未经过充分实机验证，游戏可能忽略、还原或错误显示该字段。"));
     }
     GameData *m_data;
     MhguPalicoEquipment m_original;
@@ -466,14 +474,14 @@ public:
         advancedForm->addRow(QStringLiteral("行动种子（保留）"), new QLabel(QStringLiteral("0x%1").arg(m_value.actionSeed, 2, 16, QLatin1Char('0')).toUpper(), advanced));
         advancedForm->addRow(QStringLiteral("技能生成规律"), m_skillPattern);
         advancedForm->addRow(QStringLiteral("技能种子（保留）"), new QLabel(QStringLiteral("0x%1").arg(m_value.skillSeed, 2, 16, QLatin1Char('0')).toUpper(), advanced));
-        auto *advancedWarning = new QLabel(QStringLiteral("高级设置会改变猫猫的生成结构。固有行动/技能可在对应的已学池前置槽位中编辑；保存前会检查数量、连续排列和装备子集。"), advanced);
+        auto *advancedWarning = new QLabel(QStringLiteral("高级设置会改变猫猫的生成结构。规则仅供参考，程序不会阻止自定义组合写入。"), advanced);
         advancedWarning->setObjectName(QStringLiteral("warningLabel"));
         advancedWarning->setWordWrap(true);
         advancedForm->addRow(advancedWarning);
         tabs->addTab(advanced, QStringLiteral("高级设置"));
 
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Save | QDialogButtonBox::Cancel, this);
-        buttons->button(QDialogButtonBox::Save)->setText(QStringLiteral("应用修改"));
+        localizeButtons(buttons, QStringLiteral("应用修改"));
         connect(buttons, &QDialogButtonBox::accepted, this, [this] { apply(); });
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         connect(m_level, qOverload<int>(&QSpinBox::valueChanged), this, [this](int level) {
@@ -486,7 +494,7 @@ public:
         auto *layout = new QVBoxLayout(this);
         layout->addWidget(tabs);
         layout->addWidget(buttons);
-        resize(880, 760);
+        resize(880, 700);
     }
 private:
     void updateGrants()
@@ -579,14 +587,14 @@ CharacterDialog::CharacterDialog(MhguSave *save, QWidget *parent) : QDialog(pare
     form->addRow(QStringLiteral("游玩时间（秒）"), m_fields[0]);
     form->addRow(QStringLiteral("金钱"), m_fields[1]);
     form->addRow(QStringLiteral("HR"), m_fields[8]);
-    form->addRow(QStringLiteral("HR Points"), m_fields[2]);
-    form->addRow(QStringLiteral("Academy Points"), m_fields[3]);
-    form->addRow(QStringLiteral("Bherna Points"), m_fields[4]);
-    form->addRow(QStringLiteral("Kokoto Points"), m_fields[5]);
-    form->addRow(QStringLiteral("Pokke Points"), m_fields[6]);
-    form->addRow(QStringLiteral("Yukumo Points"), m_fields[7]);
+    form->addRow(QStringLiteral("猎人等级点数"), m_fields[2]);
+    form->addRow(QStringLiteral("龙识院点数"), m_fields[3]);
+    form->addRow(QStringLiteral("贝尔纳村点数"), m_fields[4]);
+    form->addRow(QStringLiteral("科科特村点数"), m_fields[5]);
+    form->addRow(QStringLiteral("波凯村点数"), m_fields[6]);
+    form->addRow(QStringLiteral("结云村点数"), m_fields[7]);
     auto *buttons = new QDialogButtonBox(QDialogButtonBox::Save | QDialogButtonBox::Cancel, this);
-    buttons->button(QDialogButtonBox::Save)->setText(QStringLiteral("应用修改"));
+    localizeButtons(buttons, QStringLiteral("应用修改"));
     connect(buttons, &QDialogButtonBox::accepted, this, &CharacterDialog::apply);
     connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
     auto *layout = new QVBoxLayout(this);
@@ -635,16 +643,22 @@ ItemBoxDialog::ItemBoxDialog(MhguSave *save, GameData *data, QWidget *parent)
     m_nonEmpty = new QCheckBox(QStringLiteral("只显示非空"), this);
     auto *edit = new QPushButton(QStringLiteral("编辑选中"), this);
     auto *add = new QPushButton(QStringLiteral("新增到第一个空位"), this);
+    auto *exportButton = new QPushButton(QStringLiteral("导出表单"), this);
+    auto *importButton = new QPushButton(QStringLiteral("导入表单"), this);
     auto *close = new QPushButton(QStringLiteral("关闭"), this);
     connect(m_search, &QLineEdit::textChanged, this, &ItemBoxDialog::populate);
     connect(m_nonEmpty, &QCheckBox::toggled, this, &ItemBoxDialog::populate);
     connect(edit, &QPushButton::clicked, this, &ItemBoxDialog::editSelected);
     connect(add, &QPushButton::clicked, this, &ItemBoxDialog::addFirstEmpty);
+    connect(exportButton, &QPushButton::clicked, this, &ItemBoxDialog::exportForm);
+    connect(importButton, &QPushButton::clicked, this, &ItemBoxDialog::importForm);
     connect(close, &QPushButton::clicked, this, &QDialog::accept);
     connect(m_table, &QTableWidget::cellDoubleClicked, this, [this](int, int) { editSelected(); });
     auto *filters = new QHBoxLayout;
     filters->addWidget(m_search, 1);
     filters->addWidget(m_nonEmpty);
+    filters->addWidget(exportButton);
+    filters->addWidget(importButton);
     filters->addWidget(add);
     filters->addWidget(edit);
     auto *layout = new QVBoxLayout(this);
@@ -700,6 +714,74 @@ void ItemBoxDialog::addFirstEmpty()
         return;
     }
     QMessageBox::information(this, windowTitle(), QStringLiteral("没有空道具格。"));
+}
+
+void ItemBoxDialog::exportForm()
+{
+    const QString path = QFileDialog::getSaveFileName(this, QStringLiteral("导出道具箱表单"),
+        QStringLiteral("mhgu-item-box.csv"), QStringLiteral("CSV 表单 (*.csv);;所有文件 (*)"));
+    if (path.isEmpty()) return;
+    QByteArray csv("slot,id,count\n");
+    const QVector<MhguItem> items = m_save->items();
+    for (int i = 0; i < items.size(); ++i) {
+        csv += QByteArray::number(i + 1) + ',' + QByteArray::number(items[i].id) + ','
+            + QByteArray::number(items[i].count) + '\n';
+    }
+    QFile file(path);
+    if (!file.open(QIODevice::WriteOnly | QIODevice::Truncate) || file.write(csv) != csv.size()) {
+        QMessageBox::critical(this, windowTitle(), QStringLiteral("无法导出表单：%1").arg(file.errorString()));
+        return;
+    }
+    QMessageBox::information(this, windowTitle(), QStringLiteral("已导出全部 2300 个道具格。"));
+}
+
+void ItemBoxDialog::importForm()
+{
+    const QString path = QFileDialog::getOpenFileName(this, QStringLiteral("导入道具箱表单"), {},
+        QStringLiteral("CSV 表单 (*.csv);;所有文件 (*)"));
+    if (path.isEmpty()) return;
+    QFile file(path);
+    if (!file.open(QIODevice::ReadOnly)) {
+        QMessageBox::critical(this, windowTitle(), QStringLiteral("无法读取表单：%1").arg(file.errorString()));
+        return;
+    }
+    const QList<QByteArray> lines = file.readAll().split('\n');
+    if (lines.isEmpty() || lines.first().trimmed() != QByteArray("slot,id,count")) {
+        QMessageBox::warning(this, windowTitle(), QStringLiteral("表单首行必须是 slot,id,count。"));
+        return;
+    }
+    QVector<MhguItem> updated = m_save->items();
+    QSet<int> seen;
+    int parsed = 0;
+    for (int lineNumber = 1; lineNumber < lines.size(); ++lineNumber) {
+        const QByteArray line = lines[lineNumber].trimmed();
+        if (line.isEmpty()) continue;
+        const QList<QByteArray> fields = line.split(',');
+        bool slotOk = false, idOk = false, countOk = false;
+        const int slot = fields.value(0).trimmed().toInt(&slotOk);
+        const int id = fields.value(1).trimmed().toInt(&idOk);
+        const int count = fields.value(2).trimmed().toInt(&countOk);
+        if (fields.size() != 3 || !slotOk || !idOk || !countOk || slot < 1 || slot > MhguSave::ItemCount
+            || id < 0 || id > 0x0FFF || count < 0 || count > 0x7F || seen.contains(slot)) {
+            QMessageBox::warning(this, windowTitle(), QStringLiteral("第 %1 行格式或数值无效，未修改存档。").arg(lineNumber + 1));
+            return;
+        }
+        seen.insert(slot);
+        updated[slot - 1] = id == 0 ? MhguItem{} : MhguItem{quint16(id), quint8(count)};
+        ++parsed;
+    }
+    if (!parsed) {
+        QMessageBox::information(this, windowTitle(), QStringLiteral("表单中没有可导入的道具格。"));
+        return;
+    }
+    if (!confirmImport(this, QStringLiteral("确认导入道具箱"),
+            QStringLiteral("表单包含 %1 个道具格。\n\n导入会覆盖表单中列出的格子，未列出的格子保持不变。").arg(parsed))) return;
+    if (!m_save->setItems(updated)) {
+        QMessageBox::critical(this, windowTitle(), QStringLiteral("批量写入道具箱失败。"));
+        return;
+    }
+    populate();
+    QMessageBox::information(this, windowTitle(), QStringLiteral("道具箱已导入。请回到主窗口保存 system。"));
 }
 
 EquipmentBoxDialog::EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *parent)
@@ -759,9 +841,17 @@ EquipmentBoxDialog::EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *
 
     auto *warning = new QLabel(QStringLiteral("⚠ 所有幻化功能均为【测试】。武器幻化尤其可能被游戏忽略或显示异常；请自行保留原始存档。"), this);
     warning->setObjectName(QStringLiteral("warningLabel"));
-    warning->setWordWrap(true);
+    warning->setWordWrap(false);
+    warning->setSizePolicy(QSizePolicy::Preferred, QSizePolicy::Fixed);
+    warning->setMaximumHeight(44);
+    warning->setText(QStringLiteral("⚠ 幻化【测试】：武器外观可能被游戏忽略或显示异常。"));
+    warning->setToolTip(QStringLiteral("所有幻化功能均为测试功能。武器幻化尤其可能被游戏忽略、还原或显示异常。"));
+    auto *exportButton = new QPushButton(QStringLiteral("导出装备箱表单"), this);
+    auto *importButton = new QPushButton(QStringLiteral("导入装备箱表单"), this);
     auto *close = new QPushButton(QStringLiteral("关闭"), this);
     connect(close, &QPushButton::clicked, this, &QDialog::accept);
+    connect(exportButton, &QPushButton::clicked, this, &EquipmentBoxDialog::exportForm);
+    connect(importButton, &QPushButton::clicked, this, &EquipmentBoxDialog::importForm);
     connect(m_hunterSearch, &QLineEdit::textChanged, this, &EquipmentBoxDialog::populateHunter);
     connect(m_hunterType, qOverload<int>(&QComboBox::currentIndexChanged), this, &EquipmentBoxDialog::populateHunter);
     connect(m_hunterNonEmpty, &QCheckBox::toggled, this, &EquipmentBoxDialog::populateHunter);
@@ -773,8 +863,13 @@ EquipmentBoxDialog::EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *
     connect(m_hunterTable, &QTableWidget::cellDoubleClicked, this, [this](int, int) { editHunter(); });
     connect(m_palicoTable, &QTableWidget::cellDoubleClicked, this, [this](int, int) { editPalico(); });
     auto *layout = new QVBoxLayout(this);
-    layout->addWidget(warning); layout->addWidget(tabs, 1); layout->addWidget(close, 0, Qt::AlignRight);
-    resize(1200, 780);
+    auto *actions = new QHBoxLayout;
+    actions->addWidget(exportButton);
+    actions->addWidget(importButton);
+    actions->addStretch();
+    actions->addWidget(close);
+    layout->addWidget(warning); layout->addLayout(actions); layout->addWidget(tabs, 1);
+    resize(1150, 700);
     populateHunter(); populatePalico();
 }
 
@@ -850,13 +945,127 @@ void EquipmentBoxDialog::editPalico()
     }
 }
 
+void EquipmentBoxDialog::exportForm()
+{
+    const QString path = QFileDialog::getSaveFileName(this, QStringLiteral("导出装备箱表单"),
+        QStringLiteral("mhgu-equipment-box.csv"), QStringLiteral("CSV 表单 (*.csv);;所有文件 (*)"));
+    if (path.isEmpty()) return;
+    QByteArray csv("domain,slot,type,id,appearance_id,level,decoration_1,decoration_2,decoration_3,skill_1,skill_1_points,skill_2,skill_2_points,talisman_slots\n");
+    auto append = [&csv](const QList<qint64> &values, const QByteArray &domain) {
+        csv += domain;
+        for (qint64 value : values) csv += ',' + QByteArray::number(value);
+        csv += '\n';
+    };
+    for (int i = 0; i < MhguSave::EquipmentCount; ++i) {
+        const MhguEquipment e = m_save->equipment(i);
+        append({i + 1, e.type, e.id, e.appearanceId, e.level, e.decorations[0], e.decorations[1],
+            e.decorations[2], e.skill1, e.skill1Points, e.skill2, e.skill2Points, e.talismanSlots}, "hunter");
+    }
+    for (int i = 0; i < MhguSave::PalicoEquipmentCount; ++i) {
+        const MhguPalicoEquipment e = m_save->palicoEquipment(i);
+        append({i + 1, e.rawType, e.id, e.appearanceId, 0, 0, 0, 0, 0, 0, 0, 0, 0}, "palico");
+    }
+    QFile file(path);
+    if (!file.open(QIODevice::WriteOnly | QIODevice::Truncate) || file.write(csv) != csv.size()) {
+        QMessageBox::critical(this, windowTitle(), QStringLiteral("无法导出表单：%1").arg(file.errorString()));
+        return;
+    }
+    QMessageBox::information(this, windowTitle(), QStringLiteral("已导出 2000 个猎人装备格和 1000 个猫装备格。"));
+}
+
+void EquipmentBoxDialog::importForm()
+{
+    const QString path = QFileDialog::getOpenFileName(this, QStringLiteral("导入装备箱表单"), {},
+        QStringLiteral("CSV 表单 (*.csv);;所有文件 (*)"));
+    if (path.isEmpty()) return;
+    QFile file(path);
+    if (!file.open(QIODevice::ReadOnly)) {
+        QMessageBox::critical(this, windowTitle(), QStringLiteral("无法读取表单：%1").arg(file.errorString()));
+        return;
+    }
+    const QByteArray header("domain,slot,type,id,appearance_id,level,decoration_1,decoration_2,decoration_3,skill_1,skill_1_points,skill_2,skill_2_points,talisman_slots");
+    const QList<QByteArray> lines = file.readAll().split('\n');
+    if (lines.isEmpty() || lines.first().trimmed() != header) {
+        QMessageBox::warning(this, windowTitle(), QStringLiteral("装备箱表单的表头不正确。请先用本程序导出模板。"));
+        return;
+    }
+    struct ParsedEntry { bool palico = false; int slot = 0; MhguEquipment hunter; MhguPalicoEquipment cat; };
+    QVector<ParsedEntry> parsed;
+    QSet<QString> seen;
+    for (int lineNumber = 1; lineNumber < lines.size(); ++lineNumber) {
+        const QByteArray line = lines[lineNumber].trimmed();
+        if (line.isEmpty()) continue;
+        const QList<QByteArray> fields = line.split(',');
+        if (fields.size() != 14) {
+            QMessageBox::warning(this, windowTitle(), QStringLiteral("第 %1 行列数不正确，未修改存档。").arg(lineNumber + 1));
+            return;
+        }
+        const QByteArray domain = fields[0].trimmed();
+        if (domain != "hunter" && domain != "palico") {
+            QMessageBox::warning(this, windowTitle(), QStringLiteral("第 %1 行 domain 必须是 hunter 或 palico。").arg(lineNumber + 1));
+            return;
+        }
+        qint64 values[13];
+        bool numbersOk = true;
+        for (int column = 0; column < 13; ++column) {
+            bool ok = false;
+            values[column] = fields[column + 1].trimmed().toLongLong(&ok);
+            numbersOk &= ok;
+        }
+        const bool palico = domain == "palico";
+        const int maxSlots = palico ? MhguSave::PalicoEquipmentCount : MhguSave::EquipmentCount;
+        const QString key = QString::fromLatin1(domain) + QLatin1Char(':') + QString::number(values[0]);
+        const bool commonOk = values[0] >= 1 && values[0] <= maxSlots && values[2] >= 0 && values[2] <= 0xFFFF
+            && values[3] >= 0 && values[3] <= 0xFFFF;
+        const bool palicoTypeOk = values[1] == 0 || values[1] == 22 || values[1] == 23 || values[1] == 24;
+        const bool hunterOk = values[1] >= 0 && values[1] <= 20 && values[4] >= 0 && values[4] <= 31
+            && values[5] >= 0 && values[5] <= 0xFFFF && values[6] >= 0 && values[6] <= 0xFFFF
+            && values[7] >= 0 && values[7] <= 0xFFFF && values[8] >= 0 && values[8] <= 0xFF
+            && values[9] >= -128 && values[9] <= 127 && values[10] >= 0 && values[10] <= 0xFF
+            && values[11] >= -128 && values[11] <= 127 && values[12] >= 0 && values[12] <= 0xFF;
+        if (!numbersOk || !commonOk || (palico ? !palicoTypeOk : !hunterOk) || seen.contains(key)) {
+            QMessageBox::warning(this, windowTitle(), QStringLiteral("第 %1 行格式、数值或格号无效，未修改存档。").arg(lineNumber + 1));
+            return;
+        }
+        seen.insert(key);
+        ParsedEntry entry;
+        entry.palico = palico;
+        entry.slot = int(values[0]) - 1;
+        if (palico) {
+            entry.cat.rawType = quint8(values[1]); entry.cat.id = quint16(values[2]); entry.cat.appearanceId = quint16(values[3]);
+        } else {
+            entry.hunter.type = quint8(values[1]); entry.hunter.id = quint16(values[2]); entry.hunter.appearanceId = quint16(values[3]);
+            entry.hunter.level = quint8(values[4]); entry.hunter.decorations = {{quint16(values[5]), quint16(values[6]), quint16(values[7])}};
+            entry.hunter.skill1 = quint8(values[8]); entry.hunter.skill1Points = qint8(values[9]);
+            entry.hunter.skill2 = quint8(values[10]); entry.hunter.skill2Points = qint8(values[11]); entry.hunter.talismanSlots = quint8(values[12]);
+        }
+        parsed.push_back(entry);
+    }
+    if (parsed.isEmpty()) {
+        QMessageBox::information(this, windowTitle(), QStringLiteral("表单中没有可导入的装备格。"));
+        return;
+    }
+    if (!confirmImport(this, QStringLiteral("确认导入装备箱"),
+            QStringLiteral("表单包含 %1 个装备格。\n\n导入会覆盖表单中列出的格子，未列出的格子保持不变。").arg(parsed.size()))) return;
+    for (const ParsedEntry &entry : parsed) {
+        const bool ok = entry.palico ? m_save->setPalicoEquipment(entry.slot, entry.cat)
+                                     : m_save->setEquipment(entry.slot, entry.hunter);
+        if (!ok) {
+            QMessageBox::critical(this, windowTitle(), QStringLiteral("装备箱批量写入失败。"));
+            return;
+        }
+    }
+    populateHunter(); populatePalico();
+    QMessageBox::information(this, windowTitle(), QStringLiteral("装备箱已导入。请回到主窗口保存 system。"));
+}
+
 PalicoListDialog::PalicoListDialog(MhguSave *save, GameData *data, QWidget *parent)
     : QDialog(parent), m_save(save), m_data(data)
 {
     setWindowTitle(QStringLiteral("猫猫"));
     m_table = new QTableWidget(this);
-    m_table->setColumnCount(7);
-    m_table->setHorizontalHeaderLabels({QStringLiteral("槽"), QStringLiteral("名字"), QStringLiteral("等级"), QStringLiteral("倾向"), QStringLiteral("目标"), QStringLiteral("来源"), QStringLiteral("规则检测")});
+    m_table->setColumnCount(6);
+    m_table->setHorizontalHeaderLabels({QStringLiteral("槽"), QStringLiteral("名字"), QStringLiteral("等级"), QStringLiteral("倾向"), QStringLiteral("目标"), QStringLiteral("来源")});
     m_table->setEditTriggers(QAbstractItemView::NoEditTriggers);
     m_table->setSelectionBehavior(QAbstractItemView::SelectRows);
     m_table->setSelectionMode(QAbstractItemView::SingleSelection);
@@ -890,11 +1099,6 @@ void PalicoListDialog::populate()
         m_table->setItem(row, 3, new QTableWidgetItem(m_data->name(QStringLiteral("palico_fortes"), cat.forte)));
         m_table->setItem(row, 4, new QTableWidgetItem(m_data->name(QStringLiteral("palico_targets"), cat.target)));
         m_table->setItem(row, 5, new QTableWidgetItem(cat.received ? QStringLiteral("外来/联动") : QStringLiteral("本地")));
-        const QString legality = palicoLegality(m_data, cat);
-        auto *status = new QTableWidgetItem(legality.isEmpty() ? QStringLiteral("合法") : QStringLiteral("不合法"));
-        status->setForeground(legality.isEmpty() ? QColor(QStringLiteral("#17643a")) : QColor(QStringLiteral("#b45309")));
-        status->setToolTip(legality.isEmpty() ? QStringLiteral("符合当前已知规则") : legality);
-        m_table->setItem(row, 6, status);
     }
 }
 

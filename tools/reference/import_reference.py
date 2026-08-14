@@ -32,6 +32,14 @@ WEAPONS = (
     ("weapon_bow", 14, "EquipBowNames"),
 )
 
+ARMOR = (
+    ("armor_head", 1, "EquipHeadNames", "EquipHeadIDs"),
+    ("armor_chest", 2, "EquipChestNames", "EquipChestIDs"),
+    ("armor_arms", 3, "EquipArmsNames", "EquipArmsIDs"),
+    ("armor_waist", 4, "EquipWaistNames", "EquipWaistIDs"),
+    ("armor_legs", 5, "EquipLegsNames", "EquipLegsIDs"),
+)
+
 
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
@@ -78,7 +86,7 @@ def main() -> int:
         if int(row["Wpn_ID"]) > 0
     }
 
-    crosswalk: dict[str, list[dict[str, object]]] = {}
+    weapon_crosswalk: dict[str, list[dict[str, object]]] = {}
     for file_name, dex_type, array_name in WEAPONS:
         candidates: dict[str, list[int]] = {}
         for row in weapon_rows:
@@ -120,7 +128,81 @@ def main() -> int:
                     "max_level": int(max_level),
                 }
             )
-        crosswalk[file_name] = mapped
+        weapon_crosswalk[file_name] = mapped
+
+    armor_rows = read_csv(sql_dir / "DB_Amr.csv")
+    armor_names = {
+        int(row["Amr_ID"]): row["Amr_Name_0"].strip()
+        for row in read_csv(sql_dir / "ID_Amr_Name.csv")
+    }
+    armor_crosswalk: dict[str, list[dict[str, object]]] = {}
+    for file_name, part, names_key, ids_key in ARMOR:
+        dex_ids_by_name: dict[str, list[int]] = {}
+        for row in armor_rows:
+            if int(row["Part"]) != part:
+                continue
+            dex_id = int(row["Amr_ID"])
+            dex_ids_by_name.setdefault(armor_names[dex_id], []).append(dex_id)
+        for ids in dex_ids_by_name.values():
+            ids.sort()
+
+        names = game_data[names_key]
+        save_ids = game_data[ids_key]
+        if len(names) != len(save_ids):
+            raise ValueError(f"{names_key}/{ids_key}: lengths differ")
+        occurrence: dict[str, int] = {}
+        mapped: list[dict[str, object]] = []
+        for save_id, name in zip(save_ids, names):
+            if int(save_id) == 0:
+                mapped.append({"save_id": 0, "dex_id": 0, "english": "None"})
+                continue
+            candidates = dex_ids_by_name.get(name, [])
+            index = occurrence.get(name, 0)
+            occurrence[name] = index + 1
+            if not candidates:
+                mapped.append({"save_id": int(save_id), "dex_id": -1, "english": name})
+                continue
+            # A few guild/DLC pieces intentionally share a display name. Both
+            # sources keep those duplicates in the same stable order.
+            dex_id = candidates[min(index, len(candidates) - 1)]
+            mapped.append({"save_id": int(save_id), "dex_id": dex_id})
+        armor_crosswalk[file_name] = mapped
+
+    palico_specs = (
+        ("palico_weapons", "DB_PeliWpn.csv", "ID_PeliWpn_Name.csv", "PeliWpn_ID", "PeliWpn_Name_0", None, "PalicoWeaponNames", None),
+        ("palico_head", "DB_PeliAmr.csv", "ID_PeliAmr_Name.csv", "PeliAmr_ID", "PeliAmr_Name_0", 11, "PalicoHeadNames", "PalicoHeadIDs"),
+        ("palico_armor", "DB_PeliAmr.csv", "ID_PeliAmr_Name.csv", "PeliAmr_ID", "PeliAmr_Name_0", 12, "PalicoArmorNames", "PalicoArmorIDs"),
+    )
+    palico_equipment_crosswalk: dict[str, list[dict[str, object]]] = {}
+    for file_name, db_file, names_file, id_key, name_key, part, names_key, ids_key in palico_specs:
+        db_rows = read_csv(sql_dir / db_file)
+        localized_names = {int(row[id_key]): row[name_key].strip() for row in read_csv(sql_dir / names_file)}
+        dex_ids_by_name: dict[str, list[int]] = {}
+        for row in db_rows:
+            if part is not None and int(row["Part"]) != part:
+                continue
+            dex_id = int(row[id_key])
+            dex_ids_by_name.setdefault(localized_names[dex_id], []).append(dex_id)
+        for ids in dex_ids_by_name.values():
+            ids.sort()
+        names = game_data[names_key]
+        save_ids = game_data[ids_key] if ids_key else list(range(len(names)))
+        if len(names) != len(save_ids):
+            raise ValueError(f"{names_key}: name/save-ID lengths differ")
+        occurrence: dict[str, int] = {}
+        mapped = []
+        for save_id, name in zip(save_ids, names):
+            if int(save_id) == 0:
+                mapped.append({"save_id": 0, "dex_id": 0, "english": "None"})
+                continue
+            candidates = dex_ids_by_name.get(name, [])
+            index = occurrence.get(name, 0)
+            occurrence[name] = index + 1
+            if candidates:
+                mapped.append({"save_id": int(save_id), "dex_id": candidates[min(index, len(candidates) - 1)]})
+            else:
+                mapped.append({"save_id": int(save_id), "dex_id": -1, "english": name})
+        palico_equipment_crosswalk[file_name] = mapped
 
     result = {
         "format": "mhxx-save-data-crosswalk-v1",
@@ -130,7 +212,9 @@ def main() -> int:
             "game_data_sha256": sha256(args.game_data),
             "dex_manifest_sha256": sha256(args.dex_raw / "manifest.json"),
         },
-        "weapons": crosswalk,
+        "weapons": weapon_crosswalk,
+        "armor": armor_crosswalk,
+        "palico_equipment": palico_equipment_crosswalk,
         "decorations": [
             {"id": identifier, "english": name}
             for identifier, name in zip(game_data["JwlIDs"], game_data["JwlNames"])

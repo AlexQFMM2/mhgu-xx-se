@@ -1,1168 +1,1190 @@
 id,name,english,source,rarity
 0,无,None,mhxx-save-format-community,0
-2,皮制服饰,Leather Vest,mhxx-dex-1.0,1
-7,锁甲服饰,Chainmail Vest,mhxx-dex-1.0,1
-12,贝鲁纳铠甲,Bherna Mail,mhxx-dex-1.0,1
-17,狩猎铠甲,Hunting Mail,mhxx-dex-1.0,1
-22,狩猎轻甲,Hunting Vest,mhxx-dex-1.0,1
-27,毛皮外套,Mafumofu Jacket,mhxx-dex-1.0,1
-32,结云之道服,Yukumo Dogi,mhxx-dex-1.0,1
-36,石架服装,Loc Lac Shawl,mhxx-dex-1.0,1
-40,猎人铠甲,Hunter's Mail,mhxx-dex-1.0,1
-45,猎人轻甲,Hunter's Vest,mhxx-dex-1.0,1
-50,骨制铠甲,Bone Mail,mhxx-dex-1.0,1
-55,骨制轻甲,Bone Vest,mhxx-dex-1.0,1
-62,混沌的铠,Chaos Plate,mhxx-dex-1.0,1
-64,混沌的衣,Chaos Brigandine,mhxx-dex-1.0,1
-78,狗龙铠甲,Jaggi Mail,mhxx-dex-1.0,1
-83,狗龙轻甲,Jaggi Vest,mhxx-dex-1.0,1
-88,跳狗龙铠甲,Maccao Mail,mhxx-dex-1.0,1
-93,跳狗龙轻甲,Maccao Vest,mhxx-dex-1.0,1
-98,蓝速龙铠甲,Velociprey Mail,mhxx-dex-1.0,1
-103,蓝速龙轻甲,Velociprey Vest,mhxx-dex-1.0,1
-108,白速龙铠甲,Giaprey Mail,mhxx-dex-1.0,1
-113,白速龙轻甲,Giaprey Vest,mhxx-dex-1.0,1
-118,黄速龙铠甲,Genprey Mail,mhxx-dex-1.0,1
-123,黄速龙轻甲,Genprey Vest,mhxx-dex-1.0,1
-128,巨蜂铠甲,Vespoid Mail,mhxx-dex-1.0,1
-133,巨蜂轻甲,Vespoid Vest,mhxx-dex-1.0,1
-138,巨甲虫铠甲,Hornetaur Mail,mhxx-dex-1.0,1
-143,巨甲虫轻甲,Hornetaur Vest,mhxx-dex-1.0,1
-148,飞甲虫服装,Bnahabra Suit,mhxx-dex-1.0,1
-153,飞甲虫服饰,Bnahabra Vest,mhxx-dex-1.0,1
-162,蘑菇猪身躯,Mosswine Vest,mhxx-dex-1.0,1
-167,硬甲龙铠甲,Rhenoplos Mail,mhxx-dex-1.0,1
-172,硬甲龙轻甲,Rhenoplos Vest,mhxx-dex-1.0,1
-177,野猪铠甲,Bulldrome Mail,mhxx-dex-1.0,1
-182,野猪轻甲,Bulldrome Vest,mhxx-dex-1.0,1
-188,青熊兽铠甲,Arzuros Mail,mhxx-dex-1.0,1
-193,青熊兽轻甲,Arzuros Vest,mhxx-dex-1.0,1
-198,砂龙铠甲,Cephalos Mail,mhxx-dex-1.0,1
-203,砂龙轻甲,Cephalos Vest,mhxx-dex-1.0,1
-208,勇气服饰,Derring Jacket,mhxx-dex-1.0,2
-213,合金铠甲,Alloy Mail,mhxx-dex-1.0,2
-218,合金轻甲,Alloy Vest,mhxx-dex-1.0,2
-223,战斗铠甲,Battle Mail,mhxx-dex-1.0,2
-228,战斗轻甲,Battle Vest,mhxx-dex-1.0,2
-233,铸铁铠甲,Ingot Mail,mhxx-dex-1.0,2
-238,铸铁轻甲,Ingot Vest,mhxx-dex-1.0,2
-243,矿石铠甲,High Metal Mail,mhxx-dex-1.0,2
-248,矿石轻甲,High Metal Vest,mhxx-dex-1.0,2
-255,花瓣枝干,Melahoa Jacket,mhxx-dex-1.0,2
-260,花瓣枝部,Melahoa Stalk,mhxx-dex-1.0,2
-265,鱼鳞洋装,Makluva Cover,mhxx-dex-1.0,2
-270,鱼鳞衣装,Makluva Scale,mhxx-dex-1.0,2
-275,厨师服装,Bistro Suit,mhxx-dex-1.0,2
-278,厨师服饰,Bistro Vest,mhxx-dex-1.0,2
-281,独角仙上身,Obituary Thorax,mhxx-dex-1.0,2
-286,独角仙前胸,Obituary Pleuron,mhxx-dex-1.0,2
-291,燕尾蝶上身,Butterfly Thorax,mhxx-dex-1.0,2
-296,燕尾蝶前胸,Butterfly Pleuron,mhxx-dex-1.0,2
-301,死神肌肉,Death Stench Muscle,mhxx-dex-1.0,2
-306,死神心脏,Death Stench Heart,mhxx-dex-1.0,2
-311,橡子铠甲,Acorn Mail,mhxx-dex-1.0,2
-313,橡子轻甲,Acorn Vest,mhxx-dex-1.0,2
-315,南瓜枝干,Mosgharl Ribplate,mhxx-dex-1.0,2
-320,南瓜枝部,Mosgharl Ribguard,mhxx-dex-1.0,2
-325,雪绒花枝干,Edel Ribplate,mhxx-dex-1.0,2
-330,雪绒花枝部,Edel Ribguard,mhxx-dex-1.0,2
-335,毒蝎上身,Skalda Thorax,mhxx-dex-1.0,2
-340,毒蝎前胸,Skalda Pleuron,mhxx-dex-1.0,2
-345,毒蛛上身,Spio Thorax,mhxx-dex-1.0,2
-350,毒蛛前胸,Spio Pleuron,mhxx-dex-1.0,2
-354,水生兽铠甲,Droth Mail,mhxx-dex-1.0,2
-357,水生兽轻甲,Droth Vest,mhxx-dex-1.0,2
-360,熔岩兽铠甲,Uroktor Torso,mhxx-dex-1.0,2
-362,熔岩兽轻甲,Uroktor Vest,mhxx-dex-1.0,2
-367,云羊鹿服装,Moofah Suit,mhxx-dex-1.0,2
-371,云羊鹿外套,Moofah Jacket,mhxx-dex-1.0,2
-376,蓝速龙套装衣装,Velociprey Body,mhxx-dex-1.0,2
-380,蓝速龙套装衣服,Velociprey Suit,mhxx-dex-1.0,2
-384,黄速龙套装衣装,Genprey Body,mhxx-dex-1.0,2
-388,黄速龙套装衣服,Genprey Suit,mhxx-dex-1.0,2
-392,红速龙套装衣装,Ioprey Body,mhxx-dex-1.0,2
-396,红速龙套装衣服,Ioprey Wear,mhxx-dex-1.0,2
-400,蛇龙套装衣装,Remobra Suit,mhxx-dex-1.0,2
-405,蛇龙套装衣服,Remobra Wear,mhxx-dex-1.0,2
-410,红速龙铠甲,Ioprey Mail,mhxx-dex-1.0,2
-415,红速龙轻甲,Ioprey Vest,mhxx-dex-1.0,2
-420,怪鸟铠甲,Kut-Ku Mail,mhxx-dex-1.0,2
-425,怪鸟轻甲,Kut-Ku Vest,mhxx-dex-1.0,2
-430,白兔兽铠甲,Lagombi Mail,mhxx-dex-1.0,2
-435,白兔兽轻甲,Lagombi Vest,mhxx-dex-1.0,2
-440,毒怪鸟铠甲,Gypceros Mail,mhxx-dex-1.0,2
-445,毒怪鸟轻甲,Gypceros Vest,mhxx-dex-1.0,2
-450,鬼蛙铠甲,Tetsucabra Mail,mhxx-dex-1.0,2
-455,鬼蛙轻甲,Tetsucabra Vest,mhxx-dex-1.0,2
-460,大名盾蟹铠甲,Hermitaur Mail,mhxx-dex-1.0,2
-465,大名盾蟹轻甲,Hermitaur Vest,mhxx-dex-1.0,2
-470,赤甲兽铠甲,Volvidon Mail,mhxx-dex-1.0,2
-475,赤甲兽轻甲,Volvidon Vest,mhxx-dex-1.0,2
-480,水兽铠甲,Ludroth Mail,mhxx-dex-1.0,2
-485,水兽轻甲,Ludroth Vest,mhxx-dex-1.0,2
-490,夜鸟铠甲,Malfestio Mail,mhxx-dex-1.0,2
-495,夜鸟轻甲,Malfestio Vest,mhxx-dex-1.0,2
-500,白电铠甲,Khezu Mail,mhxx-dex-1.0,2
-505,白电轻甲,Khezu Vest,mhxx-dex-1.0,2
-510,雌火龙铠甲,Rathian Mail,mhxx-dex-1.0,2
-515,雌火龙轻甲,Rathian Vest,mhxx-dex-1.0,2
-520,潜口龙铠甲,Nibelsnarf Mail,mhxx-dex-1.0,2
-525,潜口龙轻甲,Nibelsnarf Vest,mhxx-dex-1.0,2
-530,雪狮子铠甲,Blango Mail,mhxx-dex-1.0,2
-535,雪狮子轻甲,Blango Vest,mhxx-dex-1.0,2
-540,将军镰蟹铠甲,Ceanataur Mail,mhxx-dex-1.0,2
-545,将军镰蟹轻甲,Ceanataur Vest,mhxx-dex-1.0,2
-550,绞蛇龙铠甲,Najarala Mail,mhxx-dex-1.0,2
-555,绞蛇龙轻甲,Najarala Vest,mhxx-dex-1.0,2
-560,迅龙铠甲,Nargacuga Mail,mhxx-dex-1.0,2
-565,迅龙轻甲,Nargacuga Vest,mhxx-dex-1.0,2
-570,贤者服装,Scholarly Suit,mhxx-dex-1.0,2
-575,贤者服饰,Scholarly Vest,mhxx-dex-1.0,2
-580,海境铠甲,Vaik Mail,mhxx-dex-1.0,3
-585,海境轻甲,Vaik Vest,mhxx-dex-1.0,3
-592,锹形上身,Aelucanth Thorax,mhxx-dex-1.0,3
-597,锹形前胸,Aelucanth Pleuron,mhxx-dex-1.0,3
-602,凤蝶上身,Rhopessa Thorax,mhxx-dex-1.0,3
-607,凤蝶前胸,Rhopessa Pleuron,mhxx-dex-1.0,3
-611,机械铠甲,Artian Mail,mhxx-dex-1.0,3
-614,机械轻甲,Artian Vest,mhxx-dex-1.0,3
-618,黑狼鸟铠甲,Garuga Mail,mhxx-dex-1.0,3
-623,黑狼鸟轻甲,Garuga Vest,mhxx-dex-1.0,3
-629,爆锤龙铠甲,Uragaan Mail,mhxx-dex-1.0,3
-634,爆锤龙轻甲,Uragaan Vest,mhxx-dex-1.0,3
-639,火龙铠甲,Rathalos Mail,mhxx-dex-1.0,3
-644,火龙轻甲,Rathalos Vest,mhxx-dex-1.0,3
-649,海龙铠甲,Lagiacrus Mail,mhxx-dex-1.0,3
-654,海龙轻甲,Lagiacrus Vest,mhxx-dex-1.0,3
-659,雷狼龙铠甲,Zinogre Mail,mhxx-dex-1.0,3
-664,雷狼龙轻甲,Zinogre Vest,mhxx-dex-1.0,3
-669,泡狐龙铠甲,Mizutsune Mail,mhxx-dex-1.0,3
-674,泡狐龙轻甲,Mizutsune Vest,mhxx-dex-1.0,3
-679,电龙铠甲,Astalos Mail,mhxx-dex-1.0,3
-684,电龙轻甲,Astalos Vest,mhxx-dex-1.0,3
-689,巨兽铠甲,Gammoth Mail,mhxx-dex-1.0,3
-694,巨兽轻甲,Gammoth Vest,mhxx-dex-1.0,3
-699,斩龙铠甲,Glavenus Mail,mhxx-dex-1.0,3
-704,斩龙轻甲,Glavenus Vest,mhxx-dex-1.0,3
-709,黑蚀龙铠甲,Gore Mail,mhxx-dex-1.0,3
-714,黑蚀龙轻甲,Gore Vest,mhxx-dex-1.0,3
-719,千刃龙铠甲,Regios Mail,mhxx-dex-1.0,3
-724,千刃龙轻甲,Regios Vest,mhxx-dex-1.0,3
-729,轰龙铠甲,Tigrex Mail,mhxx-dex-1.0,3
-734,轰龙轻甲,Tigrex Vest,mhxx-dex-1.0,3
-739,麒麟服饰,Kirin Jacket,mhxx-dex-1.0,3
-744,麒麟披肩,Kirin Cape,mhxx-dex-1.0,3
-749,碎龙铠甲,Brachydios Mail,mhxx-dex-1.0,3
-754,碎龙轻甲,Brachydios Vest,mhxx-dex-1.0,3
-759,方舟铠甲,Arc Mail,mhxx-dex-1.0,3
-764,方舟轻甲,Arc Vest,mhxx-dex-1.0,3
-769,友爱铠甲,Storge Mail,mhxx-dex-1.0,3
-774,友爱轻甲,Storge Vest,mhxx-dex-1.0,3
-779,钢龙恐惧,Kushala Cista,mhxx-dex-1.0,3
-784,钢龙复仇,Kushala Vise,mhxx-dex-1.0,3
-789,水行【胸甲】,Mizuha Guards,mhxx-dex-1.0,3
-794,丰玉【胸甲】,Cham Camise,mhxx-dex-1.0,3
-799,帝王铠甲,Kaiser Mail,mhxx-dex-1.0,3
-804,帝王轻甲,Kaiser Vest,mhxx-dex-1.0,3
-809,骸装甲【胸骨】,Skeletal Sternum,mhxx-dex-1.0,3
-814,尸装甲【胸骨】,Decayed Sternum,mhxx-dex-1.0,3
-819,黑色皮甲,Black Hide,mhxx-dex-1.0,3
-824,黑色甲皮,Black Skin,mhxx-dex-1.0,3
-829,黑带铠甲,Black Belt Mail,mhxx-dex-1.0,3
-834,黑带轻甲,Black Belt Vest,mhxx-dex-1.0,3
-839,公会诗人服装,Guild Bard Bolero,mhxx-dex-1.0,3
-844,公会诗人服饰,Guild Bard Vest,mhxx-dex-1.0,3
-849,女仆服装,Maiden's Suit,mhxx-dex-1.0,3
-854,休闲服饰,French Maid Vest,mhxx-dex-1.0,3
-859,支援者服装,Helper Suit,mhxx-dex-1.0,3
-864,治疗者服饰,Healer Vest,mhxx-dex-1.0,3
-869,抚子【花衣】,Dianthus Jacket,mhxx-dex-1.0,3
-874,桔梗【花衣】,Campanile Jacket,mhxx-dex-1.0,3
-879,泡澡上身,Bath Robe,mhxx-dex-1.0,3
-883,美食喵服装,Gourmew Suit,mhxx-dex-1.0,3
-888,美食喵服饰,Gourmew Vest,mhxx-dex-1.0,3
-893,皮制S铠甲,Leather Mail S,mhxx-dex-1.0,4
-898,皮制S轻甲,Leather Vest S,mhxx-dex-1.0,4
-903,锁甲S铠甲,Chainmail Armor S,mhxx-dex-1.0,4
-908,锁甲S轻甲,Chainmail Vest S,mhxx-dex-1.0,4
-913,贝鲁纳S铠甲,Bherna Mail S,mhxx-dex-1.0,4
-918,贝鲁纳S轻甲,Bherna Vest S,mhxx-dex-1.0,4
-923,狩猎S铠甲,Hunting Mail S,mhxx-dex-1.0,4
-928,狩猎S轻甲,Hunting Vest S,mhxx-dex-1.0,4
-933,毛皮S服装,Mafumofu Suit S,mhxx-dex-1.0,4
-938,毛皮S外套,Mafumofu Jacket S,mhxx-dex-1.0,4
-943,结云之道服･天,Yukumo Sky Dogi,mhxx-dex-1.0,4
-948,结云之道服･地,Yukumo Land Dogi,mhxx-dex-1.0,4
-952,石架S服装,Loc Lac Shawl S,mhxx-dex-1.0,4
-956,猎人S铠甲,Hunter's Mail S,mhxx-dex-1.0,4
-961,猎人S轻甲,Hunter's Vest S,mhxx-dex-1.0,4
-966,猎人R铠甲,Hunter's Mail R,mhxx-dex-1.0,4
-971,猎人R轻甲,Hunter's Vest R,mhxx-dex-1.0,4
-976,骨制S铠甲,Bone Mail S,mhxx-dex-1.0,4
-981,骨制S轻甲,Bone Vest S,mhxx-dex-1.0,4
-990,混沌的铠･霸,Chaos Archplate,mhxx-dex-1.0,4
-992,混沌的衣･霸,Chaos Archbrigandine,mhxx-dex-1.0,4
-994,花瓣S枝干,Melahoa Jacket S,mhxx-dex-1.0,4
-999,花瓣S枝部,Melahoa Stalk S,mhxx-dex-1.0,4
-1004,花瓣U枝干,Melahoa Jacket U,mhxx-dex-1.0,4
-1009,花瓣U枝部,Melahoa Stalk U,mhxx-dex-1.0,4
-1014,鱼鳞S洋装,Makluva Cover S,mhxx-dex-1.0,4
-1019,鱼鳞S衣装,Makluva Scale S,mhxx-dex-1.0,4
-1024,鱼鳞U洋装,Makluva Cover U,mhxx-dex-1.0,4
-1029,鱼鳞U衣装,Makluva Scale U,mhxx-dex-1.0,4
-1034,厨师S服装,Bistro Suit S,mhxx-dex-1.0,4
-1037,厨师S服饰,Bistro Vest S,mhxx-dex-1.0,4
-1040,橡子S铠甲,Acorn Mail S,mhxx-dex-1.0,4
-1042,橡子S轻甲,Acorn Vest S,mhxx-dex-1.0,4
-1044,南瓜S枝干,Mosgharl Ribplate S,mhxx-dex-1.0,4
-1049,南瓜S枝部,Mosgharl Ribguard S,mhxx-dex-1.0,4
-1054,雪绒花S枝干,Edel Ribplate S,mhxx-dex-1.0,4
-1059,雪绒花S枝部,Edel Ribguard S,mhxx-dex-1.0,4
-1064,云羊鹿S服装,Moofah Suit S,mhxx-dex-1.0,4
-1068,云羊鹿S外套,Moofah Jacket S,mhxx-dex-1.0,4
-1072,垂皮龙披风,Slagtoth Cloak,mhxx-dex-1.0,4
-1074,垂皮龙披肩,Slagtoth Wrap,mhxx-dex-1.0,4
-1079,蓝速龙套装S衣装,Velociprey Body S,mhxx-dex-1.0,4
-1083,蓝速龙套装S衣服,Velociprey Suit S,mhxx-dex-1.0,4
-1087,白速龙套装衣装,Giaprey Body,mhxx-dex-1.0,4
-1091,白速龙套装衣服,Giaprey Wear,mhxx-dex-1.0,4
-1095,黄速龙套装S衣装,Genprey Body S,mhxx-dex-1.0,4
-1099,黄速龙套装S衣服,Genprey Suit S,mhxx-dex-1.0,4
-1103,红速龙套装S衣装,Ioprey Body S,mhxx-dex-1.0,4
-1107,红速龙套装S衣服,Ioprey Wear S,mhxx-dex-1.0,4
-1111,蛇龙套装S衣装,Remobra Suit S,mhxx-dex-1.0,4
-1116,蛇龙套装S衣服,Remobra Wear S,mhxx-dex-1.0,4
-1133,蘑菇猪S身躯,Mosswine Vest S,mhxx-dex-1.0,4
-1138,硬甲龙S铠甲,Rhenoplos Mail S,mhxx-dex-1.0,4
-1143,硬甲龙S轻甲,Rhenoplos Vest S,mhxx-dex-1.0,4
-1148,狗龙S铠甲,Jaggi Mail S,mhxx-dex-1.0,4
-1153,狗龙S轻甲,Jaggi Vest S,mhxx-dex-1.0,4
-1157,水生兽S铠甲,Droth Mail S,mhxx-dex-1.0,4
-1160,水生兽S轻甲,Droth Vest S,mhxx-dex-1.0,4
-1163,熔岩兽S铠甲,Uroktor Torso S,mhxx-dex-1.0,4
-1165,熔岩兽S轻甲,Uroktor Vest S,mhxx-dex-1.0,4
-1168,跳狗龙S铠甲,Maccao Mail S,mhxx-dex-1.0,4
-1173,跳狗龙S轻甲,Maccao Vest S,mhxx-dex-1.0,4
-1178,蓝速龙S铠甲,Velociprey Mail S,mhxx-dex-1.0,4
-1183,蓝速龙S轻甲,Velociprey Vest S,mhxx-dex-1.0,4
-1188,白速龙S铠甲,Giaprey Mail S,mhxx-dex-1.0,4
-1193,白速龙S轻甲,Giaprey Vest S,mhxx-dex-1.0,4
-1198,黄速龙S铠甲,Genprey Mail S,mhxx-dex-1.0,4
-1203,黄速龙S轻甲,Genprey Vest S,mhxx-dex-1.0,4
-1208,EX黄速龙铠甲,EX Genprey Mail,mhxx-dex-1.0,4
-1213,EX黄速龙轻甲,EX Genprey Vest,mhxx-dex-1.0,4
-1218,红速龙S铠甲,Ioprey Mail S,mhxx-dex-1.0,4
-1223,红速龙S轻甲,Ioprey Vest S,mhxx-dex-1.0,4
-1228,EX红速龙铠甲,EX Ioprey Mail,mhxx-dex-1.0,4
-1233,EX红速龙轻甲,EX Ioprey Vest,mhxx-dex-1.0,4
-1238,巨蜂S铠甲,Vespoid Mail S,mhxx-dex-1.0,4
-1243,巨蜂S轻甲,Vespoid Vest S,mhxx-dex-1.0,4
-1248,EX巨蜂铠甲,EX Vespoid Mail,mhxx-dex-1.0,4
-1253,EX巨蜂轻甲,EX Vespoid Vest,mhxx-dex-1.0,4
-1258,巨甲虫S铠甲,Hornetaur Mail S,mhxx-dex-1.0,4
-1263,巨甲虫S轻甲,Hornetaur Vest S,mhxx-dex-1.0,4
-1268,EX巨甲虫铠甲,EX Hornetaur Mail,mhxx-dex-1.0,4
-1273,EX巨甲虫轻甲,EX Hornetaur Vest,mhxx-dex-1.0,4
-1278,巨甲虫R铠甲,Hornetaur Mail R,mhxx-dex-1.0,4
-1283,巨甲虫R轻甲,Hornetaur Vest R,mhxx-dex-1.0,4
-1288,飞甲虫S服装,Bnahabra Suit S,mhxx-dex-1.0,4
-1293,飞甲虫S服饰,Bnahabra Vest S,mhxx-dex-1.0,4
-1302,野猪S铠甲,Bulldrome Mail S,mhxx-dex-1.0,4
-1307,野猪S轻甲,Bulldrome Vest S,mhxx-dex-1.0,4
-1313,青熊兽S铠甲,Arzuros Mail S,mhxx-dex-1.0,4
-1318,青熊兽S轻甲,Arzuros Vest S,mhxx-dex-1.0,4
-1323,砂龙S铠甲,Cephalos Mail S,mhxx-dex-1.0,4
-1328,砂龙S轻甲,Cephalos Vest S,mhxx-dex-1.0,4
-1333,EX砂龙铠甲,EX Cephalos Mail,mhxx-dex-1.0,4
-1338,EX砂龙轻甲,EX Cephalos Vest,mhxx-dex-1.0,4
-1343,怪鸟S铠甲,Kut-Ku Mail S,mhxx-dex-1.0,4
-1348,怪鸟S轻甲,Kut-Ku Vest S,mhxx-dex-1.0,4
-1353,奇猿狐铠甲,Kecha Mail,mhxx-dex-1.0,4
-1358,奇猿狐轻甲,Kecha Vest,mhxx-dex-1.0,4
-1363,白兔兽S铠甲,Lagombi Mail S,mhxx-dex-1.0,4
-1368,白兔兽S轻甲,Lagombi Vest S,mhxx-dex-1.0,4
-1373,毒怪鸟S铠甲,Gypceros Mail S,mhxx-dex-1.0,4
-1378,毒怪鸟S轻甲,Gypceros Vest S,mhxx-dex-1.0,4
-1383,毒怪鸟R铠甲,Gypceros Mail R,mhxx-dex-1.0,4
-1388,毒怪鸟R轻甲,Gypceros Vest R,mhxx-dex-1.0,4
-1393,鬼蛙S铠甲,Tetsucabra Mail S,mhxx-dex-1.0,4
-1398,鬼蛙S轻甲,Tetsucabra Vest S,mhxx-dex-1.0,4
-1403,大名盾蟹S铠甲,Hermitaur Mail S,mhxx-dex-1.0,4
-1408,大名盾蟹S轻甲,Hermitaur Vest S,mhxx-dex-1.0,4
-1413,EX大名盾蟹铠甲,EX Hermitaur Mail,mhxx-dex-1.0,4
-1418,EX大名盾蟹轻甲,EX Hermitaur Vest,mhxx-dex-1.0,4
-1423,大名盾蟹R铠甲,Hermitaur Mail R,mhxx-dex-1.0,4
-1428,大名盾蟹R轻甲,Hermitaur Vest R,mhxx-dex-1.0,4
-1433,赤甲兽S铠甲,Volvidon Mail S,mhxx-dex-1.0,4
-1438,赤甲兽S轻甲,Volvidon Vest S,mhxx-dex-1.0,4
-1443,桃毛兽王铠甲,Conga Mail,mhxx-dex-1.0,4
-1448,桃毛兽王轻甲,Conga Vest,mhxx-dex-1.0,4
-1453,水兽S铠甲,Ludroth Mail S,mhxx-dex-1.0,4
-1458,水兽S轻甲,Ludroth Vest S,mhxx-dex-1.0,4
-1463,水兽R铠甲,Ludroth Mail R,mhxx-dex-1.0,4
-1468,水兽R轻甲,Ludroth Vest R,mhxx-dex-1.0,4
-1473,土砂龙铠甲,Barroth Mail,mhxx-dex-1.0,4
-1478,土砂龙轻甲,Barroth Vest,mhxx-dex-1.0,4
-1483,求知服装,Lecturer's Suit,mhxx-dex-1.0,4
-1488,求知服饰,Lecturer's Jacket,mhxx-dex-1.0,4
-1493,合金S铠甲,Alloy Mail S,mhxx-dex-1.0,5
-1498,合金S轻甲,Alloy Vest S,mhxx-dex-1.0,5
-1503,合金R铠甲,Alloy Mail R,mhxx-dex-1.0,5
-1508,合金R轻甲,Alloy Vest R,mhxx-dex-1.0,5
-1513,战斗S铠甲,Battle Mail S,mhxx-dex-1.0,5
-1518,战斗S轻甲,Battle Vest S,mhxx-dex-1.0,5
-1523,铸铁S铠甲,Ingot Mail S,mhxx-dex-1.0,5
-1528,铸铁S轻甲,Ingot Vest S,mhxx-dex-1.0,5
-1533,铸铁R铠甲,Ingot Mail R,mhxx-dex-1.0,5
-1538,铸铁R轻甲,Ingot Vest R,mhxx-dex-1.0,5
-1543,矿石S铠甲,High Metal Mail S,mhxx-dex-1.0,5
-1548,矿石S轻甲,High Metal Vest S,mhxx-dex-1.0,5
-1553,矿石U铠甲,High Metal Mail U,mhxx-dex-1.0,5
-1558,矿石U轻甲,High Metal Vest U,mhxx-dex-1.0,5
-1565,龙虾壳,Lobster Mail,mhxx-dex-1.0,5
-1570,龙虾甲皮,Lobster Vest,mhxx-dex-1.0,5
-1575,独角仙S上身,Obituary Thorax S,mhxx-dex-1.0,5
-1580,独角仙S前胸,Obituary Pleuron S,mhxx-dex-1.0,5
-1585,燕尾蝶S上身,Butterfly Thorax S,mhxx-dex-1.0,5
-1590,燕尾蝶S前胸,Butterfly Pleuron S,mhxx-dex-1.0,5
-1595,死神S肌肉,Death Stench Muscle S,mhxx-dex-1.0,5
-1600,死神S心脏,Death Stench Heart S,mhxx-dex-1.0,5
-1605,死神R肌肉,Death Stench Muscle R,mhxx-dex-1.0,5
-1610,死神R心脏,Death Stench Heart R,mhxx-dex-1.0,5
-1615,海境S铠甲,Vaik Mail S,mhxx-dex-1.0,5
-1620,海境S轻甲,Vaik Vest S,mhxx-dex-1.0,5
-1625,锹形S上身,Aelucanth Thorax S,mhxx-dex-1.0,5
-1630,锹形S前胸,Aelucanth Pleuron S,mhxx-dex-1.0,5
-1635,凤蝶S上身,Rhopessa Thorax S,mhxx-dex-1.0,5
-1640,凤蝶S前胸,Rhopessa Pleuron S,mhxx-dex-1.0,5
-1645,糕点师服装,Patissier's Suit,mhxx-dex-1.0,5
-1650,糕点师服饰,Patissier's Vest,mhxx-dex-1.0,5
-1655,毒蝎S上身,Skalda Thorax S,mhxx-dex-1.0,5
-1660,毒蝎S前胸,Skalda Pleuron S,mhxx-dex-1.0,5
-1665,毒蛛S上身,Spio Thorax S,mhxx-dex-1.0,5
-1670,毒蛛S前胸,Spio Pleuron S,mhxx-dex-1.0,5
-1676,岩龙铠甲,Basarios Mail,mhxx-dex-1.0,5
-1681,岩龙轻甲,Basarios Vest,mhxx-dex-1.0,5
-1686,夜鸟S铠甲,Malfestio Mail S,mhxx-dex-1.0,5
-1691,夜鸟S轻甲,Malfestio Vest S,mhxx-dex-1.0,5
-1696,变形冰鲨铠甲,Zamtrios Mail,mhxx-dex-1.0,5
-1701,变形冰鲨轻甲,Zamtrios Vest,mhxx-dex-1.0,5
-1706,白电S铠甲,Khezu Mail S,mhxx-dex-1.0,5
-1711,白电S轻甲,Khezu Vest S,mhxx-dex-1.0,5
-1716,白电R铠甲,Khezu Mail R,mhxx-dex-1.0,5
-1721,白电R轻甲,Khezu Vest R,mhxx-dex-1.0,5
-1726,影蜘蛛铠甲,Nerscylla Mail,mhxx-dex-1.0,5
-1731,影蜘蛛轻甲,Nerscylla Vest,mhxx-dex-1.0,5
-1736,雌火龙S铠甲,Rathian Mail S,mhxx-dex-1.0,5
-1741,雌火龙S轻甲,Rathian Vest S,mhxx-dex-1.0,5
-1746,EX雌火龙铠甲,EX Rathian Mail,mhxx-dex-1.0,5
-1751,EX雌火龙轻甲,EX Rathian Vest,mhxx-dex-1.0,5
-1756,雌火龙R铠甲,Rathian Mail R,mhxx-dex-1.0,5
-1761,雌火龙R轻甲,Rathian Vest R,mhxx-dex-1.0,5
-1766,潜口龙S铠甲,Nibelsnarf Mail S,mhxx-dex-1.0,5
-1771,潜口龙S轻甲,Nibelsnarf Vest S,mhxx-dex-1.0,5
-1776,水龙铠甲,Plesioth Mail,mhxx-dex-1.0,5
-1780,水龙轻甲,Plesioth Vest,mhxx-dex-1.0,5
-1784,雪狮子S铠甲,Blango Mail S,mhxx-dex-1.0,5
-1789,雪狮子S轻甲,Blango Vest S,mhxx-dex-1.0,5
-1794,EX雪狮子铠甲,EX Blango Mail,mhxx-dex-1.0,5
-1799,EX雪狮子轻甲,EX Blango Vest,mhxx-dex-1.0,5
-1804,熔岩龙铠甲,Lavasioth Mail,mhxx-dex-1.0,5
-1809,熔岩龙轻甲,Lavasioth Vest,mhxx-dex-1.0,5
-1814,EX熔岩龙铠甲,EX Lavasioth Mail,mhxx-dex-1.0,5
-1819,EX熔岩龙轻甲,EX Lavasioth Vest,mhxx-dex-1.0,5
-1824,将军镰蟹S铠甲,Ceanataur Mail S,mhxx-dex-1.0,5
-1829,将军镰蟹S轻甲,Ceanataur Vest S,mhxx-dex-1.0,5
-1834,EX将军镰蟹铠甲,EX Ceanataur Mail,mhxx-dex-1.0,5
-1839,EX将军镰蟹轻甲,EX Ceanataur Vest,mhxx-dex-1.0,5
-1844,将军镰蟹R铠甲,Ceanataur Mail R,mhxx-dex-1.0,5
-1849,将军镰蟹R轻甲,Ceanataur Vest R,mhxx-dex-1.0,5
-1854,绞蛇龙S铠甲,Najarala Mail S,mhxx-dex-1.0,5
-1859,绞蛇龙S轻甲,Najarala Vest S,mhxx-dex-1.0,5
-1864,迅龙S铠甲,Nargacuga Mail S,mhxx-dex-1.0,5
-1869,迅龙S轻甲,Nargacuga Vest S,mhxx-dex-1.0,5
-1874,黑狼鸟S铠甲,Garuga Mail S,mhxx-dex-1.0,5
-1879,黑狼鸟S轻甲,Garuga Vest S,mhxx-dex-1.0,5
-1885,爆锤龙S铠甲,Uragaan Mail S,mhxx-dex-1.0,5
-1890,爆锤龙S轻甲,Uragaan Vest S,mhxx-dex-1.0,5
-1895,黑带S铠甲,Black Belt Mail S,mhxx-dex-1.0,5
-1900,黑带S轻甲,Black Belt Vest S,mhxx-dex-1.0,5
-1905,守护者服装,Guardian Suit,mhxx-dex-1.0,5
-1910,守护者服饰,Guardian Vest,mhxx-dex-1.0,5
-1915,守护者U服装,Guardian Suit U,mhxx-dex-1.0,5
-1920,守护者U服饰,Guardian Vest U,mhxx-dex-1.0,5
-1925,学士服装,Scholar's Blouse,mhxx-dex-1.0,5
-1930,学士服饰,Scholar's Vest,mhxx-dex-1.0,5
-1935,水手服装,Sailor Suit,mhxx-dex-1.0,5
-1940,水手服饰,Sailor Vest,mhxx-dex-1.0,5
-1945,高级泡澡上身,Luxury Bath Robe,mhxx-dex-1.0,5
-1949,北极星【上衣】,Kita Star Jacket,mhxx-dex-1.0,5
-1953,海渊【上衣】,Umi Ocean Jacket,mhxx-dex-1.0,5
-1958,勇气S铠甲,Derring Mail S,mhxx-dex-1.0,6
-1963,勇气S轻甲,Derring Vest S,mhxx-dex-1.0,6
-1968,杜宾铠甲,Dober Mail,mhxx-dex-1.0,6
-1973,杜宾轻甲,Dober Vest,mhxx-dex-1.0,6
-1978,花纹钢铠甲,Damascus Mail,mhxx-dex-1.0,6
-1983,花纹钢轻甲,Damascus Vest,mhxx-dex-1.0,6
-1988,花纹钢R铠甲,Damascus Mail R,mhxx-dex-1.0,6
-1993,花纹钢R轻甲,Damascus Vest R,mhxx-dex-1.0,6
-2006,机械S铠甲,Artian Mail S,mhxx-dex-1.0,6
-2011,机械S轻甲,Artian Vest S,mhxx-dex-1.0,6
-2016,机械R铠甲,Artian Mail R,mhxx-dex-1.0,6
-2021,机械R轻甲,Artian Vest R,mhxx-dex-1.0,6
-2026,冰牙龙铠甲,Barioth Mail,mhxx-dex-1.0,6
-2031,冰牙龙轻甲,Barioth Vest,mhxx-dex-1.0,6
-2036,重甲虫铠甲,Seltas Mail,mhxx-dex-1.0,6
-2041,重甲虫轻甲,Seltas Vest,mhxx-dex-1.0,6
-2046,火龙S铠甲,Rathalos Mail S,mhxx-dex-1.0,6
-2051,火龙S轻甲,Rathalos Vest S,mhxx-dex-1.0,6
-2056,EX火龙铠甲,EX Rathalos Mail,mhxx-dex-1.0,6
-2061,EX火龙轻甲,EX Rathalos Vest,mhxx-dex-1.0,6
-2066,火龙R铠甲,Rathalos Mail R,mhxx-dex-1.0,6
-2071,火龙R轻甲,Rathalos Vest R,mhxx-dex-1.0,6
-2076,海龙S铠甲,Lagiacrus Mail S,mhxx-dex-1.0,6
-2081,海龙S轻甲,Lagiacrus Vest S,mhxx-dex-1.0,6
-2086,海龙R铠甲,Lagiacrus Mail R,mhxx-dex-1.0,6
-2091,海龙R轻甲,Lagiacrus Vest R,mhxx-dex-1.0,6
-2096,雷狼龙S铠甲,Zinogre Mail S,mhxx-dex-1.0,6
-2101,雷狼龙S轻甲,Zinogre Vest S,mhxx-dex-1.0,6
-2106,EX雷狼龙铠甲,EX Zinogre Mail,mhxx-dex-1.0,6
-2111,EX雷狼龙轻甲,EX Zinogre Vest,mhxx-dex-1.0,6
-2116,铠龙铠甲,Gravios Mail,mhxx-dex-1.0,6
-2121,铠龙轻甲,Gravios Vest,mhxx-dex-1.0,6
-2126,泡狐龙S铠甲,Mizutsune Mail S,mhxx-dex-1.0,6
-2131,泡狐龙S轻甲,Mizutsune Vest S,mhxx-dex-1.0,6
-2136,电龙S铠甲,Astalos Mail S,mhxx-dex-1.0,6
-2141,电龙S轻甲,Astalos Vest S,mhxx-dex-1.0,6
-2146,巨兽S铠甲,Gammoth Mail S,mhxx-dex-1.0,6
-2151,巨兽S轻甲,Gammoth Vest S,mhxx-dex-1.0,6
-2156,斩龙S铠甲,Glavenus Mail S,mhxx-dex-1.0,6
-2161,斩龙S轻甲,Glavenus Vest S,mhxx-dex-1.0,6
-2166,炎戈龙铠甲,Agnaktor Mail,mhxx-dex-1.0,6
-2171,炎戈龙轻甲,Agnaktor Vest,mhxx-dex-1.0,6
-2176,黑蚀龙S铠甲,Gore Mail S,mhxx-dex-1.0,6
-2181,黑蚀龙S轻甲,Gore Vest S,mhxx-dex-1.0,6
-2186,EX黑蚀龙铠甲,EX Gore Mail,mhxx-dex-1.0,6
-2191,EX黑蚀龙轻甲,EX Gore Vest,mhxx-dex-1.0,6
-2196,黑蚀龙R铠甲,Gore Mail R,mhxx-dex-1.0,6
-2201,黑蚀龙R轻甲,Gore Vest R,mhxx-dex-1.0,6
-2206,千刃龙S铠甲,Regios Mail S,mhxx-dex-1.0,6
-2211,千刃龙S轻甲,Regios Vest S,mhxx-dex-1.0,6
-2216,尾锤龙铠甲,Duramboros Mail,mhxx-dex-1.0,6
-2221,尾锤龙轻甲,Duramboros Vest,mhxx-dex-1.0,6
-2226,轰龙S铠甲,Tigrex Mail S,mhxx-dex-1.0,6
-2231,轰龙S轻甲,Tigrex Vest S,mhxx-dex-1.0,6
-2236,EX轰龙铠甲,EX Tigrex Mail,mhxx-dex-1.0,6
-2241,EX轰龙轻甲,EX Tigrex Vest,mhxx-dex-1.0,6
-2246,轰龙R铠甲,Tigrex Mail R,mhxx-dex-1.0,6
-2251,轰龙R轻甲,Tigrex Vest R,mhxx-dex-1.0,6
-2256,麒麟S服饰,Kirin Jacket S,mhxx-dex-1.0,6
-2261,麒麟S披肩,Kirin Cape S,mhxx-dex-1.0,6
-2266,麒麟R服饰,Kirin Jacket R,mhxx-dex-1.0,6
-2271,麒麟R披肩,Kirin Cape R,mhxx-dex-1.0,6
-2276,碎龙S铠甲,Brachydios Mail S,mhxx-dex-1.0,6
-2281,碎龙S轻甲,Brachydios Vest S,mhxx-dex-1.0,6
-2286,EX碎龙铠甲,EX Brachydios Mail,mhxx-dex-1.0,6
-2291,EX碎龙轻甲,EX Brachydios Vest,mhxx-dex-1.0,6
-2296,金色羽织,Golden Haori,mhxx-dex-1.0,6
-2301,黑衣装束,Puppeteer Suit,mhxx-dex-1.0,6
-2306,恐暴龙铠甲,Vangis Mail,mhxx-dex-1.0,6
-2311,恐暴龙轻甲,Vangis Vest,mhxx-dex-1.0,6
-2316,公会骑士服装,Guild Knight Suit,mhxx-dex-1.0,6
-2321,公会骑士服饰,Guild Knight Vest,mhxx-dex-1.0,6
-2326,女仆S服装,Maiden's Suit S,mhxx-dex-1.0,6
-2331,休闲S服饰,French Maid Vest S,mhxx-dex-1.0,6
-2336,公会守卫蓝服装,Blue Guild Suit,mhxx-dex-1.0,6
-2341,公会守卫蓝服饰,Blue Guild Vest,mhxx-dex-1.0,6
-2346,公会守卫蓝服装,Blue Guild Suit,mhxx-dex-1.0,6
-2351,公会守卫蓝服饰,Blue Guild Vest,mhxx-dex-1.0,6
-2356,公会守卫红服装,Red Guild Suit,mhxx-dex-1.0,6
-2361,公会守卫红服饰,Red Guild Vest,mhxx-dex-1.0,6
-2366,公会守卫红服装,Red Guild Suit,mhxx-dex-1.0,6
-2371,公会守卫红服饰,Red Guild Vest,mhxx-dex-1.0,6
-2376,支援者S服装,Helper Suit S,mhxx-dex-1.0,6
-2381,治疗者S服饰,Healer Vest S,mhxx-dex-1.0,6
-2386,支援者U服装,Helper Suit U,mhxx-dex-1.0,6
-2391,治疗者U服饰,Healer Vest U,mhxx-dex-1.0,6
-2396,公会诗人S服装,Guild Bard Bolero S,mhxx-dex-1.0,6
-2401,公会诗人S服饰,Guild Bard Vest S,mhxx-dex-1.0,6
-2406,三眼吊饰,Chakra Necklace,mhxx-dex-1.0,6
-2411,抚子･华【花衣】,Dianthus Wealcoat,mhxx-dex-1.0,6
-2416,桔梗･华【花衣】,Campanile Wealcoat,mhxx-dex-1.0,6
-2421,王牌铠甲,Ace Mail,mhxx-dex-1.0,6
-2426,王牌轻甲,Ace Vest,mhxx-dex-1.0,6
-2431,女王铠甲,Sororal Mail,mhxx-dex-1.0,6
-2436,女王轻甲,Sororal Vest,mhxx-dex-1.0,6
-2441,猎鹰服装,Hawksuit,mhxx-dex-1.0,6
-2446,猎鹰服饰,Hawkjacket,mhxx-dex-1.0,6
-2451,美食喵S服装,Gourmew Suit S,mhxx-dex-1.0,6
-2456,美食喵S服饰,Gourmew Vest S,mhxx-dex-1.0,6
-2462,贤者S服装,Scholarly Suit S,mhxx-dex-1.0,6
-2467,贤者S服饰,Scholarly Vest S,mhxx-dex-1.0,6
-2472,城塞游击队【短衣】,Ranger's Girdle,mhxx-dex-1.0,6
-2477,城塞弓击队【短衣】,Archer's Girdle,mhxx-dex-1.0,6
-2482,忍者装束･天,Shinobi Heaven Suit,mhxx-dex-1.0,7
-2487,忍者装束･地,Shinobi Land Suit,mhxx-dex-1.0,7
-2492,忍者装束･空,Shinobi Sky Suit,mhxx-dex-1.0,7
-2497,忍者装束･海,Shinobi Sea Suit,mhxx-dex-1.0,7
-2502,龙历士铠甲,Ancient Mail,mhxx-dex-1.0,7
-2507,龙历士轻甲,Ancient Vest,mhxx-dex-1.0,7
-2512,大师铠甲,Master's Mail,mhxx-dex-1.0,7
-2517,大师轻甲,Master's Vest,mhxx-dex-1.0,7
-2522,黑色S皮甲,Black Hide S,mhxx-dex-1.0,7
-2527,黑色S甲皮,Black Skin S,mhxx-dex-1.0,7
-2532,桐花【铠衣】,Toka Doate,mhxx-dex-1.0,7
-2537,三葵【铠衣】,Mitsuaoi Doate,mhxx-dex-1.0,7
-2542,聪慧服装,Wisdom Suit,mhxx-dex-1.0,7
-2547,聪慧服饰,Wisdom Vest,mhxx-dex-1.0,7
-2552,活泼服装,Cheerful Suit,mhxx-dex-1.0,7
-2557,活泼服饰,Cheerful Vest,mhxx-dex-1.0,7
-2562,海歌服装,Mariner Suit,mhxx-dex-1.0,7
-2567,海歌服饰,Mariner Vest,mhxx-dex-1.0,7
-2572,EX雌火龙S铠甲,EX Rathian Mail S,mhxx-dex-1.0,7
-2577,EX雌火龙S轻甲,EX Rathian Vest S,mhxx-dex-1.0,7
-2582,EX火龙S铠甲,EX Rathalos Mail S,mhxx-dex-1.0,7
-2587,EX火龙S轻甲,EX Rathalos Vest S,mhxx-dex-1.0,7
-2592,EX轰龙S铠甲,EX Tigrex Mail S,mhxx-dex-1.0,7
-2597,EX轰龙S轻甲,EX Tigrex Vest S,mhxx-dex-1.0,7
-2602,角龙铠甲,Diablos Mail,mhxx-dex-1.0,7
-2607,角龙轻甲,Diablos Vest,mhxx-dex-1.0,7
-2612,角龙R铠甲,Diablos Mail R,mhxx-dex-1.0,7
-2617,角龙R轻甲,Diablos Vest R,mhxx-dex-1.0,7
-2622,方舟S铠甲,Arc Mail S,mhxx-dex-1.0,7
-2627,方舟S轻甲,Arc Vest S,mhxx-dex-1.0,7
-2632,友爱S铠甲,Storge Mail S,mhxx-dex-1.0,7
-2637,友爱S轻甲,Storge Vest S,mhxx-dex-1.0,7
-2642,EX方舟铠甲,EX Arc Mail,mhxx-dex-1.0,7
-2647,EX方舟轻甲,EX Arc Vest,mhxx-dex-1.0,7
-2652,EX友爱铠甲,EX Storge Mail,mhxx-dex-1.0,7
-2657,EX友爱轻甲,EX Storge Vest,mhxx-dex-1.0,7
-2662,方舟R铠甲,Arc Mail R,mhxx-dex-1.0,7
-2667,方舟R轻甲,Arc Vest R,mhxx-dex-1.0,7
-2672,友爱R铠甲,Storge Mail R,mhxx-dex-1.0,7
-2677,友爱R轻甲,Storge Vest R,mhxx-dex-1.0,7
-2682,天彗龙铠甲,Valstrax Mail,mhxx-dex-1.0,7
-2687,天彗龙轻甲,Valstrax Vest,mhxx-dex-1.0,7
-2692,钢龙S恐惧,Kushala Cista S,mhxx-dex-1.0,7
-2697,钢龙S复仇,Kushala Vise S,mhxx-dex-1.0,7
-2702,EX钢龙恐惧,EX Kushala Cista,mhxx-dex-1.0,7
-2707,EX钢龙复仇,EX Kushala Vise,mhxx-dex-1.0,7
-2712,钢龙R恐惧,Kushala Cista R,mhxx-dex-1.0,7
-2717,钢龙R复仇,Kushala Vise R,mhxx-dex-1.0,7
-2722,水行霸【胸甲】,Mizuha Guards S,mhxx-dex-1.0,7
-2727,丰玉霸【胸甲】,Cham Camise S,mhxx-dex-1.0,7
-2732,EX水行【胸甲】,EX Mizuha Guards,mhxx-dex-1.0,7
-2737,EX丰玉【胸甲】,EX Cham Camise,mhxx-dex-1.0,7
-2742,帝王S铠甲,Kaiser Mail S,mhxx-dex-1.0,7
-2747,帝王S轻甲,Kaiser Vest S,mhxx-dex-1.0,7
-2752,EX帝王铠甲,EX Kaiser Mail,mhxx-dex-1.0,7
-2757,EX帝王轻甲,EX Kaiser Vest,mhxx-dex-1.0,7
-2762,银白耀日铠甲,Silver Solmail,mhxx-dex-1.0,7
-2767,银白耀日轻甲,Silver Solvest,mhxx-dex-1.0,7
-2772,EX银白耀日铠甲,EX Silver Solmail,mhxx-dex-1.0,7
-2777,EX银白耀日轻甲,EX Silver Solvest,mhxx-dex-1.0,7
-2782,银白耀日R铠甲,Silver Solmail R,mhxx-dex-1.0,7
-2787,银白耀日R轻甲,Silver Solvest R,mhxx-dex-1.0,7
-2792,金黄澄月铠甲,Golden Lunemail,mhxx-dex-1.0,7
-2797,金黄澄月轻甲,Golden Lunevest,mhxx-dex-1.0,7
-2802,EX金黄澄月铠甲,EX Golden Lunemail,mhxx-dex-1.0,7
-2807,EX金黄澄月轻甲,EX Golden Lunevest,mhxx-dex-1.0,7
-2812,怒天羽织,Divine Ire Haori,mhxx-dex-1.0,7
-2817,心灭装束,Crusher Garb,mhxx-dex-1.0,7
-2822,贪婪铠甲,Esurient Mail,mhxx-dex-1.0,7
-2827,贪婪轻甲,Esurient Vest,mhxx-dex-1.0,7
-2832,贪婪R铠甲,Esurient Mail R,mhxx-dex-1.0,7
-2837,贪婪R轻甲,Esurient Vest R,mhxx-dex-1.0,7
-2842,霸龙破坏者,Akantor Aegis,mhxx-dex-1.0,7
-2847,霸龙恶霸,Akantor Plate,mhxx-dex-1.0,7
-2852,霸龙R破坏者,Akantor Aegis R,mhxx-dex-1.0,7
-2857,霸龙R恶霸,Akantor Plate R,mhxx-dex-1.0,7
-2862,崩龙破坏者,Ukanlos Aegis,mhxx-dex-1.0,7
-2867,崩龙恶霸,Ukanlos Plate,mhxx-dex-1.0,7
-2872,荒天【衣】,Tempest Robe,mhxx-dex-1.0,7
-2877,苍天【衣】,Welkin Robe,mhxx-dex-1.0,7
-2882,荒天亚流【衣】,Tempest Robe R,mhxx-dex-1.0,7
-2887,苍天亚流【衣】,Welkin Robe R,mhxx-dex-1.0,7
-2892,骸装甲･霸【胸骨】,Skeletal Sternum R,mhxx-dex-1.0,7
-2897,尸装甲･霸【胸骨】,Decayed Sternum R,mhxx-dex-1.0,7
-2902,苍星服装,Astral Suit,mhxx-dex-1.0,7
-2907,苍星服饰,Astral Vest,mhxx-dex-1.0,7
-2912,煌黑龙灵魂,Escadora Soul,mhxx-dex-1.0,7
-2917,煌黑龙之魂,Escadora Seele,mhxx-dex-1.0,7
-2922,煌黑龙R灵魂,Escadora Soul R,mhxx-dex-1.0,7
-2927,煌黑龙R之魂,Escadora Seele R,mhxx-dex-1.0,7
-2944,皮制X铠甲,Leather Mail X,mhxx-dex-1.0,8
-2949,皮制X轻甲,Leather Vest X,mhxx-dex-1.0,8
-2954,锁甲X铠甲,Chain Mail X,mhxx-dex-1.0,8
-2959,锁甲X轻甲,Chainmail Vest X,mhxx-dex-1.0,8
-2964,贝鲁纳X铠甲,Bherna Mail X,mhxx-dex-1.0,8
-2969,贝鲁纳X轻甲,Bherna Vest X,mhxx-dex-1.0,8
-2974,狩猎X铠甲,Hunting Mail X,mhxx-dex-1.0,8
-2979,狩猎X轻甲,Hunting Vest X,mhxx-dex-1.0,8
-2984,毛皮X服装,Mafumofu Suit X,mhxx-dex-1.0,8
-2989,毛皮X外套,Mafumofu Jacket X,mhxx-dex-1.0,8
-2994,结云之道服･极天,Yukumo Sky Dogi Goku,mhxx-dex-1.0,8
-2999,结云之道服･极地,Yukumo Land Dogi Goku,mhxx-dex-1.0,8
-3004,最高级泡澡上身,Posh Bath Robe,mhxx-dex-1.0,8
-3007,石架X服装,Loc Lac Shawl X,mhxx-dex-1.0,8
-3011,猎人X铠甲,Hunter's Mail X,mhxx-dex-1.0,8
-3016,猎人X轻甲,Hunter's Vest X,mhxx-dex-1.0,8
-3021,猎人XR铠甲,Hunter's Mail XR,mhxx-dex-1.0,8
-3026,猎人XR轻甲,Hunter's Vest XR,mhxx-dex-1.0,8
-3031,骨制X铠甲,Bone Mail X,mhxx-dex-1.0,8
-3036,骨制X轻甲,Bone Vest X,mhxx-dex-1.0,8
-3047,混沌的铠･真,Grand Chaos Plate,mhxx-dex-1.0,8
-3049,混沌的衣･真,Grand Chaos Brigandine,mhxx-dex-1.0,8
-3059,花瓣X枝干,Melahoa Jacket X,mhxx-dex-1.0,8
-3064,花瓣X枝部,Melahoa Stalk X,mhxx-dex-1.0,8
-3069,花瓣Z枝干,MelahoaFlowerJacketZ,mhxx-dex-1.0,8
-3074,花瓣Z枝部,Melahoa Stalk Z,mhxx-dex-1.0,8
-3079,鱼鳞X洋装,Makluva Cover X,mhxx-dex-1.0,8
-3084,鱼鳞X衣装,Makluva Scale X,mhxx-dex-1.0,8
-3089,鱼鳞Z洋装,Makluva Cover Z,mhxx-dex-1.0,8
-3094,鱼鳞Z衣装,Makluva Scale Z,mhxx-dex-1.0,8
-3099,独角仙X上身,Obituary Thorax X,mhxx-dex-1.0,8
-3104,独角仙X前胸,Obituary Pleuron X,mhxx-dex-1.0,8
-3109,燕尾蝶X上身,Butterfly Thorax X,mhxx-dex-1.0,8
-3114,燕尾蝶X前胸,Butterfly Pleuron X,mhxx-dex-1.0,8
-3119,死神X肌肉,Death Stench Muscle X,mhxx-dex-1.0,8
-3124,死神X心脏,Death Stench Heart X,mhxx-dex-1.0,8
-3129,死神XR肌肉,Death Stench Muscle XR,mhxx-dex-1.0,8
-3134,死神XR心脏,Death Stench Heart XR,mhxx-dex-1.0,8
-3139,橡子X铠甲,Acorn Mail X,mhxx-dex-1.0,8
-3141,橡子X轻甲,Acorn Vest X,mhxx-dex-1.0,8
-3143,南瓜X枝干,Mosgharl Ribplate X,mhxx-dex-1.0,8
-3148,南瓜X枝部,Mosgharl Ribguard X,mhxx-dex-1.0,8
-3153,雪绒花X枝干,Edel Ribplate X,mhxx-dex-1.0,8
-3158,雪绒花X枝部,Edel Ribguard X,mhxx-dex-1.0,8
-3163,毒蝎X上身,Skalda Thorax X,mhxx-dex-1.0,8
-3168,毒蝎X前胸,Skalda Pleuron X,mhxx-dex-1.0,8
-3173,毒蛛X上身,Spio Thorax X,mhxx-dex-1.0,8
-3178,毒蛛X前胸,Spio Pleuron X,mhxx-dex-1.0,8
-3183,合金X铠甲,Alloy Mail X,mhxx-dex-1.0,8
-3188,合金X轻甲,Alloy Vest X,mhxx-dex-1.0,8
-3193,合金XR铠甲,Alloy Mail XR,mhxx-dex-1.0,8
-3198,合金XR轻甲,Alloy Vest XR,mhxx-dex-1.0,8
-3203,战斗X铠甲,Battle Mail X,mhxx-dex-1.0,8
-3208,战斗X轻甲,Battle Vest X,mhxx-dex-1.0,8
-3213,铸铁X铠甲,Ingot Mail X,mhxx-dex-1.0,8
-3218,铸铁X轻甲,Ingot Vest X,mhxx-dex-1.0,8
-3223,铸铁XR铠甲,Ingot Mail XR,mhxx-dex-1.0,8
-3228,铸铁XR轻甲,Ingot Vest XR,mhxx-dex-1.0,8
-3233,矿石X铠甲,High Metal Mail X,mhxx-dex-1.0,8
-3238,矿石X轻甲,High Metal Vest X,mhxx-dex-1.0,8
-3243,矿石Z铠甲,High Metal Mail Z,mhxx-dex-1.0,8
-3248,矿石Z轻甲,High Metal Vest Z,mhxx-dex-1.0,8
-3255,龙虾X壳,Lobster Mail X,mhxx-dex-1.0,8
-3260,龙虾X甲皮,Lobster Vest X,mhxx-dex-1.0,8
-3265,海境X铠甲,Vaik Mail X,mhxx-dex-1.0,8
-3270,海境X轻甲,Vaik Vest X,mhxx-dex-1.0,8
-3275,厨师X服装,Bistro Suit X,mhxx-dex-1.0,8
-3278,厨师X服饰,Bistro Vest X,mhxx-dex-1.0,8
-3281,糕点师X服装,Patissier's Suit X,mhxx-dex-1.0,8
-3286,糕点师X服饰,Patissier's Vest X,mhxx-dex-1.0,8
-3291,美食喵X服装,Gourmew Suit X,mhxx-dex-1.0,8
-3296,美食喵X服饰,Gourmew Vest X,mhxx-dex-1.0,8
-3301,锹形X上身,Aelucanth Thorax X,mhxx-dex-1.0,8
-3306,锹形X前胸,Aelucanth Pleuron X,mhxx-dex-1.0,8
-3311,凤蝶X上身,Rhopessa Thorax X,mhxx-dex-1.0,8
-3316,凤蝶X前胸,Rhopessa Pleuron X,mhxx-dex-1.0,8
-3321,求知X服装,Lecturer's Suit X,mhxx-dex-1.0,8
-3326,求知X服饰,Lecturer's Jacket X,mhxx-dex-1.0,8
-3331,勇气X铠甲,Derring Mail X,mhxx-dex-1.0,8
-3336,勇气X轻甲,Derring Vest X,mhxx-dex-1.0,8
-3341,机械X铠甲,Artian Mail X,mhxx-dex-1.0,8
-3346,机械X轻甲,Artian Vest X,mhxx-dex-1.0,8
-3351,机械XR铠甲,Artian Mail XR,mhxx-dex-1.0,8
-3356,机械XR轻甲,Artian Vest XR,mhxx-dex-1.0,8
-3361,女仆X服装,Maiden's Suit X,mhxx-dex-1.0,8
-3366,休闲X服饰,French Maid Vest X,mhxx-dex-1.0,8
-3371,抚子･雅【花衣】,Dianthus Masajacket,mhxx-dex-1.0,8
-3376,桔梗･雅【花衣】,Campanile Masajacket,mhxx-dex-1.0,8
-3381,猎鹰X服装,Hawksuit X,mhxx-dex-1.0,8
-3386,猎鹰X服饰,Hawkjacket X,mhxx-dex-1.0,8
-3391,贤者X服装,Scholarly Suit X,mhxx-dex-1.0,8
-3396,贤者X服饰,Scholarly Vest X,mhxx-dex-1.0,8
-3401,杜宾X铠甲,Dober Mail X,mhxx-dex-1.0,8
-3406,杜宾X轻甲,Dober Vest X,mhxx-dex-1.0,8
-3411,学士X服装,Scholar's Blouse X,mhxx-dex-1.0,8
-3416,学士X服饰,Scholar's Vest X,mhxx-dex-1.0,8
-3421,水手X服装,Sailor Suit X,mhxx-dex-1.0,8
-3426,水手X服饰,Sailor Vest X,mhxx-dex-1.0,8
-3431,海歌X服装,Mariner Suit X,mhxx-dex-1.0,8
-3436,海歌X服饰,Mariner Vest X,mhxx-dex-1.0,8
-3441,垂皮龙X披风,Slagtoth Cloak X,mhxx-dex-1.0,8
-3443,垂皮龙X披肩,Slagtoth Wrap X,mhxx-dex-1.0,8
-3445,狗龙X铠甲,Jaggi Mail X,mhxx-dex-1.0,8
-3450,狗龙X轻甲,Jaggi Vest X,mhxx-dex-1.0,8
-3456,跳狗龙X铠甲,Maccao Mail X,mhxx-dex-1.0,8
-3461,跳狗龙X轻甲,Maccao Vest X,mhxx-dex-1.0,8
-3466,蓝速龙X铠甲,Velociprey Mail X,mhxx-dex-1.0,8
-3471,蓝速龙X轻甲,Velociprey Vest X,mhxx-dex-1.0,8
-3476,白速龙X铠甲,Giaprey Mail X,mhxx-dex-1.0,8
-3481,白速龙X轻甲,Giaprey Vest X,mhxx-dex-1.0,8
-3486,黄速龙X铠甲,Genprey Mail X,mhxx-dex-1.0,8
-3491,黄速龙X轻甲,Genprey Vest X,mhxx-dex-1.0,8
-3496,GX黄速龙铠甲,Genprey Mail GX,mhxx-dex-1.0,8
-3501,GX黄速龙轻甲,Genprey Vest GX,mhxx-dex-1.0,8
-3506,巨蜂X铠甲,Vespoid Mail X,mhxx-dex-1.0,8
-3511,巨蜂X轻甲,Vespoid Vest X,mhxx-dex-1.0,8
-3516,GX巨蜂铠甲,Vespoid Mail GX,mhxx-dex-1.0,8
-3521,GX巨蜂轻甲,Vespoid Vest GX,mhxx-dex-1.0,8
-3526,巨甲虫X铠甲,Hornetaur Mail X,mhxx-dex-1.0,8
-3531,巨甲虫X轻甲,Hornetaur Vest X,mhxx-dex-1.0,8
-3536,GX巨甲虫铠甲,Hornetaur Mail GX,mhxx-dex-1.0,8
-3541,GX巨甲虫轻甲,Hornetaur Vest GX,mhxx-dex-1.0,8
-3546,巨甲虫XR铠甲,Hornetaur Mail XR,mhxx-dex-1.0,8
-3551,巨甲虫XR轻甲,Hornetaur Vest XR,mhxx-dex-1.0,8
-3556,飞甲虫X服装,Bnahabra Suit X,mhxx-dex-1.0,8
-3561,飞甲虫X服饰,Bnahabra Vest X,mhxx-dex-1.0,8
-3570,蘑菇猪X身躯,Mosswine Vest X,mhxx-dex-1.0,8
-3575,硬甲龙X铠甲,Rhenoplos Mail X,mhxx-dex-1.0,8
-3580,硬甲龙X轻甲,Rhenoplos Vest X,mhxx-dex-1.0,8
-3585,野猪X铠甲,Bulldrome Mail X,mhxx-dex-1.0,8
-3590,野猪X轻甲,Bulldrome Vest X,mhxx-dex-1.0,8
-3596,青熊兽X铠甲,Arzuros Mail X,mhxx-dex-1.0,8
-3601,青熊兽X轻甲,Arzuros Vest X,mhxx-dex-1.0,8
-3606,砂龙X铠甲,Cephalos Mail X,mhxx-dex-1.0,8
-3611,砂龙X轻甲,Cephalos Vest X,mhxx-dex-1.0,8
-3616,GX砂龙铠甲,Cephalos Mail GX,mhxx-dex-1.0,8
-3621,GX砂龙轻甲,Cephalos Vest GX,mhxx-dex-1.0,8
-3625,水生兽X铠甲,Droth Mail X,mhxx-dex-1.0,8
-3628,水生兽X轻甲,Droth Vest X,mhxx-dex-1.0,8
-3631,熔岩兽X铠甲,Uroktor Torso X,mhxx-dex-1.0,8
-3633,熔岩兽X轻甲,Uroktor Vest X,mhxx-dex-1.0,8
-3638,云羊鹿X服装,Moofah Suit X,mhxx-dex-1.0,8
-3642,云羊鹿X外套,Moofah Jacket X,mhxx-dex-1.0,8
-3646,蓝速龙套装X衣装,Velociprey Body X,mhxx-dex-1.0,8
-3650,蓝速龙套装X衣服,Velociprey Suit X,mhxx-dex-1.0,8
-3654,白速龙套装X衣装,Giaprey Body X,mhxx-dex-1.0,8
-3658,白速龙套装X衣服,Giaprey Wear X,mhxx-dex-1.0,8
-3662,黄速龙套装X衣装,Genprey Body X,mhxx-dex-1.0,8
-3666,黄速龙套装X衣服,Genprey Suit X,mhxx-dex-1.0,8
-3670,红速龙套装X衣装,Ioprey Body X,mhxx-dex-1.0,8
-3674,红速龙套装X衣服,Ioprey Wear X,mhxx-dex-1.0,8
-3678,蛇龙套装X衣装,Remobra Suit X,mhxx-dex-1.0,8
-3683,蛇龙套装X衣服,Remobra Wear X,mhxx-dex-1.0,8
-3688,红速龙X铠甲,Ioprey Mail X,mhxx-dex-1.0,8
-3693,红速龙X轻甲,Ioprey Vest X,mhxx-dex-1.0,8
-3698,GX红速龙铠甲,Ioprey Mail GX,mhxx-dex-1.0,8
-3703,GX红速龙轻甲,Ioprey Vest GX,mhxx-dex-1.0,8
-3708,怪鸟X铠甲,Kut-Ku Mail X,mhxx-dex-1.0,8
-3713,怪鸟X轻甲,Kut-Ku Vest X,mhxx-dex-1.0,8
-3718,奇猿狐X铠甲,Kecha Mail X,mhxx-dex-1.0,8
-3723,奇猿狐X轻甲,Kecha Vest X,mhxx-dex-1.0,8
-3728,白兔兽X铠甲,Lagombi Mail X,mhxx-dex-1.0,8
-3733,白兔兽X轻甲,Lagombi Vest X,mhxx-dex-1.0,8
-3738,毒怪鸟X铠甲,Gypceros Mail X,mhxx-dex-1.0,8
-3743,毒怪鸟X轻甲,Gypceros Vest X,mhxx-dex-1.0,8
-3748,毒怪鸟XR铠甲,Gypceros Mail XR,mhxx-dex-1.0,8
-3753,毒怪鸟XR轻甲,Gypceros Vest XR,mhxx-dex-1.0,8
-3758,鬼蛙X铠甲,Tetsucabra Mail X,mhxx-dex-1.0,8
-3763,鬼蛙X轻甲,Tetsucabra Vest X,mhxx-dex-1.0,8
-3768,大名盾蟹X铠甲,Hermitaur Mail X,mhxx-dex-1.0,8
-3773,大名盾蟹X轻甲,Hermitaur Vest X,mhxx-dex-1.0,8
-3778,GX大名盾蟹铠甲,Hermitaur Mail GX,mhxx-dex-1.0,8
-3783,GX大名盾蟹轻甲,Hermitaur Vest GX,mhxx-dex-1.0,8
-3788,大名盾蟹XR铠甲,Hermitaur Mail XR,mhxx-dex-1.0,8
-3793,大名盾蟹XR轻甲,Hermitaur Vest XR,mhxx-dex-1.0,8
-3798,赤甲兽X铠甲,Volvidon Mail X,mhxx-dex-1.0,8
-3803,赤甲兽X轻甲,Volvidon Vest X,mhxx-dex-1.0,8
-3808,桃毛兽王X铠甲,Conga Mail X,mhxx-dex-1.0,8
-3813,桃毛兽王X轻甲,Conga Vest X,mhxx-dex-1.0,8
-3818,GX桃毛兽王铠甲,Conga Mail GX,mhxx-dex-1.0,8
-3823,GX桃毛兽王轻甲,Conga Vest GX,mhxx-dex-1.0,8
-3828,水兽X铠甲,Ludroth Mail X,mhxx-dex-1.0,8
-3833,水兽X轻甲,Ludroth Vest X,mhxx-dex-1.0,8
-3838,水兽XR铠甲,Ludroth Mail XR,mhxx-dex-1.0,8
-3843,水兽XR轻甲,Ludroth Vest XR,mhxx-dex-1.0,8
-3848,土砂龙X铠甲,Barroth Mail X,mhxx-dex-1.0,8
-3853,土砂龙X轻甲,Barroth Vest X,mhxx-dex-1.0,8
-3858,岩龙X铠甲,Basarios Mail X,mhxx-dex-1.0,8
-3863,岩龙X轻甲,Basarios Vest X,mhxx-dex-1.0,8
-3868,夜鸟X铠甲,Malfestio Mail X,mhxx-dex-1.0,8
-3873,夜鸟X轻甲,Malfestio Vest X,mhxx-dex-1.0,8
-3878,变形冰鲨X铠甲,Zamtrios Mail X,mhxx-dex-1.0,8
-3883,变形冰鲨X轻甲,Zamtrios Vest X,mhxx-dex-1.0,8
-3888,白电X铠甲,Khezu Mail X,mhxx-dex-1.0,8
-3893,白电X轻甲,Khezu Vest X,mhxx-dex-1.0,8
-3898,白电XR铠甲,Khezu Mail XR,mhxx-dex-1.0,8
-3903,白电XR轻甲,Khezu Vest XR,mhxx-dex-1.0,8
-3908,影蜘蛛X铠甲,Nerscylla Mail X,mhxx-dex-1.0,8
-3913,影蜘蛛X轻甲,Nerscylla Vest X,mhxx-dex-1.0,8
-3918,雌火龙X铠甲,Rathian Mail X,mhxx-dex-1.0,8
-3923,雌火龙X轻甲,Rathian Vest X,mhxx-dex-1.0,8
-3928,GX雌火龙铠甲,Rathian Mail GX,mhxx-dex-1.0,8
-3933,GX雌火龙轻甲,Rathian Vest GX,mhxx-dex-1.0,8
-3938,雌火龙XR铠甲,Rathian Mail XR,mhxx-dex-1.0,8
-3943,雌火龙XR轻甲,Rathian Vest XR,mhxx-dex-1.0,8
-3948,潜口龙X铠甲,Nibelsnarf Mail X,mhxx-dex-1.0,8
-3953,潜口龙X轻甲,Nibelsnarf Vest X,mhxx-dex-1.0,8
-3958,水龙X铠甲,Plesioth Mail X,mhxx-dex-1.0,8
-3962,水龙X轻甲,Plesioth Vest X,mhxx-dex-1.0,8
-3967,雪狮子X铠甲,Blango Mail X,mhxx-dex-1.0,8
-3972,雪狮子X轻甲,Blango Vest X,mhxx-dex-1.0,8
-3977,GX雪狮子铠甲,Blango Mail GX,mhxx-dex-1.0,8
-3982,GX雪狮子轻甲,Blango Vest GX,mhxx-dex-1.0,8
-3987,熔岩龙X铠甲,Lava Mail X,mhxx-dex-1.0,8
-3992,熔岩龙X轻甲,Lava Vest X,mhxx-dex-1.0,8
-3997,GX熔岩龙铠甲,Lavasioth Mail GX,mhxx-dex-1.0,8
-4002,GX熔岩龙轻甲,Lavasioth Vest GX,mhxx-dex-1.0,8
-4007,将军镰蟹X铠甲,Ceanataur Mail X,mhxx-dex-1.0,8
-4012,将军镰蟹X轻甲,Ceanataur Vest X,mhxx-dex-1.0,8
-4017,GX将军镰蟹铠甲,Ceanataur Mail GX,mhxx-dex-1.0,8
-4022,GX将军镰蟹轻甲,Ceanataur Vest GX,mhxx-dex-1.0,8
-4027,将军镰蟹XR铠甲,Ceanataur Mail XR,mhxx-dex-1.0,8
-4032,将军镰蟹XR轻甲,Ceanataur Vest XR,mhxx-dex-1.0,8
-4037,绞蛇龙X铠甲,Najarala Mail X,mhxx-dex-1.0,8
-4042,绞蛇龙X轻甲,Najarala Vest X,mhxx-dex-1.0,8
-4047,迅龙X铠甲,Nargacuga Mail X,mhxx-dex-1.0,8
-4052,迅龙X轻甲,Nargacuga Vest X,mhxx-dex-1.0,8
-4057,黑狼鸟X铠甲,Garuga Mail X,mhxx-dex-1.0,8
-4062,黑狼鸟X轻甲,Garuga Vest X,mhxx-dex-1.0,8
-4068,爆锤龙X铠甲,Uragaan Mail X,mhxx-dex-1.0,8
-4073,爆锤龙X轻甲,Uragaan Vest X,mhxx-dex-1.0,8
-4078,GX北极星【上衣】,GX Kita Star Jacket,mhxx-dex-1.0,8
-4082,GX海渊【上衣】,GX Umi Ocean Jacket,mhxx-dex-1.0,8
-4086,公会骑士X服装,G. Knight Suit X,mhxx-dex-1.0,8
-4091,公会骑士X服饰,G. Knight Vest X,mhxx-dex-1.0,8
-4096,公会诗人X服装,Guild Bard Bolero X,mhxx-dex-1.0,8
-4101,公会诗人X服饰,Guild Bard Vest X,mhxx-dex-1.0,8
-4113,支援者X服装,Helper Suit X,mhxx-dex-1.0,9
-4118,治疗者X服饰,Healer Vest X,mhxx-dex-1.0,9
-4123,支援者Z服装,Helper Suit Z,mhxx-dex-1.0,9
-4128,治疗者Z服饰,Healer Vest Z,mhxx-dex-1.0,9
-4133,龙历士X铠甲,Ancient Mail X,mhxx-dex-1.0,9
-4138,龙历士X轻甲,Ancient Vest X,mhxx-dex-1.0,9
-4143,王牌X铠甲,Ace Mail X,mhxx-dex-1.0,9
-4148,王牌X轻甲,Ace Vest X,mhxx-dex-1.0,9
-4153,女王X铠甲,Sororal Mail X,mhxx-dex-1.0,9
-4158,女王X轻甲,Sororal Vest X,mhxx-dex-1.0,9
-4163,城塞特攻队【短衣】,Strider's Girdle,mhxx-dex-1.0,9
-4168,城塞隐蔽队【短衣】,Deadeye's Girdle,mhxx-dex-1.0,9
-4173,忍者装束･极天,Shinobi Heaven Suit Goku,mhxx-dex-1.0,9
-4178,忍者装束･极地,Shinobi Land Suit Goku,mhxx-dex-1.0,9
-4183,大师X铠甲,Master's Mail X,mhxx-dex-1.0,9
-4188,大师X轻甲,Master's Vest X,mhxx-dex-1.0,9
-4193,桐花･真【铠衣】,Grand Toka Doate,mhxx-dex-1.0,9
-4198,三葵･真【铠衣】,Grand Mitsuaoi Doate,mhxx-dex-1.0,9
-4203,夜叉【羽衣】,Yaksha Raiment,mhxx-dex-1.0,9
-4208,修罗【羽衣】,Carnage Raiment,mhxx-dex-1.0,9
-4213,太阳神X铠甲,Helios Mail X,mhxx-dex-1.0,9
-4218,太阳神X轻甲,Helios Vest X,mhxx-dex-1.0,9
-4223,月神X铠甲,Selene Mail X,mhxx-dex-1.0,9
-4228,月神X轻甲,Selene Vest X,mhxx-dex-1.0,9
-4233,聪慧X服装,Wisdom Suit X,mhxx-dex-1.0,9
-4238,聪慧X服饰,Wisdom Vest X,mhxx-dex-1.0,9
-4243,探究服装,Research Suit,mhxx-dex-1.0,9
-4248,探究服饰,Research Vest,mhxx-dex-1.0,9
-4253,活泼X服装,Cheerful Suit X,mhxx-dex-1.0,9
-4258,活泼X服饰,Cheerful Vest X,mhxx-dex-1.0,9
-4263,冰牙龙X铠甲,Barioth Mail X,mhxx-dex-1.0,9
-4268,冰牙龙X轻甲,Barioth Vest X,mhxx-dex-1.0,9
-4273,重甲虫X铠甲,Seltas Mail X,mhxx-dex-1.0,9
-4278,重甲虫X轻甲,Seltas Vest X,mhxx-dex-1.0,9
-4283,火龙X铠甲,Rathalos Mail X,mhxx-dex-1.0,9
-4288,火龙X轻甲,Rathalos Vest X,mhxx-dex-1.0,9
-4293,GX火龙铠甲,Rathalos Mail GX,mhxx-dex-1.0,9
-4298,GX火龙轻甲,Rathalos Vest GX,mhxx-dex-1.0,9
-4303,火龙XR铠甲,Rathalos Mail XR,mhxx-dex-1.0,9
-4308,火龙XR轻甲,Rathalos Vest XR,mhxx-dex-1.0,9
-4313,海龙X铠甲,Lagiacrus Mail X,mhxx-dex-1.0,9
-4318,海龙X轻甲,Lagiacrus Vest X,mhxx-dex-1.0,9
-4323,海龙XR铠甲,Lagiacrus Mail XR,mhxx-dex-1.0,9
-4328,海龙XR轻甲,Lagiacrus Vest XR,mhxx-dex-1.0,9
-4333,雷狼龙X铠甲,Zinogre Mail X,mhxx-dex-1.0,9
-4338,雷狼龙X轻甲,Zinogre Vest X,mhxx-dex-1.0,9
-4343,GX雷狼龙铠甲,Zinogre Mail GX,mhxx-dex-1.0,9
-4348,GX雷狼龙轻甲,Zinogre Vest GX,mhxx-dex-1.0,9
-4353,铠龙X铠甲,Gravios Mail X,mhxx-dex-1.0,9
-4358,铠龙X轻甲,Gravios Vest X,mhxx-dex-1.0,9
-4363,泡狐龙X铠甲,Mizutsune Mail X,mhxx-dex-1.0,9
-4368,泡狐龙X轻甲,Mizutsune Vest X,mhxx-dex-1.0,9
-4373,电龙X铠甲,Astalos Mail X,mhxx-dex-1.0,9
-4378,电龙X轻甲,Astalos Vest X,mhxx-dex-1.0,9
-4383,巨兽X铠甲,Gammoth Mail X,mhxx-dex-1.0,9
-4388,巨兽X轻甲,Gammoth Vest X,mhxx-dex-1.0,9
-4393,斩龙X铠甲,Glavenus Mail X,mhxx-dex-1.0,9
-4398,斩龙X轻甲,Glavenus Vest X,mhxx-dex-1.0,9
-4403,炎戈龙X铠甲,Agnaktor Mail X,mhxx-dex-1.0,9
-4408,炎戈龙X轻甲,Agnaktor Vest X,mhxx-dex-1.0,9
-4413,黑蚀龙X铠甲,Gore Mail X,mhxx-dex-1.0,9
-4418,黑蚀龙X轻甲,Gore Vest X,mhxx-dex-1.0,9
-4423,GX黑蚀龙铠甲,Gore Mail GX,mhxx-dex-1.0,9
-4428,GX黑蚀龙轻甲,Gore Vest GX,mhxx-dex-1.0,9
-4433,黑蚀龙XR铠甲,Gore Mail XR,mhxx-dex-1.0,9
-4438,黑蚀龙XR轻甲,Gore Vest XR,mhxx-dex-1.0,9
-4443,千刃龙X铠甲,Regios Mail X,mhxx-dex-1.0,9
-4448,千刃龙X轻甲,Regios Vest X,mhxx-dex-1.0,9
-4453,尾锤龙X铠甲,Duramboros Mail X,mhxx-dex-1.0,9
-4458,尾锤龙X轻甲,Duramboros Vest X,mhxx-dex-1.0,9
-4463,轰龙X铠甲,Tigrex Mail X,mhxx-dex-1.0,9
-4468,轰龙X轻甲,Tigrex Vest X,mhxx-dex-1.0,9
-4473,GX轰龙铠甲,Tigrex Mail GX,mhxx-dex-1.0,9
-4478,GX轰龙轻甲,Tigrex Vest GX,mhxx-dex-1.0,9
-4483,轰龙XR铠甲,Tigrex Mail XR,mhxx-dex-1.0,9
-4488,轰龙XR轻甲,Tigrex Vest XR,mhxx-dex-1.0,9
-4493,角龙X铠甲,Diablos Mail X,mhxx-dex-1.0,9
-4498,角龙X轻甲,Diablos Vest X,mhxx-dex-1.0,9
-4503,角龙XR铠甲,Diablos Mail XR,mhxx-dex-1.0,9
-4508,角龙XR轻甲,Diablos Vest XR,mhxx-dex-1.0,9
-4513,麒麟X服饰,Kirin Jacket X,mhxx-dex-1.0,9
-4518,麒麟X披肩,Kirin Cape X,mhxx-dex-1.0,9
-4523,麒麟XR服饰,Kirin Jacket XR,mhxx-dex-1.0,9
-4528,麒麟XR披肩,Kirin Cape XR,mhxx-dex-1.0,9
-4533,碎龙X铠甲,Brachydios Mail X,mhxx-dex-1.0,9
-4538,碎龙X轻甲,Brachydios Vest X,mhxx-dex-1.0,9
-4543,GX碎龙铠甲,Brachydios Mail GX,mhxx-dex-1.0,9
-4548,GX碎龙轻甲,Brachydios Vest GX,mhxx-dex-1.0,9
-4553,方舟X铠甲,Arc Mail X,mhxx-dex-1.0,9
-4558,方舟X轻甲,Arc Vest X,mhxx-dex-1.0,9
-4563,友爱X铠甲,Storge Mail X,mhxx-dex-1.0,9
-4568,友爱X轻甲,Storge Vest X,mhxx-dex-1.0,9
-4573,GX方舟铠甲,Arc Mail GX,mhxx-dex-1.0,9
-4578,GX方舟轻甲,Arc Vest GX,mhxx-dex-1.0,9
-4583,GX友爱铠甲,Storge Mail GX,mhxx-dex-1.0,9
-4588,GX友爱轻甲,Storge Vest GX,mhxx-dex-1.0,9
-4593,方舟XR铠甲,Arc Mail XR,mhxx-dex-1.0,9
-4598,方舟XR轻甲,Arc Vest XR,mhxx-dex-1.0,9
-4603,友爱XR铠甲,Storge Mail XR,mhxx-dex-1.0,9
-4608,友爱XR轻甲,Storge Vest XR,mhxx-dex-1.0,9
-4613,天彗龙X铠甲,Valstrax Mail X,mhxx-dex-1.0,9
-4618,天彗龙X轻甲,Valstrax Vest X,mhxx-dex-1.0,9
-4623,齐天衣･真,Grand God's Peer Robe,mhxx-dex-1.0,9
-4628,仙师衣･真,Grand Hermit Robe,mhxx-dex-1.0,9
-4633,恐暴龙X铠甲,Vangis Mail X,mhxx-dex-1.0,9
-4638,恐暴龙X轻甲,Vangis Vest X,mhxx-dex-1.0,9
-4643,混沌铠甲,Chaos Mail,mhxx-dex-1.0,9
-4648,混沌轻甲,Chaos Vest,mhxx-dex-1.0,9
-4653,堕天铠甲,Nephilim Mail,mhxx-dex-1.0,9
-4658,堕天轻甲,Nephilim Vest,mhxx-dex-1.0,9
-4663,黑带X铠甲,Black Belt Mail X,mhxx-dex-1.0,9
-4668,黑带X轻甲,Black Belt Vest X,mhxx-dex-1.0,9
-4673,守护者X服装,Guardian Suit X,mhxx-dex-1.0,9
-4678,守护者X服饰,Guardian Vest X,mhxx-dex-1.0,9
-4683,守护者Z服装,Guardian Suit Z,mhxx-dex-1.0,9
-4688,守护者Z服饰,Guardian Vest Z,mhxx-dex-1.0,9
-4693,公会守卫X蓝服装,Blue Guild Suit X,mhxx-dex-1.0,9
-4698,公会守卫X蓝服饰,Blue Guild Vest X,mhxx-dex-1.0,9
-4703,公会守卫X蓝服装,Blue Guild Suit X,mhxx-dex-1.0,9
-4708,公会守卫X蓝服饰,Blue Guild Vest X,mhxx-dex-1.0,9
-4713,公会守卫X红服装,Red Guild Suit X,mhxx-dex-1.0,9
-4718,公会守卫X红服饰,Red Guild Vest X,mhxx-dex-1.0,9
-4723,公会守卫X红服装,Red Guild Suit X,mhxx-dex-1.0,9
-4728,公会守卫X红服饰,Red Guild Vest X,mhxx-dex-1.0,9
-4733,黑色X皮甲,Black Hide X,mhxx-dex-1.0,9
-4738,黑色X甲皮,Black Skin X,mhxx-dex-1.0,9
-4743,花纹钢X铠甲,Damascus Mail X,mhxx-dex-1.0,9
-4748,花纹钢X轻甲,Damascus Vest X,mhxx-dex-1.0,9
-4753,花纹钢XR铠甲,Damascus Mail XR,mhxx-dex-1.0,9
-4758,花纹钢XR轻甲,Damascus Vest XR,mhxx-dex-1.0,9
-4765,王后铠甲,Kaiserin Mail,mhxx-dex-1.0,9
-4770,王后轻甲,Kaiserin Vest,mhxx-dex-1.0,9
-4775,酒吧主人服装,Barmaid's Suit,mhxx-dex-1.0,9
-4780,酒吧主人服饰,Barmaid's Vest,mhxx-dex-1.0,9
-4785,酒保服装,Barman's Suit,mhxx-dex-1.0,9
-4790,酒保服饰,Barman's Vest,mhxx-dex-1.0,9
-4801,钢龙X恐惧,Kushala Cista X,mhxx-dex-1.0,10
-4806,钢龙X复仇,Kushala Vise X,mhxx-dex-1.0,10
-4811,GX钢龙恐惧,Kushala Cista GX,mhxx-dex-1.0,10
-4816,GX钢龙复仇,Kushala Vise GX,mhxx-dex-1.0,10
-4821,钢龙XR恐惧,Kushala Cista XR,mhxx-dex-1.0,10
-4826,钢龙XR复仇,Kushala Vise XR,mhxx-dex-1.0,10
-4831,水行真【胸甲】,Grand Mizuha Guards,mhxx-dex-1.0,10
-4836,丰玉真【胸甲】,Grand Cham Camise,mhxx-dex-1.0,10
-4841,GX水行【胸甲】,Mizuha Guards GX,mhxx-dex-1.0,10
-4846,GX丰玉【胸甲】,Cham Camise GX,mhxx-dex-1.0,10
-4851,帝王X铠甲,Kaiser Mail X,mhxx-dex-1.0,10
-4856,帝王X轻甲,Kaiser Vest X,mhxx-dex-1.0,10
-4861,GX帝王铠甲,Kaiser Mail GX,mhxx-dex-1.0,10
-4866,GX帝王轻甲,Kaiser Vest GX,mhxx-dex-1.0,10
-4871,银白耀日Z铠甲,Silver Solmail Z,mhxx-dex-1.0,10
-4876,银白耀日Z轻甲,Silver Solvest Z,mhxx-dex-1.0,10
-4881,GX银白耀日铠甲,GX Silver Solmail,mhxx-dex-1.0,10
-4886,GX银白耀日轻甲,GX Silver Solvest,mhxx-dex-1.0,10
-4891,银白耀日XR铠甲,Silver Solmail XR,mhxx-dex-1.0,10
-4896,银白耀日XR轻甲,Silver Solvest XR,mhxx-dex-1.0,10
-4901,金黄澄月Z铠甲,Golden Lunemail Z,mhxx-dex-1.0,10
-4906,金黄澄月Z轻甲,Golden Lunevest Z,mhxx-dex-1.0,10
-4911,GX金黄澄月铠甲,GX Golden Lunemail,mhxx-dex-1.0,10
-4916,GX金黄澄月轻甲,GX Golden Lunevest,mhxx-dex-1.0,10
-4921,怒天羽织･真,Grand Divine Ire Haori,mhxx-dex-1.0,10
-4926,心灭装束･真,Grand Crusher Garb,mhxx-dex-1.0,10
-4931,贪婪Z铠甲,Esurient Mail Z,mhxx-dex-1.0,10
-4936,贪婪Z轻甲,Esurient Vest Z,mhxx-dex-1.0,10
-4941,贪婪XR铠甲,Esurient Mail XR,mhxx-dex-1.0,10
-4946,贪婪XR轻甲,Esurient Vest XR,mhxx-dex-1.0,10
-4951,铁腕铠甲,Brachydium Mail,mhxx-dex-1.0,10
-4956,铁腕轻甲,Brachydium Vest,mhxx-dex-1.0,10
-4961,晓丸【铠衣】,Auroros Torso,mhxx-dex-1.0,10
-4966,曙丸【铠衣】,Genesis Torso,mhxx-dex-1.0,10
-4971,凛【胸甲】,Borealis Chest,mhxx-dex-1.0,10
-4976,艳【胸甲】,Glyph Chest,mhxx-dex-1.0,10
-4981,GX晓丸【铠衣】,Auroros Torso GX,mhxx-dex-1.0,10
-4986,GX曙丸【铠衣】,Genesis Torso GX,mhxx-dex-1.0,10
-4991,GX凛【胸甲】,Borealis Chest GX,mhxx-dex-1.0,10
-4996,GX艳【胸甲】,Glyph Chest GX,mhxx-dex-1.0,10
-5001,晓丸战流【铠衣】,Auroros Torso XR,mhxx-dex-1.0,10
-5006,曙丸战流【铠衣】,Genesis Torso XR,mhxx-dex-1.0,10
-5011,凛战流【胸甲】,Borealis Chest XR,mhxx-dex-1.0,10
-5016,艳战流【胸甲】,Glyph Chest XR,mhxx-dex-1.0,10
-5021,晓丸亚流【铠衣】,Auroros Torso R,mhxx-dex-1.0,10
-5026,曙丸亚流【铠衣】,Genesis Torso R,mhxx-dex-1.0,10
-5031,凛亚流【胸甲】,Borealis Chest R,mhxx-dex-1.0,10
-5036,艳亚流【胸甲】,Glyph Chest R,mhxx-dex-1.0,10
-5041,霸龙X破坏者,Akantor Aegis X,mhxx-dex-1.0,10
-5046,霸龙X恶霸,Akantor Plate X,mhxx-dex-1.0,10
-5051,霸龙XR破坏者,Akantor Aegis XR,mhxx-dex-1.0,10
-5056,霸龙XR恶霸,Akantor Plate XR,mhxx-dex-1.0,10
-5061,崩龙X破坏者,Ukanlos Aegis X,mhxx-dex-1.0,10
-5066,崩龙X恶霸,Ukanlos Plate X,mhxx-dex-1.0,10
-5071,荒天･真【衣】,Grand Tempest Robe,mhxx-dex-1.0,10
-5076,苍天･真【衣】,Grand Welkin Robe,mhxx-dex-1.0,10
-5081,荒天战流【衣】,Tempest Robe XR,mhxx-dex-1.0,10
-5086,苍天战流【衣】,Welkin Robe XR,mhxx-dex-1.0,10
-5091,骸装甲･真【胸骨】,Grand Skeletal Sternum,mhxx-dex-1.0,10
-5096,尸装甲･真【胸骨】,Grand Decayed Sternum,mhxx-dex-1.0,10
-5101,苍星X服装,Astral Suit X,mhxx-dex-1.0,10
-5106,苍星X服饰,Astral Vest X,mhxx-dex-1.0,10
-5111,王座亮铠,Neset Mail,mhxx-dex-1.0,10
-5116,王座智甲,Neset Vest,mhxx-dex-1.0,10
-5121,黑龙皮甲,Dragonhide,mhxx-dex-1.0,10
-5126,黑龙甲皮,Dragonskin,mhxx-dex-1.0,10
-5131,煌黑龙X灵魂,Escadora Soul X,mhxx-dex-1.0,10
-5136,煌黑龙X之魂,Escadora Seele X,mhxx-dex-1.0,10
-5141,煌黑龙XR灵魂,Escadora Soul XR,mhxx-dex-1.0,10
-5146,煌黑龙XR之魂,Escadora Seele XR,mhxx-dex-1.0,10
-5151,红龙皮甲,Fatalis Crimsonhide,mhxx-dex-1.0,10
-5156,红龙甲皮,Fatalis Crimsonskin,mhxx-dex-1.0,10
-5161,GX红龙皮甲,GX Fatalis Crimsonhide,mhxx-dex-1.0,10
-5166,GX红龙甲皮,GX Fatalis Crimsonskin,mhxx-dex-1.0,10
-5171,红龙XR皮甲,Fatalis Crimsonhide XR,mhxx-dex-1.0,10
-5176,红龙XR甲皮,Fatalis Crimsonskin XR,mhxx-dex-1.0,10
-5181,祖龙皮甲,Old Fatalis Hide,mhxx-dex-1.0,10
-5186,祖龙甲皮,Old Fatalis Skin,mhxx-dex-1.0,10
-5191,GX祖龙皮甲,GX Old Fatalis Hide,mhxx-dex-1.0,10
-5196,GX祖龙甲皮,GX Old Fatalis Skin,mhxx-dex-1.0,10
-5201,异形铠甲,Strange Mail,mhxx-dex-1.0,5
-5206,异形轻甲,Strange Vest,mhxx-dex-1.0,5
-5211,异形X铠甲,Strange Mail X,mhxx-dex-1.0,8
-5216,异形X轻甲,Strange Vest X,mhxx-dex-1.0,8
-5221,红盔铠甲,Redhelm Mail,mhxx-dex-1.0,11
-5226,红盔轻甲,Redhelm Vest,mhxx-dex-1.0,11
-5231,大雪主铠甲,Snowbaron Mail,mhxx-dex-1.0,11
-5236,大雪主轻甲,Snowbaron Vest,mhxx-dex-1.0,11
-5241,矛碎铠甲,Stonefist Mail,mhxx-dex-1.0,11
-5246,矛碎轻甲,Stonefist Vest,mhxx-dex-1.0,11
-5251,紫毒姬铠甲,Dreadqueen Mail,mhxx-dex-1.0,11
-5256,紫毒姬轻甲,Dreadqueen Vest,mhxx-dex-1.0,11
-5261,岩穿铠甲,Drilltusk Mail,mhxx-dex-1.0,11
-5266,岩穿轻甲,Drilltusk Vest,mhxx-dex-1.0,11
-5271,白疾风铠甲,Silverwind Mail,mhxx-dex-1.0,11
-5276,白疾风轻甲,Silverwind Vest,mhxx-dex-1.0,11
-5281,宝缠铠甲,Crystalbeard Mail,mhxx-dex-1.0,11
-5286,宝缠轻甲,Crystalbeard Vest,mhxx-dex-1.0,11
-5291,独眼铠甲,Deadeye Mail,mhxx-dex-1.0,11
-5296,独眼轻甲,Deadeye Vest,mhxx-dex-1.0,11
-5301,黑炎王铠甲,Dreadking Mail,mhxx-dex-1.0,11
-5306,黑炎王轻甲,Dreadking Vest,mhxx-dex-1.0,11
-5311,金雷公铠甲,Thunderlord Mail,mhxx-dex-1.0,11
-5316,金雷公轻甲,Thunderlord Vest,mhxx-dex-1.0,11
-5321,荒钩爪铠甲,Grimclaw Mail,mhxx-dex-1.0,11
-5326,荒钩爪轻甲,Grimclaw Vest,mhxx-dex-1.0,11
-5331,烬灭刃铠甲,Hellblade Mail,mhxx-dex-1.0,11
-5336,烬灭刃轻甲,Hellblade Vest,mhxx-dex-1.0,11
-5341,胧隐铠甲,Nightcloak Mail,mhxx-dex-1.0,11
-5346,胧隐轻甲,Nightcloak Vest,mhxx-dex-1.0,11
-5351,铠裂铠甲,Rustrazor Mail,mhxx-dex-1.0,11
-5356,铠裂轻甲,Rustrazor Vest,mhxx-dex-1.0,11
-5361,天眼铠甲,Soulseer Mail,mhxx-dex-1.0,11
-5366,天眼轻甲,Soulseer Vest,mhxx-dex-1.0,11
-5371,青电主铠甲,Boltreaver Mail,mhxx-dex-1.0,11
-5376,青电主轻甲,Boltreaver Vest,mhxx-dex-1.0,11
-5381,银峰铠甲,Elderfrost Mail,mhxx-dex-1.0,11
-5386,银峰轻甲,Elderfrost Vest,mhxx-dex-1.0,11
-5391,鏖魔铠甲,Bloodbath Mail,mhxx-dex-1.0,11
-5396,鏖魔轻甲,Bloodbath Vest,mhxx-dex-1.0,11
-5401,【日】瑞星【铠衣】,[JP] Promising Plate,mhxx-dex-1.0,3
-5406,【日】景星【铠衣】,[JP] Halcyon Plate,mhxx-dex-1.0,3
-5411,【日】梦视【衣】,[JP] Lucid Robe,mhxx-dex-1.0,3
-5416,【日】梦言【衣】,[JP] Dreamy Robe,mhxx-dex-1.0,3
-5421,【日】烈火【铠衣】,[JP] Arcfire Dogi,mhxx-dex-1.0,3
-5426,【日】活火【铠衣】,[JP] Bonfire Dogi,mhxx-dex-1.0,3
-5431,【日】和歌【铠衣】,[JP] Waka Dogi,mhxx-dex-1.0,3
-5436,【日】和乐【铠衣】,[JP] Wagaku Dogi,mhxx-dex-1.0,3
-5441,【日】伪蛋蛋身体袜,[JP] Fake Tama Body,mhxx-dex-1.0,3
-5445,【日】伪蛋蛋紧身衣,[JP] Fake Tama Body Suit,mhxx-dex-1.0,3
-5449,海盗J服装,Pirate Suit J,mhxx-dex-1.0,6
-5454,海盗J外套,Pirate Jacket J,mhxx-dex-1.0,6
-5459,大海盗J服装,Buccaneer Suit J,mhxx-dex-1.0,6
-5464,大海盗J外套,Buccaneer Jacket J,mhxx-dex-1.0,6
-5471,星灵铠甲,Zodias Mail,mhxx-dex-1.0,7
-5476,星灵轻甲,Zodias Vest,mhxx-dex-1.0,7
-5480,坊屋外套,Booyah Jacket,mhxx-dex-1.0,5
-5483,坊屋运动夹克,Booyah Bomber,mhxx-dex-1.0,5
-5486,武装战线外套,Biker Jacket,mhxx-dex-1.0,5
-5487,武装战线皮夹克,Biker Leather,mhxx-dex-1.0,5
-5489,地上最强的上装,Ultimate Garb,mhxx-dex-1.0,7
-5492,地上最强的上衣,Ultimate Attire,mhxx-dex-1.0,7
-5495,王者的身躯,Champion's Body,mhxx-dex-1.0,7
-5500,强者的身躯,Strongman's Body,mhxx-dex-1.0,7
-5505,电衣库外套,Dynaqlo Coat,mhxx-dex-1.0,6
-5510,电衣库夹克,Dynaqlo Jacket,mhxx-dex-1.0,6
-5515,【日】蓝星花服装,[JP] Blue Star Suit,mhxx-dex-1.0,6
-5520,【日】蓝星花服饰,[JP] Blue Star Jacket,mhxx-dex-1.0,6
-5525,【日】星骑士铠甲,[JP] Star Knight Mail,mhxx-dex-1.0,6
-5530,【日】星骑士轻甲,[JP] Star Knight Vest,mhxx-dex-1.0,6
-5535,【日】星城铠甲,[JP] Star Rook Mail,mhxx-dex-1.0,7
-5540,【日】星城轻甲,[JP] Star Rook Vest,mhxx-dex-1.0,7
-5545,【日】瑞星･霸【铠衣】,[JP] Promising Archplate,mhxx-dex-1.0,7
-5550,【日】景星･霸【铠衣】,[JP] Halcyon Archplate,mhxx-dex-1.0,7
-5555,【日】梦视･霸【衣】,[JP] Lucid Archrobe,mhxx-dex-1.0,7
-5560,【日】梦言･霸【衣】,[JP] Dreamy Archrobe,mhxx-dex-1.0,7
-5565,【日】烈火･霸【铠衣】,[JP] Ruler Arcfire Dogi,mhxx-dex-1.0,7
-5570,【日】活火･霸【铠衣】,[JP] Ruler Bonfire Dogi,mhxx-dex-1.0,7
-5575,【日】和歌･霸【铠衣】,[JP] Ruler Waka Dogi,mhxx-dex-1.0,7
-5580,【日】和乐･霸【铠衣】,[JP] Ruler Wagaku Dogi,mhxx-dex-1.0,7
-5585,【日】伪蛋蛋S身体袜,[JP] Fake Tama Body S,mhxx-dex-1.0,4
-5589,【日】伪蛋蛋S紧身衣,[JP] Fake Tama Body Suit S,mhxx-dex-1.0,4
-5593,防护服护甲,Varia Suit Armor,mhxx-dex-1.0,6
-5597,防护服屏障,Varia Suit Barrier,mhxx-dex-1.0,6
-5601,零装甲衣装,Zero Suit Body,mhxx-dex-1.0,6
-5605,零装甲衣服,Zero Suit Wear,mhxx-dex-1.0,6
-5609,勇者服,Hero's Clothes,mhxx-dex-1.0,7
-5614,勇者衣,Hero's Tunic,mhxx-dex-1.0,7
-5619,星耀领主服装,Lodestar Suit,mhxx-dex-1.0,7
-5624,星耀领主服饰,Lodestar Vest,mhxx-dex-1.0,7
-5629,狂怒铠甲,Mail of Rage,mhxx-dex-1.0,7
-5633,狂怒轻甲,Vest of Rage,mhxx-dex-1.0,7
-5637,女神铠甲,Mail of Anat,mhxx-dex-1.0,7
-5641,女神轻甲,Vest of Anat,mhxx-dex-1.0,7
-5644,狩猎战线外套,Rider Jacket,mhxx-dex-1.0,5
-5645,狩猎战线皮夹克,Rider Leather,mhxx-dex-1.0,5
-5649,X巨兽外套,X Gammoth Jacket,mhxx-dex-1.0,5
-5650,X巨兽运动衫,X Gammoth Jersey,mhxx-dex-1.0,5
-5651,X泡狐龙外套,X Mizutsune Jacket,mhxx-dex-1.0,5
-5652,X泡狐龙运动衫,X Mizutsune Jersey,mhxx-dex-1.0,5
-5653,X斩龙外套,X Dino Jacket,mhxx-dex-1.0,5
-5654,X斩龙运动衫,X Dino Jersey,mhxx-dex-1.0,5
-5655,X电龙外套,X Astalos Jacket,mhxx-dex-1.0,5
-5656,X电龙运动衫,X Astalos Jersey,mhxx-dex-1.0,5
-5658,飞龙装束･天,Hiryu Sky Suit,mhxx-dex-1.0,7
-5663,飞龙装束･地,Hiryu Land Suit,mhxx-dex-1.0,7
-5668,【日】小杰服装,[JP] Gon Mail,mhxx-dex-1.0,8
-5672,【日】小杰衣装,[JP] Gon Vest,mhxx-dex-1.0,8
-5676,犯人服装,Criminal Suit,mhxx-dex-1.0,9
-5680,犯人衣装,Criminal Body,mhxx-dex-1.0,9
-5684,【日】烈火･极【铠衣】,[JP] Supreme Arcfire Dogi,mhxx-dex-1.0,10
-5689,【日】活火･极【铠衣】,[JP] Supreme Bonfire Dogi,mhxx-dex-1.0,10
-5694,【日】和歌･极【铠衣】,[JP] Supreme Wagaku Dogi,mhxx-dex-1.0,10
-5699,【日】和乐･极【铠衣】,[JP] Supreme Wagaku Dogi,mhxx-dex-1.0,10
-5704,黄金骑士【铠衣】,Garo Plate,mhxx-dex-1.0,10
-5709,黄金骑士【铠甲】,Garo Mail,mhxx-dex-1.0,10
-5714,蓝衣,Blue Tunic,mhxx-dex-1.0,10
-5719,蓝装,Blue Jerkin,mhxx-dex-1.0,10
-5723,XX天彗龙外套,XX Valstrax Jacket,mhxx-dex-1.0,9
-5724,XX天彗龙运动衫,XX Valstrax Jersey,mhxx-dex-1.0,9
-5725,XX鏖魔外套,XX Diablos Jacket,mhxx-dex-1.0,9
-5726,XX鏖魔运动衫,XX Diablos Jersey,mhxx-dex-1.0,9
+1,皮制服饰,Leather Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+2,锁甲服饰,Chainmail Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+3,贝鲁纳铠甲,Bherna Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+4,狩猎铠甲,Hunting Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+5,狩猎轻甲,Hunting Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+6,毛皮外套,Mafumofu Jacket,mhxx-dex-1.0+mhxx-save-format-community,1
+7,结云之道服,Yukumo Dogi,mhxx-dex-1.0+mhxx-save-format-community,1
+8,石架服装,Loc Lac Shawl,mhxx-dex-1.0+mhxx-save-format-community,1
+9,猎人铠甲,Hunter's Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+10,猎人轻甲,Hunter's Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+11,骨制铠甲,Bone Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+12,骨制轻甲,Bone Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+15,混沌的铠,Chaos Plate,mhxx-dex-1.0+mhxx-save-format-community,1
+16,混沌的衣,Chaos Brigandine,mhxx-dex-1.0+mhxx-save-format-community,1
+23,狗龙铠甲,Jaggi Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+24,狗龙轻甲,Jaggi Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+25,跳狗龙铠甲,Maccao Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+26,跳狗龙轻甲,Maccao Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+27,蓝速龙铠甲,Velociprey Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+28,蓝速龙轻甲,Velociprey Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+29,白速龙铠甲,Giaprey Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+30,白速龙轻甲,Giaprey Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+31,黄速龙铠甲,Genprey Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+32,黄速龙轻甲,Genprey Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+33,巨蜂铠甲,Vespoid Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+34,巨蜂轻甲,Vespoid Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+35,巨甲虫铠甲,Hornetaur Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+36,巨甲虫轻甲,Hornetaur Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+37,飞甲虫服装,Bnahabra Suit,mhxx-dex-1.0+mhxx-save-format-community,1
+38,飞甲虫服饰,Bnahabra Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+41,蘑菇猪身躯,Mosswine Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+42,硬甲龙铠甲,Rhenoplos Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+43,硬甲龙轻甲,Rhenoplos Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+44,野猪铠甲,Bulldrome Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+45,野猪轻甲,Bulldrome Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+47,青熊兽铠甲,Arzuros Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+48,青熊兽轻甲,Arzuros Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+49,砂龙铠甲,Cephalos Mail,mhxx-dex-1.0+mhxx-save-format-community,1
+50,砂龙轻甲,Cephalos Vest,mhxx-dex-1.0+mhxx-save-format-community,1
+51,勇气服饰,Derring Jacket,mhxx-dex-1.0+mhxx-save-format-community,2
+52,合金铠甲,Alloy Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+53,合金轻甲,Alloy Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+54,战斗铠甲,Battle Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+55,战斗轻甲,Battle Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+56,铸铁铠甲,Ingot Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+57,铸铁轻甲,Ingot Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+58,矿石铠甲,High Metal Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+59,矿石轻甲,High Metal Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+62,花瓣枝干,Melahoa Jacket,mhxx-dex-1.0+mhxx-save-format-community,2
+63,花瓣枝部,Melahoa Stalk,mhxx-dex-1.0+mhxx-save-format-community,2
+64,鱼鳞洋装,Makluva Cover,mhxx-dex-1.0+mhxx-save-format-community,2
+65,鱼鳞衣装,Makluva Scale,mhxx-dex-1.0+mhxx-save-format-community,2
+66,厨师服装,Bistro Suit,mhxx-dex-1.0+mhxx-save-format-community,2
+67,厨师服饰,Bistro Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+68,独角仙上身,Obituary Thorax,mhxx-dex-1.0+mhxx-save-format-community,2
+69,独角仙前胸,Obituary Pleuron,mhxx-dex-1.0+mhxx-save-format-community,2
+70,燕尾蝶上身,Butterfly Thorax,mhxx-dex-1.0+mhxx-save-format-community,2
+71,燕尾蝶前胸,Butterfly Pleuron,mhxx-dex-1.0+mhxx-save-format-community,2
+72,死神肌肉,Death Stench Muscle,mhxx-dex-1.0+mhxx-save-format-community,2
+73,死神心脏,Death Stench Heart,mhxx-dex-1.0+mhxx-save-format-community,2
+74,橡子铠甲,Acorn Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+75,橡子轻甲,Acorn Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+76,南瓜枝干,Mosgharl Ribplate,mhxx-dex-1.0+mhxx-save-format-community,2
+77,南瓜枝部,Mosgharl Ribguard,mhxx-dex-1.0+mhxx-save-format-community,2
+78,雪绒花枝干,Edel Ribplate,mhxx-dex-1.0+mhxx-save-format-community,2
+79,雪绒花枝部,Edel Ribguard,mhxx-dex-1.0+mhxx-save-format-community,2
+80,毒蝎上身,Skalda Thorax,mhxx-dex-1.0+mhxx-save-format-community,2
+81,毒蝎前胸,Skalda Pleuron,mhxx-dex-1.0+mhxx-save-format-community,2
+82,毒蛛上身,Spio Thorax,mhxx-dex-1.0+mhxx-save-format-community,2
+83,毒蛛前胸,Spio Pleuron,mhxx-dex-1.0+mhxx-save-format-community,2
+84,水生兽铠甲,Droth Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+85,水生兽轻甲,Droth Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+86,熔岩兽铠甲,Uroktor Torso,mhxx-dex-1.0+mhxx-save-format-community,2
+87,熔岩兽轻甲,Uroktor Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+90,云羊鹿服装,Moofah Suit,mhxx-dex-1.0+mhxx-save-format-community,2
+91,云羊鹿外套,Moofah Jacket,mhxx-dex-1.0+mhxx-save-format-community,2
+93,蓝速龙套装衣装,Velociprey Body,mhxx-dex-1.0+mhxx-save-format-community,2
+94,蓝速龙套装衣服,Velociprey Suit,mhxx-dex-1.0+mhxx-save-format-community,2
+95,黄速龙套装衣装,Genprey Body,mhxx-dex-1.0+mhxx-save-format-community,2
+96,黄速龙套装衣服,Genprey Suit,mhxx-dex-1.0+mhxx-save-format-community,2
+97,红速龙套装衣装,Ioprey Body,mhxx-dex-1.0+mhxx-save-format-community,2
+98,红速龙套装衣服,Ioprey Wear,mhxx-dex-1.0+mhxx-save-format-community,2
+99,蛇龙套装衣装,Remobra Suit,mhxx-dex-1.0+mhxx-save-format-community,2
+100,蛇龙套装衣服,Remobra Wear,mhxx-dex-1.0+mhxx-save-format-community,2
+101,红速龙铠甲,Ioprey Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+102,红速龙轻甲,Ioprey Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+103,怪鸟铠甲,Kut-Ku Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+104,怪鸟轻甲,Kut-Ku Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+105,白兔兽铠甲,Lagombi Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+106,白兔兽轻甲,Lagombi Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+107,毒怪鸟铠甲,Gypceros Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+108,毒怪鸟轻甲,Gypceros Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+109,鬼蛙铠甲,Tetsucabra Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+110,鬼蛙轻甲,Tetsucabra Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+111,大名盾蟹铠甲,Hermitaur Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+112,大名盾蟹轻甲,Hermitaur Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+113,赤甲兽铠甲,Volvidon Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+114,赤甲兽轻甲,Volvidon Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+115,水兽铠甲,Ludroth Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+116,水兽轻甲,Ludroth Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+117,夜鸟铠甲,Malfestio Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+118,夜鸟轻甲,Malfestio Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+119,白电铠甲,Khezu Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+120,白电轻甲,Khezu Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+121,雌火龙铠甲,Rathian Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+122,雌火龙轻甲,Rathian Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+123,潜口龙铠甲,Nibelsnarf Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+124,潜口龙轻甲,Nibelsnarf Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+125,雪狮子铠甲,Blango Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+126,雪狮子轻甲,Blango Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+127,将军镰蟹铠甲,Ceanataur Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+128,将军镰蟹轻甲,Ceanataur Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+129,绞蛇龙铠甲,Najarala Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+130,绞蛇龙轻甲,Najarala Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+131,迅龙铠甲,Nargacuga Mail,mhxx-dex-1.0+mhxx-save-format-community,2
+132,迅龙轻甲,Nargacuga Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+133,贤者服装,Scholarly Suit,mhxx-dex-1.0+mhxx-save-format-community,2
+134,贤者服饰,Scholarly Vest,mhxx-dex-1.0+mhxx-save-format-community,2
+135,海境铠甲,Vaik Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+136,海境轻甲,Vaik Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+139,锹形上身,Aelucanth Thorax,mhxx-dex-1.0+mhxx-save-format-community,3
+140,锹形前胸,Aelucanth Pleuron,mhxx-dex-1.0+mhxx-save-format-community,3
+141,凤蝶上身,Rhopessa Thorax,mhxx-dex-1.0+mhxx-save-format-community,3
+142,凤蝶前胸,Rhopessa Pleuron,mhxx-dex-1.0+mhxx-save-format-community,3
+143,机械铠甲,Artian Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+144,机械轻甲,Artian Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+145,黑狼鸟铠甲,Garuga Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+146,黑狼鸟轻甲,Garuga Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+148,爆锤龙铠甲,Uragaan Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+149,爆锤龙轻甲,Uragaan Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+150,火龙铠甲,Rathalos Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+151,火龙轻甲,Rathalos Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+152,海龙铠甲,Lagiacrus Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+153,海龙轻甲,Lagiacrus Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+154,雷狼龙铠甲,Zinogre Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+155,雷狼龙轻甲,Zinogre Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+156,泡狐龙铠甲,Mizutsune Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+157,泡狐龙轻甲,Mizutsune Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+158,电龙铠甲,Astalos Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+159,电龙轻甲,Astalos Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+160,巨兽铠甲,Gammoth Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+161,巨兽轻甲,Gammoth Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+162,斩龙铠甲,Glavenus Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+163,斩龙轻甲,Glavenus Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+164,黑蚀龙铠甲,Gore Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+165,黑蚀龙轻甲,Gore Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+166,千刃龙铠甲,Regios Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+167,千刃龙轻甲,Regios Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+168,轰龙铠甲,Tigrex Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+169,轰龙轻甲,Tigrex Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+170,麒麟服饰,Kirin Jacket,mhxx-dex-1.0+mhxx-save-format-community,3
+171,麒麟披肩,Kirin Cape,mhxx-dex-1.0+mhxx-save-format-community,3
+172,碎龙铠甲,Brachydios Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+173,碎龙轻甲,Brachydios Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+174,方舟铠甲,Arc Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+175,友爱铠甲,Storge Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+176,方舟轻甲,Arc Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+177,友爱轻甲,Storge Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+178,钢龙恐惧,Kushala Cista,mhxx-dex-1.0+mhxx-save-format-community,3
+179,钢龙复仇,Kushala Vise,mhxx-dex-1.0+mhxx-save-format-community,3
+180,水行【胸甲】,Mizuha Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+181,丰玉【胸甲】,Cham Camise,mhxx-dex-1.0+mhxx-save-format-community,3
+182,帝王铠甲,Kaiser Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+183,帝王轻甲,Kaiser Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+184,骸装甲【胸骨】,Skeletal Sternum,mhxx-dex-1.0+mhxx-save-format-community,3
+185,尸装甲【胸骨】,Decayed Sternum,mhxx-dex-1.0+mhxx-save-format-community,3
+186,黑色皮甲,Black Hide,mhxx-dex-1.0+mhxx-save-format-community,3
+187,黑色甲皮,Black Skin,mhxx-dex-1.0+mhxx-save-format-community,3
+188,黑带铠甲,Black Belt Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+189,黑带轻甲,Black Belt Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+190,公会诗人服装,Guild Bard Bolero,mhxx-dex-1.0+mhxx-save-format-community,3
+191,公会诗人服饰,Guild Bard Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+192,女仆服装,Maiden's Suit,mhxx-dex-1.0+mhxx-save-format-community,3
+193,休闲服饰,French Maid Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+194,支援者服装,Helper Suit,mhxx-dex-1.0+mhxx-save-format-community,3
+195,治疗者服饰,Healer Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+196,抚子【花衣】,Dianthus Jacket,mhxx-dex-1.0+mhxx-save-format-community,3
+197,桔梗【花衣】,Campanile Jacket,mhxx-dex-1.0+mhxx-save-format-community,3
+198,泡澡上身,Bath Robe,mhxx-dex-1.0+mhxx-save-format-community,3
+199,美食喵服装,Gourmew Suit,mhxx-dex-1.0+mhxx-save-format-community,3
+200,美食喵服饰,Gourmew Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+201,皮制S铠甲,Leather Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+202,锁甲S铠甲,Chainmail Armor S,mhxx-dex-1.0+mhxx-save-format-community,4
+203,贝鲁纳S铠甲,Bherna Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+204,贝鲁纳S轻甲,Bherna Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+205,狩猎S铠甲,Hunting Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+206,狩猎S轻甲,Hunting Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+207,毛皮S服装,Mafumofu Suit S,mhxx-dex-1.0+mhxx-save-format-community,4
+208,毛皮S外套,Mafumofu Jacket S,mhxx-dex-1.0+mhxx-save-format-community,4
+209,结云之道服･天,Yukumo Sky Dogi,mhxx-dex-1.0+mhxx-save-format-community,4
+210,结云之道服･地,Yukumo Land Dogi,mhxx-dex-1.0+mhxx-save-format-community,4
+211,石架S服装,Loc Lac Shawl S,mhxx-dex-1.0+mhxx-save-format-community,4
+212,猎人S铠甲,Hunter's Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+213,猎人S轻甲,Hunter's Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+214,猎人R铠甲,Hunter's Mail R,mhxx-dex-1.0+mhxx-save-format-community,4
+215,猎人R轻甲,Hunter's Vest R,mhxx-dex-1.0+mhxx-save-format-community,4
+216,骨制S铠甲,Bone Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+217,骨制S轻甲,Bone Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+222,混沌的铠･霸,Chaos Archplate,mhxx-dex-1.0+mhxx-save-format-community,4
+223,混沌的衣･霸,Chaos Archbrigandine,mhxx-dex-1.0+mhxx-save-format-community,4
+224,花瓣S枝干,Melahoa Jacket S,mhxx-dex-1.0+mhxx-save-format-community,4
+225,花瓣S枝部,Melahoa Stalk S,mhxx-dex-1.0+mhxx-save-format-community,4
+226,花瓣U枝干,Melahoa Jacket U,mhxx-dex-1.0+mhxx-save-format-community,4
+227,花瓣U枝部,Melahoa Stalk U,mhxx-dex-1.0+mhxx-save-format-community,4
+228,鱼鳞S洋装,Makluva Cover S,mhxx-dex-1.0+mhxx-save-format-community,4
+229,鱼鳞S衣装,Makluva Scale S,mhxx-dex-1.0+mhxx-save-format-community,4
+230,鱼鳞U洋装,Makluva Cover U,mhxx-dex-1.0+mhxx-save-format-community,4
+231,鱼鳞U衣装,Makluva Scale U,mhxx-dex-1.0+mhxx-save-format-community,4
+232,厨师S服装,Bistro Suit S,mhxx-dex-1.0+mhxx-save-format-community,4
+233,厨师S服饰,Bistro Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+234,橡子S铠甲,Acorn Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+235,橡子S轻甲,Acorn Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+236,南瓜S枝干,Mosgharl Ribplate S,mhxx-dex-1.0+mhxx-save-format-community,4
+237,南瓜S枝部,Mosgharl Ribguard S,mhxx-dex-1.0+mhxx-save-format-community,4
+238,雪绒花S枝干,Edel Ribplate S,mhxx-dex-1.0+mhxx-save-format-community,4
+239,雪绒花S枝部,Edel Ribguard S,mhxx-dex-1.0+mhxx-save-format-community,4
+240,云羊鹿S服装,Moofah Suit S,mhxx-dex-1.0+mhxx-save-format-community,4
+241,云羊鹿S外套,Moofah Jacket S,mhxx-dex-1.0+mhxx-save-format-community,4
+242,垂皮龙披风,Slagtoth Cloak,mhxx-dex-1.0+mhxx-save-format-community,4
+243,垂皮龙披肩,Slagtoth Wrap,mhxx-dex-1.0+mhxx-save-format-community,4
+247,蓝速龙套装S衣装,Velociprey Body S,mhxx-dex-1.0+mhxx-save-format-community,4
+248,蓝速龙套装S衣服,Velociprey Suit S,mhxx-dex-1.0+mhxx-save-format-community,4
+249,黄速龙套装S衣装,Genprey Body S,mhxx-dex-1.0+mhxx-save-format-community,4
+250,黄速龙套装S衣服,Genprey Suit S,mhxx-dex-1.0+mhxx-save-format-community,4
+251,红速龙套装S衣装,Ioprey Body S,mhxx-dex-1.0+mhxx-save-format-community,4
+252,红速龙套装S衣服,Ioprey Wear S,mhxx-dex-1.0+mhxx-save-format-community,4
+253,蛇龙套装S衣装,Remobra Suit S,mhxx-dex-1.0+mhxx-save-format-community,4
+254,蛇龙套装S衣服,Remobra Wear S,mhxx-dex-1.0+mhxx-save-format-community,4
+261,蘑菇猪S身躯,Mosswine Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+262,硬甲龙S铠甲,Rhenoplos Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+263,硬甲龙S轻甲,Rhenoplos Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+264,狗龙S铠甲,Jaggi Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+265,狗龙S轻甲,Jaggi Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+266,水生兽S铠甲,Droth Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+267,水生兽S轻甲,Droth Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+268,熔岩兽S铠甲,Uroktor Torso S,mhxx-dex-1.0+mhxx-save-format-community,4
+269,熔岩兽S轻甲,Uroktor Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+270,跳狗龙S铠甲,Maccao Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+271,跳狗龙S轻甲,Maccao Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+272,蓝速龙S铠甲,Velociprey Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+273,蓝速龙S轻甲,Velociprey Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+274,白速龙S铠甲,Giaprey Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+275,白速龙S轻甲,Giaprey Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+276,黄速龙S铠甲,Genprey Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+277,黄速龙S轻甲,Genprey Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+278,EX黄速龙铠甲,EX Genprey Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+279,EX黄速龙轻甲,EX Genprey Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+280,红速龙S铠甲,Ioprey Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+281,红速龙S轻甲,Ioprey Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+282,EX红速龙铠甲,EX Ioprey Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+283,EX红速龙轻甲,EX Ioprey Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+284,巨蜂S铠甲,Vespoid Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+285,巨蜂S轻甲,Vespoid Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+286,EX巨蜂铠甲,EX Vespoid Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+287,EX巨蜂轻甲,EX Vespoid Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+288,巨甲虫S铠甲,Hornetaur Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+289,巨甲虫S轻甲,Hornetaur Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+290,EX巨甲虫铠甲,EX Hornetaur Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+291,EX巨甲虫轻甲,EX Hornetaur Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+292,巨甲虫R铠甲,Hornetaur Mail R,mhxx-dex-1.0+mhxx-save-format-community,4
+293,巨甲虫R轻甲,Hornetaur Vest R,mhxx-dex-1.0+mhxx-save-format-community,4
+294,飞甲虫S服装,Bnahabra Suit S,mhxx-dex-1.0+mhxx-save-format-community,4
+295,飞甲虫S服饰,Bnahabra Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+298,野猪S铠甲,Bulldrome Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+299,野猪S轻甲,Bulldrome Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+301,青熊兽S铠甲,Arzuros Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+302,青熊兽S轻甲,Arzuros Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+303,砂龙S铠甲,Cephalos Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+304,砂龙S轻甲,Cephalos Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+305,EX砂龙铠甲,EX Cephalos Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+306,EX砂龙轻甲,EX Cephalos Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+307,怪鸟S铠甲,Kut-Ku Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+308,怪鸟S轻甲,Kut-Ku Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+309,奇猿狐铠甲,Kecha Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+310,奇猿狐轻甲,Kecha Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+311,白兔兽S铠甲,Lagombi Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+312,白兔兽S轻甲,Lagombi Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+313,毒怪鸟S铠甲,Gypceros Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+314,毒怪鸟S轻甲,Gypceros Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+315,毒怪鸟R铠甲,Gypceros Mail R,mhxx-dex-1.0+mhxx-save-format-community,4
+316,毒怪鸟R轻甲,Gypceros Vest R,mhxx-dex-1.0+mhxx-save-format-community,4
+317,鬼蛙S铠甲,Tetsucabra Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+318,鬼蛙S轻甲,Tetsucabra Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+319,大名盾蟹S铠甲,Hermitaur Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+320,大名盾蟹S轻甲,Hermitaur Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+321,EX大名盾蟹铠甲,EX Hermitaur Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+322,EX大名盾蟹轻甲,EX Hermitaur Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+323,大名盾蟹R铠甲,Hermitaur Mail R,mhxx-dex-1.0+mhxx-save-format-community,4
+324,大名盾蟹R轻甲,Hermitaur Vest R,mhxx-dex-1.0+mhxx-save-format-community,4
+325,赤甲兽S铠甲,Volvidon Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+326,赤甲兽S轻甲,Volvidon Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+327,水兽S铠甲,Ludroth Mail S,mhxx-dex-1.0+mhxx-save-format-community,4
+328,水兽S轻甲,Ludroth Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+329,水兽R铠甲,Ludroth Mail R,mhxx-dex-1.0+mhxx-save-format-community,4
+330,水兽R轻甲,Ludroth Vest R,mhxx-dex-1.0+mhxx-save-format-community,4
+331,求知服装,Lecturer's Suit,mhxx-dex-1.0+mhxx-save-format-community,4
+332,求知服饰,Lecturer's Jacket,mhxx-dex-1.0+mhxx-save-format-community,4
+333,合金S铠甲,Alloy Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+334,合金S轻甲,Alloy Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+335,合金R铠甲,Alloy Mail R,mhxx-dex-1.0+mhxx-save-format-community,5
+336,合金R轻甲,Alloy Vest R,mhxx-dex-1.0+mhxx-save-format-community,5
+337,战斗S铠甲,Battle Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+338,战斗S轻甲,Battle Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+339,铸铁S铠甲,Ingot Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+340,铸铁S轻甲,Ingot Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+341,铸铁R铠甲,Ingot Mail R,mhxx-dex-1.0+mhxx-save-format-community,5
+342,铸铁R轻甲,Ingot Vest R,mhxx-dex-1.0+mhxx-save-format-community,5
+343,矿石S铠甲,High Metal Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+344,矿石S轻甲,High Metal Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+345,矿石U铠甲,High Metal Mail U,mhxx-dex-1.0+mhxx-save-format-community,5
+346,矿石U轻甲,High Metal Vest U,mhxx-dex-1.0+mhxx-save-format-community,5
+349,龙虾壳,Lobster Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+350,龙虾甲皮,Lobster Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+351,独角仙S上身,Obituary Thorax S,mhxx-dex-1.0+mhxx-save-format-community,5
+352,独角仙S前胸,Obituary Pleuron S,mhxx-dex-1.0+mhxx-save-format-community,5
+353,燕尾蝶S上身,Butterfly Thorax S,mhxx-dex-1.0+mhxx-save-format-community,5
+354,燕尾蝶S前胸,Butterfly Pleuron S,mhxx-dex-1.0+mhxx-save-format-community,5
+355,死神S肌肉,Death Stench Muscle S,mhxx-dex-1.0+mhxx-save-format-community,5
+356,死神S心脏,Death Stench Heart S,mhxx-dex-1.0+mhxx-save-format-community,5
+357,死神R肌肉,Death Stench Muscle R,mhxx-dex-1.0+mhxx-save-format-community,5
+358,死神R心脏,Death Stench Heart R,mhxx-dex-1.0+mhxx-save-format-community,5
+359,海境S铠甲,Vaik Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+360,海境S轻甲,Vaik Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+361,锹形S上身,Aelucanth Thorax S,mhxx-dex-1.0+mhxx-save-format-community,5
+362,锹形S前胸,Aelucanth Pleuron S,mhxx-dex-1.0+mhxx-save-format-community,5
+363,凤蝶S上身,Rhopessa Thorax S,mhxx-dex-1.0+mhxx-save-format-community,5
+364,凤蝶S前胸,Rhopessa Pleuron S,mhxx-dex-1.0+mhxx-save-format-community,5
+365,糕点师服装,Patissier's Suit,mhxx-dex-1.0+mhxx-save-format-community,5
+366,糕点师服饰,Patissier's Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+367,毒蝎S上身,Skalda Thorax S,mhxx-dex-1.0+mhxx-save-format-community,5
+368,毒蝎S前胸,Skalda Pleuron S,mhxx-dex-1.0+mhxx-save-format-community,5
+369,毒蛛S上身,Spio Thorax S,mhxx-dex-1.0+mhxx-save-format-community,5
+370,毒蛛S前胸,Spio Pleuron S,mhxx-dex-1.0+mhxx-save-format-community,5
+371,夜鸟S铠甲,Malfestio Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+372,夜鸟S轻甲,Malfestio Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+373,变形冰鲨铠甲,Zamtrios Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+374,变形冰鲨轻甲,Zamtrios Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+375,白电S铠甲,Khezu Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+376,白电S轻甲,Khezu Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+377,白电R铠甲,Khezu Mail R,mhxx-dex-1.0+mhxx-save-format-community,5
+378,白电R轻甲,Khezu Vest R,mhxx-dex-1.0+mhxx-save-format-community,5
+379,雌火龙S铠甲,Rathian Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+380,雌火龙S轻甲,Rathian Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+381,EX雌火龙铠甲,EX Rathian Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+382,EX雌火龙轻甲,EX Rathian Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+383,雌火龙R铠甲,Rathian Mail R,mhxx-dex-1.0+mhxx-save-format-community,5
+384,雌火龙R轻甲,Rathian Vest R,mhxx-dex-1.0+mhxx-save-format-community,5
+385,潜口龙S铠甲,Nibelsnarf Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+386,潜口龙S轻甲,Nibelsnarf Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+387,水龙铠甲,Plesioth Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+388,水龙轻甲,Plesioth Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+389,雪狮子S铠甲,Blango Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+390,雪狮子S轻甲,Blango Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+391,EX雪狮子铠甲,EX Blango Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+392,EX雪狮子轻甲,EX Blango Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+393,熔岩龙铠甲,Lavasioth Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+394,熔岩龙轻甲,Lavasioth Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+395,EX熔岩龙铠甲,EX Lavasioth Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+396,EX熔岩龙轻甲,EX Lavasioth Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+397,将军镰蟹S铠甲,Ceanataur Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+398,将军镰蟹S轻甲,Ceanataur Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+399,EX将军镰蟹铠甲,EX Ceanataur Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+400,EX将军镰蟹轻甲,EX Ceanataur Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+401,将军镰蟹R铠甲,Ceanataur Mail R,mhxx-dex-1.0+mhxx-save-format-community,5
+402,将军镰蟹R轻甲,Ceanataur Vest R,mhxx-dex-1.0+mhxx-save-format-community,5
+403,绞蛇龙S铠甲,Najarala Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+404,绞蛇龙S轻甲,Najarala Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+405,迅龙S铠甲,Nargacuga Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+406,迅龙S轻甲,Nargacuga Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+407,黑狼鸟S铠甲,Garuga Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+408,黑狼鸟S轻甲,Garuga Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+410,爆锤龙S铠甲,Uragaan Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+411,爆锤龙S轻甲,Uragaan Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+412,黑带S铠甲,Black Belt Mail S,mhxx-dex-1.0+mhxx-save-format-community,5
+413,黑带S轻甲,Black Belt Vest S,mhxx-dex-1.0+mhxx-save-format-community,5
+414,守护者服装,Guardian Suit,mhxx-dex-1.0+mhxx-save-format-community,5
+415,守护者服饰,Guardian Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+416,守护者U服装,Guardian Suit U,mhxx-dex-1.0+mhxx-save-format-community,5
+417,守护者U服饰,Guardian Vest U,mhxx-dex-1.0+mhxx-save-format-community,5
+418,学士服装,Scholar's Blouse,mhxx-dex-1.0+mhxx-save-format-community,5
+419,学士服饰,Scholar's Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+420,水手服装,Sailor Suit,mhxx-dex-1.0+mhxx-save-format-community,5
+421,水手服饰,Sailor Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+422,高级泡澡上身,Luxury Bath Robe,mhxx-dex-1.0+mhxx-save-format-community,5
+423,北极星【上衣】,Kita Star Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+424,海渊【上衣】,Umi Ocean Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+426,勇气S铠甲,Derring Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+427,勇气S轻甲,Derring Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+428,杜宾铠甲,Dober Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+429,杜宾轻甲,Dober Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+430,花纹钢铠甲,Damascus Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+431,花纹钢轻甲,Damascus Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+432,花纹钢R铠甲,Damascus Mail R,mhxx-dex-1.0+mhxx-save-format-community,6
+433,花纹钢R轻甲,Damascus Vest R,mhxx-dex-1.0+mhxx-save-format-community,6
+440,机械S铠甲,Artian Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+441,机械S轻甲,Artian Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+442,机械R铠甲,Artian Mail R,mhxx-dex-1.0+mhxx-save-format-community,6
+443,机械R轻甲,Artian Vest R,mhxx-dex-1.0+mhxx-save-format-community,6
+444,重甲虫铠甲,Seltas Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+445,重甲虫轻甲,Seltas Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+446,火龙S铠甲,Rathalos Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+447,火龙S轻甲,Rathalos Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+448,EX火龙铠甲,EX Rathalos Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+449,EX火龙轻甲,EX Rathalos Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+450,火龙R铠甲,Rathalos Mail R,mhxx-dex-1.0+mhxx-save-format-community,6
+451,火龙R轻甲,Rathalos Vest R,mhxx-dex-1.0+mhxx-save-format-community,6
+452,海龙S铠甲,Lagiacrus Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+453,海龙S轻甲,Lagiacrus Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+454,海龙R铠甲,Lagiacrus Mail R,mhxx-dex-1.0+mhxx-save-format-community,6
+455,海龙R轻甲,Lagiacrus Vest R,mhxx-dex-1.0+mhxx-save-format-community,6
+456,雷狼龙S铠甲,Zinogre Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+457,雷狼龙S轻甲,Zinogre Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+458,EX雷狼龙铠甲,EX Zinogre Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+459,EX雷狼龙轻甲,EX Zinogre Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+460,泡狐龙S铠甲,Mizutsune Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+461,泡狐龙S轻甲,Mizutsune Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+462,电龙S铠甲,Astalos Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+463,电龙S轻甲,Astalos Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+464,巨兽S铠甲,Gammoth Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+465,巨兽S轻甲,Gammoth Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+466,斩龙S铠甲,Glavenus Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+467,斩龙S轻甲,Glavenus Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+468,炎戈龙铠甲,Agnaktor Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+469,炎戈龙轻甲,Agnaktor Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+470,黑蚀龙S铠甲,Gore Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+471,黑蚀龙S轻甲,Gore Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+472,EX黑蚀龙铠甲,EX Gore Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+473,EX黑蚀龙轻甲,EX Gore Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+474,黑蚀龙R铠甲,Gore Mail R,mhxx-dex-1.0+mhxx-save-format-community,6
+475,黑蚀龙R轻甲,Gore Vest R,mhxx-dex-1.0+mhxx-save-format-community,6
+476,千刃龙S铠甲,Regios Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+477,千刃龙S轻甲,Regios Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+478,尾锤龙铠甲,Duramboros Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+479,尾锤龙轻甲,Duramboros Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+480,轰龙S铠甲,Tigrex Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+481,轰龙S轻甲,Tigrex Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+482,EX轰龙铠甲,EX Tigrex Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+483,EX轰龙轻甲,EX Tigrex Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+484,轰龙R铠甲,Tigrex Mail R,mhxx-dex-1.0+mhxx-save-format-community,6
+485,轰龙R轻甲,Tigrex Vest R,mhxx-dex-1.0+mhxx-save-format-community,6
+486,麒麟S服饰,Kirin Jacket S,mhxx-dex-1.0+mhxx-save-format-community,6
+487,麒麟S披肩,Kirin Cape S,mhxx-dex-1.0+mhxx-save-format-community,6
+488,麒麟R服饰,Kirin Jacket R,mhxx-dex-1.0+mhxx-save-format-community,6
+489,麒麟R披肩,Kirin Cape R,mhxx-dex-1.0+mhxx-save-format-community,6
+490,碎龙S铠甲,Brachydios Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+491,碎龙S轻甲,Brachydios Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+492,EX碎龙铠甲,EX Brachydios Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+493,EX碎龙轻甲,EX Brachydios Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+494,金色羽织,Golden Haori,mhxx-dex-1.0+mhxx-save-format-community,6
+495,黑衣装束,Puppeteer Suit,mhxx-dex-1.0+mhxx-save-format-community,6
+496,恐暴龙铠甲,Vangis Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+497,恐暴龙轻甲,Vangis Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+498,公会骑士服装,Guild Knight Suit,mhxx-dex-1.0+mhxx-save-format-community,6
+499,公会骑士服饰,Guild Knight Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+500,女仆S服装,Maiden's Suit S,mhxx-dex-1.0+mhxx-save-format-community,6
+501,休闲S服饰,French Maid Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+502,公会守卫蓝服装,Blue Guild Suit,mhxx-dex-1.0+mhxx-save-format-community,6
+503,公会守卫蓝服饰,Blue Guild Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+504,公会守卫红服装,Red Guild Suit,mhxx-dex-1.0+mhxx-save-format-community,6
+505,公会守卫红服饰,Red Guild Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+506,支援者S服装,Helper Suit S,mhxx-dex-1.0+mhxx-save-format-community,6
+507,治疗者S服饰,Healer Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+508,支援者U服装,Helper Suit U,mhxx-dex-1.0+mhxx-save-format-community,6
+509,治疗者U服饰,Healer Vest U,mhxx-dex-1.0+mhxx-save-format-community,6
+510,公会诗人S服装,Guild Bard Bolero S,mhxx-dex-1.0+mhxx-save-format-community,6
+511,公会诗人S服饰,Guild Bard Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+512,三眼吊饰,Chakra Necklace,mhxx-dex-1.0+mhxx-save-format-community,6
+515,抚子･华【花衣】,Dianthus Wealcoat,mhxx-dex-1.0+mhxx-save-format-community,6
+516,桔梗･华【花衣】,Campanile Wealcoat,mhxx-dex-1.0+mhxx-save-format-community,6
+517,王牌铠甲,Ace Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+518,王牌轻甲,Ace Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+519,女王铠甲,Sororal Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+520,女王轻甲,Sororal Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+521,猎鹰服装,Hawksuit,mhxx-dex-1.0+mhxx-save-format-community,6
+522,猎鹰服饰,Hawkjacket,mhxx-dex-1.0+mhxx-save-format-community,6
+523,美食喵S服装,Gourmew Suit S,mhxx-dex-1.0+mhxx-save-format-community,6
+524,美食喵S服饰,Gourmew Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+526,贤者S服装,Scholarly Suit S,mhxx-dex-1.0+mhxx-save-format-community,6
+527,贤者S服饰,Scholarly Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+528,城塞游击队【短衣】,Ranger's Girdle,mhxx-dex-1.0+mhxx-save-format-community,6
+529,城塞弓击队【短衣】,Archer's Girdle,mhxx-dex-1.0+mhxx-save-format-community,6
+530,忍者装束･天,Shinobi Heaven Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+531,忍者装束･地,Shinobi Land Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+532,忍者装束･空,Shinobi Sky Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+533,忍者装束･海,Shinobi Sea Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+534,龙历士铠甲,Ancient Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+535,龙历士轻甲,Ancient Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+536,大师铠甲,Master's Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+537,大师轻甲,Master's Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+538,黑色S皮甲,Black Hide S,mhxx-dex-1.0+mhxx-save-format-community,7
+539,黑色S甲皮,Black Skin S,mhxx-dex-1.0+mhxx-save-format-community,7
+540,桐花【铠衣】,Toka Doate,mhxx-dex-1.0+mhxx-save-format-community,7
+541,三葵【铠衣】,Mitsuaoi Doate,mhxx-dex-1.0+mhxx-save-format-community,7
+542,EX雌火龙S铠甲,EX Rathian Mail S,mhxx-dex-1.0+mhxx-save-format-community,7
+543,EX雌火龙S轻甲,EX Rathian Vest S,mhxx-dex-1.0+mhxx-save-format-community,7
+544,EX火龙S铠甲,EX Rathalos Mail S,mhxx-dex-1.0+mhxx-save-format-community,7
+545,EX火龙S轻甲,EX Rathalos Vest S,mhxx-dex-1.0+mhxx-save-format-community,7
+546,EX轰龙S铠甲,EX Tigrex Mail S,mhxx-dex-1.0+mhxx-save-format-community,7
+547,EX轰龙S轻甲,EX Tigrex Vest S,mhxx-dex-1.0+mhxx-save-format-community,7
+548,方舟S铠甲,Arc Mail S,mhxx-dex-1.0+mhxx-save-format-community,7
+549,友爱S铠甲,Storge Mail S,mhxx-dex-1.0+mhxx-save-format-community,7
+550,方舟S轻甲,Arc Vest S,mhxx-dex-1.0+mhxx-save-format-community,7
+551,友爱S轻甲,Storge Vest S,mhxx-dex-1.0+mhxx-save-format-community,7
+552,EX方舟铠甲,EX Arc Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+553,EX友爱铠甲,EX Storge Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+554,EX方舟轻甲,EX Arc Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+555,EX友爱轻甲,EX Storge Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+556,方舟R铠甲,Arc Mail R,mhxx-dex-1.0+mhxx-save-format-community,7
+557,友爱R铠甲,Storge Mail R,mhxx-dex-1.0+mhxx-save-format-community,7
+558,方舟R轻甲,Arc Vest R,mhxx-dex-1.0+mhxx-save-format-community,7
+559,友爱R轻甲,Storge Vest R,mhxx-dex-1.0+mhxx-save-format-community,7
+560,钢龙S恐惧,Kushala Cista S,mhxx-dex-1.0+mhxx-save-format-community,7
+561,钢龙S复仇,Kushala Vise S,mhxx-dex-1.0+mhxx-save-format-community,7
+562,EX钢龙恐惧,EX Kushala Cista,mhxx-dex-1.0+mhxx-save-format-community,7
+563,EX钢龙复仇,EX Kushala Vise,mhxx-dex-1.0+mhxx-save-format-community,7
+564,钢龙R恐惧,Kushala Cista R,mhxx-dex-1.0+mhxx-save-format-community,7
+565,钢龙R复仇,Kushala Vise R,mhxx-dex-1.0+mhxx-save-format-community,7
+566,水行霸【胸甲】,Mizuha Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
+567,丰玉霸【胸甲】,Cham Camise S,mhxx-dex-1.0+mhxx-save-format-community,7
+568,EX水行【胸甲】,EX Mizuha Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+569,EX丰玉【胸甲】,EX Cham Camise,mhxx-dex-1.0+mhxx-save-format-community,7
+570,帝王S铠甲,Kaiser Mail S,mhxx-dex-1.0+mhxx-save-format-community,7
+571,帝王S轻甲,Kaiser Vest S,mhxx-dex-1.0+mhxx-save-format-community,7
+572,EX帝王铠甲,EX Kaiser Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+573,EX帝王轻甲,EX Kaiser Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+574,银白耀日铠甲,Silver Solmail,mhxx-dex-1.0+mhxx-save-format-community,7
+575,银白耀日轻甲,Silver Solvest,mhxx-dex-1.0+mhxx-save-format-community,7
+576,EX银白耀日铠甲,EX Silver Solmail,mhxx-dex-1.0+mhxx-save-format-community,7
+577,EX银白耀日轻甲,EX Silver Solvest,mhxx-dex-1.0+mhxx-save-format-community,7
+578,银白耀日R铠甲,Silver Solmail R,mhxx-dex-1.0+mhxx-save-format-community,7
+579,银白耀日R轻甲,Silver Solvest R,mhxx-dex-1.0+mhxx-save-format-community,7
+580,金黄澄月铠甲,Golden Lunemail,mhxx-dex-1.0+mhxx-save-format-community,7
+581,金黄澄月轻甲,Golden Lunevest,mhxx-dex-1.0+mhxx-save-format-community,7
+582,EX金黄澄月铠甲,EX Golden Lunemail,mhxx-dex-1.0+mhxx-save-format-community,7
+583,EX金黄澄月轻甲,EX Golden Lunevest,mhxx-dex-1.0+mhxx-save-format-community,7
+584,怒天羽织,Divine Ire Haori,mhxx-dex-1.0+mhxx-save-format-community,7
+585,心灭装束,Crusher Garb,mhxx-dex-1.0+mhxx-save-format-community,7
+586,贪婪铠甲,Esurient Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+587,贪婪轻甲,Esurient Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+588,贪婪R铠甲,Esurient Mail R,mhxx-dex-1.0+mhxx-save-format-community,7
+589,贪婪R轻甲,Esurient Vest R,mhxx-dex-1.0+mhxx-save-format-community,7
+590,霸龙破坏者,Akantor Aegis,mhxx-dex-1.0+mhxx-save-format-community,7
+591,霸龙恶霸,Akantor Plate,mhxx-dex-1.0+mhxx-save-format-community,7
+592,霸龙R破坏者,Akantor Aegis R,mhxx-dex-1.0+mhxx-save-format-community,7
+593,霸龙R恶霸,Akantor Plate R,mhxx-dex-1.0+mhxx-save-format-community,7
+594,崩龙破坏者,Ukanlos Aegis,mhxx-dex-1.0+mhxx-save-format-community,7
+595,崩龙恶霸,Ukanlos Plate,mhxx-dex-1.0+mhxx-save-format-community,7
+596,荒天【衣】,Tempest Robe,mhxx-dex-1.0+mhxx-save-format-community,7
+597,苍天【衣】,Welkin Robe,mhxx-dex-1.0+mhxx-save-format-community,7
+598,荒天亚流【衣】,Tempest Robe R,mhxx-dex-1.0+mhxx-save-format-community,7
+599,苍天亚流【衣】,Welkin Robe R,mhxx-dex-1.0+mhxx-save-format-community,7
+600,骸装甲･霸【胸骨】,Skeletal Sternum R,mhxx-dex-1.0+mhxx-save-format-community,7
+601,尸装甲･霸【胸骨】,Decayed Sternum R,mhxx-dex-1.0+mhxx-save-format-community,7
+602,苍星服装,Astral Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+603,苍星服饰,Astral Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+604,煌黑龙灵魂,Escadora Soul,mhxx-dex-1.0+mhxx-save-format-community,7
+605,煌黑龙之魂,Escadora Seele,mhxx-dex-1.0+mhxx-save-format-community,7
+606,煌黑龙R灵魂,Escadora Soul R,mhxx-dex-1.0+mhxx-save-format-community,7
+607,煌黑龙R之魂,Escadora Seele R,mhxx-dex-1.0+mhxx-save-format-community,7
+615,异形铠甲,Strange Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+616,异形轻甲,Strange Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+617,红盔铠甲,Redhelm Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+618,红盔轻甲,Redhelm Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+619,大雪主铠甲,Snowbaron Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+620,大雪主轻甲,Snowbaron Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+621,矛碎铠甲,Stonefist Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+622,矛碎轻甲,Stonefist Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+623,紫毒姬铠甲,Dreadqueen Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+624,紫毒姬轻甲,Dreadqueen Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+625,岩穿铠甲,Drilltusk Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+626,岩穿轻甲,Drilltusk Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+627,白疾风铠甲,Silverwind Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+628,白疾风轻甲,Silverwind Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+629,宝缠铠甲,Crystalbeard Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+630,宝缠轻甲,Crystalbeard Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+631,独眼铠甲,Deadeye Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+632,独眼轻甲,Deadeye Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+633,黑炎王铠甲,Dreadking Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+634,黑炎王轻甲,Dreadking Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+635,金雷公铠甲,Thunderlord Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+636,金雷公轻甲,Thunderlord Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+637,荒钩爪铠甲,Grimclaw Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+638,荒钩爪轻甲,Grimclaw Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+639,烬灭刃铠甲,Hellblade Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+640,烬灭刃轻甲,Hellblade Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+646,X巨兽外套,X Gammoth Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+647,X巨兽运动衫,X Gammoth Jersey,mhxx-dex-1.0+mhxx-save-format-community,5
+648,X泡狐龙外套,X Mizutsune Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+649,X泡狐龙运动衫,X Mizutsune Jersey,mhxx-dex-1.0+mhxx-save-format-community,5
+650,X斩龙外套,X Dino Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+651,X斩龙运动衫,X Dino Jersey,mhxx-dex-1.0+mhxx-save-format-community,5
+652,X电龙外套,X Astalos Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+653,X电龙运动衫,X Astalos Jersey,mhxx-dex-1.0+mhxx-save-format-community,5
+654,坊屋外套,Booyah Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+655,坊屋运动夹克,Booyah Bomber,mhxx-dex-1.0+mhxx-save-format-community,5
+656,武装战线外套,Biker Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+657,武装战线皮夹克,Biker Leather,mhxx-dex-1.0+mhxx-save-format-community,5
+658,地上最强的上装,Ultimate Garb,mhxx-dex-1.0+mhxx-save-format-community,7
+659,地上最强的上衣,Ultimate Attire,mhxx-dex-1.0+mhxx-save-format-community,7
+660,王者的身躯,Champion's Body,mhxx-dex-1.0+mhxx-save-format-community,7
+661,强者的身躯,Strongman's Body,mhxx-dex-1.0+mhxx-save-format-community,7
+662,星灵铠甲,Zodias Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+663,星灵轻甲,Zodias Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+664,海盗J服装,Pirate Suit J,mhxx-dex-1.0+mhxx-save-format-community,6
+665,海盗J外套,Pirate Jacket J,mhxx-dex-1.0+mhxx-save-format-community,6
+666,大海盗J服装,Buccaneer Suit J,mhxx-dex-1.0+mhxx-save-format-community,6
+667,大海盗J外套,Buccaneer Jacket J,mhxx-dex-1.0+mhxx-save-format-community,6
+668,电衣库外套,Dynaqlo Coat,mhxx-dex-1.0+mhxx-save-format-community,6
+669,电衣库夹克,Dynaqlo Jacket,mhxx-dex-1.0+mhxx-save-format-community,6
+670,Promising Plate,Promising Plate,mhxx-save-format-community-en-fallback,0
+671,Halcyon Plate,Halcyon Plate,mhxx-save-format-community-en-fallback,0
+672,Blue Star Suit,Blue Star Suit,mhxx-save-format-community-en-fallback,0
+673,Blue Star Jacket,Blue Star Jacket,mhxx-save-format-community-en-fallback,0
+674,Star Rook Mail,Star Rook Mail,mhxx-save-format-community-en-fallback,0
+675,Star Rook Vest,Star Rook Vest,mhxx-save-format-community-en-fallback,0
+676,Star Knight Mail,Star Knight Mail,mhxx-save-format-community-en-fallback,0
+677,Star Knight Vest,Star Knight Vest,mhxx-save-format-community-en-fallback,0
+678,Nisetama Suit,Nisetama Suit,mhxx-save-format-community-en-fallback,0
+679,Nisetama Body,Nisetama Body,mhxx-save-format-community-en-fallback,0
+680,Nisetama Suit S,Nisetama Suit S,mhxx-save-format-community-en-fallback,0
+681,Nisetama Body S,Nisetama Body S,mhxx-save-format-community-en-fallback,0
+682,勇者服,Hero's Clothes,mhxx-dex-1.0+mhxx-save-format-community,7
+683,勇者衣,Hero's Tunic,mhxx-dex-1.0+mhxx-save-format-community,7
+684,防护服护甲,Varia Suit Armor,mhxx-dex-1.0+mhxx-save-format-community,6
+685,防护服屏障,Varia Suit Barrier,mhxx-dex-1.0+mhxx-save-format-community,6
+686,零装甲衣装,Zero Suit Body,mhxx-dex-1.0+mhxx-save-format-community,6
+687,零装甲衣服,Zero Suit Wear,mhxx-dex-1.0+mhxx-save-format-community,6
+688,狂怒铠甲,Mail of Rage,mhxx-dex-1.0+mhxx-save-format-community,7
+689,狂怒轻甲,Vest of Rage,mhxx-dex-1.0+mhxx-save-format-community,7
+690,女神铠甲,Mail of Anat,mhxx-dex-1.0+mhxx-save-format-community,7
+691,女神轻甲,Vest of Anat,mhxx-dex-1.0+mhxx-save-format-community,7
+692,狩猎战线外套,Rider Jacket,mhxx-dex-1.0+mhxx-save-format-community,5
+693,狩猎战线皮夹克,Rider Leather,mhxx-dex-1.0+mhxx-save-format-community,5
+694,南瓜枝干,Mosgharl Ribplate,mhxx-dex-1.0+mhxx-save-format-community,2
+695,南瓜枝部,Mosgharl Ribguard,mhxx-dex-1.0+mhxx-save-format-community,2
+696,巨兽铠甲,Gammoth Mail,mhxx-dex-1.0+mhxx-save-format-community,3
+697,巨兽轻甲,Gammoth Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+698,美食喵服装,Gourmew Suit,mhxx-dex-1.0+mhxx-save-format-community,3
+699,美食喵服饰,Gourmew Vest,mhxx-dex-1.0+mhxx-save-format-community,3
+700,皮制S轻甲,Leather Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+701,锁甲S轻甲,Chainmail Vest S,mhxx-dex-1.0+mhxx-save-format-community,4
+702,南瓜S枝干,Mosgharl Ribplate S,mhxx-dex-1.0+mhxx-save-format-community,4
+703,南瓜S枝部,Mosgharl Ribguard S,mhxx-dex-1.0+mhxx-save-format-community,4
+704,巨兽S铠甲,Gammoth Mail S,mhxx-dex-1.0+mhxx-save-format-community,6
+705,巨兽S轻甲,Gammoth Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+706,公会守卫蓝服装,Blue Guild Suit,mhxx-dex-1.0+mhxx-save-format-community,6
+707,公会守卫蓝服饰,Blue Guild Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+708,公会守卫红服装,Red Guild Suit,mhxx-dex-1.0+mhxx-save-format-community,6
+709,公会守卫红服饰,Red Guild Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+710,美食喵S服装,Gourmew Suit S,mhxx-dex-1.0+mhxx-save-format-community,6
+711,美食喵S服饰,Gourmew Vest S,mhxx-dex-1.0+mhxx-save-format-community,6
+712,Promising Archplate,Promising Archplate,mhxx-save-format-community-en-fallback,0
+713,Halcyon Archplate,Halcyon Archplate,mhxx-save-format-community-en-fallback,0
+714,Lucid Robe,Lucid Robe,mhxx-save-format-community-en-fallback,0
+715,Dreamy Robe,Dreamy Robe,mhxx-save-format-community-en-fallback,0
+716,Lucid Archrobe,Lucid Archrobe,mhxx-save-format-community-en-fallback,0
+717,Dreamy Archrobe,Dreamy Archrobe,mhxx-save-format-community-en-fallback,0
+718,桃毛兽王铠甲,Conga Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+719,桃毛兽王轻甲,Conga Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+720,白速龙套装衣装,Giaprey Body,mhxx-dex-1.0+mhxx-save-format-community,4
+721,白速龙套装衣服,Giaprey Wear,mhxx-dex-1.0+mhxx-save-format-community,4
+722,土砂龙铠甲,Barroth Mail,mhxx-dex-1.0+mhxx-save-format-community,4
+723,土砂龙轻甲,Barroth Vest,mhxx-dex-1.0+mhxx-save-format-community,4
+724,岩龙铠甲,Basarios Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+725,岩龙轻甲,Basarios Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+726,影蜘蛛铠甲,Nerscylla Mail,mhxx-dex-1.0+mhxx-save-format-community,5
+727,影蜘蛛轻甲,Nerscylla Vest,mhxx-dex-1.0+mhxx-save-format-community,5
+728,冰牙龙铠甲,Barioth Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+729,冰牙龙轻甲,Barioth Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+730,铠龙铠甲,Gravios Mail,mhxx-dex-1.0+mhxx-save-format-community,6
+731,铠龙轻甲,Gravios Vest,mhxx-dex-1.0+mhxx-save-format-community,6
+732,活泼服装,Cheerful Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+733,活泼服饰,Cheerful Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+734,海歌服装,Mariner Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+735,海歌服饰,Mariner Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+738,角龙铠甲,Diablos Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+739,角龙轻甲,Diablos Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+740,角龙R铠甲,Diablos Mail R,mhxx-dex-1.0+mhxx-save-format-community,7
+741,角龙R轻甲,Diablos Vest R,mhxx-dex-1.0+mhxx-save-format-community,7
+742,天彗龙铠甲,Valstrax Mail,mhxx-dex-1.0+mhxx-save-format-community,7
+743,天彗龙轻甲,Valstrax Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+744,聪慧服装,Wisdom Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+745,聪慧服饰,Wisdom Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+751,贝鲁纳X铠甲,Bherna Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+752,贝鲁纳X轻甲,Bherna Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+753,狩猎X铠甲,Hunting Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+754,狩猎X轻甲,Hunting Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+755,毛皮X服装,Mafumofu Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+756,毛皮X外套,Mafumofu Jacket X,mhxx-dex-1.0+mhxx-save-format-community,8
+757,结云之道服･极天,Yukumo Sky Dogi Goku,mhxx-dex-1.0+mhxx-save-format-community,8
+758,结云之道服･极地,Yukumo Land Dogi Goku,mhxx-dex-1.0+mhxx-save-format-community,8
+759,垂皮龙X披风,Slagtoth Cloak X,mhxx-dex-1.0+mhxx-save-format-community,8
+760,垂皮龙X披肩,Slagtoth Wrap X,mhxx-dex-1.0+mhxx-save-format-community,8
+763,蓝速龙套装X衣装,Velociprey Body X,mhxx-dex-1.0+mhxx-save-format-community,8
+764,蓝速龙套装X衣服,Velociprey Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+765,黄速龙套装X衣装,Genprey Body X,mhxx-dex-1.0+mhxx-save-format-community,8
+766,黄速龙套装X衣服,Genprey Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+767,红速龙套装X衣装,Ioprey Body X,mhxx-dex-1.0+mhxx-save-format-community,8
+768,红速龙套装X衣服,Ioprey Wear X,mhxx-dex-1.0+mhxx-save-format-community,8
+769,蛇龙套装X衣装,Remobra Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+770,蛇龙套装X衣服,Remobra Wear X,mhxx-dex-1.0+mhxx-save-format-community,8
+773,蘑菇猪X身躯,Mosswine Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+774,硬甲龙X铠甲,Rhenoplos Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+775,硬甲龙X轻甲,Rhenoplos Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+776,狗龙X铠甲,Jaggi Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+777,狗龙X轻甲,Jaggi Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+780,水生兽X铠甲,Droth Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+781,水生兽X轻甲,Droth Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+782,熔岩兽X铠甲,Uroktor Torso X,mhxx-dex-1.0+mhxx-save-format-community,8
+783,熔岩兽X轻甲,Uroktor Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+784,跳狗龙X铠甲,Maccao Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+785,跳狗龙X轻甲,Maccao Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+786,蓝速龙X铠甲,Velociprey Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+787,蓝速龙X轻甲,Velociprey Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+788,白速龙X铠甲,Giaprey Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+789,白速龙X轻甲,Giaprey Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+790,黄速龙X铠甲,Genprey Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+791,黄速龙X轻甲,Genprey Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+792,红速龙X铠甲,Ioprey Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+793,红速龙X轻甲,Ioprey Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+794,巨蜂X铠甲,Vespoid Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+795,巨蜂X轻甲,Vespoid Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+796,巨甲虫X铠甲,Hornetaur Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+797,巨甲虫X轻甲,Hornetaur Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+798,飞甲虫X服装,Bnahabra Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+799,飞甲虫X服饰,Bnahabra Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+802,野猪X铠甲,Bulldrome Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+803,野猪X轻甲,Bulldrome Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+805,青熊兽X铠甲,Arzuros Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+806,青熊兽X轻甲,Arzuros Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+807,砂龙X铠甲,Cephalos Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+808,砂龙X轻甲,Cephalos Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+809,怪鸟X铠甲,Kut-Ku Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+810,怪鸟X轻甲,Kut-Ku Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+811,奇猿狐X铠甲,Kecha Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+812,奇猿狐X轻甲,Kecha Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+813,白兔兽X铠甲,Lagombi Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+814,白兔兽X轻甲,Lagombi Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+815,毒怪鸟X铠甲,Gypceros Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+816,毒怪鸟X轻甲,Gypceros Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+817,鬼蛙X铠甲,Tetsucabra Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+818,鬼蛙X轻甲,Tetsucabra Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+819,大名盾蟹X铠甲,Hermitaur Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+820,大名盾蟹X轻甲,Hermitaur Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+821,水兽X铠甲,Ludroth Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+822,水兽X轻甲,Ludroth Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+823,美食喵X服装,Gourmew Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+824,美食喵X服饰,Gourmew Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+825,美食喵X服装,Gourmew Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+826,美食喵X服饰,Gourmew Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+827,云羊鹿X服装,Moofah Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+828,云羊鹿X外套,Moofah Jacket X,mhxx-dex-1.0+mhxx-save-format-community,8
+829,雪绒花X枝干,Edel Ribplate X,mhxx-dex-1.0+mhxx-save-format-community,8
+830,雪绒花X枝部,Edel Ribguard X,mhxx-dex-1.0+mhxx-save-format-community,8
+831,橡子X铠甲,Acorn Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+832,橡子X轻甲,Acorn Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+833,死神X肌肉,Death Stench Muscle X,mhxx-dex-1.0+mhxx-save-format-community,8
+834,死神X心脏,Death Stench Heart X,mhxx-dex-1.0+mhxx-save-format-community,8
+835,毒蝎X上身,Skalda Thorax X,mhxx-dex-1.0+mhxx-save-format-community,8
+836,毒蝎X前胸,Skalda Pleuron X,mhxx-dex-1.0+mhxx-save-format-community,8
+837,毒蛛X上身,Spio Thorax X,mhxx-dex-1.0+mhxx-save-format-community,8
+838,毒蛛X前胸,Spio Pleuron X,mhxx-dex-1.0+mhxx-save-format-community,8
+839,猎人XR铠甲,Hunter's Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+840,猎人XR轻甲,Hunter's Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+841,赤甲兽X铠甲,Volvidon Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+842,赤甲兽X轻甲,Volvidon Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+843,桃毛兽王X铠甲,Conga Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+844,桃毛兽王X轻甲,Conga Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+845,土砂龙X铠甲,Barroth Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+846,土砂龙X轻甲,Barroth Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+847,岩龙X铠甲,Basarios Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+848,岩龙X轻甲,Basarios Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+849,夜鸟X铠甲,Malfestio Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+850,夜鸟X轻甲,Malfestio Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+851,变形冰鲨X铠甲,Zamtrios Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+852,变形冰鲨X轻甲,Zamtrios Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+853,白电X铠甲,Khezu Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+854,白电X轻甲,Khezu Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+855,影蜘蛛X铠甲,Nerscylla Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+856,影蜘蛛X轻甲,Nerscylla Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+857,雌火龙X铠甲,Rathian Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+858,雌火龙X轻甲,Rathian Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+859,潜口龙X铠甲,Nibelsnarf Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+860,潜口龙X轻甲,Nibelsnarf Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+861,水龙X铠甲,Plesioth Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+862,水龙X轻甲,Plesioth Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+863,雪狮子X铠甲,Blango Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+864,雪狮子X轻甲,Blango Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+865,将军镰蟹X铠甲,Ceanataur Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+866,将军镰蟹X轻甲,Ceanataur Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+867,绞蛇龙X铠甲,Najarala Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+868,绞蛇龙X轻甲,Najarala Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+869,迅龙X铠甲,Nargacuga Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+870,迅龙X轻甲,Nargacuga Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+871,毒怪鸟XR铠甲,Gypceros Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+872,毒怪鸟XR轻甲,Gypceros Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+873,大名盾蟹XR铠甲,Hermitaur Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+874,大名盾蟹XR轻甲,Hermitaur Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+875,水兽XR铠甲,Ludroth Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+876,水兽XR轻甲,Ludroth Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+877,异形X铠甲,Strange Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+878,异形X轻甲,Strange Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+879,厨师X服装,Bistro Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+880,厨师X服饰,Bistro Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+881,求知X服装,Lecturer's Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+882,求知X服饰,Lecturer's Jacket X,mhxx-dex-1.0+mhxx-save-format-community,8
+883,糕点师X服装,Patissier's Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+884,糕点师X服饰,Patissier's Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+885,最高级泡澡上身,Posh Bath Robe,mhxx-dex-1.0+mhxx-save-format-community,8
+886,女仆X服装,Maiden's Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+887,休闲X服饰,French Maid Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+888,抚子･雅【花衣】,Dianthus Masajacket,mhxx-dex-1.0+mhxx-save-format-community,8
+889,桔梗･雅【花衣】,Campanile Masajacket,mhxx-dex-1.0+mhxx-save-format-community,8
+890,GX桃毛兽王铠甲,Conga Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+891,GX桃毛兽王轻甲,Conga Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+892,合金XR铠甲,Alloy Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+893,合金XR轻甲,Alloy Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+894,铸铁XR铠甲,Ingot Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+895,铸铁XR轻甲,Ingot Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+896,机械X铠甲,Artian Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+897,机械X轻甲,Artian Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+898,龙虾X壳,Lobster Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+899,龙虾X甲皮,Lobster Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+900,白电XR铠甲,Khezu Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+901,白电XR轻甲,Khezu Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+902,将军镰蟹XR铠甲,Ceanataur Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+903,将军镰蟹XR轻甲,Ceanataur Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+904,雌火龙XR铠甲,Rathian Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+905,雌火龙XR轻甲,Rathian Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+906,熔岩龙X铠甲,Lava Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+907,熔岩龙X轻甲,Lava Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+908,黑狼鸟X铠甲,Garuga Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+909,黑狼鸟X轻甲,Garuga Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+910,爆锤龙X铠甲,Uragaan Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+911,爆锤龙X轻甲,Uragaan Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+912,冰牙龙X铠甲,Barioth Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+913,冰牙龙X轻甲,Barioth Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+914,重甲虫X铠甲,Seltas Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+915,重甲虫X轻甲,Seltas Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+916,火龙X铠甲,Rathalos Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+917,火龙X轻甲,Rathalos Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+918,海龙X铠甲,Lagiacrus Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+919,海龙X轻甲,Lagiacrus Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+920,雷狼龙X铠甲,Zinogre Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+921,雷狼龙X轻甲,Zinogre Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+922,铠龙X铠甲,Gravios Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+923,铠龙X轻甲,Gravios Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+924,泡狐龙X铠甲,Mizutsune Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+925,泡狐龙X轻甲,Mizutsune Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+926,电龙X铠甲,Astalos Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+927,电龙X轻甲,Astalos Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+928,巨兽X铠甲,Gammoth Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+929,巨兽X轻甲,Gammoth Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+930,斩龙X铠甲,Glavenus Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+931,斩龙X轻甲,Glavenus Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+932,黑蚀龙X铠甲,Gore Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+933,黑蚀龙X轻甲,Gore Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+934,麒麟X服饰,Kirin Jacket X,mhxx-dex-1.0+mhxx-save-format-community,9
+935,麒麟X披肩,Kirin Cape X,mhxx-dex-1.0+mhxx-save-format-community,9
+936,麒麟XR服饰,Kirin Jacket XR,mhxx-dex-1.0+mhxx-save-format-community,9
+937,麒麟XR披肩,Kirin Cape XR,mhxx-dex-1.0+mhxx-save-format-community,9
+938,晓丸【铠衣】,Auroros Torso,mhxx-dex-1.0+mhxx-save-format-community,10
+939,凛【胸甲】,Borealis Chest,mhxx-dex-1.0+mhxx-save-format-community,10
+940,曙丸【铠衣】,Genesis Torso,mhxx-dex-1.0+mhxx-save-format-community,10
+941,艳【胸甲】,Glyph Chest,mhxx-dex-1.0+mhxx-save-format-community,10
+942,GX晓丸【铠衣】,Auroros Torso GX,mhxx-dex-1.0+mhxx-save-format-community,10
+943,GX凛【胸甲】,Borealis Chest GX,mhxx-dex-1.0+mhxx-save-format-community,10
+944,GX曙丸【铠衣】,Genesis Torso GX,mhxx-dex-1.0+mhxx-save-format-community,10
+945,GX艳【胸甲】,Glyph Chest GX,mhxx-dex-1.0+mhxx-save-format-community,10
+946,晓丸战流【铠衣】,Auroros Torso XR,mhxx-dex-1.0+mhxx-save-format-community,10
+947,凛战流【胸甲】,Borealis Chest XR,mhxx-dex-1.0+mhxx-save-format-community,10
+948,曙丸战流【铠衣】,Genesis Torso XR,mhxx-dex-1.0+mhxx-save-format-community,10
+949,艳战流【胸甲】,Glyph Chest XR,mhxx-dex-1.0+mhxx-save-format-community,10
+950,学士X服装,Scholar's Blouse X,mhxx-dex-1.0+mhxx-save-format-community,8
+951,学士X服饰,Scholar's Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+952,水手X服装,Sailor Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+953,水手X服饰,Sailor Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+954,猎鹰X服装,Hawksuit X,mhxx-dex-1.0+mhxx-save-format-community,8
+955,猎鹰X服饰,Hawkjacket X,mhxx-dex-1.0+mhxx-save-format-community,8
+956,贤者X服装,Scholarly Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+957,贤者X服饰,Scholarly Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+958,探究服装,Research Suit,mhxx-dex-1.0+mhxx-save-format-community,9
+959,探究服饰,Research Vest,mhxx-dex-1.0+mhxx-save-format-community,9
+960,火龙XR铠甲,Rathalos Mail XR,mhxx-dex-1.0+mhxx-save-format-community,9
+961,火龙XR轻甲,Rathalos Vest XR,mhxx-dex-1.0+mhxx-save-format-community,9
+962,海龙XR铠甲,Lagiacrus Mail XR,mhxx-dex-1.0+mhxx-save-format-community,9
+963,海龙XR轻甲,Lagiacrus Vest XR,mhxx-dex-1.0+mhxx-save-format-community,9
+964,黑蚀龙XR铠甲,Gore Mail XR,mhxx-dex-1.0+mhxx-save-format-community,9
+965,黑蚀龙XR轻甲,Gore Vest XR,mhxx-dex-1.0+mhxx-save-format-community,9
+966,炎戈龙X铠甲,Agnaktor Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+967,炎戈龙X轻甲,Agnaktor Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+968,千刃龙X铠甲,Regios Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+969,千刃龙X轻甲,Regios Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+970,尾锤龙X铠甲,Duramboros Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+971,尾锤龙X轻甲,Duramboros Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+972,轰龙X铠甲,Tigrex Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+973,轰龙X轻甲,Tigrex Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+974,轰龙XR铠甲,Tigrex Mail XR,mhxx-dex-1.0+mhxx-save-format-community,9
+975,轰龙XR轻甲,Tigrex Vest XR,mhxx-dex-1.0+mhxx-save-format-community,9
+976,角龙X铠甲,Diablos Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+977,角龙X轻甲,Diablos Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+978,角龙XR铠甲,Diablos Mail XR,mhxx-dex-1.0+mhxx-save-format-community,9
+979,角龙XR轻甲,Diablos Vest XR,mhxx-dex-1.0+mhxx-save-format-community,9
+980,碎龙X铠甲,Brachydios Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+981,碎龙X轻甲,Brachydios Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+982,方舟X铠甲,Arc Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+983,友爱X铠甲,Storge Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+984,方舟X轻甲,Arc Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+985,友爱X轻甲,Storge Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+986,方舟XR铠甲,Arc Mail XR,mhxx-dex-1.0+mhxx-save-format-community,9
+987,友爱XR铠甲,Storge Mail XR,mhxx-dex-1.0+mhxx-save-format-community,9
+988,方舟XR轻甲,Arc Vest XR,mhxx-dex-1.0+mhxx-save-format-community,9
+989,友爱XR轻甲,Storge Vest XR,mhxx-dex-1.0+mhxx-save-format-community,9
+990,天彗龙X铠甲,Valstrax Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+991,天彗龙X轻甲,Valstrax Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+992,齐天衣･真,Grand God's Peer Robe,mhxx-dex-1.0+mhxx-save-format-community,9
+993,仙师衣･真,Grand Hermit Robe,mhxx-dex-1.0+mhxx-save-format-community,9
+994,恐暴龙X铠甲,Vangis Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+995,恐暴龙X轻甲,Vangis Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+996,钢龙X恐惧,Kushala Cista X,mhxx-dex-1.0+mhxx-save-format-community,10
+997,钢龙X复仇,Kushala Vise X,mhxx-dex-1.0+mhxx-save-format-community,10
+998,钢龙XR恐惧,Kushala Cista XR,mhxx-dex-1.0+mhxx-save-format-community,10
+999,钢龙XR复仇,Kushala Vise XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1000,水行真【胸甲】,Grand Mizuha Guards,mhxx-dex-1.0+mhxx-save-format-community,10
+1001,丰玉真【胸甲】,Grand Cham Camise,mhxx-dex-1.0+mhxx-save-format-community,10
+1002,帝王X铠甲,Kaiser Mail X,mhxx-dex-1.0+mhxx-save-format-community,10
+1003,帝王X轻甲,Kaiser Vest X,mhxx-dex-1.0+mhxx-save-format-community,10
+1004,银白耀日Z铠甲,Silver Solmail Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1005,银白耀日Z轻甲,Silver Solvest Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1006,金黄澄月Z铠甲,Golden Lunemail Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1007,金黄澄月Z轻甲,Golden Lunevest Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1008,夜叉【羽衣】,Yaksha Raiment,mhxx-dex-1.0+mhxx-save-format-community,9
+1009,修罗【羽衣】,Carnage Raiment,mhxx-dex-1.0+mhxx-save-format-community,9
+1010,守护者X服装,Guardian Suit X,mhxx-dex-1.0+mhxx-save-format-community,9
+1011,守护者X服饰,Guardian Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1012,公会守卫X蓝服装,Blue Guild Suit X,mhxx-dex-1.0+mhxx-save-format-community,9
+1013,公会守卫X蓝服装,Blue Guild Suit X,mhxx-dex-1.0+mhxx-save-format-community,9
+1014,公会守卫X蓝服饰,Blue Guild Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1015,公会守卫X蓝服饰,Blue Guild Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1016,公会守卫X红服装,Red Guild Suit X,mhxx-dex-1.0+mhxx-save-format-community,9
+1017,公会守卫X红服装,Red Guild Suit X,mhxx-dex-1.0+mhxx-save-format-community,9
+1018,公会守卫X红服饰,Red Guild Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1019,公会守卫X红服饰,Red Guild Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1020,公会骑士X服装,G. Knight Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+1021,公会骑士X服饰,G. Knight Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1022,公会诗人X服装,Guild Bard Bolero X,mhxx-dex-1.0+mhxx-save-format-community,8
+1023,公会诗人X服饰,Guild Bard Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1024,王牌X铠甲,Ace Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1025,王牌X轻甲,Ace Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1026,女王X铠甲,Sororal Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1027,女王X轻甲,Sororal Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1028,忍者装束･极天,Shinobi Heaven Suit Goku,mhxx-dex-1.0+mhxx-save-format-community,9
+1029,忍者装束･极地,Shinobi Land Suit Goku,mhxx-dex-1.0+mhxx-save-format-community,9
+1030,王后铠甲,Kaiserin Mail,mhxx-dex-1.0+mhxx-save-format-community,9
+1031,王后轻甲,Kaiserin Vest,mhxx-dex-1.0+mhxx-save-format-community,9
+1032,酒吧主人服装,Barmaid's Suit,mhxx-dex-1.0+mhxx-save-format-community,9
+1033,酒吧主人服饰,Barmaid's Vest,mhxx-dex-1.0+mhxx-save-format-community,9
+1034,酒保服装,Barman's Suit,mhxx-dex-1.0+mhxx-save-format-community,9
+1035,酒保服饰,Barman's Vest,mhxx-dex-1.0+mhxx-save-format-community,9
+1036,太阳神X铠甲,Helios Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1037,月神X铠甲,Selene Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1038,太阳神X轻甲,Helios Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1039,月神X轻甲,Selene Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1040,城塞特攻队【短衣】,Strider's Girdle,mhxx-dex-1.0+mhxx-save-format-community,9
+1041,城塞隐蔽队【短衣】,Deadeye's Girdle,mhxx-dex-1.0+mhxx-save-format-community,9
+1042,花纹钢X铠甲,Damascus Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1043,花纹钢X轻甲,Damascus Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1044,混沌铠甲,Chaos Mail,mhxx-dex-1.0+mhxx-save-format-community,9
+1045,堕天铠甲,Nephilim Mail,mhxx-dex-1.0+mhxx-save-format-community,9
+1046,混沌轻甲,Chaos Vest,mhxx-dex-1.0+mhxx-save-format-community,9
+1047,堕天轻甲,Nephilim Vest,mhxx-dex-1.0+mhxx-save-format-community,9
+1048,怒天羽织･真,Grand Divine Ire Haori,mhxx-dex-1.0+mhxx-save-format-community,10
+1049,心灭装束･真,Grand Crusher Garb,mhxx-dex-1.0+mhxx-save-format-community,10
+1050,贪婪Z铠甲,Esurient Mail Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1051,贪婪Z轻甲,Esurient Vest Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1052,铁腕铠甲,Brachydium Mail,mhxx-dex-1.0+mhxx-save-format-community,10
+1053,铁腕轻甲,Brachydium Vest,mhxx-dex-1.0+mhxx-save-format-community,10
+1054,霸龙X破坏者,Akantor Aegis X,mhxx-dex-1.0+mhxx-save-format-community,10
+1055,霸龙X恶霸,Akantor Plate X,mhxx-dex-1.0+mhxx-save-format-community,10
+1056,霸龙XR破坏者,Akantor Aegis XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1057,霸龙XR恶霸,Akantor Plate XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1058,崩龙X破坏者,Ukanlos Aegis X,mhxx-dex-1.0+mhxx-save-format-community,10
+1059,崩龙X恶霸,Ukanlos Plate X,mhxx-dex-1.0+mhxx-save-format-community,10
+1060,荒天･真【衣】,Grand Tempest Robe,mhxx-dex-1.0+mhxx-save-format-community,10
+1061,苍天･真【衣】,Grand Welkin Robe,mhxx-dex-1.0+mhxx-save-format-community,10
+1062,骸装甲･真【胸骨】,Grand Skeletal Sternum,mhxx-dex-1.0+mhxx-save-format-community,10
+1063,尸装甲･真【胸骨】,Grand Decayed Sternum,mhxx-dex-1.0+mhxx-save-format-community,10
+1064,苍星X服装,Astral Suit X,mhxx-dex-1.0+mhxx-save-format-community,10
+1065,苍星X服饰,Astral Vest X,mhxx-dex-1.0+mhxx-save-format-community,10
+1066,王座亮铠,Neset Mail,mhxx-dex-1.0+mhxx-save-format-community,10
+1067,王座智甲,Neset Vest,mhxx-dex-1.0+mhxx-save-format-community,10
+1068,黑色X皮甲,Black Hide X,mhxx-dex-1.0+mhxx-save-format-community,9
+1069,黑色X甲皮,Black Skin X,mhxx-dex-1.0+mhxx-save-format-community,9
+1070,煌黑龙X灵魂,Escadora Soul X,mhxx-dex-1.0+mhxx-save-format-community,10
+1071,煌黑龙X之魂,Escadora Seele X,mhxx-dex-1.0+mhxx-save-format-community,10
+1072,煌黑龙XR灵魂,Escadora Soul XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1073,煌黑龙XR之魂,Escadora Seele XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1074,红龙皮甲,Fatalis Crimsonhide,mhxx-dex-1.0+mhxx-save-format-community,10
+1075,红龙甲皮,Fatalis Crimsonskin,mhxx-dex-1.0+mhxx-save-format-community,10
+1076,GX红龙皮甲,GX Fatalis Crimsonhide,mhxx-dex-1.0+mhxx-save-format-community,10
+1077,GX红龙甲皮,GX Fatalis Crimsonskin,mhxx-dex-1.0+mhxx-save-format-community,10
+1078,红龙XR皮甲,Fatalis Crimsonhide XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1079,红龙XR甲皮,Fatalis Crimsonskin XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1080,祖龙皮甲,Old Fatalis Hide,mhxx-dex-1.0+mhxx-save-format-community,10
+1081,祖龙甲皮,Old Fatalis Skin,mhxx-dex-1.0+mhxx-save-format-community,10
+1082,GX祖龙皮甲,GX Old Fatalis Hide,mhxx-dex-1.0+mhxx-save-format-community,10
+1083,GX祖龙甲皮,GX Old Fatalis Skin,mhxx-dex-1.0+mhxx-save-format-community,10
+1084,支援者X服装,Helper Suit X,mhxx-dex-1.0+mhxx-save-format-community,9
+1085,治疗者X服饰,Healer Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1086,龙历士X铠甲,Ancient Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1087,龙历士X轻甲,Ancient Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1088,大师X铠甲,Master's Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1089,大师X轻甲,Master's Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1090,桐花･真【铠衣】,Grand Toka Doate,mhxx-dex-1.0+mhxx-save-format-community,9
+1091,三葵･真【铠衣】,Grand Mitsuaoi Doate,mhxx-dex-1.0+mhxx-save-format-community,9
+1096,黑带X铠甲,Black Belt Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1097,黑带X轻甲,Black Belt Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1100,晓丸亚流【铠衣】,Auroros Torso R,mhxx-dex-1.0+mhxx-save-format-community,10
+1101,凛亚流【胸甲】,Borealis Chest R,mhxx-dex-1.0+mhxx-save-format-community,10
+1102,曙丸亚流【铠衣】,Genesis Torso R,mhxx-dex-1.0+mhxx-save-format-community,10
+1103,艳亚流【胸甲】,Glyph Chest R,mhxx-dex-1.0+mhxx-save-format-community,10
+1104,银白耀日XR铠甲,Silver Solmail XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1105,银白耀日XR轻甲,Silver Solvest XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1106,贪婪XR铠甲,Esurient Mail XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1107,贪婪XR轻甲,Esurient Vest XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1108,铠裂铠甲,Rustrazor Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+1109,铠裂轻甲,Rustrazor Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+1110,胧隐铠甲,Nightcloak Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+1111,胧隐轻甲,Nightcloak Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+1112,天眼铠甲,Soulseer Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+1113,天眼轻甲,Soulseer Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+1114,青电主铠甲,Boltreaver Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+1115,青电主轻甲,Boltreaver Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+1116,银峰铠甲,Elderfrost Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+1117,银峰轻甲,Elderfrost Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+1118,鏖魔铠甲,Bloodbath Mail,mhxx-dex-1.0+mhxx-save-format-community,11
+1119,鏖魔轻甲,Bloodbath Vest,mhxx-dex-1.0+mhxx-save-format-community,11
+1120,巨兽X铠甲,Gammoth Mail X,mhxx-dex-1.0+mhxx-save-format-community,9
+1121,巨兽X轻甲,Gammoth Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1122,GX黄速龙铠甲,Genprey Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1123,GX黄速龙轻甲,Genprey Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1124,GX红速龙铠甲,Ioprey Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1125,GX红速龙轻甲,Ioprey Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1126,GX巨蜂铠甲,Vespoid Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1127,GX巨蜂轻甲,Vespoid Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1128,巨甲虫XR铠甲,Hornetaur Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1129,巨甲虫XR轻甲,Hornetaur Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1130,GX巨甲虫铠甲,Hornetaur Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1131,GX巨甲虫轻甲,Hornetaur Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1132,GX砂龙铠甲,Cephalos Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1133,GX砂龙轻甲,Cephalos Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1134,GX大名盾蟹铠甲,Hermitaur Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1135,GX大名盾蟹轻甲,Hermitaur Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1136,GX雌火龙铠甲,Rathian Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1137,GX雌火龙轻甲,Rathian Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1138,GX将军镰蟹铠甲,Ceanataur Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1139,GX将军镰蟹轻甲,Ceanataur Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1140,GX雪狮子铠甲,Blango Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1141,GX雪狮子轻甲,Blango Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1142,GX黑蚀龙铠甲,Gore Mail GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1143,GX黑蚀龙轻甲,Gore Vest GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1144,GX雷狼龙铠甲,Zinogre Mail GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1145,GX雷狼龙轻甲,Zinogre Vest GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1146,GX轰龙铠甲,Tigrex Mail GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1147,GX轰龙轻甲,Tigrex Vest GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1148,GX碎龙铠甲,Brachydios Mail GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1149,GX碎龙轻甲,Brachydios Vest GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1150,GX火龙铠甲,Rathalos Mail GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1151,GX火龙轻甲,Rathalos Vest GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1152,GX方舟铠甲,Arc Mail GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1153,GX方舟轻甲,Arc Vest GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1154,GX友爱铠甲,Storge Mail GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1155,GX友爱轻甲,Storge Vest GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1156,GX钢龙恐惧,Kushala Cista GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1157,GX钢龙复仇,Kushala Vise GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1158,GX水行【胸甲】,Mizuha Guards GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1159,GX丰玉【胸甲】,Cham Camise GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1160,GX帝王铠甲,Kaiser Mail GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1161,GX帝王轻甲,Kaiser Vest GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1162,GX熔岩龙铠甲,Lavasioth Mail GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1163,GX熔岩龙轻甲,Lavasioth Vest GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1164,GX银白耀日铠甲,GX Silver Solmail,mhxx-dex-1.0+mhxx-save-format-community,10
+1165,GX银白耀日轻甲,GX Silver Solvest,mhxx-dex-1.0+mhxx-save-format-community,10
+1166,GX金黄澄月铠甲,GX Golden Lunemail,mhxx-dex-1.0+mhxx-save-format-community,10
+1167,GX金黄澄月轻甲,GX Golden Lunevest,mhxx-dex-1.0+mhxx-save-format-community,10
+1168,荒天战流【衣】,Tempest Robe XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1169,苍天战流【衣】,Welkin Robe XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1170,皮制X铠甲,Leather Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1171,皮制X轻甲,Leather Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1172,锁甲X铠甲,Chain Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1173,锁甲X轻甲,Chainmail Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1174,石架X服装,Loc Lac Shawl X,mhxx-dex-1.0+mhxx-save-format-community,8
+1175,猎人X铠甲,Hunter's Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1176,猎人X轻甲,Hunter's Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1177,骨制X铠甲,Bone Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1178,骨制X轻甲,Bone Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1179,杜宾X铠甲,Dober Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1180,杜宾X轻甲,Dober Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1181,合金X铠甲,Alloy Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1182,合金X轻甲,Alloy Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1183,铸铁X铠甲,Ingot Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1184,铸铁X轻甲,Ingot Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1185,花纹钢XR铠甲,Damascus Mail XR,mhxx-dex-1.0+mhxx-save-format-community,9
+1186,花纹钢XR轻甲,Damascus Vest XR,mhxx-dex-1.0+mhxx-save-format-community,9
+1187,战斗X铠甲,Battle Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1188,战斗X轻甲,Battle Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1189,矿石X铠甲,High Metal Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1190,矿石X轻甲,High Metal Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1191,矿石Z铠甲,High Metal Mail Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1192,矿石Z轻甲,High Metal Vest Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1193,南瓜X枝干,Mosgharl Ribplate X,mhxx-dex-1.0+mhxx-save-format-community,8
+1194,南瓜X枝部,Mosgharl Ribguard X,mhxx-dex-1.0+mhxx-save-format-community,8
+1195,南瓜X枝干,Mosgharl Ribplate X,mhxx-dex-1.0+mhxx-save-format-community,8
+1196,南瓜X枝部,Mosgharl Ribguard X,mhxx-dex-1.0+mhxx-save-format-community,8
+1197,独角仙X上身,Obituary Thorax X,mhxx-dex-1.0+mhxx-save-format-community,8
+1198,独角仙X前胸,Obituary Pleuron X,mhxx-dex-1.0+mhxx-save-format-community,8
+1199,燕尾蝶X上身,Butterfly Thorax X,mhxx-dex-1.0+mhxx-save-format-community,8
+1200,燕尾蝶X前胸,Butterfly Pleuron X,mhxx-dex-1.0+mhxx-save-format-community,8
+1201,锹形X上身,Aelucanth Thorax X,mhxx-dex-1.0+mhxx-save-format-community,8
+1202,锹形X前胸,Aelucanth Pleuron X,mhxx-dex-1.0+mhxx-save-format-community,8
+1203,凤蝶X上身,Rhopessa Thorax X,mhxx-dex-1.0+mhxx-save-format-community,8
+1204,凤蝶X前胸,Rhopessa Pleuron X,mhxx-dex-1.0+mhxx-save-format-community,8
+1205,海境X铠甲,Vaik Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1206,海境X轻甲,Vaik Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1207,守护者Z服装,Guardian Suit Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1208,守护者Z服饰,Guardian Vest Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1209,支援者Z服装,Helper Suit Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1210,治疗者Z服饰,Healer Vest Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1211,死神XR肌肉,Death Stench Muscle XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1212,死神XR心脏,Death Stench Heart XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1213,鱼鳞X洋装,Makluva Cover X,mhxx-dex-1.0+mhxx-save-format-community,8
+1214,鱼鳞X衣装,Makluva Scale X,mhxx-dex-1.0+mhxx-save-format-community,8
+1215,鱼鳞Z洋装,Makluva Cover Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1216,鱼鳞Z衣装,Makluva Scale Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1217,花瓣X枝干,Melahoa Jacket X,mhxx-dex-1.0+mhxx-save-format-community,8
+1218,花瓣X枝部,Melahoa Stalk X,mhxx-dex-1.0+mhxx-save-format-community,8
+1219,花瓣Z枝干,MelahoaFlowerJacketZ,mhxx-dex-1.0+mhxx-save-format-community,8
+1220,花瓣Z枝部,Melahoa Stalk Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1221,勇气X铠甲,Derring Mail X,mhxx-dex-1.0+mhxx-save-format-community,8
+1222,勇气X轻甲,Derring Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1223,GX北极星【上衣】,GX Kita Star Jacket,mhxx-dex-1.0+mhxx-save-format-community,8
+1224,GX海渊【上衣】,GX Umi Ocean Jacket,mhxx-dex-1.0+mhxx-save-format-community,8
+1225,混沌的铠･真,Grand Chaos Plate,mhxx-dex-1.0+mhxx-save-format-community,8
+1226,混沌的衣･真,Grand Chaos Brigandine,mhxx-dex-1.0+mhxx-save-format-community,8
+1227,聪慧X服装,Wisdom Suit X,mhxx-dex-1.0+mhxx-save-format-community,9
+1228,聪慧X服饰,Wisdom Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1229,活泼X服装,Cheerful Suit X,mhxx-dex-1.0+mhxx-save-format-community,9
+1230,活泼X服饰,Cheerful Vest X,mhxx-dex-1.0+mhxx-save-format-community,9
+1231,海歌X服装,Mariner Suit X,mhxx-dex-1.0+mhxx-save-format-community,8
+1232,海歌X服饰,Mariner Vest X,mhxx-dex-1.0+mhxx-save-format-community,8
+1241,白速龙套装X衣装,Giaprey Body X,mhxx-dex-1.0+mhxx-save-format-community,8
+1242,白速龙套装X衣服,Giaprey Wear X,mhxx-dex-1.0+mhxx-save-format-community,8
+1251,机械XR铠甲,Artian Mail XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1252,机械XR轻甲,Artian Vest XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1253,黑龙皮甲,Dragonhide,mhxx-dex-1.0+mhxx-save-format-community,10
+1254,黑龙甲皮,Dragonskin,mhxx-dex-1.0+mhxx-save-format-community,10
+1255,犯人服装,Criminal Suit,mhxx-dex-1.0+mhxx-save-format-community,9
+1256,犯人衣装,Criminal Body,mhxx-dex-1.0+mhxx-save-format-community,9
+1257,Gon Mail,Gon Mail,mhxx-save-format-community-en-fallback,0
+1258,Gon Vest,Gon Vest,mhxx-save-format-community-en-fallback,0
+1259,Arcfire Dogi,Arcfire Dogi,mhxx-save-format-community-en-fallback,0
+1260,Bonfire Dogi,Bonfire Dogi,mhxx-save-format-community-en-fallback,0
+1261,Waka Dogi,Waka Dogi,mhxx-save-format-community-en-fallback,0
+1262,Wagaku Dogi,Wagaku Dogi,mhxx-save-format-community-en-fallback,0
+1263,Ruler Arcfire Dogi,Ruler Arcfire Dogi,mhxx-save-format-community-en-fallback,0
+1264,Ruler Bonfire Dogi,Ruler Bonfire Dogi,mhxx-save-format-community-en-fallback,0
+1265,Ruler Waka Dogi,Ruler Waka Dogi,mhxx-save-format-community-en-fallback,0
+1266,Ruler Wagaku Dogi,Ruler Wagaku Dogi,mhxx-save-format-community-en-fallback,0
+1267,Supreme Arcfire Dogi,Supreme Arcfire Dogi,mhxx-save-format-community-en-fallback,0
+1268,Supreme Bonfire Dogi,Supreme Bonfire Dogi,mhxx-save-format-community-en-fallback,0
+1269,Supreme Wagaku Dogi,Supreme Wagaku Dogi,mhxx-save-format-community-en-fallback,0
+1270,Supreme Wagaku Dogi,Supreme Wagaku Dogi,mhxx-save-format-community-en-fallback,0
+1271,黄金骑士【铠衣】,Garo Plate,mhxx-dex-1.0+mhxx-save-format-community,10
+1272,黄金骑士【铠甲】,Garo Mail,mhxx-dex-1.0+mhxx-save-format-community,10
+1273,防护服护甲,Varia Suit Armor,mhxx-dex-1.0+mhxx-save-format-community,6
+1274,防护服屏障,Varia Suit Barrier,mhxx-dex-1.0+mhxx-save-format-community,6
+1275,零装甲衣装,Zero Suit Body,mhxx-dex-1.0+mhxx-save-format-community,6
+1276,零装甲衣服,Zero Suit Wear,mhxx-dex-1.0+mhxx-save-format-community,6
+1277,星耀领主服装,Lodestar Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+1278,星耀领主服饰,Lodestar Vest,mhxx-dex-1.0+mhxx-save-format-community,7
+1279,蓝衣,Blue Tunic,mhxx-dex-1.0+mhxx-save-format-community,10
+1280,蓝装,Blue Jerkin,mhxx-dex-1.0+mhxx-save-format-community,10
+1281,飞龙装束･天,Hiryu Sky Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+1282,飞龙装束･地,Hiryu Land Suit,mhxx-dex-1.0+mhxx-save-format-community,7
+1283,XX天彗龙外套,XX Valstrax Jacket,mhxx-dex-1.0+mhxx-save-format-community,9
+1284,XX天彗龙运动衫,XX Valstrax Jersey,mhxx-dex-1.0+mhxx-save-format-community,9
+1285,XX鏖魔外套,XX Diablos Jacket,mhxx-dex-1.0+mhxx-save-format-community,9
+1286,XX鏖魔运动衫,XX Diablos Jersey,mhxx-dex-1.0+mhxx-save-format-community,9

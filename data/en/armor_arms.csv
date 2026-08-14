@@ -1,1137 +1,1159 @@
 id,name,english,source,rarity
 0,None,None,mhxx-save-format-community,0
-3,Leather Gloves,Leather Gloves,mhxx-dex-1.0,1
-8,Chainmail Gloves,Chainmail Gloves,mhxx-dex-1.0,1
-13,Bherna Braces,Bherna Braces,mhxx-dex-1.0,1
-18,Hunting Braces,Hunting Braces,mhxx-dex-1.0,1
-23,Hunting Guards,Hunting Guards,mhxx-dex-1.0,1
-28,Mafumofu Mittens,Mafumofu Mittens,mhxx-dex-1.0,1
-33,Yukumo Kote,Yukumo Kote,mhxx-dex-1.0,1
-41,Hunter's Vambraces,Hunter's Vambraces,mhxx-dex-1.0,1
-46,Hunter's Guards,Hunter's Guards,mhxx-dex-1.0,1
-51,Bone Vambraces,Bone Vambraces,mhxx-dex-1.0,1
-56,Bone Guards,Bone Guards,mhxx-dex-1.0,1
-65,Trapper's Gauntlets,Trapper's Gauntlets,mhxx-dex-1.0,1
-67,Trapper's Gloves,Trapper's Gloves,mhxx-dex-1.0,1
-69,Maccao Gauntlets,Maccao Gauntlets,mhxx-dex-1.0,1
-71,Maccao Gloves,Maccao Gloves,mhxx-dex-1.0,1
-73,Jaggi Gauntlets,Jaggi Gauntlets,mhxx-dex-1.0,1
-75,Jaggi Gloves,Jaggi Gloves,mhxx-dex-1.0,1
-79,Jaggi Vambraces,Jaggi Vambraces,mhxx-dex-1.0,1
-84,Jaggi Guards,Jaggi Guards,mhxx-dex-1.0,1
-89,Maccao Braces,Maccao Braces,mhxx-dex-1.0,1
-94,Maccao Guards,Maccao Guards,mhxx-dex-1.0,1
-99,Velociprey Braces,Velociprey Braces,mhxx-dex-1.0,1
-104,Velociprey Guards,Velociprey Guards,mhxx-dex-1.0,1
-109,Giaprey Vambraces,Giaprey Vambraces,mhxx-dex-1.0,1
-114,Giaprey Guards,Giaprey Guards,mhxx-dex-1.0,1
-119,Genprey Vambraces,Genprey Vambraces,mhxx-dex-1.0,1
-124,Genprey Guards,Genprey Guards,mhxx-dex-1.0,1
-129,Vespoid Vambraces,Vespoid Vambraces,mhxx-dex-1.0,1
-134,Vespoid Guards,Vespoid Guards,mhxx-dex-1.0,1
-139,Hornetaur Braces,Hornetaur Braces,mhxx-dex-1.0,1
-144,Hornetaur Guards,Hornetaur Guards,mhxx-dex-1.0,1
-149,Bnahabra Gloves,Bnahabra Gloves,mhxx-dex-1.0,1
-154,Bnahabra Sleeves,Bnahabra Sleeves,mhxx-dex-1.0,1
-158,Konchu Braces,Konchu Braces,mhxx-dex-1.0,1
-160,Konchu Guards,Konchu Guards,mhxx-dex-1.0,1
-163,Mosswine Gloves,Mosswine Gloves,mhxx-dex-1.0,1
-168,Rhenoplos Vambraces,Rhenoplos Vambraces,mhxx-dex-1.0,1
-173,Rhenoplos Guards,Rhenoplos Guards,mhxx-dex-1.0,1
-178,Bulldrome Braces,Bulldrome Braces,mhxx-dex-1.0,1
-183,Bulldrome Guards,Bulldrome Guards,mhxx-dex-1.0,1
-189,Arzuros Vambraces,Arzuros Vambraces,mhxx-dex-1.0,1
-194,Arzuros Guards,Arzuros Guards,mhxx-dex-1.0,1
-199,Cephalos Braces,Cephalos Braces,mhxx-dex-1.0,1
-204,Cephalos Guards,Cephalos Guards,mhxx-dex-1.0,1
-209,Derring Gloves,Derring Gloves,mhxx-dex-1.0,2
-214,Alloy Vambraces,Alloy Vambraces,mhxx-dex-1.0,2
-219,Alloy Guards,Alloy Guards,mhxx-dex-1.0,2
-224,Battle Vambraces,Battle Vambraces,mhxx-dex-1.0,2
-229,Battle Guards,Battle Guards,mhxx-dex-1.0,2
-234,Ingot Vambraces,Ingot Vambraces,mhxx-dex-1.0,2
-239,Ingot Guards,Ingot Guards,mhxx-dex-1.0,2
-244,High Metal Braces,High Metal Braces,mhxx-dex-1.0,2
-249,High Metal Guards,High Metal Guards,mhxx-dex-1.0,2
-256,Melahoa Branch,Melahoa Branch,mhxx-dex-1.0,2
-261,Melahoa Petal,Melahoa Petal,mhxx-dex-1.0,2
-266,Makluva Sleeves,Makluva Sleeves,mhxx-dex-1.0,2
-271,Makluva Sucker,Makluva Sucker,mhxx-dex-1.0,2
-282,Obituary Brachia,Obituary Brachia,mhxx-dex-1.0,2
-287,Obituary Manus,Obituary Manus,mhxx-dex-1.0,2
-292,Butterfly Brachia,Butterfly Brachia,mhxx-dex-1.0,2
-297,Butterfly Manus,Butterfly Manus,mhxx-dex-1.0,2
-302,Death Stench Grip,Death Stench Grip,mhxx-dex-1.0,2
-307,Death Stench Grasp,Death Stench Grasp,mhxx-dex-1.0,2
-316,Mosgharl Creeper,Mosgharl Creeper,mhxx-dex-1.0,2
-321,Mosgharl Tendril,Mosgharl Tendril,mhxx-dex-1.0,2
-326,Edel Creeper,Edel Creeper,mhxx-dex-1.0,2
-331,Edel Tendril,Edel Tendril,mhxx-dex-1.0,2
-336,Skalda Brachia,Skalda Brachia,mhxx-dex-1.0,2
-341,Skalda Manus,Skalda Manus,mhxx-dex-1.0,2
-346,Spio Brachia,Spio Brachia,mhxx-dex-1.0,2
-351,Spio Manus,Spio Manus,mhxx-dex-1.0,2
-368,Moofah Claws,Moofah Claws,mhxx-dex-1.0,2
-372,Moofah Sleeves,Moofah Sleeves,mhxx-dex-1.0,2
-377,Velociprey Claws,Velociprey Claws,mhxx-dex-1.0,2
-381,Velociprey Gloves,Velociprey Gloves,mhxx-dex-1.0,2
-385,Genprey Claws,Genprey Claws,mhxx-dex-1.0,2
-389,Genprey Gloves,Genprey Gloves,mhxx-dex-1.0,2
-393,Ioprey Claws,Ioprey Claws,mhxx-dex-1.0,2
-397,Ioprey Gloves,Ioprey Gloves,mhxx-dex-1.0,2
-401,Remobra Gloves,Remobra Gloves,mhxx-dex-1.0,2
-406,Remobra Hands,Remobra Hands,mhxx-dex-1.0,2
-411,Ioprey Vambraces,Ioprey Vambraces,mhxx-dex-1.0,2
-416,Ioprey Guards,Ioprey Guards,mhxx-dex-1.0,2
-421,Kut-Ku Vambraces,Kut-Ku Vambraces,mhxx-dex-1.0,2
-426,Kut-Ku Guards,Kut-Ku Guards,mhxx-dex-1.0,2
-431,Lagombi Vambraces,Lagombi Vambraces,mhxx-dex-1.0,2
-436,Lagombi Guards,Lagombi Guards,mhxx-dex-1.0,2
-441,Gypceros Braces,Gypceros Braces,mhxx-dex-1.0,2
-446,Gypceros Guards,Gypceros Guards,mhxx-dex-1.0,2
-451,Tetsucabra Braces,Tetsucabra Braces,mhxx-dex-1.0,2
-456,Tetsucabra Guards,Tetsucabra Guards,mhxx-dex-1.0,2
-461,Hermitaur Braces,Hermitaur Braces,mhxx-dex-1.0,2
-466,Hermitaur Guards,Hermitaur Guards,mhxx-dex-1.0,2
-471,Volvidon Vambraces,Volvidon Vambraces,mhxx-dex-1.0,2
-476,Volvidon Guards,Volvidon Guards,mhxx-dex-1.0,2
-481,Ludroth Braces,Ludroth Braces,mhxx-dex-1.0,2
-486,Ludroth Guards,Ludroth Guards,mhxx-dex-1.0,2
-491,Malfestio Braces,Malfestio Braces,mhxx-dex-1.0,2
-496,Malfestio Guards,Malfestio Guards,mhxx-dex-1.0,2
-501,Khezu Vambraces,Khezu Vambraces,mhxx-dex-1.0,2
-506,Khezu Guards,Khezu Guards,mhxx-dex-1.0,2
-511,Rathian Braces,Rathian Braces,mhxx-dex-1.0,2
-516,Rathian Guards,Rathian Guards,mhxx-dex-1.0,2
-521,Nibelsnarf Braces,Nibelsnarf Braces,mhxx-dex-1.0,2
-526,Nibelsnarf Guards,Nibelsnarf Guards,mhxx-dex-1.0,2
-531,Blango Vambraces,Blango Vambraces,mhxx-dex-1.0,2
-536,Blango Guards,Blango Guards,mhxx-dex-1.0,2
-541,Ceanataur Braces,Ceanataur Braces,mhxx-dex-1.0,2
-546,Ceanataur Guards,Ceanataur Guards,mhxx-dex-1.0,2
-551,Najarala Braces,Najarala Braces,mhxx-dex-1.0,2
-556,Najarala Guards,Najarala Guards,mhxx-dex-1.0,2
-561,Nargacuga Braces,Nargacuga Braces,mhxx-dex-1.0,2
-566,Nargacuga Guards,Nargacuga Guards,mhxx-dex-1.0,2
-571,Scholarly Grips,Scholarly Grips,mhxx-dex-1.0,2
-576,Scholarly Cuffs,Scholarly Cuffs,mhxx-dex-1.0,2
-581,Vaik Braces,Vaik Braces,mhxx-dex-1.0,3
-586,Vaik Guards,Vaik Guards,mhxx-dex-1.0,3
-593,Aelucanth Brachia,Aelucanth Brachia,mhxx-dex-1.0,3
-598,Aelucanth Manus,Aelucanth Manus,mhxx-dex-1.0,3
-603,Rhopessa Brachia,Rhopessa Brachia,mhxx-dex-1.0,3
-608,Rhopessa Manus,Rhopessa Manus,mhxx-dex-1.0,3
-612,Artian Braces,Artian Braces,mhxx-dex-1.0,3
-615,Artian Guards,Artian Guards,mhxx-dex-1.0,3
-619,Garuga Vambraces,Garuga Vambraces,mhxx-dex-1.0,3
-624,Garuga Guards,Garuga Guards,mhxx-dex-1.0,3
-630,Uragaan Vambraces,Uragaan Vambraces,mhxx-dex-1.0,3
-635,Uragaan Guards,Uragaan Guards,mhxx-dex-1.0,3
-640,Rathalos Braces,Rathalos Braces,mhxx-dex-1.0,3
-645,Rathalos Guards,Rathalos Guards,mhxx-dex-1.0,3
-650,Lagiacrus Braces,Lagiacrus Braces,mhxx-dex-1.0,3
-655,Lagiacrus Guards,Lagiacrus Guards,mhxx-dex-1.0,3
-660,Zinogre Braces,Zinogre Braces,mhxx-dex-1.0,3
-665,Zinogre Guards,Zinogre Guards,mhxx-dex-1.0,3
-670,Mizutsune Braces,Mizutsune Braces,mhxx-dex-1.0,3
-675,Mizutsune Guards,Mizutsune Guards,mhxx-dex-1.0,3
-680,Astalos Braces,Astalos Braces,mhxx-dex-1.0,3
-685,Astalos Guards,Astalos Guards,mhxx-dex-1.0,3
-690,Gammoth Braces,Gammoth Braces,mhxx-dex-1.0,3
-695,Gammoth Guards,Gammoth Guards,mhxx-dex-1.0,3
-700,Glavenus Braces,Glavenus Braces,mhxx-dex-1.0,3
-705,Glavenus Guards,Glavenus Guards,mhxx-dex-1.0,3
-710,Gore Braces,Gore Braces,mhxx-dex-1.0,3
-715,Gore Guards,Gore Guards,mhxx-dex-1.0,3
-720,Regios Vambraces,Regios Vambraces,mhxx-dex-1.0,3
-725,Regios Guards,Regios Guards,mhxx-dex-1.0,3
-730,Tigrex Braces,Tigrex Braces,mhxx-dex-1.0,3
-735,Tigrex Guards,Tigrex Guards,mhxx-dex-1.0,3
-740,Kirin Longarms,Kirin Longarms,mhxx-dex-1.0,3
-745,Kirin Gloves,Kirin Gloves,mhxx-dex-1.0,3
-750,Brachydios Braces,Brachydios Braces,mhxx-dex-1.0,3
-755,Brachydios Guards,Brachydios Guards,mhxx-dex-1.0,3
-760,Arc Vambraces,Arc Vambraces,mhxx-dex-1.0,3
-765,Arc Guards,Arc Guards,mhxx-dex-1.0,3
-770,Storge Braces,Storge Braces,mhxx-dex-1.0,3
-775,Storge Guards,Storge Guards,mhxx-dex-1.0,3
-780,Kushala Grip,Kushala Grip,mhxx-dex-1.0,3
-785,Kushala Embrace,Kushala Embrace,mhxx-dex-1.0,3
-790,Mizuha Sleeves,Mizuha Sleeves,mhxx-dex-1.0,3
-795,Cham Sleeves,Cham Sleeves,mhxx-dex-1.0,3
-800,Kaiser Vambraces,Kaiser Vambraces,mhxx-dex-1.0,3
-805,Kaiser Guards,Kaiser Guards,mhxx-dex-1.0,3
-810,Skeletal Humerus,Skeletal Humerus,mhxx-dex-1.0,3
-815,Decayed Humerus,Decayed Humerus,mhxx-dex-1.0,3
-820,Black Claw,Black Claw,mhxx-dex-1.0,3
-825,Black Fist,Black Fist,mhxx-dex-1.0,3
-830,Black Belt Braces,Black Belt Braces,mhxx-dex-1.0,3
-835,Black Belt Guards,Black Belt Guards,mhxx-dex-1.0,3
-840,Guild Bard Braces,Guild Bard Braces,mhxx-dex-1.0,3
-845,Guild Bard Sleeves,Guild Bard Sleeves,mhxx-dex-1.0,3
-850,Maiden's Gloves,Maiden's Gloves,mhxx-dex-1.0,3
-855,French Maid Sleeves,French Maid Sleeves,mhxx-dex-1.0,3
-860,Helper Sleeves,Helper Sleeves,mhxx-dex-1.0,3
-865,Healer Sleeves,Healer Sleeves,mhxx-dex-1.0,3
-870,Dianthus Sleeves,Dianthus Sleeves,mhxx-dex-1.0,3
-875,Campanile Sleeves,Campanile Sleeves,mhxx-dex-1.0,3
-880,Bath Sleeves,Bath Sleeves,mhxx-dex-1.0,3
-884,Gourmew Gloves,Gourmew Gloves,mhxx-dex-1.0,3
-889,Gourmew Mitts,Gourmew Mitts,mhxx-dex-1.0,3
-894,Leather Braces S,Leather Braces S,mhxx-dex-1.0,4
-899,Leather Guards S,Leather Guards S,mhxx-dex-1.0,4
-904,Chainmail Braces S,Chainmail Braces S,mhxx-dex-1.0,4
-909,Chainmail Guards S,Chainmail Guards S,mhxx-dex-1.0,4
-914,Bherna Braces S,Bherna Braces S,mhxx-dex-1.0,4
-919,Bherna Guards S,Bherna Guards S,mhxx-dex-1.0,4
-924,Hunting Braces S,Hunting Braces S,mhxx-dex-1.0,4
-929,Hunting Guards S,Hunting Guards S,mhxx-dex-1.0,4
-934,Mafumofu Grips S,Mafumofu Grips S,mhxx-dex-1.0,4
-939,Mafumofu Mittens S,Mafumofu Mittens S,mhxx-dex-1.0,4
-944,Yukumo Sky Kote,Yukumo Sky Kote,mhxx-dex-1.0,4
-949,Yukumo Land Kote,Yukumo Land Kote,mhxx-dex-1.0,4
-957,Hunter's Vambraces S,Hunter's Vambraces S,mhxx-dex-1.0,4
-962,Hunter's Guards S,Hunter's Guards S,mhxx-dex-1.0,4
-967,Hunter's Braces R,Hunter's Braces R,mhxx-dex-1.0,4
-972,Hunter's Guards R,Hunter's Guards R,mhxx-dex-1.0,4
-977,Bone Vambraces S,Bone Vambraces S,mhxx-dex-1.0,4
-982,Bone Guards S,Bone Guards S,mhxx-dex-1.0,4
-995,Melahoa Branch S,Melahoa Branch S,mhxx-dex-1.0,4
-1000,Melahoa Petal S,Melahoa Petal S,mhxx-dex-1.0,4
-1005,Melahoa Branch U,Melahoa Branch U,mhxx-dex-1.0,4
-1010,Melahoa Petal U,Melahoa Petal U,mhxx-dex-1.0,4
-1015,Makluva Sleeves S,Makluva Sleeves S,mhxx-dex-1.0,4
-1020,Makluva Sucker S,Makluva Sucker S,mhxx-dex-1.0,4
-1025,Makluva Sleeves U,Makluva Sleeves U,mhxx-dex-1.0,4
-1030,Makluva Sucker U,Makluva Sucker U,mhxx-dex-1.0,4
-1045,Mosgharl Creeper S,Mosgharl Creeper S,mhxx-dex-1.0,4
-1050,Mosgharl Tendril S,Mosgharl Tendril S,mhxx-dex-1.0,4
-1055,Edel Creeper S,Edel Creeper S,mhxx-dex-1.0,4
-1060,Edel Tendril S,Edel Tendril S,mhxx-dex-1.0,4
-1065,Moofah Claws S,Moofah Claws S,mhxx-dex-1.0,4
-1069,Moofah Sleeves S,Moofah Sleeves S,mhxx-dex-1.0,4
-1080,Velociprey Claws S,Velociprey Claws S,mhxx-dex-1.0,4
-1084,Velociprey Gloves S,Velociprey Gloves S,mhxx-dex-1.0,4
-1088,Giaprey Claws,Giaprey Claws,mhxx-dex-1.0,4
-1092,Giaprey Gloves,Giaprey Gloves,mhxx-dex-1.0,4
-1096,Genprey Claws S,Genprey Claws S,mhxx-dex-1.0,4
-1100,Genprey Gloves S,Genprey Gloves S,mhxx-dex-1.0,4
-1104,Ioprey Claws S,Ioprey Claws S,mhxx-dex-1.0,4
-1108,Ioprey Gloves S,Ioprey Gloves S,mhxx-dex-1.0,4
-1112,Remobra Gloves S,Remobra Gloves S,mhxx-dex-1.0,4
-1117,Remobra Hands S,Remobra Hands S,mhxx-dex-1.0,4
-1120,Trapper's Gauntlets S,Trapper's Gauntlets S,mhxx-dex-1.0,4
-1122,Trapper's Gloves S,Trapper's Gloves S,mhxx-dex-1.0,4
-1124,Maccao Gauntlets S,Maccao Gauntlets S,mhxx-dex-1.0,4
-1126,Maccao Gloves S,Maccao Gloves S,mhxx-dex-1.0,4
-1128,Jaggi Gauntlets S,Jaggi Gauntlets S,mhxx-dex-1.0,4
-1130,Jaggi Gloves S,Jaggi Gloves S,mhxx-dex-1.0,4
-1134,Mosswine Gloves S,Mosswine Gloves S,mhxx-dex-1.0,4
-1139,Rhenoplos Braces S,Rhenoplos Braces S,mhxx-dex-1.0,4
-1144,Rhenoplos Guards S,Rhenoplos Guards S,mhxx-dex-1.0,4
-1149,Jaggi Vambraces S,Jaggi Vambraces S,mhxx-dex-1.0,4
-1154,Jaggi Guards S,Jaggi Guards S,mhxx-dex-1.0,4
-1169,Maccao Braces S,Maccao Braces S,mhxx-dex-1.0,4
-1174,Maccao Guards S,Maccao Guards S,mhxx-dex-1.0,4
-1179,Velociprey Braces S,Velociprey Braces S,mhxx-dex-1.0,4
-1184,Velociprey Guards S,Velociprey Guards S,mhxx-dex-1.0,4
-1189,Giaprey Braces S,Giaprey Braces S,mhxx-dex-1.0,4
-1194,Giaprey Guards S,Giaprey Guards S,mhxx-dex-1.0,4
-1199,Genprey Vambraces S,Genprey Vambraces S,mhxx-dex-1.0,4
-1204,Genprey Guards S,Genprey Guards S,mhxx-dex-1.0,4
-1209,EX Genprey Braces,EX Genprey Braces,mhxx-dex-1.0,4
-1214,EX Genprey Guards,EX Genprey Guards,mhxx-dex-1.0,4
-1219,Ioprey Vambraces S,Ioprey Vambraces S,mhxx-dex-1.0,4
-1224,Ioprey Guards S,Ioprey Guards S,mhxx-dex-1.0,4
-1229,EX Ioprey Vambraces,EX Ioprey Vambraces,mhxx-dex-1.0,4
-1234,EX Ioprey Guards,EX Ioprey Guards,mhxx-dex-1.0,4
-1239,Vespoid Vambraces S,Vespoid Vambraces S,mhxx-dex-1.0,4
-1244,Vespoid Guards S,Vespoid Guards S,mhxx-dex-1.0,4
-1249,EX Vespoid Vambraces,EX Vespoid Vambraces,mhxx-dex-1.0,4
-1254,EX Vespoid Guards,EX Vespoid Guards,mhxx-dex-1.0,4
-1259,Hornetaur Braces S,Hornetaur Braces S,mhxx-dex-1.0,4
-1264,Hornetaur Guards S,Hornetaur Guards S,mhxx-dex-1.0,4
-1269,EX Hornetaur Braces,EX Hornetaur Braces,mhxx-dex-1.0,4
-1274,EX Hornetaur Guards,EX Hornetaur Guards,mhxx-dex-1.0,4
-1279,Hornetaur Braces R,Hornetaur Braces R,mhxx-dex-1.0,4
-1284,Hornetaur Guards R,Hornetaur Guards R,mhxx-dex-1.0,4
-1289,Bnahabra Gloves S,Bnahabra Gloves S,mhxx-dex-1.0,4
-1294,Bnahabra Sleeves S,Bnahabra Sleeves S,mhxx-dex-1.0,4
-1298,Konchu Braces S,Konchu Braces S,mhxx-dex-1.0,4
-1300,Konchu Guards S,Konchu Guards S,mhxx-dex-1.0,4
-1303,Bulldrome Braces S,Bulldrome Braces S,mhxx-dex-1.0,4
-1308,Bulldrome Guards S,Bulldrome Guards S,mhxx-dex-1.0,4
-1314,Arzuros Vambraces S,Arzuros Vambraces S,mhxx-dex-1.0,4
-1319,Arzuros Guards S,Arzuros Guards S,mhxx-dex-1.0,4
-1324,Cephalos Vambraces S,Cephalos Vambraces S,mhxx-dex-1.0,4
-1329,Cephalos Guards S,Cephalos Guards S,mhxx-dex-1.0,4
-1334,EX Cephalos Braces,EX Cephalos Braces,mhxx-dex-1.0,4
-1339,EX Cephalos Guards,EX Cephalos Guards,mhxx-dex-1.0,4
-1344,Kut-Ku Vambraces S,Kut-Ku Vambraces S,mhxx-dex-1.0,4
-1349,Kut-Ku Guards S,Kut-Ku Guards S,mhxx-dex-1.0,4
-1354,Kecha Vambraces,Kecha Vambraces,mhxx-dex-1.0,4
-1359,Kecha Guards,Kecha Guards,mhxx-dex-1.0,4
-1364,Lagombi Vambraces S,Lagombi Vambraces S,mhxx-dex-1.0,4
-1369,Lagombi Guards S,Lagombi Guards S,mhxx-dex-1.0,4
-1374,Gypceros Braces S,Gypceros Braces S,mhxx-dex-1.0,4
-1379,Gypceros Guards S,Gypceros Guards S,mhxx-dex-1.0,4
-1384,Gypceros Braces R,Gypceros Braces R,mhxx-dex-1.0,4
-1389,Gypceros Guards R,Gypceros Guards R,mhxx-dex-1.0,4
-1394,Tetsucabra Braces S,Tetsucabra Braces S,mhxx-dex-1.0,4
-1399,Tetsucabra Guards S,Tetsucabra Guards S,mhxx-dex-1.0,4
-1404,Hermitaur Braces S,Hermitaur Braces S,mhxx-dex-1.0,4
-1409,Hermitaur Guards S,Hermitaur Guards S,mhxx-dex-1.0,4
-1414,EX Hermitaur Braces,EX Hermitaur Braces,mhxx-dex-1.0,4
-1419,EX Hermitaur Guards,EX Hermitaur Guards,mhxx-dex-1.0,4
-1424,Hermitaur Braces R,Hermitaur Braces R,mhxx-dex-1.0,4
-1429,Hermitaur Guards R,Hermitaur Guards R,mhxx-dex-1.0,4
-1434,Volvidon Vambraces S,Volvidon Vambraces S,mhxx-dex-1.0,4
-1439,Volvidon Guards S,Volvidon Guards S,mhxx-dex-1.0,4
-1444,Conga Vambraces,Conga Vambraces,mhxx-dex-1.0,4
-1449,Conga Guards,Conga Guards,mhxx-dex-1.0,4
-1454,Ludroth Braces S,Ludroth Braces S,mhxx-dex-1.0,4
-1459,Ludroth Guards S,Ludroth Guards S,mhxx-dex-1.0,4
-1464,Ludroth Braces R,Ludroth Braces R,mhxx-dex-1.0,4
-1469,Ludroth Guards R,Ludroth Guards R,mhxx-dex-1.0,4
-1474,Barroth Vambraces,Barroth Vambraces,mhxx-dex-1.0,4
-1479,Barroth Guards,Barroth Guards,mhxx-dex-1.0,4
-1484,Lecturer's Braces,Lecturer's Braces,mhxx-dex-1.0,4
-1489,Lecturer's Guards,Lecturer's Guards,mhxx-dex-1.0,4
-1494,Alloy Vambraces S,Alloy Vambraces S,mhxx-dex-1.0,5
-1499,Alloy Guards S,Alloy Guards S,mhxx-dex-1.0,5
-1504,Alloy Braces R,Alloy Braces R,mhxx-dex-1.0,5
-1509,Alloy Guards R,Alloy Guards R,mhxx-dex-1.0,5
-1514,Battle Vambraces S,Battle Vambraces S,mhxx-dex-1.0,5
-1519,Battle Guards S,Battle Guards S,mhxx-dex-1.0,5
-1524,Ingot Vambraces S,Ingot Vambraces S,mhxx-dex-1.0,5
-1529,Ingot Guards S,Ingot Guards S,mhxx-dex-1.0,5
-1534,Ingot Vambraces R,Ingot Vambraces R,mhxx-dex-1.0,5
-1539,Ingot Guards R,Ingot Guards R,mhxx-dex-1.0,5
-1544,High Metal Braces S,High Metal Braces S,mhxx-dex-1.0,5
-1549,High Metal Guards S,High Metal Guards S,mhxx-dex-1.0,5
-1554,High Metal Braces U,High Metal Braces U,mhxx-dex-1.0,5
-1559,High Metal Guards U,High Metal Guards U,mhxx-dex-1.0,5
-1566,Lobster Vambraces,Lobster Vambraces,mhxx-dex-1.0,5
-1571,Lobster Guards,Lobster Guards,mhxx-dex-1.0,5
-1576,Obituary Brachia S,Obituary Brachia S,mhxx-dex-1.0,5
-1581,Obituary Manus S,Obituary Manus S,mhxx-dex-1.0,5
-1586,Butterfly Brachia S,Butterfly Brachia S,mhxx-dex-1.0,5
-1591,Butterfly Manus S,Butterfly Manus S,mhxx-dex-1.0,5
-1596,Death Stench Grip S,Death Stench Grip S,mhxx-dex-1.0,5
-1601,Death Stench Grasp S,Death Stench Grasp S,mhxx-dex-1.0,5
-1606,Death Stench Grip R,Death Stench Grip R,mhxx-dex-1.0,5
-1611,Death Stench Grasp R,Death Stench Grasp R,mhxx-dex-1.0,5
-1616,Vaik Braces S,Vaik Braces S,mhxx-dex-1.0,5
-1621,Vaik Guards S,Vaik Guards S,mhxx-dex-1.0,5
-1626,Aelucanth Brachia S,Aelucanth Brachia S,mhxx-dex-1.0,5
-1631,Aelucanth Manus S,Aelucanth Manus S,mhxx-dex-1.0,5
-1636,Rhopessa Brachia S,Rhopessa Brachia S,mhxx-dex-1.0,5
-1641,Rhopessa Manus S,Rhopessa Manus S,mhxx-dex-1.0,5
-1646,Patissier's Gloves,Patissier's Gloves,mhxx-dex-1.0,5
-1651,Patissier's Mitts,Patissier's Mitts,mhxx-dex-1.0,5
-1656,Skalda Brachia S,Skalda Brachia S,mhxx-dex-1.0,5
-1661,Skalda Manus S,Skalda Manus S,mhxx-dex-1.0,5
-1666,Spio Brachia S,Spio Brachia S,mhxx-dex-1.0,5
-1671,Spio Manus S,Spio Manus S,mhxx-dex-1.0,5
-1677,Basarios Vambraces,Basarios Vambraces,mhxx-dex-1.0,5
-1682,Basarios Guards,Basarios Guards,mhxx-dex-1.0,5
-1687,Malfestio Braces S,Malfestio Braces S,mhxx-dex-1.0,5
-1692,Malfestio Guards S,Malfestio Guards S,mhxx-dex-1.0,5
-1697,Zamtrios Braces,Zamtrios Braces,mhxx-dex-1.0,5
-1702,Zamtrios Guards,Zamtrios Guards,mhxx-dex-1.0,5
-1707,Khezu Vambraces S,Khezu Vambraces S,mhxx-dex-1.0,5
-1712,Khezu Guards S,Khezu Guards S,mhxx-dex-1.0,5
-1717,Khezu Braces R,Khezu Braces R,mhxx-dex-1.0,5
-1722,Khezu Guards R,Khezu Guards R,mhxx-dex-1.0,5
-1727,Nerscylla Vambraces,Nerscylla Vambraces,mhxx-dex-1.0,5
-1732,Nerscylla Guards,Nerscylla Guards,mhxx-dex-1.0,5
-1737,Rathian Braces S,Rathian Braces S,mhxx-dex-1.0,5
-1742,Rathian Guards S,Rathian Guards S,mhxx-dex-1.0,5
-1747,EX Rathian Braces,EX Rathian Braces,mhxx-dex-1.0,5
-1752,EX Rathian Guards,EX Rathian Guards,mhxx-dex-1.0,5
-1757,Rathian Braces R,Rathian Braces R,mhxx-dex-1.0,5
-1762,Rathian Guards R,Rathian Guards R,mhxx-dex-1.0,5
-1767,Nibelsnarf Braces S,Nibelsnarf Braces S,mhxx-dex-1.0,5
-1772,Nibelsnarf Guards S,Nibelsnarf Guards S,mhxx-dex-1.0,5
-1777,Plesioth Vambraces,Plesioth Vambraces,mhxx-dex-1.0,5
-1781,Plesioth Guards,Plesioth Guards,mhxx-dex-1.0,5
-1785,Blango Vambraces S,Blango Vambraces S,mhxx-dex-1.0,5
-1790,Blango Guards S,Blango Guards S,mhxx-dex-1.0,5
-1795,EX Blango Braces,EX Blango Braces,mhxx-dex-1.0,5
-1800,EX Blango Guards,EX Blango Guards,mhxx-dex-1.0,5
-1805,Lavasioth Braces,Lavasioth Braces,mhxx-dex-1.0,5
-1810,Lavasioth Guards,Lavasioth Guards,mhxx-dex-1.0,5
-1815,EX Lavasioth Braces,EX Lavasioth Braces,mhxx-dex-1.0,5
-1820,EX Lavasioth Guards,EX Lavasioth Guards,mhxx-dex-1.0,5
-1825,Ceanataur Braces S,Ceanataur Braces S,mhxx-dex-1.0,5
-1830,Ceanataur Guards S,Ceanataur Guards S,mhxx-dex-1.0,5
-1835,EX Ceanataur Braces,EX Ceanataur Braces,mhxx-dex-1.0,5
-1840,EX Ceanataur Guards,EX Ceanataur Guards,mhxx-dex-1.0,5
-1845,Ceanataur Braces R,Ceanataur Braces R,mhxx-dex-1.0,5
-1850,Ceanataur Guards R,Ceanataur Guards R,mhxx-dex-1.0,5
-1855,Najarala Braces S,Najarala Braces S,mhxx-dex-1.0,5
-1860,Najarala Guards S,Najarala Guards S,mhxx-dex-1.0,5
-1865,Nargacuga Braces S,Nargacuga Braces S,mhxx-dex-1.0,5
-1870,Nargacuga Guards S,Nargacuga Guards S,mhxx-dex-1.0,5
-1875,Garuga Vambraces S,Garuga Vambraces S,mhxx-dex-1.0,5
-1880,Garuga Guards S,Garuga Guards S,mhxx-dex-1.0,5
-1886,Uragaan Vambraces S,Uragaan Vambraces S,mhxx-dex-1.0,5
-1891,Uragaan Guards S,Uragaan Guards S,mhxx-dex-1.0,5
-1896,Black Belt Braces S,Black Belt Braces S,mhxx-dex-1.0,5
-1901,Black Belt Guards S,Black Belt Guards S,mhxx-dex-1.0,5
-1906,Guardian Braces,Guardian Braces,mhxx-dex-1.0,5
-1911,Guardian Guards,Guardian Guards,mhxx-dex-1.0,5
-1916,Guardian Braces U,Guardian Braces U,mhxx-dex-1.0,5
-1921,Guardian Guards U,Guardian Guards U,mhxx-dex-1.0,5
-1926,Scholar's Gloves,Scholar's Gloves,mhxx-dex-1.0,5
-1931,Scholar's Sleeves,Scholar's Sleeves,mhxx-dex-1.0,5
-1936,Sailor Gloves,Sailor Gloves,mhxx-dex-1.0,5
-1941,Sailor Sleeves,Sailor Sleeves,mhxx-dex-1.0,5
-1946,Luxury Bath Sleeves,Luxury Bath Sleeves,mhxx-dex-1.0,5
-1950,Kita Star Sleeves,Kita Star Sleeves,mhxx-dex-1.0,5
-1954,Umi Ocean Sleeves,Umi Ocean Sleeves,mhxx-dex-1.0,5
-1959,Derring Vambraces S,Derring Vambraces S,mhxx-dex-1.0,6
-1964,Derring Guards S,Derring Guards S,mhxx-dex-1.0,6
-1969,Dober Vambraces,Dober Vambraces,mhxx-dex-1.0,6
-1974,Dober Guards,Dober Guards,mhxx-dex-1.0,6
-1979,Damascus Vambraces,Damascus Vambraces,mhxx-dex-1.0,6
-1984,Damascus Guards,Damascus Guards,mhxx-dex-1.0,6
-1989,Damascus Braces R,Damascus Braces R,mhxx-dex-1.0,6
-1994,Damascus Guards R,Damascus Guards R,mhxx-dex-1.0,6
-2007,Artian Braces S,Artian Braces S,mhxx-dex-1.0,6
-2012,Artian Guards S,Artian Guards S,mhxx-dex-1.0,6
-2017,Artian Braces R,Artian Braces R,mhxx-dex-1.0,6
-2022,Artian Guards R,Artian Guards R,mhxx-dex-1.0,6
-2027,Barioth Vambraces,Barioth Vambraces,mhxx-dex-1.0,6
-2032,Barioth Guards,Barioth Guards,mhxx-dex-1.0,6
-2037,Seltas Vambraces,Seltas Vambraces,mhxx-dex-1.0,6
-2042,Seltas Guards,Seltas Guards,mhxx-dex-1.0,6
-2047,Rathalos Braces S,Rathalos Braces S,mhxx-dex-1.0,6
-2052,Rathalos Guards S,Rathalos Guards S,mhxx-dex-1.0,6
-2057,EX Rathalos Braces,EX Rathalos Braces,mhxx-dex-1.0,6
-2062,EX Rathalos Guards,EX Rathalos Guards,mhxx-dex-1.0,6
-2067,Rathalos Braces R,Rathalos Braces R,mhxx-dex-1.0,6
-2072,Rathalos Guards R,Rathalos Guards R,mhxx-dex-1.0,6
-2077,Lagiacrus Braces S,Lagiacrus Braces S,mhxx-dex-1.0,6
-2082,Lagiacrus Guards S,Lagiacrus Guards S,mhxx-dex-1.0,6
-2087,Lagiacrus Braces R,Lagiacrus Braces R,mhxx-dex-1.0,6
-2092,Lagiacrus Guards R,Lagiacrus Guards R,mhxx-dex-1.0,6
-2097,Zinogre Braces S,Zinogre Braces S,mhxx-dex-1.0,6
-2102,Zinogre Guards S,Zinogre Guards S,mhxx-dex-1.0,6
-2107,EX Zinogre Braces,EX Zinogre Braces,mhxx-dex-1.0,6
-2112,EX Zinogre Guards,EX Zinogre Guards,mhxx-dex-1.0,6
-2117,Gravios Vambraces,Gravios Vambraces,mhxx-dex-1.0,6
-2122,Gravios Guards,Gravios Guards,mhxx-dex-1.0,6
-2127,Mizutsune Braces S,Mizutsune Braces S,mhxx-dex-1.0,6
-2132,Mizutsune Guards S,Mizutsune Guards S,mhxx-dex-1.0,6
-2137,Astalos Braces S,Astalos Braces S,mhxx-dex-1.0,6
-2142,Astalos Guards S,Astalos Guards S,mhxx-dex-1.0,6
-2147,Gammoth Braces S,Gammoth Braces S,mhxx-dex-1.0,6
-2152,Gammoth Guards S,Gammoth Guards S,mhxx-dex-1.0,6
-2157,Glavenus Braces S,Glavenus Braces S,mhxx-dex-1.0,6
-2162,Glavenus Guards S,Glavenus Guards S,mhxx-dex-1.0,6
-2167,Agnaktor Vambraces,Agnaktor Vambraces,mhxx-dex-1.0,6
-2172,Agnaktor Guards,Agnaktor Guards,mhxx-dex-1.0,6
-2177,Gore Braces S,Gore Braces S,mhxx-dex-1.0,6
-2182,Gore Guards S,Gore Guards S,mhxx-dex-1.0,6
-2187,EX Gore Braces,EX Gore Braces,mhxx-dex-1.0,6
-2192,EX Gore Guards,EX Gore Guards,mhxx-dex-1.0,6
-2197,Gore Braces R,Gore Braces R,mhxx-dex-1.0,6
-2202,Gore Guards R,Gore Guards R,mhxx-dex-1.0,6
-2207,Regios Vambraces S,Regios Vambraces S,mhxx-dex-1.0,6
-2212,Regios Guards S,Regios Guards S,mhxx-dex-1.0,6
-2217,Duramboros Braces,Duramboros Braces,mhxx-dex-1.0,6
-2222,Duramboros Guards,Duramboros Guards,mhxx-dex-1.0,6
-2227,Tigrex Braces S,Tigrex Braces S,mhxx-dex-1.0,6
-2232,Tigrex Guards S,Tigrex Guards S,mhxx-dex-1.0,6
-2237,EX Tigrex Braces,EX Tigrex Braces,mhxx-dex-1.0,6
-2242,EX Tigrex Guards,EX Tigrex Guards,mhxx-dex-1.0,6
-2247,Tigrex Braces R,Tigrex Braces R,mhxx-dex-1.0,6
-2252,Tigrex Guards R,Tigrex Guards R,mhxx-dex-1.0,6
-2257,Kirin Longarms S,Kirin Longarms S,mhxx-dex-1.0,6
-2262,Kirin Gloves S,Kirin Gloves S,mhxx-dex-1.0,6
-2267,Kirin Longarms R,Kirin Longarms R,mhxx-dex-1.0,6
-2272,Kirin Gloves R,Kirin Gloves R,mhxx-dex-1.0,6
-2277,Brachydios Braces S,Brachydios Braces S,mhxx-dex-1.0,6
-2282,Brachydios Guards S,Brachydios Guards S,mhxx-dex-1.0,6
-2287,EX Brachydios Braces,EX Brachydios Braces,mhxx-dex-1.0,6
-2292,EX Brachydios Guards,EX Brachydios Guards,mhxx-dex-1.0,6
-2297,Golden Kote,Golden Kote,mhxx-dex-1.0,6
-2302,Puppeteer Gloves,Puppeteer Gloves,mhxx-dex-1.0,6
-2307,Vangis Vambraces,Vangis Vambraces,mhxx-dex-1.0,6
-2312,Vangis Guards,Vangis Guards,mhxx-dex-1.0,6
-2317,Guild Knight Gloves,Guild Knight Gloves,mhxx-dex-1.0,6
-2322,Guild Knight Sleeves,Guild Knight Sleeves,mhxx-dex-1.0,6
-2327,Maiden's Gloves S,Maiden's Gloves S,mhxx-dex-1.0,6
-2332,French Maid Sleeves S,French Maid Sleeves S,mhxx-dex-1.0,6
-2337,Blue Guild Gloves,Blue Guild Gloves,mhxx-dex-1.0,6
-2342,Blue Guild Sleeves,Blue Guild Sleeves,mhxx-dex-1.0,6
-2347,Blue Guild Gloves,Blue Guild Gloves,mhxx-dex-1.0,6
-2352,Blue Guild Sleeves,Blue Guild Sleeves,mhxx-dex-1.0,6
-2357,Red Guild Gloves,Red Guild Gloves,mhxx-dex-1.0,6
-2362,Red Guild Sleeves,Red Guild Sleeves,mhxx-dex-1.0,6
-2367,Red Guild Gloves,Red Guild Gloves,mhxx-dex-1.0,6
-2372,Red Guild Sleeves,Red Guild Sleeves,mhxx-dex-1.0,6
-2377,Helper Sleeves S,Helper Sleeves S,mhxx-dex-1.0,6
-2382,Healer Sleeves S,Healer Sleeves S,mhxx-dex-1.0,6
-2387,Helper Sleeves U,Helper Sleeves U,mhxx-dex-1.0,6
-2392,Healer Sleeves U,Healer Sleeves U,mhxx-dex-1.0,6
-2397,Guild Bard Braces S,Guild Bard Braces S,mhxx-dex-1.0,6
-2402,Guild Bard Sleeves S,Guild Bard Sleeves S,mhxx-dex-1.0,6
-2407,Chakra Bracelet,Chakra Bracelet,mhxx-dex-1.0,6
-2412,Dianthus Wealsleeves,Dianthus Wealsleeves,mhxx-dex-1.0,6
-2417,Campanile Wealsleeves,Campanile Wealsleeves,mhxx-dex-1.0,6
-2422,Ace Vambraces,Ace Vambraces,mhxx-dex-1.0,6
-2427,Ace Guards,Ace Guards,mhxx-dex-1.0,6
-2432,Sororal Vambraces,Sororal Vambraces,mhxx-dex-1.0,6
-2437,Sororal Guards,Sororal Guards,mhxx-dex-1.0,6
-2442,Hawkbraces,Hawkbraces,mhxx-dex-1.0,6
-2447,Hawkguards,Hawkguards,mhxx-dex-1.0,6
-2452,Gourmew Gloves S,Gourmew Gloves S,mhxx-dex-1.0,6
-2457,Gourmew Mitts S,Gourmew Mitts S,mhxx-dex-1.0,6
-2463,Scholarly Grips S,Scholarly Grips S,mhxx-dex-1.0,6
-2468,Scholarly Cuffs S,Scholarly Cuffs S,mhxx-dex-1.0,6
-2473,Ranger's Gauntlets,Ranger's Gauntlets,mhxx-dex-1.0,6
-2478,Archer's Gauntlets,Archer's Gauntlets,mhxx-dex-1.0,6
-2483,Shinobi Heaven Kote,Shinobi Heaven Kote,mhxx-dex-1.0,7
-2488,Shinobi Land Kote,Shinobi Land Kote,mhxx-dex-1.0,7
-2493,Shinobi Sky Kote,Shinobi Sky Kote,mhxx-dex-1.0,7
-2498,Shinobi Sea Kote,Shinobi Sea Kote,mhxx-dex-1.0,7
-2503,Ancient Arms,Ancient Arms,mhxx-dex-1.0,7
-2508,Ancient Guards,Ancient Guards,mhxx-dex-1.0,7
-2513,Master's Gauntlets,Master's Gauntlets,mhxx-dex-1.0,7
-2518,Master's Guards,Master's Guards,mhxx-dex-1.0,7
-2523,Black Claw S,Black Claw S,mhxx-dex-1.0,7
-2528,Black Fist S,Black Fist S,mhxx-dex-1.0,7
-2533,Toka Kote,Toka Kote,mhxx-dex-1.0,7
-2538,Mitsuaoi Kote,Mitsuaoi Kote,mhxx-dex-1.0,7
-2543,Wisdom Sleeves,Wisdom Sleeves,mhxx-dex-1.0,7
-2548,Wisdom Cuffs,Wisdom Cuffs,mhxx-dex-1.0,7
-2553,Cheerful Braces,Cheerful Braces,mhxx-dex-1.0,7
-2558,Cheerful Guards,Cheerful Guards,mhxx-dex-1.0,7
-2563,Mariner Gloves,Mariner Gloves,mhxx-dex-1.0,7
-2568,Mariner Sleeves,Mariner Sleeves,mhxx-dex-1.0,7
-2573,EX Rathian Braces S,EX Rathian Braces S,mhxx-dex-1.0,7
-2578,EX Rathian Guards S,EX Rathian Guards S,mhxx-dex-1.0,7
-2583,EX Rathalos Braces S,EX Rathalos Braces S,mhxx-dex-1.0,7
-2588,EX Rathalos Guards S,EX Rathalos Guards S,mhxx-dex-1.0,7
-2593,EX Tigrex Braces S,EX Tigrex Braces S,mhxx-dex-1.0,7
-2598,EX Tigrex Guards S,EX Tigrex Guards S,mhxx-dex-1.0,7
-2603,Diablos Vambraces,Diablos Vambraces,mhxx-dex-1.0,7
-2608,Diablos Guards,Diablos Guards,mhxx-dex-1.0,7
-2613,Diablos Vambraces R,Diablos Vambraces R,mhxx-dex-1.0,7
-2618,Diablos Guards R,Diablos Guards R,mhxx-dex-1.0,7
-2623,Arc Vambraces S,Arc Vambraces S,mhxx-dex-1.0,7
-2628,Arc Guards S,Arc Guards S,mhxx-dex-1.0,7
-2633,Storge Braces S,Storge Braces S,mhxx-dex-1.0,7
-2638,Storge Guards S,Storge Guards S,mhxx-dex-1.0,7
-2643,EX Arc Vambraces,EX Arc Vambraces,mhxx-dex-1.0,7
-2648,EX Arc Guards,EX Arc Guards,mhxx-dex-1.0,7
-2653,EX Storge Vambraces,EX Storge Vambraces,mhxx-dex-1.0,7
-2658,EX Storge Guards,EX Storge Guards,mhxx-dex-1.0,7
-2663,Arc Braces R,Arc Braces R,mhxx-dex-1.0,7
-2668,Arc Guards R,Arc Guards R,mhxx-dex-1.0,7
-2673,Storge Braces R,Storge Braces R,mhxx-dex-1.0,7
-2678,Storge Guards R,Storge Guards R,mhxx-dex-1.0,7
-2683,Valstrax Braces,Valstrax Braces,mhxx-dex-1.0,7
-2688,Valstrax Guards,Valstrax Guards,mhxx-dex-1.0,7
-2693,Kushala Grip S,Kushala Grip S,mhxx-dex-1.0,7
-2698,Kushala Embrace S,Kushala Embrace S,mhxx-dex-1.0,7
-2703,EX Kushala Grip,EX Kushala Grip,mhxx-dex-1.0,7
-2708,EX Kushala Embrace,EX Kushala Embrace,mhxx-dex-1.0,7
-2713,Kushala Grip R,Kushala Grip R,mhxx-dex-1.0,7
-2718,Kushala Embrace R,Kushala Embrace R,mhxx-dex-1.0,7
-2723,Mizuha Sleeves S,Mizuha Sleeves S,mhxx-dex-1.0,7
-2728,Cham Sleeves S,Cham Sleeves S,mhxx-dex-1.0,7
-2733,EX Mizuha Sleeves,EX Mizuha Sleeves,mhxx-dex-1.0,7
-2738,EX Cham Sleeves,EX Cham Sleeves,mhxx-dex-1.0,7
-2743,Kaiser Vambraces S,Kaiser Vambraces S,mhxx-dex-1.0,7
-2748,Kaiser Guards S,Kaiser Guards S,mhxx-dex-1.0,7
-2753,EX Kaiser Vambraces,EX Kaiser Vambraces,mhxx-dex-1.0,7
-2758,EX Kaiser Guards,EX Kaiser Guards,mhxx-dex-1.0,7
-2763,Silver Solbraces,Silver Solbraces,mhxx-dex-1.0,7
-2768,Silver Solguards,Silver Solguards,mhxx-dex-1.0,7
-2773,EX Silver Solbraces,EX Silver Solbraces,mhxx-dex-1.0,7
-2778,EX Silver Solguards,EX Silver Solguards,mhxx-dex-1.0,7
-2783,Silver Solbraces R,Silver Solbraces R,mhxx-dex-1.0,7
-2788,Silver Solguards R,Silver Solguards R,mhxx-dex-1.0,7
-2793,Golden Lunebraces,Golden Lunebraces,mhxx-dex-1.0,7
-2798,Golden Luneguards,Golden Luneguards,mhxx-dex-1.0,7
-2803,EX Golden Lunebraces,EX Golden Lunebraces,mhxx-dex-1.0,7
-2808,EX Golden Luneguards,EX Golden Luneguards,mhxx-dex-1.0,7
-2813,Divine Ire Kote,Divine Ire Kote,mhxx-dex-1.0,7
-2818,Crusher Braces,Crusher Braces,mhxx-dex-1.0,7
-2823,Esurient Vambraces,Esurient Vambraces,mhxx-dex-1.0,7
-2828,Esurient Guards,Esurient Guards,mhxx-dex-1.0,7
-2833,Esurient Braces R,Esurient Braces R,mhxx-dex-1.0,7
-2838,Esurient Guards R,Esurient Guards R,mhxx-dex-1.0,7
-2843,Akantor Claws,Akantor Claws,mhxx-dex-1.0,7
-2848,Akantor Gauntlets,Akantor Gauntlets,mhxx-dex-1.0,7
-2853,Akantor Claws R,Akantor Claws R,mhxx-dex-1.0,7
-2858,Akantor Gauntlets R,Akantor Gauntlets R,mhxx-dex-1.0,7
-2863,Ukanlos Claws,Ukanlos Claws,mhxx-dex-1.0,7
-2868,Ukanlos Gauntlets,Ukanlos Gauntlets,mhxx-dex-1.0,7
-2873,Tempest Sleeves,Tempest Sleeves,mhxx-dex-1.0,7
-2878,Welkin Sleeves,Welkin Sleeves,mhxx-dex-1.0,7
-2883,Tempest Sleeves R,Tempest Sleeves R,mhxx-dex-1.0,7
-2888,Welkin Sleeves R,Welkin Sleeves R,mhxx-dex-1.0,7
-2893,Skeletal Humerus R,Skeletal Humerus R,mhxx-dex-1.0,7
-2898,Decayed Humerus R,Decayed Humerus R,mhxx-dex-1.0,7
-2903,Astral Vambraces,Astral Vambraces,mhxx-dex-1.0,7
-2908,Astral Guards,Astral Guards,mhxx-dex-1.0,7
-2913,Escadora Armguards,Escadora Armguards,mhxx-dex-1.0,7
-2918,Escadora Arma,Escadora Arma,mhxx-dex-1.0,7
-2923,Escadora Armguards R,Escadora Armguards R,mhxx-dex-1.0,7
-2928,Escadora Arma R,Escadora Arma R,mhxx-dex-1.0,7
-2931,Caravaneer's Armlets,Caravaneer's Armlets,mhxx-dex-1.0,7
-2945,Leather Braces X,Leather Braces X,mhxx-dex-1.0,8
-2950,Leather Guards X,Leather Guards X,mhxx-dex-1.0,8
-2955,Chain Vambraces X,Chain Vambraces X,mhxx-dex-1.0,8
-2960,Chainmail Guards X,Chainmail Guards X,mhxx-dex-1.0,8
-2965,Bherna Braces X,Bherna Braces X,mhxx-dex-1.0,8
-2970,Bherna Guards X,Bherna Guards X,mhxx-dex-1.0,8
-2975,Hunting Braces X,Hunting Braces X,mhxx-dex-1.0,8
-2980,Hunting Guards X,Hunting Guards X,mhxx-dex-1.0,8
-2985,Mafumofu Grips X,Mafumofu Grips X,mhxx-dex-1.0,8
-2990,Mafumofu Mittens X,Mafumofu Mittens X,mhxx-dex-1.0,8
-2995,Yukumo Sky Kote Goku,Yukumo Sky Kote Goku,mhxx-dex-1.0,8
-3000,Yukumo Land Kote Goku,Yukumo Land Kote Goku,mhxx-dex-1.0,8
-3005,Posh Bath Sleeves,Posh Bath Sleeves,mhxx-dex-1.0,8
-3012,Hunter's Vambraces X,Hunter's Vambraces X,mhxx-dex-1.0,8
-3017,Hunter's Guards X,Hunter's Guards X,mhxx-dex-1.0,8
-3022,Hunter's Vambraces XR,Hunter's Vambraces XR,mhxx-dex-1.0,8
-3027,Hunter's Guards XR,Hunter's Guards XR,mhxx-dex-1.0,8
-3032,Bone Vambraces X,Bone Vambraces X,mhxx-dex-1.0,8
-3037,Bone Guards X,Bone Guards X,mhxx-dex-1.0,8
-3042,Trapper's Gauntlets X,Trapper's Gauntlets X,mhxx-dex-1.0,8
-3044,Trapper's Gloves X,Trapper's Gloves X,mhxx-dex-1.0,8
-3050,Maccao Gauntlets X,Maccao Gauntlets X,mhxx-dex-1.0,8
-3052,Maccao Gloves X,Maccao Gloves X,mhxx-dex-1.0,8
-3054,Jaggi Gauntlets X,Jaggi Gauntlets X,mhxx-dex-1.0,8
-3056,Jaggi Gloves X,Jaggi Gloves X,mhxx-dex-1.0,8
-3060,Melahoa Branch X,Melahoa Branch X,mhxx-dex-1.0,8
-3065,Melahoa Petal X,Melahoa Petal X,mhxx-dex-1.0,8
-3070,Melahoa Branch Z,Melahoa Branch Z,mhxx-dex-1.0,8
-3075,Melahoa Petal Z,Melahoa Petal Z,mhxx-dex-1.0,8
-3080,Makluva Sleeves X,Makluva Sleeves X,mhxx-dex-1.0,8
-3085,Makluva Sucker X,Makluva Sucker X,mhxx-dex-1.0,8
-3090,Makluva Sleeves Z,Makluva Sleeves Z,mhxx-dex-1.0,8
-3095,Makluva Sucker Z,Makluva Sucker Z,mhxx-dex-1.0,8
-3100,Obituary Brachia X,Obituary Brachia X,mhxx-dex-1.0,8
-3105,Obituary Manus X,Obituary Manus X,mhxx-dex-1.0,8
-3110,Butterfly Brachia X,Butterfly Brachia X,mhxx-dex-1.0,8
-3115,Butterfly Manus X,Butterfly Manus X,mhxx-dex-1.0,8
-3120,Death Stench Grip X,Death Stench Grip X,mhxx-dex-1.0,8
-3125,Death Stench Grasp X,Death Stench Grasp X,mhxx-dex-1.0,8
-3130,Death Stench Grip XR,Death Stench Grip XR,mhxx-dex-1.0,8
-3135,Death Stench Grasp XR,Death Stench Grasp XR,mhxx-dex-1.0,8
-3144,Mosgharl Creeper X,Mosgharl Creeper X,mhxx-dex-1.0,8
-3149,Mosgharl Tendril X,Mosgharl Tendril X,mhxx-dex-1.0,8
-3154,Edel Creeper X,Edel Creeper X,mhxx-dex-1.0,8
-3159,Edel Tendril X,Edel Tendril X,mhxx-dex-1.0,8
-3164,Skalda Brachia X,Skalda Brachia X,mhxx-dex-1.0,8
-3169,Skalda Manus X,Skalda Manus X,mhxx-dex-1.0,8
-3174,Spio Brachia X,Spio Brachia X,mhxx-dex-1.0,8
-3179,Spio Manus X,Spio Manus X,mhxx-dex-1.0,8
-3184,Alloy Vambraces X,Alloy Vambraces X,mhxx-dex-1.0,8
-3189,Alloy Guards X,Alloy Guards X,mhxx-dex-1.0,8
-3194,Alloy Vambraces XR,Alloy Vambraces XR,mhxx-dex-1.0,8
-3199,Alloy Guards XR,Alloy Guards XR,mhxx-dex-1.0,8
-3204,Battle Vambraces X,Battle Vambraces X,mhxx-dex-1.0,8
-3209,Battle Guards X,Battle Guards X,mhxx-dex-1.0,8
-3214,Ingot Vambraces X,Ingot Vambraces X,mhxx-dex-1.0,8
-3219,Ingot Guards X,Ingot Guards X,mhxx-dex-1.0,8
-3224,Ingot Vambraces XR,Ingot Vambraces XR,mhxx-dex-1.0,8
-3229,Ingot Guards XR,Ingot Guards XR,mhxx-dex-1.0,8
-3234,High Metal Braces X,High Metal Braces X,mhxx-dex-1.0,8
-3239,High Metal Guards X,High Metal Guards X,mhxx-dex-1.0,8
-3244,High Metal Braces Z,High Metal Braces Z,mhxx-dex-1.0,8
-3249,High Metal Guards Z,High Metal Guards Z,mhxx-dex-1.0,8
-3256,Lobster Vambraces X,Lobster Vambraces X,mhxx-dex-1.0,8
-3261,Lobster Guards X,Lobster Guards X,mhxx-dex-1.0,8
-3266,Vaik Braces X,Vaik Braces X,mhxx-dex-1.0,8
-3271,Vaik Guards X,Vaik Guards X,mhxx-dex-1.0,8
-3282,Patissier's Gloves X,Patissier's Gloves X,mhxx-dex-1.0,8
-3287,Patissier's Mitts X,Patissier's Mitts X,mhxx-dex-1.0,8
-3292,Gourmew Gloves X,Gourmew Gloves X,mhxx-dex-1.0,8
-3297,Gourmew Mitts X,Gourmew Mitts X,mhxx-dex-1.0,8
-3302,Aelucanth Brachia X,Aelucanth Brachia X,mhxx-dex-1.0,8
-3307,Aelucanth Manus X,Aelucanth Manus X,mhxx-dex-1.0,8
-3312,Rhopessa Brachia X,Rhopessa Brachia X,mhxx-dex-1.0,8
-3317,Rhopessa Manus X,Rhopessa Manus X,mhxx-dex-1.0,8
-3322,Lecturer's Braces X,Lecturer's Braces X,mhxx-dex-1.0,8
-3327,Lecturer's Guards X,Lecturer's Guards X,mhxx-dex-1.0,8
-3332,Derring Vambraces X,Derring Vambraces X,mhxx-dex-1.0,8
-3337,Derring Guards X,Derring Guards X,mhxx-dex-1.0,8
-3342,Artian Vambraces X,Artian Vambraces X,mhxx-dex-1.0,8
-3347,Artian Guards X,Artian Guards X,mhxx-dex-1.0,8
-3352,Artian Braces XR,Artian Braces XR,mhxx-dex-1.0,8
-3357,Artian Guards XR,Artian Guards XR,mhxx-dex-1.0,8
-3362,Maiden's Gloves X,Maiden's Gloves X,mhxx-dex-1.0,8
-3367,French Maid Sleeves X,French Maid Sleeves X,mhxx-dex-1.0,8
-3372,Dianthus Masasleeves,Dianthus Masasleeves,mhxx-dex-1.0,8
-3377,Campanile Masasleeves,Campanile Masasleeves,mhxx-dex-1.0,8
-3382,Hawkbraces X,Hawkbraces X,mhxx-dex-1.0,8
-3387,Hawkguards X,Hawkguards X,mhxx-dex-1.0,8
-3392,Scholarly Grips X,Scholarly Grips X,mhxx-dex-1.0,8
-3397,Scholarly Cuffs X,Scholarly Cuffs X,mhxx-dex-1.0,8
-3402,Dober Vambraces X,Dober Vambraces X,mhxx-dex-1.0,8
-3407,Dober Guards X,Dober Guards X,mhxx-dex-1.0,8
-3412,Scholar's Gloves X,Scholar's Gloves X,mhxx-dex-1.0,8
-3417,Scholar's Sleeves X,Scholar's Sleeves X,mhxx-dex-1.0,8
-3422,Sailor Gloves X,Sailor Gloves X,mhxx-dex-1.0,8
-3427,Sailor Sleeves X,Sailor Sleeves X,mhxx-dex-1.0,8
-3432,Mariner Gloves X,Mariner Gloves X,mhxx-dex-1.0,8
-3437,Mariner Sleeves X,Mariner Sleeves X,mhxx-dex-1.0,8
-3446,Jaggi Vambraces X,Jaggi Vambraces X,mhxx-dex-1.0,8
-3451,Jaggi Guards X,Jaggi Guards X,mhxx-dex-1.0,8
-3457,Maccao Braces X,Maccao Braces X,mhxx-dex-1.0,8
-3462,Maccao Guards X,Maccao Guards X,mhxx-dex-1.0,8
-3467,Velociprey Braces X,Velociprey Braces X,mhxx-dex-1.0,8
-3472,Velociprey Guards X,Velociprey Guards X,mhxx-dex-1.0,8
-3477,Giaprey Braces X,Giaprey Braces X,mhxx-dex-1.0,8
-3482,Giaprey Guards X,Giaprey Guards X,mhxx-dex-1.0,8
-3487,Genprey Vambraces X,Genprey Vambraces X,mhxx-dex-1.0,8
-3492,Genprey Guards X,Genprey Guards X,mhxx-dex-1.0,8
-3497,Genprey Vambraces GX,Genprey Vambraces GX,mhxx-dex-1.0,8
-3502,Genprey Guards GX,Genprey Guards GX,mhxx-dex-1.0,8
-3507,Vespoid Vambraces X,Vespoid Vambraces X,mhxx-dex-1.0,8
-3512,Vespoid Guards X,Vespoid Guards X,mhxx-dex-1.0,8
-3517,Vespoid Vambraces GX,Vespoid Vambraces GX,mhxx-dex-1.0,8
-3522,Vespoid Guards GX,Vespoid Guards GX,mhxx-dex-1.0,8
-3527,Hornetaur Braces X,Hornetaur Braces X,mhxx-dex-1.0,8
-3532,Hornetaur Guards X,Hornetaur Guards X,mhxx-dex-1.0,8
-3537,Hornetaur Braces GX,Hornetaur Braces GX,mhxx-dex-1.0,8
-3542,Hornetaur Guards GX,Hornetaur Guards GX,mhxx-dex-1.0,8
-3547,Hornetaur Braces XR,Hornetaur Braces XR,mhxx-dex-1.0,8
-3552,Hornetaur Guards XR,Hornetaur Guards XR,mhxx-dex-1.0,8
-3557,Bnahabra Gloves X,Bnahabra Gloves X,mhxx-dex-1.0,8
-3562,Bnahabra Sleeves X,Bnahabra Sleeves X,mhxx-dex-1.0,8
-3566,Konchu Vambraces X,Konchu Vambraces X,mhxx-dex-1.0,8
-3568,Konchu Guards X,Konchu Guards X,mhxx-dex-1.0,8
-3571,Mosswine Gloves X,Mosswine Gloves X,mhxx-dex-1.0,8
-3576,Rhenoplos Braces X,Rhenoplos Braces X,mhxx-dex-1.0,8
-3581,Rhenoplos Guards X,Rhenoplos Guards X,mhxx-dex-1.0,8
-3586,Bulldrome Braces X,Bulldrome Braces X,mhxx-dex-1.0,8
-3591,Bulldrome Guards X,Bulldrome Guards X,mhxx-dex-1.0,8
-3597,Arzuros Vambraces X,Arzuros Vambraces X,mhxx-dex-1.0,8
-3602,Arzuros Guards X,Arzuros Guards X,mhxx-dex-1.0,8
-3607,Cephalos Vambraces X,Cephalos Vambraces X,mhxx-dex-1.0,8
-3612,Cephalos Guards X,Cephalos Guards X,mhxx-dex-1.0,8
-3617,Cephalos Braces GX,Cephalos Braces GX,mhxx-dex-1.0,8
-3622,Cephalos Guards GX,Cephalos Guards GX,mhxx-dex-1.0,8
-3639,Moofah Claws X,Moofah Claws X,mhxx-dex-1.0,8
-3643,Moofah Sleeves X,Moofah Sleeves X,mhxx-dex-1.0,8
-3647,Velociprey Claws X,Velociprey Claws X,mhxx-dex-1.0,8
-3651,Velociprey Gloves X,Velociprey Gloves X,mhxx-dex-1.0,8
-3655,Giaprey Claws X,Giaprey Claws X,mhxx-dex-1.0,8
-3659,Giaprey Gloves X,Giaprey Gloves X,mhxx-dex-1.0,8
-3663,Genprey Claws X,Genprey Claws X,mhxx-dex-1.0,8
-3667,Genprey Gloves X,Genprey Gloves X,mhxx-dex-1.0,8
-3671,Ioprey Claws X,Ioprey Claws X,mhxx-dex-1.0,8
-3675,Ioprey Gloves X,Ioprey Gloves X,mhxx-dex-1.0,8
-3679,Remobra Gloves X,Remobra Gloves X,mhxx-dex-1.0,8
-3684,Remobra Hands X,Remobra Hands X,mhxx-dex-1.0,8
-3689,Ioprey Vambraces X,Ioprey Vambraces X,mhxx-dex-1.0,8
-3694,Ioprey Guards X,Ioprey Guards X,mhxx-dex-1.0,8
-3699,Ioprey Vambraces GX,Ioprey Vambraces GX,mhxx-dex-1.0,8
-3704,Ioprey Guards GX,Ioprey Guards GX,mhxx-dex-1.0,8
-3709,Kut-Ku Vambraces X,Kut-Ku Vambraces X,mhxx-dex-1.0,8
-3714,Kut-Ku Guards X,Kut-Ku Guards X,mhxx-dex-1.0,8
-3719,Kecha Braces X,Kecha Braces X,mhxx-dex-1.0,8
-3724,Kecha Guards X,Kecha Guards X,mhxx-dex-1.0,8
-3729,Lagombi Vambraces X,Lagombi Vambraces X,mhxx-dex-1.0,8
-3734,Lagombi Guards X,Lagombi Guards X,mhxx-dex-1.0,8
-3739,Gypceros Vambraces X,Gypceros Vambraces X,mhxx-dex-1.0,8
-3744,Gypceros Guards X,Gypceros Guards X,mhxx-dex-1.0,8
-3749,Gypceros Braces XR,Gypceros Braces XR,mhxx-dex-1.0,8
-3754,Gypceros Guards XR,Gypceros Guards XR,mhxx-dex-1.0,8
-3759,Tetsucabra Braces X,Tetsucabra Braces X,mhxx-dex-1.0,8
-3764,Tetsucabra Guards X,Tetsucabra Guards X,mhxx-dex-1.0,8
-3769,Hermitaur Braces X,Hermitaur Braces X,mhxx-dex-1.0,8
-3774,Hermitaur Guards X,Hermitaur Guards X,mhxx-dex-1.0,8
-3779,Hermitaur Braces GX,Hermitaur Braces GX,mhxx-dex-1.0,8
-3784,Hermitaur Guards GX,Hermitaur Guards GX,mhxx-dex-1.0,8
-3789,Hermitaur Braces XR,Hermitaur Braces XR,mhxx-dex-1.0,8
-3794,Hermitaur Guards XR,Hermitaur Guards XR,mhxx-dex-1.0,8
-3799,Volvidon Vambraces X,Volvidon Vambraces X,mhxx-dex-1.0,8
-3804,Volvidon Guards X,Volvidon Guards X,mhxx-dex-1.0,8
-3809,Conga Vambraces X,Conga Vambraces X,mhxx-dex-1.0,8
-3814,Conga Guards X,Conga Guards X,mhxx-dex-1.0,8
-3819,Conga Vambraces GX,Conga Vambraces GX,mhxx-dex-1.0,8
-3824,Conga Guards GX,Conga Guards GX,mhxx-dex-1.0,8
-3829,Ludroth Vambraces X,Ludroth Vambraces X,mhxx-dex-1.0,8
-3834,Ludroth Guards X,Ludroth Guards X,mhxx-dex-1.0,8
-3839,Ludroth Braces XR,Ludroth Braces XR,mhxx-dex-1.0,8
-3844,Ludroth Guards XR,Ludroth Guards XR,mhxx-dex-1.0,8
-3849,Barroth Vambraces X,Barroth Vambraces X,mhxx-dex-1.0,8
-3854,Barroth Guards X,Barroth Guards X,mhxx-dex-1.0,8
-3859,Basarios Vambraces X,Basarios Vambraces X,mhxx-dex-1.0,8
-3864,Basarios Guards X,Basarios Guards X,mhxx-dex-1.0,8
-3869,Malfestio Braces X,Malfestio Braces X,mhxx-dex-1.0,8
-3874,Malfestio Guards X,Malfestio Guards X,mhxx-dex-1.0,8
-3879,Zamtrios Braces X,Zamtrios Braces X,mhxx-dex-1.0,8
-3884,Zamtrios Guards X,Zamtrios Guards X,mhxx-dex-1.0,8
-3889,Khezu Vambraces X,Khezu Vambraces X,mhxx-dex-1.0,8
-3894,Khezu Guards X,Khezu Guards X,mhxx-dex-1.0,8
-3899,Khezu Vambraces XR,Khezu Vambraces XR,mhxx-dex-1.0,8
-3904,Khezu Guards XR,Khezu Guards XR,mhxx-dex-1.0,8
-3909,Nerscylla Braces X,Nerscylla Braces X,mhxx-dex-1.0,8
-3914,Nerscylla Guards X,Nerscylla Guards X,mhxx-dex-1.0,8
-3919,Rathian Vambraces X,Rathian Vambraces X,mhxx-dex-1.0,8
-3924,Rathian Guards X,Rathian Guards X,mhxx-dex-1.0,8
-3929,Rathian Braces GX,Rathian Braces GX,mhxx-dex-1.0,8
-3934,Rathian Guards GX,Rathian Guards GX,mhxx-dex-1.0,8
-3939,Rathian Braces XR,Rathian Braces XR,mhxx-dex-1.0,8
-3944,Rathian Guards XR,Rathian Guards XR,mhxx-dex-1.0,8
-3949,Nibelsnarf Braces X,Nibelsnarf Braces X,mhxx-dex-1.0,8
-3954,Nibelsnarf Guards X,Nibelsnarf Guards X,mhxx-dex-1.0,8
-3959,Plesioth Vambraces X,Plesioth Vambraces X,mhxx-dex-1.0,8
-3963,Plesioth Guards X,Plesioth Guards X,mhxx-dex-1.0,8
-3968,Blango Vambraces X,Blango Vambraces X,mhxx-dex-1.0,8
-3973,Blango Guards X,Blango Guards X,mhxx-dex-1.0,8
-3978,Blango Vambraces GX,Blango Vambraces GX,mhxx-dex-1.0,8
-3983,Blango Guards GX,Blango Guards GX,mhxx-dex-1.0,8
-3988,Lava Vambraces X,Lava Vambraces X,mhxx-dex-1.0,8
-3993,Lava Guards X,Lava Guards X,mhxx-dex-1.0,8
-3998,Lavasioth Braces GX,Lavasioth Braces GX,mhxx-dex-1.0,8
-4003,Lavasioth Guards GX,Lavasioth Guards GX,mhxx-dex-1.0,8
-4008,Ceanataur Braces X,Ceanataur Braces X,mhxx-dex-1.0,8
-4013,Ceanataur Guards X,Ceanataur Guards X,mhxx-dex-1.0,8
-4018,Ceanataur Braces GX,Ceanataur Braces GX,mhxx-dex-1.0,8
-4023,Ceanataur Guards GX,Ceanataur Guards GX,mhxx-dex-1.0,8
-4028,Ceanataur Braces XR,Ceanataur Braces XR,mhxx-dex-1.0,8
-4033,Ceanataur Guards XR,Ceanataur Guards XR,mhxx-dex-1.0,8
-4038,Najarala Braces X,Najarala Braces X,mhxx-dex-1.0,8
-4043,Najarala Guards X,Najarala Guards X,mhxx-dex-1.0,8
-4048,Nargacuga Braces X,Nargacuga Braces X,mhxx-dex-1.0,8
-4053,Nargacuga Guards X,Nargacuga Guards X,mhxx-dex-1.0,8
-4058,Garuga Vambraces X,Garuga Vambraces X,mhxx-dex-1.0,8
-4063,Garuga Guards X,Garuga Guards X,mhxx-dex-1.0,8
-4069,Uragaan Vambraces X,Uragaan Vambraces X,mhxx-dex-1.0,8
-4074,Uragaan Guards X,Uragaan Guards X,mhxx-dex-1.0,8
-4079,GX Kita Star Sleeves,GX Kita Star Sleeves,mhxx-dex-1.0,8
-4083,GX Umi Ocean Sleeves,GX Umi Ocean Sleeves,mhxx-dex-1.0,8
-4087,G. Knight Gloves X,G. Knight Gloves X,mhxx-dex-1.0,8
-4092,G. Knight Sleeves X,G. Knight Sleeves X,mhxx-dex-1.0,8
-4097,Guild Bard Braces X,Guild Bard Braces X,mhxx-dex-1.0,8
-4102,Guild Bard Sleeves X,Guild Bard Sleeves X,mhxx-dex-1.0,8
-4114,Helper Sleeves X,Helper Sleeves X,mhxx-dex-1.0,9
-4119,Healer Sleeves X,Healer Sleeves X,mhxx-dex-1.0,9
-4124,Helper Sleeves Z,Helper Sleeves Z,mhxx-dex-1.0,9
-4129,Healer Sleeves Z,Healer Sleeves Z,mhxx-dex-1.0,9
-4134,Ancient Arms X,Ancient Arms X,mhxx-dex-1.0,9
-4139,Ancient Guards X,Ancient Guards X,mhxx-dex-1.0,9
-4144,Ace Vambraces X,Ace Vambraces X,mhxx-dex-1.0,9
-4149,Ace Guards X,Ace Guards X,mhxx-dex-1.0,9
-4154,Sororal Vambraces X,Sororal Vambraces X,mhxx-dex-1.0,9
-4159,Sororal Guards X,Sororal Guards X,mhxx-dex-1.0,9
-4164,Strider's Gauntlets,Strider's Gauntlets,mhxx-dex-1.0,9
-4169,Deadeye's Gauntlets,Deadeye's Gauntlets,mhxx-dex-1.0,9
-4174,Shinobi Heaven Kote Goku,Shinobi Heaven Kote Goku,mhxx-dex-1.0,9
-4179,Shinobi Land Kote Goku,Shinobi Land Kote Goku,mhxx-dex-1.0,9
-4184,Master's Gauntlets X,Master's Gauntlets X,mhxx-dex-1.0,9
-4189,Master's Guards X,Master's Guards X,mhxx-dex-1.0,9
-4194,Grand Toka Kote,Grand Toka Kote,mhxx-dex-1.0,9
-4199,Grand Mitsuaoi Kote,Grand Mitsuaoi Kote,mhxx-dex-1.0,9
-4204,Yaksha Braces,Yaksha Braces,mhxx-dex-1.0,9
-4209,Carnage Vambraces,Carnage Vambraces,mhxx-dex-1.0,9
-4214,Helios Vambraces X,Helios Vambraces X,mhxx-dex-1.0,9
-4219,Helios Guards X,Helios Guards X,mhxx-dex-1.0,9
-4224,Selene Vambraces X,Selene Vambraces X,mhxx-dex-1.0,9
-4229,Selene Guards X,Selene Guards X,mhxx-dex-1.0,9
-4234,Wisdom Sleeves X,Wisdom Sleeves X,mhxx-dex-1.0,9
-4239,Wisdom Cuffs X,Wisdom Cuffs X,mhxx-dex-1.0,9
-4244,Research Grips,Research Grips,mhxx-dex-1.0,9
-4249,Research Cuffs,Research Cuffs,mhxx-dex-1.0,9
-4254,Cheerful Braces X,Cheerful Braces X,mhxx-dex-1.0,9
-4259,Cheerful Guards X,Cheerful Guards X,mhxx-dex-1.0,9
-4264,Barioth Vambraces X,Barioth Vambraces X,mhxx-dex-1.0,9
-4269,Barioth Guards X,Barioth Guards X,mhxx-dex-1.0,9
-4274,Seltas Vambraces X,Seltas Vambraces X,mhxx-dex-1.0,9
-4279,Seltas Guards X,Seltas Guards X,mhxx-dex-1.0,9
-4284,Rathalos Vambraces X,Rathalos Vambraces X,mhxx-dex-1.0,9
-4289,Rathalos Guards X,Rathalos Guards X,mhxx-dex-1.0,9
-4294,Rathalos Braces GX,Rathalos Braces GX,mhxx-dex-1.0,9
-4299,Rathalos Guards GX,Rathalos Guards GX,mhxx-dex-1.0,9
-4304,Rathalos Braces XR,Rathalos Braces XR,mhxx-dex-1.0,9
-4309,Rathalos Guards XR,Rathalos Guards XR,mhxx-dex-1.0,9
-4314,Lagiacrus Braces X,Lagiacrus Braces X,mhxx-dex-1.0,9
-4319,Lagiacrus Guards X,Lagiacrus Guards X,mhxx-dex-1.0,9
-4324,Lagiacrus Braces XR,Lagiacrus Braces XR,mhxx-dex-1.0,9
-4329,Lagiacrus Guards XR,Lagiacrus Guards XR,mhxx-dex-1.0,9
-4334,Zinogre Vambraces X,Zinogre Vambraces X,mhxx-dex-1.0,9
-4339,Zinogre Guards X,Zinogre Guards X,mhxx-dex-1.0,9
-4344,Zinogre Braces GX,Zinogre Braces GX,mhxx-dex-1.0,9
-4349,Zinogre Guards GX,Zinogre Guards GX,mhxx-dex-1.0,9
-4354,Gravios Vambraces X,Gravios Vambraces X,mhxx-dex-1.0,9
-4359,Gravios Guards X,Gravios Guards X,mhxx-dex-1.0,9
-4364,Mizutsune Braces X,Mizutsune Braces X,mhxx-dex-1.0,9
-4369,Mizutsune Guards X,Mizutsune Guards X,mhxx-dex-1.0,9
-4374,Astalos Braces X,Astalos Braces X,mhxx-dex-1.0,9
-4379,Astalos Guards X,Astalos Guards X,mhxx-dex-1.0,9
-4384,Gammoth Braces X,Gammoth Braces X,mhxx-dex-1.0,9
-4389,Gammoth Guards X,Gammoth Guards X,mhxx-dex-1.0,9
-4394,Glavenus Braces X,Glavenus Braces X,mhxx-dex-1.0,9
-4399,Glavenus Guards X,Glavenus Guards X,mhxx-dex-1.0,9
-4404,Agnaktor Vambraces X,Agnaktor Vambraces X,mhxx-dex-1.0,9
-4409,Agnaktor Guards X,Agnaktor Guards X,mhxx-dex-1.0,9
-4414,Gore Braces X,Gore Braces X,mhxx-dex-1.0,9
-4419,Gore Guards X,Gore Guards X,mhxx-dex-1.0,9
-4424,Gore Braces GX,Gore Braces GX,mhxx-dex-1.0,9
-4429,Gore Guards GX,Gore Guards GX,mhxx-dex-1.0,9
-4434,Gore Braces XR,Gore Braces XR,mhxx-dex-1.0,9
-4439,Gore Guards XR,Gore Guards XR,mhxx-dex-1.0,9
-4444,Regios Vambraces X,Regios Vambraces X,mhxx-dex-1.0,9
-4449,Regios Guards X,Regios Guards X,mhxx-dex-1.0,9
-4454,Duramboros Braces X,Duramboros Braces X,mhxx-dex-1.0,9
-4459,Duramboros Guards X,Duramboros Guards X,mhxx-dex-1.0,9
-4464,Tigrex Vambraces X,Tigrex Vambraces X,mhxx-dex-1.0,9
-4469,Tigrex Guards X,Tigrex Guards X,mhxx-dex-1.0,9
-4474,Tigrex Braces GX,Tigrex Braces GX,mhxx-dex-1.0,9
-4479,Tigrex Guards GX,Tigrex Guards GX,mhxx-dex-1.0,9
-4484,Tigrex Braces XR,Tigrex Braces XR,mhxx-dex-1.0,9
-4489,Tigrex Guards XR,Tigrex Guards XR,mhxx-dex-1.0,9
-4494,Diablos Vambraces X,Diablos Vambraces X,mhxx-dex-1.0,9
-4499,Diablos Guards X,Diablos Guards X,mhxx-dex-1.0,9
-4504,Diablos Vambraces XR,Diablos Vambraces XR,mhxx-dex-1.0,9
-4509,Diablos Guards XR,Diablos Guards XR,mhxx-dex-1.0,9
-4514,Kirin Longarms X,Kirin Longarms X,mhxx-dex-1.0,9
-4519,Kirin Gloves X,Kirin Gloves X,mhxx-dex-1.0,9
-4524,Kirin Longarms XR,Kirin Longarms XR,mhxx-dex-1.0,9
-4529,Kirin Gloves XR,Kirin Gloves XR,mhxx-dex-1.0,9
-4534,Brachydios Braces X,Brachydios Braces X,mhxx-dex-1.0,9
-4539,Brachydios Guards X,Brachydios Guards X,mhxx-dex-1.0,9
-4544,Brachydios Braces GX,Brachydios Braces GX,mhxx-dex-1.0,9
-4549,Brachydios Guards GX,Brachydios Guards GX,mhxx-dex-1.0,9
-4554,Arc Vambraces X,Arc Vambraces X,mhxx-dex-1.0,9
-4559,Arc Guards X,Arc Guards X,mhxx-dex-1.0,9
-4564,Storge Vambraces X,Storge Vambraces X,mhxx-dex-1.0,9
-4569,Storge Guards X,Storge Guards X,mhxx-dex-1.0,9
-4574,Arc Vambraces GX,Arc Vambraces GX,mhxx-dex-1.0,9
-4579,Arc Guards GX,Arc Guards GX,mhxx-dex-1.0,9
-4584,Storge Braces GX,Storge Braces GX,mhxx-dex-1.0,9
-4589,Storge Guards GX,Storge Guards GX,mhxx-dex-1.0,9
-4594,Arc Vambraces XR,Arc Vambraces XR,mhxx-dex-1.0,9
-4599,Arc Guards XR,Arc Guards XR,mhxx-dex-1.0,9
-4604,Storge Braces XR,Storge Braces XR,mhxx-dex-1.0,9
-4609,Storge Guards XR,Storge Guards XR,mhxx-dex-1.0,9
-4614,Valstrax Braces X,Valstrax Braces X,mhxx-dex-1.0,9
-4619,Valstrax Guards X,Valstrax Guards X,mhxx-dex-1.0,9
-4624,Grand God's Peer Arms,Grand God's Peer Arms,mhxx-dex-1.0,9
-4629,Grand Hermit Arms,Grand Hermit Arms,mhxx-dex-1.0,9
-4634,Vangis Vambraces X,Vangis Vambraces X,mhxx-dex-1.0,9
-4639,Vangis Guards X,Vangis Guards X,mhxx-dex-1.0,9
-4644,Chaos Vambraces,Chaos Vambraces,mhxx-dex-1.0,9
-4649,Chaos Guards,Chaos Guards,mhxx-dex-1.0,9
-4654,Nephilim Vambraces,Nephilim Vambraces,mhxx-dex-1.0,9
-4659,Nephilim Guards,Nephilim Guards,mhxx-dex-1.0,9
-4664,Black Belt Braces X,Black Belt Braces X,mhxx-dex-1.0,9
-4669,Black Belt Guards X,Black Belt Guards X,mhxx-dex-1.0,9
-4674,Guardian Vambraces X,Guardian Vambraces X,mhxx-dex-1.0,9
-4679,Guardian Guards X,Guardian Guards X,mhxx-dex-1.0,9
-4684,Guardian Vambraces Z,Guardian Vambraces Z,mhxx-dex-1.0,9
-4689,Guardian Guards Z,Guardian Guards Z,mhxx-dex-1.0,9
-4694,Blue Guild Gloves X,Blue Guild Gloves X,mhxx-dex-1.0,9
-4699,Blue Guild Sleeves X,Blue Guild Sleeves X,mhxx-dex-1.0,9
-4704,Blue Guild Gloves X,Blue Guild Gloves X,mhxx-dex-1.0,9
-4709,Blue Guild Sleeves X,Blue Guild Sleeves X,mhxx-dex-1.0,9
-4714,Red Guild Gloves X,Red Guild Gloves X,mhxx-dex-1.0,9
-4719,Red Guild Sleeves X,Red Guild Sleeves X,mhxx-dex-1.0,9
-4724,Red Guild Gloves X,Red Guild Gloves X,mhxx-dex-1.0,9
-4729,Red Guild Sleeves X,Red Guild Sleeves X,mhxx-dex-1.0,9
-4734,Black Claw X,Black Claw X,mhxx-dex-1.0,9
-4739,Black Fist X,Black Fist X,mhxx-dex-1.0,9
-4744,Damascus Vambraces X,Damascus Vambraces X,mhxx-dex-1.0,9
-4749,Damascus Guards X,Damascus Guards X,mhxx-dex-1.0,9
-4754,Damascus VambracesXR,Damascus VambracesXR,mhxx-dex-1.0,9
-4759,Damascus Guards XR,Damascus Guards XR,mhxx-dex-1.0,9
-4763,Caravaneer's Armlets X,Caravaneer's Armlets X,mhxx-dex-1.0,9
-4766,Kaiserin Arms,Kaiserin Arms,mhxx-dex-1.0,9
-4771,Kaisrein Guards,Kaisrein Guards,mhxx-dex-1.0,9
-4776,Barmaid's Gloves,Barmaid's Gloves,mhxx-dex-1.0,9
-4781,Barmaid's Sleeves,Barmaid's Sleeves,mhxx-dex-1.0,9
-4786,Barman's Gloves,Barman's Gloves,mhxx-dex-1.0,9
-4791,Barman's Sleeves,Barman's Sleeves,mhxx-dex-1.0,9
-4802,Kushala Grip X,Kushala Grip X,mhxx-dex-1.0,10
-4807,Kushala Embrace X,Kushala Embrace X,mhxx-dex-1.0,10
-4812,Kushala Grip GX,Kushala Grip GX,mhxx-dex-1.0,10
-4817,Kushala Embrace GX,Kushala Embrace GX,mhxx-dex-1.0,10
-4822,Kushala Grip XR,Kushala Grip XR,mhxx-dex-1.0,10
-4827,Kushala Embrace XR,Kushala Embrace XR,mhxx-dex-1.0,10
-4832,Grand Mizuha Sleeves,Grand Mizuha Sleeves,mhxx-dex-1.0,10
-4837,Grand Cham Sleeves,Grand Cham Sleeves,mhxx-dex-1.0,10
-4842,Mizuha Sleeves GX,Mizuha Sleeves GX,mhxx-dex-1.0,10
-4847,Cham Sleeves GX,Cham Sleeves GX,mhxx-dex-1.0,10
-4852,Kaiser Vambraces X,Kaiser Vambraces X,mhxx-dex-1.0,10
-4857,Kaiser Guards X,Kaiser Guards X,mhxx-dex-1.0,10
-4862,Kaiser Vambraces GX,Kaiser Vambraces GX,mhxx-dex-1.0,10
-4867,Kaiser Guards GX,Kaiser Guards GX,mhxx-dex-1.0,10
-4872,Silver Solbraces Z,Silver Solbraces Z,mhxx-dex-1.0,10
-4877,Silver Solguards Z,Silver Solguards Z,mhxx-dex-1.0,10
-4882,GX Silver Solbraces,GX Silver Solbraces,mhxx-dex-1.0,10
-4887,GX Silver Solguards,GX Silver Solguards,mhxx-dex-1.0,10
-4892,Silver Solbraces XR,Silver Solbraces XR,mhxx-dex-1.0,10
-4897,Silver Solguards XR,Silver Solguards XR,mhxx-dex-1.0,10
-4902,Golden Lunebraces Z,Golden Lunebraces Z,mhxx-dex-1.0,10
-4907,Golden Luneguards Z,Golden Luneguards Z,mhxx-dex-1.0,10
-4912,GX Golden Lunebraces,GX Golden Lunebraces,mhxx-dex-1.0,10
-4917,GX Golden Luneguards,GX Golden Luneguards,mhxx-dex-1.0,10
-4922,Grand Divine Ire Kote,Grand Divine Ire Kote,mhxx-dex-1.0,10
-4927,Grand Crusher Braces,Grand Crusher Braces,mhxx-dex-1.0,10
-4932,Esurient Vambraces Z,Esurient Vambraces Z,mhxx-dex-1.0,10
-4937,Esurient Guards Z,Esurient Guards Z,mhxx-dex-1.0,10
-4942,Esurient Vambraces XR,Esurient Vambraces XR,mhxx-dex-1.0,10
-4947,Esurient Guards XR,Esurient Guards XR,mhxx-dex-1.0,10
-4952,Brachydium Vambraces,Brachydium Vambraces,mhxx-dex-1.0,10
-4957,Brachydium Guards,Brachydium Guards,mhxx-dex-1.0,10
-4962,Auroros Gauntlets,Auroros Gauntlets,mhxx-dex-1.0,10
-4967,Genesis Gauntlets,Genesis Gauntlets,mhxx-dex-1.0,10
-4972,Borealis Gauntlets,Borealis Gauntlets,mhxx-dex-1.0,10
-4977,Glyph Gauntlets,Glyph Gauntlets,mhxx-dex-1.0,10
-4982,Auroros Gauntlets GX,Auroros Gauntlets GX,mhxx-dex-1.0,10
-4987,Genesis Gauntlets GX,Genesis Gauntlets GX,mhxx-dex-1.0,10
-4992,Borealis Gauntlets GX,Borealis Gauntlets GX,mhxx-dex-1.0,10
-4997,Glyph Gauntlets GX,Glyph Gauntlets GX,mhxx-dex-1.0,10
-5002,Auroros Gauntlets XR,Auroros Gauntlets XR,mhxx-dex-1.0,10
-5007,Genesis Gauntlets XR,Genesis Gauntlets XR,mhxx-dex-1.0,10
-5012,Borealis Gauntlets XR,Borealis Gauntlets XR,mhxx-dex-1.0,10
-5017,Glyph Gauntlets XR,Glyph Gauntlets XR,mhxx-dex-1.0,10
-5022,Auroros Gauntlets R,Auroros Gauntlets R,mhxx-dex-1.0,10
-5027,Genesis Gauntlets R,Genesis Gauntlets R,mhxx-dex-1.0,10
-5032,Borealis Gauntlets R,Borealis Gauntlets R,mhxx-dex-1.0,10
-5037,Glyph Gauntlets R,Glyph Gauntlets R,mhxx-dex-1.0,10
-5042,Akantor Claws X,Akantor Claws X,mhxx-dex-1.0,10
-5047,Akantor Gauntlets X,Akantor Gauntlets X,mhxx-dex-1.0,10
-5052,Akantor Claws XR,Akantor Claws XR,mhxx-dex-1.0,10
-5057,Akantor Gauntlets XR,Akantor Gauntlets XR,mhxx-dex-1.0,10
-5062,Ukanlos Claws X,Ukanlos Claws X,mhxx-dex-1.0,10
-5067,Ukanlos Gauntlets X,Ukanlos Gauntlets X,mhxx-dex-1.0,10
-5072,Grand Tempest Sleeves,Grand Tempest Sleeves,mhxx-dex-1.0,10
-5077,Grand Welkin Sleeves,Grand Welkin Sleeves,mhxx-dex-1.0,10
-5082,Tempest Sleeves XR,Tempest Sleeves XR,mhxx-dex-1.0,10
-5087,Welkin Sleeves XR,Welkin Sleeves XR,mhxx-dex-1.0,10
-5092,Grand Skeletal Humerus,Grand Skeletal Humerus,mhxx-dex-1.0,10
-5097,Grand Decayed Humerus,Grand Decayed Humerus,mhxx-dex-1.0,10
-5102,Astral Vambraces X,Astral Vambraces X,mhxx-dex-1.0,10
-5107,Astral Guards X,Astral Guards X,mhxx-dex-1.0,10
-5112,Neset Gloves,Neset Gloves,mhxx-dex-1.0,10
-5117,Neset Brachia,Neset Brachia,mhxx-dex-1.0,10
-5122,Dragonclaws,Dragonclaws,mhxx-dex-1.0,10
-5127,Dragonfists,Dragonfists,mhxx-dex-1.0,10
-5132,Escadora Arms X,Escadora Arms X,mhxx-dex-1.0,10
-5137,Escadora Arma X,Escadora Arma X,mhxx-dex-1.0,10
-5142,Escadora Armguards XR,Escadora Armguards XR,mhxx-dex-1.0,10
-5147,Escadora Arma XR,Escadora Arma XR,mhxx-dex-1.0,10
-5152,Fatalis Crimsonclaws,Fatalis Crimsonclaws,mhxx-dex-1.0,10
-5157,Fatalis Crimsonfists,Fatalis Crimsonfists,mhxx-dex-1.0,10
-5162,GX Fatalis Crimsonclaws,GX Fatalis Crimsonclaws,mhxx-dex-1.0,10
-5167,GX Fatalis Crimsonfists,GX Fatalis Crimsonfists,mhxx-dex-1.0,10
-5172,Fatalis Crimsonclaws XR,Fatalis Crimsonclaws XR,mhxx-dex-1.0,10
-5177,Fatalis Crimsonfists XR,Fatalis Crimsonfists XR,mhxx-dex-1.0,10
-5182,Old Fatalis Claw,Old Fatalis Claw,mhxx-dex-1.0,10
-5187,Old Fatalis Fist,Old Fatalis Fist,mhxx-dex-1.0,10
-5192,GX Old Fatalis Claw,GX Old Fatalis Claw,mhxx-dex-1.0,10
-5197,GX Old Fatalis Fist,GX Old Fatalis Fist,mhxx-dex-1.0,10
-5202,Strange Vambraces,Strange Vambraces,mhxx-dex-1.0,5
-5207,Strange Guards,Strange Guards,mhxx-dex-1.0,5
-5212,Strange Vambraces X,Strange Vambraces X,mhxx-dex-1.0,8
-5217,Strange Guards X,Strange Guards X,mhxx-dex-1.0,8
-5222,Redhelm Vambraces,Redhelm Vambraces,mhxx-dex-1.0,11
-5227,Redhelm Guards,Redhelm Guards,mhxx-dex-1.0,11
-5232,Snowbaron Vambraces,Snowbaron Vambraces,mhxx-dex-1.0,11
-5237,Snowbaron Guards,Snowbaron Guards,mhxx-dex-1.0,11
-5242,Stonefist Vambraces,Stonefist Vambraces,mhxx-dex-1.0,11
-5247,Stonefist Guards,Stonefist Guards,mhxx-dex-1.0,11
-5252,Dreadqueen Braces,Dreadqueen Braces,mhxx-dex-1.0,11
-5257,Dreadqueen Guards,Dreadqueen Guards,mhxx-dex-1.0,11
-5262,Drilltusk Braces,Drilltusk Braces,mhxx-dex-1.0,11
-5267,Drilltusk Guards,Drilltusk Guards,mhxx-dex-1.0,11
-5272,Silverwind Braces,Silverwind Braces,mhxx-dex-1.0,11
-5277,Silverwind Guards,Silverwind Guards,mhxx-dex-1.0,11
-5282,Crystalbeard Braces,Crystalbeard Braces,mhxx-dex-1.0,11
-5287,Crystalbeard Guards,Crystalbeard Guards,mhxx-dex-1.0,11
-5292,Deadeye Vambraces,Deadeye Vambraces,mhxx-dex-1.0,11
-5297,Deadeye Guards,Deadeye Guards,mhxx-dex-1.0,11
-5302,Dreadking Braces,Dreadking Braces,mhxx-dex-1.0,11
-5307,Dreadking Guards,Dreadking Guards,mhxx-dex-1.0,11
-5312,Thunderlord Braces,Thunderlord Braces,mhxx-dex-1.0,11
-5317,Thunderlord Guards,Thunderlord Guards,mhxx-dex-1.0,11
-5322,Grimclaw Braces,Grimclaw Braces,mhxx-dex-1.0,11
-5327,Grimclaw Guards,Grimclaw Guards,mhxx-dex-1.0,11
-5332,Hellblade Braces,Hellblade Braces,mhxx-dex-1.0,11
-5337,Hellblade Guards,Hellblade Guards,mhxx-dex-1.0,11
-5342,Nightcloak Vambraces,Nightcloak Vambraces,mhxx-dex-1.0,11
-5347,Nightcloak Guards,Nightcloak Guards,mhxx-dex-1.0,11
-5352,Rustrazor Vambraces,Rustrazor Vambraces,mhxx-dex-1.0,11
-5357,Rustrazor Guards,Rustrazor Guards,mhxx-dex-1.0,11
-5362,Soulseer Vambraces,Soulseer Vambraces,mhxx-dex-1.0,11
-5367,Soulseer Guards,Soulseer Guards,mhxx-dex-1.0,11
-5372,Boltreaver Vambraces,Boltreaver Vambraces,mhxx-dex-1.0,11
-5377,Boltreaver Guards,Boltreaver Guards,mhxx-dex-1.0,11
-5382,Elderfrost Vambraces,Elderfrost Vambraces,mhxx-dex-1.0,11
-5387,Elderfrost Guards,Elderfrost Guards,mhxx-dex-1.0,11
-5392,Bloodbath Vambraces,Bloodbath Vambraces,mhxx-dex-1.0,11
-5397,Bloodbath Guards,Bloodbath Guards,mhxx-dex-1.0,11
-5402,[JP] Promising Braces,[JP] Promising Braces,mhxx-dex-1.0,3
-5407,[JP] Halcyon Braces,[JP] Halcyon Braces,mhxx-dex-1.0,3
-5412,[JP] Lucid Gauntlets,[JP] Lucid Gauntlets,mhxx-dex-1.0,3
-5417,[JP] Dreamy Gauntlets,[JP] Dreamy Gauntlets,mhxx-dex-1.0,3
-5422,[JP] Arcfire Kote,[JP] Arcfire Kote,mhxx-dex-1.0,3
-5427,[JP] Bonfire Kote,[JP] Bonfire Kote,mhxx-dex-1.0,3
-5432,[JP] Waka Kote,[JP] Waka Kote,mhxx-dex-1.0,3
-5437,[JP] Wagaku Kote,[JP] Wagaku Kote,mhxx-dex-1.0,3
-5442,[JP] Fake Tama Arms,[JP] Fake Tama Arms,mhxx-dex-1.0,3
-5446,[JP] Fake Tama Arms Suit,[JP] Fake Tama Arms Suit,mhxx-dex-1.0,3
-5450,Pirate Gloves J,Pirate Gloves J,mhxx-dex-1.0,6
-5455,Pirate Cuffs J,Pirate Cuffs J,mhxx-dex-1.0,6
-5460,Buccaneer Gloves J,Buccaneer Gloves J,mhxx-dex-1.0,6
-5465,Buccaneer Cuffs J,Buccaneer Cuffs J,mhxx-dex-1.0,6
-5472,Zodias Vambraces,Zodias Vambraces,mhxx-dex-1.0,7
-5477,Zodias Guards,Zodias Guards,mhxx-dex-1.0,7
-5496,Champion's Wraps,Champion's Wraps,mhxx-dex-1.0,7
-5501,Strongman's Wraps,Strongman's Wraps,mhxx-dex-1.0,7
-5506,Dynaqlo Glovelettes,Dynaqlo Glovelettes,mhxx-dex-1.0,6
-5511,Dynaqlo Gloves,Dynaqlo Gloves,mhxx-dex-1.0,6
-5516,[JP] Blue Star Braces,[JP] Blue Star Braces,mhxx-dex-1.0,6
-5521,[JP] Blue Star Sleeves,[JP] Blue Star Sleeves,mhxx-dex-1.0,6
-5526,[JP] Star Knight Vambraces,[JP] Star Knight Vambraces,mhxx-dex-1.0,6
-5531,[JP] Star Knight Guards,[JP] Star Knight Guards,mhxx-dex-1.0,6
-5536,[JP] Star Rook Vambraces,[JP] Star Rook Vambraces,mhxx-dex-1.0,7
-5541,[JP] Star Rook Guards,[JP] Star Rook Guards,mhxx-dex-1.0,7
-5546,[JP] Promising Archbraces,[JP] Promising Archbraces,mhxx-dex-1.0,7
-5551,[JP] Halcyon Archbraces,[JP] Halcyon Archbraces,mhxx-dex-1.0,7
-5556,[JP] Lucid Archbraces,[JP] Lucid Archbraces,mhxx-dex-1.0,7
-5561,[JP] Dreamy Archbraces,[JP] Dreamy Archbraces,mhxx-dex-1.0,7
-5566,[JP] Ruler Arcfire Kote,[JP] Ruler Arcfire Kote,mhxx-dex-1.0,7
-5571,[JP] Ruler Bonfire Kote,[JP] Ruler Bonfire Kote,mhxx-dex-1.0,7
-5576,[JP] Ruler Waka Kote,[JP] Ruler Waka Kote,mhxx-dex-1.0,7
-5581,[JP] Ruler Wagaku Kote,[JP] Ruler Wagaku Kote,mhxx-dex-1.0,7
-5586,[JP] Fake Tama Arms S,[JP] Fake Tama Arms S,mhxx-dex-1.0,4
-5590,[JP] Fake Tama Arms Suit S,[JP] Fake Tama Arms Suit S,mhxx-dex-1.0,4
-5594,Varia Suit Guards,Varia Suit Guards,mhxx-dex-1.0,6
-5598,Varia Suit Shield,Varia Suit Shield,mhxx-dex-1.0,6
-5602,Zero Suit Gloves,Zero Suit Gloves,mhxx-dex-1.0,6
-5606,Zero Suit Hands,Zero Suit Hands,mhxx-dex-1.0,6
-5610,Hero's Braces,Hero's Braces,mhxx-dex-1.0,7
-5615,Hero's Gloves,Hero's Gloves,mhxx-dex-1.0,7
-5620,Lodestar Armguards,Lodestar Armguards,mhxx-dex-1.0,7
-5625,Lodestar Cuffs,Lodestar Cuffs,mhxx-dex-1.0,7
-5630,Braces of Rage,Braces of Rage,mhxx-dex-1.0,7
-5634,Guards of Rage,Guards of Rage,mhxx-dex-1.0,7
-5638,Braces of Anat,Braces of Anat,mhxx-dex-1.0,7
-5642,Guards of Anat,Guards of Anat,mhxx-dex-1.0,7
-5659,Hiryu Sky Kote,Hiryu Sky Kote,mhxx-dex-1.0,7
-5664,Hiryu Land Kote,Hiryu Land Kote,mhxx-dex-1.0,7
-5669,[JP] Gon Braces,[JP] Gon Braces,mhxx-dex-1.0,8
-5673,[JP] Gon Guards,[JP] Gon Guards,mhxx-dex-1.0,8
-5677,Criminal Braces,Criminal Braces,mhxx-dex-1.0,9
-5681,Criminal Hands,Criminal Hands,mhxx-dex-1.0,9
-5685,[JP] Supreme Arcfire Kote,[JP] Supreme Arcfire Kote,mhxx-dex-1.0,10
-5690,[JP] Supreme Bonfire Kote,[JP] Supreme Bonfire Kote,mhxx-dex-1.0,10
-5695,[JP] Supreme Wagaku Kote,[JP] Supreme Wagaku Kote,mhxx-dex-1.0,10
-5700,[JP] Supreme Wagaku Kote,[JP] Supreme Wagaku Kote,mhxx-dex-1.0,10
-5705,Garo Gauntlets,Garo Gauntlets,mhxx-dex-1.0,10
-5710,Garo Vambraces,Garo Vambraces,mhxx-dex-1.0,10
-5715,Hylian Bracers,Hylian Bracers,mhxx-dex-1.0,10
-5720,Hylian Gloves,Hylian Gloves,mhxx-dex-1.0,10
+1,Leather Gloves,Leather Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
+2,Chainmail Gloves,Chainmail Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
+3,Bherna Braces,Bherna Braces,mhxx-dex-1.0+mhxx-save-format-community,1
+4,Hunting Braces,Hunting Braces,mhxx-dex-1.0+mhxx-save-format-community,1
+5,Hunting Guards,Hunting Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+6,Mafumofu Mittens,Mafumofu Mittens,mhxx-dex-1.0+mhxx-save-format-community,1
+7,Yukumo Kote,Yukumo Kote,mhxx-dex-1.0+mhxx-save-format-community,1
+9,Hunter's Vambraces,Hunter's Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
+10,Hunter's Guards,Hunter's Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+11,Bone Vambraces,Bone Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
+12,Bone Guards,Bone Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+17,Trapper's Gauntlets,Trapper's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,1
+18,Trapper's Gloves,Trapper's Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
+19,Maccao Gauntlets,Maccao Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,1
+20,Maccao Gloves,Maccao Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
+21,Jaggi Gauntlets,Jaggi Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,1
+22,Jaggi Gloves,Jaggi Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
+23,Jaggi Vambraces,Jaggi Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
+24,Jaggi Guards,Jaggi Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+25,Maccao Braces,Maccao Braces,mhxx-dex-1.0+mhxx-save-format-community,1
+26,Maccao Guards,Maccao Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+27,Velociprey Braces,Velociprey Braces,mhxx-dex-1.0+mhxx-save-format-community,1
+28,Velociprey Guards,Velociprey Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+29,Giaprey Vambraces,Giaprey Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
+30,Giaprey Guards,Giaprey Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+31,Genprey Vambraces,Genprey Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
+32,Genprey Guards,Genprey Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+33,Vespoid Vambraces,Vespoid Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
+34,Vespoid Guards,Vespoid Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+35,Hornetaur Braces,Hornetaur Braces,mhxx-dex-1.0+mhxx-save-format-community,1
+36,Hornetaur Guards,Hornetaur Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+37,Bnahabra Gloves,Bnahabra Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
+38,Bnahabra Sleeves,Bnahabra Sleeves,mhxx-dex-1.0+mhxx-save-format-community,1
+39,Konchu Braces,Konchu Braces,mhxx-dex-1.0+mhxx-save-format-community,1
+40,Konchu Guards,Konchu Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+41,Mosswine Gloves,Mosswine Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
+42,Rhenoplos Vambraces,Rhenoplos Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
+43,Rhenoplos Guards,Rhenoplos Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+44,Bulldrome Braces,Bulldrome Braces,mhxx-dex-1.0+mhxx-save-format-community,1
+45,Bulldrome Guards,Bulldrome Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+47,Arzuros Vambraces,Arzuros Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
+48,Arzuros Guards,Arzuros Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+49,Cephalos Braces,Cephalos Braces,mhxx-dex-1.0+mhxx-save-format-community,1
+50,Cephalos Guards,Cephalos Guards,mhxx-dex-1.0+mhxx-save-format-community,1
+51,Derring Gloves,Derring Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
+52,Alloy Vambraces,Alloy Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+53,Alloy Guards,Alloy Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+54,Battle Vambraces,Battle Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+55,Battle Guards,Battle Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+56,Ingot Vambraces,Ingot Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+57,Ingot Guards,Ingot Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+58,High Metal Braces,High Metal Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+59,High Metal Guards,High Metal Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+62,Melahoa Branch,Melahoa Branch,mhxx-dex-1.0+mhxx-save-format-community,2
+63,Melahoa Petal,Melahoa Petal,mhxx-dex-1.0+mhxx-save-format-community,2
+64,Makluva Sleeves,Makluva Sleeves,mhxx-dex-1.0+mhxx-save-format-community,2
+65,Makluva Sucker,Makluva Sucker,mhxx-dex-1.0+mhxx-save-format-community,2
+68,Obituary Brachia,Obituary Brachia,mhxx-dex-1.0+mhxx-save-format-community,2
+69,Obituary Manus,Obituary Manus,mhxx-dex-1.0+mhxx-save-format-community,2
+70,Butterfly Brachia,Butterfly Brachia,mhxx-dex-1.0+mhxx-save-format-community,2
+71,Butterfly Manus,Butterfly Manus,mhxx-dex-1.0+mhxx-save-format-community,2
+72,Death Stench Grip,Death Stench Grip,mhxx-dex-1.0+mhxx-save-format-community,2
+73,Death Stench Grasp,Death Stench Grasp,mhxx-dex-1.0+mhxx-save-format-community,2
+76,Mosgharl Creeper,Mosgharl Creeper,mhxx-dex-1.0+mhxx-save-format-community,2
+77,Mosgharl Tendril,Mosgharl Tendril,mhxx-dex-1.0+mhxx-save-format-community,2
+78,Edel Creeper,Edel Creeper,mhxx-dex-1.0+mhxx-save-format-community,2
+79,Edel Tendril,Edel Tendril,mhxx-dex-1.0+mhxx-save-format-community,2
+80,Skalda Brachia,Skalda Brachia,mhxx-dex-1.0+mhxx-save-format-community,2
+81,Skalda Manus,Skalda Manus,mhxx-dex-1.0+mhxx-save-format-community,2
+82,Spio Brachia,Spio Brachia,mhxx-dex-1.0+mhxx-save-format-community,2
+83,Spio Manus,Spio Manus,mhxx-dex-1.0+mhxx-save-format-community,2
+90,Moofah Claws,Moofah Claws,mhxx-dex-1.0+mhxx-save-format-community,2
+91,Moofah Sleeves,Moofah Sleeves,mhxx-dex-1.0+mhxx-save-format-community,2
+93,Velociprey Claws,Velociprey Claws,mhxx-dex-1.0+mhxx-save-format-community,2
+94,Velociprey Gloves,Velociprey Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
+95,Genprey Claws,Genprey Claws,mhxx-dex-1.0+mhxx-save-format-community,2
+96,Genprey Gloves,Genprey Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
+97,Ioprey Claws,Ioprey Claws,mhxx-dex-1.0+mhxx-save-format-community,2
+98,Ioprey Gloves,Ioprey Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
+99,Remobra Gloves,Remobra Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
+100,Remobra Hands,Remobra Hands,mhxx-dex-1.0+mhxx-save-format-community,2
+101,Ioprey Vambraces,Ioprey Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+102,Ioprey Guards,Ioprey Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+103,Kut-Ku Vambraces,Kut-Ku Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+104,Kut-Ku Guards,Kut-Ku Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+105,Lagombi Vambraces,Lagombi Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+106,Lagombi Guards,Lagombi Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+107,Gypceros Braces,Gypceros Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+108,Gypceros Guards,Gypceros Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+109,Tetsucabra Braces,Tetsucabra Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+110,Tetsucabra Guards,Tetsucabra Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+111,Hermitaur Braces,Hermitaur Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+112,Hermitaur Guards,Hermitaur Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+113,Volvidon Vambraces,Volvidon Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+114,Volvidon Guards,Volvidon Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+115,Ludroth Braces,Ludroth Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+116,Ludroth Guards,Ludroth Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+117,Malfestio Braces,Malfestio Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+118,Malfestio Guards,Malfestio Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+119,Khezu Vambraces,Khezu Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+120,Khezu Guards,Khezu Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+121,Rathian Braces,Rathian Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+122,Rathian Guards,Rathian Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+123,Nibelsnarf Braces,Nibelsnarf Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+124,Nibelsnarf Guards,Nibelsnarf Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+125,Blango Vambraces,Blango Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
+126,Blango Guards,Blango Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+127,Ceanataur Braces,Ceanataur Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+128,Ceanataur Guards,Ceanataur Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+129,Najarala Braces,Najarala Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+130,Najarala Guards,Najarala Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+131,Nargacuga Braces,Nargacuga Braces,mhxx-dex-1.0+mhxx-save-format-community,2
+132,Nargacuga Guards,Nargacuga Guards,mhxx-dex-1.0+mhxx-save-format-community,2
+133,Scholarly Grips,Scholarly Grips,mhxx-dex-1.0+mhxx-save-format-community,2
+134,Scholarly Cuffs,Scholarly Cuffs,mhxx-dex-1.0+mhxx-save-format-community,2
+135,Vaik Braces,Vaik Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+136,Vaik Guards,Vaik Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+139,Aelucanth Brachia,Aelucanth Brachia,mhxx-dex-1.0+mhxx-save-format-community,3
+140,Aelucanth Manus,Aelucanth Manus,mhxx-dex-1.0+mhxx-save-format-community,3
+141,Rhopessa Brachia,Rhopessa Brachia,mhxx-dex-1.0+mhxx-save-format-community,3
+142,Rhopessa Manus,Rhopessa Manus,mhxx-dex-1.0+mhxx-save-format-community,3
+143,Artian Braces,Artian Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+144,Artian Guards,Artian Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+145,Garuga Vambraces,Garuga Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
+146,Garuga Guards,Garuga Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+148,Uragaan Vambraces,Uragaan Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
+149,Uragaan Guards,Uragaan Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+150,Rathalos Braces,Rathalos Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+151,Rathalos Guards,Rathalos Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+152,Lagiacrus Braces,Lagiacrus Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+153,Lagiacrus Guards,Lagiacrus Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+154,Zinogre Braces,Zinogre Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+155,Zinogre Guards,Zinogre Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+156,Mizutsune Braces,Mizutsune Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+157,Mizutsune Guards,Mizutsune Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+158,Astalos Braces,Astalos Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+159,Astalos Guards,Astalos Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+160,Gammoth Braces,Gammoth Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+161,Gammoth Guards,Gammoth Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+162,Glavenus Braces,Glavenus Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+163,Glavenus Guards,Glavenus Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+164,Gore Braces,Gore Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+165,Gore Guards,Gore Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+166,Regios Vambraces,Regios Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
+167,Regios Guards,Regios Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+168,Tigrex Braces,Tigrex Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+169,Tigrex Guards,Tigrex Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+170,Kirin Longarms,Kirin Longarms,mhxx-dex-1.0+mhxx-save-format-community,3
+171,Kirin Gloves,Kirin Gloves,mhxx-dex-1.0+mhxx-save-format-community,3
+172,Brachydios Braces,Brachydios Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+173,Brachydios Guards,Brachydios Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+174,Arc Vambraces,Arc Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
+175,Storge Braces,Storge Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+176,Arc Guards,Arc Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+177,Storge Guards,Storge Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+178,Kushala Grip,Kushala Grip,mhxx-dex-1.0+mhxx-save-format-community,3
+179,Kushala Embrace,Kushala Embrace,mhxx-dex-1.0+mhxx-save-format-community,3
+180,Mizuha Sleeves,Mizuha Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+181,Cham Sleeves,Cham Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+182,Kaiser Vambraces,Kaiser Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
+183,Kaiser Guards,Kaiser Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+184,Skeletal Humerus,Skeletal Humerus,mhxx-dex-1.0+mhxx-save-format-community,3
+185,Decayed Humerus,Decayed Humerus,mhxx-dex-1.0+mhxx-save-format-community,3
+186,Black Claw,Black Claw,mhxx-dex-1.0+mhxx-save-format-community,3
+187,Black Fist,Black Fist,mhxx-dex-1.0+mhxx-save-format-community,3
+188,Black Belt Braces,Black Belt Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+189,Black Belt Guards,Black Belt Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+190,Guild Bard Braces,Guild Bard Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+191,Guild Bard Sleeves,Guild Bard Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+192,Maiden's Gloves,Maiden's Gloves,mhxx-dex-1.0+mhxx-save-format-community,3
+193,French Maid Sleeves,French Maid Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+194,Helper Sleeves,Helper Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+195,Healer Sleeves,Healer Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+196,Dianthus Sleeves,Dianthus Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+197,Campanile Sleeves,Campanile Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+198,Bath Sleeves,Bath Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
+199,Gourmew Gloves,Gourmew Gloves,mhxx-dex-1.0+mhxx-save-format-community,3
+200,Gourmew Mitts,Gourmew Mitts,mhxx-dex-1.0+mhxx-save-format-community,3
+201,Leather Braces S,Leather Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+202,Chainmail Braces S,Chainmail Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+203,Bherna Braces S,Bherna Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+204,Bherna Guards S,Bherna Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+205,Hunting Braces S,Hunting Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+206,Hunting Guards S,Hunting Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+207,Mafumofu Grips S,Mafumofu Grips S,mhxx-dex-1.0+mhxx-save-format-community,4
+208,Mafumofu Mittens S,Mafumofu Mittens S,mhxx-dex-1.0+mhxx-save-format-community,4
+209,Yukumo Sky Kote,Yukumo Sky Kote,mhxx-dex-1.0+mhxx-save-format-community,4
+210,Yukumo Land Kote,Yukumo Land Kote,mhxx-dex-1.0+mhxx-save-format-community,4
+212,Hunter's Vambraces S,Hunter's Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+213,Hunter's Guards S,Hunter's Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+214,Hunter's Braces R,Hunter's Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
+215,Hunter's Guards R,Hunter's Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
+216,Bone Vambraces S,Bone Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+217,Bone Guards S,Bone Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+224,Melahoa Branch S,Melahoa Branch S,mhxx-dex-1.0+mhxx-save-format-community,4
+225,Melahoa Petal S,Melahoa Petal S,mhxx-dex-1.0+mhxx-save-format-community,4
+226,Melahoa Branch U,Melahoa Branch U,mhxx-dex-1.0+mhxx-save-format-community,4
+227,Melahoa Petal U,Melahoa Petal U,mhxx-dex-1.0+mhxx-save-format-community,4
+228,Makluva Sleeves S,Makluva Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,4
+229,Makluva Sucker S,Makluva Sucker S,mhxx-dex-1.0+mhxx-save-format-community,4
+230,Makluva Sleeves U,Makluva Sleeves U,mhxx-dex-1.0+mhxx-save-format-community,4
+231,Makluva Sucker U,Makluva Sucker U,mhxx-dex-1.0+mhxx-save-format-community,4
+236,Mosgharl Creeper S,Mosgharl Creeper S,mhxx-dex-1.0+mhxx-save-format-community,4
+237,Mosgharl Tendril S,Mosgharl Tendril S,mhxx-dex-1.0+mhxx-save-format-community,4
+238,Edel Creeper S,Edel Creeper S,mhxx-dex-1.0+mhxx-save-format-community,4
+239,Edel Tendril S,Edel Tendril S,mhxx-dex-1.0+mhxx-save-format-community,4
+240,Moofah Claws S,Moofah Claws S,mhxx-dex-1.0+mhxx-save-format-community,4
+241,Moofah Sleeves S,Moofah Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,4
+247,Velociprey Claws S,Velociprey Claws S,mhxx-dex-1.0+mhxx-save-format-community,4
+248,Velociprey Gloves S,Velociprey Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+249,Genprey Claws S,Genprey Claws S,mhxx-dex-1.0+mhxx-save-format-community,4
+250,Genprey Gloves S,Genprey Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+251,Ioprey Claws S,Ioprey Claws S,mhxx-dex-1.0+mhxx-save-format-community,4
+252,Ioprey Gloves S,Ioprey Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+253,Remobra Gloves S,Remobra Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+254,Remobra Hands S,Remobra Hands S,mhxx-dex-1.0+mhxx-save-format-community,4
+255,Trapper's Gauntlets S,Trapper's Gauntlets S,mhxx-dex-1.0+mhxx-save-format-community,4
+256,Trapper's Gloves S,Trapper's Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+257,Maccao Gauntlets S,Maccao Gauntlets S,mhxx-dex-1.0+mhxx-save-format-community,4
+258,Maccao Gloves S,Maccao Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+259,Jaggi Gauntlets S,Jaggi Gauntlets S,mhxx-dex-1.0+mhxx-save-format-community,4
+260,Jaggi Gloves S,Jaggi Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+261,Mosswine Gloves S,Mosswine Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+262,Rhenoplos Braces S,Rhenoplos Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+263,Rhenoplos Guards S,Rhenoplos Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+264,Jaggi Vambraces S,Jaggi Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+265,Jaggi Guards S,Jaggi Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+270,Maccao Braces S,Maccao Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+271,Maccao Guards S,Maccao Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+272,Velociprey Braces S,Velociprey Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+273,Velociprey Guards S,Velociprey Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+274,Giaprey Braces S,Giaprey Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+275,Giaprey Guards S,Giaprey Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+276,Genprey Vambraces S,Genprey Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+277,Genprey Guards S,Genprey Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+278,EX Genprey Braces,EX Genprey Braces,mhxx-dex-1.0+mhxx-save-format-community,4
+279,EX Genprey Guards,EX Genprey Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+280,Ioprey Vambraces S,Ioprey Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+281,Ioprey Guards S,Ioprey Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+282,EX Ioprey Vambraces,EX Ioprey Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
+283,EX Ioprey Guards,EX Ioprey Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+284,Vespoid Vambraces S,Vespoid Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+285,Vespoid Guards S,Vespoid Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+286,EX Vespoid Vambraces,EX Vespoid Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
+287,EX Vespoid Guards,EX Vespoid Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+288,Hornetaur Braces S,Hornetaur Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+289,Hornetaur Guards S,Hornetaur Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+290,EX Hornetaur Braces,EX Hornetaur Braces,mhxx-dex-1.0+mhxx-save-format-community,4
+291,EX Hornetaur Guards,EX Hornetaur Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+292,Hornetaur Braces R,Hornetaur Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
+293,Hornetaur Guards R,Hornetaur Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
+294,Bnahabra Gloves S,Bnahabra Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
+295,Bnahabra Sleeves S,Bnahabra Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,4
+296,Konchu Braces S,Konchu Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+297,Konchu Guards S,Konchu Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+298,Bulldrome Braces S,Bulldrome Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+299,Bulldrome Guards S,Bulldrome Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+301,Arzuros Vambraces S,Arzuros Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+302,Arzuros Guards S,Arzuros Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+303,Cephalos Vambraces S,Cephalos Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+304,Cephalos Guards S,Cephalos Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+305,EX Cephalos Braces,EX Cephalos Braces,mhxx-dex-1.0+mhxx-save-format-community,4
+306,EX Cephalos Guards,EX Cephalos Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+307,Kut-Ku Vambraces S,Kut-Ku Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+308,Kut-Ku Guards S,Kut-Ku Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+309,Kecha Vambraces,Kecha Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
+310,Kecha Guards,Kecha Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+311,Lagombi Vambraces S,Lagombi Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+312,Lagombi Guards S,Lagombi Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+313,Gypceros Braces S,Gypceros Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+314,Gypceros Guards S,Gypceros Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+315,Gypceros Braces R,Gypceros Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
+316,Gypceros Guards R,Gypceros Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
+317,Tetsucabra Braces S,Tetsucabra Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+318,Tetsucabra Guards S,Tetsucabra Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+319,Hermitaur Braces S,Hermitaur Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+320,Hermitaur Guards S,Hermitaur Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+321,EX Hermitaur Braces,EX Hermitaur Braces,mhxx-dex-1.0+mhxx-save-format-community,4
+322,EX Hermitaur Guards,EX Hermitaur Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+323,Hermitaur Braces R,Hermitaur Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
+324,Hermitaur Guards R,Hermitaur Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
+325,Volvidon Vambraces S,Volvidon Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
+326,Volvidon Guards S,Volvidon Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+327,Ludroth Braces S,Ludroth Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
+328,Ludroth Guards S,Ludroth Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+329,Ludroth Braces R,Ludroth Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
+330,Ludroth Guards R,Ludroth Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
+331,Lecturer's Braces,Lecturer's Braces,mhxx-dex-1.0+mhxx-save-format-community,4
+332,Lecturer's Guards,Lecturer's Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+333,Alloy Vambraces S,Alloy Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
+334,Alloy Guards S,Alloy Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+335,Alloy Braces R,Alloy Braces R,mhxx-dex-1.0+mhxx-save-format-community,5
+336,Alloy Guards R,Alloy Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
+337,Battle Vambraces S,Battle Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
+338,Battle Guards S,Battle Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+339,Ingot Vambraces S,Ingot Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
+340,Ingot Guards S,Ingot Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+341,Ingot Vambraces R,Ingot Vambraces R,mhxx-dex-1.0+mhxx-save-format-community,5
+342,Ingot Guards R,Ingot Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
+343,High Metal Braces S,High Metal Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+344,High Metal Guards S,High Metal Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+345,High Metal Braces U,High Metal Braces U,mhxx-dex-1.0+mhxx-save-format-community,5
+346,High Metal Guards U,High Metal Guards U,mhxx-dex-1.0+mhxx-save-format-community,5
+349,Lobster Vambraces,Lobster Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
+350,Lobster Guards,Lobster Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+351,Obituary Brachia S,Obituary Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
+352,Obituary Manus S,Obituary Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
+353,Butterfly Brachia S,Butterfly Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
+354,Butterfly Manus S,Butterfly Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
+355,Death Stench Grip S,Death Stench Grip S,mhxx-dex-1.0+mhxx-save-format-community,5
+356,Death Stench Grasp S,Death Stench Grasp S,mhxx-dex-1.0+mhxx-save-format-community,5
+357,Death Stench Grip R,Death Stench Grip R,mhxx-dex-1.0+mhxx-save-format-community,5
+358,Death Stench Grasp R,Death Stench Grasp R,mhxx-dex-1.0+mhxx-save-format-community,5
+359,Vaik Braces S,Vaik Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+360,Vaik Guards S,Vaik Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+361,Aelucanth Brachia S,Aelucanth Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
+362,Aelucanth Manus S,Aelucanth Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
+363,Rhopessa Brachia S,Rhopessa Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
+364,Rhopessa Manus S,Rhopessa Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
+365,Patissier's Gloves,Patissier's Gloves,mhxx-dex-1.0+mhxx-save-format-community,5
+366,Patissier's Mitts,Patissier's Mitts,mhxx-dex-1.0+mhxx-save-format-community,5
+367,Skalda Brachia S,Skalda Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
+368,Skalda Manus S,Skalda Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
+369,Spio Brachia S,Spio Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
+370,Spio Manus S,Spio Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
+371,Malfestio Braces S,Malfestio Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+372,Malfestio Guards S,Malfestio Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+373,Zamtrios Braces,Zamtrios Braces,mhxx-dex-1.0+mhxx-save-format-community,5
+374,Zamtrios Guards,Zamtrios Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+375,Khezu Vambraces S,Khezu Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
+376,Khezu Guards S,Khezu Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+377,Khezu Braces R,Khezu Braces R,mhxx-dex-1.0+mhxx-save-format-community,5
+378,Khezu Guards R,Khezu Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
+379,Rathian Braces S,Rathian Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+380,Rathian Guards S,Rathian Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+381,EX Rathian Braces,EX Rathian Braces,mhxx-dex-1.0+mhxx-save-format-community,5
+382,EX Rathian Guards,EX Rathian Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+383,Rathian Braces R,Rathian Braces R,mhxx-dex-1.0+mhxx-save-format-community,5
+384,Rathian Guards R,Rathian Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
+385,Nibelsnarf Braces S,Nibelsnarf Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+386,Nibelsnarf Guards S,Nibelsnarf Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+387,Plesioth Vambraces,Plesioth Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
+388,Plesioth Guards,Plesioth Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+389,Blango Vambraces S,Blango Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
+390,Blango Guards S,Blango Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+391,EX Blango Braces,EX Blango Braces,mhxx-dex-1.0+mhxx-save-format-community,5
+392,EX Blango Guards,EX Blango Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+393,Lavasioth Braces,Lavasioth Braces,mhxx-dex-1.0+mhxx-save-format-community,5
+394,Lavasioth Guards,Lavasioth Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+395,EX Lavasioth Braces,EX Lavasioth Braces,mhxx-dex-1.0+mhxx-save-format-community,5
+396,EX Lavasioth Guards,EX Lavasioth Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+397,Ceanataur Braces S,Ceanataur Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+398,Ceanataur Guards S,Ceanataur Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+399,EX Ceanataur Braces,EX Ceanataur Braces,mhxx-dex-1.0+mhxx-save-format-community,5
+400,EX Ceanataur Guards,EX Ceanataur Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+401,Ceanataur Braces R,Ceanataur Braces R,mhxx-dex-1.0+mhxx-save-format-community,5
+402,Ceanataur Guards R,Ceanataur Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
+403,Najarala Braces S,Najarala Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+404,Najarala Guards S,Najarala Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+405,Nargacuga Braces S,Nargacuga Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+406,Nargacuga Guards S,Nargacuga Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+407,Garuga Vambraces S,Garuga Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
+408,Garuga Guards S,Garuga Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+410,Uragaan Vambraces S,Uragaan Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
+411,Uragaan Guards S,Uragaan Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+412,Black Belt Braces S,Black Belt Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
+413,Black Belt Guards S,Black Belt Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
+414,Guardian Braces,Guardian Braces,mhxx-dex-1.0+mhxx-save-format-community,5
+415,Guardian Guards,Guardian Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+416,Guardian Braces U,Guardian Braces U,mhxx-dex-1.0+mhxx-save-format-community,5
+417,Guardian Guards U,Guardian Guards U,mhxx-dex-1.0+mhxx-save-format-community,5
+418,Scholar's Gloves,Scholar's Gloves,mhxx-dex-1.0+mhxx-save-format-community,5
+419,Scholar's Sleeves,Scholar's Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
+420,Sailor Gloves,Sailor Gloves,mhxx-dex-1.0+mhxx-save-format-community,5
+421,Sailor Sleeves,Sailor Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
+422,Luxury Bath Sleeves,Luxury Bath Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
+423,Kita Star Sleeves,Kita Star Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
+424,Umi Ocean Sleeves,Umi Ocean Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
+426,Derring Vambraces S,Derring Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,6
+427,Derring Guards S,Derring Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+428,Dober Vambraces,Dober Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+429,Dober Guards,Dober Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+430,Damascus Vambraces,Damascus Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+431,Damascus Guards,Damascus Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+432,Damascus Braces R,Damascus Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
+433,Damascus Guards R,Damascus Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
+440,Artian Braces S,Artian Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+441,Artian Guards S,Artian Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+442,Artian Braces R,Artian Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
+443,Artian Guards R,Artian Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
+444,Seltas Vambraces,Seltas Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+445,Seltas Guards,Seltas Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+446,Rathalos Braces S,Rathalos Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+447,Rathalos Guards S,Rathalos Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+448,EX Rathalos Braces,EX Rathalos Braces,mhxx-dex-1.0+mhxx-save-format-community,6
+449,EX Rathalos Guards,EX Rathalos Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+450,Rathalos Braces R,Rathalos Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
+451,Rathalos Guards R,Rathalos Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
+452,Lagiacrus Braces S,Lagiacrus Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+453,Lagiacrus Guards S,Lagiacrus Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+454,Lagiacrus Braces R,Lagiacrus Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
+455,Lagiacrus Guards R,Lagiacrus Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
+456,Zinogre Braces S,Zinogre Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+457,Zinogre Guards S,Zinogre Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+458,EX Zinogre Braces,EX Zinogre Braces,mhxx-dex-1.0+mhxx-save-format-community,6
+459,EX Zinogre Guards,EX Zinogre Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+460,Mizutsune Braces S,Mizutsune Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+461,Mizutsune Guards S,Mizutsune Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+462,Astalos Braces S,Astalos Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+463,Astalos Guards S,Astalos Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+464,Gammoth Braces S,Gammoth Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+465,Gammoth Guards S,Gammoth Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+466,Glavenus Braces S,Glavenus Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+467,Glavenus Guards S,Glavenus Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+468,Agnaktor Vambraces,Agnaktor Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+469,Agnaktor Guards,Agnaktor Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+470,Gore Braces S,Gore Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+471,Gore Guards S,Gore Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+472,EX Gore Braces,EX Gore Braces,mhxx-dex-1.0+mhxx-save-format-community,6
+473,EX Gore Guards,EX Gore Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+474,Gore Braces R,Gore Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
+475,Gore Guards R,Gore Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
+476,Regios Vambraces S,Regios Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,6
+477,Regios Guards S,Regios Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+478,Duramboros Braces,Duramboros Braces,mhxx-dex-1.0+mhxx-save-format-community,6
+479,Duramboros Guards,Duramboros Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+480,Tigrex Braces S,Tigrex Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+481,Tigrex Guards S,Tigrex Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+482,EX Tigrex Braces,EX Tigrex Braces,mhxx-dex-1.0+mhxx-save-format-community,6
+483,EX Tigrex Guards,EX Tigrex Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+484,Tigrex Braces R,Tigrex Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
+485,Tigrex Guards R,Tigrex Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
+486,Kirin Longarms S,Kirin Longarms S,mhxx-dex-1.0+mhxx-save-format-community,6
+487,Kirin Gloves S,Kirin Gloves S,mhxx-dex-1.0+mhxx-save-format-community,6
+488,Kirin Longarms R,Kirin Longarms R,mhxx-dex-1.0+mhxx-save-format-community,6
+489,Kirin Gloves R,Kirin Gloves R,mhxx-dex-1.0+mhxx-save-format-community,6
+490,Brachydios Braces S,Brachydios Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+491,Brachydios Guards S,Brachydios Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+492,EX Brachydios Braces,EX Brachydios Braces,mhxx-dex-1.0+mhxx-save-format-community,6
+493,EX Brachydios Guards,EX Brachydios Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+494,Golden Kote,Golden Kote,mhxx-dex-1.0+mhxx-save-format-community,6
+495,Puppeteer Gloves,Puppeteer Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+496,Vangis Vambraces,Vangis Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+497,Vangis Guards,Vangis Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+498,Guild Knight Gloves,Guild Knight Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+499,Guild Knight Sleeves,Guild Knight Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
+500,Maiden's Gloves S,Maiden's Gloves S,mhxx-dex-1.0+mhxx-save-format-community,6
+501,French Maid Sleeves S,French Maid Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,6
+502,Blue Guild Gloves,Blue Guild Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+503,Blue Guild Sleeves,Blue Guild Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
+504,Red Guild Gloves,Red Guild Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+505,Red Guild Sleeves,Red Guild Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
+506,Helper Sleeves S,Helper Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,6
+507,Healer Sleeves S,Healer Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,6
+508,Helper Sleeves U,Helper Sleeves U,mhxx-dex-1.0+mhxx-save-format-community,6
+509,Healer Sleeves U,Healer Sleeves U,mhxx-dex-1.0+mhxx-save-format-community,6
+510,Guild Bard Braces S,Guild Bard Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+511,Guild Bard Sleeves S,Guild Bard Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,6
+512,Chakra Bracelet,Chakra Bracelet,mhxx-dex-1.0+mhxx-save-format-community,6
+515,Dianthus Wealsleeves,Dianthus Wealsleeves,mhxx-dex-1.0+mhxx-save-format-community,6
+516,Campanile Wealsleeves,Campanile Wealsleeves,mhxx-dex-1.0+mhxx-save-format-community,6
+517,Ace Vambraces,Ace Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+518,Ace Guards,Ace Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+519,Sororal Vambraces,Sororal Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+520,Sororal Guards,Sororal Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+521,Hawkbraces,Hawkbraces,mhxx-dex-1.0+mhxx-save-format-community,6
+522,Hawkguards,Hawkguards,mhxx-dex-1.0+mhxx-save-format-community,6
+523,Gourmew Gloves S,Gourmew Gloves S,mhxx-dex-1.0+mhxx-save-format-community,6
+524,Gourmew Mitts S,Gourmew Mitts S,mhxx-dex-1.0+mhxx-save-format-community,6
+526,Scholarly Grips S,Scholarly Grips S,mhxx-dex-1.0+mhxx-save-format-community,6
+527,Scholarly Cuffs S,Scholarly Cuffs S,mhxx-dex-1.0+mhxx-save-format-community,6
+528,Ranger's Gauntlets,Ranger's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,6
+529,Archer's Gauntlets,Archer's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,6
+530,Shinobi Heaven Kote,Shinobi Heaven Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+531,Shinobi Land Kote,Shinobi Land Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+532,Shinobi Sky Kote,Shinobi Sky Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+533,Shinobi Sea Kote,Shinobi Sea Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+534,Ancient Arms,Ancient Arms,mhxx-dex-1.0+mhxx-save-format-community,7
+535,Ancient Guards,Ancient Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+536,Master's Gauntlets,Master's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,7
+537,Master's Guards,Master's Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+538,Black Claw S,Black Claw S,mhxx-dex-1.0+mhxx-save-format-community,7
+539,Black Fist S,Black Fist S,mhxx-dex-1.0+mhxx-save-format-community,7
+540,Toka Kote,Toka Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+541,Mitsuaoi Kote,Mitsuaoi Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+542,EX Rathian Braces S,EX Rathian Braces S,mhxx-dex-1.0+mhxx-save-format-community,7
+543,EX Rathian Guards S,EX Rathian Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
+544,EX Rathalos Braces S,EX Rathalos Braces S,mhxx-dex-1.0+mhxx-save-format-community,7
+545,EX Rathalos Guards S,EX Rathalos Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
+546,EX Tigrex Braces S,EX Tigrex Braces S,mhxx-dex-1.0+mhxx-save-format-community,7
+547,EX Tigrex Guards S,EX Tigrex Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
+548,Arc Vambraces S,Arc Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,7
+549,Storge Braces S,Storge Braces S,mhxx-dex-1.0+mhxx-save-format-community,7
+550,Arc Guards S,Arc Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
+551,Storge Guards S,Storge Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
+552,EX Arc Vambraces,EX Arc Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
+553,EX Storge Vambraces,EX Storge Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
+554,EX Arc Guards,EX Arc Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+555,EX Storge Guards,EX Storge Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+556,Arc Braces R,Arc Braces R,mhxx-dex-1.0+mhxx-save-format-community,7
+557,Storge Braces R,Storge Braces R,mhxx-dex-1.0+mhxx-save-format-community,7
+558,Arc Guards R,Arc Guards R,mhxx-dex-1.0+mhxx-save-format-community,7
+559,Storge Guards R,Storge Guards R,mhxx-dex-1.0+mhxx-save-format-community,7
+560,Kushala Grip S,Kushala Grip S,mhxx-dex-1.0+mhxx-save-format-community,7
+561,Kushala Embrace S,Kushala Embrace S,mhxx-dex-1.0+mhxx-save-format-community,7
+562,EX Kushala Grip,EX Kushala Grip,mhxx-dex-1.0+mhxx-save-format-community,7
+563,EX Kushala Embrace,EX Kushala Embrace,mhxx-dex-1.0+mhxx-save-format-community,7
+564,Kushala Grip R,Kushala Grip R,mhxx-dex-1.0+mhxx-save-format-community,7
+565,Kushala Embrace R,Kushala Embrace R,mhxx-dex-1.0+mhxx-save-format-community,7
+566,Mizuha Sleeves S,Mizuha Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,7
+567,Cham Sleeves S,Cham Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,7
+568,EX Mizuha Sleeves,EX Mizuha Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
+569,EX Cham Sleeves,EX Cham Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
+570,Kaiser Vambraces S,Kaiser Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,7
+571,Kaiser Guards S,Kaiser Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
+572,EX Kaiser Vambraces,EX Kaiser Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
+573,EX Kaiser Guards,EX Kaiser Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+574,Silver Solbraces,Silver Solbraces,mhxx-dex-1.0+mhxx-save-format-community,7
+575,Silver Solguards,Silver Solguards,mhxx-dex-1.0+mhxx-save-format-community,7
+576,EX Silver Solbraces,EX Silver Solbraces,mhxx-dex-1.0+mhxx-save-format-community,7
+577,EX Silver Solguards,EX Silver Solguards,mhxx-dex-1.0+mhxx-save-format-community,7
+578,Silver Solbraces R,Silver Solbraces R,mhxx-dex-1.0+mhxx-save-format-community,7
+579,Silver Solguards R,Silver Solguards R,mhxx-dex-1.0+mhxx-save-format-community,7
+580,Golden Lunebraces,Golden Lunebraces,mhxx-dex-1.0+mhxx-save-format-community,7
+581,Golden Luneguards,Golden Luneguards,mhxx-dex-1.0+mhxx-save-format-community,7
+582,EX Golden Lunebraces,EX Golden Lunebraces,mhxx-dex-1.0+mhxx-save-format-community,7
+583,EX Golden Luneguards,EX Golden Luneguards,mhxx-dex-1.0+mhxx-save-format-community,7
+584,Divine Ire Kote,Divine Ire Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+585,Crusher Braces,Crusher Braces,mhxx-dex-1.0+mhxx-save-format-community,7
+586,Esurient Vambraces,Esurient Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
+587,Esurient Guards,Esurient Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+588,Esurient Braces R,Esurient Braces R,mhxx-dex-1.0+mhxx-save-format-community,7
+589,Esurient Guards R,Esurient Guards R,mhxx-dex-1.0+mhxx-save-format-community,7
+590,Akantor Claws,Akantor Claws,mhxx-dex-1.0+mhxx-save-format-community,7
+591,Akantor Gauntlets,Akantor Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,7
+592,Akantor Claws R,Akantor Claws R,mhxx-dex-1.0+mhxx-save-format-community,7
+593,Akantor Gauntlets R,Akantor Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,7
+594,Ukanlos Claws,Ukanlos Claws,mhxx-dex-1.0+mhxx-save-format-community,7
+595,Ukanlos Gauntlets,Ukanlos Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,7
+596,Tempest Sleeves,Tempest Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
+597,Welkin Sleeves,Welkin Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
+598,Tempest Sleeves R,Tempest Sleeves R,mhxx-dex-1.0+mhxx-save-format-community,7
+599,Welkin Sleeves R,Welkin Sleeves R,mhxx-dex-1.0+mhxx-save-format-community,7
+600,Skeletal Humerus R,Skeletal Humerus R,mhxx-dex-1.0+mhxx-save-format-community,7
+601,Decayed Humerus R,Decayed Humerus R,mhxx-dex-1.0+mhxx-save-format-community,7
+602,Astral Vambraces,Astral Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
+603,Astral Guards,Astral Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+604,Escadora Armguards,Escadora Armguards,mhxx-dex-1.0+mhxx-save-format-community,7
+605,Escadora Arma,Escadora Arma,mhxx-dex-1.0+mhxx-save-format-community,7
+606,Escadora Armguards R,Escadora Armguards R,mhxx-dex-1.0+mhxx-save-format-community,7
+607,Escadora Arma R,Escadora Arma R,mhxx-dex-1.0+mhxx-save-format-community,7
+608,Caravaneer's Armlets,Caravaneer's Armlets,mhxx-dex-1.0+mhxx-save-format-community,7
+615,Strange Vambraces,Strange Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
+616,Strange Guards,Strange Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+617,Redhelm Vambraces,Redhelm Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+618,Redhelm Guards,Redhelm Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+619,Snowbaron Vambraces,Snowbaron Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+620,Snowbaron Guards,Snowbaron Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+621,Stonefist Vambraces,Stonefist Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+622,Stonefist Guards,Stonefist Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+623,Dreadqueen Braces,Dreadqueen Braces,mhxx-dex-1.0+mhxx-save-format-community,11
+624,Dreadqueen Guards,Dreadqueen Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+625,Drilltusk Braces,Drilltusk Braces,mhxx-dex-1.0+mhxx-save-format-community,11
+626,Drilltusk Guards,Drilltusk Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+627,Silverwind Braces,Silverwind Braces,mhxx-dex-1.0+mhxx-save-format-community,11
+628,Silverwind Guards,Silverwind Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+629,Crystalbeard Braces,Crystalbeard Braces,mhxx-dex-1.0+mhxx-save-format-community,11
+630,Crystalbeard Guards,Crystalbeard Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+631,Deadeye Vambraces,Deadeye Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+632,Deadeye Guards,Deadeye Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+633,Dreadking Braces,Dreadking Braces,mhxx-dex-1.0+mhxx-save-format-community,11
+634,Dreadking Guards,Dreadking Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+635,Thunderlord Braces,Thunderlord Braces,mhxx-dex-1.0+mhxx-save-format-community,11
+636,Thunderlord Guards,Thunderlord Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+637,Grimclaw Braces,Grimclaw Braces,mhxx-dex-1.0+mhxx-save-format-community,11
+638,Grimclaw Guards,Grimclaw Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+639,Hellblade Braces,Hellblade Braces,mhxx-dex-1.0+mhxx-save-format-community,11
+640,Hellblade Guards,Hellblade Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+660,Champion's Wraps,Champion's Wraps,mhxx-dex-1.0+mhxx-save-format-community,7
+661,Strongman's Wraps,Strongman's Wraps,mhxx-dex-1.0+mhxx-save-format-community,7
+662,Zodias Vambraces,Zodias Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
+663,Zodias Guards,Zodias Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+664,Pirate Gloves J,Pirate Gloves J,mhxx-dex-1.0+mhxx-save-format-community,6
+665,Pirate Cuffs J,Pirate Cuffs J,mhxx-dex-1.0+mhxx-save-format-community,6
+666,Buccaneer Gloves J,Buccaneer Gloves J,mhxx-dex-1.0+mhxx-save-format-community,6
+667,Buccaneer Cuffs J,Buccaneer Cuffs J,mhxx-dex-1.0+mhxx-save-format-community,6
+668,Dynaqlo Glovelettes,Dynaqlo Glovelettes,mhxx-dex-1.0+mhxx-save-format-community,6
+669,Dynaqlo Gloves,Dynaqlo Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+670,Promising Braces,Promising Braces,mhxx-save-format-community,0
+671,Halcyon Braces,Halcyon Braces,mhxx-save-format-community,0
+672,Blue Star Braces,Blue Star Braces,mhxx-save-format-community,0
+673,Blue Star Sleeves,Blue Star Sleeves,mhxx-save-format-community,0
+674,Star Rook Vambraces,Star Rook Vambraces,mhxx-save-format-community,0
+675,Star Rook Guards,Star Rook Guards,mhxx-save-format-community,0
+676,Star Knight Vambraces,Star Knight Vambraces,mhxx-save-format-community,0
+677,Star Knight Guards,Star Knight Guards,mhxx-save-format-community,0
+678,Nisetama Gloves,Nisetama Gloves,mhxx-save-format-community,0
+679,Nisetama Sleeves,Nisetama Sleeves,mhxx-save-format-community,0
+680,Nisetama Gloves S,Nisetama Gloves S,mhxx-save-format-community,0
+681,Nisetama Sleeves S,Nisetama Sleeves S,mhxx-save-format-community,0
+682,Hero's Braces,Hero's Braces,mhxx-dex-1.0+mhxx-save-format-community,7
+683,Hero's Gloves,Hero's Gloves,mhxx-dex-1.0+mhxx-save-format-community,7
+684,Varia Suit Guards,Varia Suit Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+685,Varia Suit Shield,Varia Suit Shield,mhxx-dex-1.0+mhxx-save-format-community,6
+686,Zero Suit Gloves,Zero Suit Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+687,Zero Suit Hands,Zero Suit Hands,mhxx-dex-1.0+mhxx-save-format-community,6
+688,Braces of Rage,Braces of Rage,mhxx-dex-1.0+mhxx-save-format-community,7
+689,Guards of Rage,Guards of Rage,mhxx-dex-1.0+mhxx-save-format-community,7
+690,Braces of Anat,Braces of Anat,mhxx-dex-1.0+mhxx-save-format-community,7
+691,Guards of Anat,Guards of Anat,mhxx-dex-1.0+mhxx-save-format-community,7
+694,Mosgharl Creeper,Mosgharl Creeper,mhxx-dex-1.0+mhxx-save-format-community,2
+695,Mosgharl Tendril,Mosgharl Tendril,mhxx-dex-1.0+mhxx-save-format-community,2
+696,Gammoth Braces,Gammoth Braces,mhxx-dex-1.0+mhxx-save-format-community,3
+697,Gammoth Guards,Gammoth Guards,mhxx-dex-1.0+mhxx-save-format-community,3
+698,Gourmew Gloves,Gourmew Gloves,mhxx-dex-1.0+mhxx-save-format-community,3
+699,Gourmew Mitts,Gourmew Mitts,mhxx-dex-1.0+mhxx-save-format-community,3
+700,Leather Guards S,Leather Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+701,Chainmail Guards S,Chainmail Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
+702,Mosgharl Creeper S,Mosgharl Creeper S,mhxx-dex-1.0+mhxx-save-format-community,4
+703,Mosgharl Tendril S,Mosgharl Tendril S,mhxx-dex-1.0+mhxx-save-format-community,4
+704,Gammoth Braces S,Gammoth Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
+705,Gammoth Guards S,Gammoth Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
+706,Blue Guild Gloves,Blue Guild Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+707,Blue Guild Sleeves,Blue Guild Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
+708,Red Guild Gloves,Red Guild Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+709,Red Guild Sleeves,Red Guild Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
+710,Gourmew Gloves S,Gourmew Gloves S,mhxx-dex-1.0+mhxx-save-format-community,6
+711,Gourmew Mitts S,Gourmew Mitts S,mhxx-dex-1.0+mhxx-save-format-community,6
+712,Promising Archbraces,Promising Archbraces,mhxx-save-format-community,0
+713,Halcyon Archbraces,Halcyon Archbraces,mhxx-save-format-community,0
+714,Lucid Gauntlets,Lucid Gauntlets,mhxx-save-format-community,0
+715,Dreamy Gauntlets,Dreamy Gauntlets,mhxx-save-format-community,0
+716,Lucid Archbraces,Lucid Archbraces,mhxx-save-format-community,0
+717,Dreamy Archbraces,Dreamy Archbraces,mhxx-save-format-community,0
+718,Conga Vambraces,Conga Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
+719,Conga Guards,Conga Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+720,Giaprey Claws,Giaprey Claws,mhxx-dex-1.0+mhxx-save-format-community,4
+721,Giaprey Gloves,Giaprey Gloves,mhxx-dex-1.0+mhxx-save-format-community,4
+722,Barroth Vambraces,Barroth Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
+723,Barroth Guards,Barroth Guards,mhxx-dex-1.0+mhxx-save-format-community,4
+724,Basarios Vambraces,Basarios Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
+725,Basarios Guards,Basarios Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+726,Nerscylla Vambraces,Nerscylla Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
+727,Nerscylla Guards,Nerscylla Guards,mhxx-dex-1.0+mhxx-save-format-community,5
+728,Barioth Vambraces,Barioth Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+729,Barioth Guards,Barioth Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+730,Gravios Vambraces,Gravios Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
+731,Gravios Guards,Gravios Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+732,Cheerful Braces,Cheerful Braces,mhxx-dex-1.0+mhxx-save-format-community,7
+733,Cheerful Guards,Cheerful Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+734,Mariner Gloves,Mariner Gloves,mhxx-dex-1.0+mhxx-save-format-community,7
+735,Mariner Sleeves,Mariner Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
+738,Diablos Vambraces,Diablos Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
+739,Diablos Guards,Diablos Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+740,Diablos Vambraces R,Diablos Vambraces R,mhxx-dex-1.0+mhxx-save-format-community,7
+741,Diablos Guards R,Diablos Guards R,mhxx-dex-1.0+mhxx-save-format-community,7
+742,Valstrax Braces,Valstrax Braces,mhxx-dex-1.0+mhxx-save-format-community,7
+743,Valstrax Guards,Valstrax Guards,mhxx-dex-1.0+mhxx-save-format-community,7
+744,Wisdom Sleeves,Wisdom Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
+745,Wisdom Cuffs,Wisdom Cuffs,mhxx-dex-1.0+mhxx-save-format-community,7
+751,Bherna Braces X,Bherna Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+752,Bherna Guards X,Bherna Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+753,Hunting Braces X,Hunting Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+754,Hunting Guards X,Hunting Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+755,Mafumofu Grips X,Mafumofu Grips X,mhxx-dex-1.0+mhxx-save-format-community,8
+756,Mafumofu Mittens X,Mafumofu Mittens X,mhxx-dex-1.0+mhxx-save-format-community,8
+757,Yukumo Sky Kote Goku,Yukumo Sky Kote Goku,mhxx-dex-1.0+mhxx-save-format-community,8
+758,Yukumo Land Kote Goku,Yukumo Land Kote Goku,mhxx-dex-1.0+mhxx-save-format-community,8
+763,Velociprey Claws X,Velociprey Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
+764,Velociprey Gloves X,Velociprey Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+765,Genprey Claws X,Genprey Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
+766,Genprey Gloves X,Genprey Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+767,Ioprey Claws X,Ioprey Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
+768,Ioprey Gloves X,Ioprey Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+769,Remobra Gloves X,Remobra Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+770,Remobra Hands X,Remobra Hands X,mhxx-dex-1.0+mhxx-save-format-community,8
+771,Trapper's Gauntlets X,Trapper's Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,8
+772,Trapper's Gloves X,Trapper's Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+773,Mosswine Gloves X,Mosswine Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+774,Rhenoplos Braces X,Rhenoplos Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+775,Rhenoplos Guards X,Rhenoplos Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+776,Jaggi Vambraces X,Jaggi Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+777,Jaggi Guards X,Jaggi Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+784,Maccao Braces X,Maccao Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+785,Maccao Guards X,Maccao Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+786,Velociprey Braces X,Velociprey Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+787,Velociprey Guards X,Velociprey Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+788,Giaprey Braces X,Giaprey Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+789,Giaprey Guards X,Giaprey Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+790,Genprey Vambraces X,Genprey Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+791,Genprey Guards X,Genprey Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+792,Ioprey Vambraces X,Ioprey Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+793,Ioprey Guards X,Ioprey Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+794,Vespoid Vambraces X,Vespoid Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+795,Vespoid Guards X,Vespoid Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+796,Hornetaur Braces X,Hornetaur Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+797,Hornetaur Guards X,Hornetaur Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+798,Bnahabra Gloves X,Bnahabra Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+799,Bnahabra Sleeves X,Bnahabra Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+800,Konchu Vambraces X,Konchu Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+801,Konchu Guards X,Konchu Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+802,Bulldrome Braces X,Bulldrome Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+803,Bulldrome Guards X,Bulldrome Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+805,Arzuros Vambraces X,Arzuros Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+806,Arzuros Guards X,Arzuros Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+807,Cephalos Vambraces X,Cephalos Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+808,Cephalos Guards X,Cephalos Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+809,Kut-Ku Vambraces X,Kut-Ku Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+810,Kut-Ku Guards X,Kut-Ku Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+811,Kecha Braces X,Kecha Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+812,Kecha Guards X,Kecha Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+813,Lagombi Vambraces X,Lagombi Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+814,Lagombi Guards X,Lagombi Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+815,Gypceros Vambraces X,Gypceros Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+816,Gypceros Guards X,Gypceros Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+817,Tetsucabra Braces X,Tetsucabra Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+818,Tetsucabra Guards X,Tetsucabra Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+819,Hermitaur Braces X,Hermitaur Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+820,Hermitaur Guards X,Hermitaur Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+821,Ludroth Vambraces X,Ludroth Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+822,Ludroth Guards X,Ludroth Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+823,Gourmew Gloves X,Gourmew Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+824,Gourmew Mitts X,Gourmew Mitts X,mhxx-dex-1.0+mhxx-save-format-community,8
+825,Gourmew Gloves X,Gourmew Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+826,Gourmew Mitts X,Gourmew Mitts X,mhxx-dex-1.0+mhxx-save-format-community,8
+827,Moofah Claws X,Moofah Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
+828,Moofah Sleeves X,Moofah Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+829,Edel Creeper X,Edel Creeper X,mhxx-dex-1.0+mhxx-save-format-community,8
+830,Edel Tendril X,Edel Tendril X,mhxx-dex-1.0+mhxx-save-format-community,8
+833,Death Stench Grip X,Death Stench Grip X,mhxx-dex-1.0+mhxx-save-format-community,8
+834,Death Stench Grasp X,Death Stench Grasp X,mhxx-dex-1.0+mhxx-save-format-community,8
+835,Skalda Brachia X,Skalda Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
+836,Skalda Manus X,Skalda Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
+837,Spio Brachia X,Spio Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
+838,Spio Manus X,Spio Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
+839,Hunter's Vambraces XR,Hunter's Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+840,Hunter's Guards XR,Hunter's Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+841,Volvidon Vambraces X,Volvidon Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+842,Volvidon Guards X,Volvidon Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+843,Conga Vambraces X,Conga Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+844,Conga Guards X,Conga Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+845,Barroth Vambraces X,Barroth Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+846,Barroth Guards X,Barroth Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+847,Basarios Vambraces X,Basarios Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+848,Basarios Guards X,Basarios Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+849,Malfestio Braces X,Malfestio Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+850,Malfestio Guards X,Malfestio Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+851,Zamtrios Braces X,Zamtrios Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+852,Zamtrios Guards X,Zamtrios Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+853,Khezu Vambraces X,Khezu Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+854,Khezu Guards X,Khezu Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+855,Nerscylla Braces X,Nerscylla Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+856,Nerscylla Guards X,Nerscylla Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+857,Rathian Vambraces X,Rathian Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+858,Rathian Guards X,Rathian Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+859,Nibelsnarf Braces X,Nibelsnarf Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+860,Nibelsnarf Guards X,Nibelsnarf Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+861,Plesioth Vambraces X,Plesioth Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+862,Plesioth Guards X,Plesioth Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+863,Blango Vambraces X,Blango Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+864,Blango Guards X,Blango Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+865,Ceanataur Braces X,Ceanataur Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+866,Ceanataur Guards X,Ceanataur Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+867,Najarala Braces X,Najarala Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+868,Najarala Guards X,Najarala Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+869,Nargacuga Braces X,Nargacuga Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+870,Nargacuga Guards X,Nargacuga Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+871,Gypceros Braces XR,Gypceros Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+872,Gypceros Guards XR,Gypceros Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+873,Hermitaur Braces XR,Hermitaur Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+874,Hermitaur Guards XR,Hermitaur Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+875,Ludroth Braces XR,Ludroth Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+876,Ludroth Guards XR,Ludroth Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+877,Strange Vambraces X,Strange Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+878,Strange Guards X,Strange Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+881,Lecturer's Braces X,Lecturer's Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+882,Lecturer's Guards X,Lecturer's Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+883,Patissier's Gloves X,Patissier's Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+884,Patissier's Mitts X,Patissier's Mitts X,mhxx-dex-1.0+mhxx-save-format-community,8
+885,Posh Bath Sleeves,Posh Bath Sleeves,mhxx-dex-1.0+mhxx-save-format-community,8
+886,Maiden's Gloves X,Maiden's Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+887,French Maid Sleeves X,French Maid Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+888,Dianthus Masasleeves,Dianthus Masasleeves,mhxx-dex-1.0+mhxx-save-format-community,8
+889,Campanile Masasleeves,Campanile Masasleeves,mhxx-dex-1.0+mhxx-save-format-community,8
+890,Conga Vambraces GX,Conga Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+891,Conga Guards GX,Conga Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+892,Alloy Vambraces XR,Alloy Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+893,Alloy Guards XR,Alloy Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+894,Ingot Vambraces XR,Ingot Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+895,Ingot Guards XR,Ingot Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+896,Artian Vambraces X,Artian Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+897,Artian Guards X,Artian Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+898,Lobster Vambraces X,Lobster Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+899,Lobster Guards X,Lobster Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+900,Khezu Vambraces XR,Khezu Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+901,Khezu Guards XR,Khezu Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+902,Ceanataur Braces XR,Ceanataur Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+903,Ceanataur Guards XR,Ceanataur Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+904,Rathian Braces XR,Rathian Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+905,Rathian Guards XR,Rathian Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+906,Lava Vambraces X,Lava Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+907,Lava Guards X,Lava Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+908,Garuga Vambraces X,Garuga Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+909,Garuga Guards X,Garuga Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+910,Uragaan Vambraces X,Uragaan Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+911,Uragaan Guards X,Uragaan Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+912,Barioth Vambraces X,Barioth Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+913,Barioth Guards X,Barioth Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+914,Seltas Vambraces X,Seltas Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+915,Seltas Guards X,Seltas Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+916,Rathalos Vambraces X,Rathalos Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+917,Rathalos Guards X,Rathalos Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+918,Lagiacrus Braces X,Lagiacrus Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+919,Lagiacrus Guards X,Lagiacrus Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+920,Zinogre Vambraces X,Zinogre Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+921,Zinogre Guards X,Zinogre Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+922,Gravios Vambraces X,Gravios Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+923,Gravios Guards X,Gravios Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+924,Mizutsune Braces X,Mizutsune Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+925,Mizutsune Guards X,Mizutsune Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+926,Astalos Braces X,Astalos Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+927,Astalos Guards X,Astalos Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+928,Gammoth Braces X,Gammoth Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+929,Gammoth Guards X,Gammoth Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+930,Glavenus Braces X,Glavenus Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+931,Glavenus Guards X,Glavenus Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+932,Gore Braces X,Gore Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+933,Gore Guards X,Gore Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+934,Kirin Longarms X,Kirin Longarms X,mhxx-dex-1.0+mhxx-save-format-community,9
+935,Kirin Gloves X,Kirin Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
+936,Kirin Longarms XR,Kirin Longarms XR,mhxx-dex-1.0+mhxx-save-format-community,9
+937,Kirin Gloves XR,Kirin Gloves XR,mhxx-dex-1.0+mhxx-save-format-community,9
+938,Auroros Gauntlets,Auroros Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
+939,Borealis Gauntlets,Borealis Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
+940,Genesis Gauntlets,Genesis Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
+941,Glyph Gauntlets,Glyph Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
+942,Auroros Gauntlets GX,Auroros Gauntlets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+943,Borealis Gauntlets GX,Borealis Gauntlets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+944,Genesis Gauntlets GX,Genesis Gauntlets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+945,Glyph Gauntlets GX,Glyph Gauntlets GX,mhxx-dex-1.0+mhxx-save-format-community,10
+946,Auroros Gauntlets XR,Auroros Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+947,Borealis Gauntlets XR,Borealis Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+948,Genesis Gauntlets XR,Genesis Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+949,Glyph Gauntlets XR,Glyph Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+950,Scholar's Gloves X,Scholar's Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+951,Scholar's Sleeves X,Scholar's Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+952,Sailor Gloves X,Sailor Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+953,Sailor Sleeves X,Sailor Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+954,Hawkbraces X,Hawkbraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+955,Hawkguards X,Hawkguards X,mhxx-dex-1.0+mhxx-save-format-community,8
+956,Scholarly Grips X,Scholarly Grips X,mhxx-dex-1.0+mhxx-save-format-community,8
+957,Scholarly Cuffs X,Scholarly Cuffs X,mhxx-dex-1.0+mhxx-save-format-community,8
+958,Research Grips,Research Grips,mhxx-dex-1.0+mhxx-save-format-community,9
+959,Research Cuffs,Research Cuffs,mhxx-dex-1.0+mhxx-save-format-community,9
+960,Rathalos Braces XR,Rathalos Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
+961,Rathalos Guards XR,Rathalos Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+962,Lagiacrus Braces XR,Lagiacrus Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
+963,Lagiacrus Guards XR,Lagiacrus Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+964,Gore Braces XR,Gore Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
+965,Gore Guards XR,Gore Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+966,Agnaktor Vambraces X,Agnaktor Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+967,Agnaktor Guards X,Agnaktor Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+968,Regios Vambraces X,Regios Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+969,Regios Guards X,Regios Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+970,Duramboros Braces X,Duramboros Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+971,Duramboros Guards X,Duramboros Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+972,Tigrex Vambraces X,Tigrex Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+973,Tigrex Guards X,Tigrex Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+974,Tigrex Braces XR,Tigrex Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
+975,Tigrex Guards XR,Tigrex Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+976,Diablos Vambraces X,Diablos Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+977,Diablos Guards X,Diablos Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+978,Diablos Vambraces XR,Diablos Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,9
+979,Diablos Guards XR,Diablos Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+980,Brachydios Braces X,Brachydios Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+981,Brachydios Guards X,Brachydios Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+982,Arc Vambraces X,Arc Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+983,Storge Vambraces X,Storge Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+984,Arc Guards X,Arc Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+985,Storge Guards X,Storge Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+986,Arc Vambraces XR,Arc Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,9
+987,Storge Braces XR,Storge Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
+988,Arc Guards XR,Arc Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+989,Storge Guards XR,Storge Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+990,Valstrax Braces X,Valstrax Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+991,Valstrax Guards X,Valstrax Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+992,Grand God's Peer Arms,Grand God's Peer Arms,mhxx-dex-1.0+mhxx-save-format-community,9
+993,Grand Hermit Arms,Grand Hermit Arms,mhxx-dex-1.0+mhxx-save-format-community,9
+994,Vangis Vambraces X,Vangis Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+995,Vangis Guards X,Vangis Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+996,Kushala Grip X,Kushala Grip X,mhxx-dex-1.0+mhxx-save-format-community,10
+997,Kushala Embrace X,Kushala Embrace X,mhxx-dex-1.0+mhxx-save-format-community,10
+998,Kushala Grip XR,Kushala Grip XR,mhxx-dex-1.0+mhxx-save-format-community,10
+999,Kushala Embrace XR,Kushala Embrace XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1000,Grand Mizuha Sleeves,Grand Mizuha Sleeves,mhxx-dex-1.0+mhxx-save-format-community,10
+1001,Grand Cham Sleeves,Grand Cham Sleeves,mhxx-dex-1.0+mhxx-save-format-community,10
+1002,Kaiser Vambraces X,Kaiser Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,10
+1003,Kaiser Guards X,Kaiser Guards X,mhxx-dex-1.0+mhxx-save-format-community,10
+1004,Silver Solbraces Z,Silver Solbraces Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1005,Silver Solguards Z,Silver Solguards Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1006,Golden Lunebraces Z,Golden Lunebraces Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1007,Golden Luneguards Z,Golden Luneguards Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1008,Yaksha Braces,Yaksha Braces,mhxx-dex-1.0+mhxx-save-format-community,9
+1009,Carnage Vambraces,Carnage Vambraces,mhxx-dex-1.0+mhxx-save-format-community,9
+1010,Guardian Vambraces X,Guardian Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1011,Guardian Guards X,Guardian Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1012,Blue Guild Gloves X,Blue Guild Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1013,Blue Guild Gloves X,Blue Guild Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1014,Blue Guild Sleeves X,Blue Guild Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1015,Blue Guild Sleeves X,Blue Guild Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1016,Red Guild Gloves X,Red Guild Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1017,Red Guild Gloves X,Red Guild Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1018,Red Guild Sleeves X,Red Guild Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1019,Red Guild Sleeves X,Red Guild Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1020,G. Knight Gloves X,G. Knight Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1021,G. Knight Sleeves X,G. Knight Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1022,Guild Bard Braces X,Guild Bard Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1023,Guild Bard Sleeves X,Guild Bard Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1024,Ace Vambraces X,Ace Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1025,Ace Guards X,Ace Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1026,Sororal Vambraces X,Sororal Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1027,Sororal Guards X,Sororal Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1028,Shinobi Heaven Kote Goku,Shinobi Heaven Kote Goku,mhxx-dex-1.0+mhxx-save-format-community,9
+1029,Shinobi Land Kote Goku,Shinobi Land Kote Goku,mhxx-dex-1.0+mhxx-save-format-community,9
+1030,Kaiserin Arms,Kaiserin Arms,mhxx-dex-1.0+mhxx-save-format-community,9
+1031,Kaisrein Guards,Kaisrein Guards,mhxx-dex-1.0+mhxx-save-format-community,9
+1032,Barmaid's Gloves,Barmaid's Gloves,mhxx-dex-1.0+mhxx-save-format-community,9
+1033,Barmaid's Sleeves,Barmaid's Sleeves,mhxx-dex-1.0+mhxx-save-format-community,9
+1034,Barman's Gloves,Barman's Gloves,mhxx-dex-1.0+mhxx-save-format-community,9
+1035,Barman's Sleeves,Barman's Sleeves,mhxx-dex-1.0+mhxx-save-format-community,9
+1036,Helios Vambraces X,Helios Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1037,Selene Vambraces X,Selene Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1038,Helios Guards X,Helios Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1039,Selene Guards X,Selene Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1040,Strider's Gauntlets,Strider's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,9
+1041,Deadeye's Gauntlets,Deadeye's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,9
+1042,Damascus Vambraces X,Damascus Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1043,Damascus Guards X,Damascus Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1044,Chaos Vambraces,Chaos Vambraces,mhxx-dex-1.0+mhxx-save-format-community,9
+1045,Nephilim Vambraces,Nephilim Vambraces,mhxx-dex-1.0+mhxx-save-format-community,9
+1046,Chaos Guards,Chaos Guards,mhxx-dex-1.0+mhxx-save-format-community,9
+1047,Nephilim Guards,Nephilim Guards,mhxx-dex-1.0+mhxx-save-format-community,9
+1048,Grand Divine Ire Kote,Grand Divine Ire Kote,mhxx-dex-1.0+mhxx-save-format-community,10
+1049,Grand Crusher Braces,Grand Crusher Braces,mhxx-dex-1.0+mhxx-save-format-community,10
+1050,Esurient Vambraces Z,Esurient Vambraces Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1051,Esurient Guards Z,Esurient Guards Z,mhxx-dex-1.0+mhxx-save-format-community,10
+1052,Brachydium Vambraces,Brachydium Vambraces,mhxx-dex-1.0+mhxx-save-format-community,10
+1053,Brachydium Guards,Brachydium Guards,mhxx-dex-1.0+mhxx-save-format-community,10
+1054,Akantor Claws X,Akantor Claws X,mhxx-dex-1.0+mhxx-save-format-community,10
+1055,Akantor Gauntlets X,Akantor Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,10
+1056,Akantor Claws XR,Akantor Claws XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1057,Akantor Gauntlets XR,Akantor Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1058,Ukanlos Claws X,Ukanlos Claws X,mhxx-dex-1.0+mhxx-save-format-community,10
+1059,Ukanlos Gauntlets X,Ukanlos Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,10
+1060,Grand Tempest Sleeves,Grand Tempest Sleeves,mhxx-dex-1.0+mhxx-save-format-community,10
+1061,Grand Welkin Sleeves,Grand Welkin Sleeves,mhxx-dex-1.0+mhxx-save-format-community,10
+1062,Grand Skeletal Humerus,Grand Skeletal Humerus,mhxx-dex-1.0+mhxx-save-format-community,10
+1063,Grand Decayed Humerus,Grand Decayed Humerus,mhxx-dex-1.0+mhxx-save-format-community,10
+1064,Astral Vambraces X,Astral Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,10
+1065,Astral Guards X,Astral Guards X,mhxx-dex-1.0+mhxx-save-format-community,10
+1066,Neset Gloves,Neset Gloves,mhxx-dex-1.0+mhxx-save-format-community,10
+1067,Neset Brachia,Neset Brachia,mhxx-dex-1.0+mhxx-save-format-community,10
+1068,Black Claw X,Black Claw X,mhxx-dex-1.0+mhxx-save-format-community,9
+1069,Black Fist X,Black Fist X,mhxx-dex-1.0+mhxx-save-format-community,9
+1070,Escadora Arms X,Escadora Arms X,mhxx-dex-1.0+mhxx-save-format-community,10
+1071,Escadora Arma X,Escadora Arma X,mhxx-dex-1.0+mhxx-save-format-community,10
+1072,Escadora Armguards XR,Escadora Armguards XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1073,Escadora Arma XR,Escadora Arma XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1074,Fatalis Crimsonclaws,Fatalis Crimsonclaws,mhxx-dex-1.0+mhxx-save-format-community,10
+1075,Fatalis Crimsonfists,Fatalis Crimsonfists,mhxx-dex-1.0+mhxx-save-format-community,10
+1076,GX Fatalis Crimsonclaws,GX Fatalis Crimsonclaws,mhxx-dex-1.0+mhxx-save-format-community,10
+1077,GX Fatalis Crimsonfists,GX Fatalis Crimsonfists,mhxx-dex-1.0+mhxx-save-format-community,10
+1078,Fatalis Crimsonclaws XR,Fatalis Crimsonclaws XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1079,Fatalis Crimsonfists XR,Fatalis Crimsonfists XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1080,Old Fatalis Claw,Old Fatalis Claw,mhxx-dex-1.0+mhxx-save-format-community,10
+1081,Old Fatalis Fist,Old Fatalis Fist,mhxx-dex-1.0+mhxx-save-format-community,10
+1082,GX Old Fatalis Claw,GX Old Fatalis Claw,mhxx-dex-1.0+mhxx-save-format-community,10
+1083,GX Old Fatalis Fist,GX Old Fatalis Fist,mhxx-dex-1.0+mhxx-save-format-community,10
+1084,Helper Sleeves X,Helper Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1085,Healer Sleeves X,Healer Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1086,Ancient Arms X,Ancient Arms X,mhxx-dex-1.0+mhxx-save-format-community,9
+1087,Ancient Guards X,Ancient Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1088,Master's Gauntlets X,Master's Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,9
+1089,Master's Guards X,Master's Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1090,Grand Toka Kote,Grand Toka Kote,mhxx-dex-1.0+mhxx-save-format-community,9
+1091,Grand Mitsuaoi Kote,Grand Mitsuaoi Kote,mhxx-dex-1.0+mhxx-save-format-community,9
+1096,Black Belt Braces X,Black Belt Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1097,Black Belt Guards X,Black Belt Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1100,Auroros Gauntlets R,Auroros Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,10
+1101,Borealis Gauntlets R,Borealis Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,10
+1102,Genesis Gauntlets R,Genesis Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,10
+1103,Glyph Gauntlets R,Glyph Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,10
+1104,Silver Solbraces XR,Silver Solbraces XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1105,Silver Solguards XR,Silver Solguards XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1106,Esurient Vambraces XR,Esurient Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1107,Esurient Guards XR,Esurient Guards XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1108,Rustrazor Vambraces,Rustrazor Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+1109,Rustrazor Guards,Rustrazor Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+1110,Nightcloak Vambraces,Nightcloak Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+1111,Nightcloak Guards,Nightcloak Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+1112,Soulseer Vambraces,Soulseer Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+1113,Soulseer Guards,Soulseer Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+1114,Boltreaver Vambraces,Boltreaver Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+1115,Boltreaver Guards,Boltreaver Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+1116,Elderfrost Vambraces,Elderfrost Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+1117,Elderfrost Guards,Elderfrost Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+1118,Bloodbath Vambraces,Bloodbath Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
+1119,Bloodbath Guards,Bloodbath Guards,mhxx-dex-1.0+mhxx-save-format-community,11
+1120,Gammoth Braces X,Gammoth Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1121,Gammoth Guards X,Gammoth Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1122,Genprey Vambraces GX,Genprey Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1123,Genprey Guards GX,Genprey Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1124,Ioprey Vambraces GX,Ioprey Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1125,Ioprey Guards GX,Ioprey Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1126,Vespoid Vambraces GX,Vespoid Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1127,Vespoid Guards GX,Vespoid Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1128,Hornetaur Braces XR,Hornetaur Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1129,Hornetaur Guards XR,Hornetaur Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1130,Hornetaur Braces GX,Hornetaur Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1131,Hornetaur Guards GX,Hornetaur Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1132,Cephalos Braces GX,Cephalos Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1133,Cephalos Guards GX,Cephalos Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1134,Hermitaur Braces GX,Hermitaur Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1135,Hermitaur Guards GX,Hermitaur Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1136,Rathian Braces GX,Rathian Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1137,Rathian Guards GX,Rathian Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1138,Ceanataur Braces GX,Ceanataur Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1139,Ceanataur Guards GX,Ceanataur Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1140,Blango Vambraces GX,Blango Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1141,Blango Guards GX,Blango Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1142,Gore Braces GX,Gore Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1143,Gore Guards GX,Gore Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1144,Zinogre Braces GX,Zinogre Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1145,Zinogre Guards GX,Zinogre Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1146,Tigrex Braces GX,Tigrex Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1147,Tigrex Guards GX,Tigrex Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1148,Brachydios Braces GX,Brachydios Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1149,Brachydios Guards GX,Brachydios Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1150,Rathalos Braces GX,Rathalos Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1151,Rathalos Guards GX,Rathalos Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1152,Arc Vambraces GX,Arc Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1153,Arc Guards GX,Arc Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1154,Storge Braces GX,Storge Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1155,Storge Guards GX,Storge Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
+1156,Kushala Grip GX,Kushala Grip GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1157,Kushala Embrace GX,Kushala Embrace GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1158,Mizuha Sleeves GX,Mizuha Sleeves GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1159,Cham Sleeves GX,Cham Sleeves GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1160,Kaiser Vambraces GX,Kaiser Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1161,Kaiser Guards GX,Kaiser Guards GX,mhxx-dex-1.0+mhxx-save-format-community,10
+1162,Lavasioth Braces GX,Lavasioth Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1163,Lavasioth Guards GX,Lavasioth Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
+1164,GX Silver Solbraces,GX Silver Solbraces,mhxx-dex-1.0+mhxx-save-format-community,10
+1165,GX Silver Solguards,GX Silver Solguards,mhxx-dex-1.0+mhxx-save-format-community,10
+1166,GX Golden Lunebraces,GX Golden Lunebraces,mhxx-dex-1.0+mhxx-save-format-community,10
+1167,GX Golden Luneguards,GX Golden Luneguards,mhxx-dex-1.0+mhxx-save-format-community,10
+1168,Tempest Sleeves XR,Tempest Sleeves XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1169,Welkin Sleeves XR,Welkin Sleeves XR,mhxx-dex-1.0+mhxx-save-format-community,10
+1170,Leather Braces X,Leather Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1171,Leather Guards X,Leather Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1172,Chain Vambraces X,Chain Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1173,Chainmail Guards X,Chainmail Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1175,Hunter's Vambraces X,Hunter's Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1176,Hunter's Guards X,Hunter's Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1177,Bone Vambraces X,Bone Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1178,Bone Guards X,Bone Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1179,Dober Vambraces X,Dober Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1180,Dober Guards X,Dober Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1181,Alloy Vambraces X,Alloy Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1182,Alloy Guards X,Alloy Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1183,Ingot Vambraces X,Ingot Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1184,Ingot Guards X,Ingot Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1185,Damascus VambracesXR,Damascus VambracesXR,mhxx-dex-1.0+mhxx-save-format-community,9
+1186,Damascus Guards XR,Damascus Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
+1187,Battle Vambraces X,Battle Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1188,Battle Guards X,Battle Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1189,High Metal Braces X,High Metal Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1190,High Metal Guards X,High Metal Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1191,High Metal Braces Z,High Metal Braces Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1192,High Metal Guards Z,High Metal Guards Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1193,Mosgharl Creeper X,Mosgharl Creeper X,mhxx-dex-1.0+mhxx-save-format-community,8
+1194,Mosgharl Tendril X,Mosgharl Tendril X,mhxx-dex-1.0+mhxx-save-format-community,8
+1195,Mosgharl Creeper X,Mosgharl Creeper X,mhxx-dex-1.0+mhxx-save-format-community,8
+1196,Mosgharl Tendril X,Mosgharl Tendril X,mhxx-dex-1.0+mhxx-save-format-community,8
+1197,Obituary Brachia X,Obituary Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
+1198,Obituary Manus X,Obituary Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
+1199,Butterfly Brachia X,Butterfly Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
+1200,Butterfly Manus X,Butterfly Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
+1201,Aelucanth Brachia X,Aelucanth Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
+1202,Aelucanth Manus X,Aelucanth Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
+1203,Rhopessa Brachia X,Rhopessa Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
+1204,Rhopessa Manus X,Rhopessa Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
+1205,Vaik Braces X,Vaik Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1206,Vaik Guards X,Vaik Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1207,Guardian Vambraces Z,Guardian Vambraces Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1208,Guardian Guards Z,Guardian Guards Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1209,Helper Sleeves Z,Helper Sleeves Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1210,Healer Sleeves Z,Healer Sleeves Z,mhxx-dex-1.0+mhxx-save-format-community,9
+1211,Death Stench Grip XR,Death Stench Grip XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1212,Death Stench Grasp XR,Death Stench Grasp XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1213,Makluva Sleeves X,Makluva Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1214,Makluva Sucker X,Makluva Sucker X,mhxx-dex-1.0+mhxx-save-format-community,8
+1215,Makluva Sleeves Z,Makluva Sleeves Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1216,Makluva Sucker Z,Makluva Sucker Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1217,Melahoa Branch X,Melahoa Branch X,mhxx-dex-1.0+mhxx-save-format-community,8
+1218,Melahoa Petal X,Melahoa Petal X,mhxx-dex-1.0+mhxx-save-format-community,8
+1219,Melahoa Branch Z,Melahoa Branch Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1220,Melahoa Petal Z,Melahoa Petal Z,mhxx-dex-1.0+mhxx-save-format-community,8
+1221,Derring Vambraces X,Derring Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
+1222,Derring Guards X,Derring Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
+1223,GX Kita Star Sleeves,GX Kita Star Sleeves,mhxx-dex-1.0+mhxx-save-format-community,8
+1224,GX Umi Ocean Sleeves,GX Umi Ocean Sleeves,mhxx-dex-1.0+mhxx-save-format-community,8
+1227,Wisdom Sleeves X,Wisdom Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
+1228,Wisdom Cuffs X,Wisdom Cuffs X,mhxx-dex-1.0+mhxx-save-format-community,9
+1229,Cheerful Braces X,Cheerful Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
+1230,Cheerful Guards X,Cheerful Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
+1231,Mariner Gloves X,Mariner Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1232,Mariner Sleeves X,Mariner Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1241,Giaprey Claws X,Giaprey Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
+1242,Giaprey Gloves X,Giaprey Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1245,Caravaneer's Armlets X,Caravaneer's Armlets X,mhxx-dex-1.0+mhxx-save-format-community,9
+1247,Maccao Gauntlets X,Maccao Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,8
+1248,Maccao Gloves X,Maccao Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1249,Jaggi Gauntlets X,Jaggi Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,8
+1250,Jaggi Gloves X,Jaggi Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
+1251,Artian Braces XR,Artian Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1252,Artian Guards XR,Artian Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
+1253,Dragonclaws,Dragonclaws,mhxx-dex-1.0+mhxx-save-format-community,10
+1254,Dragonfists,Dragonfists,mhxx-dex-1.0+mhxx-save-format-community,10
+1255,Criminal Braces,Criminal Braces,mhxx-dex-1.0+mhxx-save-format-community,9
+1256,Criminal Hands,Criminal Hands,mhxx-dex-1.0+mhxx-save-format-community,9
+1257,Gon Braces,Gon Braces,mhxx-save-format-community,0
+1258,Gon Guards,Gon Guards,mhxx-save-format-community,0
+1259,Arcfire Kote,Arcfire Kote,mhxx-save-format-community,0
+1260,Bonfire Kote,Bonfire Kote,mhxx-save-format-community,0
+1261,Waka Kote,Waka Kote,mhxx-save-format-community,0
+1262,Wagaku Kote,Wagaku Kote,mhxx-save-format-community,0
+1263,Ruler Arcfire Kote,Ruler Arcfire Kote,mhxx-save-format-community,0
+1264,Ruler Bonfire Kote,Ruler Bonfire Kote,mhxx-save-format-community,0
+1265,Ruler Waka Kote,Ruler Waka Kote,mhxx-save-format-community,0
+1266,Ruler Wagaku Kote,Ruler Wagaku Kote,mhxx-save-format-community,0
+1267,Supreme Arcfire Kote,Supreme Arcfire Kote,mhxx-save-format-community,0
+1268,Supreme Bonfire Kote,Supreme Bonfire Kote,mhxx-save-format-community,0
+1269,Supreme Wagaku Kote,Supreme Wagaku Kote,mhxx-save-format-community,0
+1270,Supreme Wagaku Kote,Supreme Wagaku Kote,mhxx-save-format-community,0
+1271,Garo Gauntlets,Garo Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
+1272,Garo Vambraces,Garo Vambraces,mhxx-dex-1.0+mhxx-save-format-community,10
+1273,Varia Suit Guards,Varia Suit Guards,mhxx-dex-1.0+mhxx-save-format-community,6
+1274,Varia Suit Shield,Varia Suit Shield,mhxx-dex-1.0+mhxx-save-format-community,6
+1275,Zero Suit Gloves,Zero Suit Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
+1276,Zero Suit Hands,Zero Suit Hands,mhxx-dex-1.0+mhxx-save-format-community,6
+1277,Lodestar Armguards,Lodestar Armguards,mhxx-dex-1.0+mhxx-save-format-community,7
+1278,Lodestar Cuffs,Lodestar Cuffs,mhxx-dex-1.0+mhxx-save-format-community,7
+1279,Hylian Bracers,Hylian Bracers,mhxx-dex-1.0+mhxx-save-format-community,10
+1280,Hylian Gloves,Hylian Gloves,mhxx-dex-1.0+mhxx-save-format-community,10
+1281,Hiryu Sky Kote,Hiryu Sky Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+1282,Hiryu Land Kote,Hiryu Land Kote,mhxx-dex-1.0+mhxx-save-format-community,7

@@ -1,12 +1,12 @@
 id,name,english,source,rarity
 0,无,(None),mhxx-save-format-community,0
-1,Pawn Talisman,Pawn Talisman,mhxx-save-format-community-en-fallback,0
-2,Bishop Talisman,Bishop Talisman,mhxx-save-format-community-en-fallback,0
-3,Knight Talisman,Knight Talisman,mhxx-save-format-community-en-fallback,0
-4,Rook Talisman,Rook Talisman,mhxx-save-format-community-en-fallback,0
-5,Queen Talisman,Queen Talisman,mhxx-save-format-community-en-fallback,0
-6,King Talisman,King Talisman,mhxx-save-format-community-en-fallback,0
-7,Dragon Talisman,Dragon Talisman,mhxx-save-format-community-en-fallback,0
-8,Hero Talisman,Hero Talisman,mhxx-save-format-community-en-fallback,0
-9,Legend Talisman,Legend Talisman,mhxx-save-format-community-en-fallback,0
-10,Creator Talisman,Creator Talisman,mhxx-save-format-community-en-fallback,0
+1,士兵护石,Pawn Talisman,mhxx-save-format-community,0
+2,斗士护石,Bishop Talisman,mhxx-save-format-community,0
+3,骑士护石,Knight Talisman,mhxx-save-format-community,0
+4,城塞护石,Rook Talisman,mhxx-save-format-community,0
+5,女王护石,Queen Talisman,mhxx-save-format-community,0
+6,国王护石,King Talisman,mhxx-save-format-community,0
+7,龙之护石,Dragon Talisman,mhxx-save-format-community,0
+8,英雄护石,Hero Talisman,mhxx-save-format-community,0
+9,传说护石,Legend Talisman,mhxx-save-format-community,0
+10,天之护石,Creator Talisman,mhxx-save-format-community,0

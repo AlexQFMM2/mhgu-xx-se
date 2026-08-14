@@ -114,6 +114,7 @@ public:
 
     QVector<MhguItem> items() const;
     bool setItem(int index, const MhguItem &value);
+    bool setItems(const QVector<MhguItem> &values);
 
     MhguEquipment equipment(int index) const;
     bool setEquipment(int index, const MhguEquipment &value, QString *warning = nullptr);

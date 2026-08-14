@@ -10,3 +10,6 @@ dist/
 release/
 tests/build/
 tests/bin/
+.qmake.stash
+Makefile
+tests/Makefile

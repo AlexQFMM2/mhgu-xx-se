@@ -29,6 +29,8 @@ private slots:
     void populate();
     void editSelected();
     void addFirstEmpty();
+    void exportForm();
+    void importForm();
 private:
     MhguSave *m_save;
     GameData *m_data;
@@ -46,6 +48,8 @@ private slots:
     void populatePalico();
     void editHunter();
     void editPalico();
+    void exportForm();
+    void importForm();
 private:
     MhguSave *m_save;
     GameData *m_data;
@@ -72,4 +76,3 @@ private:
     QTableWidget *m_table;
     QCheckBox *m_showEmpty;
 };
-
