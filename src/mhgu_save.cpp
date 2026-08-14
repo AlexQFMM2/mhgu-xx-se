@@ -65,13 +65,20 @@ bool MhguSave::open(const QString &path)
         return false;
     }
 
+    const QByteArray previousRaw = m_raw;
+    const QString previousPath = m_path;
+    const int previousSlot = m_selectedSlot;
+    const bool previousDirty = m_dirty;
     m_raw = bytes;
     m_path = QFileInfo(path).absoluteFilePath();
     m_selectedSlot = -1;
     m_dirty = false;
     QString validationError;
     if (!validate(&validationError)) {
-        close();
+        m_raw = previousRaw;
+        m_path = previousPath;
+        m_selectedSlot = previousSlot;
+        m_dirty = previousDirty;
         m_error = validationError;
         return false;
     }

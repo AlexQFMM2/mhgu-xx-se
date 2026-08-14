@@ -112,6 +112,13 @@ int main(int argc, char **argv)
     require(slotList[1].name == QStringLiteral("存档二") && slotList[2].hunterRank == 12, "parse all three slots");
     require(save.selectSlot(1), "select second slot");
     require(save.character().money == 2000 && save.character().playTime == 7200, "parse character fields");
+    QByteArray invalidSystem = original;
+    write32(invalidSystem, 0x14, quint32(MhguSave::FileSize - 8));
+    const QString invalidPath = temp.filePath(QStringLiteral("invalid-system"));
+    require(writeFile(invalidPath, invalidSystem), "write invalid full-size system");
+    require(!save.open(invalidPath), "reject invalid full-size system");
+    require(save.isOpen() && save.path() == path && save.selectedSlot() == 1
+            && save.character().money == 2000, "failed open preserves current system and slot");
     require(!save.isDirty(), "clean immediately after open");
     require(save.save(), "save unchanged system");
     require(readFile(path) == original, "unchanged save is byte-identical");

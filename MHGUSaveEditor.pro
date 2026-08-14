@@ -23,5 +23,3 @@ HEADERS += \
     src/mhgu_save.hpp \
     src/main_window.hpp \
     src/editor_dialogs.hpp
-
-RESOURCES += resources/resources.qrc

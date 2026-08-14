@@ -1,5 +1,0 @@
-<RCC>
-  <qresource prefix="/icons">
-    <file alias="combobox-arrow.svg">combobox-arrow.svg</file>
-  </qresource>
-</RCC>

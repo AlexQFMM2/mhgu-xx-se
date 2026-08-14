@@ -1,6 +1,6 @@
 #pragma once
 
-#include <QDialog>
+#include <QWidget>
 
 class GameData;
 class MhguSave;
@@ -9,22 +9,29 @@ class QComboBox;
 class QLineEdit;
 class QTableWidget;
 
-class CharacterDialog : public QDialog {
+class CharacterDialog : public QWidget {
     Q_OBJECT
 public:
     explicit CharacterDialog(MhguSave *save, QWidget *parent = nullptr);
-private slots:
-    void apply();
+    void loadFromModel();
+    bool commitToModel(QString *error = nullptr);
+signals:
+    void modified();
 private:
     MhguSave *m_save;
     QLineEdit *m_name;
     QLineEdit *m_fields[9];
+    bool m_loading = false;
 };
 
-class ItemBoxDialog : public QDialog {
+class ItemBoxDialog : public QWidget {
     Q_OBJECT
 public:
     ItemBoxDialog(MhguSave *save, GameData *data, QWidget *parent = nullptr);
+    void loadFromModel();
+    bool commitToModel(QString *error = nullptr);
+signals:
+    void modified();
 private slots:
     void populate();
     void editSelected();
@@ -39,10 +46,14 @@ private:
     QCheckBox *m_nonEmpty;
 };
 
-class EquipmentBoxDialog : public QDialog {
+class EquipmentBoxDialog : public QWidget {
     Q_OBJECT
 public:
     EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *parent = nullptr);
+    void loadFromModel();
+    bool commitToModel(QString *error = nullptr);
+signals:
+    void modified();
 private slots:
     void populateHunter();
     void populatePalico();
@@ -63,10 +74,14 @@ private:
     QCheckBox *m_palicoNonEmpty;
 };
 
-class PalicoListDialog : public QDialog {
+class PalicoListDialog : public QWidget {
     Q_OBJECT
 public:
     PalicoListDialog(MhguSave *save, GameData *data, QWidget *parent = nullptr);
+    void loadFromModel();
+    bool commitToModel(QString *error = nullptr);
+signals:
+    void modified();
 private slots:
     void populate();
     void editSelected();
