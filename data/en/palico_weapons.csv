@@ -1,510 +1,510 @@
 id,name,english,source,rarity
-0,None,None,mhxx-save-format-community,0
-1,F Bone Wedge,F Bone Wedge,mhxx-dex-1.0+mhxx-save-format-community,1
-2,F Bherna Staff,F Bherna Staff,mhxx-dex-1.0+mhxx-save-format-community,1
-3,F Iron Sword,F Iron Sword,mhxx-dex-1.0+mhxx-save-format-community,1
-4,F Bone Hammer,F Bone Hammer,mhxx-dex-1.0+mhxx-save-format-community,1
-5,F Jaggi Knife,F Jaggi Knife,mhxx-dex-1.0+mhxx-save-format-community,1
-6,F Hunting Knife,F Hunting Knife,mhxx-dex-1.0+mhxx-save-format-community,2
-7,F Yukumo Bokken,F Yukumo Bokken,mhxx-dex-1.0+mhxx-save-format-community,2
-8,F Wood Chopper,F Wood Chopper,mhxx-dex-1.0+mhxx-save-format-community,2
-9,F Paw Punch,F Paw Punch,mhxx-dex-1.0+mhxx-save-format-community,2
-10,F Alta Net,F Alta Net,mhxx-dex-1.0+mhxx-save-format-community,2
-11,F Rheno Hammer,F Rheno Hammer,mhxx-dex-1.0+mhxx-save-format-community,2
-12,F Bnaha Dagger,F Bnaha Dagger,mhxx-dex-1.0+mhxx-save-format-community,2
-13,F Maccao Dagger,F Maccao Dagger,mhxx-dex-1.0+mhxx-save-format-community,2
-14,F Vprey Bayonet,F Vprey Bayonet,mhxx-dex-1.0+mhxx-save-format-community,2
-15,F Bulldrome Tusk,F Bulldrome Tusk,mhxx-dex-1.0+mhxx-save-format-community,2
-16,F Arzuros Mace,F Arzuros Mace,mhxx-dex-1.0+mhxx-save-format-community,2
-17,F Genprey Bayonet,F Genprey Bayonet,mhxx-dex-1.0+mhxx-save-format-community,2
-18,F Cephalos Brush,F Cephalos Brush,mhxx-dex-1.0+mhxx-save-format-community,2
-19,F Machalite Wedge,F Machalite Wedge,mhxx-dex-1.0+mhxx-save-format-community,2
-20,F Giant Acorn,F Giant Acorn,mhxx-dex-1.0+mhxx-save-format-community,2
-21,F Stone Cat Statue,F Stone Cat Statue,mhxx-dex-1.0+mhxx-save-format-community,2
-22,F Venombee Bat,F Venombee Bat,mhxx-dex-1.0+mhxx-save-format-community,2
-23,F Gourmet Cheese,F Gourmet Cheese,mhxx-dex-1.0+mhxx-save-format-community,2
-24,F Moofah Cotton,F Moofah Cotton,mhxx-dex-1.0+mhxx-save-format-community,2
-25,F Aptonoth Meat,F Aptonoth Meat,mhxx-dex-1.0+mhxx-save-format-community,2
-26,F Fish Stick,F Fish Stick,mhxx-dex-1.0+mhxx-save-format-community,2
-27,F Grilled Hammer,F Grilled Hammer,mhxx-dex-1.0+mhxx-save-format-community,2
-28,F Ioprey Bayonet,F Ioprey Bayonet,mhxx-dex-1.0+mhxx-save-format-community,2
-29,F Lagombi Staff,F Lagombi Staff,mhxx-dex-1.0+mhxx-save-format-community,2
-30,F Kut-Ku Cutter,F Kut-Ku Cutter,mhxx-dex-1.0+mhxx-save-format-community,2
-31,F Gypceros Glare,F Gypceros Glare,mhxx-dex-1.0+mhxx-save-format-community,2
-32,F Cabra Pounder,F Cabra Pounder,mhxx-dex-1.0+mhxx-save-format-community,2
-33,F Daimyo Shears,F Daimyo Shears,mhxx-dex-1.0+mhxx-save-format-community,2
-34,F Ludroth Paw,F Ludroth Paw,mhxx-dex-1.0+mhxx-save-format-community,2
-35,F Khezu Whaccine,F Khezu Whaccine,mhxx-dex-1.0+mhxx-save-format-community,2
-36,F Nibel Blammer,F Nibel Blammer,mhxx-dex-1.0+mhxx-save-format-community,2
-37,F Quest Book,F Quest Book,mhxx-dex-1.0+mhxx-save-format-community,2
-38,F Vprey Wedge,F Vprey Wedge,mhxx-dex-1.0+mhxx-save-format-community,2
-39,F Barrel Basher,F Barrel Basher,mhxx-dex-1.0+mhxx-save-format-community,2
-40,F Derring Lance,F Derring Lance,mhxx-dex-1.0+mhxx-save-format-community,2
-41,F Edel Rod,F Edel Rod,mhxx-dex-1.0+mhxx-save-format-community,2
-42,F Mosgharl Broom,F Mosgharl Broom,mhxx-dex-1.0+mhxx-save-format-community,2
-43,F Bushwhacker,F Bushwhacker,mhxx-dex-1.0+mhxx-save-format-community,2
-44,F Death Stench Scythe,F Death Stench Scythe,mhxx-dex-1.0+mhxx-save-format-community,2
-45,F Marauder Blade,F Marauder Blade,mhxx-dex-1.0+mhxx-save-format-community,2
-46,F Marauder Gavel,F Marauder Gavel,mhxx-dex-1.0+mhxx-save-format-community,2
-47,F Volvi Lantern,F Volvi Lantern,mhxx-dex-1.0+mhxx-save-format-community,2
-48,F Jester Parasol,F Jester Parasol,mhxx-dex-1.0+mhxx-save-format-community,2
-49,F Rathian Rapier,F Rathian Rapier,mhxx-dex-1.0+mhxx-save-format-community,2
-50,F Blango Spear,F Blango Spear,mhxx-dex-1.0+mhxx-save-format-community,2
-51,F Ceanataur Cutter,F Ceanataur Cutter,mhxx-dex-1.0+mhxx-save-format-community,2
-52,F Naja Pungi,F Naja Pungi,mhxx-dex-1.0+mhxx-save-format-community,2
-53,F Narga Shuriken,F Narga Shuriken,mhxx-dex-1.0+mhxx-save-format-community,2
-54,F Kokoto Beer,F Kokoto Beer,mhxx-dex-1.0+mhxx-save-format-community,3
-55,F Pokke Mop,F Pokke Mop,mhxx-dex-1.0+mhxx-save-format-community,3
-56,F Yukumo Fan,F Yukumo Fan,mhxx-dex-1.0+mhxx-save-format-community,3
-57,F Shroom Rod,F Shroom Rod,mhxx-dex-1.0+mhxx-save-format-community,3
-58,F Eldora Paw,F Eldora Paw,mhxx-dex-1.0+mhxx-save-format-community,3
-59,F Garuga Fan,F Garuga Fan,mhxx-dex-1.0+mhxx-save-format-community,3
-60,F Uragaan Iron,F Uragaan Iron,mhxx-dex-1.0+mhxx-save-format-community,3
-61,F Rathalos Blade,F Rathalos Blade,mhxx-dex-1.0+mhxx-save-format-community,3
-62,F Lagia Anchor,F Lagia Anchor,mhxx-dex-1.0+mhxx-save-format-community,3
-63,F Astalos Spear,F Astalos Spear,mhxx-dex-1.0+mhxx-save-format-community,3
-64,F Enormews Staff,F Enormews Staff,mhxx-dex-1.0+mhxx-save-format-community,3
-65,F Mizutsune Parasol,F Mizutsune Parasol,mhxx-dex-1.0+mhxx-save-format-community,3
-66,F Guild Rapier,F Guild Rapier,mhxx-dex-1.0+mhxx-save-format-community,3
-67,F Moofy Plush,F Moofy Plush,mhxx-dex-1.0+mhxx-save-format-community,3
-68,F Scorching Blade,F Scorching Blade,mhxx-dex-1.0+mhxx-save-format-community,3
-69,F Mewsurper's Peal,F Mewsurper's Peal,mhxx-dex-1.0+mhxx-save-format-community,3
-70,F Katzenlampe,F Katzenlampe,mhxx-dex-1.0+mhxx-save-format-community,3
-71,F Seregios Edge,F Seregios Edge,mhxx-dex-1.0+mhxx-save-format-community,3
-72,F Tigrex Whammer,F Tigrex Whammer,mhxx-dex-1.0+mhxx-save-format-community,3
-73,F Kirin Rumblezap,F Kirin Rumblezap,mhxx-dex-1.0+mhxx-save-format-community,3
-74,F Brachy Punch,F Brachy Punch,mhxx-dex-1.0+mhxx-save-format-community,3
-75,F Le Cœur de Chat,F Le Cœur de Chat,mhxx-dex-1.0+mhxx-save-format-community,3
-76,F Kushala Wand,F Kushala Wand,mhxx-dex-1.0+mhxx-save-format-community,3
-77,F Genie Breath,F Genie Breath,mhxx-dex-1.0+mhxx-save-format-community,3
-78,F Kaiser Mace,F Kaiser Mace,mhxx-dex-1.0+mhxx-save-format-community,3
-79,F White Felyne Husk,F White Felyne Husk,mhxx-dex-1.0+mhxx-save-format-community,3
-80,F Bone Wedge S,F Bone Wedge S,mhxx-dex-1.0+mhxx-save-format-community,4
-81,F Bherna Staff S,F Bherna Staff S,mhxx-dex-1.0+mhxx-save-format-community,4
-82,F Hunting Knife S,F Hunting Knife S,mhxx-dex-1.0+mhxx-save-format-community,4
-83,F Yukumo Bonito,F Yukumo Bonito,mhxx-dex-1.0+mhxx-save-format-community,4
-84,F Carbalite Wedge,F Carbalite Wedge,mhxx-dex-1.0+mhxx-save-format-community,4
-85,F Giant Acorn S,F Giant Acorn S,mhxx-dex-1.0+mhxx-save-format-community,4
-86,F Vprey Wedge S,F Vprey Wedge S,mhxx-dex-1.0+mhxx-save-format-community,4
-87,F Barrel Basher S,F Barrel Basher S,mhxx-dex-1.0+mhxx-save-format-community,4
-88,F Gourmet Cheese S,F Gourmet Cheese S,mhxx-dex-1.0+mhxx-save-format-community,4
-89,F Moofah Cotton S,F Moofah Cotton S,mhxx-dex-1.0+mhxx-save-format-community,4
-90,F Barbecue,F Barbecue,mhxx-dex-1.0+mhxx-save-format-community,4
-91,F Fish Stick S,F Fish Stick S,mhxx-dex-1.0+mhxx-save-format-community,4
-92,F Fingerlicker,F Fingerlicker,mhxx-dex-1.0+mhxx-save-format-community,4
-93,F Bushwhacker S,F Bushwhacker S,mhxx-dex-1.0+mhxx-save-format-community,4
-94,F Paw Punch S,F Paw Punch S,mhxx-dex-1.0+mhxx-save-format-community,4
-95,F Carbalite Sword,F Carbalite Sword,mhxx-dex-1.0+mhxx-save-format-community,4
-96,F Bone Hammer S,F Bone Hammer S,mhxx-dex-1.0+mhxx-save-format-community,4
-97,F Alta Net S,F Alta Net S,mhxx-dex-1.0+mhxx-save-format-community,4
-98,F Bnaha Dagger S,F Bnaha Dagger S,mhxx-dex-1.0+mhxx-save-format-community,4
-99,F Jaggi Knife S,F Jaggi Knife S,mhxx-dex-1.0+mhxx-save-format-community,4
-100,F Rheno Hammer S,F Rheno Hammer S,mhxx-dex-1.0+mhxx-save-format-community,4
-101,F Slagtoth Leaf,F Slagtoth Leaf,mhxx-dex-1.0+mhxx-save-format-community,4
-102,F Maccao Dagger S,F Maccao Dagger S,mhxx-dex-1.0+mhxx-save-format-community,4
-103,F Vprey Bayonet S,F Vprey Bayonet S,mhxx-dex-1.0+mhxx-save-format-community,4
-104,F Bulldrome Tusk S,F Bulldrome Tusk S,mhxx-dex-1.0+mhxx-save-format-community,4
-105,F Arzuros Mace S,F Arzuros Mace S,mhxx-dex-1.0+mhxx-save-format-community,4
-106,F Genprey Bayonet S,F Genprey Bayonet S,mhxx-dex-1.0+mhxx-save-format-community,4
-107,F Lagombi Staff S,F Lagombi Staff S,mhxx-dex-1.0+mhxx-save-format-community,4
-108,F Cephalos Brush S,F Cephalos Brush S,mhxx-dex-1.0+mhxx-save-format-community,4
-109,F Kut-Ku Cutter S,F Kut-Ku Cutter S,mhxx-dex-1.0+mhxx-save-format-community,4
-110,F Gypceros Glare S,F Gypceros Glare S,mhxx-dex-1.0+mhxx-save-format-community,4
-111,F Cabra Pounder S,F Cabra Pounder S,mhxx-dex-1.0+mhxx-save-format-community,4
-112,F Daimyo Shears S,F Daimyo Shears S,mhxx-dex-1.0+mhxx-save-format-community,4
-113,F Ludroth Paw S,F Ludroth Paw S,mhxx-dex-1.0+mhxx-save-format-community,4
-114,F Kecha Harrow,F Kecha Harrow,mhxx-dex-1.0+mhxx-save-format-community,4
-115,F Bell Rod,F Bell Rod,mhxx-dex-1.0+mhxx-save-format-community,5
-116,F Gargouille Waltz,F Gargouille Waltz,mhxx-dex-1.0+mhxx-save-format-community,5
-117,F Venombee Bat S,F Venombee Bat S,mhxx-dex-1.0+mhxx-save-format-community,5
-118,F Mosgharl Broom S,F Mosgharl Broom S,mhxx-dex-1.0+mhxx-save-format-community,5
-119,F Meowtetsuken,F Meowtetsuken,mhxx-dex-1.0+mhxx-save-format-community,5
-120,F Pounderpurr,F Pounderpurr,mhxx-dex-1.0+mhxx-save-format-community,5
-121,F Ioprey Bayonet S,F Ioprey Bayonet S,mhxx-dex-1.0+mhxx-save-format-community,5
-122,F Volvi Lantern S,F Volvi Lantern S,mhxx-dex-1.0+mhxx-save-format-community,5
-123,F Khezu Whaccine S,F Khezu Whaccine S,mhxx-dex-1.0+mhxx-save-format-community,5
-124,F Nibel Blammer S,F Nibel Blammer S,mhxx-dex-1.0+mhxx-save-format-community,5
-125,F Slumbering Duke,F Slumbering Duke,mhxx-dex-1.0+mhxx-save-format-community,5
-126,F Queen Rapier,F Queen Rapier,mhxx-dex-1.0+mhxx-save-format-community,5
-127,F Blango Spear S,F Blango Spear S,mhxx-dex-1.0+mhxx-save-format-community,5
-128,F Ceanataur Cutter S,F Ceanataur Cutter S,mhxx-dex-1.0+mhxx-save-format-community,5
-129,F Naja Pungi S,F Naja Pungi S,mhxx-dex-1.0+mhxx-save-format-community,5
-130,F Narga Shuriken S,F Narga Shuriken S,mhxx-dex-1.0+mhxx-save-format-community,5
-131,F Garuga Fan S,F Garuga Fan S,mhxx-dex-1.0+mhxx-save-format-community,5
-132,F Uragaan Iron S,F Uragaan Iron S,mhxx-dex-1.0+mhxx-save-format-community,5
-133,F Zamtrios Paw,F Zamtrios Paw,mhxx-dex-1.0+mhxx-save-format-community,5
-134,F Plesioth Board,F Plesioth Board,mhxx-dex-1.0+mhxx-save-format-community,5
-135,F Lava Mace,F Lava Mace,mhxx-dex-1.0+mhxx-save-format-community,5
-136,F Edel Rod S,F Edel Rod S,mhxx-dex-1.0+mhxx-save-format-community,6
-137,F Lulling Moofy Plush,F Lulling Moofy Plush,mhxx-dex-1.0+mhxx-save-format-community,6
-138,F Wood Chopper S,F Wood Chopper S,mhxx-dex-1.0+mhxx-save-format-community,6
-139,F Kut-Ku Cackle,F Kut-Ku Cackle,mhxx-dex-1.0+mhxx-save-format-community,6
-140,F Bulldrome Rrrush,F Bulldrome Rrrush,mhxx-dex-1.0+mhxx-save-format-community,6
-141,F Mighty Shroom Rod,F Mighty Shroom Rod,mhxx-dex-1.0+mhxx-save-format-community,6
-142,F D. Stench Scythe S,F D. Stench Scythe S,mhxx-dex-1.0+mhxx-save-format-community,6
-143,F Lost Catspaw Staff,F Lost Catspaw Staff,mhxx-dex-1.0+mhxx-save-format-community,6
-144,F Lagia Anchor S,F Lagia Anchor S,mhxx-dex-1.0+mhxx-save-format-community,6
-145,F Scorched Whiskers,F Scorched Whiskers,mhxx-dex-1.0+mhxx-save-format-community,6
-146,F Lightning Spear,F Lightning Spear,mhxx-dex-1.0+mhxx-save-format-community,6
-147,F Ginormews Staff,F Ginormews Staff,mhxx-dex-1.0+mhxx-save-format-community,6
-148,F Crimson Parasol,F Crimson Parasol,mhxx-dex-1.0+mhxx-save-format-community,6
-149,F Blazing Blade,F Blazing Blade,mhxx-dex-1.0+mhxx-save-format-community,6
-150,F Mewsurper's Roar,F Mewsurper's Roar,mhxx-dex-1.0+mhxx-save-format-community,6
-151,F Katzenfunzel,F Katzenfunzel,mhxx-dex-1.0+mhxx-save-format-community,6
-152,F Tigrex Whammer S,F Tigrex Whammer S,mhxx-dex-1.0+mhxx-save-format-community,6
-153,F Seltas Drill,F Seltas Drill,mhxx-dex-1.0+mhxx-save-format-community,6
-154,F Agnaktor Lance,F Agnaktor Lance,mhxx-dex-1.0+mhxx-save-format-community,6
-155,F Duram Axe,F Duram Axe,mhxx-dex-1.0+mhxx-save-format-community,6
-156,F Kirin Bolt,F Kirin Bolt,mhxx-dex-1.0+mhxx-save-format-community,6
-157,F Golden Gadget,F Golden Gadget,mhxx-dex-1.0+mhxx-save-format-community,6
-158,F Vangis Mace,F Vangis Mace,mhxx-dex-1.0+mhxx-save-format-community,6
-159,F Kut-Ku Cutter R,F Kut-Ku Cutter R,mhxx-dex-1.0+mhxx-save-format-community,6
-160,F Kecha Harrow R,F Kecha Harrow R,mhxx-dex-1.0+mhxx-save-format-community,6
-161,F Gypceros Ankh R,F Gypceros Ankh R,mhxx-dex-1.0+mhxx-save-format-community,6
-162,F Cabra Pounder R,F Cabra Pounder R,mhxx-dex-1.0+mhxx-save-format-community,6
-163,F Daimyo Shears R,F Daimyo Shears R,mhxx-dex-1.0+mhxx-save-format-community,6
-164,F Ludroth Paw R,F Ludroth Paw R,mhxx-dex-1.0+mhxx-save-format-community,6
-165,F Jester Parasol R,F Jester Parasol R,mhxx-dex-1.0+mhxx-save-format-community,6
-166,F Zamtrios Paw R,F Zamtrios Paw R,mhxx-dex-1.0+mhxx-save-format-community,6
-167,F Khezu Whaccine R,F Khezu Whaccine R,mhxx-dex-1.0+mhxx-save-format-community,6
-168,F Rathian Rapier R,F Rathian Rapier R,mhxx-dex-1.0+mhxx-save-format-community,6
-169,F Nibel Blammer R,F Nibel Blammer R,mhxx-dex-1.0+mhxx-save-format-community,6
-170,F Plesioth Board R,F Plesioth Board R,mhxx-dex-1.0+mhxx-save-format-community,6
-171,F Blango Spear R,F Blango Spear R,mhxx-dex-1.0+mhxx-save-format-community,6
-172,F Quest Book S,F Quest Book S,mhxx-dex-1.0+mhxx-save-format-community,7
-173,F Kokoto Beer S,F Kokoto Beer S,mhxx-dex-1.0+mhxx-save-format-community,7
-174,F Pokke Mop S,F Pokke Mop S,mhxx-dex-1.0+mhxx-save-format-community,7
-175,F Yukumo Fan S,F Yukumo Fan S,mhxx-dex-1.0+mhxx-save-format-community,7
-176,F Guildcalibur,F Guildcalibur,mhxx-dex-1.0+mhxx-save-format-community,7
-177,F Dragon Evertones,F Dragon Evertones,mhxx-dex-1.0+mhxx-save-format-community,7
-178,F Barrel Mallet,F Barrel Mallet,mhxx-dex-1.0+mhxx-save-format-community,7
-179,F Dirty Blade,F Dirty Blade,mhxx-dex-1.0+mhxx-save-format-community,7
-180,F Meowsketeer Rapier,F Meowsketeer Rapier,mhxx-dex-1.0+mhxx-save-format-community,7
-181,F Master's Blade,F Master's Blade,mhxx-dex-1.0+mhxx-save-format-community,7
-182,F Derring Lance S,F Derring Lance S,mhxx-dex-1.0+mhxx-save-format-community,7
-183,F Seregios Edge S,F Seregios Edge S,mhxx-dex-1.0+mhxx-save-format-community,7
-184,F Brachy Wallop,F Brachy Wallop,mhxx-dex-1.0+mhxx-save-format-community,7
-185,F Le Chatphrodite,F Le Chatphrodite,mhxx-dex-1.0+mhxx-save-format-community,7
-186,F White Felyne Staff,F White Felyne Staff,mhxx-dex-1.0+mhxx-save-format-community,7
-187,F Polaris Sword,F Polaris Sword,mhxx-dex-1.0+mhxx-save-format-community,7
-188,F Lava Mace R,F Lava Mace R,mhxx-dex-1.0+mhxx-save-format-community,7
-189,F Ceanataur Cutter R,F Ceanataur Cutter R,mhxx-dex-1.0+mhxx-save-format-community,7
-190,F Narga Shuriken R,F Narga Shuriken R,mhxx-dex-1.0+mhxx-save-format-community,7
-191,F Naja Pungi R,F Naja Pungi R,mhxx-dex-1.0+mhxx-save-format-community,7
-192,F Garuga Fan R,F Garuga Fan R,mhxx-dex-1.0+mhxx-save-format-community,7
-193,F Uragaan Iron R,F Uragaan Iron R,mhxx-dex-1.0+mhxx-save-format-community,7
-194,F Seltas Drill R,F Seltas Drill R,mhxx-dex-1.0+mhxx-save-format-community,7
-195,F Rathalos Blade R,F Rathalos Blade R,mhxx-dex-1.0+mhxx-save-format-community,7
-196,F Lagia Anchor R,F Lagia Anchor R,mhxx-dex-1.0+mhxx-save-format-community,7
-197,F Mewsurper's Peal R,F Mewsurper's Peal R,mhxx-dex-1.0+mhxx-save-format-community,7
-198,F Kushala Wand S,F Kushala Wand S,mhxx-dex-1.0+mhxx-save-format-community,7
-199,F Genie Breath S,F Genie Breath S,mhxx-dex-1.0+mhxx-save-format-community,7
-200,F Kaiser Mace S,F Kaiser Mace S,mhxx-dex-1.0+mhxx-save-format-community,7
-201,F Akantor Sword,F Akantor Sword,mhxx-dex-1.0+mhxx-save-format-community,7
-202,F Ukanlos Shovel,F Ukanlos Shovel,mhxx-dex-1.0+mhxx-save-format-community,7
-203,F Cursed Cloud,F Cursed Cloud,mhxx-dex-1.0+mhxx-save-format-community,7
-204,F Escador Scythe,F Escador Scythe,mhxx-dex-1.0+mhxx-save-format-community,7
-205,F Mizutsune Parasol R,F Mizutsune Parasol R,mhxx-dex-1.0+mhxx-save-format-community,7
-206,F Astalos Spear R,F Astalos Spear R,mhxx-dex-1.0+mhxx-save-format-community,7
-207,F Enormews Staff R,F Enormews Staff R,mhxx-dex-1.0+mhxx-save-format-community,7
-208,F Scorching Blade R,F Scorching Blade R,mhxx-dex-1.0+mhxx-save-format-community,7
-209,F Agnaktor Lance R,F Agnaktor Lance R,mhxx-dex-1.0+mhxx-save-format-community,7
-210,F Katzenlampe R,F Katzenlampe R,mhxx-dex-1.0+mhxx-save-format-community,7
-211,F Seregios Edge R,F Seregios Edge R,mhxx-dex-1.0+mhxx-save-format-community,7
-212,F Duram Axe R,F Duram Axe R,mhxx-dex-1.0+mhxx-save-format-community,7
-213,F Tigrex Whammer R,F Tigrex Whammer R,mhxx-dex-1.0+mhxx-save-format-community,7
-214,F Brachy Punch R,F Brachy Punch R,mhxx-dex-1.0+mhxx-save-format-community,7
-215,F Golden Gadget R,F Golden Gadget R,mhxx-dex-1.0+mhxx-save-format-community,7
-216,F Deviljho Mace R,F Deviljho Mace R,mhxx-dex-1.0+mhxx-save-format-community,7
-217,F Strange Hammer,F Strange Hammer,mhxx-dex-1.0+mhxx-save-format-community,11
-218,F Strange Hammer S,F Strange Hammer S,mhxx-dex-1.0+mhxx-save-format-community,11
-219,F Redhelm Mace,F Redhelm Mace,mhxx-dex-1.0+mhxx-save-format-community,11
-220,F Redhelm Mace S,F Redhelm Mace S,mhxx-dex-1.0+mhxx-save-format-community,11
-221,F Snowbaron Stick,F Snowbaron Stick,mhxx-dex-1.0+mhxx-save-format-community,11
-222,F Snowbaron Stick S,F Snowbaron Stick S,mhxx-dex-1.0+mhxx-save-format-community,11
-223,F Stonefist Shears,F Stonefist Shears,mhxx-dex-1.0+mhxx-save-format-community,11
-224,F Stonefist Shears S,F Stonefist Shears S,mhxx-dex-1.0+mhxx-save-format-community,11
-225,F Dreadqueen Rapier,F Dreadqueen Rapier,mhxx-dex-1.0+mhxx-save-format-community,11
-226,F Dreadqueen Rapier S,F Dreadqueen Rapier S,mhxx-dex-1.0+mhxx-save-format-community,11
-227,F Drilltusk Pounder,F Drilltusk Pounder,mhxx-dex-1.0+mhxx-save-format-community,11
-228,F Drilltusk Pounder S,F Drilltusk Pounder S,mhxx-dex-1.0+mhxx-save-format-community,11
-229,F Silverwind Star,F Silverwind Star,mhxx-dex-1.0+mhxx-save-format-community,11
-230,F Silverwind Star S,F Silverwind Star S,mhxx-dex-1.0+mhxx-save-format-community,11
-231,F Crystalbeard Iron,F Crystalbeard Iron,mhxx-dex-1.0+mhxx-save-format-community,11
-232,F Crystalbeard Iron S,F Crystalbeard Iron S,mhxx-dex-1.0+mhxx-save-format-community,11
-233,F Deadeye Fan,F Deadeye Fan,mhxx-dex-1.0+mhxx-save-format-community,11
-234,F Deadeye Fan S,F Deadeye Fan S,mhxx-dex-1.0+mhxx-save-format-community,11
-235,F Dreadking Blade,F Dreadking Blade,mhxx-dex-1.0+mhxx-save-format-community,11
-236,F Dreadking Blade S,F Dreadking Blade S,mhxx-dex-1.0+mhxx-save-format-community,11
-237,F Thunderlord's Peal,F Thunderlord's Peal,mhxx-dex-1.0+mhxx-save-format-community,11
-238,F Thunderlord's Roar,F Thunderlord's Roar,mhxx-dex-1.0+mhxx-save-format-community,11
-239,F Grimclaw Whammer,F Grimclaw Whammer,mhxx-dex-1.0+mhxx-save-format-community,11
-240,F Grimclaw Whammer S,F Grimclaw Whammer S,mhxx-dex-1.0+mhxx-save-format-community,11
-241,F Blazing Ashes,F Blazing Ashes,mhxx-dex-1.0+mhxx-save-format-community,11
-242,F Ashen Whiskers,F Ashen Whiskers,mhxx-dex-1.0+mhxx-save-format-community,11
-243,F Zombie-kun Gut,F Zombie-kun Gut,mhxx-dex-1.0+mhxx-save-format-community,3
-244,F Fairy Tail Blade,F Fairy Tail Blade,mhxx-dex-1.0+mhxx-save-format-community,3
-245,F Treasure Chalice J,F Treasure Chalice J,mhxx-dex-1.0+mhxx-save-format-community,3
-246,F Pirate Key J,F Pirate Key J,mhxx-dex-1.0+mhxx-save-format-community,3
-247,F Legendary Glass J,F Legendary Glass J,mhxx-dex-1.0+mhxx-save-format-community,3
-248,F Greedy Hook J,F Greedy Hook J,mhxx-dex-1.0+mhxx-save-format-community,3
-249,F Rolled-up Paper,F Rolled-up Paper,mhxx-dex-1.0+mhxx-save-format-community,3
-250,F Monqlo Ball,F Monqlo Ball,mhxx-dex-1.0+mhxx-save-format-community,3
-251,F Meowstar Gunbai,F Meowstar Gunbai,mhxx-save-format-community,0
-252,F Spirits Sword,F Spirits Sword,mhxx-save-format-community,0
-253,F Midousuji Bike,F Midousuji Bike,mhxx-dex-1.0+mhxx-save-format-community,7
-254,F Zombie-kun Stomach,F Zombie-kun Stomach,mhxx-dex-1.0+mhxx-save-format-community,7
-255,F Grandpaw Danger,F Grandpaw Danger,mhxx-dex-1.0+mhxx-save-format-community,7
-256,F True Fairy Tail Blade,F True Fairy Tail Blade,mhxx-dex-1.0+mhxx-save-format-community,7
-257,F Dark Meowgic Staff,F Dark Meowgic Staff,mhxx-dex-1.0+mhxx-save-format-community,7
-258,F Booty Chalice J,F Booty Chalice J,mhxx-dex-1.0+mhxx-save-format-community,7
-259,F Buccaneer Key J,F Buccaneer Key J,mhxx-dex-1.0+mhxx-save-format-community,7
-260,F King Scope J,F King Scope J,mhxx-dex-1.0+mhxx-save-format-community,7
-261,F Avaricious Hook J,F Avaricious Hook J,mhxx-dex-1.0+mhxx-save-format-community,7
-262,F Tightly-rolled Paper,F Tightly-rolled Paper,mhxx-dex-1.0+mhxx-save-format-community,7
-263,F Monqlo Ball S,F Monqlo Ball S,mhxx-dex-1.0+mhxx-save-format-community,7
-264,F Supreme Gunbai,F Supreme Gunbai,mhxx-save-format-community,0
-265,F Star World,F Star World,mhxx-save-format-community,0
-266,F Magical Baton,F Magical Baton,mhxx-save-format-community,0
-267,F Kirimi Stick,F Kirimi Stick,mhxx-save-format-community,0
-268,F Nyankyrie Weapon,F Nyankyrie Weapon,mhxx-save-format-community,0
-269,F Wind Waker,F Wind Waker,mhxx-dex-1.0+mhxx-save-format-community,7
-270,F Blaster,F Blaster,mhxx-dex-1.0+mhxx-save-format-community,7
-271,F Invincible Hammer,F Invincible Hammer,mhxx-dex-1.0+mhxx-save-format-community,7
-272,F Sentry's Pickaxe,F Sentry's Pickaxe,mhxx-dex-1.0+mhxx-save-format-community,7
-273,F Minder's Binder,F Minder's Binder,mhxx-dex-1.0+mhxx-save-format-community,7
-274,F Sword of Purrity,F Sword of Purrity,mhxx-dex-1.0+mhxx-save-format-community,7
-275,F Chun Bracelets,F Chun Bracelets,mhxx-dex-1.0+mhxx-save-format-community,7
-276,F Blanka Fish,F Blanka Fish,mhxx-dex-1.0+mhxx-save-format-community,7
-277,F Alastor,F Alastor,mhxx-dex-1.0+mhxx-save-format-community,7
-278,F Rushing Hammer,F Rushing Hammer,mhxx-dex-1.0+mhxx-save-format-community,7
-279,F Melodic Baton,F Melodic Baton,mhxx-dex-1.0+mhxx-save-format-community,7
-280,F Spirits Sword S,F Spirits Sword S,mhxx-save-format-community,0
-281,F Fan Megaphone,F Fan Megaphone,mhxx-dex-1.0+mhxx-save-format-community,7
-282,F Tenderpaw Clog,F Tenderpaw Clog,mhxx-dex-1.0+mhxx-save-format-community,7
-283,F Giaprey Bayonet,F Giaprey Bayonet,mhxx-dex-1.0+mhxx-save-format-community,4
-284,F Conga Cymbals,F Conga Cymbals,mhxx-dex-1.0+mhxx-save-format-community,4
-285,F Barroth Mace,F Barroth Mace,mhxx-dex-1.0+mhxx-save-format-community,4
-286,F Second Sight Lens,F Second Sight Lens,mhxx-dex-1.0+mhxx-save-format-community,5
-287,F Basarios Axe,F Basarios Axe,mhxx-dex-1.0+mhxx-save-format-community,5
-288,F Nerscylla Wedge,F Nerscylla Wedge,mhxx-dex-1.0+mhxx-save-format-community,5
-289,F Barioth Knife,F Barioth Knife,mhxx-dex-1.0+mhxx-save-format-community,6
-290,F Grav Bazooka,F Grav Bazooka,mhxx-dex-1.0+mhxx-save-format-community,6
-291,F Diablos Hammer,F Diablos Hammer,mhxx-dex-1.0+mhxx-save-format-community,7
-292,F Silverwing Sword,F Silverwing Sword,mhxx-dex-1.0+mhxx-save-format-community,7
-293,F Bone Wedge X,F Bone Wedge X,mhxx-dex-1.0+mhxx-save-format-community,8
-294,F Bherna Staff X,F Bherna Staff X,mhxx-dex-1.0+mhxx-save-format-community,8
-295,F Eltalite Wedge,F Eltalite Wedge,mhxx-dex-1.0+mhxx-save-format-community,8
-296,F Giant Acorn X,F Giant Acorn X,mhxx-dex-1.0+mhxx-save-format-community,8
-297,F Vprey Wedge X,F Vprey Wedge X,mhxx-dex-1.0+mhxx-save-format-community,8
-298,F Barrel Basher X,F Barrel Basher X,mhxx-dex-1.0+mhxx-save-format-community,8
-299,F Gourmet Cheese X,F Gourmet Cheese X,mhxx-dex-1.0+mhxx-save-format-community,8
-300,F Moofah Cotton X,F Moofah Cotton X,mhxx-dex-1.0+mhxx-save-format-community,8
-301,F Deluxe BBQ,F Deluxe BBQ,mhxx-dex-1.0+mhxx-save-format-community,8
-302,F Fish Stick X,F Fish Stick X,mhxx-dex-1.0+mhxx-save-format-community,8
-303,F Smorgasbord,F Smorgasbord,mhxx-dex-1.0+mhxx-save-format-community,8
-304,F Bushwhacker X,F Bushwhacker X,mhxx-dex-1.0+mhxx-save-format-community,8
-305,F Paw Punch X,F Paw Punch X,mhxx-dex-1.0+mhxx-save-format-community,8
-306,F Eltalite Sword,F Eltalite Sword,mhxx-dex-1.0+mhxx-save-format-community,8
-307,F Bone Hammer X,F Bone Hammer X,mhxx-dex-1.0+mhxx-save-format-community,8
-308,F Alta Net X,F Alta Net X,mhxx-dex-1.0+mhxx-save-format-community,8
-309,F Bnaha Dagger X,F Bnaha Dagger X,mhxx-dex-1.0+mhxx-save-format-community,8
-310,F Jaggi Knife X,F Jaggi Knife X,mhxx-dex-1.0+mhxx-save-format-community,8
-311,F Rheno Hammer X,F Rheno Hammer X,mhxx-dex-1.0+mhxx-save-format-community,8
-312,F Slagtoth Leaf X,F Slagtoth Leaf X,mhxx-dex-1.0+mhxx-save-format-community,8
-313,F Maccao Dagger X,F Maccao Dagger X,mhxx-dex-1.0+mhxx-save-format-community,8
-314,F Vprey Bayonet X,F Vprey Bayonet X,mhxx-dex-1.0+mhxx-save-format-community,8
-315,F Bulldrome Tusk X,F Bulldrome Tusk X,mhxx-dex-1.0+mhxx-save-format-community,8
-316,F Arzuros Mace X,F Arzuros Mace X,mhxx-dex-1.0+mhxx-save-format-community,8
-317,F Giaprey Bayonet X,F Giaprey Bayonet X,mhxx-dex-1.0+mhxx-save-format-community,8
-318,F Genprey Bayonet X,F Genprey Bayonet X,mhxx-dex-1.0+mhxx-save-format-community,8
-319,F Lagombi Staff X,F Lagombi Staff X,mhxx-dex-1.0+mhxx-save-format-community,8
-320,F Cephalos Brush X,F Cephalos Brush X,mhxx-dex-1.0+mhxx-save-format-community,8
-321,F Kut-Ku Cutter X,F Kut-Ku Cutter X,mhxx-dex-1.0+mhxx-save-format-community,8
-322,F Gypceros Glare X,F Gypceros Glare X,mhxx-dex-1.0+mhxx-save-format-community,8
-323,F Cabra Pounder X,F Cabra Pounder X,mhxx-dex-1.0+mhxx-save-format-community,8
-324,F Daimyo Shears X,F Daimyo Shears X,mhxx-dex-1.0+mhxx-save-format-community,8
-325,F Ludroth Paw X,F Ludroth Paw X,mhxx-dex-1.0+mhxx-save-format-community,8
-326,F Kecha Harrow X,F Kecha Harrow X,mhxx-dex-1.0+mhxx-save-format-community,8
-327,F Kokoto Beer X,F Kokoto Beer X,mhxx-dex-1.0+mhxx-save-format-community,9
-328,F Yukumo Fan X,F Yukumo Fan X,mhxx-dex-1.0+mhxx-save-format-community,9
-329,F Bell Rod X,F Bell Rod X,mhxx-dex-1.0+mhxx-save-format-community,9
-330,F Yian Kut-Ku Cackle,F Yian Kut-Ku Cackle,mhxx-dex-1.0+mhxx-save-format-community,9
-331,F Bulldrome Rrrumble,F Bulldrome Rrrumble,mhxx-dex-1.0+mhxx-save-format-community,9
-332,F Sacred Titan Dance,F Sacred Titan Dance,mhxx-dex-1.0+mhxx-save-format-community,9
-333,F Venombee Bat X,F Venombee Bat X,mhxx-dex-1.0+mhxx-save-format-community,9
-334,F Mosgharl Broom X,F Mosgharl Broom X,mhxx-dex-1.0+mhxx-save-format-community,9
-335,F Real Catetsu Blade,F Real Catetsu Blade,mhxx-dex-1.0+mhxx-save-format-community,9
-336,F Marauder Warhammer,F Marauder Warhammer,mhxx-dex-1.0+mhxx-save-format-community,9
-337,F Finder's Loupe,F Finder's Loupe,mhxx-dex-1.0+mhxx-save-format-community,9
-338,F Ioprey Bayonet X,F Ioprey Bayonet X,mhxx-dex-1.0+mhxx-save-format-community,9
-339,F Volvi Lantern X,F Volvi Lantern X,mhxx-dex-1.0+mhxx-save-format-community,9
-340,F Basarios Axe X,F Basarios Axe X,mhxx-dex-1.0+mhxx-save-format-community,9
-341,F Conga Cymbals X,F Conga Cymbals X,mhxx-dex-1.0+mhxx-save-format-community,9
-342,F Barroth Mace X,F Barroth Mace X,mhxx-dex-1.0+mhxx-save-format-community,9
-343,F Khezu Whaccine X,F Khezu Whaccine X,mhxx-dex-1.0+mhxx-save-format-community,9
-344,F Nibel Blammer X,F Nibel Blammer X,mhxx-dex-1.0+mhxx-save-format-community,9
-345,F Slumbering Archduke,F Slumbering Archduke,mhxx-dex-1.0+mhxx-save-format-community,9
-346,F Swiftblur Rapier,F Swiftblur Rapier,mhxx-dex-1.0+mhxx-save-format-community,9
-347,F Blango Spear X,F Blango Spear X,mhxx-dex-1.0+mhxx-save-format-community,9
-348,F Ceanataur Cutter X,F Ceanataur Cutter X,mhxx-dex-1.0+mhxx-save-format-community,9
-349,F Scylla Wedge X,F Scylla Wedge X,mhxx-dex-1.0+mhxx-save-format-community,9
-350,F Naja Pungi X,F Naja Pungi X,mhxx-dex-1.0+mhxx-save-format-community,9
-351,F Narga Shuriken X,F Narga Shuriken X,mhxx-dex-1.0+mhxx-save-format-community,9
-352,F Zamtrios Paw X,F Zamtrios Paw X,mhxx-dex-1.0+mhxx-save-format-community,9
-353,F Plesioth Board X,F Plesioth Board X,mhxx-dex-1.0+mhxx-save-format-community,9
-354,F Kut-Ku Cutter XR,F Kut-Ku Cutter XR,mhxx-dex-1.0+mhxx-save-format-community,9
-355,F Kecha Harrow XR,F Kecha Harrow XR,mhxx-dex-1.0+mhxx-save-format-community,9
-356,F Gypceros Glare XR,F Gypceros Glare XR,mhxx-dex-1.0+mhxx-save-format-community,9
-357,F Cabra Pounder XR,F Cabra Pounder XR,mhxx-dex-1.0+mhxx-save-format-community,9
-358,F Daimyo Shears XR,F Daimyo Shears XR,mhxx-dex-1.0+mhxx-save-format-community,9
-359,F Ludroth Paw XR,F Ludroth Paw XR,mhxx-dex-1.0+mhxx-save-format-community,9
-360,F Quest Book X,F Quest Book X,mhxx-dex-1.0+mhxx-save-format-community,9
-361,F Derring Lance X,F Derring Lance X,mhxx-dex-1.0+mhxx-save-format-community,9
-362,F Barrel Hammer,F Barrel Hammer,mhxx-dex-1.0+mhxx-save-format-community,9
-363,F Snoozy Moofy Plush,F Snoozy Moofy Plush,mhxx-dex-1.0+mhxx-save-format-community,9
-364,F Wood Chopper X,F Wood Chopper X,mhxx-dex-1.0+mhxx-save-format-community,9
-365,F Mycetic Rod,F Mycetic Rod,mhxx-dex-1.0+mhxx-save-format-community,9
-366,F DeathStench Scythe X,F DeathStench Scythe X,mhxx-dex-1.0+mhxx-save-format-community,9
-367,F Fine Catspaw Staff,F Fine Catspaw Staff,mhxx-dex-1.0+mhxx-save-format-community,9
-368,F Slumbral Moofy Plush,F Slumbral Moofy Plush,mhxx-dex-1.0+mhxx-save-format-community,9
-369,F Garuga Fan X,F Garuga Fan X,mhxx-dex-1.0+mhxx-save-format-community,9
-370,F Uragaan Iron X,F Uragaan Iron X,mhxx-dex-1.0+mhxx-save-format-community,9
-371,F Lava Mace X,F Lava Mace X,mhxx-dex-1.0+mhxx-save-format-community,9
-372,F Lagia Anchor X,F Lagia Anchor X,mhxx-dex-1.0+mhxx-save-format-community,9
-373,F Novaslice Whiskers,F Novaslice Whiskers,mhxx-dex-1.0+mhxx-save-format-community,9
-374,F St. Elmo's Javelin,F St. Elmo's Javelin,mhxx-dex-1.0+mhxx-save-format-community,9
-375,F Ginormewsest Staff,F Ginormewsest Staff,mhxx-dex-1.0+mhxx-save-format-community,9
-376,F Crimson Sky Parasol,F Crimson Sky Parasol,mhxx-dex-1.0+mhxx-save-format-community,9
-377,F Barioth Knife X,F Barioth Knife X,mhxx-dex-1.0+mhxx-save-format-community,9
-378,F Charring Blade,F Charring Blade,mhxx-dex-1.0+mhxx-save-format-community,9
-379,F Mewsurper's Yowl,F Mewsurper's Yowl,mhxx-dex-1.0+mhxx-save-format-community,9
-380,F Grav Bazooka X,F Grav Bazooka X,mhxx-dex-1.0+mhxx-save-format-community,9
-381,F Katzenseele,F Katzenseele,mhxx-dex-1.0+mhxx-save-format-community,9
-382,F Tigrex Whammer X,F Tigrex Whammer X,mhxx-dex-1.0+mhxx-save-format-community,9
-383,F Seltas Drill X,F Seltas Drill X,mhxx-dex-1.0+mhxx-save-format-community,9
-384,F Kirin Bolt Maximus,F Kirin Bolt Maximus,mhxx-dex-1.0+mhxx-save-format-community,9
-385,F Sealed Drgn Halberd,F Sealed Drgn Halberd,mhxx-dex-1.0+mhxx-save-format-community,9
-386,F Basarios Axe XR,F Basarios Axe XR,mhxx-dex-1.0+mhxx-save-format-community,9
-387,F Conga Cymbals XR,F Conga Cymbals XR,mhxx-dex-1.0+mhxx-save-format-community,9
-388,F Barroth Mace XR,F Barroth Mace XR,mhxx-dex-1.0+mhxx-save-format-community,9
-389,F Khezu Whaccine XR,F Khezu Whaccine XR,mhxx-dex-1.0+mhxx-save-format-community,9
-390,F Nibel Blammer XR,F Nibel Blammer XR,mhxx-dex-1.0+mhxx-save-format-community,9
-391,F Jester Parasol XR,F Jester Parasol XR,mhxx-dex-1.0+mhxx-save-format-community,9
-392,F Rathian Rapier XR,F Rathian Rapier XR,mhxx-dex-1.0+mhxx-save-format-community,9
-393,F Blango Spear XR,F Blango Spear XR,mhxx-dex-1.0+mhxx-save-format-community,9
-394,F Ceanataur Cutter XR,F Ceanataur Cutter XR,mhxx-dex-1.0+mhxx-save-format-community,9
-395,F Scylla Wedge XR,F Scylla Wedge XR,mhxx-dex-1.0+mhxx-save-format-community,9
-396,F Naja Pungi XR,F Naja Pungi XR,mhxx-dex-1.0+mhxx-save-format-community,9
-397,F Narga Shuriken XR,F Narga Shuriken XR,mhxx-dex-1.0+mhxx-save-format-community,9
-398,F Zamtrios Paw XR,F Zamtrios Paw XR,mhxx-dex-1.0+mhxx-save-format-community,9
-399,F Plesioth Board XR,F Plesioth Board XR,mhxx-dex-1.0+mhxx-save-format-community,9
-400,F Guildcalibur X,F Guildcalibur X,mhxx-dex-1.0+mhxx-save-format-community,10
-401,F Dragon Forevertones,F Dragon Forevertones,mhxx-dex-1.0+mhxx-save-format-community,10
-402,F Pro Dirty Blade,F Pro Dirty Blade,mhxx-dex-1.0+mhxx-save-format-community,10
-403,F Meowsketeer Espada,F Meowsketeer Espada,mhxx-dex-1.0+mhxx-save-format-community,10
-404,F Legend Blade,F Legend Blade,mhxx-dex-1.0+mhxx-save-format-community,10
-405,F Miaownifique,F Miaownifique,mhxx-dex-1.0+mhxx-save-format-community,10
-406,F Purrlissimo,F Purrlissimo,mhxx-dex-1.0+mhxx-save-format-community,10
-407,F Agnaktor Lance X,F Agnaktor Lance X,mhxx-dex-1.0+mhxx-save-format-community,10
-408,F Duram Axe X,F Duram Axe X,mhxx-dex-1.0+mhxx-save-format-community,10
-409,F Seregios Edge X,F Seregios Edge X,mhxx-dex-1.0+mhxx-save-format-community,10
-410,F Diablos Hammer X,F Diablos Hammer X,mhxx-dex-1.0+mhxx-save-format-community,10
-411,F Brachydios Smash,F Brachydios Smash,mhxx-dex-1.0+mhxx-save-format-community,10
-412,F La Venyasss,F La Venyasss,mhxx-dex-1.0+mhxx-save-format-community,10
-413,F Dragon Comet,F Dragon Comet,mhxx-dex-1.0+mhxx-save-format-community,10
-414,F Golden Gadget X,F Golden Gadget X,mhxx-dex-1.0+mhxx-save-format-community,10
-415,F Vangis Mace X,F Vangis Mace X,mhxx-dex-1.0+mhxx-save-format-community,10
-416,F Fischfleisch,F Fischfleisch,mhxx-dex-1.0+mhxx-save-format-community,10
-417,F Kushala Wand X,F Kushala Wand X,mhxx-dex-1.0+mhxx-save-format-community,10
-418,F Genie Breath X,F Genie Breath X,mhxx-dex-1.0+mhxx-save-format-community,10
-419,F Kaiser Mace X,F Kaiser Mace X,mhxx-dex-1.0+mhxx-save-format-community,10
-420,F White Felyne Scepter,F White Felyne Scepter,mhxx-dex-1.0+mhxx-save-format-community,10
-421,F Polaris Clawsword,F Polaris Clawsword,mhxx-dex-1.0+mhxx-save-format-community,10
-422,F Engraved Staff,F Engraved Staff,mhxx-dex-1.0+mhxx-save-format-community,10
-423,F Garuga Fan XR,F Garuga Fan XR,mhxx-dex-1.0+mhxx-save-format-community,10
-424,F Uragaan Iron XR,F Uragaan Iron XR,mhxx-dex-1.0+mhxx-save-format-community,10
-425,F Lava Mace XR,F Lava Mace XR,mhxx-dex-1.0+mhxx-save-format-community,10
-426,F Lagia Anchor XR,F Lagia Anchor XR,mhxx-dex-1.0+mhxx-save-format-community,10
-427,F Scorching Blade XR,F Scorching Blade XR,mhxx-dex-1.0+mhxx-save-format-community,10
-428,F Astalos Spear XR,F Astalos Spear XR,mhxx-dex-1.0+mhxx-save-format-community,10
-429,F Enormews Staff XR,F Enormews Staff XR,mhxx-dex-1.0+mhxx-save-format-community,10
-430,F Mizutsune Parasol XR,F Mizutsune Parasol XR,mhxx-dex-1.0+mhxx-save-format-community,10
-431,F Barioth Knife XR,F Barioth Knife XR,mhxx-dex-1.0+mhxx-save-format-community,10
-432,F Rathalos Blade XR,F Rathalos Blade XR,mhxx-dex-1.0+mhxx-save-format-community,10
-433,F Mewsurper's Peal XR,F Mewsurper's Peal XR,mhxx-dex-1.0+mhxx-save-format-community,10
-434,F Grav Bazooka XR,F Grav Bazooka XR,mhxx-dex-1.0+mhxx-save-format-community,10
-435,F Katzenlampe XR,F Katzenlampe XR,mhxx-dex-1.0+mhxx-save-format-community,10
-436,F Tigrex Whammer XR,F Tigrex Whammer XR,mhxx-dex-1.0+mhxx-save-format-community,10
-437,F Seltas Drill XR,F Seltas Drill XR,mhxx-dex-1.0+mhxx-save-format-community,10
-438,F Hunting Knife X,F Hunting Knife X,mhxx-dex-1.0+mhxx-save-format-community,10
-439,F True Yukumo Bokken,F True Yukumo Bokken,mhxx-dex-1.0+mhxx-save-format-community,10
-440,F Pokke Mop X,F Pokke Mop X,mhxx-dex-1.0+mhxx-save-format-community,10
-441,F Edel Rod X,F Edel Rod X,mhxx-dex-1.0+mhxx-save-format-community,10
-442,F Akantor Sword X,F Akantor Sword X,mhxx-dex-1.0+mhxx-save-format-community,10
-443,F Ukanlos Shovel X,F Ukanlos Shovel X,mhxx-dex-1.0+mhxx-save-format-community,10
-444,F Celestial Squall,F Celestial Squall,mhxx-dex-1.0+mhxx-save-format-community,10
-445,F Escador Scythe X,F Escador Scythe X,mhxx-dex-1.0+mhxx-save-format-community,10
-446,F Fatalis Eye,F Fatalis Eye,mhxx-dex-1.0+mhxx-save-format-community,10
-447,F Havoc Eye,F Havoc Eye,mhxx-dex-1.0+mhxx-save-format-community,10
-448,F Fatalis Rod,F Fatalis Rod,mhxx-dex-1.0+mhxx-save-format-community,10
-449,F Agnaktor Lance XR,F Agnaktor Lance XR,mhxx-dex-1.0+mhxx-save-format-community,10
-450,F Duram Axe XR,F Duram Axe XR,mhxx-dex-1.0+mhxx-save-format-community,10
-451,F Seregios Edge XR,F Seregios Edge XR,mhxx-dex-1.0+mhxx-save-format-community,10
-452,F Diablos Hammer XR,F Diablos Hammer XR,mhxx-dex-1.0+mhxx-save-format-community,10
-453,F Brachy Punch XR,F Brachy Punch XR,mhxx-dex-1.0+mhxx-save-format-community,10
-454,F Golden Gadget XR,F Golden Gadget XR,mhxx-dex-1.0+mhxx-save-format-community,10
-455,F Vangis Mace XR,F Vangis Mace XR,mhxx-dex-1.0+mhxx-save-format-community,10
-456,F Strange Hammer X,F Strange Hammer X,mhxx-dex-1.0+mhxx-save-format-community,11
-457,F Strange Hammer XX,F Strange Hammer XX,mhxx-dex-1.0+mhxx-save-format-community,11
-458,F Redhelm Mace X,F Redhelm Mace X,mhxx-dex-1.0+mhxx-save-format-community,11
-459,F Redhelm Mace XX,F Redhelm Mace XX,mhxx-dex-1.0+mhxx-save-format-community,11
-460,F Snowbaron Stick X,F Snowbaron Stick X,mhxx-dex-1.0+mhxx-save-format-community,11
-461,F Snowbaron Stick XX,F Snowbaron Stick XX,mhxx-dex-1.0+mhxx-save-format-community,11
-462,F Stonefist Shears X,F Stonefist Shears X,mhxx-dex-1.0+mhxx-save-format-community,11
-463,F Stonefist Shears XX,F Stonefist Shears XX,mhxx-dex-1.0+mhxx-save-format-community,11
-464,F DreadqueenRapier X,F DreadqueenRapier X,mhxx-dex-1.0+mhxx-save-format-community,11
-465,F DreadqueenRapier XX,F DreadqueenRapier XX,mhxx-dex-1.0+mhxx-save-format-community,11
-466,F Drilltusk Pounder X,F Drilltusk Pounder X,mhxx-dex-1.0+mhxx-save-format-community,11
-467,F Drilltusk Pounder XX,F Drilltusk Pounder XX,mhxx-dex-1.0+mhxx-save-format-community,11
-468,F Cloaked Parasol,F Cloaked Parasol,mhxx-dex-1.0+mhxx-save-format-community,11
-469,F Exalted Parasol,F Exalted Parasol,mhxx-dex-1.0+mhxx-save-format-community,11
-470,F Scratching Pole,F Scratching Pole,mhxx-dex-1.0+mhxx-save-format-community,11
-471,F Rending Pole,F Rending Pole,mhxx-dex-1.0+mhxx-save-format-community,11
-472,F Silverwind Star X,F Silverwind Star X,mhxx-dex-1.0+mhxx-save-format-community,11
-473,F Silverwind Star XX,F Silverwind Star XX,mhxx-dex-1.0+mhxx-save-format-community,11
-474,F Crystalbeard Iron X,F Crystalbeard Iron X,mhxx-dex-1.0+mhxx-save-format-community,11
-475,F Crystalbeard Iron XX,F Crystalbeard Iron XX,mhxx-dex-1.0+mhxx-save-format-community,11
-476,F Deadeye Fan X,F Deadeye Fan X,mhxx-dex-1.0+mhxx-save-format-community,11
-477,F Deadeye Fan XX,F Deadeye Fan XX,mhxx-dex-1.0+mhxx-save-format-community,11
-478,F Dreadking Blade X,F Dreadking Blade X,mhxx-dex-1.0+mhxx-save-format-community,11
-479,F Dreadking Blade XX,F Dreadking Blade XX,mhxx-dex-1.0+mhxx-save-format-community,11
-480,F Thunderlord'sRoar X,F Thunderlord'sRoar X,mhxx-dex-1.0+mhxx-save-format-community,11
-481,F Thunderlord'sRoar XX,F Thunderlord'sRoar XX,mhxx-dex-1.0+mhxx-save-format-community,11
-482,F GrimclawWhammer X,F GrimclawWhammer X,mhxx-dex-1.0+mhxx-save-format-community,11
-483,F GrimclawWhammr XX,F GrimclawWhammr XX,mhxx-dex-1.0+mhxx-save-format-community,11
-484,F Smouldering Whiskers,F Smouldering Whiskers,mhxx-dex-1.0+mhxx-save-format-community,11
-485,F Searing Whiskers,F Searing Whiskers,mhxx-dex-1.0+mhxx-save-format-community,11
-486,F Scarlet Virtue,F Scarlet Virtue,mhxx-dex-1.0+mhxx-save-format-community,11
-487,F Incarnadine Greed,F Incarnadine Greed,mhxx-dex-1.0+mhxx-save-format-community,11
-488,F Zephra Spear,F Zephra Spear,mhxx-dex-1.0+mhxx-save-format-community,11
-489,F Zilbolt Spear,F Zilbolt Spear,mhxx-dex-1.0+mhxx-save-format-community,11
-490,F Snowcap Staff,F Snowcap Staff,mhxx-dex-1.0+mhxx-save-format-community,11
-491,F The Trampler,F The Trampler,mhxx-dex-1.0+mhxx-save-format-community,11
-492,F Carnage Hammer,F Carnage Hammer,mhxx-dex-1.0+mhxx-save-format-community,11
-493,F Bloodbath Hammer,F Bloodbath Hammer,mhxx-dex-1.0+mhxx-save-format-community,11
-494,F Flame Naginata,F Flame Naginata,mhxx-save-format-community,0
-495,F Cutie Moon Rod,F Cutie Moon Rod,mhxx-dex-1.0+mhxx-save-format-community,3
-496,F Conquest Naginata,F Conquest Naginata,mhxx-save-format-community,0
-497,F Tsumugari,F Tsumugari,mhxx-dex-1.0+mhxx-save-format-community,7
-498,F Arthur's Lance,F Arthur's Lance,mhxx-dex-1.0+mhxx-save-format-community,7
-499,F Cutie Moon Rod S,F Cutie Moon Rod S,mhxx-dex-1.0+mhxx-save-format-community,7
-500,F Q.Bacon Skewer,F Q.Bacon Skewer,mhxx-save-format-community,0
-501,F Tsumugari X,F Tsumugari X,mhxx-dex-1.0+mhxx-save-format-community,10
-502,F Arthur's Lance X,F Arthur's Lance X,mhxx-dex-1.0+mhxx-save-format-community,10
-503,F Cutie Moon Rod X,F Cutie Moon Rod X,mhxx-dex-1.0+mhxx-save-format-community,10
-504,F Q.Bacon Skewer X,F Q.Bacon Skewer X,mhxx-save-format-community,0
-505,F Objection! Panel,F Objection! Panel,mhxx-dex-1.0+mhxx-save-format-community,10
-506,F Spirits Pickaxe,F Spirits Pickaxe,mhxx-dex-1.0+mhxx-save-format-community,10
-507,F Korok Branch,F Korok Branch,mhxx-dex-1.0+mhxx-save-format-community,10
-508,F Zenith Naginata,F Zenith Naginata,mhxx-save-format-community,0
+0,None,None,mhxx-romfs-game-array,0
+1,F Bone Wedge,F Bone Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+2,F Bherna Staff,F Bherna Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+3,F Iron Sword,F Iron Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+4,F Bone Hammer,F Bone Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+5,F Jaggi Knife,F Jaggi Knife,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+6,F Hunting Knife,F Hunting Knife,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+7,F Yukumo Bokken,F Yukumo Bokken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+8,F Wood Chopper,F Wood Chopper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+9,F Paw Punch,F Paw Punch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+10,F Alta Net,F Alta Net,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+11,F Rheno Hammer,F Rheno Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+12,F Bnaha Dagger,F Bnaha Dagger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+13,F Maccao Dagger,F Maccao Dagger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+14,F Vprey Bayonet,F Vprey Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+15,F Bulldrome Tusk,F Bulldrome Tusk,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+16,F Arzuros Mace,F Arzuros Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+17,F Genprey Bayonet,F Genprey Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+18,F Cephalos Brush,F Cephalos Brush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+19,F Machalite Wedge,F Machalite Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+20,F Giant Acorn,F Giant Acorn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+21,F Stone Cat Statue,F Stone Cat Statue,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+22,F Venombee Bat,F Venombee Bat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+23,F Gourmet Cheese,F Gourmet Cheese,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+24,F Moofah Cotton,F Moofah Cotton,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+25,F Aptonoth Meat,F Aptonoth Meat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+26,F Fish Stick,F Fish Stick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+27,F Grilled Hammer,F Grilled Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+28,F Ioprey Bayonet,F Ioprey Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+29,F Lagombi Staff,F Lagombi Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+30,F Kut-Ku Cutter,F Kut-Ku Cutter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+31,F Gypceros Glare,F Gypceros Glare,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+32,F Cabra Pounder,F Cabra Pounder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+33,F Daimyo Shears,F Daimyo Shears,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+34,F Ludroth Paw,F Ludroth Paw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+35,F Khezu Whaccine,F Khezu Whaccine,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+36,F Nibel Blammer,F Nibel Blammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+37,F Quest Book,F Quest Book,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+38,F Vprey Wedge,F Vprey Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+39,F Barrel Basher,F Barrel Basher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+40,F Derring Lance,F Derring Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+41,F Edel Rod,F Edel Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+42,F Mosgharl Broom,F Mosgharl Broom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+43,F Bushwhacker,F Bushwhacker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+44,F Death Stench Scythe,F Death Stench Scythe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+45,F Marauder Blade,F Marauder Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+46,F Marauder Gavel,F Marauder Gavel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+47,F Volvi Lantern,F Volvi Lantern,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+48,F Jester Parasol,F Jester Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+49,F Rathian Rapier,F Rathian Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+50,F Blango Spear,F Blango Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+51,F Ceanataur Cutter,F Ceanataur Cutter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+52,F Naja Pungi,F Naja Pungi,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+53,F Narga Shuriken,F Narga Shuriken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+54,F Kokoto Beer,F Kokoto Beer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+55,F Pokke Mop,F Pokke Mop,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+56,F Yukumo Fan,F Yukumo Fan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+57,F Shroom Rod,F Shroom Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+58,F Eldora Paw,F Eldora Paw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+59,F Garuga Fan,F Garuga Fan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+60,F Uragaan Iron,F Uragaan Iron,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+61,F Rathalos Blade,F Rathalos Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+62,F Lagia Anchor,F Lagia Anchor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+63,F Astalos Spear,F Astalos Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+64,F Enormews Staff,F Enormews Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+65,F Mizutsune Parasol,F Mizutsune Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+66,F Guild Rapier,F Guild Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+67,F Moofy Plush,F Moofy Plush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+68,F Scorching Blade,F Scorching Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+69,F Mewsurper's Peal,F Mewsurper's Peal,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+70,F Katzenlampe,F Katzenlampe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+71,F Seregios Edge,F Seregios Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+72,F Tigrex Whammer,F Tigrex Whammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+73,F Kirin Rumblezap,F Kirin Rumblezap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+74,F Brachy Punch,F Brachy Punch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+75,F Le Cœur de Chat,F Le Cœur de Chat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+76,F Kushala Wand,F Kushala Wand,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+77,F Genie Breath,F Genie Breath,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+78,F Kaiser Mace,F Kaiser Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+79,F White Felyne Husk,F White Felyne Husk,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+80,F Bone Wedge S,F Bone Wedge S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+81,F Bherna Staff S,F Bherna Staff S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+82,F Hunting Knife S,F Hunting Knife S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+83,F Yukumo Bonito,F Yukumo Bonito,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+84,F Carbalite Wedge,F Carbalite Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+85,F Giant Acorn S,F Giant Acorn S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+86,F Vprey Wedge S,F Vprey Wedge S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+87,F Barrel Basher S,F Barrel Basher S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+88,F Gourmet Cheese S,F Gourmet Cheese S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+89,F Moofah Cotton S,F Moofah Cotton S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+90,F Barbecue,F Barbecue,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+91,F Fish Stick S,F Fish Stick S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+92,F Fingerlicker,F Fingerlicker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+93,F Bushwhacker S,F Bushwhacker S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+94,F Paw Punch S,F Paw Punch S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+95,F Carbalite Sword,F Carbalite Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+96,F Bone Hammer S,F Bone Hammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+97,F Alta Net S,F Alta Net S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+98,F Bnaha Dagger S,F Bnaha Dagger S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+99,F Jaggi Knife S,F Jaggi Knife S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+100,F Rheno Hammer S,F Rheno Hammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+101,F Slagtoth Leaf,F Slagtoth Leaf,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+102,F Maccao Dagger S,F Maccao Dagger S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+103,F Vprey Bayonet S,F Vprey Bayonet S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+104,F Bulldrome Tusk S,F Bulldrome Tusk S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+105,F Arzuros Mace S,F Arzuros Mace S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+106,F Genprey Bayonet S,F Genprey Bayonet S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+107,F Lagombi Staff S,F Lagombi Staff S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+108,F Cephalos Brush S,F Cephalos Brush S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+109,F Kut-Ku Cutter S,F Kut-Ku Cutter S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+110,F Gypceros Glare S,F Gypceros Glare S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+111,F Cabra Pounder S,F Cabra Pounder S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+112,F Daimyo Shears S,F Daimyo Shears S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+113,F Ludroth Paw S,F Ludroth Paw S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+114,F Kecha Harrow,F Kecha Harrow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+115,F Bell Rod,F Bell Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+116,F Gargouille Waltz,F Gargouille Waltz,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+117,F Venombee Bat S,F Venombee Bat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+118,F Mosgharl Broom S,F Mosgharl Broom S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+119,F Meowtetsuken,F Meowtetsuken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+120,F Pounderpurr,F Pounderpurr,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+121,F Ioprey Bayonet S,F Ioprey Bayonet S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+122,F Volvi Lantern S,F Volvi Lantern S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+123,F Khezu Whaccine S,F Khezu Whaccine S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+124,F Nibel Blammer S,F Nibel Blammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+125,F Slumbering Duke,F Slumbering Duke,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+126,F Queen Rapier,F Queen Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+127,F Blango Spear S,F Blango Spear S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+128,F Ceanataur Cutter S,F Ceanataur Cutter S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+129,F Naja Pungi S,F Naja Pungi S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+130,F Narga Shuriken S,F Narga Shuriken S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+131,F Garuga Fan S,F Garuga Fan S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+132,F Uragaan Iron S,F Uragaan Iron S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+133,F Zamtrios Paw,F Zamtrios Paw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+134,F Plesioth Board,F Plesioth Board,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+135,F Lava Mace,F Lava Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+136,F Edel Rod S,F Edel Rod S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+137,F Lulling Moofy Plush,F Lulling Moofy Plush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+138,F Wood Chopper S,F Wood Chopper S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+139,F Kut-Ku Cackle,F Kut-Ku Cackle,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+140,F Bulldrome Rrrush,F Bulldrome Rrrush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+141,F Mighty Shroom Rod,F Mighty Shroom Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+142,F D. Stench Scythe S,F D. Stench Scythe S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+143,F Lost Catspaw Staff,F Lost Catspaw Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+144,F Lagia Anchor S,F Lagia Anchor S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+145,F Scorched Whiskers,F Scorched Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+146,F Lightning Spear,F Lightning Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+147,F Ginormews Staff,F Ginormews Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+148,F Crimson Parasol,F Crimson Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+149,F Blazing Blade,F Blazing Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+150,F Mewsurper's Roar,F Mewsurper's Roar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+151,F Katzenfunzel,F Katzenfunzel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+152,F Tigrex Whammer S,F Tigrex Whammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+153,F Seltas Drill,F Seltas Drill,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+154,F Agnaktor Lance,F Agnaktor Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+155,F Duram Axe,F Duram Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+156,F Kirin Bolt,F Kirin Bolt,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+157,F Golden Gadget,F Golden Gadget,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+158,F Vangis Mace,F Vangis Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+159,F Kut-Ku Cutter R,F Kut-Ku Cutter R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+160,F Kecha Harrow R,F Kecha Harrow R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+161,F Gypceros Ankh R,F Gypceros Ankh R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+162,F Cabra Pounder R,F Cabra Pounder R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+163,F Daimyo Shears R,F Daimyo Shears R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+164,F Ludroth Paw R,F Ludroth Paw R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+165,F Jester Parasol R,F Jester Parasol R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+166,F Zamtrios Paw R,F Zamtrios Paw R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+167,F Khezu Whaccine R,F Khezu Whaccine R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+168,F Rathian Rapier R,F Rathian Rapier R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+169,F Nibel Blammer R,F Nibel Blammer R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+170,F Plesioth Board R,F Plesioth Board R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+171,F Blango Spear R,F Blango Spear R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+172,F Quest Book S,F Quest Book S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+173,F Kokoto Beer S,F Kokoto Beer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+174,F Pokke Mop S,F Pokke Mop S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+175,F Yukumo Fan S,F Yukumo Fan S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+176,F Guildcalibur,F Guildcalibur,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+177,F Dragon Evertones,F Dragon Evertones,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+178,F Barrel Mallet,F Barrel Mallet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+179,F Dirty Blade,F Dirty Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+180,F Meowsketeer Rapier,F Meowsketeer Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+181,F Master's Blade,F Master's Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+182,F Derring Lance S,F Derring Lance S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+183,F Seregios Edge S,F Seregios Edge S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+184,F Brachy Wallop,F Brachy Wallop,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+185,F Le Chatphrodite,F Le Chatphrodite,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+186,F White Felyne Staff,F White Felyne Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+187,F Polaris Sword,F Polaris Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+188,F Lava Mace R,F Lava Mace R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+189,F Ceanataur Cutter R,F Ceanataur Cutter R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+190,F Narga Shuriken R,F Narga Shuriken R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+191,F Naja Pungi R,F Naja Pungi R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+192,F Garuga Fan R,F Garuga Fan R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+193,F Uragaan Iron R,F Uragaan Iron R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+194,F Seltas Drill R,F Seltas Drill R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+195,F Rathalos Blade R,F Rathalos Blade R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+196,F Lagia Anchor R,F Lagia Anchor R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+197,F Mewsurper's Peal R,F Mewsurper's Peal R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+198,F Kushala Wand S,F Kushala Wand S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+199,F Genie Breath S,F Genie Breath S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+200,F Kaiser Mace S,F Kaiser Mace S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+201,F Akantor Sword,F Akantor Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+202,F Ukanlos Shovel,F Ukanlos Shovel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+203,F Cursed Cloud,F Cursed Cloud,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+204,F Escador Scythe,F Escador Scythe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+205,F Mizutsune Parasol R,F Mizutsune Parasol R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+206,F Astalos Spear R,F Astalos Spear R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+207,F Enormews Staff R,F Enormews Staff R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+208,F Scorching Blade R,F Scorching Blade R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+209,F Agnaktor Lance R,F Agnaktor Lance R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+210,F Katzenlampe R,F Katzenlampe R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+211,F Seregios Edge R,F Seregios Edge R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+212,F Duram Axe R,F Duram Axe R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+213,F Tigrex Whammer R,F Tigrex Whammer R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+214,F Brachy Punch R,F Brachy Punch R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+215,F Golden Gadget R,F Golden Gadget R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+216,F Deviljho Mace R,F Deviljho Mace R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+217,F Strange Hammer,F Strange Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+218,F Strange Hammer S,F Strange Hammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+219,F Redhelm Mace,F Redhelm Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+220,F Redhelm Mace S,F Redhelm Mace S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+221,F Snowbaron Stick,F Snowbaron Stick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+222,F Snowbaron Stick S,F Snowbaron Stick S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+223,F Stonefist Shears,F Stonefist Shears,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+224,F Stonefist Shears S,F Stonefist Shears S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+225,F Dreadqueen Rapier,F Dreadqueen Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+226,F Dreadqueen Rapier S,F Dreadqueen Rapier S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+227,F Drilltusk Pounder,F Drilltusk Pounder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+228,F Drilltusk Pounder S,F Drilltusk Pounder S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+229,F Silverwind Star,F Silverwind Star,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+230,F Silverwind Star S,F Silverwind Star S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+231,F Crystalbeard Iron,F Crystalbeard Iron,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+232,F Crystalbeard Iron S,F Crystalbeard Iron S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+233,F Deadeye Fan,F Deadeye Fan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+234,F Deadeye Fan S,F Deadeye Fan S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+235,F Dreadking Blade,F Dreadking Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+236,F Dreadking Blade S,F Dreadking Blade S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+237,F Thunderlord's Peal,F Thunderlord's Peal,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+238,F Thunderlord's Roar,F Thunderlord's Roar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+239,F Grimclaw Whammer,F Grimclaw Whammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+240,F Grimclaw Whammer S,F Grimclaw Whammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+241,F Blazing Ashes,F Blazing Ashes,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+242,F Ashen Whiskers,F Ashen Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+243,F Zombie-kun Gut,F Zombie-kun Gut,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+244,F Fairy Tail Blade,F Fairy Tail Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+245,F Treasure Chalice J,F Treasure Chalice J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+246,F Pirate Key J,F Pirate Key J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+247,F Legendary Glass J,F Legendary Glass J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+248,F Greedy Hook J,F Greedy Hook J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+249,F Rolled-up Paper,F Rolled-up Paper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+250,F Monqlo Ball,F Monqlo Ball,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+251,F Meowstar Gunbai,F Meowstar Gunbai,mhxx-romfs-game-array+mhxx-save-format-community,0
+252,F Spirits Sword,F Spirits Sword,mhxx-romfs-game-array+mhxx-save-format-community,0
+253,F Midousuji Bike,F Midousuji Bike,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+254,F Zombie-kun Stomach,F Zombie-kun Stomach,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+255,F Grandpaw Danger,F Grandpaw Danger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+256,F True Fairy Tail Blade,F True Fairy Tail Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+257,F Dark Meowgic Staff,F Dark Meowgic Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+258,F Booty Chalice J,F Booty Chalice J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+259,F Buccaneer Key J,F Buccaneer Key J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+260,F King Scope J,F King Scope J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+261,F Avaricious Hook J,F Avaricious Hook J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+262,F Tightly-rolled Paper,F Tightly-rolled Paper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+263,F Monqlo Ball S,F Monqlo Ball S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+264,F Supreme Gunbai,F Supreme Gunbai,mhxx-romfs-game-array+mhxx-save-format-community,0
+265,F Star World,F Star World,mhxx-romfs-game-array+mhxx-save-format-community,0
+266,F Magical Baton,F Magical Baton,mhxx-romfs-game-array+mhxx-save-format-community,0
+267,F Kirimi Stick,F Kirimi Stick,mhxx-romfs-game-array+mhxx-save-format-community,0
+268,F Nyankyrie Weapon,F Nyankyrie Weapon,mhxx-romfs-game-array+mhxx-save-format-community,0
+269,F Wind Waker,F Wind Waker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+270,F Blaster,F Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+271,F Invincible Hammer,F Invincible Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+272,F Sentry's Pickaxe,F Sentry's Pickaxe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+273,F Minder's Binder,F Minder's Binder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+274,F Sword of Purrity,F Sword of Purrity,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+275,F Chun Bracelets,F Chun Bracelets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+276,F Blanka Fish,F Blanka Fish,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+277,F Alastor,F Alastor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+278,F Rushing Hammer,F Rushing Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+279,F Melodic Baton,F Melodic Baton,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+280,F Spirits Sword S,F Spirits Sword S,mhxx-romfs-game-array+mhxx-save-format-community,0
+281,F Fan Megaphone,F Fan Megaphone,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+282,F Tenderpaw Clog,F Tenderpaw Clog,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+283,F Giaprey Bayonet,F Giaprey Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+284,F Conga Cymbals,F Conga Cymbals,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+285,F Barroth Mace,F Barroth Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+286,F Second Sight Lens,F Second Sight Lens,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+287,F Basarios Axe,F Basarios Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+288,F Nerscylla Wedge,F Nerscylla Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+289,F Barioth Knife,F Barioth Knife,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+290,F Grav Bazooka,F Grav Bazooka,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+291,F Diablos Hammer,F Diablos Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+292,F Silverwing Sword,F Silverwing Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+293,F Bone Wedge X,F Bone Wedge X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+294,F Bherna Staff X,F Bherna Staff X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+295,F Eltalite Wedge,F Eltalite Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+296,F Giant Acorn X,F Giant Acorn X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+297,F Vprey Wedge X,F Vprey Wedge X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+298,F Barrel Basher X,F Barrel Basher X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+299,F Gourmet Cheese X,F Gourmet Cheese X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+300,F Moofah Cotton X,F Moofah Cotton X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+301,F Deluxe BBQ,F Deluxe BBQ,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+302,F Fish Stick X,F Fish Stick X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+303,F Smorgasbord,F Smorgasbord,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+304,F Bushwhacker X,F Bushwhacker X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+305,F Paw Punch X,F Paw Punch X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+306,F Eltalite Sword,F Eltalite Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+307,F Bone Hammer X,F Bone Hammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+308,F Alta Net X,F Alta Net X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+309,F Bnaha Dagger X,F Bnaha Dagger X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+310,F Jaggi Knife X,F Jaggi Knife X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+311,F Rheno Hammer X,F Rheno Hammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+312,F Slagtoth Leaf X,F Slagtoth Leaf X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+313,F Maccao Dagger X,F Maccao Dagger X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+314,F Vprey Bayonet X,F Vprey Bayonet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+315,F Bulldrome Tusk X,F Bulldrome Tusk X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+316,F Arzuros Mace X,F Arzuros Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+317,F Giaprey Bayonet X,F Giaprey Bayonet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+318,F Genprey Bayonet X,F Genprey Bayonet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+319,F Lagombi Staff X,F Lagombi Staff X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+320,F Cephalos Brush X,F Cephalos Brush X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+321,F Kut-Ku Cutter X,F Kut-Ku Cutter X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+322,F Gypceros Glare X,F Gypceros Glare X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+323,F Cabra Pounder X,F Cabra Pounder X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+324,F Daimyo Shears X,F Daimyo Shears X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+325,F Ludroth Paw X,F Ludroth Paw X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+326,F Kecha Harrow X,F Kecha Harrow X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+327,F Kokoto Beer X,F Kokoto Beer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+328,F Yukumo Fan X,F Yukumo Fan X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+329,F Bell Rod X,F Bell Rod X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+330,F Yian Kut-Ku Cackle,F Yian Kut-Ku Cackle,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+331,F Bulldrome Rrrumble,F Bulldrome Rrrumble,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+332,F Sacred Titan Dance,F Sacred Titan Dance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+333,F Venombee Bat X,F Venombee Bat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+334,F Mosgharl Broom X,F Mosgharl Broom X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+335,F Real Catetsu Blade,F Real Catetsu Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+336,F Marauder Warhammer,F Marauder Warhammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+337,F Finder's Loupe,F Finder's Loupe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+338,F Ioprey Bayonet X,F Ioprey Bayonet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+339,F Volvi Lantern X,F Volvi Lantern X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+340,F Basarios Axe X,F Basarios Axe X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+341,F Conga Cymbals X,F Conga Cymbals X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+342,F Barroth Mace X,F Barroth Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+343,F Khezu Whaccine X,F Khezu Whaccine X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+344,F Nibel Blammer X,F Nibel Blammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+345,F Slumbering Archduke,F Slumbering Archduke,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+346,F Swiftblur Rapier,F Swiftblur Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+347,F Blango Spear X,F Blango Spear X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+348,F Ceanataur Cutter X,F Ceanataur Cutter X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+349,F Scylla Wedge X,F Scylla Wedge X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+350,F Naja Pungi X,F Naja Pungi X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+351,F Narga Shuriken X,F Narga Shuriken X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+352,F Zamtrios Paw X,F Zamtrios Paw X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+353,F Plesioth Board X,F Plesioth Board X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+354,F Kut-Ku Cutter XR,F Kut-Ku Cutter XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+355,F Kecha Harrow XR,F Kecha Harrow XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+356,F Gypceros Glare XR,F Gypceros Glare XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+357,F Cabra Pounder XR,F Cabra Pounder XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+358,F Daimyo Shears XR,F Daimyo Shears XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+359,F Ludroth Paw XR,F Ludroth Paw XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+360,F Quest Book X,F Quest Book X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+361,F Derring Lance X,F Derring Lance X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+362,F Barrel Hammer,F Barrel Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+363,F Snoozy Moofy Plush,F Snoozy Moofy Plush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+364,F Wood Chopper X,F Wood Chopper X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+365,F Mycetic Rod,F Mycetic Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+366,F DeathStench Scythe X,F DeathStench Scythe X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+367,F Fine Catspaw Staff,F Fine Catspaw Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+368,F Slumbral Moofy Plush,F Slumbral Moofy Plush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+369,F Garuga Fan X,F Garuga Fan X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+370,F Uragaan Iron X,F Uragaan Iron X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+371,F Lava Mace X,F Lava Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+372,F Lagia Anchor X,F Lagia Anchor X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+373,F Novaslice Whiskers,F Novaslice Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+374,F St. Elmo's Javelin,F St. Elmo's Javelin,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+375,F Ginormewsest Staff,F Ginormewsest Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+376,F Crimson Sky Parasol,F Crimson Sky Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+377,F Barioth Knife X,F Barioth Knife X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+378,F Charring Blade,F Charring Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+379,F Mewsurper's Yowl,F Mewsurper's Yowl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+380,F Grav Bazooka X,F Grav Bazooka X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+381,F Katzenseele,F Katzenseele,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+382,F Tigrex Whammer X,F Tigrex Whammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+383,F Seltas Drill X,F Seltas Drill X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+384,F Kirin Bolt Maximus,F Kirin Bolt Maximus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+385,F Sealed Drgn Halberd,F Sealed Drgn Halberd,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+386,F Basarios Axe XR,F Basarios Axe XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+387,F Conga Cymbals XR,F Conga Cymbals XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+388,F Barroth Mace XR,F Barroth Mace XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+389,F Khezu Whaccine XR,F Khezu Whaccine XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+390,F Nibel Blammer XR,F Nibel Blammer XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+391,F Jester Parasol XR,F Jester Parasol XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+392,F Rathian Rapier XR,F Rathian Rapier XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+393,F Blango Spear XR,F Blango Spear XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+394,F Ceanataur Cutter XR,F Ceanataur Cutter XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+395,F Scylla Wedge XR,F Scylla Wedge XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+396,F Naja Pungi XR,F Naja Pungi XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+397,F Narga Shuriken XR,F Narga Shuriken XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+398,F Zamtrios Paw XR,F Zamtrios Paw XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+399,F Plesioth Board XR,F Plesioth Board XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+400,F Guildcalibur X,F Guildcalibur X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+401,F Dragon Forevertones,F Dragon Forevertones,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+402,F Pro Dirty Blade,F Pro Dirty Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+403,F Meowsketeer Espada,F Meowsketeer Espada,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+404,F Legend Blade,F Legend Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+405,F Miaownifique,F Miaownifique,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+406,F Purrlissimo,F Purrlissimo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+407,F Agnaktor Lance X,F Agnaktor Lance X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+408,F Duram Axe X,F Duram Axe X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+409,F Seregios Edge X,F Seregios Edge X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+410,F Diablos Hammer X,F Diablos Hammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+411,F Brachydios Smash,F Brachydios Smash,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+412,F La Venyasss,F La Venyasss,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+413,F Dragon Comet,F Dragon Comet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+414,F Golden Gadget X,F Golden Gadget X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+415,F Vangis Mace X,F Vangis Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+416,F Fischfleisch,F Fischfleisch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+417,F Kushala Wand X,F Kushala Wand X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+418,F Genie Breath X,F Genie Breath X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+419,F Kaiser Mace X,F Kaiser Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+420,F White Felyne Scepter,F White Felyne Scepter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+421,F Polaris Clawsword,F Polaris Clawsword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+422,F Engraved Staff,F Engraved Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+423,F Garuga Fan XR,F Garuga Fan XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+424,F Uragaan Iron XR,F Uragaan Iron XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+425,F Lava Mace XR,F Lava Mace XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+426,F Lagia Anchor XR,F Lagia Anchor XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+427,F Scorching Blade XR,F Scorching Blade XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+428,F Astalos Spear XR,F Astalos Spear XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+429,F Enormews Staff XR,F Enormews Staff XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+430,F Mizutsune Parasol XR,F Mizutsune Parasol XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+431,F Barioth Knife XR,F Barioth Knife XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+432,F Rathalos Blade XR,F Rathalos Blade XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+433,F Mewsurper's Peal XR,F Mewsurper's Peal XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+434,F Grav Bazooka XR,F Grav Bazooka XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+435,F Katzenlampe XR,F Katzenlampe XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+436,F Tigrex Whammer XR,F Tigrex Whammer XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+437,F Seltas Drill XR,F Seltas Drill XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+438,F Hunting Knife X,F Hunting Knife X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+439,F True Yukumo Bokken,F True Yukumo Bokken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+440,F Pokke Mop X,F Pokke Mop X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+441,F Edel Rod X,F Edel Rod X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+442,F Akantor Sword X,F Akantor Sword X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+443,F Ukanlos Shovel X,F Ukanlos Shovel X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+444,F Celestial Squall,F Celestial Squall,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+445,F Escador Scythe X,F Escador Scythe X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+446,F Fatalis Eye,F Fatalis Eye,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+447,F Havoc Eye,F Havoc Eye,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+448,F Fatalis Rod,F Fatalis Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+449,F Agnaktor Lance XR,F Agnaktor Lance XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+450,F Duram Axe XR,F Duram Axe XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+451,F Seregios Edge XR,F Seregios Edge XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+452,F Diablos Hammer XR,F Diablos Hammer XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+453,F Brachy Punch XR,F Brachy Punch XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+454,F Golden Gadget XR,F Golden Gadget XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+455,F Vangis Mace XR,F Vangis Mace XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+456,F Strange Hammer X,F Strange Hammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+457,F Strange Hammer XX,F Strange Hammer XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+458,F Redhelm Mace X,F Redhelm Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+459,F Redhelm Mace XX,F Redhelm Mace XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+460,F Snowbaron Stick X,F Snowbaron Stick X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+461,F Snowbaron Stick XX,F Snowbaron Stick XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+462,F Stonefist Shears X,F Stonefist Shears X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+463,F Stonefist Shears XX,F Stonefist Shears XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+464,F DreadqueenRapier X,F DreadqueenRapier X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+465,F DreadqueenRapier XX,F DreadqueenRapier XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+466,F Drilltusk Pounder X,F Drilltusk Pounder X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+467,F Drilltusk Pounder XX,F Drilltusk Pounder XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+468,F Cloaked Parasol,F Cloaked Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+469,F Exalted Parasol,F Exalted Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+470,F Scratching Pole,F Scratching Pole,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+471,F Rending Pole,F Rending Pole,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+472,F Silverwind Star X,F Silverwind Star X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+473,F Silverwind Star XX,F Silverwind Star XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+474,F Crystalbeard Iron X,F Crystalbeard Iron X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+475,F Crystalbeard Iron XX,F Crystalbeard Iron XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+476,F Deadeye Fan X,F Deadeye Fan X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+477,F Deadeye Fan XX,F Deadeye Fan XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+478,F Dreadking Blade X,F Dreadking Blade X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+479,F Dreadking Blade XX,F Dreadking Blade XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+480,F Thunderlord'sRoar X,F Thunderlord'sRoar X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+481,F Thunderlord'sRoar XX,F Thunderlord'sRoar XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+482,F GrimclawWhammer X,F GrimclawWhammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+483,F GrimclawWhammr XX,F GrimclawWhammr XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+484,F Smouldering Whiskers,F Smouldering Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+485,F Searing Whiskers,F Searing Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+486,F Scarlet Virtue,F Scarlet Virtue,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+487,F Incarnadine Greed,F Incarnadine Greed,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+488,F Zephra Spear,F Zephra Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+489,F Zilbolt Spear,F Zilbolt Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+490,F Snowcap Staff,F Snowcap Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+491,F The Trampler,F The Trampler,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+492,F Carnage Hammer,F Carnage Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+493,F Bloodbath Hammer,F Bloodbath Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+494,F Flame Naginata,F Flame Naginata,mhxx-romfs-game-array+mhxx-save-format-community,0
+495,F Cutie Moon Rod,F Cutie Moon Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+496,F Conquest Naginata,F Conquest Naginata,mhxx-romfs-game-array+mhxx-save-format-community,0
+497,F Tsumugari,F Tsumugari,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+498,F Arthur's Lance,F Arthur's Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+499,F Cutie Moon Rod S,F Cutie Moon Rod S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+500,F Q.Bacon Skewer,F Q.Bacon Skewer,mhxx-romfs-game-array+mhxx-save-format-community,0
+501,F Tsumugari X,F Tsumugari X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+502,F Arthur's Lance X,F Arthur's Lance X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+503,F Cutie Moon Rod X,F Cutie Moon Rod X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+504,F Q.Bacon Skewer X,F Q.Bacon Skewer X,mhxx-romfs-game-array+mhxx-save-format-community,0
+505,F Objection! Panel,F Objection! Panel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+506,F Spirits Pickaxe,F Spirits Pickaxe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+507,F Korok Branch,F Korok Branch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+508,F Zenith Naginata,F Zenith Naginata,mhxx-romfs-game-array+mhxx-save-format-community,0

@@ -14,7 +14,10 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "1.2.0"
+GENERATOR_VERSION = "2.0.0"
+GAME_EXPORT_FORMAT = "mhxx-game-name-export-v1"
+GAME_SOURCE = "mhxx-romfs-game-array"
+GAME_ONLY_TRANSLATION_SOURCE = "mhxx-reviewed-game-only-translation"
 DEX_SOURCE = "mhxx-dex-1.0"
 DEX_FALLBACK_SOURCE = "mhxx-dex-1.0-en-fallback"
 SAVE_SOURCE = "mhxx-save-format-community"
@@ -169,6 +172,77 @@ def strip_level(name: str) -> str:
     return re.sub(r"\s+-\s+Lv\.\d+$", "", name).strip()
 
 
+def require_game_match(label: str, game_name: str, dex_name: str) -> None:
+    if game_name.strip() != strip_level(dex_name):
+        raise ValueError(
+            f"{label}: game Japanese name {game_name!r} differs from Dex {dex_name!r}"
+        )
+
+
+MISSING_ITEM_NAMES = {
+    0: ("无", "None"),
+    93: ("未选择道具", "No Item Selected"),
+    132: ("LV1 通常弹", "Normal S Lv1"),
+    133: ("LV2 通常弹", "Normal S Lv2"),
+    134: ("LV3 通常弹", "Normal S Lv3"),
+    135: ("LV1 贯通弹", "Pierce S Lv1"),
+    136: ("LV2 贯通弹", "Pierce S Lv2"),
+    137: ("LV3 贯通弹", "Pierce S Lv3"),
+    138: ("LV1 散弹", "Pellet S Lv1"),
+    139: ("LV2 散弹", "Pellet S Lv2"),
+    140: ("LV3 散弹", "Pellet S Lv3"),
+    141: ("LV1 彻甲榴弹", "Crag S Lv1"),
+    142: ("LV2 彻甲榴弹", "Crag S Lv2"),
+    143: ("LV3 彻甲榴弹", "Crag S Lv3"),
+    144: ("LV1 扩散弹", "Clust S Lv1"),
+    145: ("LV2 扩散弹", "Clust S Lv2"),
+    146: ("LV3 扩散弹", "Clust S Lv3"),
+    147: ("LV1 火炎弹", "Flaming S Lv1"),
+    148: ("LV1 水冷弹", "Water S Lv1"),
+    149: ("LV1 电击弹", "Thunder S Lv1"),
+    150: ("LV1 冰结弹", "Freeze S Lv1"),
+    151: ("LV1 灭龙弹", "Dragon S Lv1"),
+    152: ("LV1 毒弹", "Poison S Lv1"),
+    153: ("LV2 毒弹", "Poison S Lv2"),
+    154: ("LV1 麻痹弹", "Para S Lv1"),
+    155: ("LV2 麻痹弹", "Para S Lv2"),
+    156: ("LV1 睡眠弹", "Sleep S Lv1"),
+    157: ("LV2 睡眠弹", "Sleep S Lv2"),
+    158: ("LV1 减气弹", "Exhaust S Lv1"),
+    159: ("LV2 减气弹", "Exhaust S Lv2"),
+    160: ("LV1 回复弹", "Recover S Lv1"),
+    161: ("LV2 回复弹", "Recover S Lv2"),
+    162: ("染色弹", "Paint S"),
+    163: ("捕获用麻醉弹", "Tranq S"),
+    205: ("RAPID", "RAPID"),
+    206: ("无瓶", "No Coating"),
+}
+
+GAME_ONLY_WEAPON_NAMES = {
+    ("weapon_charge_blade", 59): ("スタールークアクス", "星光之斧", "Starlight Axe"),
+    ("weapon_dual_blades", 99): ("双星の紅蓮刃", "双星红莲刃", "Twin Star Blades"),
+    ("weapon_hunting_horn", 88): ("ぐでたまフライパン", "懒蛋蛋平底锅", "Gudetama Frying Pan"),
+    ("weapon_long_sword", 100): ("スターライトゲート", "星光之门", "Starlight Gate"),
+    ("weapon_long_sword", 126): ("気炎の太刀", "气焰太刀", "Flame Katana"),
+    ("weapon_switch_axe", 109): ("レッドトマホーク", "红色战斧", "Red Tomahawk"),
+    ("weapon_sword_and_shield", 100): ("スターナイトソード", "星光骑士剑", "Star Knight Sword"),
+}
+
+
+def missing_item_name(identifier: int, japanese: str) -> tuple[str, str]:
+    if identifier in MISSING_ITEM_NAMES:
+        return MISSING_ITEM_NAMES[identifier]
+    match = re.fullmatch(r"ダミー珠(\d+)", japanese)
+    if match:
+        number = int(match.group(1))
+        return f"DUMMY珠{number}", f"DUMMY Jewel {number}"
+    match = re.fullmatch(r"ダミー(\d+)", japanese)
+    if match:
+        number = int(match.group(1))
+        return f"DUMMY {number}", f"DUMMY {number}"
+    raise ValueError(f"game item ID {identifier} {japanese!r} has no Dex or explicit placeholder mapping")
+
+
 def none_row(language: str, equipment: bool = False) -> dict[str, object]:
     row: dict[str, object] = {
         "id": 0,
@@ -184,6 +258,7 @@ def none_row(language: str, equipment: bool = False) -> dict[str, object]:
 def build_language(
     sql_dir: Path,
     crosswalk: dict,
+    game_tables: dict[str, list[str]],
     palico_translations: dict[str, dict[int, dict]],
     language: str,
     output: Path,
@@ -193,15 +268,24 @@ def build_language(
     item_names = {int(row["Itm_ID"]): row for row in read_csv(sql_dir / "ID_Itm_Name.csv")}
     items: list[dict[str, object]] = []
     item_by_save_id: dict[int, dict[str, object]] = {}
-    for dex_id, row in item_data.items():
-        save_id = int(row["Hex"], 16)
-        if save_id <= 0:
-            continue
-        name, english, source = localized(item_names[dex_id], "Itm_Name_", language)
-        built = {"id": save_id, "name": name, "english": english, "source": source}
+    item_dex_by_save_id = {int(row["Hex"], 16): (dex_id, row) for dex_id, row in item_data.items()}
+    for save_id, japanese in enumerate(game_tables["items"]):
+        dex = item_dex_by_save_id.get(save_id)
+        if dex is None:
+            chinese, english = missing_item_name(save_id, japanese)
+            built = {
+                "id": save_id,
+                "name": chinese if language == "cn" else english,
+                "english": english,
+                "source": GAME_SOURCE,
+            }
+        else:
+            dex_id, _row = dex
+            require_game_match(f"item ID {save_id}", japanese, item_names[dex_id]["Itm_Name_3"])
+            name, english, source = localized(item_names[dex_id], "Itm_Name_", language)
+            built = {"id": save_id, "name": name, "english": english, "source": GAME_SOURCE + "+" + source}
         items.append(built)
         item_by_save_id[save_id] = built
-    items.sort(key=lambda row: int(row["id"]))
     counts["items.csv"] = write_csv(output / "items.csv", BASE_COLUMNS, items)
 
     skill_rows = [none_row(language)]
@@ -234,60 +318,89 @@ def build_language(
     armor_data = {int(row["Amr_ID"]): row for row in read_csv(sql_dir / "DB_Amr.csv")}
     armor_names = {int(row["Amr_ID"]): row for row in read_csv(sql_dir / "ID_Amr_Name.csv")}
     for file_name, _part in ARMOR:
+        table_key = Path(file_name).stem
+        game_names = game_tables[table_key]
+        entries = {int(entry["save_id"]): entry for entry in crosswalk["armor"][table_key]}
+        valid_ids = {
+            identifier for identifier, japanese in enumerate(game_names)
+            if identifier == 0 or japanese not in {"装備なし", "装備無し"}
+        }
+        if set(entries) != valid_ids:
+            raise ValueError(
+                f"{table_key}: crosswalk IDs differ from non-empty game-resource IDs; "
+                f"missing={sorted(valid_ids - set(entries))[:10]}, extra={sorted(set(entries) - valid_ids)[:10]}"
+            )
         rows = []
-        for entry in crosswalk["armor"][Path(file_name).stem]:
-            save_id = int(entry["save_id"])
+        for save_id, japanese in enumerate(game_names):
+            if save_id not in valid_ids:
+                continue
+            entry = entries[save_id]
             dex_id = int(entry["dex_id"])
             if save_id == 0:
-                rows.append(none_row(language, equipment=True))
+                rows.append({**none_row(language, equipment=True), "source": GAME_SOURCE})
             elif dex_id < 0:
                 english = str(entry["english"])
                 rows.append({
                     "id": save_id,
                     "name": english,
                     "english": english,
-                    "source": SAVE_FALLBACK_SOURCE if language == "cn" else SAVE_SOURCE,
+                    "source": GAME_SOURCE + "+" + SAVE_SOURCE,
                     "rarity": 0,
                 })
             else:
+                require_game_match(
+                    f"{table_key} ID {save_id}", japanese, armor_names[dex_id]["Amr_Name_3"]
+                )
                 name, english, source = localized(armor_names[dex_id], "Amr_Name_", language)
                 rows.append({
                     "id": save_id,
                     "name": name,
                     "english": english,
-                    "source": source + "+" + SAVE_SOURCE,
+                    "source": GAME_SOURCE + "+" + source + "+" + SAVE_SOURCE,
                     "rarity": int(armor_data[dex_id]["Rare"]),
                 })
-        rows.sort(key=lambda row: int(row["id"]))
         counts[file_name] = write_csv(output / file_name, EQUIPMENT_COLUMNS, rows)
 
     weapon_data = {int(row["Wpn_ID"]): row for row in read_csv(sql_dir / "DB_Wpn.csv")}
     weapon_names = {int(row["Wpn_ID"]): row for row in read_csv(sql_dir / "ID_Wpn_Name.csv")}
     weapon_columns = EQUIPMENT_COLUMNS + ("max_level",)
     for base_name, mapping in crosswalk["weapons"].items():
-        rows = [{**none_row(language, equipment=True), "max_level": 0}]
-        for entry in mapping[1:]:
+        game_names = game_tables[base_name]
+        entries = {int(entry["save_id"]): entry for entry in mapping}
+        if set(entries) != set(range(len(game_names))):
+            raise ValueError(f"{base_name}: crosswalk does not cover every game-resource ID")
+        rows = [{**none_row(language, equipment=True), "source": GAME_SOURCE, "max_level": 0}]
+        for save_id, japanese in enumerate(game_names[1:], 1):
+            entry = entries[save_id]
             dex_id = int(entry["dex_id"])
             if dex_id < 0:
-                english = str(entry["english"])
+                translation = GAME_ONLY_WEAPON_NAMES.get((base_name, save_id))
+                if translation is None or translation[0] != japanese.strip():
+                    raise ValueError(
+                        f"{base_name} ID {save_id}: missing reviewed translation for {japanese!r}"
+                    )
+                _reviewed_japanese, chinese, english = translation
                 rows.append(
                     {
                         "id": entry["save_id"],
-                        "name": english,
+                        "name": chinese if language == "cn" else english,
                         "english": english,
-                        "source": SAVE_FALLBACK_SOURCE if language == "cn" else SAVE_SOURCE,
+                        "source": GAME_SOURCE + "+" + GAME_ONLY_TRANSLATION_SOURCE,
                         "rarity": 0,
                         "max_level": entry["max_level"],
                     }
                 )
                 continue
+            require_game_match(
+                f"{base_name} ID {save_id}", japanese, weapon_names[dex_id]["Wpn_Name_3"]
+            )
             name, english, source = localized(weapon_names[dex_id], "Wpn_Name_", language)
             rows.append(
                 {
                     "id": entry["save_id"],
                     "name": strip_level(name),
                     "english": strip_level(english),
-                    "source": source + "+" + SAVE_SOURCE,
+                    "source": GAME_SOURCE + "+" + source + "+" + SAVE_SOURCE,
                     "rarity": int(weapon_data[dex_id]["Rare"]),
                     "max_level": entry["max_level"],
                 }
@@ -334,38 +447,66 @@ def build_language(
     peli_weapon_data = {int(row["PeliWpn_ID"]): row for row in read_csv(sql_dir / "DB_PeliWpn.csv")}
     peli_weapon_names = {int(row["PeliWpn_ID"]): row for row in read_csv(sql_dir / "ID_PeliWpn_Name.csv")}
     palico_weapons = []
-    for entry in crosswalk["palico_equipment"]["palico_weapons"]:
-        save_id, dex_id = int(entry["save_id"]), int(entry["dex_id"])
+    palico_weapon_entries = {
+        int(entry["save_id"]): entry for entry in crosswalk["palico_equipment"]["palico_weapons"]
+    }
+    if set(palico_weapon_entries) != set(range(len(game_tables["palico_weapons"]))):
+        raise ValueError("Palico weapon crosswalk does not cover every game-resource ID")
+    for save_id, japanese in enumerate(game_tables["palico_weapons"]):
+        entry = palico_weapon_entries[save_id]
+        dex_id = int(entry["dex_id"])
         if save_id == 0:
-            palico_weapons.append(none_row(language, equipment=True))
+            palico_weapons.append({**none_row(language, equipment=True), "source": GAME_SOURCE})
         elif dex_id < 0:
             english = str(entry["english"])
             palico_weapons.append({"id": save_id, "name": english, "english": english,
-                "source": SAVE_FALLBACK_SOURCE if language == "cn" else SAVE_SOURCE, "rarity": 0})
+                "source": GAME_SOURCE + "+" + SAVE_SOURCE, "rarity": 0})
         else:
+            require_game_match(
+                f"palico_weapons ID {save_id}", japanese,
+                peli_weapon_names[dex_id]["PeliWpn_Name_3"],
+            )
             name, english, source = localized(peli_weapon_names[dex_id], "PeliWpn_Name_", language)
             palico_weapons.append({"id": save_id, "name": name, "english": english,
-                "source": source + "+" + SAVE_SOURCE, "rarity": int(peli_weapon_data[dex_id]["Rare"])})
-    palico_weapons.sort(key=lambda row: int(row["id"]))
+                "source": GAME_SOURCE + "+" + source + "+" + SAVE_SOURCE,
+                "rarity": int(peli_weapon_data[dex_id]["Rare"])})
     counts["palico_weapons.csv"] = write_csv(output / "palico_weapons.csv", EQUIPMENT_COLUMNS, palico_weapons)
 
     peli_armor_data = {int(row["PeliAmr_ID"]): row for row in read_csv(sql_dir / "DB_PeliAmr.csv")}
     peli_armor_names = {int(row["PeliAmr_ID"]): row for row in read_csv(sql_dir / "ID_PeliAmr_Name.csv")}
     for file_name, part in (("palico_head.csv", 11), ("palico_armor.csv", 12)):
+        table_key = Path(file_name).stem
+        game_names = game_tables[table_key]
+        entries = {
+            int(entry["save_id"]): entry for entry in crosswalk["palico_equipment"][table_key]
+        }
+        valid_ids = {
+            identifier for identifier, japanese in enumerate(game_names)
+            if japanese != "―"
+        }
+        if set(entries) != valid_ids:
+            raise ValueError(f"{table_key}: crosswalk IDs differ from non-empty game-resource IDs")
         rows = []
-        for entry in crosswalk["palico_equipment"][Path(file_name).stem]:
-            save_id, dex_id = int(entry["save_id"]), int(entry["dex_id"])
+        for save_id, japanese in enumerate(game_names):
+            if save_id not in valid_ids:
+                continue
+            entry = entries[save_id]
+            dex_id = int(entry["dex_id"])
             if save_id == 0:
-                rows.append(none_row(language, equipment=True))
+                rows.append({**none_row(language, equipment=True), "source": GAME_SOURCE})
             elif dex_id < 0:
                 english = str(entry["english"])
                 rows.append({"id": save_id, "name": english, "english": english,
-                    "source": SAVE_FALLBACK_SOURCE if language == "cn" else SAVE_SOURCE, "rarity": 0})
+                    "source": GAME_SOURCE + "+" + SAVE_SOURCE, "rarity": 0})
             else:
+                require_game_match(
+                    f"{table_key} ID {save_id}", japanese,
+                    peli_armor_names[dex_id]["PeliAmr_Name_3"],
+                )
                 name, english, source = localized(peli_armor_names[dex_id], "PeliAmr_Name_", language)
                 rows.append({"id": save_id, "name": name, "english": english,
-                    "source": source + "+" + SAVE_SOURCE, "rarity": int(peli_armor_data[dex_id]["Rare"])})
-        rows.sort(key=lambda row: int(row["id"]))
+                    "source": GAME_SOURCE + "+" + source + "+" + SAVE_SOURCE,
+                    "rarity": int(peli_armor_data[dex_id]["Rare"])})
         counts[file_name] = write_csv(output / file_name, EQUIPMENT_COLUMNS, rows)
 
     palico = crosswalk["palico"]
@@ -446,11 +587,14 @@ def readme_text() -> str:
 This directory is generated by `tools/build_data.py`. Do not edit the CSV
 files by hand.
 
-- `cn/` uses Simplified Chinese names from the pinned MHXX Dex. Missing Dex
-  translations use English and are marked with an `-en-fallback` source.
+- All item, hunter equipment and Palico equipment IDs come from zero-based
+  arrays in the game's own `RomFS/table` resources. Dex supplies translations
+  and attributes only; its Japanese names must exactly match the game slot.
+- `cn/` uses Simplified Chinese names from the pinned MHXX Dex. Game-only
+  ammunition and placeholder slots use explicit translations or DUMMY labels.
 - `en/` uses English names in both `name` and `english`.
-- Equipment IDs are on-disk save IDs. Weapon tree IDs are joined to Dex root
-  rows through the reviewed crosswalk in `tools/reference/`.
+- Equipment crosswalks no longer assign IDs: they attach Dex metadata to the
+  game array index and fail generation on any Japanese-name mismatch.
 - MHGU has no MH4G-style relic equipment, so no relic-only fields are emitted.
 - Palico weapons/head/body armor come from Dex. Support-move names are reviewed
   against the linked Bahamut MHXX article and Axibug wiki; passive-skill names
@@ -463,14 +607,15 @@ files by hand.
   [Bahamut MHXX Palico article](https://forum.gamer.com.tw/Co.php?bsn=5786&sn=829755),
   [Axibug support moves](https://mhwiki.axibug.com/mhxx-wiki/data/2832.html),
   [Axibug passive skills](https://mhwiki.axibug.com/mhxx-wiki/data/2829.html).
-- Raw Dex runtime dumps, player saves, and reference editor source trees are
-  research inputs and are intentionally not committed.
+- CCI/RomFS resources, raw Dex runtime dumps, player saves, and reference
+  editor source trees are research inputs and are intentionally not committed.
 
 Rebuild and validate:
 
 ```bash
-python3 tools/build_data.py --input /path/to/mhxx-dex-raw --output data
-python3 tools/validate_data.py data
+python3 tools/export_game_names.py /path/to/extracted/romfs/table /tmp/mhxx-game-names.json
+python3 tools/build_data.py --input /path/to/mhxx-dex-raw --game-names /tmp/mhxx-game-names.json --output data
+python3 tools/validate_data.py data --game-names /tmp/mhxx-game-names.json
 ```
 
 Create the raw dump on 32-bit-capable Windows first:
@@ -486,6 +631,7 @@ powershell -ExecutionPolicy Bypass -File .\tools\run_windows.ps1 `
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", type=Path, required=True)
+    parser.add_argument("--game-names", type=Path, required=True)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument(
         "--crosswalk",
@@ -511,13 +657,24 @@ def main() -> int:
     if crosswalk.get("format") != "mhxx-save-data-crosswalk-v1":
         raise ValueError("unsupported save-data crosswalk")
     palico_translations = index_palico_translations(read_json(args.palico_cn), crosswalk)
+    game_export = read_json(args.game_names)
+    if game_export.get("format") != GAME_EXPORT_FORMAT or game_export.get("language") != "jp":
+        raise ValueError("unsupported or invalid MHXX game name export")
+    game_tables = game_export.get("tables")
+    required_game_tables = {
+        "items", *(Path(file_name).stem for file_name, _part in ARMOR),
+        *crosswalk["weapons"].keys(), "palico_weapons", "palico_head", "palico_armor",
+    }
+    if not isinstance(game_tables, dict) or set(game_tables) != required_game_tables:
+        raise ValueError("game name export table set differs from the required save-ID tables")
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     temp_root = Path(tempfile.mkdtemp(prefix="mhxx-data-", dir=str(args.output.parent)))
     try:
         counts = {
             language: build_language(
-                args.input / "direct_sql", crosswalk, palico_translations, language, temp_root / language
+                args.input / "direct_sql", crosswalk, game_tables,
+                palico_translations, language, temp_root / language
             )
             for language in ("cn", "en")
         }
@@ -534,6 +691,13 @@ def main() -> int:
                 "mhxx_dex_exe_sha256": expected,
                 "save_data_crosswalk_sha256": sha256(args.crosswalk),
                 "palico_cn_translation_sha256": sha256(args.palico_cn),
+            },
+            "game_resource": {
+                "format": game_export["format"],
+                "language": game_export["language"],
+                "export_sha256": sha256(args.game_names),
+                "sources": game_export.get("sources", []),
+                "tables": {key: len(game_tables[key]) for key in sorted(game_tables)},
             },
             "files": files,
         }

@@ -1,128 +1,128 @@
 id,name,english,source,rarity,max_level
-0,无,None,mhxx-save-format-community,0,0
-1,贝鲁纳长枪,Petrified Lance,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,黑曜石长枪,Obsidian Lance,mhxx-dex-1.0+mhxx-save-format-community,3,8
-3,斑斓十字,Cross Coloris,mhxx-dex-1.0+mhxx-save-format-community,2,8
-4,方天戟【乌】,Incessant Raven,mhxx-dex-1.0+mhxx-save-format-community,3,7
-5,方天戟【兇】,Incessant Evil,mhxx-dex-1.0+mhxx-save-format-community,6,5
-6,弯曲爬虫,Twistcrawl,mhxx-dex-1.0+mhxx-save-format-community,2,7
-7,扭曲爬虫,Twisting Crawler,mhxx-dex-1.0+mhxx-save-format-community,5,5
-8,山脉战矛,Boros Spear,mhxx-dex-1.0+mhxx-save-format-community,6,5
-9,蛇枪【蛇神】,Naag Serpentblade,mhxx-dex-1.0+mhxx-save-format-community,2,8
-10,铁长枪,Iron Lance,mhxx-dex-1.0+mhxx-save-format-community,1,11
-11,赛因斯长枪,Squire Spear,mhxx-dex-1.0+mhxx-save-format-community,4,7
-12,刺铠长枪,Estoc,mhxx-dex-1.0+mhxx-save-format-community,2,7
-13,圣骑士长枪,Paladin Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-14,巴别塔,Babel Spear,mhxx-dex-1.0+mhxx-save-format-community,5,6
-15,击龙枪【哼】,Growling Wyvern,mhxx-dex-1.0+mhxx-save-format-community,4,7
-16,轰龙之刺,Tiger Stinger,mhxx-dex-1.0+mhxx-save-format-community,3,7
-17,熔岩锥,Lava Cone,mhxx-dex-1.0+mhxx-save-format-community,5,5
-18,神圣长枪,Thane Lance,mhxx-dex-1.0+mhxx-save-format-community,1,10
-19,十字长枪,Acrus Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-20,雷枪多利斯,Doris Spear,mhxx-dex-1.0+mhxx-save-format-community,6,6
-21,钢壳铁骑枪,Steel Knight's Pike,mhxx-dex-1.0+mhxx-save-format-community,3,7
-22,龙骑枪盖伯加,Dragon Rider Spear,mhxx-dex-1.0+mhxx-save-format-community,6,6
-23,钻头长枪,Drill Lance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-24,隐秘穿刺,Hidden Stinger,mhxx-dex-1.0+mhxx-save-format-community,2,8
-25,锐利长枪,Spiked Spear,mhxx-dex-1.0+mhxx-save-format-community,1,8
-26,水龙矛,Aqua Spear,mhxx-dex-1.0+mhxx-save-format-community,4,6
-27,摇篮曲之矛,Rockabye Spear,mhxx-dex-1.0+mhxx-save-format-community,5,6
-28,雷枪【雷】,Thunderspear,mhxx-dex-1.0+mhxx-save-format-community,3,8
-29,43式强袭枪,Type 43 Dragonlance,mhxx-dex-1.0+mhxx-save-format-community,2,7
-30,骨长枪,Bone Lance,mhxx-dex-1.0+mhxx-save-format-community,1,11
-31,长角长枪,Longhorn Spear,mhxx-dex-1.0+mhxx-save-format-community,1,8
-32,巨牙之牙,Giant Tusk,mhxx-dex-1.0+mhxx-save-format-community,5,6
-33,长枪天囷一,Harbah Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-34,叛逆绝枪,Seditious Lance,mhxx-dex-1.0+mhxx-save-format-community,6,6
-35,蛮族獠牙,Barbarian Tusk,mhxx-dex-1.0+mhxx-save-format-community,3,8
-36,灼炎獠牙,Barbaroi Tusk,mhxx-dex-1.0+mhxx-save-format-community,4,6
-37,骨爪长枪,Bone Claw Lance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-38,将军镰蟹刺击者,Ceanataur Stinger,mhxx-dex-1.0+mhxx-save-format-community,2,8
-39,赤甲兽之枪,Volvi Stroke,mhxx-dex-1.0+mhxx-save-format-community,2,8
-40,尖锐长枪,Ploshasta,mhxx-dex-1.0+mhxx-save-format-community,1,9
-41,螺旋炎枪,Spiral Heat,mhxx-dex-1.0+mhxx-save-format-community,6,6
-42,王枪天雷,Usurper's Coming,mhxx-dex-1.0+mhxx-save-format-community,3,7
-43,水兽骨枪,Ludroth Bone Spear,mhxx-dex-1.0+mhxx-save-format-community,1,7
-44,螺旋长枪,Spiral Lance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-45,黑暗长枪,Dark Lance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-46,狂野长枪,Wild Boar Lance,mhxx-dex-1.0+mhxx-save-format-community,1,9
-47,鬼枪金狮子,Demon Lance,mhxx-dex-1.0+mhxx-save-format-community,6,6
-48,鬼神天枪,Demonlord Spear,mhxx-dex-1.0+mhxx-save-format-community,7,5
-49,刺枪,Expelger,mhxx-dex-1.0+mhxx-save-format-community,4,6
-50,刺枪碎肉,Expelgouger,mhxx-dex-1.0+mhxx-save-format-community,5,6
-51,卢卡尼亚之锯,Carnivicious,mhxx-dex-1.0+mhxx-save-format-community,4,6
-52,飓风鱼雷,Omnivicious,mhxx-dex-1.0+mhxx-save-format-community,5,5
-53,碎龙尖刺,Dios Stinger,mhxx-dex-1.0+mhxx-save-format-community,3,7
-54,爆碎豪枪,Demolition Lance,mhxx-dex-1.0+mhxx-save-format-community,6,6
-55,赤尾长枪,Red Tail,mhxx-dex-1.0+mhxx-save-format-community,3,8
-56,白银日珥,Silver Prominence,mhxx-dex-1.0+mhxx-save-format-community,7,5
-57,绿宝石尾枪,Verdant Tail,mhxx-dex-1.0+mhxx-save-format-community,3,9
-58,巨兽矛,Giant's Jouster,mhxx-dex-1.0+mhxx-save-format-community,3,9
-59,狐枪【知谢芬芳益】,Hana mo Hana Nare,mhxx-dex-1.0+mhxx-save-format-community,3,9
-60,灼炎长枪,Svarog Blazer,mhxx-dex-1.0+mhxx-save-format-community,3,9
-61,护盾of诚信,Eiferschild,mhxx-dex-1.0+mhxx-save-format-community,3,7
-62,THE守护者,L'Égide,mhxx-dex-1.0+mhxx-save-format-community,3,8
-63,悲哀重枪,Grief Lance,mhxx-dex-1.0+mhxx-save-format-community,6,7
-64,名为摩羯的白骸,Skeletal Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-65,极星枪【摩羯】,Astral Capricorn,mhxx-dex-1.0+mhxx-save-format-community,7,5
-66,崩枪掘削大地,Ukanlos Calamity,mhxx-dex-1.0+mhxx-save-format-community,7,5
-67,煌黑锐枪,Alatreon Lance,mhxx-dex-1.0+mhxx-save-format-community,7,5
-68,凶矛【凌云】,Ominous Cloud,mhxx-dex-1.0+mhxx-save-format-community,7,5
-69,严重锈蚀的长枪,Rusted Lance,mhxx-dex-1.0+mhxx-save-format-community,1,3
-70,英勇长枪,Undertaker,mhxx-dex-1.0+mhxx-save-format-community,3,6
-71,钢冰枪,Icesteel Spear,mhxx-dex-1.0+mhxx-save-format-community,3,6
-72,严重风化的长枪,Worn Spear,mhxx-dex-1.0+mhxx-save-format-community,4,7
-73,摩天楼,Skyscraper,mhxx-dex-1.0+mhxx-save-format-community,6,5
-74,炎王怒吼,Teostra's Howl,mhxx-dex-1.0+mhxx-save-format-community,7,5
-75,蓝色陨石,Blue Crater,mhxx-dex-1.0+mhxx-save-format-community,2,8
-76,黑枪,Black Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-77,结云之枪,Yukumo Lance,mhxx-dex-1.0+mhxx-save-format-community,1,8
-78,真结云枪,Yukumo Purelance,mhxx-dex-1.0+mhxx-save-format-community,3,6
-79,热酪长枪,Fondue Lance,mhxx-dex-1.0+mhxx-save-format-community,2,7
-80,风旋之飞艇,Blimp Lance,mhxx-dex-1.0+mhxx-save-format-community,2,6
-81,合战枪,Frontrider Lance,mhxx-dex-1.0+mhxx-save-format-community,2,6
-82,土著长枪,Native Spear,mhxx-dex-1.0+mhxx-save-format-community,2,6
-83,真空搋子,Vacuum Striker,mhxx-dex-1.0+mhxx-save-format-community,2,6
-84,芬芳长枪,Fragrance,mhxx-dex-1.0+mhxx-save-format-community,2,6
-85,鲨鱼皇子,Sharq Byte,mhxx-dex-1.0+mhxx-save-format-community,3,6
-86,麻蕈刺枪,Plegis Needle,mhxx-dex-1.0+mhxx-save-format-community,2,6
-87,守护者长枪,Guardian Lance,mhxx-dex-1.0+mhxx-save-format-community,5,5
-88,阿剌克涅之枪,Alacrantze,mhxx-dex-1.0+mhxx-save-format-community,3,7
-89,黑带长枪,Black Belt Lance,mhxx-dex-1.0+mhxx-save-format-community,3,6
-90,达人长枪,Expert Lance,mhxx-dex-1.0+mhxx-save-format-community,6,5
-91,蟹纹长枪,Stonefist Lance,mhxx-dex-1.0+mhxx-save-format-community,11,15
-92,紫毒姬荆棘刺,Dreadqueen Thorn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-93,疾风穿刺枪,Gale Stinger,mhxx-dex-1.0+mhxx-save-format-community,11,15
-94,方天戟【祸】,Incessant Calamity,mhxx-dex-1.0+mhxx-save-format-community,11,15
-95,黑炎王长枪,Groad Tail,mhxx-dex-1.0+mhxx-save-format-community,11,15
-96,金狼枪天雷,Thunderlord Tenrai,mhxx-dex-1.0+mhxx-save-format-community,11,15
-97,暴风神穿刺枪,Rudra Stinger,mhxx-dex-1.0+mhxx-save-format-community,11,15
-98,爆焰长枪,Svarog Boomer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-99,火狐枪,Brain Fox,mhxx-dex-1.0+mhxx-save-format-community,6,5
-100,宝枪之金属器,Goldspear,mhxx-dex-1.0+mhxx-save-format-community,10,3
-101,银翼尖枪,Silverwing Spear,mhxx-dex-1.0+mhxx-save-format-community,7,6
-102,青电主长枪,Zephra Tail,mhxx-dex-1.0+mhxx-save-format-community,11,5
-103,天眼枪･飞花落叶,Hika Rakuyo,mhxx-dex-1.0+mhxx-save-format-community,11,5
-104,银峰枪,Elderfrost Lance,mhxx-dex-1.0+mhxx-save-format-community,11,5
-105,屠杀角,Massacre Lance,mhxx-dex-1.0+mhxx-save-format-community,11,5
-106,铠裂长枪,Razor Stinger,mhxx-dex-1.0+mhxx-save-format-community,11,5
-107,胧隐长枪,Cloaked Coloris,mhxx-dex-1.0+mhxx-save-format-community,11,5
-108,巨龙枪,Vermilion Rim,mhxx-dex-1.0+mhxx-save-format-community,10,3
-109,黑灭龙枪,Ruiner Lance,mhxx-dex-1.0+mhxx-save-format-community,10,3
-110,祖龙灵枪,O. Fatalis Lance,mhxx-dex-1.0+mhxx-save-format-community,10,3
-111,碎光炎枪,Lightbreak Lance,mhxx-dex-1.0+mhxx-save-format-community,10,3
-112,正直or虚伪,Ehrlich/Faux,mhxx-dex-1.0+mhxx-save-format-community,10,3
-113,剧毒长枪,Venom Lance,mhxx-dex-1.0+mhxx-save-format-community,4,6
-114,铠龙豪枪,Gravios Spear,mhxx-dex-1.0+mhxx-save-format-community,5,5
-115,角龙角,Diablos Lance,mhxx-dex-1.0+mhxx-save-format-community,6,5
-116,冰牙锐枪,Tusk Lance,mhxx-dex-1.0+mhxx-save-format-community,5,5
-117,土砂长枪,Rugged Lance,mhxx-dex-1.0+mhxx-save-format-community,4,6
-118,火花塞长枪,Spark Plug,mhxx-dex-1.0+mhxx-save-format-community,5,6
-119,晕厥长枪,Shock Lance,mhxx-dex-1.0+mhxx-save-format-community,4,6
-120,终极黑暗长枪,Dark,mhxx-dex-1.0+mhxx-save-format-community,8,3
-121,花蕾长枪,Noble Fragrance,mhxx-dex-1.0+mhxx-save-format-community,8,3
-122,首航纪念之巴罗尼,Memento Baroni,mhxx-dex-1.0+mhxx-save-format-community,8,3
-123,标记未解之枪,Research Lance,mhxx-dex-1.0+mhxx-save-format-community,6,5
-124,【你好啊】,Ace Lance,mhxx-dex-1.0+mhxx-save-format-community,9,3
-125,奶酪长枪,Gorgonzolance,mhxx-dex-1.0+mhxx-save-format-community,8,3
-126,长者长枪,Elder Lance,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,无,None,mhxx-romfs-game-array,0,0
+1,贝鲁纳长枪,Petrified Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石长枪,Obsidian Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,斑斓十字,Cross Coloris,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+4,方天戟【乌】,Incessant Raven,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+5,方天戟【兇】,Incessant Evil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+6,弯曲爬虫,Twistcrawl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+7,扭曲爬虫,Twisting Crawler,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+8,山脉战矛,Boros Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+9,蛇枪【蛇神】,Naag Serpentblade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+10,铁长枪,Iron Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+11,赛因斯长枪,Squire Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+12,刺铠长枪,Estoc,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+13,圣骑士长枪,Paladin Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+14,巴别塔,Babel Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+15,击龙枪【哼】,Growling Wyvern,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+16,轰龙之刺,Tiger Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+17,熔岩锥,Lava Cone,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+18,神圣长枪,Thane Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,10
+19,十字长枪,Acrus Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+20,雷枪多利斯,Doris Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+21,钢壳铁骑枪,Steel Knight's Pike,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,龙骑枪盖伯加,Dragon Rider Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+23,钻头长枪,Drill Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+24,隐秘穿刺,Hidden Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+25,锐利长枪,Spiked Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+26,水龙矛,Aqua Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+27,摇篮曲之矛,Rockabye Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+28,雷枪【雷】,Thunderspear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+29,43式强袭枪,Type 43 Dragonlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+30,骨长枪,Bone Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+31,长角长枪,Longhorn Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+32,巨牙之牙,Giant Tusk,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+33,长枪天囷一,Harbah Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+34,叛逆绝枪,Seditious Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+35,蛮族獠牙,Barbarian Tusk,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+36,灼炎獠牙,Barbaroi Tusk,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+37,骨爪长枪,Bone Claw Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+38,将军镰蟹刺击者,Ceanataur Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+39,赤甲兽之枪,Volvi Stroke,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+40,尖锐长枪,Ploshasta,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+41,螺旋炎枪,Spiral Heat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+42,王枪天雷,Usurper's Coming,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+43,水兽骨枪,Ludroth Bone Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,7
+44,螺旋长枪,Spiral Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+45,黑暗长枪,Dark Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+46,狂野长枪,Wild Boar Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+47,鬼枪金狮子,Demon Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+48,鬼神天枪,Demonlord Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+49,刺枪,Expelger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+50,刺枪碎肉,Expelgouger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+51,卢卡尼亚之锯,Carnivicious,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+52,飓风鱼雷,Omnivicious,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+53,碎龙尖刺,Dios Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,爆碎豪枪,Demolition Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+55,赤尾长枪,Red Tail,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+56,白银日珥,Silver Prominence,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+57,绿宝石尾枪,Verdant Tail,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+58,巨兽矛,Giant's Jouster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+59,狐枪【知谢芬芳益】,Hana mo Hana Nare,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+60,灼炎长枪,Svarog Blazer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+61,护盾of诚信,Eiferschild,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+62,THE守护者,L'Égide,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+63,悲哀重枪,Grief Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,7
+64,名为摩羯的白骸,Skeletal Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+65,极星枪【摩羯】,Astral Capricorn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+66,崩枪掘削大地,Ukanlos Calamity,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+67,煌黑锐枪,Alatreon Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+68,凶矛【凌云】,Ominous Cloud,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+69,严重锈蚀的长枪,Rusted Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,3
+70,英勇长枪,Undertaker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+71,钢冰枪,Icesteel Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+72,严重风化的长枪,Worn Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+73,摩天楼,Skyscraper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+74,炎王怒吼,Teostra's Howl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+75,蓝色陨石,Blue Crater,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+76,黑枪,Black Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+77,结云之枪,Yukumo Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+78,真结云枪,Yukumo Purelance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+79,热酪长枪,Fondue Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+80,风旋之飞艇,Blimp Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+81,合战枪,Frontrider Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+82,土著长枪,Native Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+83,真空搋子,Vacuum Striker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+84,芬芳长枪,Fragrance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+85,鲨鱼皇子,Sharq Byte,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+86,麻蕈刺枪,Plegis Needle,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+87,守护者长枪,Guardian Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+88,阿剌克涅之枪,Alacrantze,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+89,黑带长枪,Black Belt Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+90,达人长枪,Expert Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+91,蟹纹长枪,Stonefist Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+92,紫毒姬荆棘刺,Dreadqueen Thorn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+93,疾风穿刺枪,Gale Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+94,方天戟【祸】,Incessant Calamity,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+95,黑炎王长枪,Groad Tail,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+96,金狼枪天雷,Thunderlord Tenrai,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+97,暴风神穿刺枪,Rudra Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+98,爆焰长枪,Svarog Boomer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+99,火狐枪,Brain Fox,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+100,宝枪之金属器,Goldspear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+101,银翼尖枪,Silverwing Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+102,青电主长枪,Zephra Tail,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+103,天眼枪･飞花落叶,Hika Rakuyo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+104,银峰枪,Elderfrost Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+105,屠杀角,Massacre Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+106,铠裂长枪,Razor Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+107,胧隐长枪,Cloaked Coloris,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+108,巨龙枪,Vermilion Rim,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+109,黑灭龙枪,Ruiner Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+110,祖龙灵枪,O. Fatalis Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+111,碎光炎枪,Lightbreak Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+112,正直or虚伪,Ehrlich/Faux,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+113,剧毒长枪,Venom Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+114,铠龙豪枪,Gravios Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+115,角龙角,Diablos Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+116,冰牙锐枪,Tusk Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+117,土砂长枪,Rugged Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+118,火花塞长枪,Spark Plug,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+119,晕厥长枪,Shock Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+120,终极黑暗长枪,Dark,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+121,花蕾长枪,Noble Fragrance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+122,首航纪念之巴罗尼,Memento Baroni,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+123,标记未解之枪,Research Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+124,【你好啊】,Ace Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+125,奶酪长枪,Gorgonzolance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+126,长者长枪,Elder Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

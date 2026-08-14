@@ -1,110 +1,110 @@
 id,name,english,source,rarity,max_level
-0,无,None,mhxx-save-format-community,0,0
-1,贝鲁纳加农炮,Petrified Cannon,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,妃龙炮【远击】,Queen's Longfire,mhxx-dex-1.0+mhxx-save-format-community,5,6
-3,黑曜石加农炮,Obsidian Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,6
-4,集气虫炮,Griffin's Charge,mhxx-dex-1.0+mhxx-save-format-community,5,5
-5,破坏者蟹弩,Crab Buster,mhxx-dex-1.0+mhxx-save-format-community,2,8
-6,穿刺棒,Piercing Crab,mhxx-dex-1.0+mhxx-save-format-community,4,6
-7,白兔射手,Spheniscine Slayer,mhxx-dex-1.0+mhxx-save-format-community,2,7
-8,隐秘狙击手,Hidden Gambit,mhxx-dex-1.0+mhxx-save-format-community,2,8
-9,雪鹿弩,Anteka Burst,mhxx-dex-1.0+mhxx-save-format-community,1,7
-10,速射狙击弩,Rapidcaster,mhxx-dex-1.0+mhxx-save-format-community,4,5
-11,开伦弩,Carom Shot,mhxx-dex-1.0+mhxx-save-format-community,2,6
-12,炎戈击弩,Agnaboom,mhxx-dex-1.0+mhxx-save-format-community,5,5
-13,潜沙者,Sand Diver,mhxx-dex-1.0+mhxx-save-format-community,1,8
-14,水龙弩,Pressurized Plaser,mhxx-dex-1.0+mhxx-save-format-community,4,6
-15,十字重弩,Arbalest,mhxx-dex-1.0+mhxx-save-format-community,1,11
-16,轰龙咆哮,Tigrex Howl,mhxx-dex-1.0+mhxx-save-format-community,3,6
-17,怪鸟炮,Yian Kut-Ku Cannon,mhxx-dex-1.0+mhxx-save-format-community,2,7
-18,火炮【乌】,Raven Heirloom,mhxx-dex-1.0+mhxx-save-format-community,3,7
-19,拜纳克鲁纳,Binary Blaster,mhxx-dex-1.0+mhxx-save-format-community,2,7
-20,战车魔术师,Tankmage,mhxx-dex-1.0+mhxx-save-format-community,2,7
-21,冰雪重弩,Icethrower,mhxx-dex-1.0+mhxx-save-format-community,2,7
-22,迅雷狙击弩,Quickcaster,mhxx-dex-1.0+mhxx-save-format-community,5,5
-23,注射重弩,Injector Cannon,mhxx-dex-1.0+mhxx-save-format-community,1,8
-24,终极蜂针,Flechette Gun,mhxx-dex-1.0+mhxx-save-format-community,4,6
-25,陨石火箭炮,Meteor Bazooka,mhxx-dex-1.0+mhxx-save-format-community,2,7
-26,陨石破坏者,Meteor Buster,mhxx-dex-1.0+mhxx-save-format-community,4,6
-27,讨伐队正式重炮,Striker's Bowgun,mhxx-dex-1.0+mhxx-save-format-community,4,5
-28,绞蛇咬弩,Bite Blaster,mhxx-dex-1.0+mhxx-save-format-community,2,6
-29,重弩天仓一,Sayyad Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,6
-30,叛逆怒炮,Seditious Cannon,mhxx-dex-1.0+mhxx-save-format-community,6,6
-31,骨制发射器,Bone Shooter,mhxx-dex-1.0+mhxx-save-format-community,1,11
-32,碎龙加农炮,Dios Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,5
-33,爆碎重炮,Demolition Cannon,mhxx-dex-1.0+mhxx-save-format-community,6,6
-34,46式潜伏重炮,Type 46 Gunflage,mhxx-dex-1.0+mhxx-save-format-community,2,7
-35,海龙闪击,Lagia Blitz,mhxx-dex-1.0+mhxx-save-format-community,3,7
-36,王炮雷弩,Usurper's Tremor,mhxx-dex-1.0+mhxx-save-format-community,3,6
-37,草食龙炮,Marino Burst,mhxx-dex-1.0+mhxx-save-format-community,1,7
-38,青熊筒,Arzuros Gun,mhxx-dex-1.0+mhxx-save-format-community,4,5
-39,荒绳鼓炮,Straw Drumcannon,mhxx-dex-1.0+mhxx-save-format-community,4,5
-40,绿山炮,Monteverde,mhxx-dex-1.0+mhxx-save-format-community,6,6
-41,矿石结晶新星,Shooting Star,mhxx-dex-1.0+mhxx-save-format-community,5,5
-42,电龙炮【进击】,Wyvern Blaster,mhxx-dex-1.0+mhxx-save-format-community,3,7
-43,巨兽炮,Giant's Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,7
-44,狐重炮【风过云雾散】,Cirrus Blaster,mhxx-dex-1.0+mhxx-save-format-community,3,7
-45,灼炎炮弩,Burning Igna,mhxx-dex-1.0+mhxx-save-format-community,3,7
-46,导火索of危机,Tödlicher Abzug,mhxx-dex-1.0+mhxx-save-format-community,3,5
-47,THE灾难,Le Désastre,mhxx-dex-1.0+mhxx-save-format-community,6,6
-48,钢龙坚弩,Daora's Delphinidae,mhxx-dex-1.0+mhxx-save-format-community,3,6
-49,霞龙浓雾重弩,Kamaeleon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-50,炎王大炮,Teostra's Artillery,mhxx-dex-1.0+mhxx-save-format-community,7,5
-51,名为天秤的白骸,Skeletal Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,6
-52,极星炮【天秤】,Cosmic Cannon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-53,暴食重弩,Gluttonous Cannon,mhxx-dex-1.0+mhxx-save-format-community,6,5
-54,业重弩饥荒,Endless Famine,mhxx-dex-1.0+mhxx-save-format-community,7,5
-55,霸炮缚神,Akantor Cannon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-56,崩炮醒世重击,Ukanlos Cannon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-57,混沌之翼,Chaos Wing,mhxx-dex-1.0+mhxx-save-format-community,7,5
-58,凶刻【时雨】,Ill Omen,mhxx-dex-1.0+mhxx-save-format-community,7,5
-59,云羊鹿炮,Moofire Cannon,mhxx-dex-1.0+mhxx-save-format-community,2,7
-60,英雄猎弩,Hero Blaster,mhxx-dex-1.0+mhxx-save-format-community,6,6
-61,黑加农炮,Black Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,6
-62,结云之重弩,Yukumo Bowgun,mhxx-dex-1.0+mhxx-save-format-community,1,8
-63,真结云重弩,Yukumo Puregun,mhxx-dex-1.0+mhxx-save-format-community,3,6
-64,七星大炮,Ladybug Cannon,mhxx-dex-1.0+mhxx-save-format-community,5,5
-65,南瓜击弩,Carrozza Bazooka,mhxx-dex-1.0+mhxx-save-format-community,4,5
-66,海造炮【火刃】,"Aquamatic ""Needler""",mhxx-dex-1.0+mhxx-save-format-community,3,5
-67,艾露猫大炮,Felyne Bowgun,mhxx-dex-1.0+mhxx-save-format-community,2,7
-68,炎妃龙之石重弩,Lunastra's Zeal,mhxx-dex-1.0+mhxx-save-format-community,2,6
-69,红熊轰筒,Crimson Bowgun,mhxx-dex-1.0+mhxx-save-format-community,11,15
-70,兔女神雪弩,Eeostopen Burst,mhxx-dex-1.0+mhxx-save-format-community,11,15
-71,蟹纹破坏者重弩,Stonefist Buster,mhxx-dex-1.0+mhxx-save-format-community,11,15
-72,紫毒姬龙炮,Dreadqueen Shot,mhxx-dex-1.0+mhxx-save-format-community,11,15
-73,黑绳鬼炮,Demonic Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,15
-74,疾风狙击弩,Silverwind Sniper,mhxx-dex-1.0+mhxx-save-format-community,11,15
-75,宝缠重弩,Grobo Shot,mhxx-dex-1.0+mhxx-save-format-community,11,15
-76,火炮【祸】,Cahoe Shot,mhxx-dex-1.0+mhxx-save-format-community,11,15
-77,金狼炮雷弩,Lord's Shot,mhxx-dex-1.0+mhxx-save-format-community,11,15
-78,暴风神怒号弩,Rudra's Howl,mhxx-dex-1.0+mhxx-save-format-community,11,15
-79,爆焰炮弩,Ashen Blaster,mhxx-dex-1.0+mhxx-save-format-community,11,15
-80,海盗J加农炮,Pirate Cannon J,mhxx-dex-1.0+mhxx-save-format-community,6,5
-81,宝炮之金属器,Goldcannon,mhxx-dex-1.0+mhxx-save-format-community,10,3
-82,银翼重炮,Silverwing Cannon,mhxx-dex-1.0+mhxx-save-format-community,7,6
-83,青电龙炮【急击】,Boltreaver Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,5
-84,天眼重炮･秋风凛冽,Bitter Breeze,mhxx-dex-1.0+mhxx-save-format-community,11,5
-85,银峰炮,Elderfrost Boom,mhxx-dex-1.0+mhxx-save-format-community,11,5
-86,屠杀重弩,Massacre Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,5
-87,铠裂重弩,Razor Piercer,mhxx-dex-1.0+mhxx-save-format-community,11,5
-88,胧隐重弩,Cloaked Horror,mhxx-dex-1.0+mhxx-save-format-community,11,5
-89,老山龙炮,Lao-Shan Lung Cannon,mhxx-dex-1.0+mhxx-save-format-community,10,3
-90,火山加农炮,Vor Cannon,mhxx-dex-1.0+mhxx-save-format-community,10,3
-91,命运日月弩,Destiny's Hand,mhxx-dex-1.0+mhxx-save-format-community,10,3
-92,祖龙重弩,Fatalis Enslaver,mhxx-dex-1.0+mhxx-save-format-community,10,3
-93,碎光极炮,Lightbreak Cannon,mhxx-dex-1.0+mhxx-save-format-community,10,3
-94,信任or背叛,Verrat/Foi,mhxx-dex-1.0+mhxx-save-format-community,10,3
-95,岩石吞噬者,Rock Eater,mhxx-dex-1.0+mhxx-save-format-community,4,5
-96,铠龙怒吼,Gravios Howl,mhxx-dex-1.0+mhxx-save-format-community,5,6
-97,决斗双角弩,Dual Threat,mhxx-dex-1.0+mhxx-save-format-community,6,5
-98,强力放臭者,Power Stinger,mhxx-dex-1.0+mhxx-save-format-community,5,6
-99,冰牙加农炮,Guerrera Cannon,mhxx-dex-1.0+mhxx-save-format-community,5,5
-100,影蜘蛛破坏弩,Ner Bustergun,mhxx-dex-1.0+mhxx-save-format-community,4,6
-101,王牙炮【震雷】,Loyal Thunder,mhxx-dex-1.0+mhxx-save-format-community,9,3
-102,炎戈炮轰击,Agna Magnum,mhxx-dex-1.0+mhxx-save-format-community,9,3
-103,窥探未解之重弩,Research Cannon,mhxx-dex-1.0+mhxx-save-format-community,6,5
-104,爱之指环,Cannonissimo,mhxx-dex-1.0+mhxx-save-format-community,9,3
-105,十字强重弩,Arbahefty,mhxx-dex-1.0+mhxx-save-format-community,6,5
-106,黄金乡之大炮,Magnificent El Dora Gun,mhxx-dex-1.0+mhxx-save-format-community,5,5
-107,长者加农炮,Elder Cannon,mhxx-dex-1.0+mhxx-save-format-community,8,3
-108,潜壕炮飞沫,Super Trench Snarfer,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,无,None,mhxx-romfs-game-array,0,0
+1,贝鲁纳加农炮,Petrified Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,妃龙炮【远击】,Queen's Longfire,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+3,黑曜石加农炮,Obsidian Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+4,集气虫炮,Griffin's Charge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+5,破坏者蟹弩,Crab Buster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+6,穿刺棒,Piercing Crab,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+7,白兔射手,Spheniscine Slayer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+8,隐秘狙击手,Hidden Gambit,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+9,雪鹿弩,Anteka Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,7
+10,速射狙击弩,Rapidcaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+11,开伦弩,Carom Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+12,炎戈击弩,Agnaboom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+13,潜沙者,Sand Diver,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+14,水龙弩,Pressurized Plaser,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+15,十字重弩,Arbalest,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+16,轰龙咆哮,Tigrex Howl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+17,怪鸟炮,Yian Kut-Ku Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+18,火炮【乌】,Raven Heirloom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+19,拜纳克鲁纳,Binary Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+20,战车魔术师,Tankmage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+21,冰雪重弩,Icethrower,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+22,迅雷狙击弩,Quickcaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+23,注射重弩,Injector Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+24,终极蜂针,Flechette Gun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+25,陨石火箭炮,Meteor Bazooka,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+26,陨石破坏者,Meteor Buster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+27,讨伐队正式重炮,Striker's Bowgun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+28,绞蛇咬弩,Bite Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+29,重弩天仓一,Sayyad Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+30,叛逆怒炮,Seditious Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+31,骨制发射器,Bone Shooter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+32,碎龙加农炮,Dios Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+33,爆碎重炮,Demolition Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+34,46式潜伏重炮,Type 46 Gunflage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+35,海龙闪击,Lagia Blitz,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+36,王炮雷弩,Usurper's Tremor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+37,草食龙炮,Marino Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,7
+38,青熊筒,Arzuros Gun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+39,荒绳鼓炮,Straw Drumcannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+40,绿山炮,Monteverde,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+41,矿石结晶新星,Shooting Star,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+42,电龙炮【进击】,Wyvern Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+43,巨兽炮,Giant's Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+44,狐重炮【风过云雾散】,Cirrus Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+45,灼炎炮弩,Burning Igna,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+46,导火索of危机,Tödlicher Abzug,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+47,THE灾难,Le Désastre,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+48,钢龙坚弩,Daora's Delphinidae,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+49,霞龙浓雾重弩,Kamaeleon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+50,炎王大炮,Teostra's Artillery,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+51,名为天秤的白骸,Skeletal Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+52,极星炮【天秤】,Cosmic Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+53,暴食重弩,Gluttonous Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+54,业重弩饥荒,Endless Famine,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+55,霸炮缚神,Akantor Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+56,崩炮醒世重击,Ukanlos Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+57,混沌之翼,Chaos Wing,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+58,凶刻【时雨】,Ill Omen,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+59,云羊鹿炮,Moofire Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+60,英雄猎弩,Hero Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+61,黑加农炮,Black Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+62,结云之重弩,Yukumo Bowgun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+63,真结云重弩,Yukumo Puregun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+64,七星大炮,Ladybug Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+65,南瓜击弩,Carrozza Bazooka,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+66,海造炮【火刃】,"Aquamatic ""Needler""",mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+67,艾露猫大炮,Felyne Bowgun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+68,炎妃龙之石重弩,Lunastra's Zeal,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+69,红熊轰筒,Crimson Bowgun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+70,兔女神雪弩,Eeostopen Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+71,蟹纹破坏者重弩,Stonefist Buster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+72,紫毒姬龙炮,Dreadqueen Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+73,黑绳鬼炮,Demonic Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+74,疾风狙击弩,Silverwind Sniper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+75,宝缠重弩,Grobo Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+76,火炮【祸】,Cahoe Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+77,金狼炮雷弩,Lord's Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+78,暴风神怒号弩,Rudra's Howl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+79,爆焰炮弩,Ashen Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+80,海盗J加农炮,Pirate Cannon J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+81,宝炮之金属器,Goldcannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+82,银翼重炮,Silverwing Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+83,青电龙炮【急击】,Boltreaver Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+84,天眼重炮･秋风凛冽,Bitter Breeze,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+85,银峰炮,Elderfrost Boom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+86,屠杀重弩,Massacre Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+87,铠裂重弩,Razor Piercer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+88,胧隐重弩,Cloaked Horror,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+89,老山龙炮,Lao-Shan Lung Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+90,火山加农炮,Vor Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+91,命运日月弩,Destiny's Hand,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+92,祖龙重弩,Fatalis Enslaver,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+93,碎光极炮,Lightbreak Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+94,信任or背叛,Verrat/Foi,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+95,岩石吞噬者,Rock Eater,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+96,铠龙怒吼,Gravios Howl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+97,决斗双角弩,Dual Threat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+98,强力放臭者,Power Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+99,冰牙加农炮,Guerrera Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+100,影蜘蛛破坏弩,Ner Bustergun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+101,王牙炮【震雷】,Loyal Thunder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+102,炎戈炮轰击,Agna Magnum,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+103,窥探未解之重弩,Research Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+104,爱之指环,Cannonissimo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+105,十字强重弩,Arbahefty,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+106,黄金乡之大炮,Magnificent El Dora Gun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+107,长者加农炮,Elder Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+108,潜壕炮飞沫,Super Trench Snarfer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

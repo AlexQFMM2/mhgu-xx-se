@@ -60,7 +60,9 @@ powershell -ExecutionPolicy Bypass -File .\build-windows.ps1 `
 
 `data/cn` 和 `data/en` 包含道具、装备、猫装备、58 个支援行动、97 个被动技能及
 猫猫合法生成规则。CSV 由 `tools/build_data.py` 确定性生成，不应手工维护；来源、
-固定 Dex 哈希和重建方法见 [`data/README.md`](data/README.md)。
+固定 Dex 哈希和重建方法见 [`data/README.md`](data/README.md)。道具、猎人装备及
+猫装备 ID 由 MHXX 游戏 `RomFS/table` 的 GMD 数组和配套计数表确定；Dex 只补
+中英文名称及属性。
 
 当前装备类型存档映射为：1 头、2 胸、3 腕、4 腰、5 腿、6 护石、7–20 十四种
 武器。GU 不生成 MH4G 的发掘装备数据。
@@ -69,6 +71,8 @@ powershell -ExecutionPolicy Bypass -File .\build-windows.ps1 `
 
 ```bash
 python3 tools/validate_data.py data
+# 本地保留游戏资源导出时可执行逐表 ID 集合复核：
+python3 tools/validate_data.py data --game-names /tmp/mhxx-game-names.json
 qmake tests/CoreTests.pro -o tests/build/Makefile
 make -C tests/build -j2
 ./tests/bin/mhgu_core_tests

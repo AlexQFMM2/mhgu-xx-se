@@ -1,116 +1,116 @@
 id,name,english,source,rarity,max_level
-0,None,None,mhxx-save-format-community,0,0
-1,Petrified Gunlance,Petrified Gunlance,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,Obsidian Gunlance,Obsidian Gunlance,mhxx-dex-1.0+mhxx-save-format-community,3,8
-3,Hard Hitter,Hard Hitter,mhxx-dex-1.0+mhxx-save-format-community,2,9
-4,Shattershot,Shattershot,mhxx-dex-1.0+mhxx-save-format-community,2,8
-5,Full Voltage,Full Voltage,mhxx-dex-1.0+mhxx-save-format-community,2,7
-6,Lagomberator,Lagomberator,mhxx-dex-1.0+mhxx-save-format-community,2,8
-7,Lagomberastrophe,Lagomberastrophe,mhxx-dex-1.0+mhxx-save-format-community,5,5
-8,Marine Fisher,Marine Fisher,mhxx-dex-1.0+mhxx-save-format-community,5,6
-9,Volcano Gunlance,Volcano Gunlance,mhxx-dex-1.0+mhxx-save-format-community,5,5
-10,Red Devil Gunlance,Red Devil Gunlance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-11,Blue Devil Uberlance,Blue Devil Uberlance,mhxx-dex-1.0+mhxx-save-format-community,5,6
-12,Flamethrower,Flamethrower,mhxx-dex-1.0+mhxx-save-format-community,6,5
-13,Iron Gunlance,Iron Gunlance,mhxx-dex-1.0+mhxx-save-format-community,1,11
-14,Seadiver,Seadiver,mhxx-dex-1.0+mhxx-save-format-community,4,6
-15,Deepbuster,Deepbuster,mhxx-dex-1.0+mhxx-save-format-community,5,5
-16,Jaya Gunlance,Jaya Gunlance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-17,Seditious Gunlance,Seditious Gunlance,mhxx-dex-1.0+mhxx-save-format-community,6,6
-18,Striker's Gunlance,Striker's Gunlance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-19,General's Arbalance,General's Arbalance,mhxx-dex-1.0+mhxx-save-format-community,4,7
-20,Red Rook,Red Rook,mhxx-dex-1.0+mhxx-save-format-community,3,8
-21,Silver Rook,Silver Rook,mhxx-dex-1.0+mhxx-save-format-community,7,5
-22,Lagia Burst,Lagia Burst,mhxx-dex-1.0+mhxx-save-format-community,3,8
-23,Dios Gunlance,Dios Gunlance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-24,Demolition Gunlance,Demolition Gunlance,mhxx-dex-1.0+mhxx-save-format-community,6,6
-25,Ancient Gyrelance,Ancient Gyrelance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-26,Type 62 Stormlance,Type 62 Stormlance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-27,Rogue Gunlance,Rogue Gunlance,mhxx-dex-1.0+mhxx-save-format-community,1,10
-28,Arya Gadda,Arya Gadda,mhxx-dex-1.0+mhxx-save-format-community,4,7
-29,Genenam Lance,Genenam Lance,mhxx-dex-1.0+mhxx-save-format-community,1,9
-30,Bone Gunlance,Bone Gunlance,mhxx-dex-1.0+mhxx-save-format-community,1,11
-31,Demon Gunlance,Demon Gunlance,mhxx-dex-1.0+mhxx-save-format-community,6,6
-32,Demonlord Artillery,Demonlord Artillery,mhxx-dex-1.0+mhxx-save-format-community,7,5
-33,Tiger Blast,Tiger Blast,mhxx-dex-1.0+mhxx-save-format-community,3,7
-34,Princess Panoply,Princess Panoply,mhxx-dex-1.0+mhxx-save-format-community,3,8
-35,Queen's Panoply,Queen's Panoply,mhxx-dex-1.0+mhxx-save-format-community,7,5
-36,Usurper's Roar,Usurper's Roar,mhxx-dex-1.0+mhxx-save-format-community,3,7
-37,Golem Gunlance,Golem Gunlance,mhxx-dex-1.0+mhxx-save-format-community,2,7
-38,Thunder Yell,Thunder Yell,mhxx-dex-1.0+mhxx-save-format-community,3,8
-39,Spine Blaster,Spine Blaster,mhxx-dex-1.0+mhxx-save-format-community,3,8
-40,Hellsting,Hellsting,mhxx-dex-1.0+mhxx-save-format-community,2,7
-41,Gerd Sting,Gerd Sting,mhxx-dex-1.0+mhxx-save-format-community,5,5
-42,Scissor Gunlance,Scissor Gunlance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-43,Hidden Gunlance,Hidden Gunlance,mhxx-dex-1.0+mhxx-save-format-community,2,8
-44,Fiore Nulo,Fiore Nulo,mhxx-dex-1.0+mhxx-save-format-community,1,9
-45,Fiore Nulo (G),Fiore Nulo (G),mhxx-dex-1.0+mhxx-save-format-community,2,8
-46,Fiore Nulo (R),Fiore Nulo (R),mhxx-dex-1.0+mhxx-save-format-community,2,8
-47,Monsieur Gore,Monsieur Gore,mhxx-dex-1.0+mhxx-save-format-community,4,6
-48,Madame Butcher,Madame Butcher,mhxx-dex-1.0+mhxx-save-format-community,6,6
-49,Verdant Rook,Verdant Rook,mhxx-dex-1.0+mhxx-save-format-community,3,9
-50,Giant's Artillery,Giant's Artillery,mhxx-dex-1.0+mhxx-save-format-community,3,9
-51,Ukiyo no Yamiwo,Ukiyo no Yamiwo,mhxx-dex-1.0+mhxx-save-format-community,3,9
-52,Burning Kabeira,Burning Kabeira,mhxx-dex-1.0+mhxx-save-format-community,3,9
-53,Tyrannenarm,Tyrannenarm,mhxx-dex-1.0+mhxx-save-format-community,3,7
-54,L'Onde,L'Onde,mhxx-dex-1.0+mhxx-save-format-community,3,8
-55,Venomous Cologne,Venomous Cologne,mhxx-dex-1.0+mhxx-save-format-community,3,6
-56,Ravenous Gunlance,Ravenous Gunlance,mhxx-dex-1.0+mhxx-save-format-community,6,5
-57,Consummate Gunlance,Consummate Gunlance,mhxx-dex-1.0+mhxx-save-format-community,7,5
-58,Chasm Gunlance,Chasm Gunlance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-59,Astral Centaurus,Astral Centaurus,mhxx-dex-1.0+mhxx-save-format-community,7,5
-60,Akantor Gunlance,Akantor Gunlance,mhxx-dex-1.0+mhxx-save-format-community,7,5
-61,Ukanlos Gunlance,Ukanlos Gunlance,mhxx-dex-1.0+mhxx-save-format-community,7,5
-62,Ominous Monsoon,Ominous Monsoon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-63,Worn Gunlance,Worn Gunlance,mhxx-dex-1.0+mhxx-save-format-community,4,7
-64,Obelisk,Obelisk,mhxx-dex-1.0+mhxx-save-format-community,6,5
-65,Icesteel Gunlance,Icesteel Gunlance,mhxx-dex-1.0+mhxx-save-format-community,7,5
-66,Black Smoke Gunlance,Black Smoke Gunlance,mhxx-dex-1.0+mhxx-save-format-community,3,7
-67,Yukumo Gunlance,Yukumo Gunlance,mhxx-dex-1.0+mhxx-save-format-community,1,8
-68,Yukumo Puregunlance,Yukumo Puregunlance,mhxx-dex-1.0+mhxx-save-format-community,3,6
-69,Baa Baa Gunlance,Baa Baa Gunlance,mhxx-dex-1.0+mhxx-save-format-community,2,7
-70,Wycademy Gunlance,Wycademy Gunlance,mhxx-dex-1.0+mhxx-save-format-community,3,6
-71,Hero Gunlance,Hero Gunlance,mhxx-dex-1.0+mhxx-save-format-community,6,6
-72,Kamak Gunlance,Kamak Gunlance,mhxx-dex-1.0+mhxx-save-format-community,2,6
-73,Felyoshka,Felyoshka,mhxx-dex-1.0+mhxx-save-format-community,5,5
-74,Bamboo Birdsbane,Bamboo Birdsbane,mhxx-dex-1.0+mhxx-save-format-community,2,6
-75,Cornpopper,Cornpopper,mhxx-dex-1.0+mhxx-save-format-community,3,6
-76,Teostra Gunlance,Teostra Gunlance,mhxx-dex-1.0+mhxx-save-format-community,2,6
-77,Blackhare Gunlance,Blackhare Gunlance,mhxx-dex-1.0+mhxx-save-format-community,11,15
-78,Pincher Cannon,Pincher Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,15
-79,Royal Burst,Royal Burst,mhxx-dex-1.0+mhxx-save-format-community,11,15
-80,Pierce Cannon,Pierce Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,15
-81,Nightfall Burst,Nightfall Burst,mhxx-dex-1.0+mhxx-save-format-community,11,15
-82,Geode Burst,Geode Burst,mhxx-dex-1.0+mhxx-save-format-community,11,15
-83,Hardened Gunlance,Hardened Gunlance,mhxx-dex-1.0+mhxx-save-format-community,11,15
-84,Tomb Gunlance,Tomb Gunlance,mhxx-dex-1.0+mhxx-save-format-community,11,15
-85,Raiden Cannon,Raiden Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,15
-86,Seize Burst,Seize Burst,mhxx-dex-1.0+mhxx-save-format-community,11,15
-87,Explosive Kabeira,Explosive Kabeira,mhxx-dex-1.0+mhxx-save-format-community,11,15
-88,Platinum Trophy,Platinum Trophy,mhxx-dex-1.0+mhxx-save-format-community,6,5
-89,Volt Works,Volt Works,mhxx-dex-1.0+mhxx-save-format-community,6,5
-90,Pirate Gunlance J,Pirate Gunlance J,mhxx-dex-1.0+mhxx-save-format-community,6,5
-91,Gold Gunlance,Gold Gunlance,mhxx-dex-1.0+mhxx-save-format-community,10,3
-92,Silverwing Gunlance,Silverwing Gunlance,mhxx-dex-1.0+mhxx-save-format-community,7,6
-93,Zephra Rook,Zephra Rook,mhxx-dex-1.0+mhxx-save-format-community,11,5
-94,Mumyo Joya,Mumyo Joya,mhxx-dex-1.0+mhxx-save-format-community,11,5
-95,Elderfrost Gunlance,Elderfrost Gunlance,mhxx-dex-1.0+mhxx-save-format-community,11,5
-96,Massacre Gunlance,Massacre Gunlance,mhxx-dex-1.0+mhxx-save-format-community,11,5
-97,Cloaked Blaster,Cloaked Blaster,mhxx-dex-1.0+mhxx-save-format-community,11,5
-98,Ruiner Gunlance,Ruiner Gunlance,mhxx-dex-1.0+mhxx-save-format-community,10,3
-99,O. Fatalis Gunlance,O. Fatalis Gunlance,mhxx-dex-1.0+mhxx-save-format-community,10,3
-100,Lightbreak Gunlance,Lightbreak Gunlance,mhxx-dex-1.0+mhxx-save-format-community,10,3
-101,Ruhe/Tyrannie,Ruhe/Tyrannie,mhxx-dex-1.0+mhxx-save-format-community,10,3
-102,White Gunlance,White Gunlance,mhxx-dex-1.0+mhxx-save-format-community,5,5
-103,Diablos Gunlance,Diablos Gunlance,mhxx-dex-1.0+mhxx-save-format-community,6,5
-104,Snow Gunlance,Snow Gunlance,mhxx-dex-1.0+mhxx-save-format-community,4,6
-105,Barroth Loader,Barroth Loader,mhxx-dex-1.0+mhxx-save-format-community,4,5
-106,Roscasludge,Roscasludge,mhxx-dex-1.0+mhxx-save-format-community,8,3
-107,Shell Gunbird,Shell Gunbird,mhxx-dex-1.0+mhxx-save-format-community,4,6
-108,Noble Gunbird,Noble Gunbird,mhxx-dex-1.0+mhxx-save-format-community,8,3
-109,Sleeper Blaster,Sleeper Blaster,mhxx-dex-1.0+mhxx-save-format-community,4,5
-110,Agna Vulcan,Agna Vulcan,mhxx-dex-1.0+mhxx-save-format-community,9,3
-111,Eine Wahrheit,Eine Wahrheit,mhxx-dex-1.0+mhxx-save-format-community,10,3
-112,Research Gunlance,Research Gunlance,mhxx-dex-1.0+mhxx-save-format-community,6,5
-113,Barbecue Gunlance,Barbecue Gunlance,mhxx-dex-1.0+mhxx-save-format-community,9,3
-114,Elder Gunlance,Elder Gunlance,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,None,None,mhxx-romfs-game-array,0,0
+1,Petrified Gunlance,Petrified Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Obsidian Gunlance,Obsidian Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,Hard Hitter,Hard Hitter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+4,Shattershot,Shattershot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+5,Full Voltage,Full Voltage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+6,Lagomberator,Lagomberator,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+7,Lagomberastrophe,Lagomberastrophe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+8,Marine Fisher,Marine Fisher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+9,Volcano Gunlance,Volcano Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+10,Red Devil Gunlance,Red Devil Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+11,Blue Devil Uberlance,Blue Devil Uberlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+12,Flamethrower,Flamethrower,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+13,Iron Gunlance,Iron Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+14,Seadiver,Seadiver,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+15,Deepbuster,Deepbuster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+16,Jaya Gunlance,Jaya Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+17,Seditious Gunlance,Seditious Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+18,Striker's Gunlance,Striker's Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+19,General's Arbalance,General's Arbalance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+20,Red Rook,Red Rook,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+21,Silver Rook,Silver Rook,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+22,Lagia Burst,Lagia Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+23,Dios Gunlance,Dios Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+24,Demolition Gunlance,Demolition Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+25,Ancient Gyrelance,Ancient Gyrelance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+26,Type 62 Stormlance,Type 62 Stormlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+27,Rogue Gunlance,Rogue Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,10
+28,Arya Gadda,Arya Gadda,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+29,Genenam Lance,Genenam Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+30,Bone Gunlance,Bone Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+31,Demon Gunlance,Demon Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+32,Demonlord Artillery,Demonlord Artillery,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+33,Tiger Blast,Tiger Blast,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+34,Princess Panoply,Princess Panoply,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+35,Queen's Panoply,Queen's Panoply,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+36,Usurper's Roar,Usurper's Roar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+37,Golem Gunlance,Golem Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+38,Thunder Yell,Thunder Yell,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+39,Spine Blaster,Spine Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+40,Hellsting,Hellsting,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+41,Gerd Sting,Gerd Sting,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+42,Scissor Gunlance,Scissor Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+43,Hidden Gunlance,Hidden Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+44,Fiore Nulo,Fiore Nulo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+45,Fiore Nulo (G),Fiore Nulo (G),mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+46,Fiore Nulo (R),Fiore Nulo (R),mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+47,Monsieur Gore,Monsieur Gore,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+48,Madame Butcher,Madame Butcher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+49,Verdant Rook,Verdant Rook,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+50,Giant's Artillery,Giant's Artillery,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+51,Ukiyo no Yamiwo,Ukiyo no Yamiwo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+52,Burning Kabeira,Burning Kabeira,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+53,Tyrannenarm,Tyrannenarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,L'Onde,L'Onde,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+55,Venomous Cologne,Venomous Cologne,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+56,Ravenous Gunlance,Ravenous Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+57,Consummate Gunlance,Consummate Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+58,Chasm Gunlance,Chasm Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+59,Astral Centaurus,Astral Centaurus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+60,Akantor Gunlance,Akantor Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+61,Ukanlos Gunlance,Ukanlos Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+62,Ominous Monsoon,Ominous Monsoon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+63,Worn Gunlance,Worn Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+64,Obelisk,Obelisk,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+65,Icesteel Gunlance,Icesteel Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+66,Black Smoke Gunlance,Black Smoke Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+67,Yukumo Gunlance,Yukumo Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+68,Yukumo Puregunlance,Yukumo Puregunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+69,Baa Baa Gunlance,Baa Baa Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+70,Wycademy Gunlance,Wycademy Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+71,Hero Gunlance,Hero Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+72,Kamak Gunlance,Kamak Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+73,Felyoshka,Felyoshka,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+74,Bamboo Birdsbane,Bamboo Birdsbane,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+75,Cornpopper,Cornpopper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+76,Teostra Gunlance,Teostra Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+77,Blackhare Gunlance,Blackhare Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+78,Pincher Cannon,Pincher Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+79,Royal Burst,Royal Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+80,Pierce Cannon,Pierce Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+81,Nightfall Burst,Nightfall Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+82,Geode Burst,Geode Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+83,Hardened Gunlance,Hardened Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+84,Tomb Gunlance,Tomb Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+85,Raiden Cannon,Raiden Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+86,Seize Burst,Seize Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+87,Explosive Kabeira,Explosive Kabeira,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+88,Platinum Trophy,Platinum Trophy,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+89,Volt Works,Volt Works,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+90,Pirate Gunlance J,Pirate Gunlance J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+91,Gold Gunlance,Gold Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+92,Silverwing Gunlance,Silverwing Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+93,Zephra Rook,Zephra Rook,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+94,Mumyo Joya,Mumyo Joya,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+95,Elderfrost Gunlance,Elderfrost Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+96,Massacre Gunlance,Massacre Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+97,Cloaked Blaster,Cloaked Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+98,Ruiner Gunlance,Ruiner Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+99,O. Fatalis Gunlance,O. Fatalis Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+100,Lightbreak Gunlance,Lightbreak Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+101,Ruhe/Tyrannie,Ruhe/Tyrannie,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+102,White Gunlance,White Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+103,Diablos Gunlance,Diablos Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+104,Snow Gunlance,Snow Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+105,Barroth Loader,Barroth Loader,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+106,Roscasludge,Roscasludge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+107,Shell Gunbird,Shell Gunbird,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+108,Noble Gunbird,Noble Gunbird,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+109,Sleeper Blaster,Sleeper Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+110,Agna Vulcan,Agna Vulcan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+111,Eine Wahrheit,Eine Wahrheit,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+112,Research Gunlance,Research Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+113,Barbecue Gunlance,Barbecue Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+114,Elder Gunlance,Elder Gunlance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

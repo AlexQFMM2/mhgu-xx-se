@@ -1,82 +1,82 @@
 id,name,english,source,rarity,max_level
-0,无,None,mhxx-save-format-community,0,0
-1,贝鲁纳武装,Petrified Strongarm,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,黑曜石武装,Obsidian Strongarm,mhxx-dex-1.0+mhxx-save-format-community,3,8
-3,熔岩之盾,Lava's Veil,mhxx-dex-1.0+mhxx-save-format-community,5,5
-4,碎龙武装,Dios Strongarm,mhxx-dex-1.0+mhxx-save-format-community,3,7
-5,爆碎盾斧,Demolition Blade,mhxx-dex-1.0+mhxx-save-format-community,6,6
-6,31式镇压飞龙盾斧,Type 31 Wyvernslayer,mhxx-dex-1.0+mhxx-save-format-community,2,8
-7,剧毒古提亚,Poison Blade,mhxx-dex-1.0+mhxx-save-format-community,2,9
-8,精锐讨伐队盾斧,Elite Blade,mhxx-dex-1.0+mhxx-save-format-community,1,11
-9,鲨护盾,Guardsqual,mhxx-dex-1.0+mhxx-save-format-community,4,6
-10,冰腮,Serrated Glace,mhxx-dex-1.0+mhxx-save-format-community,5,5
-11,黑手甲,Blackguard,mhxx-dex-1.0+mhxx-save-format-community,2,8
-12,卫士队正式盾斧,Sentinel Blade,mhxx-dex-1.0+mhxx-save-format-community,4,6
-13,骑士团队证盾斧,K. Captain's Blade,mhxx-dex-1.0+mhxx-save-format-community,5,5
-14,轰龙切割者,Tigrex Divide,mhxx-dex-1.0+mhxx-save-format-community,3,7
-15,焰火盾斧,Dear Lutemis,mhxx-dex-1.0+mhxx-save-format-community,3,8
-16,月神金盾,Luna Eostre,mhxx-dex-1.0+mhxx-save-format-community,7,5
-17,恶棍盾斧,Rogue Axe,mhxx-dex-1.0+mhxx-save-format-community,1,10
-18,夜鸟盾斧,Horror Zofar,mhxx-dex-1.0+mhxx-save-format-community,2,9
-19,雪之盾,Snowy Veil,mhxx-dex-1.0+mhxx-save-format-community,1,8
-20,骨盾斧,Bone Blade,mhxx-dex-1.0+mhxx-save-format-community,1,11
-21,淬毒之盾,Poisonous Veil,mhxx-dex-1.0+mhxx-save-format-community,3,7
-22,炎斧蛇王,Axelion Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
-23,业火斧狱雷,Hellsire Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
-24,海龙暴风雨,Lagia Storm,mhxx-dex-1.0+mhxx-save-format-community,3,8
-25,大刀侍卫,Guardian Blade,mhxx-dex-1.0+mhxx-save-format-community,2,8
-26,昆虫盾,Schildsect,mhxx-dex-1.0+mhxx-save-format-community,4,7
-27,皇虫之盾,Dominisect,mhxx-dex-1.0+mhxx-save-format-community,6,5
-28,沙漠壁垒,Desertfall,mhxx-dex-1.0+mhxx-save-format-community,1,9
-29,盾斧觜宿一,Aslat Charger,mhxx-dex-1.0+mhxx-save-format-community,3,7
-30,叛逆盾斧,Seditious Blade,mhxx-dex-1.0+mhxx-save-format-community,6,6
-31,电龙电斧,Axela Blade,mhxx-dex-1.0+mhxx-save-format-community,3,9
-32,巨兽盾斧,Giant's Edge,mhxx-dex-1.0+mhxx-save-format-community,3,9
-33,狐衣斧【镜花水月深】,Mizuniya Drill,mhxx-dex-1.0+mhxx-save-format-community,3,9
-34,灼炎盾斧,Scorching Demander,mhxx-dex-1.0+mhxx-save-format-community,3,9
-35,力量of堕落,Elendskraft,mhxx-dex-1.0+mhxx-save-format-community,3,7
-36,THE抑制,L'Oppresseur,mhxx-dex-1.0+mhxx-save-format-community,3,8
-37,钢龙冰盾,Daora's Casca,mhxx-dex-1.0+mhxx-save-format-community,3,6
-38,鬼神盾斧【夜叉】,Demonlord Blade,mhxx-dex-1.0+mhxx-save-format-community,6,7
-39,名为巨鲸的白骸,Wicked Edge,mhxx-dex-1.0+mhxx-save-format-community,3,7
-40,极星护斧【鲸鱼】,Gant Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
-41,霸盾斧炎神,Akantor C. Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
-42,凶华【胧云】,Altostratus Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
-43,严重风化的盾斧,Worn C. Blade,mhxx-dex-1.0+mhxx-save-format-community,4,7
-44,时间齿轮,Chrono Gear,mhxx-dex-1.0+mhxx-save-format-community,6,5
-45,炎王强袭者,Teostra's Striker,mhxx-dex-1.0+mhxx-save-format-community,7,5
-46,黑武装,Black Strongarm,mhxx-dex-1.0+mhxx-save-format-community,3,7
-47,披萨盾斧,Pizzaxe,mhxx-dex-1.0+mhxx-save-format-community,2,7
-48,英雄武装,Hero Strongarm,mhxx-dex-1.0+mhxx-save-format-community,6,6
-49,维京之盾,Vaik Veil,mhxx-dex-1.0+mhxx-save-format-community,3,6
-50,巨剪虫斧,Mandible Blade,mhxx-dex-1.0+mhxx-save-format-community,3,6
-51,可爱猫盾斧,Cuddly Cat,mhxx-dex-1.0+mhxx-save-format-community,2,6
-52,霞龙石斧,Chameleos C. Blade,mhxx-dex-1.0+mhxx-save-format-community,2,6
-53,紫毒姬盾斧,Dear Regina,mhxx-dex-1.0+mhxx-save-format-community,11,15
-54,黑炎斧,Dreaded Blade,mhxx-dex-1.0+mhxx-save-format-community,11,15
-55,暴风神切割者,Rudra Divide,mhxx-dex-1.0+mhxx-save-format-community,11,15
-56,爆焰灰烬斧,Ashen Demander,mhxx-dex-1.0+mhxx-save-format-community,11,15
-57,聚气火狐,Charge Fox,mhxx-dex-1.0+mhxx-save-format-community,6,5
-58,传说J船锚,Legendary Anchor J,mhxx-dex-1.0+mhxx-save-format-community,6,5
-59,DUMMY,DUMMY,mhxx-save-format-community-en-fallback,0,5
-60,宝装之合一金属器,Gold Edge,mhxx-dex-1.0+mhxx-save-format-community,10,3
-61,银翼盾斧,Silverwing Edge,mhxx-dex-1.0+mhxx-save-format-community,7,6
-62,青电主盾斧,Axebolt Edge,mhxx-dex-1.0+mhxx-save-format-community,11,5
-63,天眼盾斧･光阴流水,Fugitive Hours,mhxx-dex-1.0+mhxx-save-format-community,11,5
-64,银峰盾斧,Elderfrost Edge,mhxx-dex-1.0+mhxx-save-format-community,11,5
-65,屠杀盾斧,Massacre Strongarm,mhxx-dex-1.0+mhxx-save-format-community,11,5
-66,铠裂盾斧,Razor Slasher,mhxx-dex-1.0+mhxx-save-format-community,11,5
-67,胧隐盾斧,Cloaked Edge,mhxx-dex-1.0+mhxx-save-format-community,11,5
-68,老山龙盾斧,Vermilion Veil,mhxx-dex-1.0+mhxx-save-format-community,10,3
-69,黑灭龙盾斧,Ruiner Reaver,mhxx-dex-1.0+mhxx-save-format-community,10,3
-70,祖龙之击,Fatalis Mien,mhxx-dex-1.0+mhxx-save-format-community,10,3
-71,碎光盾斧,Lightbreak C. Blade,mhxx-dex-1.0+mhxx-save-format-community,10,3
-72,升天or坠落,Elends/Essor,mhxx-dex-1.0+mhxx-save-format-community,10,3
-73,角龙武装,Diablos Strongarm,mhxx-dex-1.0+mhxx-save-format-community,6,5
-74,土砂盾斧,Barroth Anchor,mhxx-dex-1.0+mhxx-save-format-community,4,6
-75,阿剌克涅之鳞,Arachnoscale,mhxx-dex-1.0+mhxx-save-format-community,4,6
-76,煌黑盾斧,Alatreon Edge,mhxx-dex-1.0+mhxx-save-format-community,10,3
-77,缭乱盾斧,Blossomauler,mhxx-dex-1.0+mhxx-save-format-community,10,3
-78,到达未解之盾斧,Research Blade,mhxx-dex-1.0+mhxx-save-format-community,6,5
-79,青椒奶酪斧,Chili Axe,mhxx-dex-1.0+mhxx-save-format-community,8,3
-80,长者武装,Elder Strongarm,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,无,None,mhxx-romfs-game-array,0,0
+1,贝鲁纳武装,Petrified Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石武装,Obsidian Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,熔岩之盾,Lava's Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+4,碎龙武装,Dios Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+5,爆碎盾斧,Demolition Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+6,31式镇压飞龙盾斧,Type 31 Wyvernslayer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+7,剧毒古提亚,Poison Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+8,精锐讨伐队盾斧,Elite Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+9,鲨护盾,Guardsqual,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+10,冰腮,Serrated Glace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+11,黑手甲,Blackguard,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+12,卫士队正式盾斧,Sentinel Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+13,骑士团队证盾斧,K. Captain's Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+14,轰龙切割者,Tigrex Divide,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+15,焰火盾斧,Dear Lutemis,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+16,月神金盾,Luna Eostre,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+17,恶棍盾斧,Rogue Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,10
+18,夜鸟盾斧,Horror Zofar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+19,雪之盾,Snowy Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+20,骨盾斧,Bone Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+21,淬毒之盾,Poisonous Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,炎斧蛇王,Axelion Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+23,业火斧狱雷,Hellsire Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+24,海龙暴风雨,Lagia Storm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+25,大刀侍卫,Guardian Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+26,昆虫盾,Schildsect,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+27,皇虫之盾,Dominisect,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+28,沙漠壁垒,Desertfall,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+29,盾斧觜宿一,Aslat Charger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+30,叛逆盾斧,Seditious Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+31,电龙电斧,Axela Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+32,巨兽盾斧,Giant's Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+33,狐衣斧【镜花水月深】,Mizuniya Drill,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+34,灼炎盾斧,Scorching Demander,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+35,力量of堕落,Elendskraft,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+36,THE抑制,L'Oppresseur,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+37,钢龙冰盾,Daora's Casca,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+38,鬼神盾斧【夜叉】,Demonlord Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,7
+39,名为巨鲸的白骸,Wicked Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+40,极星护斧【鲸鱼】,Gant Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+41,霸盾斧炎神,Akantor C. Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+42,凶华【胧云】,Altostratus Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+43,严重风化的盾斧,Worn C. Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+44,时间齿轮,Chrono Gear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+45,炎王强袭者,Teostra's Striker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+46,黑武装,Black Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+47,披萨盾斧,Pizzaxe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+48,英雄武装,Hero Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+49,维京之盾,Vaik Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+50,巨剪虫斧,Mandible Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+51,可爱猫盾斧,Cuddly Cat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+52,霞龙石斧,Chameleos C. Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+53,紫毒姬盾斧,Dear Regina,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+54,黑炎斧,Dreaded Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+55,暴风神切割者,Rudra Divide,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+56,爆焰灰烬斧,Ashen Demander,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+57,聚气火狐,Charge Fox,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+58,传说J船锚,Legendary Anchor J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+59,星光之斧,Starlight Axe,mhxx-romfs-game-array+mhxx-reviewed-game-only-translation,0,5
+60,宝装之合一金属器,Gold Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+61,银翼盾斧,Silverwing Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+62,青电主盾斧,Axebolt Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+63,天眼盾斧･光阴流水,Fugitive Hours,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+64,银峰盾斧,Elderfrost Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+65,屠杀盾斧,Massacre Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+66,铠裂盾斧,Razor Slasher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+67,胧隐盾斧,Cloaked Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+68,老山龙盾斧,Vermilion Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+69,黑灭龙盾斧,Ruiner Reaver,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+70,祖龙之击,Fatalis Mien,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+71,碎光盾斧,Lightbreak C. Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+72,升天or坠落,Elends/Essor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+73,角龙武装,Diablos Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+74,土砂盾斧,Barroth Anchor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+75,阿剌克涅之鳞,Arachnoscale,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+76,煌黑盾斧,Alatreon Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+77,缭乱盾斧,Blossomauler,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+78,到达未解之盾斧,Research Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+79,青椒奶酪斧,Chili Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+80,长者武装,Elder Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

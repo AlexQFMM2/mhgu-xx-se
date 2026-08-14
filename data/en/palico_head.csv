@@ -1,503 +1,503 @@
 id,name,english,source,rarity
-0,None,None,mhxx-save-format-community,0
-1,F Acorn Helm,F Acorn Helm,mhxx-dex-1.0+mhxx-save-format-community,1
-2,F Bherna Hood,F Bherna Hood,mhxx-dex-1.0+mhxx-save-format-community,1
-3,F Alloy Helm,F Alloy Helm,mhxx-dex-1.0+mhxx-save-format-community,1
-4,F Bone Helm,F Bone Helm,mhxx-dex-1.0+mhxx-save-format-community,1
-5,F Jaggi Helm,F Jaggi Helm,mhxx-dex-1.0+mhxx-save-format-community,1
-6,F Hunting Helm,F Hunting Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-7,F Mafumofu Hood,F Mafumofu Hood,mhxx-dex-1.0+mhxx-save-format-community,2
-8,F Yukumo Kasa,F Yukumo Kasa,mhxx-dex-1.0+mhxx-save-format-community,2
-9,F Alta Hat,F Alta Hat,mhxx-dex-1.0+mhxx-save-format-community,2
-10,F Rheno Helm,F Rheno Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-11,F Bnaha Cap,F Bnaha Cap,mhxx-dex-1.0+mhxx-save-format-community,2
-12,F Maccao Helm,F Maccao Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-13,F Velociprey Helm,F Velociprey Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-14,F Bulldrome Mask,F Bulldrome Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-15,F Arzuros Helm,F Arzuros Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-16,F Genprey Helm,F Genprey Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-17,F Cephalos Hat,F Cephalos Hat,mhxx-dex-1.0+mhxx-save-format-community,2
-18,F Stone Head,F Stone Head,mhxx-dex-1.0+mhxx-save-format-community,2
-19,F Venombee Cap,F Venombee Cap,mhxx-dex-1.0+mhxx-save-format-community,2
-20,F Gourmet Toque,F Gourmet Toque,mhxx-dex-1.0+mhxx-save-format-community,2
-21,F Moofy Head,F Moofy Head,mhxx-dex-1.0+mhxx-save-format-community,2
-22,F Aptonoth Mask,F Aptonoth Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-23,F Popo Head,F Popo Head,mhxx-dex-1.0+mhxx-save-format-community,2
-24,F Gargwa Mask,F Gargwa Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-25,F Ioprey Helm,F Ioprey Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-26,F Lagombi Helm,F Lagombi Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-27,F Kut-Ku Mask,F Kut-Ku Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-28,F Gypceros Crest,F Gypceros Crest,mhxx-dex-1.0+mhxx-save-format-community,2
-29,F Cabra Horn,F Cabra Horn,mhxx-dex-1.0+mhxx-save-format-community,2
-30,F Daimyo Mask,F Daimyo Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-31,F Ludroth Helm,F Ludroth Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-32,F Khezu Cap,F Khezu Cap,mhxx-dex-1.0+mhxx-save-format-community,2
-33,F Nibel Helm,F Nibel Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-34,F Scholarly Cap,F Scholarly Cap,mhxx-dex-1.0+mhxx-save-format-community,2
-35,F Derring Galea,F Derring Galea,mhxx-dex-1.0+mhxx-save-format-community,2
-36,F Edel Pigtails,F Edel Pigtails,mhxx-dex-1.0+mhxx-save-format-community,2
-37,F Kittendant Hood,F Kittendant Hood,mhxx-dex-1.0+mhxx-save-format-community,2
-38,F Mosgharl Hat,F Mosgharl Hat,mhxx-dex-1.0+mhxx-save-format-community,2
-39,F Larinoth Mask,F Larinoth Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-40,F Death Stench Hood,F Death Stench Hood,mhxx-dex-1.0+mhxx-save-format-community,2
-41,F Marauder Helm,F Marauder Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-42,F Volvi Helm,F Volvi Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-43,F Malfestio Mask,F Malfestio Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-44,F Rathian Helm,F Rathian Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-45,F Blango Mask,F Blango Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-46,F Ceanataur Mask,F Ceanataur Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-47,F Naja Turban,F Naja Turban,mhxx-dex-1.0+mhxx-save-format-community,2
-48,F Narga Helm,F Narga Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-49,F Maiden Hood,F Maiden Hood,mhxx-dex-1.0+mhxx-save-format-community,3
-50,F Helper Hood,F Helper Hood,mhxx-dex-1.0+mhxx-save-format-community,3
-51,F Pretty Toque,F Pretty Toque,mhxx-dex-1.0+mhxx-save-format-community,3
-52,F Chaos Bulbs,F Chaos Bulbs,mhxx-dex-1.0+mhxx-save-format-community,3
-53,F El Dora Helm,F El Dora Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-54,F Artian Core,F Artian Core,mhxx-dex-1.0+mhxx-save-format-community,3
-55,F Garuga Hood,F Garuga Hood,mhxx-dex-1.0+mhxx-save-format-community,3
-56,F Uragaan Helm,F Uragaan Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-57,F Rathalos Helm,F Rathalos Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-58,F Lagia Tricorne,F Lagia Tricorne,mhxx-dex-1.0+mhxx-save-format-community,3
-59,F Astalos Mask,F Astalos Mask,mhxx-dex-1.0+mhxx-save-format-community,3
-60,F Gammoth Collar,F Gammoth Collar,mhxx-dex-1.0+mhxx-save-format-community,3
-61,F Mizutsune Kasa,F Mizutsune Kasa,mhxx-dex-1.0+mhxx-save-format-community,3
-62,F Guild Headgear,F Guild Headgear,mhxx-dex-1.0+mhxx-save-format-community,3
-63,F Glavenus Helm,F Glavenus Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-64,F Zinogre Helm,F Zinogre Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-65,F Gore Horror,F Gore Horror,mhxx-dex-1.0+mhxx-save-format-community,3
-66,F Seregios Helm,F Seregios Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-67,F Tigrex Helm,F Tigrex Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-68,F Kirin Horn,F Kirin Horn,mhxx-dex-1.0+mhxx-save-format-community,3
-69,F Brachy Headgear,F Brachy Headgear,mhxx-dex-1.0+mhxx-save-format-community,3
-70,F Angel Halo,F Angel Halo,mhxx-dex-1.0+mhxx-save-format-community,3
-71,F Kushala Glare,F Kushala Glare,mhxx-dex-1.0+mhxx-save-format-community,3
-72,F Genie Helm,F Genie Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-73,F Kaiser Periwig,F Kaiser Periwig,mhxx-dex-1.0+mhxx-save-format-community,3
-74,F Husk Mask,F Husk Mask,mhxx-dex-1.0+mhxx-save-format-community,3
-75,F Acorn Helm S,F Acorn Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-76,F Bherna Hood S,F Bherna Hood S,mhxx-dex-1.0+mhxx-save-format-community,4
-77,F Hunting Helm S,F Hunting Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-78,F Mafumofu Hood S,F Mafumofu Hood S,mhxx-dex-1.0+mhxx-save-format-community,4
-79,F Yukumo Kasa S,F Yukumo Kasa S,mhxx-dex-1.0+mhxx-save-format-community,4
-80,F Gourmet Toque S,F Gourmet Toque S,mhxx-dex-1.0+mhxx-save-format-community,4
-81,F Moofy Head S,F Moofy Head S,mhxx-dex-1.0+mhxx-save-format-community,4
-82,F Aptonoth Mask S,F Aptonoth Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-83,F Popo Head S,F Popo Head S,mhxx-dex-1.0+mhxx-save-format-community,4
-84,F Gargwa Mask S,F Gargwa Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-85,F Larinoth Mask S,F Larinoth Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-86,F Alloy Helm S,F Alloy Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-87,F Bone Helm S,F Bone Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-88,F Alta Hat S,F Alta Hat S,mhxx-dex-1.0+mhxx-save-format-community,4
-89,F Bnaha Cap S,F Bnaha Cap S,mhxx-dex-1.0+mhxx-save-format-community,4
-90,F Jaggi Helm S,F Jaggi Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-91,F Rheno Helm S,F Rheno Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-92,F Slagtoth Hood,F Slagtoth Hood,mhxx-dex-1.0+mhxx-save-format-community,4
-93,F Maccao Helm S,F Maccao Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-94,F Velociprey Helm S,F Velociprey Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-95,F Bulldrome Mask S,F Bulldrome Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-96,F Arzuros Helm S,F Arzuros Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-97,F Genprey Helm S,F Genprey Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-98,F Lagombi Helm S,F Lagombi Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-99,F Cephalos Hat S,F Cephalos Hat S,mhxx-dex-1.0+mhxx-save-format-community,4
-100,F Kut-Ku Mask S,F Kut-Ku Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-101,F Gypceros Crest S,F Gypceros Crest S,mhxx-dex-1.0+mhxx-save-format-community,4
-102,F Cabra Horn S,F Cabra Horn S,mhxx-dex-1.0+mhxx-save-format-community,4
-103,F Daimyo Mask S,F Daimyo Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-104,F Ludroth Helm S,F Ludroth Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-105,F Kecha Cap,F Kecha Cap,mhxx-dex-1.0+mhxx-save-format-community,4
-106,F Ladybug Cap,F Ladybug Cap,mhxx-dex-1.0+mhxx-save-format-community,5
-107,F Lecturer's Hood,F Lecturer's Hood,mhxx-dex-1.0+mhxx-save-format-community,5
-108,F Guide's Hood,F Guide's Hood,mhxx-dex-1.0+mhxx-save-format-community,5
-109,F Sailor Hat,F Sailor Hat,mhxx-dex-1.0+mhxx-save-format-community,5
-110,F Stone King Head,F Stone King Head,mhxx-dex-1.0+mhxx-save-format-community,5
-111,F Venombee Cap S,F Venombee Cap S,mhxx-dex-1.0+mhxx-save-format-community,5
-112,F Mosgharl Hat S,F Mosgharl Hat S,mhxx-dex-1.0+mhxx-save-format-community,5
-113,F Marauder Helm S,F Marauder Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-114,F Ioprey Helm S,F Ioprey Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-115,F Volvi Helm S,F Volvi Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-116,F Khezu Catnurse S,F Khezu Catnurse S,mhxx-dex-1.0+mhxx-save-format-community,5
-117,F Nibel Helm S,F Nibel Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-118,F Malfestio Mask S,F Malfestio Mask S,mhxx-dex-1.0+mhxx-save-format-community,5
-119,F Rathian Helm S,F Rathian Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-120,F Blango Mask S,F Blango Mask S,mhxx-dex-1.0+mhxx-save-format-community,5
-121,F Ceanataur Mask S,F Ceanataur Mask S,mhxx-dex-1.0+mhxx-save-format-community,5
-122,F Naja Turban S,F Naja Turban S,mhxx-dex-1.0+mhxx-save-format-community,5
-123,F Narga Helm S,F Narga Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-124,F Garuga Hood S,F Garuga Hood S,mhxx-dex-1.0+mhxx-save-format-community,5
-125,F Uragaan Helm S,F Uragaan Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-126,F Zamtrios Helmet,F Zamtrios Helmet,mhxx-dex-1.0+mhxx-save-format-community,5
-127,F Plesioth Cap,F Plesioth Cap,mhxx-dex-1.0+mhxx-save-format-community,5
-128,F Lava Helm,F Lava Helm,mhxx-dex-1.0+mhxx-save-format-community,5
-129,F Edel Pigtails S,F Edel Pigtails S,mhxx-dex-1.0+mhxx-save-format-community,6
-130,F Kittendant Hood S,F Kittendant Hood S,mhxx-dex-1.0+mhxx-save-format-community,6
-131,F Acorn Mask,F Acorn Mask,mhxx-dex-1.0+mhxx-save-format-community,6
-132,F Pincer Mask,F Pincer Mask,mhxx-dex-1.0+mhxx-save-format-community,6
-133,F Chaos Bulbs+,F Chaos Bulbs+,mhxx-dex-1.0+mhxx-save-format-community,6
-134,F Death Stench Hood S,F Death Stench Hood S,mhxx-dex-1.0+mhxx-save-format-community,6
-135,F El Dora Helm S,F El Dora Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-136,F Artian Core S,F Artian Core S,mhxx-dex-1.0+mhxx-save-format-community,6
-137,F Lagia Triad S,F Lagia Triad S,mhxx-dex-1.0+mhxx-save-format-community,6
-138,F Glavenus Helm S,F Glavenus Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-139,F Astalos Mask S,F Astalos Mask S,mhxx-dex-1.0+mhxx-save-format-community,6
-140,F Gammoth Collar S,F Gammoth Collar S,mhxx-dex-1.0+mhxx-save-format-community,6
-141,F Mizutsune Kasa S,F Mizutsune Kasa S,mhxx-dex-1.0+mhxx-save-format-community,6
-142,F Rathalos Helm S,F Rathalos Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-143,F Zinogre Helm S,F Zinogre Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-144,F Gore Horror S,F Gore Horror S,mhxx-dex-1.0+mhxx-save-format-community,6
-145,F Tigrex Helm S,F Tigrex Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-146,F Seltas Head,F Seltas Head,mhxx-dex-1.0+mhxx-save-format-community,6
-147,F Agnaktor Helm,F Agnaktor Helm,mhxx-dex-1.0+mhxx-save-format-community,6
-148,F Duram Helm,F Duram Helm,mhxx-dex-1.0+mhxx-save-format-community,6
-149,F Kirin Horn S,F Kirin Horn S,mhxx-dex-1.0+mhxx-save-format-community,6
-150,F Puppeteer Mask,F Puppeteer Mask,mhxx-dex-1.0+mhxx-save-format-community,6
-151,F Vangis Helm,F Vangis Helm,mhxx-dex-1.0+mhxx-save-format-community,6
-152,F Kut-Ku Mask R,F Kut-Ku Mask R,mhxx-dex-1.0+mhxx-save-format-community,6
-153,F Kecha Cap R,F Kecha Cap R,mhxx-dex-1.0+mhxx-save-format-community,6
-154,F Gypceros Crest R,F Gypceros Crest R,mhxx-dex-1.0+mhxx-save-format-community,6
-155,F Cabra Horn R,F Cabra Horn R,mhxx-dex-1.0+mhxx-save-format-community,6
-156,F Daimyo Mask R,F Daimyo Mask R,mhxx-dex-1.0+mhxx-save-format-community,6
-157,F Ludroth Helm R,F Ludroth Helm R,mhxx-dex-1.0+mhxx-save-format-community,6
-158,F Malfestio Mask R,F Malfestio Mask R,mhxx-dex-1.0+mhxx-save-format-community,6
-159,F Zamtrios Helmet R,F Zamtrios Helmet R,mhxx-dex-1.0+mhxx-save-format-community,6
-160,F Khezu Cap R,F Khezu Cap R,mhxx-dex-1.0+mhxx-save-format-community,6
-161,F Rathian Helm R,F Rathian Helm R,mhxx-dex-1.0+mhxx-save-format-community,6
-162,F Nibel Helm R,F Nibel Helm R,mhxx-dex-1.0+mhxx-save-format-community,6
-163,F Plesioth Cap R,F Plesioth Cap R,mhxx-dex-1.0+mhxx-save-format-community,6
-164,F Blango Mask R,F Blango Mask R,mhxx-dex-1.0+mhxx-save-format-community,6
-165,F Scholarly Cap S,F Scholarly Cap S,mhxx-dex-1.0+mhxx-save-format-community,7
-166,F Maiden Hood S,F Maiden Hood S,mhxx-dex-1.0+mhxx-save-format-community,7
-167,F Helper Hood S,F Helper Hood S,mhxx-dex-1.0+mhxx-save-format-community,7
-168,F Beautiful Toque,F Beautiful Toque,mhxx-dex-1.0+mhxx-save-format-community,7
-169,F Ultimate Mask,F Ultimate Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-170,F Guild Headgear S,F Guild Headgear S,mhxx-dex-1.0+mhxx-save-format-community,7
-171,F Soul Hairpiece,F Soul Hairpiece,mhxx-dex-1.0+mhxx-save-format-community,7
-172,F Transpurrter Kasa,F Transpurrter Kasa,mhxx-dex-1.0+mhxx-save-format-community,7
-173,F Dirty Locks,F Dirty Locks,mhxx-dex-1.0+mhxx-save-format-community,7
-174,F D'Artanyan's Hat,F D'Artanyan's Hat,mhxx-dex-1.0+mhxx-save-format-community,7
-175,F Master's Helm,F Master's Helm,mhxx-dex-1.0+mhxx-save-format-community,7
-176,F Derring Galea S,F Derring Galea S,mhxx-dex-1.0+mhxx-save-format-community,7
-177,F Seregios Helm S,F Seregios Helm S,mhxx-dex-1.0+mhxx-save-format-community,7
-178,F Brachy Noggin S,F Brachy Noggin S,mhxx-dex-1.0+mhxx-save-format-community,7
-179,F Angel Aura S,F Angel Aura S,mhxx-dex-1.0+mhxx-save-format-community,7
-180,F Husk Mask S,F Husk Mask S,mhxx-dex-1.0+mhxx-save-format-community,7
-181,F Nakarkos Mask,F Nakarkos Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-182,F Lava Helm R,F Lava Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-183,F Ceanataur Mask R,F Ceanataur Mask R,mhxx-dex-1.0+mhxx-save-format-community,7
-184,F Narga Helm R,F Narga Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-185,F Naja Turban R,F Naja Turban R,mhxx-dex-1.0+mhxx-save-format-community,7
-186,F Garuga Hood R,F Garuga Hood R,mhxx-dex-1.0+mhxx-save-format-community,7
-187,F Uragaan Helm R,F Uragaan Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-188,F Seltas Head R,F Seltas Head R,mhxx-dex-1.0+mhxx-save-format-community,7
-189,F Rathalos Helm R,F Rathalos Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-190,F Lagia Triad R,F Lagia Triad R,mhxx-dex-1.0+mhxx-save-format-community,7
-191,F Zinogre Helm R,F Zinogre Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-193,F Kushala Glower S,F Kushala Glower S,mhxx-dex-1.0+mhxx-save-format-community,7
-194,F Genie Helm S,F Genie Helm S,mhxx-dex-1.0+mhxx-save-format-community,7
-195,F Kaiser Crown,F Kaiser Crown,mhxx-dex-1.0+mhxx-save-format-community,7
-196,F Akantor Visage,F Akantor Visage,mhxx-dex-1.0+mhxx-save-format-community,7
-197,F Ukanlos Visage,F Ukanlos Visage,mhxx-dex-1.0+mhxx-save-format-community,7
-198,F Majestic Crown,F Majestic Crown,mhxx-dex-1.0+mhxx-save-format-community,7
-199,F Escador Wisdom,F Escador Wisdom,mhxx-dex-1.0+mhxx-save-format-community,7
-200,F Mizutsune Kasa R,F Mizutsune Kasa R,mhxx-dex-1.0+mhxx-save-format-community,7
-201,F Astalos Mask R,F Astalos Mask R,mhxx-dex-1.0+mhxx-save-format-community,7
-202,F Gammoth Collar R,F Gammoth Collar R,mhxx-dex-1.0+mhxx-save-format-community,7
-203,F Glavenus Helm R,F Glavenus Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-204,F Agnaktor Helm R,F Agnaktor Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-205,F Gore Horror R,F Gore Horror R,mhxx-dex-1.0+mhxx-save-format-community,7
-206,F Seregios Helm R,F Seregios Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-207,F Duram Helm R,F Duram Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-208,F Tigrex Helm R,F Tigrex Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-209,F Brachy Head R,F Brachy Head R,mhxx-dex-1.0+mhxx-save-format-community,7
-210,F Puppeteer Mask R,F Puppeteer Mask R,mhxx-dex-1.0+mhxx-save-format-community,7
-211,F Vangis Helm R,F Vangis Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-212,F Strange Helm,F Strange Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-213,F Strange Helm S,F Strange Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-214,F Redhelm Helm,F Redhelm Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-215,F Redhelm Helm S,F Redhelm Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-216,F Snowbaron Helm,F Snowbaron Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-217,F Snowbaron Helm S,F Snowbaron Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-218,F Stonefist Mask,F Stonefist Mask,mhxx-dex-1.0+mhxx-save-format-community,11
-219,F Stonefist Mask S,F Stonefist Mask S,mhxx-dex-1.0+mhxx-save-format-community,11
-220,F Dreadqueen Helm,F Dreadqueen Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-221,F Dreadqueen Helm S,F Dreadqueen Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-222,F Drilltusk Horn,F Drilltusk Horn,mhxx-dex-1.0+mhxx-save-format-community,11
-223,F Drilltusk Horn S,F Drilltusk Horn S,mhxx-dex-1.0+mhxx-save-format-community,11
-224,F Silverwind Helm,F Silverwind Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-225,F Silverwind Helm S,F Silverwind Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-226,F Crystalbeard Helm,F Crystalbeard Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-227,F Crystalbeard Helm S,F Crystalbeard Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-228,F Deadeye Hood,F Deadeye Hood,mhxx-dex-1.0+mhxx-save-format-community,11
-229,F Deadeye Hood S,F Deadeye Hood S,mhxx-dex-1.0+mhxx-save-format-community,11
-230,F Dreadking Helm,F Dreadking Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-231,F Dreadking Helm S,F Dreadking Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-232,F Thunderlord Helm,F Thunderlord Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-233,F Thunderlord Helm S,F Thunderlord Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-234,F Grimclaw Helm,F Grimclaw Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-235,F Grimclaw Helm S,F Grimclaw Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-236,F Hellblade Helm,F Hellblade Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-237,F Hellblade Helm S,F Hellblade Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-240,F Treasure Crown J,F Treasure Crown J,mhxx-dex-1.0+mhxx-save-format-community,3
-241,F Pirate Bandanna J,F Pirate Bandanna J,mhxx-dex-1.0+mhxx-save-format-community,3
-242,F Legendary Helm J,F Legendary Helm J,mhxx-dex-1.0+mhxx-save-format-community,3
-243,F Greedy Skull J,F Greedy Skull J,mhxx-dex-1.0+mhxx-save-format-community,3
-245,F Monqlo Cap,F Monqlo Cap,mhxx-dex-1.0+mhxx-save-format-community,3
-246,F Meowstar Helm,F Meowstar Helm,mhxx-save-format-community,0
-247,F Baby Tiga Hat,F Baby Tiga Hat,mhxx-dex-1.0+mhxx-save-format-community,3
-248,F Spirits Helm,F Spirits Helm,mhxx-save-format-community,0
-249,F Postman Beret,F Postman Beret,mhxx-dex-1.0+mhxx-save-format-community,7
-250,F Booyah Pompadour,F Booyah Pompadour,mhxx-dex-1.0+mhxx-save-format-community,7
-251,F Sohoku Helmet,F Sohoku Helmet,mhxx-dex-1.0+mhxx-save-format-community,7
-255,F Dark Meowgic Hood,F Dark Meowgic Hood,mhxx-dex-1.0+mhxx-save-format-community,7
-256,F Booty Crown J,F Booty Crown J,mhxx-dex-1.0+mhxx-save-format-community,7
-257,F Buccaneer Bandanna J,F Buccaneer Bandanna J,mhxx-dex-1.0+mhxx-save-format-community,7
-258,F King Helm J,F King Helm J,mhxx-dex-1.0+mhxx-save-format-community,7
-259,F Avaricious Skull J,F Avaricious Skull J,mhxx-dex-1.0+mhxx-save-format-community,7
-261,F Monqlo Cap S,F Monqlo Cap S,mhxx-dex-1.0+mhxx-save-format-community,7
-262,F Supreme Helm,F Supreme Helm,mhxx-save-format-community,0
-263,F Star Hat,F Star Hat,mhxx-save-format-community,0
-264,F Magical Hat,F Magical Hat,mhxx-save-format-community,0
-266,F Nyankyrie Head,F Nyankyrie Head,mhxx-save-format-community,0
-267,F Link Mask,F Link Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-268,F Fox Mic,F Fox Mic,mhxx-dex-1.0+mhxx-save-format-community,7
-269,F Mario Cap,F Mario Cap,mhxx-dex-1.0+mhxx-save-format-community,7
-270,F Luigi Cap,F Luigi Cap,mhxx-dex-1.0+mhxx-save-format-community,7
-273,F Helm of Purrity,F Helm of Purrity,mhxx-dex-1.0+mhxx-save-format-community,7
-274,F Chun Chignon,F Chun Chignon,mhxx-dex-1.0+mhxx-save-format-community,7
-276,F Dante Wig,F Dante Wig,mhxx-dex-1.0+mhxx-save-format-community,7
-277,F Mega Helmet,F Mega Helmet,mhxx-dex-1.0+mhxx-save-format-community,7
-278,F Melodic Curls,F Melodic Curls,mhxx-dex-1.0+mhxx-save-format-community,7
-279,F Baby Tiga Hat S,F Baby Tiga Hat S,mhxx-dex-1.0+mhxx-save-format-community,7
-280,F Sunsnug Mask,F Sunsnug Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-281,F Spirits Helm S,F Spirits Helm S,mhxx-save-format-community,0
-282,F Meowniac's Mask,F Meowniac's Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-283,F Pep Squad Cap,F Pep Squad Cap,mhxx-dex-1.0+mhxx-save-format-community,7
-284,F Giaprey Helm,F Giaprey Helm,mhxx-dex-1.0+mhxx-save-format-community,4
-285,F Conga Steeple,F Conga Steeple,mhxx-dex-1.0+mhxx-save-format-community,4
-286,F Barroth Helm,F Barroth Helm,mhxx-dex-1.0+mhxx-save-format-community,4
-287,F Pleasant Ribbons,F Pleasant Ribbons,mhxx-dex-1.0+mhxx-save-format-community,5
-288,F Wisdom Hat,F Wisdom Hat,mhxx-dex-1.0+mhxx-save-format-community,5
-289,F Basarios Helm,F Basarios Helm,mhxx-dex-1.0+mhxx-save-format-community,5
-290,F Scylla Mask,F Scylla Mask,mhxx-dex-1.0+mhxx-save-format-community,5
-291,F Cheerful Cap,F Cheerful Cap,mhxx-dex-1.0+mhxx-save-format-community,6
-292,F Mariner Hood,F Mariner Hood,mhxx-dex-1.0+mhxx-save-format-community,6
-293,F Barioth Helm,F Barioth Helm,mhxx-dex-1.0+mhxx-save-format-community,6
-294,F Grav Mask,F Grav Mask,mhxx-dex-1.0+mhxx-save-format-community,6
-295,F Diablos Helm,F Diablos Helm,mhxx-dex-1.0+mhxx-save-format-community,7
-296,F Valstrax Helm,F Valstrax Helm,mhxx-dex-1.0+mhxx-save-format-community,7
-297,F Acorn Helm X,F Acorn Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-298,F Bherna Hood X,F Bherna Hood X,mhxx-dex-1.0+mhxx-save-format-community,8
-299,F Gourmet Toque X,F Gourmet Toque X,mhxx-dex-1.0+mhxx-save-format-community,8
-300,F Moofy Head X,F Moofy Head X,mhxx-dex-1.0+mhxx-save-format-community,8
-301,F Aptonoth Mask X,F Aptonoth Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-302,F Popo Head X,F Popo Head X,mhxx-dex-1.0+mhxx-save-format-community,8
-303,F Gargwa Mask X,F Gargwa Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-304,F Larinoth Mask X,F Larinoth Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-306,F Alloy Helm X,F Alloy Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-307,F Bone Helm X,F Bone Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-308,F Alta Hat X,F Alta Hat X,mhxx-dex-1.0+mhxx-save-format-community,8
-309,F Bnaha Cap X,F Bnaha Cap X,mhxx-dex-1.0+mhxx-save-format-community,8
-310,F Jaggi Helm X,F Jaggi Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-311,F Rheno Helm X,F Rheno Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-312,F Slagtoth Hood X,F Slagtoth Hood X,mhxx-dex-1.0+mhxx-save-format-community,8
-313,F Maccao Helm X,F Maccao Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-314,F Velociprey Helm X,F Velociprey Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-315,F Bulldrome Mask X,F Bulldrome Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-316,F Arzuros Helm X,F Arzuros Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-317,F Giaprey Helm X,F Giaprey Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-318,F Genprey Helm X,F Genprey Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-319,F Lagombi Helm X,F Lagombi Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-320,F Cephalos Hat X,F Cephalos Hat X,mhxx-dex-1.0+mhxx-save-format-community,8
-321,F Kut-Ku Mask X,F Kut-Ku Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-322,F Gypceros Crest X,F Gypceros Crest X,mhxx-dex-1.0+mhxx-save-format-community,8
-323,F Cabra Horn X,F Cabra Horn X,mhxx-dex-1.0+mhxx-save-format-community,8
-324,F Daimyo Mask X,F Daimyo Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-325,F Ludroth Helm X,F Ludroth Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-326,F Kecha Cap X,F Kecha Cap X,mhxx-dex-1.0+mhxx-save-format-community,8
-327,F Maiden Hood X,F Maiden Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-328,F Exquisite Toque,F Exquisite Toque,mhxx-dex-1.0+mhxx-save-format-community,9
-329,F Ladybug Cap X,F Ladybug Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-330,F Odd Acorn Mask,F Odd Acorn Mask,mhxx-dex-1.0+mhxx-save-format-community,9
-331,F Odd Pincer Mask,F Odd Pincer Mask,mhxx-dex-1.0+mhxx-save-format-community,9
-332,F Lecturer's Hood X,F Lecturer's Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-333,F Stone God Head,F Stone God Head,mhxx-dex-1.0+mhxx-save-format-community,9
-334,F Venombee Cap X,F Venombee Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-335,F Mosgharl Hat X,F Mosgharl Hat X,mhxx-dex-1.0+mhxx-save-format-community,9
-336,F Marauder Helm X,F Marauder Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-337,F Pleasant Ribbons X,F Pleasant Ribbons X,mhxx-dex-1.0+mhxx-save-format-community,9
-338,F Wisdom Hat X,F Wisdom Hat X,mhxx-dex-1.0+mhxx-save-format-community,9
-339,F Postman Beret X,F Postman Beret X,mhxx-dex-1.0+mhxx-save-format-community,9
-340,F Ioprey Helm X,F Ioprey Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-341,F Volvi Helm X,F Volvi Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-342,F Basarios Helm X,F Basarios Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-343,F Conga Steeple X,F Conga Steeple X,mhxx-dex-1.0+mhxx-save-format-community,9
-344,F Barroth Helm X,F Barroth Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-345,F Khezu Catnurse X,F Khezu Catnurse X,mhxx-dex-1.0+mhxx-save-format-community,9
-346,F Nibel Helm X,F Nibel Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-347,F Malfestio Mask X,F Malfestio Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-348,F Rathian Helm X,F Rathian Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-349,F Blango Mask X,F Blango Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-350,F Ceanataur Mask X,F Ceanataur Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-351,F Scylla Mask X,F Scylla Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-352,F Naja Turban X,F Naja Turban X,mhxx-dex-1.0+mhxx-save-format-community,9
-353,F Narga Helm X,F Narga Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-354,F Zamtrios Helmet X,F Zamtrios Helmet X,mhxx-dex-1.0+mhxx-save-format-community,9
-355,F Plesioth Cap X,F Plesioth Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-356,F Kut-Ku Mask XR,F Kut-Ku Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-357,F Kecha Cap XR,F Kecha Cap XR,mhxx-dex-1.0+mhxx-save-format-community,9
-358,F Gypceros Crest XR,F Gypceros Crest XR,mhxx-dex-1.0+mhxx-save-format-community,9
-359,F Cabra Horn XR,F Cabra Horn XR,mhxx-dex-1.0+mhxx-save-format-community,9
-360,F Daimyo Mask XR,F Daimyo Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-361,F Ludroth Helm XR,F Ludroth Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-362,F Scholarly Cap X,F Scholarly Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-363,F Kittendant Hood X,F Kittendant Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-364,F Derring Galea X,F Derring Galea X,mhxx-dex-1.0+mhxx-save-format-community,9
-365,F Transpurrrrter Kasa,F Transpurrrrter Kasa,mhxx-dex-1.0+mhxx-save-format-community,9
-366,F Ultimate Mask+,F Ultimate Mask+,mhxx-dex-1.0+mhxx-save-format-community,9
-367,F Guide's Hood X,F Guide's Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-368,F Sailor Hat X,F Sailor Hat X,mhxx-dex-1.0+mhxx-save-format-community,9
-369,F Grand Chaos Bulbs,F Grand Chaos Bulbs,mhxx-dex-1.0+mhxx-save-format-community,9
-370,F Death Stench Hood X,F Death Stench Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-371,F El Dora Helm X,F El Dora Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-372,F Artian Core X,F Artian Core X,mhxx-dex-1.0+mhxx-save-format-community,9
-373,F Cheerful Cap X,F Cheerful Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-374,F Mariner Hood X,F Mariner Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-375,F Cute Ribbon,F Cute Ribbon,mhxx-dex-1.0+mhxx-save-format-community,9
-376,F Garuga Hood X,F Garuga Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-377,F Uragaan Helm X,F Uragaan Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-378,F Lava Helm X,F Lava Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-379,F Lagia Triad X,F Lagia Triad X,mhxx-dex-1.0+mhxx-save-format-community,9
-380,F Glavenus Helm X,F Glavenus Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-381,F Astalos Mask X,F Astalos Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-382,F Gammoth Collar X,F Gammoth Collar X,mhxx-dex-1.0+mhxx-save-format-community,9
-383,F Mizutsune Kasa X,F Mizutsune Kasa X,mhxx-dex-1.0+mhxx-save-format-community,9
-384,F Barioth Helm X,F Barioth Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-385,F Rathalos Helm X,F Rathalos Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-386,F Zinogre Helm X,F Zinogre Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-387,F Grav Mask X,F Grav Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-388,F Gore Horror X,F Gore Horror X,mhxx-dex-1.0+mhxx-save-format-community,9
-389,F Tigrex Helm X,F Tigrex Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-390,F Seltas Head X,F Seltas Head X,mhxx-dex-1.0+mhxx-save-format-community,9
-391,F Kirin Horn X,F Kirin Horn X,mhxx-dex-1.0+mhxx-save-format-community,9
-392,F Borealis Crown,F Borealis Crown,mhxx-dex-1.0+mhxx-save-format-community,9
-393,F Basarios Helm XR,F Basarios Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-394,F Conga Steeple XR,F Conga Steeple XR,mhxx-dex-1.0+mhxx-save-format-community,9
-395,F Barroth Helm XR,F Barroth Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-396,F Khezu Cap XR,F Khezu Cap XR,mhxx-dex-1.0+mhxx-save-format-community,9
-397,F Nibel Helm XR,F Nibel Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-398,F Malfestio Mask XR,F Malfestio Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-399,F Rathian Helm XR,F Rathian Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-400,F Blango Mask XR,F Blango Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-401,F Ceanataur Mask XR,F Ceanataur Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-402,F Scylla Mask XR,F Scylla Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-403,F Naja Turban XR,F Naja Turban XR,mhxx-dex-1.0+mhxx-save-format-community,9
-404,F Narga Helm XR,F Narga Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-405,F Zamtrios Helmet XR,F Zamtrios Helmet XR,mhxx-dex-1.0+mhxx-save-format-community,9
-406,F Plesioth Cap XR,F Plesioth Cap XR,mhxx-dex-1.0+mhxx-save-format-community,9
-407,F Guild Headgear X,F Guild Headgear X,mhxx-dex-1.0+mhxx-save-format-community,10
-408,F Spirit Hairpiece,F Spirit Hairpiece,mhxx-dex-1.0+mhxx-save-format-community,10
-409,F Pro Dirty Locks,F Pro Dirty Locks,mhxx-dex-1.0+mhxx-save-format-community,10
-410,F D'Artanyan Hero Hat,F D'Artanyan Hero Hat,mhxx-dex-1.0+mhxx-save-format-community,10
-411,F Master's Helm X,F Master's Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-412,F Barmaid's Cap,F Barmaid's Cap,mhxx-dex-1.0+mhxx-save-format-community,10
-413,F Barman's Shades,F Barman's Shades,mhxx-dex-1.0+mhxx-save-format-community,10
-414,F Agnaktor Helm X,F Agnaktor Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-415,F Duram Helm X,F Duram Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-416,F Seregios Helm X,F Seregios Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-417,F Diablos Helm X,F Diablos Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-418,F Brachy Noggin X,F Brachy Noggin X,mhxx-dex-1.0+mhxx-save-format-community,10
-419,F Angel Aura X,F Angel Aura X,mhxx-dex-1.0+mhxx-save-format-community,10
-420,F Valstrax Helm X,F Valstrax Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-421,F Puppeteer Mask+,F Puppeteer Mask+,mhxx-dex-1.0+mhxx-save-format-community,10
-422,F Vangis Helm X,F Vangis Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-423,F Chaos Hood,F Chaos Hood,mhxx-dex-1.0+mhxx-save-format-community,10
-424,F Kushala Snarl X,F Kushala Snarl X,mhxx-dex-1.0+mhxx-save-format-community,10
-425,F Genie Helm X,F Genie Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-426,F Kaiser Crown X,F Kaiser Crown X,mhxx-dex-1.0+mhxx-save-format-community,10
-427,F Husk Mask X,F Husk Mask X,mhxx-dex-1.0+mhxx-save-format-community,10
-428,F Nakarkos Mask X,F Nakarkos Mask X,mhxx-dex-1.0+mhxx-save-format-community,10
-429,F Neset Helm,F Neset Helm,mhxx-dex-1.0+mhxx-save-format-community,10
-430,F Garuga Hood XR,F Garuga Hood XR,mhxx-dex-1.0+mhxx-save-format-community,10
-431,F Uragaan Helm XR,F Uragaan Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-432,F Lava Helm XR,F Lava Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-433,F Lagia Triad XR,F Lagia Triad XR,mhxx-dex-1.0+mhxx-save-format-community,10
-434,F Glavenus Helm XR,F Glavenus Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-435,F Astalos Mask XR,F Astalos Mask XR,mhxx-dex-1.0+mhxx-save-format-community,10
-436,F Gammoth Collar XR,F Gammoth Collar XR,mhxx-dex-1.0+mhxx-save-format-community,10
-437,F Mizutsune Kasa XR,F Mizutsune Kasa XR,mhxx-dex-1.0+mhxx-save-format-community,10
-438,F Barioth Helm XR,F Barioth Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-439,F Rathalos Helm XR,F Rathalos Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-440,F Zinogre Helm XR,F Zinogre Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-441,F Grav Mask XR,F Grav Mask XR,mhxx-dex-1.0+mhxx-save-format-community,10
-442,F Gore Horror XR,F Gore Horror XR,mhxx-dex-1.0+mhxx-save-format-community,10
-443,F Rex Helm XR,F Rex Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-444,F Seltas Head XR,F Seltas Head XR,mhxx-dex-1.0+mhxx-save-format-community,10
-445,F Hunting Helm X,F Hunting Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-446,F Mafumofu Hood X,F Mafumofu Hood X,mhxx-dex-1.0+mhxx-save-format-community,10
-447,F Yukumo Kasa X,F Yukumo Kasa X,mhxx-dex-1.0+mhxx-save-format-community,10
-448,F Helper Hood X,F Helper Hood X,mhxx-dex-1.0+mhxx-save-format-community,10
-449,F Edel Pigtails X,F Edel Pigtails X,mhxx-dex-1.0+mhxx-save-format-community,10
-451,F Akantor Visage X,F Akantor Visage X,mhxx-dex-1.0+mhxx-save-format-community,10
-452,F Ukanlos Visage X,F Ukanlos Visage X,mhxx-dex-1.0+mhxx-save-format-community,10
-453,F Grand Majestic Crown,F Grand Majestic Crown,mhxx-dex-1.0+mhxx-save-format-community,10
-454,F Escador Wisdom X,F Escador Wisdom X,mhxx-dex-1.0+mhxx-save-format-community,10
-455,F Dragon Helm,F Dragon Helm,mhxx-dex-1.0+mhxx-save-format-community,10
-456,F Fatalis Crimsonhelm,F Fatalis Crimsonhelm,mhxx-dex-1.0+mhxx-save-format-community,10
-457,F Old Fatalis Helm,F Old Fatalis Helm,mhxx-dex-1.0+mhxx-save-format-community,10
-458,F Agnaktor Helm XR,F Agnaktor Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-459,F Duram Helm XR,F Duram Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-460,F Seregios Helm XR,F Seregios Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-461,F Diablos Helm XR,F Diablos Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-462,F Brachy Head XR,F Brachy Head XR,mhxx-dex-1.0+mhxx-save-format-community,10
-463,F Puppeteer Mask XR,F Puppeteer Mask XR,mhxx-dex-1.0+mhxx-save-format-community,10
-464,F Vangis Helm XR,F Vangis Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-465,F Strange Helm X,F Strange Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-466,F Strange Helm XX,F Strange Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-467,F Redhelm Helm X,F Redhelm Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-468,F Redhelm Helm XX,F Redhelm Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-469,F Snowbaron Helm X,F Snowbaron Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-470,F Snowbaron Helm XX,F Snowbaron Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-471,F Stonefist Mask X,F Stonefist Mask X,mhxx-dex-1.0+mhxx-save-format-community,11
-472,F Stonefist Mask XX,F Stonefist Mask XX,mhxx-dex-1.0+mhxx-save-format-community,11
-473,F Dreadqueen Helm X,F Dreadqueen Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-474,F Dreadqueen Helm XX,F Dreadqueen Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-475,F Drilltusk Horn X,F Drilltusk Horn X,mhxx-dex-1.0+mhxx-save-format-community,11
-476,F Drilltusk Horn XX,F Drilltusk Horn XX,mhxx-dex-1.0+mhxx-save-format-community,11
-477,F Nightcloak Mask X,F Nightcloak Mask X,mhxx-dex-1.0+mhxx-save-format-community,11
-478,F Nightcloak Mask XX,F Nightcloak Mask XX,mhxx-dex-1.0+mhxx-save-format-community,11
-479,F Rustrazor Mask X,F Rustrazor Mask X,mhxx-dex-1.0+mhxx-save-format-community,11
-480,F Rustrazor Mask XX,F Rustrazor Mask XX,mhxx-dex-1.0+mhxx-save-format-community,11
-481,F Silverwind Helm X,F Silverwind Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-482,F Silverwind Helm XX,F Silverwind Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-483,F Crystalbeard Helm X,F Crystalbeard Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-484,F Crystalbeard Helm XX,F Crystalbeard Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-485,F Deadeye Hood X,F Deadeye Hood X,mhxx-dex-1.0+mhxx-save-format-community,11
-486,F Deadeye Hood XX,F Deadeye Hood XX,mhxx-dex-1.0+mhxx-save-format-community,11
-487,F Dreadking Helm X,F Dreadking Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-488,F Dreadking Helm XX,F Dreadking Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-489,F Thunderlord Helm X,F Thunderlord Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-490,F Thunderlord Helm XX,F Thunderlord Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-491,F Grimclaw Helm X,F Grimclaw Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-492,F Grimclaw Helm XX,F Grimclaw Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-493,F Hellblade Helm X,F Hellblade Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-494,F Hellblade Helm XX,F Hellblade Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-495,F Soulseer Kasa X,F Soulseer Kasa X,mhxx-dex-1.0+mhxx-save-format-community,11
-496,F Soulseer Kasa XX,F Soulseer Kasa XX,mhxx-dex-1.0+mhxx-save-format-community,11
-497,F Boltreaver Mask X,F Boltreaver Mask X,mhxx-dex-1.0+mhxx-save-format-community,11
-498,F Boltreaver Mask XX,F Boltreaver Mask XX,mhxx-dex-1.0+mhxx-save-format-community,11
-499,F Elderfrost Collar X,F Elderfrost Collar X,mhxx-dex-1.0+mhxx-save-format-community,11
-500,F Elderfrost Collar XX,F Elderfrost Collar XX,mhxx-dex-1.0+mhxx-save-format-community,11
-501,F Bloodbath Helm X,F Bloodbath Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-502,F Bloodbath Helm XX,F Bloodbath Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-504,F Nyatfire Kasa,F Nyatfire Kasa,mhxx-save-format-community,0
-507,F Nyatfire Kasa+,F Nyatfire Kasa+,mhxx-save-format-community,0
-508,F Okami Hood,F Okami Hood,mhxx-dex-1.0+mhxx-save-format-community,7
-509,F Arthur's Helm,F Arthur's Helm,mhxx-dex-1.0+mhxx-save-format-community,7
-511,F Detective Specs,F Detective Specs,mhxx-dex-1.0+mhxx-save-format-community,7
-514,F Okami Hood X,F Okami Hood X,mhxx-dex-1.0+mhxx-save-format-community,10
-515,F Arthur's Helm X,F Arthur's Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-517,F Detective Specs X,F Detective Specs X,mhxx-dex-1.0+mhxx-save-format-community,10
-520,F Tesshou Head,F Tesshou Head,mhxx-dex-1.0+mhxx-save-format-community,10
-521,F Booyah Pompadour X,F Booyah Pompadour X,mhxx-dex-1.0+mhxx-save-format-community,10
-523,F Phoenix Wig,F Phoenix Wig,mhxx-dex-1.0+mhxx-save-format-community,10
-524,F Kittyback Hat,F Kittyback Hat,mhxx-dex-1.0+mhxx-save-format-community,10
-526,F Nyatfire Kasa Z,F Nyatfire Kasa Z,mhxx-save-format-community,0
+0,None,None,mhxx-romfs-game-array,0
+1,F Acorn Helm,F Acorn Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+2,F Bherna Hood,F Bherna Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+3,F Alloy Helm,F Alloy Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+4,F Bone Helm,F Bone Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+5,F Jaggi Helm,F Jaggi Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+6,F Hunting Helm,F Hunting Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+7,F Mafumofu Hood,F Mafumofu Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+8,F Yukumo Kasa,F Yukumo Kasa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+9,F Alta Hat,F Alta Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+10,F Rheno Helm,F Rheno Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+11,F Bnaha Cap,F Bnaha Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+12,F Maccao Helm,F Maccao Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+13,F Velociprey Helm,F Velociprey Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+14,F Bulldrome Mask,F Bulldrome Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+15,F Arzuros Helm,F Arzuros Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+16,F Genprey Helm,F Genprey Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+17,F Cephalos Hat,F Cephalos Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+18,F Stone Head,F Stone Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+19,F Venombee Cap,F Venombee Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+20,F Gourmet Toque,F Gourmet Toque,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+21,F Moofy Head,F Moofy Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+22,F Aptonoth Mask,F Aptonoth Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+23,F Popo Head,F Popo Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+24,F Gargwa Mask,F Gargwa Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+25,F Ioprey Helm,F Ioprey Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+26,F Lagombi Helm,F Lagombi Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+27,F Kut-Ku Mask,F Kut-Ku Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+28,F Gypceros Crest,F Gypceros Crest,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+29,F Cabra Horn,F Cabra Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+30,F Daimyo Mask,F Daimyo Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+31,F Ludroth Helm,F Ludroth Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+32,F Khezu Cap,F Khezu Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+33,F Nibel Helm,F Nibel Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+34,F Scholarly Cap,F Scholarly Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+35,F Derring Galea,F Derring Galea,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+36,F Edel Pigtails,F Edel Pigtails,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+37,F Kittendant Hood,F Kittendant Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+38,F Mosgharl Hat,F Mosgharl Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+39,F Larinoth Mask,F Larinoth Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+40,F Death Stench Hood,F Death Stench Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+41,F Marauder Helm,F Marauder Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+42,F Volvi Helm,F Volvi Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+43,F Malfestio Mask,F Malfestio Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+44,F Rathian Helm,F Rathian Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+45,F Blango Mask,F Blango Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+46,F Ceanataur Mask,F Ceanataur Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+47,F Naja Turban,F Naja Turban,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+48,F Narga Helm,F Narga Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+49,F Maiden Hood,F Maiden Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+50,F Helper Hood,F Helper Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+51,F Pretty Toque,F Pretty Toque,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+52,F Chaos Bulbs,F Chaos Bulbs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+53,F El Dora Helm,F El Dora Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+54,F Artian Core,F Artian Core,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+55,F Garuga Hood,F Garuga Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+56,F Uragaan Helm,F Uragaan Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+57,F Rathalos Helm,F Rathalos Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+58,F Lagia Tricorne,F Lagia Tricorne,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+59,F Astalos Mask,F Astalos Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+60,F Gammoth Collar,F Gammoth Collar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+61,F Mizutsune Kasa,F Mizutsune Kasa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+62,F Guild Headgear,F Guild Headgear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+63,F Glavenus Helm,F Glavenus Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+64,F Zinogre Helm,F Zinogre Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+65,F Gore Horror,F Gore Horror,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+66,F Seregios Helm,F Seregios Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+67,F Tigrex Helm,F Tigrex Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+68,F Kirin Horn,F Kirin Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+69,F Brachy Headgear,F Brachy Headgear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+70,F Angel Halo,F Angel Halo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+71,F Kushala Glare,F Kushala Glare,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+72,F Genie Helm,F Genie Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+73,F Kaiser Periwig,F Kaiser Periwig,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+74,F Husk Mask,F Husk Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+75,F Acorn Helm S,F Acorn Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+76,F Bherna Hood S,F Bherna Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+77,F Hunting Helm S,F Hunting Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+78,F Mafumofu Hood S,F Mafumofu Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+79,F Yukumo Kasa S,F Yukumo Kasa S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+80,F Gourmet Toque S,F Gourmet Toque S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+81,F Moofy Head S,F Moofy Head S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+82,F Aptonoth Mask S,F Aptonoth Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+83,F Popo Head S,F Popo Head S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+84,F Gargwa Mask S,F Gargwa Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+85,F Larinoth Mask S,F Larinoth Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+86,F Alloy Helm S,F Alloy Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+87,F Bone Helm S,F Bone Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+88,F Alta Hat S,F Alta Hat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+89,F Bnaha Cap S,F Bnaha Cap S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+90,F Jaggi Helm S,F Jaggi Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+91,F Rheno Helm S,F Rheno Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+92,F Slagtoth Hood,F Slagtoth Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+93,F Maccao Helm S,F Maccao Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+94,F Velociprey Helm S,F Velociprey Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+95,F Bulldrome Mask S,F Bulldrome Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+96,F Arzuros Helm S,F Arzuros Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+97,F Genprey Helm S,F Genprey Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+98,F Lagombi Helm S,F Lagombi Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+99,F Cephalos Hat S,F Cephalos Hat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+100,F Kut-Ku Mask S,F Kut-Ku Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+101,F Gypceros Crest S,F Gypceros Crest S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+102,F Cabra Horn S,F Cabra Horn S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+103,F Daimyo Mask S,F Daimyo Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+104,F Ludroth Helm S,F Ludroth Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+105,F Kecha Cap,F Kecha Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+106,F Ladybug Cap,F Ladybug Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+107,F Lecturer's Hood,F Lecturer's Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+108,F Guide's Hood,F Guide's Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+109,F Sailor Hat,F Sailor Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+110,F Stone King Head,F Stone King Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+111,F Venombee Cap S,F Venombee Cap S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+112,F Mosgharl Hat S,F Mosgharl Hat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+113,F Marauder Helm S,F Marauder Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+114,F Ioprey Helm S,F Ioprey Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+115,F Volvi Helm S,F Volvi Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+116,F Khezu Catnurse S,F Khezu Catnurse S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+117,F Nibel Helm S,F Nibel Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+118,F Malfestio Mask S,F Malfestio Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+119,F Rathian Helm S,F Rathian Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+120,F Blango Mask S,F Blango Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+121,F Ceanataur Mask S,F Ceanataur Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+122,F Naja Turban S,F Naja Turban S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+123,F Narga Helm S,F Narga Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+124,F Garuga Hood S,F Garuga Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+125,F Uragaan Helm S,F Uragaan Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+126,F Zamtrios Helmet,F Zamtrios Helmet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+127,F Plesioth Cap,F Plesioth Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+128,F Lava Helm,F Lava Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+129,F Edel Pigtails S,F Edel Pigtails S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+130,F Kittendant Hood S,F Kittendant Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+131,F Acorn Mask,F Acorn Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+132,F Pincer Mask,F Pincer Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+133,F Chaos Bulbs+,F Chaos Bulbs+,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+134,F Death Stench Hood S,F Death Stench Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+135,F El Dora Helm S,F El Dora Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+136,F Artian Core S,F Artian Core S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+137,F Lagia Triad S,F Lagia Triad S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+138,F Glavenus Helm S,F Glavenus Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+139,F Astalos Mask S,F Astalos Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+140,F Gammoth Collar S,F Gammoth Collar S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+141,F Mizutsune Kasa S,F Mizutsune Kasa S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+142,F Rathalos Helm S,F Rathalos Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+143,F Zinogre Helm S,F Zinogre Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+144,F Gore Horror S,F Gore Horror S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+145,F Tigrex Helm S,F Tigrex Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+146,F Seltas Head,F Seltas Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+147,F Agnaktor Helm,F Agnaktor Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+148,F Duram Helm,F Duram Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+149,F Kirin Horn S,F Kirin Horn S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+150,F Puppeteer Mask,F Puppeteer Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+151,F Vangis Helm,F Vangis Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+152,F Kut-Ku Mask R,F Kut-Ku Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+153,F Kecha Cap R,F Kecha Cap R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+154,F Gypceros Crest R,F Gypceros Crest R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+155,F Cabra Horn R,F Cabra Horn R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+156,F Daimyo Mask R,F Daimyo Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+157,F Ludroth Helm R,F Ludroth Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+158,F Malfestio Mask R,F Malfestio Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+159,F Zamtrios Helmet R,F Zamtrios Helmet R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+160,F Khezu Cap R,F Khezu Cap R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+161,F Rathian Helm R,F Rathian Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+162,F Nibel Helm R,F Nibel Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+163,F Plesioth Cap R,F Plesioth Cap R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+164,F Blango Mask R,F Blango Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+165,F Scholarly Cap S,F Scholarly Cap S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+166,F Maiden Hood S,F Maiden Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+167,F Helper Hood S,F Helper Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+168,F Beautiful Toque,F Beautiful Toque,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+169,F Ultimate Mask,F Ultimate Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+170,F Guild Headgear S,F Guild Headgear S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+171,F Soul Hairpiece,F Soul Hairpiece,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+172,F Transpurrter Kasa,F Transpurrter Kasa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+173,F Dirty Locks,F Dirty Locks,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+174,F D'Artanyan's Hat,F D'Artanyan's Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+175,F Master's Helm,F Master's Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+176,F Derring Galea S,F Derring Galea S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+177,F Seregios Helm S,F Seregios Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+178,F Brachy Noggin S,F Brachy Noggin S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+179,F Angel Aura S,F Angel Aura S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+180,F Husk Mask S,F Husk Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+181,F Nakarkos Mask,F Nakarkos Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+182,F Lava Helm R,F Lava Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+183,F Ceanataur Mask R,F Ceanataur Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+184,F Narga Helm R,F Narga Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+185,F Naja Turban R,F Naja Turban R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+186,F Garuga Hood R,F Garuga Hood R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+187,F Uragaan Helm R,F Uragaan Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+188,F Seltas Head R,F Seltas Head R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+189,F Rathalos Helm R,F Rathalos Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+190,F Lagia Triad R,F Lagia Triad R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+191,F Zinogre Helm R,F Zinogre Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+193,F Kushala Glower S,F Kushala Glower S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+194,F Genie Helm S,F Genie Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+195,F Kaiser Crown,F Kaiser Crown,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+196,F Akantor Visage,F Akantor Visage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+197,F Ukanlos Visage,F Ukanlos Visage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+198,F Majestic Crown,F Majestic Crown,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+199,F Escador Wisdom,F Escador Wisdom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+200,F Mizutsune Kasa R,F Mizutsune Kasa R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+201,F Astalos Mask R,F Astalos Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+202,F Gammoth Collar R,F Gammoth Collar R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+203,F Glavenus Helm R,F Glavenus Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+204,F Agnaktor Helm R,F Agnaktor Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+205,F Gore Horror R,F Gore Horror R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+206,F Seregios Helm R,F Seregios Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+207,F Duram Helm R,F Duram Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+208,F Tigrex Helm R,F Tigrex Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+209,F Brachy Head R,F Brachy Head R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+210,F Puppeteer Mask R,F Puppeteer Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+211,F Vangis Helm R,F Vangis Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+212,F Strange Helm,F Strange Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+213,F Strange Helm S,F Strange Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+214,F Redhelm Helm,F Redhelm Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+215,F Redhelm Helm S,F Redhelm Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+216,F Snowbaron Helm,F Snowbaron Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+217,F Snowbaron Helm S,F Snowbaron Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+218,F Stonefist Mask,F Stonefist Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+219,F Stonefist Mask S,F Stonefist Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+220,F Dreadqueen Helm,F Dreadqueen Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+221,F Dreadqueen Helm S,F Dreadqueen Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+222,F Drilltusk Horn,F Drilltusk Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+223,F Drilltusk Horn S,F Drilltusk Horn S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+224,F Silverwind Helm,F Silverwind Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+225,F Silverwind Helm S,F Silverwind Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+226,F Crystalbeard Helm,F Crystalbeard Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+227,F Crystalbeard Helm S,F Crystalbeard Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+228,F Deadeye Hood,F Deadeye Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+229,F Deadeye Hood S,F Deadeye Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+230,F Dreadking Helm,F Dreadking Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+231,F Dreadking Helm S,F Dreadking Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+232,F Thunderlord Helm,F Thunderlord Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+233,F Thunderlord Helm S,F Thunderlord Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+234,F Grimclaw Helm,F Grimclaw Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+235,F Grimclaw Helm S,F Grimclaw Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+236,F Hellblade Helm,F Hellblade Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+237,F Hellblade Helm S,F Hellblade Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+240,F Treasure Crown J,F Treasure Crown J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+241,F Pirate Bandanna J,F Pirate Bandanna J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+242,F Legendary Helm J,F Legendary Helm J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+243,F Greedy Skull J,F Greedy Skull J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+245,F Monqlo Cap,F Monqlo Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+246,F Meowstar Helm,F Meowstar Helm,mhxx-romfs-game-array+mhxx-save-format-community,0
+247,F Baby Tiga Hat,F Baby Tiga Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+248,F Spirits Helm,F Spirits Helm,mhxx-romfs-game-array+mhxx-save-format-community,0
+249,F Postman Beret,F Postman Beret,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+250,F Booyah Pompadour,F Booyah Pompadour,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+251,F Sohoku Helmet,F Sohoku Helmet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+255,F Dark Meowgic Hood,F Dark Meowgic Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+256,F Booty Crown J,F Booty Crown J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+257,F Buccaneer Bandanna J,F Buccaneer Bandanna J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+258,F King Helm J,F King Helm J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+259,F Avaricious Skull J,F Avaricious Skull J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+261,F Monqlo Cap S,F Monqlo Cap S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+262,F Supreme Helm,F Supreme Helm,mhxx-romfs-game-array+mhxx-save-format-community,0
+263,F Star Hat,F Star Hat,mhxx-romfs-game-array+mhxx-save-format-community,0
+264,F Magical Hat,F Magical Hat,mhxx-romfs-game-array+mhxx-save-format-community,0
+266,F Nyankyrie Head,F Nyankyrie Head,mhxx-romfs-game-array+mhxx-save-format-community,0
+267,F Link Mask,F Link Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+268,F Fox Mic,F Fox Mic,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+269,F Mario Cap,F Mario Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+270,F Luigi Cap,F Luigi Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+273,F Helm of Purrity,F Helm of Purrity,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+274,F Chun Chignon,F Chun Chignon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+276,F Dante Wig,F Dante Wig,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+277,F Mega Helmet,F Mega Helmet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+278,F Melodic Curls,F Melodic Curls,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+279,F Baby Tiga Hat S,F Baby Tiga Hat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+280,F Sunsnug Mask,F Sunsnug Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+281,F Spirits Helm S,F Spirits Helm S,mhxx-romfs-game-array+mhxx-save-format-community,0
+282,F Meowniac's Mask,F Meowniac's Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+283,F Pep Squad Cap,F Pep Squad Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+284,F Giaprey Helm,F Giaprey Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+285,F Conga Steeple,F Conga Steeple,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+286,F Barroth Helm,F Barroth Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+287,F Pleasant Ribbons,F Pleasant Ribbons,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+288,F Wisdom Hat,F Wisdom Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+289,F Basarios Helm,F Basarios Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+290,F Scylla Mask,F Scylla Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+291,F Cheerful Cap,F Cheerful Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+292,F Mariner Hood,F Mariner Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+293,F Barioth Helm,F Barioth Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+294,F Grav Mask,F Grav Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+295,F Diablos Helm,F Diablos Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+296,F Valstrax Helm,F Valstrax Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+297,F Acorn Helm X,F Acorn Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+298,F Bherna Hood X,F Bherna Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+299,F Gourmet Toque X,F Gourmet Toque X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+300,F Moofy Head X,F Moofy Head X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+301,F Aptonoth Mask X,F Aptonoth Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+302,F Popo Head X,F Popo Head X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+303,F Gargwa Mask X,F Gargwa Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+304,F Larinoth Mask X,F Larinoth Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+306,F Alloy Helm X,F Alloy Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+307,F Bone Helm X,F Bone Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+308,F Alta Hat X,F Alta Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+309,F Bnaha Cap X,F Bnaha Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+310,F Jaggi Helm X,F Jaggi Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+311,F Rheno Helm X,F Rheno Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+312,F Slagtoth Hood X,F Slagtoth Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+313,F Maccao Helm X,F Maccao Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+314,F Velociprey Helm X,F Velociprey Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+315,F Bulldrome Mask X,F Bulldrome Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+316,F Arzuros Helm X,F Arzuros Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+317,F Giaprey Helm X,F Giaprey Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+318,F Genprey Helm X,F Genprey Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+319,F Lagombi Helm X,F Lagombi Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+320,F Cephalos Hat X,F Cephalos Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+321,F Kut-Ku Mask X,F Kut-Ku Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+322,F Gypceros Crest X,F Gypceros Crest X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+323,F Cabra Horn X,F Cabra Horn X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+324,F Daimyo Mask X,F Daimyo Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+325,F Ludroth Helm X,F Ludroth Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+326,F Kecha Cap X,F Kecha Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+327,F Maiden Hood X,F Maiden Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+328,F Exquisite Toque,F Exquisite Toque,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+329,F Ladybug Cap X,F Ladybug Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+330,F Odd Acorn Mask,F Odd Acorn Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+331,F Odd Pincer Mask,F Odd Pincer Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+332,F Lecturer's Hood X,F Lecturer's Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+333,F Stone God Head,F Stone God Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+334,F Venombee Cap X,F Venombee Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+335,F Mosgharl Hat X,F Mosgharl Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+336,F Marauder Helm X,F Marauder Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+337,F Pleasant Ribbons X,F Pleasant Ribbons X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+338,F Wisdom Hat X,F Wisdom Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+339,F Postman Beret X,F Postman Beret X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+340,F Ioprey Helm X,F Ioprey Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+341,F Volvi Helm X,F Volvi Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+342,F Basarios Helm X,F Basarios Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+343,F Conga Steeple X,F Conga Steeple X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+344,F Barroth Helm X,F Barroth Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+345,F Khezu Catnurse X,F Khezu Catnurse X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+346,F Nibel Helm X,F Nibel Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+347,F Malfestio Mask X,F Malfestio Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+348,F Rathian Helm X,F Rathian Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+349,F Blango Mask X,F Blango Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+350,F Ceanataur Mask X,F Ceanataur Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+351,F Scylla Mask X,F Scylla Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+352,F Naja Turban X,F Naja Turban X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+353,F Narga Helm X,F Narga Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+354,F Zamtrios Helmet X,F Zamtrios Helmet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+355,F Plesioth Cap X,F Plesioth Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+356,F Kut-Ku Mask XR,F Kut-Ku Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+357,F Kecha Cap XR,F Kecha Cap XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+358,F Gypceros Crest XR,F Gypceros Crest XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+359,F Cabra Horn XR,F Cabra Horn XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+360,F Daimyo Mask XR,F Daimyo Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+361,F Ludroth Helm XR,F Ludroth Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+362,F Scholarly Cap X,F Scholarly Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+363,F Kittendant Hood X,F Kittendant Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+364,F Derring Galea X,F Derring Galea X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+365,F Transpurrrrter Kasa,F Transpurrrrter Kasa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+366,F Ultimate Mask+,F Ultimate Mask+,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+367,F Guide's Hood X,F Guide's Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+368,F Sailor Hat X,F Sailor Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+369,F Grand Chaos Bulbs,F Grand Chaos Bulbs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+370,F Death Stench Hood X,F Death Stench Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+371,F El Dora Helm X,F El Dora Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+372,F Artian Core X,F Artian Core X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+373,F Cheerful Cap X,F Cheerful Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+374,F Mariner Hood X,F Mariner Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+375,F Cute Ribbon,F Cute Ribbon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+376,F Garuga Hood X,F Garuga Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+377,F Uragaan Helm X,F Uragaan Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+378,F Lava Helm X,F Lava Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+379,F Lagia Triad X,F Lagia Triad X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+380,F Glavenus Helm X,F Glavenus Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+381,F Astalos Mask X,F Astalos Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+382,F Gammoth Collar X,F Gammoth Collar X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+383,F Mizutsune Kasa X,F Mizutsune Kasa X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+384,F Barioth Helm X,F Barioth Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+385,F Rathalos Helm X,F Rathalos Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+386,F Zinogre Helm X,F Zinogre Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+387,F Grav Mask X,F Grav Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+388,F Gore Horror X,F Gore Horror X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+389,F Tigrex Helm X,F Tigrex Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+390,F Seltas Head X,F Seltas Head X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+391,F Kirin Horn X,F Kirin Horn X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+392,F Borealis Crown,F Borealis Crown,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+393,F Basarios Helm XR,F Basarios Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+394,F Conga Steeple XR,F Conga Steeple XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+395,F Barroth Helm XR,F Barroth Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+396,F Khezu Cap XR,F Khezu Cap XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+397,F Nibel Helm XR,F Nibel Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+398,F Malfestio Mask XR,F Malfestio Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+399,F Rathian Helm XR,F Rathian Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+400,F Blango Mask XR,F Blango Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+401,F Ceanataur Mask XR,F Ceanataur Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+402,F Scylla Mask XR,F Scylla Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+403,F Naja Turban XR,F Naja Turban XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+404,F Narga Helm XR,F Narga Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+405,F Zamtrios Helmet XR,F Zamtrios Helmet XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+406,F Plesioth Cap XR,F Plesioth Cap XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+407,F Guild Headgear X,F Guild Headgear X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+408,F Spirit Hairpiece,F Spirit Hairpiece,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+409,F Pro Dirty Locks,F Pro Dirty Locks,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+410,F D'Artanyan Hero Hat,F D'Artanyan Hero Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+411,F Master's Helm X,F Master's Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+412,F Barmaid's Cap,F Barmaid's Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+413,F Barman's Shades,F Barman's Shades,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+414,F Agnaktor Helm X,F Agnaktor Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+415,F Duram Helm X,F Duram Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+416,F Seregios Helm X,F Seregios Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+417,F Diablos Helm X,F Diablos Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+418,F Brachy Noggin X,F Brachy Noggin X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+419,F Angel Aura X,F Angel Aura X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+420,F Valstrax Helm X,F Valstrax Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+421,F Puppeteer Mask+,F Puppeteer Mask+,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+422,F Vangis Helm X,F Vangis Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+423,F Chaos Hood,F Chaos Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+424,F Kushala Snarl X,F Kushala Snarl X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+425,F Genie Helm X,F Genie Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+426,F Kaiser Crown X,F Kaiser Crown X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+427,F Husk Mask X,F Husk Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+428,F Nakarkos Mask X,F Nakarkos Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+429,F Neset Helm,F Neset Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+430,F Garuga Hood XR,F Garuga Hood XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+431,F Uragaan Helm XR,F Uragaan Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+432,F Lava Helm XR,F Lava Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+433,F Lagia Triad XR,F Lagia Triad XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+434,F Glavenus Helm XR,F Glavenus Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+435,F Astalos Mask XR,F Astalos Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+436,F Gammoth Collar XR,F Gammoth Collar XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+437,F Mizutsune Kasa XR,F Mizutsune Kasa XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+438,F Barioth Helm XR,F Barioth Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+439,F Rathalos Helm XR,F Rathalos Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+440,F Zinogre Helm XR,F Zinogre Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+441,F Grav Mask XR,F Grav Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+442,F Gore Horror XR,F Gore Horror XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+443,F Rex Helm XR,F Rex Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+444,F Seltas Head XR,F Seltas Head XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+445,F Hunting Helm X,F Hunting Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+446,F Mafumofu Hood X,F Mafumofu Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+447,F Yukumo Kasa X,F Yukumo Kasa X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+448,F Helper Hood X,F Helper Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+449,F Edel Pigtails X,F Edel Pigtails X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+451,F Akantor Visage X,F Akantor Visage X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+452,F Ukanlos Visage X,F Ukanlos Visage X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+453,F Grand Majestic Crown,F Grand Majestic Crown,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+454,F Escador Wisdom X,F Escador Wisdom X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+455,F Dragon Helm,F Dragon Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+456,F Fatalis Crimsonhelm,F Fatalis Crimsonhelm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+457,F Old Fatalis Helm,F Old Fatalis Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+458,F Agnaktor Helm XR,F Agnaktor Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+459,F Duram Helm XR,F Duram Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+460,F Seregios Helm XR,F Seregios Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+461,F Diablos Helm XR,F Diablos Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+462,F Brachy Head XR,F Brachy Head XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+463,F Puppeteer Mask XR,F Puppeteer Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+464,F Vangis Helm XR,F Vangis Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+465,F Strange Helm X,F Strange Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+466,F Strange Helm XX,F Strange Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+467,F Redhelm Helm X,F Redhelm Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+468,F Redhelm Helm XX,F Redhelm Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+469,F Snowbaron Helm X,F Snowbaron Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+470,F Snowbaron Helm XX,F Snowbaron Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+471,F Stonefist Mask X,F Stonefist Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+472,F Stonefist Mask XX,F Stonefist Mask XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+473,F Dreadqueen Helm X,F Dreadqueen Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+474,F Dreadqueen Helm XX,F Dreadqueen Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+475,F Drilltusk Horn X,F Drilltusk Horn X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+476,F Drilltusk Horn XX,F Drilltusk Horn XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+477,F Nightcloak Mask X,F Nightcloak Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+478,F Nightcloak Mask XX,F Nightcloak Mask XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+479,F Rustrazor Mask X,F Rustrazor Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+480,F Rustrazor Mask XX,F Rustrazor Mask XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+481,F Silverwind Helm X,F Silverwind Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+482,F Silverwind Helm XX,F Silverwind Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+483,F Crystalbeard Helm X,F Crystalbeard Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+484,F Crystalbeard Helm XX,F Crystalbeard Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+485,F Deadeye Hood X,F Deadeye Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+486,F Deadeye Hood XX,F Deadeye Hood XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+487,F Dreadking Helm X,F Dreadking Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+488,F Dreadking Helm XX,F Dreadking Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+489,F Thunderlord Helm X,F Thunderlord Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+490,F Thunderlord Helm XX,F Thunderlord Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+491,F Grimclaw Helm X,F Grimclaw Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+492,F Grimclaw Helm XX,F Grimclaw Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+493,F Hellblade Helm X,F Hellblade Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+494,F Hellblade Helm XX,F Hellblade Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+495,F Soulseer Kasa X,F Soulseer Kasa X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+496,F Soulseer Kasa XX,F Soulseer Kasa XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+497,F Boltreaver Mask X,F Boltreaver Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+498,F Boltreaver Mask XX,F Boltreaver Mask XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+499,F Elderfrost Collar X,F Elderfrost Collar X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+500,F Elderfrost Collar XX,F Elderfrost Collar XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+501,F Bloodbath Helm X,F Bloodbath Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+502,F Bloodbath Helm XX,F Bloodbath Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+504,F Nyatfire Kasa,F Nyatfire Kasa,mhxx-romfs-game-array+mhxx-save-format-community,0
+507,F Nyatfire Kasa+,F Nyatfire Kasa+,mhxx-romfs-game-array+mhxx-save-format-community,0
+508,F Okami Hood,F Okami Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+509,F Arthur's Helm,F Arthur's Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+511,F Detective Specs,F Detective Specs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+514,F Okami Hood X,F Okami Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+515,F Arthur's Helm X,F Arthur's Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+517,F Detective Specs X,F Detective Specs X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+520,F Tesshou Head,F Tesshou Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+521,F Booyah Pompadour X,F Booyah Pompadour X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+523,F Phoenix Wig,F Phoenix Wig,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+524,F Kittyback Hat,F Kittyback Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+526,F Nyatfire Kasa Z,F Nyatfire Kasa Z,mhxx-romfs-game-array+mhxx-save-format-community,0

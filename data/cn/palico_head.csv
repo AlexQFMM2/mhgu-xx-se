@@ -1,503 +1,503 @@
 id,name,english,source,rarity
-0,无,None,mhxx-save-format-community,0
-1,橡子猫头盔,F Acorn Helm,mhxx-dex-1.0+mhxx-save-format-community,1
-2,贝鲁纳猫兜帽,F Bherna Hood,mhxx-dex-1.0+mhxx-save-format-community,1
-3,合金猫头盔,F Alloy Helm,mhxx-dex-1.0+mhxx-save-format-community,1
-4,骨制猫头盔,F Bone Helm,mhxx-dex-1.0+mhxx-save-format-community,1
-5,狗龙猫头盔,F Jaggi Helm,mhxx-dex-1.0+mhxx-save-format-community,1
-6,狩猎猫头盔,F Hunting Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-7,毛皮猫兜帽,F Mafumofu Hood,mhxx-dex-1.0+mhxx-save-format-community,2
-8,结云猫斗笠,F Yukumo Kasa,mhxx-dex-1.0+mhxx-save-format-community,2
-9,变化猫帽,F Alta Hat,mhxx-dex-1.0+mhxx-save-format-community,2
-10,硬甲龙猫头盔,F Rheno Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-11,飞甲虫猫帽,F Bnaha Cap,mhxx-dex-1.0+mhxx-save-format-community,2
-12,跳狗龙猫头盔,F Maccao Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-13,蓝速龙猫头盔,F Velociprey Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-14,野猪王猫面具,F Bulldrome Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-15,青熊兽猫头盔,F Arzuros Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-16,黄速龙猫头盔,F Genprey Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-17,砂龙猫帽,F Cephalos Hat,mhxx-dex-1.0+mhxx-save-format-community,2
-18,猫兽人的石头,F Stone Head,mhxx-dex-1.0+mhxx-save-format-community,2
-19,毒蜂猫护头,F Venombee Cap,mhxx-dex-1.0+mhxx-save-format-community,2
-20,美食家猫厨师帽,F Gourmet Toque,mhxx-dex-1.0+mhxx-save-format-community,2
-21,云羊鹿猫头部,F Moofy Head,mhxx-dex-1.0+mhxx-save-format-community,2
-22,草食龙猫面具,F Aptonoth Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-23,波波猫头部,F Popo Head,mhxx-dex-1.0+mhxx-save-format-community,2
-24,丸鸟猫面具,F Gargwa Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-25,红速龙猫头盔,F Ioprey Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-26,白兔兽猫头盔,F Lagombi Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-27,怪鸟猫面具,F Kut-Ku Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-28,毒怪鸟猫覆盔,F Gypceros Crest,mhxx-dex-1.0+mhxx-save-format-community,2
-29,鬼蛙猫大角,F Cabra Horn,mhxx-dex-1.0+mhxx-save-format-community,2
-30,大名盾蟹猫面具,F Daimyo Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-31,水兽猫头盔,F Ludroth Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-32,白电猫帽,F Khezu Cap,mhxx-dex-1.0+mhxx-save-format-community,2
-33,潜口龙猫头盔,F Nibel Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-34,贤者猫帽,F Scholarly Cap,mhxx-dex-1.0+mhxx-save-format-community,2
-35,勇气猫军盔,F Derring Galea,mhxx-dex-1.0+mhxx-save-format-community,2
-36,雪绒花双猫尾,F Edel Pigtails,mhxx-dex-1.0+mhxx-save-format-community,2
-37,克鲁茵猫兜帽,F Kittendant Hood,mhxx-dex-1.0+mhxx-save-format-community,2
-38,南瓜猫帽,F Mosgharl Hat,mhxx-dex-1.0+mhxx-save-format-community,2
-39,首鸣龙猫面具,F Larinoth Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-40,死神猫兜帽,F Death Stench Hood,mhxx-dex-1.0+mhxx-save-format-community,2
-41,武者猫头盔,F Marauder Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-42,赤甲兽猫头盔,F Volvi Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-43,夜鸟猫面具,F Malfestio Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-44,雌火龙猫头盔,F Rathian Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-45,雪狮子猫面具,F Blango Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-46,将军镰蟹猫面具,F Ceanataur Mask,mhxx-dex-1.0+mhxx-save-format-community,2
-47,绞蛇龙猫头巾,F Naja Turban,mhxx-dex-1.0+mhxx-save-format-community,2
-48,迅龙猫头盔,F Narga Helm,mhxx-dex-1.0+mhxx-save-format-community,2
-49,女仆猫兜帽,F Maiden Hood,mhxx-dex-1.0+mhxx-save-format-community,3
-50,支援者猫兜帽,F Helper Hood,mhxx-dex-1.0+mhxx-save-format-community,3
-51,喵和抚子【布冠】,F Pretty Toque,mhxx-dex-1.0+mhxx-save-format-community,3
-52,混沌的阿尔,F Chaos Bulbs,mhxx-dex-1.0+mhxx-save-format-community,3
-53,黄金乡猫头盔,F El Dora Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-54,机械猫核心,F Artian Core,mhxx-dex-1.0+mhxx-save-format-community,3
-55,黑狼鸟猫头巾,F Garuga Hood,mhxx-dex-1.0+mhxx-save-format-community,3
-56,爆锤龙猫头盔,F Uragaan Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-57,火龙猫头盔,F Rathalos Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-58,海龙猫海盗帽,F Lagia Tricorne,mhxx-dex-1.0+mhxx-save-format-community,3
-59,电龙猫面具,F Astalos Mask,mhxx-dex-1.0+mhxx-save-format-community,3
-60,巨兽猫衣领,F Gammoth Collar,mhxx-dex-1.0+mhxx-save-format-community,3
-61,泡狐龙猫斗笠,F Mizutsune Kasa,mhxx-dex-1.0+mhxx-save-format-community,3
-62,公会猫宽帽,F Guild Headgear,mhxx-dex-1.0+mhxx-save-format-community,3
-63,斩龙猫头盔,F Glavenus Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-64,雷狼龙猫头盔,F Zinogre Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-65,黑蚀龙猫恐怖,F Gore Horror,mhxx-dex-1.0+mhxx-save-format-community,3
-66,千刃龙猫硬盔,F Seregios Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-67,轰龙猫头盔,F Tigrex Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-68,麒麟猫角,F Kirin Horn,mhxx-dex-1.0+mhxx-save-format-community,3
-69,碎龙猫拳击护头,F Brachy Headgear,mhxx-dex-1.0+mhxx-save-format-community,3
-70,天廻龙猫光圈,F Angel Halo,mhxx-dex-1.0+mhxx-save-format-community,3
-71,钢龙猫强力,F Kushala Glare,mhxx-dex-1.0+mhxx-save-format-community,3
-72,魔神猫帽,F Genie Helm,mhxx-dex-1.0+mhxx-save-format-community,3
-73,帝王猫假发,F Kaiser Periwig,mhxx-dex-1.0+mhxx-save-format-community,3
-74,骸装甲猫面具,F Husk Mask,mhxx-dex-1.0+mhxx-save-format-community,3
-75,橡子S猫头盔,F Acorn Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-76,贝鲁纳S猫兜帽,F Bherna Hood S,mhxx-dex-1.0+mhxx-save-format-community,4
-77,狩猎S猫头盔,F Hunting Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-78,毛皮S猫兜帽,F Mafumofu Hood S,mhxx-dex-1.0+mhxx-save-format-community,4
-79,结云S猫斗笠,F Yukumo Kasa S,mhxx-dex-1.0+mhxx-save-format-community,4
-80,美食家S猫厨师帽,F Gourmet Toque S,mhxx-dex-1.0+mhxx-save-format-community,4
-81,云羊鹿S猫头部,F Moofy Head S,mhxx-dex-1.0+mhxx-save-format-community,4
-82,草食龙S猫面具,F Aptonoth Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-83,波波S猫头部,F Popo Head S,mhxx-dex-1.0+mhxx-save-format-community,4
-84,丸鸟S猫面具,F Gargwa Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-85,首鸣龙S猫面具,F Larinoth Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-86,合金S猫头盔,F Alloy Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-87,骨制S猫头盔,F Bone Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-88,变化S猫帽,F Alta Hat S,mhxx-dex-1.0+mhxx-save-format-community,4
-89,飞甲虫S猫帽,F Bnaha Cap S,mhxx-dex-1.0+mhxx-save-format-community,4
-90,狗龙S猫头盔,F Jaggi Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-91,硬甲龙S猫头盔,F Rheno Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-92,垂皮龙猫兜帽,F Slagtoth Hood,mhxx-dex-1.0+mhxx-save-format-community,4
-93,跳狗龙S猫头盔,F Maccao Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-94,蓝速龙S猫头盔,F Velociprey Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-95,野猪王S猫面具,F Bulldrome Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-96,青熊兽S猫头盔,F Arzuros Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-97,黄速龙S猫头盔,F Genprey Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-98,白兔兽S猫头盔,F Lagombi Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-99,砂龙S猫帽,F Cephalos Hat S,mhxx-dex-1.0+mhxx-save-format-community,4
-100,怪鸟S猫面具,F Kut-Ku Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-101,毒怪鸟S猫覆盔,F Gypceros Crest S,mhxx-dex-1.0+mhxx-save-format-community,4
-102,鬼蛙S猫大角,F Cabra Horn S,mhxx-dex-1.0+mhxx-save-format-community,4
-103,大名盾蟹S猫面具,F Daimyo Mask S,mhxx-dex-1.0+mhxx-save-format-community,4
-104,水兽S猫头盔,F Ludroth Helm S,mhxx-dex-1.0+mhxx-save-format-community,4
-105,奇猿狐猫帽,F Kecha Cap,mhxx-dex-1.0+mhxx-save-format-community,4
-106,瓢虫猫护头,F Ladybug Cap,mhxx-dex-1.0+mhxx-save-format-community,5
-107,求知猫兜帽,F Lecturer's Hood,mhxx-dex-1.0+mhxx-save-format-community,5
-108,向导猫兜帽,F Guide's Hood,mhxx-dex-1.0+mhxx-save-format-community,5
-109,水手猫兜帽,F Sailor Hat,mhxx-dex-1.0+mhxx-save-format-community,5
-110,猫兽人王的石头,F Stone King Head,mhxx-dex-1.0+mhxx-save-format-community,5
-111,毒蜂S猫护头,F Venombee Cap S,mhxx-dex-1.0+mhxx-save-format-community,5
-112,南瓜S猫帽,F Mosgharl Hat S,mhxx-dex-1.0+mhxx-save-format-community,5
-113,武者S猫头盔,F Marauder Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-114,红速龙S猫头盔,F Ioprey Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-115,赤甲兽S猫头盔,F Volvi Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-116,白电S猫护士,F Khezu Catnurse S,mhxx-dex-1.0+mhxx-save-format-community,5
-117,潜口龙S猫头盔,F Nibel Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-118,夜鸟S猫面具,F Malfestio Mask S,mhxx-dex-1.0+mhxx-save-format-community,5
-119,雌火龙S猫头盔,F Rathian Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-120,雪狮子S猫面具,F Blango Mask S,mhxx-dex-1.0+mhxx-save-format-community,5
-121,将军镰蟹S猫面具,F Ceanataur Mask S,mhxx-dex-1.0+mhxx-save-format-community,5
-122,绞蛇龙S猫头巾,F Naja Turban S,mhxx-dex-1.0+mhxx-save-format-community,5
-123,迅龙S猫头盔,F Narga Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-124,黑狼鸟S猫头巾,F Garuga Hood S,mhxx-dex-1.0+mhxx-save-format-community,5
-125,爆锤龙S猫头盔,F Uragaan Helm S,mhxx-dex-1.0+mhxx-save-format-community,5
-126,变形冰鲨猫圆帽,F Zamtrios Helmet,mhxx-dex-1.0+mhxx-save-format-community,5
-127,水龙猫帽,F Plesioth Cap,mhxx-dex-1.0+mhxx-save-format-community,5
-128,熔岩龙猫头盔,F Lava Helm,mhxx-dex-1.0+mhxx-save-format-community,5
-129,雪绒花S双猫尾,F Edel Pigtails S,mhxx-dex-1.0+mhxx-save-format-community,6
-130,克鲁茵S猫兜帽,F Kittendant Hood S,mhxx-dex-1.0+mhxx-save-format-community,6
-131,橡子面具,F Acorn Mask,mhxx-dex-1.0+mhxx-save-format-community,6
-132,蟹爪面具,F Pincer Mask,mhxx-dex-1.0+mhxx-save-format-community,6
-133,混沌的阿尔･霸,F Chaos Bulbs+,mhxx-dex-1.0+mhxx-save-format-community,6
-134,死神S猫兜帽,F Death Stench Hood S,mhxx-dex-1.0+mhxx-save-format-community,6
-135,黄金乡S猫头盔,F El Dora Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-136,机械S猫核心,F Artian Core S,mhxx-dex-1.0+mhxx-save-format-community,6
-137,海龙S猫海盗帽,F Lagia Triad S,mhxx-dex-1.0+mhxx-save-format-community,6
-138,斩龙S猫头盔,F Glavenus Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-139,电龙S猫面具,F Astalos Mask S,mhxx-dex-1.0+mhxx-save-format-community,6
-140,巨兽S猫衣领,F Gammoth Collar S,mhxx-dex-1.0+mhxx-save-format-community,6
-141,泡狐龙S猫斗笠,F Mizutsune Kasa S,mhxx-dex-1.0+mhxx-save-format-community,6
-142,火龙S猫头盔,F Rathalos Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-143,雷狼龙S猫头盔,F Zinogre Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-144,黑蚀龙S猫恐怖,F Gore Horror S,mhxx-dex-1.0+mhxx-save-format-community,6
-145,轰龙S猫头盔,F Tigrex Helm S,mhxx-dex-1.0+mhxx-save-format-community,6
-146,重甲虫猫头部,F Seltas Head,mhxx-dex-1.0+mhxx-save-format-community,6
-147,炎戈龙猫头盔,F Agnaktor Helm,mhxx-dex-1.0+mhxx-save-format-community,6
-148,尾锤龙猫头盔,F Duram Helm,mhxx-dex-1.0+mhxx-save-format-community,6
-149,麒麟S猫角,F Kirin Horn S,mhxx-dex-1.0+mhxx-save-format-community,6
-150,黑衣猫之面罩,F Puppeteer Mask,mhxx-dex-1.0+mhxx-save-format-community,6
-151,恐暴龙猫头盔,F Vangis Helm,mhxx-dex-1.0+mhxx-save-format-community,6
-152,猛怪鸟猫面具,F Kut-Ku Mask R,mhxx-dex-1.0+mhxx-save-format-community,6
-153,猛奇猿狐猫帽,F Kecha Cap R,mhxx-dex-1.0+mhxx-save-format-community,6
-154,猛毒怪鸟猫覆盔,F Gypceros Crest R,mhxx-dex-1.0+mhxx-save-format-community,6
-155,猛鬼蛙猫大角,F Cabra Horn R,mhxx-dex-1.0+mhxx-save-format-community,6
-156,猛大名盾蟹猫面具,F Daimyo Mask R,mhxx-dex-1.0+mhxx-save-format-community,6
-157,猛水兽猫头盔,F Ludroth Helm R,mhxx-dex-1.0+mhxx-save-format-community,6
-158,猛夜鸟猫面具,F Malfestio Mask R,mhxx-dex-1.0+mhxx-save-format-community,6
-159,猛变形冰鲨猫圆帽,F Zamtrios Helmet R,mhxx-dex-1.0+mhxx-save-format-community,6
-160,猛白电猫白帽,F Khezu Cap R,mhxx-dex-1.0+mhxx-save-format-community,6
-161,猛雌火龙猫头盔,F Rathian Helm R,mhxx-dex-1.0+mhxx-save-format-community,6
-162,猛潜口龙猫头盔,F Nibel Helm R,mhxx-dex-1.0+mhxx-save-format-community,6
-163,猛水龙猫帽,F Plesioth Cap R,mhxx-dex-1.0+mhxx-save-format-community,6
-164,猛雪狮子猫面具,F Blango Mask R,mhxx-dex-1.0+mhxx-save-format-community,6
-165,贤者S猫帽,F Scholarly Cap S,mhxx-dex-1.0+mhxx-save-format-community,7
-166,女仆S猫兜帽,F Maiden Hood S,mhxx-dex-1.0+mhxx-save-format-community,7
-167,支援者S猫兜帽,F Helper Hood S,mhxx-dex-1.0+mhxx-save-format-community,7
-168,喵和抚子华【布冠】,F Beautiful Toque,mhxx-dex-1.0+mhxx-save-format-community,7
-169,最棒的面具,F Ultimate Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-170,公会S猫宽帽,F Guild Headgear S,mhxx-dex-1.0+mhxx-save-format-community,7
-171,寄宿灵魂之发饰,F Soul Hairpiece,mhxx-dex-1.0+mhxx-save-format-community,7
-172,滚滚草帽,F Transpurrter Kasa,mhxx-dex-1.0+mhxx-save-format-community,7
-173,纳豆流喵束发,F Dirty Locks,mhxx-dex-1.0+mhxx-save-format-community,7
-174,喵骑士的帽子,F D'Artanyan's Hat,mhxx-dex-1.0+mhxx-save-format-community,7
-175,大师猫头盔,F Master's Helm,mhxx-dex-1.0+mhxx-save-format-community,7
-176,勇气S猫军盔,F Derring Galea S,mhxx-dex-1.0+mhxx-save-format-community,7
-177,千刃龙S猫硬盔,F Seregios Helm S,mhxx-dex-1.0+mhxx-save-format-community,7
-178,碎龙S猫拳击帽,F Brachy Noggin S,mhxx-dex-1.0+mhxx-save-format-community,7
-179,天廻龙S猫光圈,F Angel Aura S,mhxx-dex-1.0+mhxx-save-format-community,7
-180,骸装甲S猫面具,F Husk Mask S,mhxx-dex-1.0+mhxx-save-format-community,7
-181,阿斯里斯猫面具,F Nakarkos Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-182,猛熔岩龙猫头盔,F Lava Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-183,猛将军镰蟹猫面具,F Ceanataur Mask R,mhxx-dex-1.0+mhxx-save-format-community,7
-184,猛迅龙猫头盔,F Narga Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-185,猛绞蛇龙猫头巾,F Naja Turban R,mhxx-dex-1.0+mhxx-save-format-community,7
-186,猛黑狼鸟猫头巾,F Garuga Hood R,mhxx-dex-1.0+mhxx-save-format-community,7
-187,猛爆锤龙猫头盔,F Uragaan Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-188,猛重甲虫猫头部,F Seltas Head R,mhxx-dex-1.0+mhxx-save-format-community,7
-189,猛火龙猫头盔,F Rathalos Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-190,猛海龙猫海盗帽,F Lagia Triad R,mhxx-dex-1.0+mhxx-save-format-community,7
-191,猛雷狼龙猫头盔,F Zinogre Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-193,钢龙S猫强力,F Kushala Glower S,mhxx-dex-1.0+mhxx-save-format-community,7
-194,魔神S猫帽,F Genie Helm S,mhxx-dex-1.0+mhxx-save-format-community,7
-195,帝王S猫假发,F Kaiser Crown,mhxx-dex-1.0+mhxx-save-format-community,7
-196,霸龙猫削头,F Akantor Visage,mhxx-dex-1.0+mhxx-save-format-community,7
-197,崩龙猫削头,F Ukanlos Visage,mhxx-dex-1.0+mhxx-save-format-community,7
-198,喵天【冠】,F Majestic Crown,mhxx-dex-1.0+mhxx-save-format-community,7
-199,煌黑龙猫智慧,F Escador Wisdom,mhxx-dex-1.0+mhxx-save-format-community,7
-200,猛泡狐龙猫斗笠,F Mizutsune Kasa R,mhxx-dex-1.0+mhxx-save-format-community,7
-201,猛电龙猫面具,F Astalos Mask R,mhxx-dex-1.0+mhxx-save-format-community,7
-202,猛巨兽猫衣领,F Gammoth Collar R,mhxx-dex-1.0+mhxx-save-format-community,7
-203,猛斩龙猫头盔,F Glavenus Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-204,猛炎戈龙猫头盔,F Agnaktor Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-205,猛黑蚀龙猫恐怖,F Gore Horror R,mhxx-dex-1.0+mhxx-save-format-community,7
-206,猛千刃龙猫硬盔,F Seregios Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-207,猛尾锤龙猫头盔,F Duram Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-208,猛轰龙猫头盔,F Tigrex Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-209,猛碎龙猫头部,F Brachy Head R,mhxx-dex-1.0+mhxx-save-format-community,7
-210,猛黑衣猫之面罩,F Puppeteer Mask R,mhxx-dex-1.0+mhxx-save-format-community,7
-211,猛恐暴龙猫头盔,F Vangis Helm R,mhxx-dex-1.0+mhxx-save-format-community,7
-212,异形猫头盔,F Strange Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-213,异形S猫头盔,F Strange Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-214,红盔猫头盔,F Redhelm Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-215,红盔S猫头盔,F Redhelm Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-216,大雪主猫头盔,F Snowbaron Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-217,大雪主S猫头盔,F Snowbaron Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-218,矛碎猫面具,F Stonefist Mask,mhxx-dex-1.0+mhxx-save-format-community,11
-219,矛碎S猫面具,F Stonefist Mask S,mhxx-dex-1.0+mhxx-save-format-community,11
-220,紫毒姬猫头盔,F Dreadqueen Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-221,紫毒姬S猫头盔,F Dreadqueen Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-222,岩穿猫大角,F Drilltusk Horn,mhxx-dex-1.0+mhxx-save-format-community,11
-223,岩穿S猫大角,F Drilltusk Horn S,mhxx-dex-1.0+mhxx-save-format-community,11
-224,白疾风猫头盔,F Silverwind Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-225,白疾风S猫头盔,F Silverwind Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-226,宝缠猫头盔,F Crystalbeard Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-227,宝缠S猫头盔,F Crystalbeard Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-228,独眼猫头巾,F Deadeye Hood,mhxx-dex-1.0+mhxx-save-format-community,11
-229,独眼S猫头巾,F Deadeye Hood S,mhxx-dex-1.0+mhxx-save-format-community,11
-230,黑炎王猫头盔,F Dreadking Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-231,黑炎王S猫头盔,F Dreadking Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-232,金雷公猫头盔,F Thunderlord Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-233,金雷公S猫头盔,F Thunderlord Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-234,荒钩爪猫头盔,F Grimclaw Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-235,荒钩爪S猫头盔,F Grimclaw Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-236,烬灭刃猫头盔,F Hellblade Helm,mhxx-dex-1.0+mhxx-save-format-community,11
-237,烬灭刃S猫头盔,F Hellblade Helm S,mhxx-dex-1.0+mhxx-save-format-community,11
-240,财宝J猫皇冠,F Treasure Crown J,mhxx-dex-1.0+mhxx-save-format-community,3
-241,海盗J猫头巾,F Pirate Bandanna J,mhxx-dex-1.0+mhxx-save-format-community,3
-242,传说J猫头盔,F Legendary Helm J,mhxx-dex-1.0+mhxx-save-format-community,3
-243,金币王J猫头骨,F Greedy Skull J,mhxx-dex-1.0+mhxx-save-format-community,3
-245,猎衣库猫帽,F Monqlo Cap,mhxx-dex-1.0+mhxx-save-format-community,3
-246,F Meowstar Helm,F Meowstar Helm,mhxx-save-format-community-en-fallback,0
-247,宝宝轰龙猫帽,F Baby Tiga Hat,mhxx-dex-1.0+mhxx-save-format-community,3
-248,F Spirits Helm,F Spirits Helm,mhxx-save-format-community-en-fallback,0
-249,邮差猫军帽,F Postman Beret,mhxx-dex-1.0+mhxx-save-format-community,7
-250,坊屋猫飞机头,F Booyah Pompadour,mhxx-dex-1.0+mhxx-save-format-community,7
-251,总北猫头盔,F Sohoku Helmet,mhxx-dex-1.0+mhxx-save-format-community,7
-255,黑魔喵兜帽,F Dark Meowgic Hood,mhxx-dex-1.0+mhxx-save-format-community,7
-256,财宝王J猫皇冠,F Booty Crown J,mhxx-dex-1.0+mhxx-save-format-community,7
-257,大海盗J猫头巾,F Buccaneer Bandanna J,mhxx-dex-1.0+mhxx-save-format-community,7
-258,传说王J猫头盔,F King Helm J,mhxx-dex-1.0+mhxx-save-format-community,7
-259,大金币王J猫头骨,F Avaricious Skull J,mhxx-dex-1.0+mhxx-save-format-community,7
-261,猎衣库S猫帽,F Monqlo Cap S,mhxx-dex-1.0+mhxx-save-format-community,7
-262,F Supreme Helm,F Supreme Helm,mhxx-save-format-community-en-fallback,0
-263,F Star Hat,F Star Hat,mhxx-save-format-community-en-fallback,0
-264,F Magical Hat,F Magical Hat,mhxx-save-format-community-en-fallback,0
-266,F Nyankyrie Head,F Nyankyrie Head,mhxx-save-format-community-en-fallback,0
-267,林克猫耳面具,F Link Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-268,火狐猫耳麦,F Fox Mic,mhxx-dex-1.0+mhxx-save-format-community,7
-269,马力欧猫帽,F Mario Cap,mhxx-dex-1.0+mhxx-save-format-community,7
-270,路易吉猫帽,F Luigi Cap,mhxx-dex-1.0+mhxx-save-format-community,7
-273,喵骑头盔,F Helm of Purrity,mhxx-dex-1.0+mhxx-save-format-community,7
-274,春丽猫的包包头,F Chun Chignon,mhxx-dex-1.0+mhxx-save-format-community,7
-276,但丁猫假发,F Dante Wig,mhxx-dex-1.0+mhxx-save-format-community,7
-277,洛克喵头盔,F Mega Helmet,mhxx-dex-1.0+mhxx-save-format-community,7
-278,旋律猫卷发,F Melodic Curls,mhxx-dex-1.0+mhxx-save-format-community,7
-279,宝宝轰龙S猫帽,F Baby Tiga Hat S,mhxx-dex-1.0+mhxx-save-format-community,7
-280,暖呼呼猫面具,F Sunsnug Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-281,F Spirits Helm S,F Spirits Helm S,mhxx-save-format-community-en-fallback,0
-282,喵喵面具,F Meowniac's Mask,mhxx-dex-1.0+mhxx-save-format-community,7
-283,MH Fan Club应援队长帽,F Pep Squad Cap,mhxx-dex-1.0+mhxx-save-format-community,7
-284,白速龙猫头盔,F Giaprey Helm,mhxx-dex-1.0+mhxx-save-format-community,4
-285,桃毛兽猫尖头帽,F Conga Steeple,mhxx-dex-1.0+mhxx-save-format-community,4
-286,土砂龙猫头盔,F Barroth Helm,mhxx-dex-1.0+mhxx-save-format-community,4
-287,美丽猫蝴蝶结,F Pleasant Ribbons,mhxx-dex-1.0+mhxx-save-format-community,5
-288,聪慧猫帽,F Wisdom Hat,mhxx-dex-1.0+mhxx-save-format-community,5
-289,岩龙猫头盔,F Basarios Helm,mhxx-dex-1.0+mhxx-save-format-community,5
-290,影蜘蛛猫面具,F Scylla Mask,mhxx-dex-1.0+mhxx-save-format-community,5
-291,活泼猫帽,F Cheerful Cap,mhxx-dex-1.0+mhxx-save-format-community,6
-292,海歌猫兜帽,F Mariner Hood,mhxx-dex-1.0+mhxx-save-format-community,6
-293,冰牙龙猫头盔,F Barioth Helm,mhxx-dex-1.0+mhxx-save-format-community,6
-294,铠龙猫面具,F Grav Mask,mhxx-dex-1.0+mhxx-save-format-community,6
-295,角龙猫头盔,F Diablos Helm,mhxx-dex-1.0+mhxx-save-format-community,7
-296,天彗龙猫头盔,F Valstrax Helm,mhxx-dex-1.0+mhxx-save-format-community,7
-297,橡子X猫头盔,F Acorn Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-298,贝鲁纳X猫兜帽,F Bherna Hood X,mhxx-dex-1.0+mhxx-save-format-community,8
-299,美食家X猫帽,F Gourmet Toque X,mhxx-dex-1.0+mhxx-save-format-community,8
-300,云羊鹿X猫头部,F Moofy Head X,mhxx-dex-1.0+mhxx-save-format-community,8
-301,草食龙X猫面具,F Aptonoth Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-302,波波X猫头部,F Popo Head X,mhxx-dex-1.0+mhxx-save-format-community,8
-303,丸鸟X猫面具,F Gargwa Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-304,首鸣龙X猫面具,F Larinoth Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-306,合金X猫头盔,F Alloy Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-307,骨制X猫头盔,F Bone Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-308,变化X猫帽,F Alta Hat X,mhxx-dex-1.0+mhxx-save-format-community,8
-309,飞甲虫X猫帽,F Bnaha Cap X,mhxx-dex-1.0+mhxx-save-format-community,8
-310,狗龙X猫头盔,F Jaggi Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-311,硬甲龙X猫头盔,F Rheno Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-312,垂皮龙X猫兜帽,F Slagtoth Hood X,mhxx-dex-1.0+mhxx-save-format-community,8
-313,跳狗龙X猫头盔,F Maccao Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-314,蓝速龙X猫头盔,F Velociprey Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-315,野猪王X猫面具,F Bulldrome Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-316,青熊兽X猫头盔,F Arzuros Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-317,白速龙X猫头盔,F Giaprey Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-318,黄速龙X猫头盔,F Genprey Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-319,白兔兽X猫头盔,F Lagombi Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-320,砂龙X猫帽,F Cephalos Hat X,mhxx-dex-1.0+mhxx-save-format-community,8
-321,怪鸟X猫面具,F Kut-Ku Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-322,毒怪鸟X猫覆盔,F Gypceros Crest X,mhxx-dex-1.0+mhxx-save-format-community,8
-323,鬼蛙X猫大角,F Cabra Horn X,mhxx-dex-1.0+mhxx-save-format-community,8
-324,大名盾蟹X猫面具,F Daimyo Mask X,mhxx-dex-1.0+mhxx-save-format-community,8
-325,水兽X猫头盔,F Ludroth Helm X,mhxx-dex-1.0+mhxx-save-format-community,8
-326,奇猿狐X猫帽,F Kecha Cap X,mhxx-dex-1.0+mhxx-save-format-community,8
-327,女仆X猫兜帽,F Maiden Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-328,喵和抚子雅【布冠】,F Exquisite Toque,mhxx-dex-1.0+mhxx-save-format-community,9
-329,瓢虫X猫护头,F Ladybug Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-330,橡子奇面,F Odd Acorn Mask,mhxx-dex-1.0+mhxx-save-format-community,9
-331,蟹爪奇面,F Odd Pincer Mask,mhxx-dex-1.0+mhxx-save-format-community,9
-332,求知X猫兜帽,F Lecturer's Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-333,猫兽神的石头部,F Stone God Head,mhxx-dex-1.0+mhxx-save-format-community,9
-334,毒蜂X猫护头,F Venombee Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-335,南瓜X猫帽,F Mosgharl Hat X,mhxx-dex-1.0+mhxx-save-format-community,9
-336,武者X猫头盔,F Marauder Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-337,美丽X猫蝴蝶结,F Pleasant Ribbons X,mhxx-dex-1.0+mhxx-save-format-community,9
-338,聪慧X猫帽,F Wisdom Hat X,mhxx-dex-1.0+mhxx-save-format-community,9
-339,邮差X猫军帽,F Postman Beret X,mhxx-dex-1.0+mhxx-save-format-community,9
-340,红速龙X猫头盔,F Ioprey Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-341,赤甲兽X猫头盔,F Volvi Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-342,岩龙X猫头盔,F Basarios Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-343,桃毛兽X猫尖头帽,F Conga Steeple X,mhxx-dex-1.0+mhxx-save-format-community,9
-344,土砂龙X猫头盔,F Barroth Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-345,白电X猫护士,F Khezu Catnurse X,mhxx-dex-1.0+mhxx-save-format-community,9
-346,潜口龙X猫头盔,F Nibel Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-347,夜鸟X猫面具,F Malfestio Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-348,雌火龙X猫头盔,F Rathian Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-349,雪狮子X猫面具,F Blango Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-350,将军镰蟹X猫面具,F Ceanataur Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-351,影蜘蛛X猫面具,F Scylla Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-352,绞蛇龙X猫头巾,F Naja Turban X,mhxx-dex-1.0+mhxx-save-format-community,9
-353,迅龙X猫头盔,F Narga Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-354,变形冰鲨X猫圆帽,F Zamtrios Helmet X,mhxx-dex-1.0+mhxx-save-format-community,9
-355,水龙X猫帽,F Plesioth Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-356,狞怪鸟猫面具,F Kut-Ku Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-357,狞奇猿狐猫帽,F Kecha Cap XR,mhxx-dex-1.0+mhxx-save-format-community,9
-358,狞毒怪鸟猫覆盔,F Gypceros Crest XR,mhxx-dex-1.0+mhxx-save-format-community,9
-359,狞鬼蛙猫大角,F Cabra Horn XR,mhxx-dex-1.0+mhxx-save-format-community,9
-360,狞大名盾蟹猫面具,F Daimyo Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-361,狞水兽猫头盔,F Ludroth Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-362,贤者X猫帽,F Scholarly Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-363,克鲁茵X猫兜帽,F Kittendant Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-364,勇气X猫军盔,F Derring Galea X,mhxx-dex-1.0+mhxx-save-format-community,9
-365,流浪草帽,F Transpurrrrter Kasa,mhxx-dex-1.0+mhxx-save-format-community,9
-366,极品面具,F Ultimate Mask+,mhxx-dex-1.0+mhxx-save-format-community,9
-367,向导X猫兜帽,F Guide's Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-368,水手X猫兜帽,F Sailor Hat X,mhxx-dex-1.0+mhxx-save-format-community,9
-369,混沌的阿尔･真,F Grand Chaos Bulbs,mhxx-dex-1.0+mhxx-save-format-community,9
-370,死神X猫兜帽,F Death Stench Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-371,黄金乡X猫头盔,F El Dora Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-372,机械X猫核心,F Artian Core X,mhxx-dex-1.0+mhxx-save-format-community,9
-373,活泼X猫兜帽,F Cheerful Cap X,mhxx-dex-1.0+mhxx-save-format-community,9
-374,海歌X猫兜帽,F Mariner Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-375,可爱猫蝴蝶结,F Cute Ribbon,mhxx-dex-1.0+mhxx-save-format-community,9
-376,黑狼鸟X猫头巾,F Garuga Hood X,mhxx-dex-1.0+mhxx-save-format-community,9
-377,爆锤龙X猫头盔,F Uragaan Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-378,熔岩龙X猫头盔,F Lava Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-379,海龙X猫海盗帽,F Lagia Triad X,mhxx-dex-1.0+mhxx-save-format-community,9
-380,斩龙X猫头盔,F Glavenus Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-381,电龙X猫面具,F Astalos Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-382,巨兽X猫衣领,F Gammoth Collar X,mhxx-dex-1.0+mhxx-save-format-community,9
-383,泡狐龙X猫斗笠,F Mizutsune Kasa X,mhxx-dex-1.0+mhxx-save-format-community,9
-384,冰牙龙X猫头盔,F Barioth Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-385,火龙X猫头盔,F Rathalos Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-386,雷狼龙X猫头盔,F Zinogre Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-387,铠龙X猫面具,F Grav Mask X,mhxx-dex-1.0+mhxx-save-format-community,9
-388,黑蚀龙X猫恐惧,F Gore Horror X,mhxx-dex-1.0+mhxx-save-format-community,9
-389,轰龙X猫头盔,F Tigrex Helm X,mhxx-dex-1.0+mhxx-save-format-community,9
-390,重甲虫X猫头部,F Seltas Head X,mhxx-dex-1.0+mhxx-save-format-community,9
-391,麒麟X猫角,F Kirin Horn X,mhxx-dex-1.0+mhxx-save-format-community,9
-392,凛猫【护额】,F Borealis Crown,mhxx-dex-1.0+mhxx-save-format-community,9
-393,狞岩龙猫头盔,F Basarios Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-394,狞桃毛兽猫尖头帽,F Conga Steeple XR,mhxx-dex-1.0+mhxx-save-format-community,9
-395,狞土砂龙猫头盔,F Barroth Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-396,狞白电猫白帽,F Khezu Cap XR,mhxx-dex-1.0+mhxx-save-format-community,9
-397,狞潜口龙猫头盔,F Nibel Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-398,狞夜鸟猫面具,F Malfestio Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-399,狞雌火龙猫头盔,F Rathian Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-400,狞雪狮子猫面具,F Blango Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-401,狞将军镰蟹猫面具,F Ceanataur Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-402,狞影蜘蛛猫面具,F Scylla Mask XR,mhxx-dex-1.0+mhxx-save-format-community,9
-403,狞绞蛇龙猫头巾,F Naja Turban XR,mhxx-dex-1.0+mhxx-save-format-community,9
-404,狞迅龙猫头盔,F Narga Helm XR,mhxx-dex-1.0+mhxx-save-format-community,9
-405,狞变形冰鲨猫圆帽,F Zamtrios Helmet XR,mhxx-dex-1.0+mhxx-save-format-community,9
-406,狞水龙猫帽,F Plesioth Cap XR,mhxx-dex-1.0+mhxx-save-format-community,9
-407,公会X猫宽帽,F Guild Headgear X,mhxx-dex-1.0+mhxx-save-format-community,10
-408,寄宿精灵之发饰,F Spirit Hairpiece,mhxx-dex-1.0+mhxx-save-format-community,10
-409,纳豆真传喵束发,F Pro Dirty Locks,mhxx-dex-1.0+mhxx-save-format-community,10
-410,喵骑士的勇敢帽子,F D'Artanyan Hero Hat,mhxx-dex-1.0+mhxx-save-format-community,10
-411,大师X猫头盔,F Master's Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-412,酒吧主人猫帽,F Barmaid's Cap,mhxx-dex-1.0+mhxx-save-format-community,10
-413,酒保猫墨镜,F Barman's Shades,mhxx-dex-1.0+mhxx-save-format-community,10
-414,炎戈龙X猫头盔,F Agnaktor Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-415,尾锤龙X猫头盔,F Duram Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-416,千刃龙X猫硬盔,F Seregios Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-417,角龙X猫头盔,F Diablos Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-418,碎龙X猫拳击帽,F Brachy Noggin X,mhxx-dex-1.0+mhxx-save-format-community,10
-419,天廻龙X猫光圈,F Angel Aura X,mhxx-dex-1.0+mhxx-save-format-community,10
-420,天彗龙X猫头盔,F Valstrax Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-421,黑衣猫之面罩･霸,F Puppeteer Mask+,mhxx-dex-1.0+mhxx-save-format-community,10
-422,恐暴龙X猫头盔,F Vangis Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-423,混沌猫兜帽,F Chaos Hood,mhxx-dex-1.0+mhxx-save-format-community,10
-424,钢龙X猫围城,F Kushala Snarl X,mhxx-dex-1.0+mhxx-save-format-community,10
-425,魔神X猫帽,F Genie Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-426,帝王X猫假发,F Kaiser Crown X,mhxx-dex-1.0+mhxx-save-format-community,10
-427,骸装甲X猫面具,F Husk Mask X,mhxx-dex-1.0+mhxx-save-format-community,10
-428,阿斯里斯X猫面具,F Nakarkos Mask X,mhxx-dex-1.0+mhxx-save-format-community,10
-429,王座猫硬盔,F Neset Helm,mhxx-dex-1.0+mhxx-save-format-community,10
-430,狞黑狼鸟猫头巾,F Garuga Hood XR,mhxx-dex-1.0+mhxx-save-format-community,10
-431,狞爆锤龙猫头盔,F Uragaan Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-432,狞熔岩龙猫头盔,F Lava Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-433,狞海龙猫海盗帽,F Lagia Triad XR,mhxx-dex-1.0+mhxx-save-format-community,10
-434,狞斩龙猫头盔,F Glavenus Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-435,狞电龙猫面具,F Astalos Mask XR,mhxx-dex-1.0+mhxx-save-format-community,10
-436,狞巨兽猫衣领,F Gammoth Collar XR,mhxx-dex-1.0+mhxx-save-format-community,10
-437,狞泡狐龙猫斗笠,F Mizutsune Kasa XR,mhxx-dex-1.0+mhxx-save-format-community,10
-438,狞冰牙龙猫头盔,F Barioth Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-439,狞火龙猫头盔,F Rathalos Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-440,狞雷狼龙猫头盔,F Zinogre Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-441,狞铠龙猫面具,F Grav Mask XR,mhxx-dex-1.0+mhxx-save-format-community,10
-442,狞黑蚀龙猫恐怖,F Gore Horror XR,mhxx-dex-1.0+mhxx-save-format-community,10
-443,狞轰龙猫头盔,F Rex Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-444,狞重甲虫猫头部,F Seltas Head XR,mhxx-dex-1.0+mhxx-save-format-community,10
-445,狩猎X猫头盔,F Hunting Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-446,毛皮X猫兜帽,F Mafumofu Hood X,mhxx-dex-1.0+mhxx-save-format-community,10
-447,结云X猫斗笠,F Yukumo Kasa X,mhxx-dex-1.0+mhxx-save-format-community,10
-448,支援者X猫兜帽,F Helper Hood X,mhxx-dex-1.0+mhxx-save-format-community,10
-449,雪绒花X双猫尾,F Edel Pigtails X,mhxx-dex-1.0+mhxx-save-format-community,10
-451,霸龙X猫削头,F Akantor Visage X,mhxx-dex-1.0+mhxx-save-format-community,10
-452,崩龙X猫削头,F Ukanlos Visage X,mhxx-dex-1.0+mhxx-save-format-community,10
-453,喵天･真【冠】,F Grand Majestic Crown,mhxx-dex-1.0+mhxx-save-format-community,10
-454,煌黑龙X猫智慧,F Escador Wisdom X,mhxx-dex-1.0+mhxx-save-format-community,10
-455,龙猫头盔,F Dragon Helm,mhxx-dex-1.0+mhxx-save-format-community,10
-456,红龙猫头盔,F Fatalis Crimsonhelm,mhxx-dex-1.0+mhxx-save-format-community,10
-457,祖龙猫头盔,F Old Fatalis Helm,mhxx-dex-1.0+mhxx-save-format-community,10
-458,狞炎戈龙猫头盔,F Agnaktor Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-459,狞尾锤龙猫头盔,F Duram Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-460,狞千刃龙猫硬盔,F Seregios Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-461,狞角龙猫头盔,F Diablos Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-462,狞碎龙猫头部,F Brachy Head XR,mhxx-dex-1.0+mhxx-save-format-community,10
-463,狞黑衣猫之面罩,F Puppeteer Mask XR,mhxx-dex-1.0+mhxx-save-format-community,10
-464,狞恐暴龙猫头盔,F Vangis Helm XR,mhxx-dex-1.0+mhxx-save-format-community,10
-465,异形X猫头盔,F Strange Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-466,异形XX猫头盔,F Strange Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-467,红盔X猫头盔,F Redhelm Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-468,红盔XX猫头盔,F Redhelm Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-469,大雪主X猫头盔,F Snowbaron Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-470,大雪主XX猫头盔,F Snowbaron Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-471,矛碎X猫面具,F Stonefist Mask X,mhxx-dex-1.0+mhxx-save-format-community,11
-472,矛碎XX猫面具,F Stonefist Mask XX,mhxx-dex-1.0+mhxx-save-format-community,11
-473,紫毒姬X猫头盔,F Dreadqueen Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-474,紫毒姬XX猫头盔,F Dreadqueen Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-475,岩穿X猫大角,F Drilltusk Horn X,mhxx-dex-1.0+mhxx-save-format-community,11
-476,岩穿XX猫大角,F Drilltusk Horn XX,mhxx-dex-1.0+mhxx-save-format-community,11
-477,胧隐X猫面具,F Nightcloak Mask X,mhxx-dex-1.0+mhxx-save-format-community,11
-478,胧隐XX猫面具,F Nightcloak Mask XX,mhxx-dex-1.0+mhxx-save-format-community,11
-479,铠裂X猫面具,F Rustrazor Mask X,mhxx-dex-1.0+mhxx-save-format-community,11
-480,铠裂XX猫面具,F Rustrazor Mask XX,mhxx-dex-1.0+mhxx-save-format-community,11
-481,白疾风X猫头盔,F Silverwind Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-482,白疾风XX猫头盔,F Silverwind Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-483,宝缠X猫头盔,F Crystalbeard Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-484,宝缠XX猫头盔,F Crystalbeard Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-485,独眼X猫头巾,F Deadeye Hood X,mhxx-dex-1.0+mhxx-save-format-community,11
-486,独眼XX猫头巾,F Deadeye Hood XX,mhxx-dex-1.0+mhxx-save-format-community,11
-487,黑炎王X猫头盔,F Dreadking Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-488,黑炎王XX猫头盔,F Dreadking Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-489,金雷公X猫头盔,F Thunderlord Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-490,金雷公XX猫头盔,F Thunderlord Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-491,荒钩爪X猫头盔,F Grimclaw Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-492,荒钩爪XX猫头盔,F Grimclaw Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-493,烬灭刃X猫头盔,F Hellblade Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-494,烬灭刃XX猫头盔,F Hellblade Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-495,天眼X猫斗笠,F Soulseer Kasa X,mhxx-dex-1.0+mhxx-save-format-community,11
-496,天眼XX猫斗笠,F Soulseer Kasa XX,mhxx-dex-1.0+mhxx-save-format-community,11
-497,青电主X猫面具,F Boltreaver Mask X,mhxx-dex-1.0+mhxx-save-format-community,11
-498,青电主XX猫面具,F Boltreaver Mask XX,mhxx-dex-1.0+mhxx-save-format-community,11
-499,银峰X猫衣领,F Elderfrost Collar X,mhxx-dex-1.0+mhxx-save-format-community,11
-500,银峰XX猫衣领,F Elderfrost Collar XX,mhxx-dex-1.0+mhxx-save-format-community,11
-501,鏖魔X猫头盔,F Bloodbath Helm X,mhxx-dex-1.0+mhxx-save-format-community,11
-502,鏖魔XX猫头盔,F Bloodbath Helm XX,mhxx-dex-1.0+mhxx-save-format-community,11
-504,F Nyatfire Kasa,F Nyatfire Kasa,mhxx-save-format-community-en-fallback,0
-507,F Nyatfire Kasa+,F Nyatfire Kasa+,mhxx-save-format-community-en-fallback,0
-508,大神猫头巾,F Okami Hood,mhxx-dex-1.0+mhxx-save-format-community,7
-509,亚瑟猫头盔,F Arthur's Helm,mhxx-dex-1.0+mhxx-save-format-community,7
-511,侦探猫眼镜,F Detective Specs,mhxx-dex-1.0+mhxx-save-format-community,7
-514,大神X猫头巾,F Okami Hood X,mhxx-dex-1.0+mhxx-save-format-community,10
-515,亚瑟X猫头盔,F Arthur's Helm X,mhxx-dex-1.0+mhxx-save-format-community,10
-517,名侦探X猫眼镜,F Detective Specs X,mhxx-dex-1.0+mhxx-save-format-community,10
-520,铁生猫头部,F Tesshou Head,mhxx-dex-1.0+mhxx-save-format-community,10
-521,坊屋X猫飞机头,F Booyah Pompadour X,mhxx-dex-1.0+mhxx-save-format-community,10
-523,喵步堂头部,F Phoenix Wig,mhxx-dex-1.0+mhxx-save-format-community,10
-524,幼年艾露猫,F Kittyback Hat,mhxx-dex-1.0+mhxx-save-format-community,10
-526,F Nyatfire Kasa Z,F Nyatfire Kasa Z,mhxx-save-format-community-en-fallback,0
+0,无,None,mhxx-romfs-game-array,0
+1,橡子猫头盔,F Acorn Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+2,贝鲁纳猫兜帽,F Bherna Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+3,合金猫头盔,F Alloy Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+4,骨制猫头盔,F Bone Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+5,狗龙猫头盔,F Jaggi Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+6,狩猎猫头盔,F Hunting Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+7,毛皮猫兜帽,F Mafumofu Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+8,结云猫斗笠,F Yukumo Kasa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+9,变化猫帽,F Alta Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+10,硬甲龙猫头盔,F Rheno Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+11,飞甲虫猫帽,F Bnaha Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+12,跳狗龙猫头盔,F Maccao Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+13,蓝速龙猫头盔,F Velociprey Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+14,野猪王猫面具,F Bulldrome Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+15,青熊兽猫头盔,F Arzuros Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+16,黄速龙猫头盔,F Genprey Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+17,砂龙猫帽,F Cephalos Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+18,猫兽人的石头,F Stone Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+19,毒蜂猫护头,F Venombee Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+20,美食家猫厨师帽,F Gourmet Toque,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+21,云羊鹿猫头部,F Moofy Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+22,草食龙猫面具,F Aptonoth Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+23,波波猫头部,F Popo Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+24,丸鸟猫面具,F Gargwa Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+25,红速龙猫头盔,F Ioprey Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+26,白兔兽猫头盔,F Lagombi Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+27,怪鸟猫面具,F Kut-Ku Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+28,毒怪鸟猫覆盔,F Gypceros Crest,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+29,鬼蛙猫大角,F Cabra Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+30,大名盾蟹猫面具,F Daimyo Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+31,水兽猫头盔,F Ludroth Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+32,白电猫帽,F Khezu Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+33,潜口龙猫头盔,F Nibel Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+34,贤者猫帽,F Scholarly Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+35,勇气猫军盔,F Derring Galea,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+36,雪绒花双猫尾,F Edel Pigtails,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+37,克鲁茵猫兜帽,F Kittendant Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+38,南瓜猫帽,F Mosgharl Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+39,首鸣龙猫面具,F Larinoth Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+40,死神猫兜帽,F Death Stench Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+41,武者猫头盔,F Marauder Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+42,赤甲兽猫头盔,F Volvi Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+43,夜鸟猫面具,F Malfestio Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+44,雌火龙猫头盔,F Rathian Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+45,雪狮子猫面具,F Blango Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+46,将军镰蟹猫面具,F Ceanataur Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+47,绞蛇龙猫头巾,F Naja Turban,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+48,迅龙猫头盔,F Narga Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+49,女仆猫兜帽,F Maiden Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+50,支援者猫兜帽,F Helper Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+51,喵和抚子【布冠】,F Pretty Toque,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+52,混沌的阿尔,F Chaos Bulbs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+53,黄金乡猫头盔,F El Dora Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+54,机械猫核心,F Artian Core,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+55,黑狼鸟猫头巾,F Garuga Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+56,爆锤龙猫头盔,F Uragaan Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+57,火龙猫头盔,F Rathalos Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+58,海龙猫海盗帽,F Lagia Tricorne,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+59,电龙猫面具,F Astalos Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+60,巨兽猫衣领,F Gammoth Collar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+61,泡狐龙猫斗笠,F Mizutsune Kasa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+62,公会猫宽帽,F Guild Headgear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+63,斩龙猫头盔,F Glavenus Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+64,雷狼龙猫头盔,F Zinogre Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+65,黑蚀龙猫恐怖,F Gore Horror,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+66,千刃龙猫硬盔,F Seregios Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+67,轰龙猫头盔,F Tigrex Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+68,麒麟猫角,F Kirin Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+69,碎龙猫拳击护头,F Brachy Headgear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+70,天廻龙猫光圈,F Angel Halo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+71,钢龙猫强力,F Kushala Glare,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+72,魔神猫帽,F Genie Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+73,帝王猫假发,F Kaiser Periwig,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+74,骸装甲猫面具,F Husk Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+75,橡子S猫头盔,F Acorn Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+76,贝鲁纳S猫兜帽,F Bherna Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+77,狩猎S猫头盔,F Hunting Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+78,毛皮S猫兜帽,F Mafumofu Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+79,结云S猫斗笠,F Yukumo Kasa S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+80,美食家S猫厨师帽,F Gourmet Toque S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+81,云羊鹿S猫头部,F Moofy Head S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+82,草食龙S猫面具,F Aptonoth Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+83,波波S猫头部,F Popo Head S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+84,丸鸟S猫面具,F Gargwa Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+85,首鸣龙S猫面具,F Larinoth Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+86,合金S猫头盔,F Alloy Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+87,骨制S猫头盔,F Bone Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+88,变化S猫帽,F Alta Hat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+89,飞甲虫S猫帽,F Bnaha Cap S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+90,狗龙S猫头盔,F Jaggi Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+91,硬甲龙S猫头盔,F Rheno Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+92,垂皮龙猫兜帽,F Slagtoth Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+93,跳狗龙S猫头盔,F Maccao Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+94,蓝速龙S猫头盔,F Velociprey Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+95,野猪王S猫面具,F Bulldrome Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+96,青熊兽S猫头盔,F Arzuros Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+97,黄速龙S猫头盔,F Genprey Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+98,白兔兽S猫头盔,F Lagombi Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+99,砂龙S猫帽,F Cephalos Hat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+100,怪鸟S猫面具,F Kut-Ku Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+101,毒怪鸟S猫覆盔,F Gypceros Crest S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+102,鬼蛙S猫大角,F Cabra Horn S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+103,大名盾蟹S猫面具,F Daimyo Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+104,水兽S猫头盔,F Ludroth Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+105,奇猿狐猫帽,F Kecha Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+106,瓢虫猫护头,F Ladybug Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+107,求知猫兜帽,F Lecturer's Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+108,向导猫兜帽,F Guide's Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+109,水手猫兜帽,F Sailor Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+110,猫兽人王的石头,F Stone King Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+111,毒蜂S猫护头,F Venombee Cap S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+112,南瓜S猫帽,F Mosgharl Hat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+113,武者S猫头盔,F Marauder Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+114,红速龙S猫头盔,F Ioprey Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+115,赤甲兽S猫头盔,F Volvi Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+116,白电S猫护士,F Khezu Catnurse S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+117,潜口龙S猫头盔,F Nibel Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+118,夜鸟S猫面具,F Malfestio Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+119,雌火龙S猫头盔,F Rathian Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+120,雪狮子S猫面具,F Blango Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+121,将军镰蟹S猫面具,F Ceanataur Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+122,绞蛇龙S猫头巾,F Naja Turban S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+123,迅龙S猫头盔,F Narga Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+124,黑狼鸟S猫头巾,F Garuga Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+125,爆锤龙S猫头盔,F Uragaan Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+126,变形冰鲨猫圆帽,F Zamtrios Helmet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+127,水龙猫帽,F Plesioth Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+128,熔岩龙猫头盔,F Lava Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+129,雪绒花S双猫尾,F Edel Pigtails S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+130,克鲁茵S猫兜帽,F Kittendant Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+131,橡子面具,F Acorn Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+132,蟹爪面具,F Pincer Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+133,混沌的阿尔･霸,F Chaos Bulbs+,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+134,死神S猫兜帽,F Death Stench Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+135,黄金乡S猫头盔,F El Dora Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+136,机械S猫核心,F Artian Core S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+137,海龙S猫海盗帽,F Lagia Triad S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+138,斩龙S猫头盔,F Glavenus Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+139,电龙S猫面具,F Astalos Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+140,巨兽S猫衣领,F Gammoth Collar S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+141,泡狐龙S猫斗笠,F Mizutsune Kasa S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+142,火龙S猫头盔,F Rathalos Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+143,雷狼龙S猫头盔,F Zinogre Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+144,黑蚀龙S猫恐怖,F Gore Horror S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+145,轰龙S猫头盔,F Tigrex Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+146,重甲虫猫头部,F Seltas Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+147,炎戈龙猫头盔,F Agnaktor Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+148,尾锤龙猫头盔,F Duram Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+149,麒麟S猫角,F Kirin Horn S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+150,黑衣猫之面罩,F Puppeteer Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+151,恐暴龙猫头盔,F Vangis Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+152,猛怪鸟猫面具,F Kut-Ku Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+153,猛奇猿狐猫帽,F Kecha Cap R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+154,猛毒怪鸟猫覆盔,F Gypceros Crest R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+155,猛鬼蛙猫大角,F Cabra Horn R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+156,猛大名盾蟹猫面具,F Daimyo Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+157,猛水兽猫头盔,F Ludroth Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+158,猛夜鸟猫面具,F Malfestio Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+159,猛变形冰鲨猫圆帽,F Zamtrios Helmet R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+160,猛白电猫白帽,F Khezu Cap R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+161,猛雌火龙猫头盔,F Rathian Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+162,猛潜口龙猫头盔,F Nibel Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+163,猛水龙猫帽,F Plesioth Cap R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+164,猛雪狮子猫面具,F Blango Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+165,贤者S猫帽,F Scholarly Cap S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+166,女仆S猫兜帽,F Maiden Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+167,支援者S猫兜帽,F Helper Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+168,喵和抚子华【布冠】,F Beautiful Toque,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+169,最棒的面具,F Ultimate Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+170,公会S猫宽帽,F Guild Headgear S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+171,寄宿灵魂之发饰,F Soul Hairpiece,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+172,滚滚草帽,F Transpurrter Kasa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+173,纳豆流喵束发,F Dirty Locks,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+174,喵骑士的帽子,F D'Artanyan's Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+175,大师猫头盔,F Master's Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+176,勇气S猫军盔,F Derring Galea S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+177,千刃龙S猫硬盔,F Seregios Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+178,碎龙S猫拳击帽,F Brachy Noggin S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+179,天廻龙S猫光圈,F Angel Aura S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+180,骸装甲S猫面具,F Husk Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+181,阿斯里斯猫面具,F Nakarkos Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+182,猛熔岩龙猫头盔,F Lava Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+183,猛将军镰蟹猫面具,F Ceanataur Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+184,猛迅龙猫头盔,F Narga Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+185,猛绞蛇龙猫头巾,F Naja Turban R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+186,猛黑狼鸟猫头巾,F Garuga Hood R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+187,猛爆锤龙猫头盔,F Uragaan Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+188,猛重甲虫猫头部,F Seltas Head R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+189,猛火龙猫头盔,F Rathalos Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+190,猛海龙猫海盗帽,F Lagia Triad R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+191,猛雷狼龙猫头盔,F Zinogre Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+193,钢龙S猫强力,F Kushala Glower S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+194,魔神S猫帽,F Genie Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+195,帝王S猫假发,F Kaiser Crown,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+196,霸龙猫削头,F Akantor Visage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+197,崩龙猫削头,F Ukanlos Visage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+198,喵天【冠】,F Majestic Crown,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+199,煌黑龙猫智慧,F Escador Wisdom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+200,猛泡狐龙猫斗笠,F Mizutsune Kasa R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+201,猛电龙猫面具,F Astalos Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+202,猛巨兽猫衣领,F Gammoth Collar R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+203,猛斩龙猫头盔,F Glavenus Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+204,猛炎戈龙猫头盔,F Agnaktor Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+205,猛黑蚀龙猫恐怖,F Gore Horror R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+206,猛千刃龙猫硬盔,F Seregios Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+207,猛尾锤龙猫头盔,F Duram Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+208,猛轰龙猫头盔,F Tigrex Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+209,猛碎龙猫头部,F Brachy Head R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+210,猛黑衣猫之面罩,F Puppeteer Mask R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+211,猛恐暴龙猫头盔,F Vangis Helm R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+212,异形猫头盔,F Strange Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+213,异形S猫头盔,F Strange Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+214,红盔猫头盔,F Redhelm Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+215,红盔S猫头盔,F Redhelm Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+216,大雪主猫头盔,F Snowbaron Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+217,大雪主S猫头盔,F Snowbaron Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+218,矛碎猫面具,F Stonefist Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+219,矛碎S猫面具,F Stonefist Mask S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+220,紫毒姬猫头盔,F Dreadqueen Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+221,紫毒姬S猫头盔,F Dreadqueen Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+222,岩穿猫大角,F Drilltusk Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+223,岩穿S猫大角,F Drilltusk Horn S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+224,白疾风猫头盔,F Silverwind Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+225,白疾风S猫头盔,F Silverwind Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+226,宝缠猫头盔,F Crystalbeard Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+227,宝缠S猫头盔,F Crystalbeard Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+228,独眼猫头巾,F Deadeye Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+229,独眼S猫头巾,F Deadeye Hood S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+230,黑炎王猫头盔,F Dreadking Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+231,黑炎王S猫头盔,F Dreadking Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+232,金雷公猫头盔,F Thunderlord Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+233,金雷公S猫头盔,F Thunderlord Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+234,荒钩爪猫头盔,F Grimclaw Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+235,荒钩爪S猫头盔,F Grimclaw Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+236,烬灭刃猫头盔,F Hellblade Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+237,烬灭刃S猫头盔,F Hellblade Helm S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+240,财宝J猫皇冠,F Treasure Crown J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+241,海盗J猫头巾,F Pirate Bandanna J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+242,传说J猫头盔,F Legendary Helm J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+243,金币王J猫头骨,F Greedy Skull J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+245,猎衣库猫帽,F Monqlo Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+246,F Meowstar Helm,F Meowstar Helm,mhxx-romfs-game-array+mhxx-save-format-community,0
+247,宝宝轰龙猫帽,F Baby Tiga Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+248,F Spirits Helm,F Spirits Helm,mhxx-romfs-game-array+mhxx-save-format-community,0
+249,邮差猫军帽,F Postman Beret,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+250,坊屋猫飞机头,F Booyah Pompadour,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+251,总北猫头盔,F Sohoku Helmet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+255,黑魔喵兜帽,F Dark Meowgic Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+256,财宝王J猫皇冠,F Booty Crown J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+257,大海盗J猫头巾,F Buccaneer Bandanna J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+258,传说王J猫头盔,F King Helm J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+259,大金币王J猫头骨,F Avaricious Skull J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+261,猎衣库S猫帽,F Monqlo Cap S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+262,F Supreme Helm,F Supreme Helm,mhxx-romfs-game-array+mhxx-save-format-community,0
+263,F Star Hat,F Star Hat,mhxx-romfs-game-array+mhxx-save-format-community,0
+264,F Magical Hat,F Magical Hat,mhxx-romfs-game-array+mhxx-save-format-community,0
+266,F Nyankyrie Head,F Nyankyrie Head,mhxx-romfs-game-array+mhxx-save-format-community,0
+267,林克猫耳面具,F Link Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+268,火狐猫耳麦,F Fox Mic,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+269,马力欧猫帽,F Mario Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+270,路易吉猫帽,F Luigi Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+273,喵骑头盔,F Helm of Purrity,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+274,春丽猫的包包头,F Chun Chignon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+276,但丁猫假发,F Dante Wig,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+277,洛克喵头盔,F Mega Helmet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+278,旋律猫卷发,F Melodic Curls,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+279,宝宝轰龙S猫帽,F Baby Tiga Hat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+280,暖呼呼猫面具,F Sunsnug Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+281,F Spirits Helm S,F Spirits Helm S,mhxx-romfs-game-array+mhxx-save-format-community,0
+282,喵喵面具,F Meowniac's Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+283,MH Fan Club应援队长帽,F Pep Squad Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+284,白速龙猫头盔,F Giaprey Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+285,桃毛兽猫尖头帽,F Conga Steeple,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+286,土砂龙猫头盔,F Barroth Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+287,美丽猫蝴蝶结,F Pleasant Ribbons,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+288,聪慧猫帽,F Wisdom Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+289,岩龙猫头盔,F Basarios Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+290,影蜘蛛猫面具,F Scylla Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+291,活泼猫帽,F Cheerful Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+292,海歌猫兜帽,F Mariner Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+293,冰牙龙猫头盔,F Barioth Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+294,铠龙猫面具,F Grav Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+295,角龙猫头盔,F Diablos Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+296,天彗龙猫头盔,F Valstrax Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+297,橡子X猫头盔,F Acorn Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+298,贝鲁纳X猫兜帽,F Bherna Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+299,美食家X猫帽,F Gourmet Toque X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+300,云羊鹿X猫头部,F Moofy Head X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+301,草食龙X猫面具,F Aptonoth Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+302,波波X猫头部,F Popo Head X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+303,丸鸟X猫面具,F Gargwa Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+304,首鸣龙X猫面具,F Larinoth Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+306,合金X猫头盔,F Alloy Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+307,骨制X猫头盔,F Bone Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+308,变化X猫帽,F Alta Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+309,飞甲虫X猫帽,F Bnaha Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+310,狗龙X猫头盔,F Jaggi Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+311,硬甲龙X猫头盔,F Rheno Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+312,垂皮龙X猫兜帽,F Slagtoth Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+313,跳狗龙X猫头盔,F Maccao Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+314,蓝速龙X猫头盔,F Velociprey Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+315,野猪王X猫面具,F Bulldrome Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+316,青熊兽X猫头盔,F Arzuros Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+317,白速龙X猫头盔,F Giaprey Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+318,黄速龙X猫头盔,F Genprey Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+319,白兔兽X猫头盔,F Lagombi Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+320,砂龙X猫帽,F Cephalos Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+321,怪鸟X猫面具,F Kut-Ku Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+322,毒怪鸟X猫覆盔,F Gypceros Crest X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+323,鬼蛙X猫大角,F Cabra Horn X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+324,大名盾蟹X猫面具,F Daimyo Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+325,水兽X猫头盔,F Ludroth Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+326,奇猿狐X猫帽,F Kecha Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+327,女仆X猫兜帽,F Maiden Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+328,喵和抚子雅【布冠】,F Exquisite Toque,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+329,瓢虫X猫护头,F Ladybug Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+330,橡子奇面,F Odd Acorn Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+331,蟹爪奇面,F Odd Pincer Mask,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+332,求知X猫兜帽,F Lecturer's Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+333,猫兽神的石头部,F Stone God Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+334,毒蜂X猫护头,F Venombee Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+335,南瓜X猫帽,F Mosgharl Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+336,武者X猫头盔,F Marauder Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+337,美丽X猫蝴蝶结,F Pleasant Ribbons X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+338,聪慧X猫帽,F Wisdom Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+339,邮差X猫军帽,F Postman Beret X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+340,红速龙X猫头盔,F Ioprey Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+341,赤甲兽X猫头盔,F Volvi Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+342,岩龙X猫头盔,F Basarios Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+343,桃毛兽X猫尖头帽,F Conga Steeple X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+344,土砂龙X猫头盔,F Barroth Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+345,白电X猫护士,F Khezu Catnurse X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+346,潜口龙X猫头盔,F Nibel Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+347,夜鸟X猫面具,F Malfestio Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+348,雌火龙X猫头盔,F Rathian Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+349,雪狮子X猫面具,F Blango Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+350,将军镰蟹X猫面具,F Ceanataur Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+351,影蜘蛛X猫面具,F Scylla Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+352,绞蛇龙X猫头巾,F Naja Turban X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+353,迅龙X猫头盔,F Narga Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+354,变形冰鲨X猫圆帽,F Zamtrios Helmet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+355,水龙X猫帽,F Plesioth Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+356,狞怪鸟猫面具,F Kut-Ku Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+357,狞奇猿狐猫帽,F Kecha Cap XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+358,狞毒怪鸟猫覆盔,F Gypceros Crest XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+359,狞鬼蛙猫大角,F Cabra Horn XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+360,狞大名盾蟹猫面具,F Daimyo Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+361,狞水兽猫头盔,F Ludroth Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+362,贤者X猫帽,F Scholarly Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+363,克鲁茵X猫兜帽,F Kittendant Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+364,勇气X猫军盔,F Derring Galea X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+365,流浪草帽,F Transpurrrrter Kasa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+366,极品面具,F Ultimate Mask+,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+367,向导X猫兜帽,F Guide's Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+368,水手X猫兜帽,F Sailor Hat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+369,混沌的阿尔･真,F Grand Chaos Bulbs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+370,死神X猫兜帽,F Death Stench Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+371,黄金乡X猫头盔,F El Dora Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+372,机械X猫核心,F Artian Core X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+373,活泼X猫兜帽,F Cheerful Cap X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+374,海歌X猫兜帽,F Mariner Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+375,可爱猫蝴蝶结,F Cute Ribbon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+376,黑狼鸟X猫头巾,F Garuga Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+377,爆锤龙X猫头盔,F Uragaan Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+378,熔岩龙X猫头盔,F Lava Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+379,海龙X猫海盗帽,F Lagia Triad X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+380,斩龙X猫头盔,F Glavenus Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+381,电龙X猫面具,F Astalos Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+382,巨兽X猫衣领,F Gammoth Collar X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+383,泡狐龙X猫斗笠,F Mizutsune Kasa X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+384,冰牙龙X猫头盔,F Barioth Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+385,火龙X猫头盔,F Rathalos Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+386,雷狼龙X猫头盔,F Zinogre Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+387,铠龙X猫面具,F Grav Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+388,黑蚀龙X猫恐惧,F Gore Horror X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+389,轰龙X猫头盔,F Tigrex Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+390,重甲虫X猫头部,F Seltas Head X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+391,麒麟X猫角,F Kirin Horn X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+392,凛猫【护额】,F Borealis Crown,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+393,狞岩龙猫头盔,F Basarios Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+394,狞桃毛兽猫尖头帽,F Conga Steeple XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+395,狞土砂龙猫头盔,F Barroth Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+396,狞白电猫白帽,F Khezu Cap XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+397,狞潜口龙猫头盔,F Nibel Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+398,狞夜鸟猫面具,F Malfestio Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+399,狞雌火龙猫头盔,F Rathian Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+400,狞雪狮子猫面具,F Blango Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+401,狞将军镰蟹猫面具,F Ceanataur Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+402,狞影蜘蛛猫面具,F Scylla Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+403,狞绞蛇龙猫头巾,F Naja Turban XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+404,狞迅龙猫头盔,F Narga Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+405,狞变形冰鲨猫圆帽,F Zamtrios Helmet XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+406,狞水龙猫帽,F Plesioth Cap XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+407,公会X猫宽帽,F Guild Headgear X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+408,寄宿精灵之发饰,F Spirit Hairpiece,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+409,纳豆真传喵束发,F Pro Dirty Locks,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+410,喵骑士的勇敢帽子,F D'Artanyan Hero Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+411,大师X猫头盔,F Master's Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+412,酒吧主人猫帽,F Barmaid's Cap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+413,酒保猫墨镜,F Barman's Shades,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+414,炎戈龙X猫头盔,F Agnaktor Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+415,尾锤龙X猫头盔,F Duram Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+416,千刃龙X猫硬盔,F Seregios Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+417,角龙X猫头盔,F Diablos Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+418,碎龙X猫拳击帽,F Brachy Noggin X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+419,天廻龙X猫光圈,F Angel Aura X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+420,天彗龙X猫头盔,F Valstrax Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+421,黑衣猫之面罩･霸,F Puppeteer Mask+,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+422,恐暴龙X猫头盔,F Vangis Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+423,混沌猫兜帽,F Chaos Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+424,钢龙X猫围城,F Kushala Snarl X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+425,魔神X猫帽,F Genie Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+426,帝王X猫假发,F Kaiser Crown X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+427,骸装甲X猫面具,F Husk Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+428,阿斯里斯X猫面具,F Nakarkos Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+429,王座猫硬盔,F Neset Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+430,狞黑狼鸟猫头巾,F Garuga Hood XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+431,狞爆锤龙猫头盔,F Uragaan Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+432,狞熔岩龙猫头盔,F Lava Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+433,狞海龙猫海盗帽,F Lagia Triad XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+434,狞斩龙猫头盔,F Glavenus Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+435,狞电龙猫面具,F Astalos Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+436,狞巨兽猫衣领,F Gammoth Collar XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+437,狞泡狐龙猫斗笠,F Mizutsune Kasa XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+438,狞冰牙龙猫头盔,F Barioth Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+439,狞火龙猫头盔,F Rathalos Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+440,狞雷狼龙猫头盔,F Zinogre Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+441,狞铠龙猫面具,F Grav Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+442,狞黑蚀龙猫恐怖,F Gore Horror XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+443,狞轰龙猫头盔,F Rex Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+444,狞重甲虫猫头部,F Seltas Head XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+445,狩猎X猫头盔,F Hunting Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+446,毛皮X猫兜帽,F Mafumofu Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+447,结云X猫斗笠,F Yukumo Kasa X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+448,支援者X猫兜帽,F Helper Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+449,雪绒花X双猫尾,F Edel Pigtails X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+451,霸龙X猫削头,F Akantor Visage X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+452,崩龙X猫削头,F Ukanlos Visage X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+453,喵天･真【冠】,F Grand Majestic Crown,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+454,煌黑龙X猫智慧,F Escador Wisdom X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+455,龙猫头盔,F Dragon Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+456,红龙猫头盔,F Fatalis Crimsonhelm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+457,祖龙猫头盔,F Old Fatalis Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+458,狞炎戈龙猫头盔,F Agnaktor Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+459,狞尾锤龙猫头盔,F Duram Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+460,狞千刃龙猫硬盔,F Seregios Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+461,狞角龙猫头盔,F Diablos Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+462,狞碎龙猫头部,F Brachy Head XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+463,狞黑衣猫之面罩,F Puppeteer Mask XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+464,狞恐暴龙猫头盔,F Vangis Helm XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+465,异形X猫头盔,F Strange Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+466,异形XX猫头盔,F Strange Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+467,红盔X猫头盔,F Redhelm Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+468,红盔XX猫头盔,F Redhelm Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+469,大雪主X猫头盔,F Snowbaron Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+470,大雪主XX猫头盔,F Snowbaron Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+471,矛碎X猫面具,F Stonefist Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+472,矛碎XX猫面具,F Stonefist Mask XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+473,紫毒姬X猫头盔,F Dreadqueen Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+474,紫毒姬XX猫头盔,F Dreadqueen Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+475,岩穿X猫大角,F Drilltusk Horn X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+476,岩穿XX猫大角,F Drilltusk Horn XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+477,胧隐X猫面具,F Nightcloak Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+478,胧隐XX猫面具,F Nightcloak Mask XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+479,铠裂X猫面具,F Rustrazor Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+480,铠裂XX猫面具,F Rustrazor Mask XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+481,白疾风X猫头盔,F Silverwind Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+482,白疾风XX猫头盔,F Silverwind Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+483,宝缠X猫头盔,F Crystalbeard Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+484,宝缠XX猫头盔,F Crystalbeard Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+485,独眼X猫头巾,F Deadeye Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+486,独眼XX猫头巾,F Deadeye Hood XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+487,黑炎王X猫头盔,F Dreadking Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+488,黑炎王XX猫头盔,F Dreadking Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+489,金雷公X猫头盔,F Thunderlord Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+490,金雷公XX猫头盔,F Thunderlord Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+491,荒钩爪X猫头盔,F Grimclaw Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+492,荒钩爪XX猫头盔,F Grimclaw Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+493,烬灭刃X猫头盔,F Hellblade Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+494,烬灭刃XX猫头盔,F Hellblade Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+495,天眼X猫斗笠,F Soulseer Kasa X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+496,天眼XX猫斗笠,F Soulseer Kasa XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+497,青电主X猫面具,F Boltreaver Mask X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+498,青电主XX猫面具,F Boltreaver Mask XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+499,银峰X猫衣领,F Elderfrost Collar X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+500,银峰XX猫衣领,F Elderfrost Collar XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+501,鏖魔X猫头盔,F Bloodbath Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+502,鏖魔XX猫头盔,F Bloodbath Helm XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+504,F Nyatfire Kasa,F Nyatfire Kasa,mhxx-romfs-game-array+mhxx-save-format-community,0
+507,F Nyatfire Kasa+,F Nyatfire Kasa+,mhxx-romfs-game-array+mhxx-save-format-community,0
+508,大神猫头巾,F Okami Hood,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+509,亚瑟猫头盔,F Arthur's Helm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+511,侦探猫眼镜,F Detective Specs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+514,大神X猫头巾,F Okami Hood X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+515,亚瑟X猫头盔,F Arthur's Helm X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+517,名侦探X猫眼镜,F Detective Specs X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+520,铁生猫头部,F Tesshou Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+521,坊屋X猫飞机头,F Booyah Pompadour X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+523,喵步堂头部,F Phoenix Wig,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+524,幼年艾露猫,F Kittyback Hat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+526,F Nyatfire Kasa Z,F Nyatfire Kasa Z,mhxx-romfs-game-array+mhxx-save-format-community,0

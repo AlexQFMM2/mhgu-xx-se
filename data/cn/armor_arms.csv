@@ -1,1159 +1,1159 @@
 id,name,english,source,rarity
-0,无,None,mhxx-save-format-community,0
-1,皮制手套,Leather Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
-2,锁甲手套,Chainmail Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
-3,贝鲁纳腕甲,Bherna Braces,mhxx-dex-1.0+mhxx-save-format-community,1
-4,狩猎腕甲,Hunting Braces,mhxx-dex-1.0+mhxx-save-format-community,1
-5,狩猎手甲,Hunting Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-6,毛皮手套,Mafumofu Mittens,mhxx-dex-1.0+mhxx-save-format-community,1
-7,结云之护臂,Yukumo Kote,mhxx-dex-1.0+mhxx-save-format-community,1
-9,猎人腕甲,Hunter's Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
-10,猎人手甲,Hunter's Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-11,骨制腕甲,Bone Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
-12,骨制手甲,Bone Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-17,猎手皮臂甲,Trapper's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,1
-18,猎手皮手套,Trapper's Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
-19,跳狗龙王皮臂甲,Maccao Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,1
-20,跳狗龙王皮手套,Maccao Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
-21,狗龙王皮臂甲,Jaggi Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,1
-22,狗龙王皮手套,Jaggi Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
-23,狗龙腕甲,Jaggi Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
-24,狗龙手甲,Jaggi Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-25,跳狗龙腕甲,Maccao Braces,mhxx-dex-1.0+mhxx-save-format-community,1
-26,跳狗龙手甲,Maccao Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-27,蓝速龙腕甲,Velociprey Braces,mhxx-dex-1.0+mhxx-save-format-community,1
-28,蓝速龙手甲,Velociprey Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-29,白速龙腕甲,Giaprey Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
-30,白速龙手甲,Giaprey Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-31,黄速龙腕甲,Genprey Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
-32,黄速龙手甲,Genprey Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-33,巨蜂腕甲,Vespoid Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
-34,巨蜂手甲,Vespoid Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-35,巨甲虫腕甲,Hornetaur Braces,mhxx-dex-1.0+mhxx-save-format-community,1
-36,巨甲虫手甲,Hornetaur Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-37,飞甲虫护手,Bnahabra Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
-38,飞甲虫袖扣,Bnahabra Sleeves,mhxx-dex-1.0+mhxx-save-format-community,1
-39,盾虫腕甲,Konchu Braces,mhxx-dex-1.0+mhxx-save-format-community,1
-40,盾虫手甲,Konchu Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-41,蘑菇猪拳,Mosswine Gloves,mhxx-dex-1.0+mhxx-save-format-community,1
-42,硬甲龙腕甲,Rhenoplos Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
-43,硬甲龙手甲,Rhenoplos Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-44,野猪腕甲,Bulldrome Braces,mhxx-dex-1.0+mhxx-save-format-community,1
-45,野猪手甲,Bulldrome Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-47,青熊兽腕甲,Arzuros Vambraces,mhxx-dex-1.0+mhxx-save-format-community,1
-48,青熊兽手甲,Arzuros Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-49,砂龙腕甲,Cephalos Braces,mhxx-dex-1.0+mhxx-save-format-community,1
-50,砂龙手甲,Cephalos Guards,mhxx-dex-1.0+mhxx-save-format-community,1
-51,勇气手套,Derring Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
-52,合金腕甲,Alloy Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-53,合金手甲,Alloy Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-54,战斗腕甲,Battle Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-55,战斗手甲,Battle Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-56,铸铁腕甲,Ingot Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-57,铸铁手甲,Ingot Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-58,矿石腕甲,High Metal Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-59,矿石手甲,High Metal Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-62,花瓣枝叶,Melahoa Branch,mhxx-dex-1.0+mhxx-save-format-community,2
-63,花瓣美神,Melahoa Petal,mhxx-dex-1.0+mhxx-save-format-community,2
-64,鱼鳞袖,Makluva Sleeves,mhxx-dex-1.0+mhxx-save-format-community,2
-65,鱼鳞护袖,Makluva Sucker,mhxx-dex-1.0+mhxx-save-format-community,2
-68,独角仙护袖,Obituary Brachia,mhxx-dex-1.0+mhxx-save-format-community,2
-69,独角仙腕,Obituary Manus,mhxx-dex-1.0+mhxx-save-format-community,2
-70,燕尾蝶护袖,Butterfly Brachia,mhxx-dex-1.0+mhxx-save-format-community,2
-71,燕尾蝶腕,Butterfly Manus,mhxx-dex-1.0+mhxx-save-format-community,2
-72,死神双手,Death Stench Grip,mhxx-dex-1.0+mhxx-save-format-community,2
-73,死神欲望,Death Stench Grasp,mhxx-dex-1.0+mhxx-save-format-community,2
-76,南瓜枝叶,Mosgharl Creeper,mhxx-dex-1.0+mhxx-save-format-community,2
-77,南瓜美神,Mosgharl Tendril,mhxx-dex-1.0+mhxx-save-format-community,2
-78,雪绒花枝叶,Edel Creeper,mhxx-dex-1.0+mhxx-save-format-community,2
-79,雪绒花美神,Edel Tendril,mhxx-dex-1.0+mhxx-save-format-community,2
-80,毒蝎护袖,Skalda Brachia,mhxx-dex-1.0+mhxx-save-format-community,2
-81,毒蝎腕,Skalda Manus,mhxx-dex-1.0+mhxx-save-format-community,2
-82,毒蛛护袖,Spio Brachia,mhxx-dex-1.0+mhxx-save-format-community,2
-83,毒蛛腕,Spio Manus,mhxx-dex-1.0+mhxx-save-format-community,2
-90,云羊鹿手套,Moofah Claws,mhxx-dex-1.0+mhxx-save-format-community,2
-91,云羊鹿袖扣,Moofah Sleeves,mhxx-dex-1.0+mhxx-save-format-community,2
-93,蓝速龙套装手套,Velociprey Claws,mhxx-dex-1.0+mhxx-save-format-community,2
-94,蓝速龙套装护臂,Velociprey Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
-95,黄速龙套装手套,Genprey Claws,mhxx-dex-1.0+mhxx-save-format-community,2
-96,黄速龙套装护臂,Genprey Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
-97,红速龙套装手套,Ioprey Claws,mhxx-dex-1.0+mhxx-save-format-community,2
-98,红速龙套装护臂,Ioprey Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
-99,蛇龙套装手套,Remobra Gloves,mhxx-dex-1.0+mhxx-save-format-community,2
-100,蛇龙套装护臂,Remobra Hands,mhxx-dex-1.0+mhxx-save-format-community,2
-101,红速龙腕甲,Ioprey Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-102,红速龙手甲,Ioprey Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-103,怪鸟腕甲,Kut-Ku Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-104,怪鸟手甲,Kut-Ku Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-105,白兔兽腕甲,Lagombi Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-106,白兔兽手甲,Lagombi Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-107,毒怪鸟腕甲,Gypceros Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-108,毒怪鸟手甲,Gypceros Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-109,鬼蛙腕甲,Tetsucabra Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-110,鬼蛙手甲,Tetsucabra Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-111,大名盾蟹腕甲,Hermitaur Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-112,大名盾蟹手甲,Hermitaur Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-113,赤甲兽腕甲,Volvidon Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-114,赤甲兽手甲,Volvidon Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-115,水兽腕甲,Ludroth Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-116,水兽手甲,Ludroth Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-117,夜鸟腕甲,Malfestio Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-118,夜鸟手甲,Malfestio Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-119,白电腕甲,Khezu Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-120,白电手甲,Khezu Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-121,雌火龙腕甲,Rathian Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-122,雌火龙手甲,Rathian Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-123,潜口龙腕甲,Nibelsnarf Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-124,潜口龙手甲,Nibelsnarf Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-125,雪狮子腕甲,Blango Vambraces,mhxx-dex-1.0+mhxx-save-format-community,2
-126,雪狮子手甲,Blango Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-127,将军镰蟹腕甲,Ceanataur Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-128,将军镰蟹手甲,Ceanataur Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-129,绞蛇龙腕甲,Najarala Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-130,绞蛇龙手甲,Najarala Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-131,迅龙腕甲,Nargacuga Braces,mhxx-dex-1.0+mhxx-save-format-community,2
-132,迅龙手甲,Nargacuga Guards,mhxx-dex-1.0+mhxx-save-format-community,2
-133,贤者手套,Scholarly Grips,mhxx-dex-1.0+mhxx-save-format-community,2
-134,贤者袖扣,Scholarly Cuffs,mhxx-dex-1.0+mhxx-save-format-community,2
-135,海境腕甲,Vaik Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-136,海境手甲,Vaik Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-139,锹形护袖,Aelucanth Brachia,mhxx-dex-1.0+mhxx-save-format-community,3
-140,锹形腕,Aelucanth Manus,mhxx-dex-1.0+mhxx-save-format-community,3
-141,凤蝶护袖,Rhopessa Brachia,mhxx-dex-1.0+mhxx-save-format-community,3
-142,凤蝶腕,Rhopessa Manus,mhxx-dex-1.0+mhxx-save-format-community,3
-143,机械腕甲,Artian Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-144,机械手甲,Artian Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-145,黑狼鸟腕甲,Garuga Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
-146,黑狼鸟手甲,Garuga Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-148,爆锤龙腕甲,Uragaan Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
-149,爆锤龙手甲,Uragaan Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-150,火龙腕甲,Rathalos Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-151,火龙手甲,Rathalos Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-152,海龙腕甲,Lagiacrus Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-153,海龙手甲,Lagiacrus Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-154,雷狼龙腕甲,Zinogre Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-155,雷狼龙手甲,Zinogre Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-156,泡狐龙腕甲,Mizutsune Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-157,泡狐龙手甲,Mizutsune Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-158,电龙腕甲,Astalos Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-159,电龙手甲,Astalos Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-160,巨兽腕甲,Gammoth Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-161,巨兽手甲,Gammoth Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-162,斩龙腕甲,Glavenus Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-163,斩龙手甲,Glavenus Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-164,黑蚀龙腕甲,Gore Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-165,黑蚀龙手甲,Gore Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-166,千刃龙腕甲,Regios Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
-167,千刃龙手甲,Regios Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-168,轰龙腕甲,Tigrex Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-169,轰龙手甲,Tigrex Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-170,麒麟长腕甲,Kirin Longarms,mhxx-dex-1.0+mhxx-save-format-community,3
-171,麒麟护手,Kirin Gloves,mhxx-dex-1.0+mhxx-save-format-community,3
-172,碎龙腕甲,Brachydios Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-173,碎龙手甲,Brachydios Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-174,方舟腕甲,Arc Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
-175,友爱腕甲,Storge Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-176,方舟手甲,Arc Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-177,友爱手甲,Storge Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-178,钢龙刚强,Kushala Grip,mhxx-dex-1.0+mhxx-save-format-community,3
-179,钢龙劲猛,Kushala Embrace,mhxx-dex-1.0+mhxx-save-format-community,3
-180,水行【大袖】,Mizuha Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-181,丰玉【大袖】,Cham Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-182,帝王腕甲,Kaiser Vambraces,mhxx-dex-1.0+mhxx-save-format-community,3
-183,帝王手甲,Kaiser Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-184,骸装甲【臂骨】,Skeletal Humerus,mhxx-dex-1.0+mhxx-save-format-community,3
-185,尸装甲【臂骨】,Decayed Humerus,mhxx-dex-1.0+mhxx-save-format-community,3
-186,黑色护肘,Black Claw,mhxx-dex-1.0+mhxx-save-format-community,3
-187,黑色拳头,Black Fist,mhxx-dex-1.0+mhxx-save-format-community,3
-188,黑带腕甲,Black Belt Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-189,黑带手甲,Black Belt Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-190,公会诗人腕甲,Guild Bard Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-191,公会诗人袖扣,Guild Bard Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-192,女仆手套,Maiden's Gloves,mhxx-dex-1.0+mhxx-save-format-community,3
-193,休闲袖扣,French Maid Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-194,支援者袖扣,Helper Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-195,治疗者袖扣,Healer Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-196,抚子【蕾袖】,Dianthus Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-197,桔梗【蕾袖】,Campanile Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-198,泡澡条巾,Bath Sleeves,mhxx-dex-1.0+mhxx-save-format-community,3
-199,美食喵袖,Gourmew Gloves,mhxx-dex-1.0+mhxx-save-format-community,3
-200,美食喵手套,Gourmew Mitts,mhxx-dex-1.0+mhxx-save-format-community,3
-201,皮制S腕甲,Leather Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-202,锁甲S腕甲,Chainmail Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-203,贝鲁纳S腕甲,Bherna Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-204,贝鲁纳S手甲,Bherna Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-205,狩猎S腕甲,Hunting Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-206,狩猎S手甲,Hunting Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-207,毛皮S手套,Mafumofu Grips S,mhxx-dex-1.0+mhxx-save-format-community,4
-208,毛皮S连指手套,Mafumofu Mittens S,mhxx-dex-1.0+mhxx-save-format-community,4
-209,结云之护臂･天,Yukumo Sky Kote,mhxx-dex-1.0+mhxx-save-format-community,4
-210,结云之护臂･地,Yukumo Land Kote,mhxx-dex-1.0+mhxx-save-format-community,4
-212,猎人S腕甲,Hunter's Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-213,猎人S手甲,Hunter's Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-214,猎人R腕甲,Hunter's Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
-215,猎人R手甲,Hunter's Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
-216,骨制S腕甲,Bone Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-217,骨制S手甲,Bone Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-224,花瓣S枝叶,Melahoa Branch S,mhxx-dex-1.0+mhxx-save-format-community,4
-225,花瓣S美神,Melahoa Petal S,mhxx-dex-1.0+mhxx-save-format-community,4
-226,花瓣U枝叶,Melahoa Branch U,mhxx-dex-1.0+mhxx-save-format-community,4
-227,花瓣U美神,Melahoa Petal U,mhxx-dex-1.0+mhxx-save-format-community,4
-228,鱼鳞S袖,Makluva Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,4
-229,鱼鳞S护袖,Makluva Sucker S,mhxx-dex-1.0+mhxx-save-format-community,4
-230,鱼鳞U袖,Makluva Sleeves U,mhxx-dex-1.0+mhxx-save-format-community,4
-231,鱼鳞U护袖,Makluva Sucker U,mhxx-dex-1.0+mhxx-save-format-community,4
-236,南瓜S枝叶,Mosgharl Creeper S,mhxx-dex-1.0+mhxx-save-format-community,4
-237,南瓜S美神,Mosgharl Tendril S,mhxx-dex-1.0+mhxx-save-format-community,4
-238,雪绒花S枝叶,Edel Creeper S,mhxx-dex-1.0+mhxx-save-format-community,4
-239,雪绒花S美神,Edel Tendril S,mhxx-dex-1.0+mhxx-save-format-community,4
-240,云羊鹿S手套,Moofah Claws S,mhxx-dex-1.0+mhxx-save-format-community,4
-241,云羊鹿S袖扣,Moofah Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,4
-247,蓝速龙套装S手套,Velociprey Claws S,mhxx-dex-1.0+mhxx-save-format-community,4
-248,蓝速龙套装S护臂,Velociprey Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-249,黄速龙套装S手套,Genprey Claws S,mhxx-dex-1.0+mhxx-save-format-community,4
-250,黄速龙套装S护臂,Genprey Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-251,红速龙套装S手套,Ioprey Claws S,mhxx-dex-1.0+mhxx-save-format-community,4
-252,红速龙套装S护臂,Ioprey Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-253,蛇龙套装S手套,Remobra Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-254,蛇龙套装S护臂,Remobra Hands S,mhxx-dex-1.0+mhxx-save-format-community,4
-255,猎手皮臂甲S,Trapper's Gauntlets S,mhxx-dex-1.0+mhxx-save-format-community,4
-256,猎手皮手套S,Trapper's Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-257,跳狗龙王皮臂甲S,Maccao Gauntlets S,mhxx-dex-1.0+mhxx-save-format-community,4
-258,跳狗龙王皮手套S,Maccao Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-259,狗龙王皮臂甲S,Jaggi Gauntlets S,mhxx-dex-1.0+mhxx-save-format-community,4
-260,狗龙王皮手套S,Jaggi Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-261,蘑菇猪S拳,Mosswine Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-262,硬甲龙S腕甲,Rhenoplos Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-263,硬甲龙S手甲,Rhenoplos Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-264,狗龙S腕甲,Jaggi Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-265,狗龙S手甲,Jaggi Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-270,跳狗龙S腕甲,Maccao Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-271,跳狗龙S手甲,Maccao Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-272,蓝速龙S腕甲,Velociprey Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-273,蓝速龙S手甲,Velociprey Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-274,白速龙S腕甲,Giaprey Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-275,白速龙S手甲,Giaprey Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-276,黄速龙S腕甲,Genprey Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-277,黄速龙S手甲,Genprey Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-278,EX黄速龙腕甲,EX Genprey Braces,mhxx-dex-1.0+mhxx-save-format-community,4
-279,EX黄速龙手甲,EX Genprey Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-280,红速龙S腕甲,Ioprey Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-281,红速龙S手甲,Ioprey Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-282,EX红速龙腕甲,EX Ioprey Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
-283,EX红速龙手甲,EX Ioprey Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-284,巨蜂S腕甲,Vespoid Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-285,巨蜂S手甲,Vespoid Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-286,EX巨蜂腕甲,EX Vespoid Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
-287,EX巨蜂手甲,EX Vespoid Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-288,巨甲虫S腕甲,Hornetaur Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-289,巨甲虫S手甲,Hornetaur Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-290,EX巨甲虫腕甲,EX Hornetaur Braces,mhxx-dex-1.0+mhxx-save-format-community,4
-291,EX巨甲虫手甲,EX Hornetaur Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-292,巨甲虫R腕甲,Hornetaur Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
-293,巨甲虫R手甲,Hornetaur Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
-294,飞甲虫S护手,Bnahabra Gloves S,mhxx-dex-1.0+mhxx-save-format-community,4
-295,飞甲虫S袖扣,Bnahabra Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,4
-296,盾虫S腕甲,Konchu Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-297,盾虫S手甲,Konchu Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-298,野猪S腕甲,Bulldrome Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-299,野猪S手甲,Bulldrome Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-301,青熊兽S腕甲,Arzuros Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-302,青熊兽S手甲,Arzuros Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-303,砂龙S腕甲,Cephalos Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-304,砂龙S手甲,Cephalos Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-305,EX砂龙腕甲,EX Cephalos Braces,mhxx-dex-1.0+mhxx-save-format-community,4
-306,EX砂龙手甲,EX Cephalos Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-307,怪鸟S腕甲,Kut-Ku Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-308,怪鸟S手甲,Kut-Ku Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-309,奇猿狐腕甲,Kecha Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
-310,奇猿狐手甲,Kecha Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-311,白兔兽S腕甲,Lagombi Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-312,白兔兽S手甲,Lagombi Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-313,毒怪鸟S腕甲,Gypceros Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-314,毒怪鸟S手甲,Gypceros Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-315,毒怪鸟R腕甲,Gypceros Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
-316,毒怪鸟R手甲,Gypceros Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
-317,鬼蛙S腕甲,Tetsucabra Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-318,鬼蛙S手甲,Tetsucabra Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-319,大名盾蟹S腕甲,Hermitaur Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-320,大名盾蟹S手甲,Hermitaur Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-321,EX大名盾蟹腕甲,EX Hermitaur Braces,mhxx-dex-1.0+mhxx-save-format-community,4
-322,EX大名盾蟹手甲,EX Hermitaur Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-323,大名盾蟹R腕甲,Hermitaur Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
-324,大名盾蟹R手甲,Hermitaur Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
-325,赤甲兽S腕甲,Volvidon Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,4
-326,赤甲兽S手甲,Volvidon Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-327,水兽S腕甲,Ludroth Braces S,mhxx-dex-1.0+mhxx-save-format-community,4
-328,水兽S手甲,Ludroth Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-329,水兽R腕甲,Ludroth Braces R,mhxx-dex-1.0+mhxx-save-format-community,4
-330,水兽R手甲,Ludroth Guards R,mhxx-dex-1.0+mhxx-save-format-community,4
-331,求知腕甲,Lecturer's Braces,mhxx-dex-1.0+mhxx-save-format-community,4
-332,求知手甲,Lecturer's Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-333,合金S腕甲,Alloy Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
-334,合金S手甲,Alloy Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-335,合金R腕甲,Alloy Braces R,mhxx-dex-1.0+mhxx-save-format-community,5
-336,合金R手甲,Alloy Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
-337,战斗S腕甲,Battle Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
-338,战斗S手甲,Battle Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-339,铸铁S腕甲,Ingot Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
-340,铸铁S手甲,Ingot Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-341,铸铁R腕甲,Ingot Vambraces R,mhxx-dex-1.0+mhxx-save-format-community,5
-342,铸铁R手甲,Ingot Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
-343,矿石S腕甲,High Metal Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-344,矿石S手甲,High Metal Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-345,矿石U腕甲,High Metal Braces U,mhxx-dex-1.0+mhxx-save-format-community,5
-346,矿石U手甲,High Metal Guards U,mhxx-dex-1.0+mhxx-save-format-community,5
-349,龙虾腕甲,Lobster Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
-350,龙虾手甲,Lobster Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-351,独角仙S护袖,Obituary Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
-352,独角仙S腕,Obituary Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
-353,燕尾蝶S护袖,Butterfly Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
-354,燕尾蝶S腕,Butterfly Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
-355,死神S双手,Death Stench Grip S,mhxx-dex-1.0+mhxx-save-format-community,5
-356,死神S欲望,Death Stench Grasp S,mhxx-dex-1.0+mhxx-save-format-community,5
-357,死神R双手,Death Stench Grip R,mhxx-dex-1.0+mhxx-save-format-community,5
-358,死神R欲望,Death Stench Grasp R,mhxx-dex-1.0+mhxx-save-format-community,5
-359,海境S腕甲,Vaik Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-360,海境S手甲,Vaik Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-361,锹形S护袖,Aelucanth Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
-362,锹形S腕,Aelucanth Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
-363,凤蝶S护袖,Rhopessa Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
-364,凤蝶S腕,Rhopessa Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
-365,糕点师袖,Patissier's Gloves,mhxx-dex-1.0+mhxx-save-format-community,5
-366,糕点师手套,Patissier's Mitts,mhxx-dex-1.0+mhxx-save-format-community,5
-367,毒蝎S护袖,Skalda Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
-368,毒蝎S腕,Skalda Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
-369,毒蛛S护袖,Spio Brachia S,mhxx-dex-1.0+mhxx-save-format-community,5
-370,毒蛛S腕,Spio Manus S,mhxx-dex-1.0+mhxx-save-format-community,5
-371,夜鸟S腕甲,Malfestio Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-372,夜鸟S手甲,Malfestio Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-373,变形冰鲨腕甲,Zamtrios Braces,mhxx-dex-1.0+mhxx-save-format-community,5
-374,变形冰鲨手甲,Zamtrios Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-375,白电S腕甲,Khezu Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
-376,白电S手甲,Khezu Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-377,白电R腕甲,Khezu Braces R,mhxx-dex-1.0+mhxx-save-format-community,5
-378,白电R手甲,Khezu Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
-379,雌火龙S腕甲,Rathian Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-380,雌火龙S手甲,Rathian Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-381,EX雌火龙腕甲,EX Rathian Braces,mhxx-dex-1.0+mhxx-save-format-community,5
-382,EX雌火龙手甲,EX Rathian Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-383,雌火龙R腕甲,Rathian Braces R,mhxx-dex-1.0+mhxx-save-format-community,5
-384,雌火龙R手甲,Rathian Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
-385,潜口龙S腕甲,Nibelsnarf Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-386,潜口龙S手甲,Nibelsnarf Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-387,水龙腕甲,Plesioth Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
-388,水龙手甲,Plesioth Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-389,雪狮子S腕甲,Blango Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
-390,雪狮子S手甲,Blango Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-391,EX雪狮子腕甲,EX Blango Braces,mhxx-dex-1.0+mhxx-save-format-community,5
-392,EX雪狮子手甲,EX Blango Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-393,熔岩龙腕甲,Lavasioth Braces,mhxx-dex-1.0+mhxx-save-format-community,5
-394,熔岩龙手甲,Lavasioth Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-395,EX熔岩龙腕甲,EX Lavasioth Braces,mhxx-dex-1.0+mhxx-save-format-community,5
-396,EX熔岩龙手甲,EX Lavasioth Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-397,将军镰蟹S腕甲,Ceanataur Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-398,将军镰蟹S手甲,Ceanataur Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-399,EX将军镰蟹腕甲,EX Ceanataur Braces,mhxx-dex-1.0+mhxx-save-format-community,5
-400,EX将军镰蟹手甲,EX Ceanataur Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-401,将军镰蟹R腕甲,Ceanataur Braces R,mhxx-dex-1.0+mhxx-save-format-community,5
-402,将军镰蟹R手甲,Ceanataur Guards R,mhxx-dex-1.0+mhxx-save-format-community,5
-403,绞蛇龙S腕甲,Najarala Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-404,绞蛇龙S手甲,Najarala Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-405,迅龙S腕甲,Nargacuga Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-406,迅龙S手甲,Nargacuga Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-407,黑狼鸟S腕甲,Garuga Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
-408,黑狼鸟S手甲,Garuga Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-410,爆锤龙S腕甲,Uragaan Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,5
-411,爆锤龙S手甲,Uragaan Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-412,黑带S腕甲,Black Belt Braces S,mhxx-dex-1.0+mhxx-save-format-community,5
-413,黑带S手甲,Black Belt Guards S,mhxx-dex-1.0+mhxx-save-format-community,5
-414,守护者腕甲,Guardian Braces,mhxx-dex-1.0+mhxx-save-format-community,5
-415,守护者手甲,Guardian Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-416,守护者U腕甲,Guardian Braces U,mhxx-dex-1.0+mhxx-save-format-community,5
-417,守护者U手甲,Guardian Guards U,mhxx-dex-1.0+mhxx-save-format-community,5
-418,学士手套,Scholar's Gloves,mhxx-dex-1.0+mhxx-save-format-community,5
-419,学士袖扣,Scholar's Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
-420,水手手套,Sailor Gloves,mhxx-dex-1.0+mhxx-save-format-community,5
-421,水手袖扣,Sailor Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
-422,高级泡澡条巾,Luxury Bath Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
-423,北极星【袖】,Kita Star Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
-424,海渊【袖】,Umi Ocean Sleeves,mhxx-dex-1.0+mhxx-save-format-community,5
-426,勇气S腕甲,Derring Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,6
-427,勇气S手甲,Derring Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-428,杜宾腕甲,Dober Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-429,杜宾手甲,Dober Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-430,花纹钢腕甲,Damascus Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-431,花纹钢手甲,Damascus Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-432,花纹钢R腕甲,Damascus Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
-433,花纹钢R手甲,Damascus Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
-440,机械S腕甲,Artian Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-441,机械S手甲,Artian Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-442,机械R腕甲,Artian Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
-443,机械R手甲,Artian Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
-444,重甲虫腕甲,Seltas Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-445,重甲虫手甲,Seltas Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-446,火龙S腕甲,Rathalos Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-447,火龙S手甲,Rathalos Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-448,EX火龙腕甲,EX Rathalos Braces,mhxx-dex-1.0+mhxx-save-format-community,6
-449,EX火龙手甲,EX Rathalos Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-450,火龙R腕甲,Rathalos Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
-451,火龙R手甲,Rathalos Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
-452,海龙S腕甲,Lagiacrus Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-453,海龙S手甲,Lagiacrus Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-454,海龙R腕甲,Lagiacrus Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
-455,海龙R手甲,Lagiacrus Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
-456,雷狼龙S腕甲,Zinogre Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-457,雷狼龙S手甲,Zinogre Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-458,EX雷狼龙腕甲,EX Zinogre Braces,mhxx-dex-1.0+mhxx-save-format-community,6
-459,EX雷狼龙手甲,EX Zinogre Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-460,泡狐龙S腕甲,Mizutsune Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-461,泡狐龙S手甲,Mizutsune Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-462,电龙S腕甲,Astalos Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-463,电龙S手甲,Astalos Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-464,巨兽S腕甲,Gammoth Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-465,巨兽S手甲,Gammoth Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-466,斩龙S腕甲,Glavenus Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-467,斩龙S手甲,Glavenus Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-468,炎戈龙腕甲,Agnaktor Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-469,炎戈龙手甲,Agnaktor Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-470,黑蚀龙S腕甲,Gore Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-471,黑蚀龙S手甲,Gore Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-472,EX黑蚀龙腕甲,EX Gore Braces,mhxx-dex-1.0+mhxx-save-format-community,6
-473,EX黑蚀龙手甲,EX Gore Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-474,黑蚀龙R腕甲,Gore Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
-475,黑蚀龙R手甲,Gore Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
-476,千刃龙S腕甲,Regios Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,6
-477,千刃龙S手甲,Regios Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-478,尾锤龙腕甲,Duramboros Braces,mhxx-dex-1.0+mhxx-save-format-community,6
-479,尾锤龙手甲,Duramboros Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-480,轰龙S腕甲,Tigrex Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-481,轰龙S手甲,Tigrex Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-482,EX轰龙腕甲,EX Tigrex Braces,mhxx-dex-1.0+mhxx-save-format-community,6
-483,EX轰龙手甲,EX Tigrex Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-484,轰龙R腕甲,Tigrex Braces R,mhxx-dex-1.0+mhxx-save-format-community,6
-485,轰龙R手甲,Tigrex Guards R,mhxx-dex-1.0+mhxx-save-format-community,6
-486,麒麟S长腕甲,Kirin Longarms S,mhxx-dex-1.0+mhxx-save-format-community,6
-487,麒麟S护手,Kirin Gloves S,mhxx-dex-1.0+mhxx-save-format-community,6
-488,麒麟R长腕甲,Kirin Longarms R,mhxx-dex-1.0+mhxx-save-format-community,6
-489,麒麟R护手,Kirin Gloves R,mhxx-dex-1.0+mhxx-save-format-community,6
-490,碎龙S腕甲,Brachydios Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-491,碎龙S手甲,Brachydios Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-492,EX碎龙腕甲,EX Brachydios Braces,mhxx-dex-1.0+mhxx-save-format-community,6
-493,EX碎龙手甲,EX Brachydios Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-494,金色臂甲,Golden Kote,mhxx-dex-1.0+mhxx-save-format-community,6
-495,黑衣臂甲,Puppeteer Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-496,恐暴龙腕甲,Vangis Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-497,恐暴龙手甲,Vangis Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-498,公会骑士手套,Guild Knight Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-499,公会骑士袖扣,Guild Knight Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
-500,女仆S手套,Maiden's Gloves S,mhxx-dex-1.0+mhxx-save-format-community,6
-501,休闲S袖扣,French Maid Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,6
-502,公会守卫蓝手套,Blue Guild Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-503,公会守卫蓝袖扣,Blue Guild Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
-504,公会守卫红手套,Red Guild Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-505,公会守卫红袖扣,Red Guild Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
-506,支援者S袖扣,Helper Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,6
-507,治疗者S袖扣,Healer Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,6
-508,支援者U袖扣,Helper Sleeves U,mhxx-dex-1.0+mhxx-save-format-community,6
-509,治疗者U袖扣,Healer Sleeves U,mhxx-dex-1.0+mhxx-save-format-community,6
-510,公会诗人S腕甲,Guild Bard Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-511,公会诗人S袖扣,Guild Bard Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,6
-512,三眼手环,Chakra Bracelet,mhxx-dex-1.0+mhxx-save-format-community,6
-515,抚子･华【蕾袖】,Dianthus Wealsleeves,mhxx-dex-1.0+mhxx-save-format-community,6
-516,桔梗･华【蕾袖】,Campanile Wealsleeves,mhxx-dex-1.0+mhxx-save-format-community,6
-517,王牌腕甲,Ace Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-518,王牌手甲,Ace Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-519,女王腕甲,Sororal Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-520,女王手甲,Sororal Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-521,猎鹰腕甲,Hawkbraces,mhxx-dex-1.0+mhxx-save-format-community,6
-522,猎鹰手甲,Hawkguards,mhxx-dex-1.0+mhxx-save-format-community,6
-523,美食喵S袖,Gourmew Gloves S,mhxx-dex-1.0+mhxx-save-format-community,6
-524,美食喵S手套,Gourmew Mitts S,mhxx-dex-1.0+mhxx-save-format-community,6
-526,贤者S手套,Scholarly Grips S,mhxx-dex-1.0+mhxx-save-format-community,6
-527,贤者S袖扣,Scholarly Cuffs S,mhxx-dex-1.0+mhxx-save-format-community,6
-528,城塞游击队【手甲】,Ranger's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,6
-529,城塞弓击队【手甲】,Archer's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,6
-530,忍者臂甲･天,Shinobi Heaven Kote,mhxx-dex-1.0+mhxx-save-format-community,7
-531,忍者臂甲･地,Shinobi Land Kote,mhxx-dex-1.0+mhxx-save-format-community,7
-532,忍者臂甲･空,Shinobi Sky Kote,mhxx-dex-1.0+mhxx-save-format-community,7
-533,忍者臂甲･海,Shinobi Sea Kote,mhxx-dex-1.0+mhxx-save-format-community,7
-534,龙历士腕甲,Ancient Arms,mhxx-dex-1.0+mhxx-save-format-community,7
-535,龙历士手甲,Ancient Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-536,大师腕甲,Master's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,7
-537,大师手甲,Master's Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-538,黑色S护肘,Black Claw S,mhxx-dex-1.0+mhxx-save-format-community,7
-539,黑色S拳头,Black Fist S,mhxx-dex-1.0+mhxx-save-format-community,7
-540,桐花【臂甲】,Toka Kote,mhxx-dex-1.0+mhxx-save-format-community,7
-541,三葵【臂甲】,Mitsuaoi Kote,mhxx-dex-1.0+mhxx-save-format-community,7
-542,EX雌火龙S腕甲,EX Rathian Braces S,mhxx-dex-1.0+mhxx-save-format-community,7
-543,EX雌火龙S手甲,EX Rathian Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
-544,EX火龙S腕甲,EX Rathalos Braces S,mhxx-dex-1.0+mhxx-save-format-community,7
-545,EX火龙S手甲,EX Rathalos Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
-546,EX轰龙S腕甲,EX Tigrex Braces S,mhxx-dex-1.0+mhxx-save-format-community,7
-547,EX轰龙S手甲,EX Tigrex Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
-548,方舟S腕甲,Arc Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,7
-549,友爱S腕甲,Storge Braces S,mhxx-dex-1.0+mhxx-save-format-community,7
-550,方舟S手甲,Arc Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
-551,友爱S手甲,Storge Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
-552,EX方舟腕甲,EX Arc Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
-553,EX友爱腕甲,EX Storge Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
-554,EX方舟手甲,EX Arc Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-555,EX友爱手甲,EX Storge Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-556,方舟R腕甲,Arc Braces R,mhxx-dex-1.0+mhxx-save-format-community,7
-557,友爱R腕甲,Storge Braces R,mhxx-dex-1.0+mhxx-save-format-community,7
-558,方舟R手甲,Arc Guards R,mhxx-dex-1.0+mhxx-save-format-community,7
-559,友爱R手甲,Storge Guards R,mhxx-dex-1.0+mhxx-save-format-community,7
-560,钢龙S刚强,Kushala Grip S,mhxx-dex-1.0+mhxx-save-format-community,7
-561,钢龙S劲猛,Kushala Embrace S,mhxx-dex-1.0+mhxx-save-format-community,7
-562,EX钢龙刚强,EX Kushala Grip,mhxx-dex-1.0+mhxx-save-format-community,7
-563,EX钢龙劲猛,EX Kushala Embrace,mhxx-dex-1.0+mhxx-save-format-community,7
-564,钢龙R刚强,Kushala Grip R,mhxx-dex-1.0+mhxx-save-format-community,7
-565,钢龙R劲猛,Kushala Embrace R,mhxx-dex-1.0+mhxx-save-format-community,7
-566,水行霸【大袖】,Mizuha Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,7
-567,丰玉霸【大袖】,Cham Sleeves S,mhxx-dex-1.0+mhxx-save-format-community,7
-568,EX水行【大袖】,EX Mizuha Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
-569,EX丰玉【大袖】,EX Cham Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
-570,帝王S腕甲,Kaiser Vambraces S,mhxx-dex-1.0+mhxx-save-format-community,7
-571,帝王S手甲,Kaiser Guards S,mhxx-dex-1.0+mhxx-save-format-community,7
-572,EX帝王腕甲,EX Kaiser Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
-573,EX帝王手甲,EX Kaiser Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-574,银白耀日腕甲,Silver Solbraces,mhxx-dex-1.0+mhxx-save-format-community,7
-575,银白耀日手甲,Silver Solguards,mhxx-dex-1.0+mhxx-save-format-community,7
-576,EX银白耀日腕甲,EX Silver Solbraces,mhxx-dex-1.0+mhxx-save-format-community,7
-577,EX银白耀日手甲,EX Silver Solguards,mhxx-dex-1.0+mhxx-save-format-community,7
-578,银白耀日R腕甲,Silver Solbraces R,mhxx-dex-1.0+mhxx-save-format-community,7
-579,银白耀日R手甲,Silver Solguards R,mhxx-dex-1.0+mhxx-save-format-community,7
-580,金黄澄月腕甲,Golden Lunebraces,mhxx-dex-1.0+mhxx-save-format-community,7
-581,金黄澄月手甲,Golden Luneguards,mhxx-dex-1.0+mhxx-save-format-community,7
-582,EX金黄澄月腕甲,EX Golden Lunebraces,mhxx-dex-1.0+mhxx-save-format-community,7
-583,EX金黄澄月手甲,EX Golden Luneguards,mhxx-dex-1.0+mhxx-save-format-community,7
-584,怒天臂甲,Divine Ire Kote,mhxx-dex-1.0+mhxx-save-format-community,7
-585,心灭臂甲,Crusher Braces,mhxx-dex-1.0+mhxx-save-format-community,7
-586,贪婪腕甲,Esurient Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
-587,贪婪手甲,Esurient Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-588,贪婪R腕甲,Esurient Braces R,mhxx-dex-1.0+mhxx-save-format-community,7
-589,贪婪R手甲,Esurient Guards R,mhxx-dex-1.0+mhxx-save-format-community,7
-590,霸龙健将,Akantor Claws,mhxx-dex-1.0+mhxx-save-format-community,7
-591,霸龙勇者,Akantor Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,7
-592,霸龙R健将,Akantor Claws R,mhxx-dex-1.0+mhxx-save-format-community,7
-593,霸龙R勇者,Akantor Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,7
-594,崩龙健将,Ukanlos Claws,mhxx-dex-1.0+mhxx-save-format-community,7
-595,崩龙勇者,Ukanlos Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,7
-596,荒天【袖】,Tempest Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
-597,苍天【袖】,Welkin Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
-598,荒天亚流【袖】,Tempest Sleeves R,mhxx-dex-1.0+mhxx-save-format-community,7
-599,苍天亚流【袖】,Welkin Sleeves R,mhxx-dex-1.0+mhxx-save-format-community,7
-600,骸装甲･霸【臂骨】,Skeletal Humerus R,mhxx-dex-1.0+mhxx-save-format-community,7
-601,尸装甲･霸【臂骨】,Decayed Humerus R,mhxx-dex-1.0+mhxx-save-format-community,7
-602,苍星腕甲,Astral Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
-603,苍星手甲,Astral Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-604,煌黑龙长腕,Escadora Armguards,mhxx-dex-1.0+mhxx-save-format-community,7
-605,煌黑龙兵器,Escadora Arma,mhxx-dex-1.0+mhxx-save-format-community,7
-606,煌黑龙R长腕,Escadora Armguards R,mhxx-dex-1.0+mhxx-save-format-community,7
-607,煌黑龙R兵器,Escadora Arma R,mhxx-dex-1.0+mhxx-save-format-community,7
-608,团长手环,Caravaneer's Armlets,mhxx-dex-1.0+mhxx-save-format-community,7
-615,异形腕甲,Strange Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
-616,异形手甲,Strange Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-617,红盔腕甲,Redhelm Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-618,红盔手甲,Redhelm Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-619,大雪主腕甲,Snowbaron Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-620,大雪主手甲,Snowbaron Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-621,矛碎腕甲,Stonefist Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-622,矛碎手甲,Stonefist Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-623,紫毒姬腕甲,Dreadqueen Braces,mhxx-dex-1.0+mhxx-save-format-community,11
-624,紫毒姬手甲,Dreadqueen Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-625,岩穿腕甲,Drilltusk Braces,mhxx-dex-1.0+mhxx-save-format-community,11
-626,岩穿手甲,Drilltusk Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-627,白疾风腕甲,Silverwind Braces,mhxx-dex-1.0+mhxx-save-format-community,11
-628,白疾风手甲,Silverwind Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-629,宝缠腕甲,Crystalbeard Braces,mhxx-dex-1.0+mhxx-save-format-community,11
-630,宝缠手甲,Crystalbeard Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-631,独眼腕甲,Deadeye Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-632,独眼手甲,Deadeye Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-633,黑炎王腕甲,Dreadking Braces,mhxx-dex-1.0+mhxx-save-format-community,11
-634,黑炎王手甲,Dreadking Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-635,金雷公腕甲,Thunderlord Braces,mhxx-dex-1.0+mhxx-save-format-community,11
-636,金雷公手甲,Thunderlord Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-637,荒钩爪腕甲,Grimclaw Braces,mhxx-dex-1.0+mhxx-save-format-community,11
-638,荒钩爪手甲,Grimclaw Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-639,烬灭刃腕甲,Hellblade Braces,mhxx-dex-1.0+mhxx-save-format-community,11
-640,烬灭刃手甲,Hellblade Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-660,王者的护手带,Champion's Wraps,mhxx-dex-1.0+mhxx-save-format-community,7
-661,强者的护手带,Strongman's Wraps,mhxx-dex-1.0+mhxx-save-format-community,7
-662,星灵腕甲,Zodias Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
-663,星灵手甲,Zodias Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-664,海盗J手套,Pirate Gloves J,mhxx-dex-1.0+mhxx-save-format-community,6
-665,海盗J袖扣,Pirate Cuffs J,mhxx-dex-1.0+mhxx-save-format-community,6
-666,大海盗J手套,Buccaneer Gloves J,mhxx-dex-1.0+mhxx-save-format-community,6
-667,大海盗J袖扣,Buccaneer Cuffs J,mhxx-dex-1.0+mhxx-save-format-community,6
-668,电衣库手套,Dynaqlo Glovelettes,mhxx-dex-1.0+mhxx-save-format-community,6
-669,电衣库半指手套,Dynaqlo Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-670,Promising Braces,Promising Braces,mhxx-save-format-community-en-fallback,0
-671,Halcyon Braces,Halcyon Braces,mhxx-save-format-community-en-fallback,0
-672,Blue Star Braces,Blue Star Braces,mhxx-save-format-community-en-fallback,0
-673,Blue Star Sleeves,Blue Star Sleeves,mhxx-save-format-community-en-fallback,0
-674,Star Rook Vambraces,Star Rook Vambraces,mhxx-save-format-community-en-fallback,0
-675,Star Rook Guards,Star Rook Guards,mhxx-save-format-community-en-fallback,0
-676,Star Knight Vambraces,Star Knight Vambraces,mhxx-save-format-community-en-fallback,0
-677,Star Knight Guards,Star Knight Guards,mhxx-save-format-community-en-fallback,0
-678,Nisetama Gloves,Nisetama Gloves,mhxx-save-format-community-en-fallback,0
-679,Nisetama Sleeves,Nisetama Sleeves,mhxx-save-format-community-en-fallback,0
-680,Nisetama Gloves S,Nisetama Gloves S,mhxx-save-format-community-en-fallback,0
-681,Nisetama Sleeves S,Nisetama Sleeves S,mhxx-save-format-community-en-fallback,0
-682,勇者护臂,Hero's Braces,mhxx-dex-1.0+mhxx-save-format-community,7
-683,勇者手套,Hero's Gloves,mhxx-dex-1.0+mhxx-save-format-community,7
-684,防护服手甲,Varia Suit Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-685,防护服护盾,Varia Suit Shield,mhxx-dex-1.0+mhxx-save-format-community,6
-686,零装甲手套,Zero Suit Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-687,零装甲护臂,Zero Suit Hands,mhxx-dex-1.0+mhxx-save-format-community,6
-688,狂怒腕甲,Braces of Rage,mhxx-dex-1.0+mhxx-save-format-community,7
-689,狂怒手甲,Guards of Rage,mhxx-dex-1.0+mhxx-save-format-community,7
-690,女神腕甲,Braces of Anat,mhxx-dex-1.0+mhxx-save-format-community,7
-691,女神手甲,Guards of Anat,mhxx-dex-1.0+mhxx-save-format-community,7
-694,南瓜枝叶,Mosgharl Creeper,mhxx-dex-1.0+mhxx-save-format-community,2
-695,南瓜美神,Mosgharl Tendril,mhxx-dex-1.0+mhxx-save-format-community,2
-696,巨兽腕甲,Gammoth Braces,mhxx-dex-1.0+mhxx-save-format-community,3
-697,巨兽手甲,Gammoth Guards,mhxx-dex-1.0+mhxx-save-format-community,3
-698,美食喵袖,Gourmew Gloves,mhxx-dex-1.0+mhxx-save-format-community,3
-699,美食喵手套,Gourmew Mitts,mhxx-dex-1.0+mhxx-save-format-community,3
-700,皮制S手甲,Leather Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-701,锁甲S手甲,Chainmail Guards S,mhxx-dex-1.0+mhxx-save-format-community,4
-702,南瓜S枝叶,Mosgharl Creeper S,mhxx-dex-1.0+mhxx-save-format-community,4
-703,南瓜S美神,Mosgharl Tendril S,mhxx-dex-1.0+mhxx-save-format-community,4
-704,巨兽S腕甲,Gammoth Braces S,mhxx-dex-1.0+mhxx-save-format-community,6
-705,巨兽S手甲,Gammoth Guards S,mhxx-dex-1.0+mhxx-save-format-community,6
-706,公会守卫蓝手套,Blue Guild Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-707,公会守卫蓝袖扣,Blue Guild Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
-708,公会守卫红手套,Red Guild Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-709,公会守卫红袖扣,Red Guild Sleeves,mhxx-dex-1.0+mhxx-save-format-community,6
-710,美食喵S袖,Gourmew Gloves S,mhxx-dex-1.0+mhxx-save-format-community,6
-711,美食喵S手套,Gourmew Mitts S,mhxx-dex-1.0+mhxx-save-format-community,6
-712,Promising Archbraces,Promising Archbraces,mhxx-save-format-community-en-fallback,0
-713,Halcyon Archbraces,Halcyon Archbraces,mhxx-save-format-community-en-fallback,0
-714,Lucid Gauntlets,Lucid Gauntlets,mhxx-save-format-community-en-fallback,0
-715,Dreamy Gauntlets,Dreamy Gauntlets,mhxx-save-format-community-en-fallback,0
-716,Lucid Archbraces,Lucid Archbraces,mhxx-save-format-community-en-fallback,0
-717,Dreamy Archbraces,Dreamy Archbraces,mhxx-save-format-community-en-fallback,0
-718,桃毛兽王腕甲,Conga Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
-719,桃毛兽王手甲,Conga Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-720,白速龙套装手套,Giaprey Claws,mhxx-dex-1.0+mhxx-save-format-community,4
-721,白速龙套装护臂,Giaprey Gloves,mhxx-dex-1.0+mhxx-save-format-community,4
-722,土砂龙腕甲,Barroth Vambraces,mhxx-dex-1.0+mhxx-save-format-community,4
-723,土砂龙手甲,Barroth Guards,mhxx-dex-1.0+mhxx-save-format-community,4
-724,岩龙腕甲,Basarios Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
-725,岩龙手甲,Basarios Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-726,影蜘蛛腕甲,Nerscylla Vambraces,mhxx-dex-1.0+mhxx-save-format-community,5
-727,影蜘蛛手甲,Nerscylla Guards,mhxx-dex-1.0+mhxx-save-format-community,5
-728,冰牙龙腕甲,Barioth Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-729,冰牙龙手甲,Barioth Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-730,铠龙腕甲,Gravios Vambraces,mhxx-dex-1.0+mhxx-save-format-community,6
-731,铠龙手甲,Gravios Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-732,活泼腕甲,Cheerful Braces,mhxx-dex-1.0+mhxx-save-format-community,7
-733,活泼手甲,Cheerful Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-734,海歌手套,Mariner Gloves,mhxx-dex-1.0+mhxx-save-format-community,7
-735,海歌袖扣,Mariner Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
-738,角龙腕甲,Diablos Vambraces,mhxx-dex-1.0+mhxx-save-format-community,7
-739,角龙手甲,Diablos Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-740,角龙R腕甲,Diablos Vambraces R,mhxx-dex-1.0+mhxx-save-format-community,7
-741,角龙R手甲,Diablos Guards R,mhxx-dex-1.0+mhxx-save-format-community,7
-742,天彗龙腕甲,Valstrax Braces,mhxx-dex-1.0+mhxx-save-format-community,7
-743,天彗龙手甲,Valstrax Guards,mhxx-dex-1.0+mhxx-save-format-community,7
-744,聪慧手套,Wisdom Sleeves,mhxx-dex-1.0+mhxx-save-format-community,7
-745,聪慧袖扣,Wisdom Cuffs,mhxx-dex-1.0+mhxx-save-format-community,7
-751,贝鲁纳X腕甲,Bherna Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-752,贝鲁纳X手甲,Bherna Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-753,狩猎X腕甲,Hunting Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-754,狩猎X手甲,Hunting Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-755,毛皮X手套,Mafumofu Grips X,mhxx-dex-1.0+mhxx-save-format-community,8
-756,毛皮X连指手套,Mafumofu Mittens X,mhxx-dex-1.0+mhxx-save-format-community,8
-757,结云之护臂･极天,Yukumo Sky Kote Goku,mhxx-dex-1.0+mhxx-save-format-community,8
-758,结云之护臂･极地,Yukumo Land Kote Goku,mhxx-dex-1.0+mhxx-save-format-community,8
-763,蓝速龙套装X手套,Velociprey Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
-764,蓝速龙套装X护臂,Velociprey Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-765,黄速龙套装X手套,Genprey Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
-766,黄速龙套装X护臂,Genprey Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-767,红速龙套装X手套,Ioprey Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
-768,红速龙套装X护臂,Ioprey Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-769,蛇龙套装X手套,Remobra Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-770,蛇龙套装X护臂,Remobra Hands X,mhxx-dex-1.0+mhxx-save-format-community,8
-771,猎手皮臂甲X,Trapper's Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,8
-772,猎手皮手套X,Trapper's Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-773,蘑菇猪X拳,Mosswine Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-774,硬甲龙X腕甲,Rhenoplos Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-775,硬甲龙X手甲,Rhenoplos Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-776,狗龙X腕甲,Jaggi Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-777,狗龙X手甲,Jaggi Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-784,跳狗龙X腕甲,Maccao Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-785,跳狗龙X手甲,Maccao Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-786,蓝速龙X腕甲,Velociprey Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-787,蓝速龙X手甲,Velociprey Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-788,白速龙X腕甲,Giaprey Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-789,白速龙X手甲,Giaprey Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-790,黄速龙X腕甲,Genprey Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-791,黄速龙X手甲,Genprey Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-792,红速龙X腕甲,Ioprey Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-793,红速龙X手甲,Ioprey Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-794,巨蜂X腕甲,Vespoid Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-795,巨蜂X手甲,Vespoid Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-796,巨甲虫X腕甲,Hornetaur Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-797,巨甲虫X手甲,Hornetaur Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-798,飞甲虫X护手,Bnahabra Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-799,飞甲虫X袖扣,Bnahabra Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-800,盾虫X腕甲,Konchu Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-801,盾虫X手甲,Konchu Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-802,野猪X腕甲,Bulldrome Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-803,野猪X手甲,Bulldrome Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-805,青熊兽X腕甲,Arzuros Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-806,青熊兽X手甲,Arzuros Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-807,砂龙X腕甲,Cephalos Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-808,砂龙X手甲,Cephalos Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-809,怪鸟X腕甲,Kut-Ku Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-810,怪鸟X手甲,Kut-Ku Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-811,奇猿狐X腕甲,Kecha Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-812,奇猿狐X手甲,Kecha Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-813,白兔兽X腕甲,Lagombi Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-814,白兔兽X手甲,Lagombi Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-815,毒怪鸟X腕甲,Gypceros Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-816,毒怪鸟X手甲,Gypceros Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-817,鬼蛙X腕甲,Tetsucabra Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-818,鬼蛙X手甲,Tetsucabra Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-819,大名盾蟹X腕甲,Hermitaur Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-820,大名盾蟹X手甲,Hermitaur Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-821,水兽X腕甲,Ludroth Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-822,水兽X手甲,Ludroth Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-823,美食喵X袖,Gourmew Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-824,美食喵X手套,Gourmew Mitts X,mhxx-dex-1.0+mhxx-save-format-community,8
-825,美食喵X袖,Gourmew Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-826,美食喵X手套,Gourmew Mitts X,mhxx-dex-1.0+mhxx-save-format-community,8
-827,云羊鹿X手套,Moofah Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
-828,云羊鹿X袖扣,Moofah Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-829,雪绒花X枝叶,Edel Creeper X,mhxx-dex-1.0+mhxx-save-format-community,8
-830,雪绒花X美神,Edel Tendril X,mhxx-dex-1.0+mhxx-save-format-community,8
-833,死神X双手,Death Stench Grip X,mhxx-dex-1.0+mhxx-save-format-community,8
-834,死神X欲望,Death Stench Grasp X,mhxx-dex-1.0+mhxx-save-format-community,8
-835,毒蝎X护袖,Skalda Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
-836,毒蝎X腕,Skalda Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
-837,毒蛛X护袖,Spio Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
-838,毒蛛X腕,Spio Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
-839,猎人XR腕甲,Hunter's Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-840,猎人XR手甲,Hunter's Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-841,赤甲兽X腕甲,Volvidon Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-842,赤甲兽X手甲,Volvidon Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-843,桃毛兽王X腕甲,Conga Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-844,桃毛兽王X手甲,Conga Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-845,土砂龙X腕甲,Barroth Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-846,土砂龙X手甲,Barroth Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-847,岩龙X腕甲,Basarios Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-848,岩龙X手甲,Basarios Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-849,夜鸟X腕甲,Malfestio Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-850,夜鸟X手甲,Malfestio Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-851,变形冰鲨X腕甲,Zamtrios Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-852,变形冰鲨X手甲,Zamtrios Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-853,白电X腕甲,Khezu Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-854,白电X手甲,Khezu Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-855,影蜘蛛X腕甲,Nerscylla Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-856,影蜘蛛X手甲,Nerscylla Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-857,雌火龙X腕甲,Rathian Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-858,雌火龙X手甲,Rathian Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-859,潜口龙X腕甲,Nibelsnarf Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-860,潜口龙X手甲,Nibelsnarf Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-861,水龙X腕甲,Plesioth Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-862,水龙X手甲,Plesioth Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-863,雪狮子X腕甲,Blango Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-864,雪狮子X手甲,Blango Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-865,将军镰蟹X腕甲,Ceanataur Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-866,将军镰蟹X手甲,Ceanataur Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-867,绞蛇龙X腕甲,Najarala Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-868,绞蛇龙X手甲,Najarala Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-869,迅龙X腕甲,Nargacuga Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-870,迅龙X手甲,Nargacuga Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-871,毒怪鸟XR腕甲,Gypceros Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-872,毒怪鸟XR手甲,Gypceros Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-873,大名盾蟹XR腕甲,Hermitaur Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-874,大名盾蟹XR手甲,Hermitaur Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-875,水兽XR腕甲,Ludroth Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-876,水兽XR手甲,Ludroth Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-877,异形X腕甲,Strange Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-878,异形X手甲,Strange Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-881,求知X腕甲,Lecturer's Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-882,求知X手甲,Lecturer's Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-883,糕点师X袖,Patissier's Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-884,糕点师X手套,Patissier's Mitts X,mhxx-dex-1.0+mhxx-save-format-community,8
-885,最高级泡澡条巾,Posh Bath Sleeves,mhxx-dex-1.0+mhxx-save-format-community,8
-886,女仆X手套,Maiden's Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-887,休闲X袖扣,French Maid Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-888,抚子･雅【蕾袖】,Dianthus Masasleeves,mhxx-dex-1.0+mhxx-save-format-community,8
-889,桔梗･雅【蕾袖】,Campanile Masasleeves,mhxx-dex-1.0+mhxx-save-format-community,8
-890,GX桃毛兽王腕甲,Conga Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-891,GX桃毛兽王手甲,Conga Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-892,合金XR腕甲,Alloy Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-893,合金XR手甲,Alloy Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-894,铸铁XR腕甲,Ingot Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-895,铸铁XR手甲,Ingot Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-896,机械X腕甲,Artian Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-897,机械X手甲,Artian Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-898,龙虾X腕甲,Lobster Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-899,龙虾X手甲,Lobster Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-900,白电XR腕甲,Khezu Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-901,白电XR手甲,Khezu Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-902,将军镰蟹XR腕甲,Ceanataur Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-903,将军镰蟹XR手甲,Ceanataur Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-904,雌火龙XR腕甲,Rathian Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-905,雌火龙XR手甲,Rathian Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-906,熔岩龙X腕甲,Lava Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-907,熔岩龙X手甲,Lava Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-908,黑狼鸟X腕甲,Garuga Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-909,黑狼鸟X手甲,Garuga Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-910,爆锤龙X腕甲,Uragaan Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-911,爆锤龙X手甲,Uragaan Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-912,冰牙龙X腕甲,Barioth Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-913,冰牙龙X手甲,Barioth Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-914,重甲虫X腕甲,Seltas Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-915,重甲虫X手甲,Seltas Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-916,火龙X腕甲,Rathalos Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-917,火龙X手甲,Rathalos Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-918,海龙X腕甲,Lagiacrus Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-919,海龙X手甲,Lagiacrus Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-920,雷狼龙X腕甲,Zinogre Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-921,雷狼龙X手甲,Zinogre Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-922,铠龙X腕甲,Gravios Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-923,铠龙X手甲,Gravios Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-924,泡狐龙X腕甲,Mizutsune Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-925,泡狐龙X手甲,Mizutsune Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-926,电龙X腕甲,Astalos Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-927,电龙X手甲,Astalos Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-928,巨兽X腕甲,Gammoth Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-929,巨兽X手甲,Gammoth Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-930,斩龙X腕甲,Glavenus Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-931,斩龙X手甲,Glavenus Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-932,黑蚀龙X腕甲,Gore Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-933,黑蚀龙X手甲,Gore Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-934,麒麟X长腕甲,Kirin Longarms X,mhxx-dex-1.0+mhxx-save-format-community,9
-935,麒麟X护手,Kirin Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
-936,麒麟XR长腕甲,Kirin Longarms XR,mhxx-dex-1.0+mhxx-save-format-community,9
-937,麒麟XR护手,Kirin Gloves XR,mhxx-dex-1.0+mhxx-save-format-community,9
-938,晓丸【臂甲】,Auroros Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
-939,凛【臂甲】,Borealis Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
-940,曙丸【臂甲】,Genesis Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
-941,艳【臂甲】,Glyph Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
-942,GX晓丸【臂甲】,Auroros Gauntlets GX,mhxx-dex-1.0+mhxx-save-format-community,10
-943,GX凛【臂甲】,Borealis Gauntlets GX,mhxx-dex-1.0+mhxx-save-format-community,10
-944,GX曙丸【臂甲】,Genesis Gauntlets GX,mhxx-dex-1.0+mhxx-save-format-community,10
-945,GX艳【臂甲】,Glyph Gauntlets GX,mhxx-dex-1.0+mhxx-save-format-community,10
-946,晓丸战流【臂甲】,Auroros Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
-947,凛战流【臂甲】,Borealis Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
-948,曙丸战流【臂甲】,Genesis Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
-949,艳战流【臂甲】,Glyph Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
-950,学士X手套,Scholar's Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-951,学士X袖扣,Scholar's Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-952,水手X手套,Sailor Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-953,水手X袖扣,Sailor Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-954,猎鹰X腕甲,Hawkbraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-955,猎鹰X手甲,Hawkguards X,mhxx-dex-1.0+mhxx-save-format-community,8
-956,贤者X手套,Scholarly Grips X,mhxx-dex-1.0+mhxx-save-format-community,8
-957,贤者X袖扣,Scholarly Cuffs X,mhxx-dex-1.0+mhxx-save-format-community,8
-958,探究手套,Research Grips,mhxx-dex-1.0+mhxx-save-format-community,9
-959,探究袖扣,Research Cuffs,mhxx-dex-1.0+mhxx-save-format-community,9
-960,火龙XR腕甲,Rathalos Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
-961,火龙XR手甲,Rathalos Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
-962,海龙XR腕甲,Lagiacrus Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
-963,海龙XR手甲,Lagiacrus Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
-964,黑蚀龙XR腕甲,Gore Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
-965,黑蚀龙XR手甲,Gore Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
-966,炎戈龙X腕甲,Agnaktor Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-967,炎戈龙X手甲,Agnaktor Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-968,千刃龙X腕甲,Regios Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-969,千刃龙X手甲,Regios Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-970,尾锤龙X腕甲,Duramboros Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-971,尾锤龙X手甲,Duramboros Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-972,轰龙X腕甲,Tigrex Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-973,轰龙X手甲,Tigrex Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-974,轰龙XR腕甲,Tigrex Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
-975,轰龙XR手甲,Tigrex Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
-976,角龙X腕甲,Diablos Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-977,角龙X手甲,Diablos Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-978,角龙XR腕甲,Diablos Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,9
-979,角龙XR手甲,Diablos Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
-980,碎龙X腕甲,Brachydios Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-981,碎龙X手甲,Brachydios Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-982,方舟X腕甲,Arc Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-983,友爱X腕甲,Storge Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-984,方舟X手甲,Arc Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-985,友爱X手甲,Storge Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-986,方舟XR腕甲,Arc Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,9
-987,友爱XR腕甲,Storge Braces XR,mhxx-dex-1.0+mhxx-save-format-community,9
-988,方舟XR手甲,Arc Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
-989,友爱XR手甲,Storge Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
-990,天彗龙X腕甲,Valstrax Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-991,天彗龙X手甲,Valstrax Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-992,齐天臂甲･真,Grand God's Peer Arms,mhxx-dex-1.0+mhxx-save-format-community,9
-993,仙师臂甲･真,Grand Hermit Arms,mhxx-dex-1.0+mhxx-save-format-community,9
-994,恐暴龙X腕甲,Vangis Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-995,恐暴龙X手甲,Vangis Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-996,钢龙X刚强,Kushala Grip X,mhxx-dex-1.0+mhxx-save-format-community,10
-997,钢龙X劲猛,Kushala Embrace X,mhxx-dex-1.0+mhxx-save-format-community,10
-998,钢龙XR刚强,Kushala Grip XR,mhxx-dex-1.0+mhxx-save-format-community,10
-999,钢龙XR劲猛,Kushala Embrace XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1000,水行真【大袖】,Grand Mizuha Sleeves,mhxx-dex-1.0+mhxx-save-format-community,10
-1001,丰玉真【大袖】,Grand Cham Sleeves,mhxx-dex-1.0+mhxx-save-format-community,10
-1002,帝王X腕甲,Kaiser Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,10
-1003,帝王X手甲,Kaiser Guards X,mhxx-dex-1.0+mhxx-save-format-community,10
-1004,银白耀日Z腕甲,Silver Solbraces Z,mhxx-dex-1.0+mhxx-save-format-community,10
-1005,银白耀日Z手甲,Silver Solguards Z,mhxx-dex-1.0+mhxx-save-format-community,10
-1006,金黄澄月Z腕甲,Golden Lunebraces Z,mhxx-dex-1.0+mhxx-save-format-community,10
-1007,金黄澄月Z手甲,Golden Luneguards Z,mhxx-dex-1.0+mhxx-save-format-community,10
-1008,夜叉【贵手】,Yaksha Braces,mhxx-dex-1.0+mhxx-save-format-community,9
-1009,修罗【贵手】,Carnage Vambraces,mhxx-dex-1.0+mhxx-save-format-community,9
-1010,守护者X腕甲,Guardian Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1011,守护者X手甲,Guardian Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1012,公会守卫X蓝手套,Blue Guild Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1013,公会守卫X蓝手套,Blue Guild Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1014,公会守卫X蓝袖扣,Blue Guild Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1015,公会守卫X蓝袖扣,Blue Guild Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1016,公会守卫X红手套,Red Guild Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1017,公会守卫X红手套,Red Guild Gloves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1018,公会守卫X红袖扣,Red Guild Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1019,公会守卫X红袖扣,Red Guild Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1020,公会骑士X手套,G. Knight Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1021,公会骑士X袖扣,G. Knight Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1022,公会诗人X腕甲,Guild Bard Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1023,公会诗人X袖扣,Guild Bard Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1024,王牌X腕甲,Ace Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1025,王牌X手甲,Ace Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1026,女王X腕甲,Sororal Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1027,女王X手甲,Sororal Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1028,忍者臂甲･极天,Shinobi Heaven Kote Goku,mhxx-dex-1.0+mhxx-save-format-community,9
-1029,忍者臂甲･极地,Shinobi Land Kote Goku,mhxx-dex-1.0+mhxx-save-format-community,9
-1030,王后腕甲,Kaiserin Arms,mhxx-dex-1.0+mhxx-save-format-community,9
-1031,王后手甲,Kaisrein Guards,mhxx-dex-1.0+mhxx-save-format-community,9
-1032,酒吧主人手套,Barmaid's Gloves,mhxx-dex-1.0+mhxx-save-format-community,9
-1033,酒吧主人袖扣,Barmaid's Sleeves,mhxx-dex-1.0+mhxx-save-format-community,9
-1034,酒保手套,Barman's Gloves,mhxx-dex-1.0+mhxx-save-format-community,9
-1035,酒保袖扣,Barman's Sleeves,mhxx-dex-1.0+mhxx-save-format-community,9
-1036,太阳神X腕甲,Helios Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1037,月神X腕甲,Selene Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1038,太阳神X手甲,Helios Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1039,月神X手甲,Selene Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1040,城塞特攻队【手甲】,Strider's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,9
-1041,城塞隐蔽队【手甲】,Deadeye's Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,9
-1042,花纹钢X腕甲,Damascus Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1043,花纹钢X手甲,Damascus Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1044,混沌腕甲,Chaos Vambraces,mhxx-dex-1.0+mhxx-save-format-community,9
-1045,堕天腕甲,Nephilim Vambraces,mhxx-dex-1.0+mhxx-save-format-community,9
-1046,混沌手甲,Chaos Guards,mhxx-dex-1.0+mhxx-save-format-community,9
-1047,堕天手甲,Nephilim Guards,mhxx-dex-1.0+mhxx-save-format-community,9
-1048,怒天臂甲･真,Grand Divine Ire Kote,mhxx-dex-1.0+mhxx-save-format-community,10
-1049,心灭臂甲･真,Grand Crusher Braces,mhxx-dex-1.0+mhxx-save-format-community,10
-1050,贪婪Z腕甲,Esurient Vambraces Z,mhxx-dex-1.0+mhxx-save-format-community,10
-1051,贪婪Z手甲,Esurient Guards Z,mhxx-dex-1.0+mhxx-save-format-community,10
-1052,铁腕腕甲,Brachydium Vambraces,mhxx-dex-1.0+mhxx-save-format-community,10
-1053,铁腕手甲,Brachydium Guards,mhxx-dex-1.0+mhxx-save-format-community,10
-1054,霸龙X健将,Akantor Claws X,mhxx-dex-1.0+mhxx-save-format-community,10
-1055,霸龙X勇者,Akantor Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,10
-1056,霸龙XR健将,Akantor Claws XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1057,霸龙XR勇者,Akantor Gauntlets XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1058,崩龙X健将,Ukanlos Claws X,mhxx-dex-1.0+mhxx-save-format-community,10
-1059,崩龙X勇者,Ukanlos Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,10
-1060,荒天･真【袖】,Grand Tempest Sleeves,mhxx-dex-1.0+mhxx-save-format-community,10
-1061,苍天･真【袖】,Grand Welkin Sleeves,mhxx-dex-1.0+mhxx-save-format-community,10
-1062,骸装甲･真【臂骨】,Grand Skeletal Humerus,mhxx-dex-1.0+mhxx-save-format-community,10
-1063,尸装甲･真【臂骨】,Grand Decayed Humerus,mhxx-dex-1.0+mhxx-save-format-community,10
-1064,苍星X腕甲,Astral Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,10
-1065,苍星X手甲,Astral Guards X,mhxx-dex-1.0+mhxx-save-format-community,10
-1066,王座挑战,Neset Gloves,mhxx-dex-1.0+mhxx-save-format-community,10
-1067,王座接纳,Neset Brachia,mhxx-dex-1.0+mhxx-save-format-community,10
-1068,黑色X护肘,Black Claw X,mhxx-dex-1.0+mhxx-save-format-community,9
-1069,黑色X拳头,Black Fist X,mhxx-dex-1.0+mhxx-save-format-community,9
-1070,煌黑龙X长腕,Escadora Arms X,mhxx-dex-1.0+mhxx-save-format-community,10
-1071,煌黑龙X兵器,Escadora Arma X,mhxx-dex-1.0+mhxx-save-format-community,10
-1072,煌黑龙XR长腕,Escadora Armguards XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1073,煌黑龙XR兵器,Escadora Arma XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1074,红龙护肘,Fatalis Crimsonclaws,mhxx-dex-1.0+mhxx-save-format-community,10
-1075,红龙拳头,Fatalis Crimsonfists,mhxx-dex-1.0+mhxx-save-format-community,10
-1076,GX红龙护肘,GX Fatalis Crimsonclaws,mhxx-dex-1.0+mhxx-save-format-community,10
-1077,GX红龙拳头,GX Fatalis Crimsonfists,mhxx-dex-1.0+mhxx-save-format-community,10
-1078,红龙XR护肘,Fatalis Crimsonclaws XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1079,红龙XR拳头,Fatalis Crimsonfists XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1080,祖龙护肘,Old Fatalis Claw,mhxx-dex-1.0+mhxx-save-format-community,10
-1081,祖龙拳头,Old Fatalis Fist,mhxx-dex-1.0+mhxx-save-format-community,10
-1082,GX祖龙护肘,GX Old Fatalis Claw,mhxx-dex-1.0+mhxx-save-format-community,10
-1083,GX祖龙拳头,GX Old Fatalis Fist,mhxx-dex-1.0+mhxx-save-format-community,10
-1084,支援者X袖扣,Helper Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1085,治疗者X袖扣,Healer Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1086,龙历士X腕甲,Ancient Arms X,mhxx-dex-1.0+mhxx-save-format-community,9
-1087,龙历士X手甲,Ancient Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1088,大师X腕甲,Master's Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,9
-1089,大师X手甲,Master's Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1090,桐花･真【臂甲】,Grand Toka Kote,mhxx-dex-1.0+mhxx-save-format-community,9
-1091,三葵･真【臂甲】,Grand Mitsuaoi Kote,mhxx-dex-1.0+mhxx-save-format-community,9
-1096,黑带X腕甲,Black Belt Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1097,黑带X手甲,Black Belt Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1100,晓丸亚流【臂甲】,Auroros Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,10
-1101,凛亚流【臂甲】,Borealis Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,10
-1102,曙丸亚流【臂甲】,Genesis Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,10
-1103,艳亚流【臂甲】,Glyph Gauntlets R,mhxx-dex-1.0+mhxx-save-format-community,10
-1104,银白耀日XR腕甲,Silver Solbraces XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1105,银白耀日XR手甲,Silver Solguards XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1106,贪婪XR腕甲,Esurient Vambraces XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1107,贪婪XR手甲,Esurient Guards XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1108,铠裂腕甲,Rustrazor Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-1109,铠裂手甲,Rustrazor Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-1110,胧隐腕甲,Nightcloak Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-1111,胧隐手甲,Nightcloak Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-1112,天眼腕甲,Soulseer Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-1113,天眼手甲,Soulseer Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-1114,青电主腕甲,Boltreaver Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-1115,青电主手甲,Boltreaver Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-1116,银峰腕甲,Elderfrost Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-1117,银峰手甲,Elderfrost Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-1118,鏖魔腕甲,Bloodbath Vambraces,mhxx-dex-1.0+mhxx-save-format-community,11
-1119,鏖魔手甲,Bloodbath Guards,mhxx-dex-1.0+mhxx-save-format-community,11
-1120,巨兽X腕甲,Gammoth Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1121,巨兽X手甲,Gammoth Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1122,GX黄速龙腕甲,Genprey Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1123,GX黄速龙手甲,Genprey Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1124,GX红速龙腕甲,Ioprey Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1125,GX红速龙手甲,Ioprey Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1126,GX巨蜂腕甲,Vespoid Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1127,GX巨蜂手甲,Vespoid Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1128,巨甲虫XR腕甲,Hornetaur Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-1129,巨甲虫XR手甲,Hornetaur Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-1130,GX巨甲虫腕甲,Hornetaur Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1131,GX巨甲虫手甲,Hornetaur Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1132,GX砂龙腕甲,Cephalos Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1133,GX砂龙手甲,Cephalos Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1134,GX大名盾蟹腕甲,Hermitaur Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1135,GX大名盾蟹手甲,Hermitaur Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1136,GX雌火龙腕甲,Rathian Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1137,GX雌火龙手甲,Rathian Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1138,GX将军镰蟹腕甲,Ceanataur Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1139,GX将军镰蟹手甲,Ceanataur Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1140,GX雪狮子腕甲,Blango Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1141,GX雪狮子手甲,Blango Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1142,GX黑蚀龙腕甲,Gore Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1143,GX黑蚀龙手甲,Gore Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1144,GX雷狼龙腕甲,Zinogre Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1145,GX雷狼龙手甲,Zinogre Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1146,GX轰龙腕甲,Tigrex Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1147,GX轰龙手甲,Tigrex Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1148,GX碎龙腕甲,Brachydios Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1149,GX碎龙手甲,Brachydios Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1150,GX火龙腕甲,Rathalos Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1151,GX火龙手甲,Rathalos Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1152,GX方舟腕甲,Arc Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1153,GX方舟手甲,Arc Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1154,GX友爱腕甲,Storge Braces GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1155,GX友爱手甲,Storge Guards GX,mhxx-dex-1.0+mhxx-save-format-community,9
-1156,GX钢龙刚强,Kushala Grip GX,mhxx-dex-1.0+mhxx-save-format-community,10
-1157,GX钢龙劲猛,Kushala Embrace GX,mhxx-dex-1.0+mhxx-save-format-community,10
-1158,GX水行【大袖】,Mizuha Sleeves GX,mhxx-dex-1.0+mhxx-save-format-community,10
-1159,GX丰玉【大袖】,Cham Sleeves GX,mhxx-dex-1.0+mhxx-save-format-community,10
-1160,GX帝王腕甲,Kaiser Vambraces GX,mhxx-dex-1.0+mhxx-save-format-community,10
-1161,GX帝王手甲,Kaiser Guards GX,mhxx-dex-1.0+mhxx-save-format-community,10
-1162,GX熔岩龙腕甲,Lavasioth Braces GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1163,GX熔岩龙手甲,Lavasioth Guards GX,mhxx-dex-1.0+mhxx-save-format-community,8
-1164,GX银白耀日腕甲,GX Silver Solbraces,mhxx-dex-1.0+mhxx-save-format-community,10
-1165,GX银白耀日手甲,GX Silver Solguards,mhxx-dex-1.0+mhxx-save-format-community,10
-1166,GX金黄澄月腕甲,GX Golden Lunebraces,mhxx-dex-1.0+mhxx-save-format-community,10
-1167,GX金黄澄月手甲,GX Golden Luneguards,mhxx-dex-1.0+mhxx-save-format-community,10
-1168,荒天战流【袖】,Tempest Sleeves XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1169,苍天战流【袖】,Welkin Sleeves XR,mhxx-dex-1.0+mhxx-save-format-community,10
-1170,皮制X腕甲,Leather Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1171,皮制X手甲,Leather Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1172,锁甲X腕甲,Chain Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1173,锁甲X手甲,Chainmail Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1175,猎人X腕甲,Hunter's Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1176,猎人X手甲,Hunter's Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1177,骨制X腕甲,Bone Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1178,骨制X手甲,Bone Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1179,杜宾X腕甲,Dober Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1180,杜宾X手甲,Dober Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1181,合金X腕甲,Alloy Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1182,合金X手甲,Alloy Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1183,铸铁X腕甲,Ingot Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1184,铸铁X手甲,Ingot Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1185,花纹钢XR腕甲,Damascus VambracesXR,mhxx-dex-1.0+mhxx-save-format-community,9
-1186,花纹钢XR手甲,Damascus Guards XR,mhxx-dex-1.0+mhxx-save-format-community,9
-1187,战斗X腕甲,Battle Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1188,战斗X手甲,Battle Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1189,矿石X腕甲,High Metal Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1190,矿石X手甲,High Metal Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1191,矿石Z腕甲,High Metal Braces Z,mhxx-dex-1.0+mhxx-save-format-community,8
-1192,矿石Z手甲,High Metal Guards Z,mhxx-dex-1.0+mhxx-save-format-community,8
-1193,南瓜X枝叶,Mosgharl Creeper X,mhxx-dex-1.0+mhxx-save-format-community,8
-1194,南瓜X美神,Mosgharl Tendril X,mhxx-dex-1.0+mhxx-save-format-community,8
-1195,南瓜X枝叶,Mosgharl Creeper X,mhxx-dex-1.0+mhxx-save-format-community,8
-1196,南瓜X美神,Mosgharl Tendril X,mhxx-dex-1.0+mhxx-save-format-community,8
-1197,独角仙X护袖,Obituary Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
-1198,独角仙X腕,Obituary Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
-1199,燕尾蝶X护袖,Butterfly Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
-1200,燕尾蝶X腕,Butterfly Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
-1201,锹形X护袖,Aelucanth Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
-1202,锹形X腕,Aelucanth Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
-1203,凤蝶X护袖,Rhopessa Brachia X,mhxx-dex-1.0+mhxx-save-format-community,8
-1204,凤蝶X腕,Rhopessa Manus X,mhxx-dex-1.0+mhxx-save-format-community,8
-1205,海境X腕甲,Vaik Braces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1206,海境X手甲,Vaik Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1207,守护者Z腕甲,Guardian Vambraces Z,mhxx-dex-1.0+mhxx-save-format-community,9
-1208,守护者Z手甲,Guardian Guards Z,mhxx-dex-1.0+mhxx-save-format-community,9
-1209,支援者Z袖扣,Helper Sleeves Z,mhxx-dex-1.0+mhxx-save-format-community,9
-1210,治疗者Z袖扣,Healer Sleeves Z,mhxx-dex-1.0+mhxx-save-format-community,9
-1211,死神XR双手,Death Stench Grip XR,mhxx-dex-1.0+mhxx-save-format-community,8
-1212,死神XR欲望,Death Stench Grasp XR,mhxx-dex-1.0+mhxx-save-format-community,8
-1213,鱼鳞X袖,Makluva Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1214,鱼鳞X护袖,Makluva Sucker X,mhxx-dex-1.0+mhxx-save-format-community,8
-1215,鱼鳞Z袖,Makluva Sleeves Z,mhxx-dex-1.0+mhxx-save-format-community,8
-1216,鱼鳞Z护袖,Makluva Sucker Z,mhxx-dex-1.0+mhxx-save-format-community,8
-1217,花瓣X枝叶,Melahoa Branch X,mhxx-dex-1.0+mhxx-save-format-community,8
-1218,花瓣X美神,Melahoa Petal X,mhxx-dex-1.0+mhxx-save-format-community,8
-1219,花瓣Z枝叶,Melahoa Branch Z,mhxx-dex-1.0+mhxx-save-format-community,8
-1220,花瓣Z美神,Melahoa Petal Z,mhxx-dex-1.0+mhxx-save-format-community,8
-1221,勇气X腕甲,Derring Vambraces X,mhxx-dex-1.0+mhxx-save-format-community,8
-1222,勇气X手甲,Derring Guards X,mhxx-dex-1.0+mhxx-save-format-community,8
-1223,GX北极星【袖】,GX Kita Star Sleeves,mhxx-dex-1.0+mhxx-save-format-community,8
-1224,GX海渊【袖】,GX Umi Ocean Sleeves,mhxx-dex-1.0+mhxx-save-format-community,8
-1227,聪慧X手套,Wisdom Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,9
-1228,聪慧X袖扣,Wisdom Cuffs X,mhxx-dex-1.0+mhxx-save-format-community,9
-1229,活泼X腕甲,Cheerful Braces X,mhxx-dex-1.0+mhxx-save-format-community,9
-1230,活泼X手甲,Cheerful Guards X,mhxx-dex-1.0+mhxx-save-format-community,9
-1231,海歌X手套,Mariner Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1232,海歌X袖扣,Mariner Sleeves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1241,白速龙套装X手套,Giaprey Claws X,mhxx-dex-1.0+mhxx-save-format-community,8
-1242,白速龙套装X护臂,Giaprey Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1245,团长手环X,Caravaneer's Armlets X,mhxx-dex-1.0+mhxx-save-format-community,9
-1247,跳狗龙王皮臂甲X,Maccao Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,8
-1248,跳狗龙王皮手套X,Maccao Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1249,狗龙王皮臂甲X,Jaggi Gauntlets X,mhxx-dex-1.0+mhxx-save-format-community,8
-1250,狗龙王皮手套X,Jaggi Gloves X,mhxx-dex-1.0+mhxx-save-format-community,8
-1251,机械XR腕甲,Artian Braces XR,mhxx-dex-1.0+mhxx-save-format-community,8
-1252,机械XR手甲,Artian Guards XR,mhxx-dex-1.0+mhxx-save-format-community,8
-1253,黑龙护肘,Dragonclaws,mhxx-dex-1.0+mhxx-save-format-community,10
-1254,黑龙拳头,Dragonfists,mhxx-dex-1.0+mhxx-save-format-community,10
-1255,犯人手腕,Criminal Braces,mhxx-dex-1.0+mhxx-save-format-community,9
-1256,犯人手臂,Criminal Hands,mhxx-dex-1.0+mhxx-save-format-community,9
-1257,Gon Braces,Gon Braces,mhxx-save-format-community-en-fallback,0
-1258,Gon Guards,Gon Guards,mhxx-save-format-community-en-fallback,0
-1259,Arcfire Kote,Arcfire Kote,mhxx-save-format-community-en-fallback,0
-1260,Bonfire Kote,Bonfire Kote,mhxx-save-format-community-en-fallback,0
-1261,Waka Kote,Waka Kote,mhxx-save-format-community-en-fallback,0
-1262,Wagaku Kote,Wagaku Kote,mhxx-save-format-community-en-fallback,0
-1263,Ruler Arcfire Kote,Ruler Arcfire Kote,mhxx-save-format-community-en-fallback,0
-1264,Ruler Bonfire Kote,Ruler Bonfire Kote,mhxx-save-format-community-en-fallback,0
-1265,Ruler Waka Kote,Ruler Waka Kote,mhxx-save-format-community-en-fallback,0
-1266,Ruler Wagaku Kote,Ruler Wagaku Kote,mhxx-save-format-community-en-fallback,0
-1267,Supreme Arcfire Kote,Supreme Arcfire Kote,mhxx-save-format-community-en-fallback,0
-1268,Supreme Bonfire Kote,Supreme Bonfire Kote,mhxx-save-format-community-en-fallback,0
-1269,Supreme Wagaku Kote,Supreme Wagaku Kote,mhxx-save-format-community-en-fallback,0
-1270,Supreme Wagaku Kote,Supreme Wagaku Kote,mhxx-save-format-community-en-fallback,0
-1271,黄金骑士【臂甲】,Garo Gauntlets,mhxx-dex-1.0+mhxx-save-format-community,10
-1272,黄金骑士【腕甲】,Garo Vambraces,mhxx-dex-1.0+mhxx-save-format-community,10
-1273,防护服手甲,Varia Suit Guards,mhxx-dex-1.0+mhxx-save-format-community,6
-1274,防护服护盾,Varia Suit Shield,mhxx-dex-1.0+mhxx-save-format-community,6
-1275,零装甲手套,Zero Suit Gloves,mhxx-dex-1.0+mhxx-save-format-community,6
-1276,零装甲护臂,Zero Suit Hands,mhxx-dex-1.0+mhxx-save-format-community,6
-1277,星耀领主腕甲,Lodestar Armguards,mhxx-dex-1.0+mhxx-save-format-community,7
-1278,星耀领主袖扣,Lodestar Cuffs,mhxx-dex-1.0+mhxx-save-format-community,7
-1279,海利亚护臂,Hylian Bracers,mhxx-dex-1.0+mhxx-save-format-community,10
-1280,海利亚护手,Hylian Gloves,mhxx-dex-1.0+mhxx-save-format-community,10
-1281,飞龙臂甲･天,Hiryu Sky Kote,mhxx-dex-1.0+mhxx-save-format-community,7
-1282,飞龙臂甲･地,Hiryu Land Kote,mhxx-dex-1.0+mhxx-save-format-community,7
+0,无,None,mhxx-romfs-game-array,0
+1,皮制手套,Leather Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+2,锁甲手套,Chainmail Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+3,贝鲁纳腕甲,Bherna Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+4,狩猎腕甲,Hunting Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+5,狩猎手甲,Hunting Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+6,毛皮手套,Mafumofu Mittens,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+7,结云之护臂,Yukumo Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+9,猎人腕甲,Hunter's Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+10,猎人手甲,Hunter's Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+11,骨制腕甲,Bone Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+12,骨制手甲,Bone Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+17,猎手皮臂甲,Trapper's Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+18,猎手皮手套,Trapper's Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+19,跳狗龙王皮臂甲,Maccao Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+20,跳狗龙王皮手套,Maccao Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+21,狗龙王皮臂甲,Jaggi Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+22,狗龙王皮手套,Jaggi Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+23,狗龙腕甲,Jaggi Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+24,狗龙手甲,Jaggi Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+25,跳狗龙腕甲,Maccao Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+26,跳狗龙手甲,Maccao Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+27,蓝速龙腕甲,Velociprey Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+28,蓝速龙手甲,Velociprey Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+29,白速龙腕甲,Giaprey Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+30,白速龙手甲,Giaprey Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+31,黄速龙腕甲,Genprey Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+32,黄速龙手甲,Genprey Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+33,巨蜂腕甲,Vespoid Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+34,巨蜂手甲,Vespoid Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+35,巨甲虫腕甲,Hornetaur Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+36,巨甲虫手甲,Hornetaur Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+37,飞甲虫护手,Bnahabra Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+38,飞甲虫袖扣,Bnahabra Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+39,盾虫腕甲,Konchu Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+40,盾虫手甲,Konchu Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+41,蘑菇猪拳,Mosswine Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+42,硬甲龙腕甲,Rhenoplos Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+43,硬甲龙手甲,Rhenoplos Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+44,野猪腕甲,Bulldrome Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+45,野猪手甲,Bulldrome Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+47,青熊兽腕甲,Arzuros Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+48,青熊兽手甲,Arzuros Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+49,砂龙腕甲,Cephalos Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+50,砂龙手甲,Cephalos Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+51,勇气手套,Derring Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+52,合金腕甲,Alloy Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+53,合金手甲,Alloy Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+54,战斗腕甲,Battle Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+55,战斗手甲,Battle Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+56,铸铁腕甲,Ingot Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+57,铸铁手甲,Ingot Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+58,矿石腕甲,High Metal Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+59,矿石手甲,High Metal Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+62,花瓣枝叶,Melahoa Branch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+63,花瓣美神,Melahoa Petal,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+64,鱼鳞袖,Makluva Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+65,鱼鳞护袖,Makluva Sucker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+68,独角仙护袖,Obituary Brachia,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+69,独角仙腕,Obituary Manus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+70,燕尾蝶护袖,Butterfly Brachia,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+71,燕尾蝶腕,Butterfly Manus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+72,死神双手,Death Stench Grip,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+73,死神欲望,Death Stench Grasp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+76,南瓜枝叶,Mosgharl Creeper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+77,南瓜美神,Mosgharl Tendril,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+78,雪绒花枝叶,Edel Creeper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+79,雪绒花美神,Edel Tendril,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+80,毒蝎护袖,Skalda Brachia,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+81,毒蝎腕,Skalda Manus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+82,毒蛛护袖,Spio Brachia,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+83,毒蛛腕,Spio Manus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+90,云羊鹿手套,Moofah Claws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+91,云羊鹿袖扣,Moofah Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+93,蓝速龙套装手套,Velociprey Claws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+94,蓝速龙套装护臂,Velociprey Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+95,黄速龙套装手套,Genprey Claws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+96,黄速龙套装护臂,Genprey Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+97,红速龙套装手套,Ioprey Claws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+98,红速龙套装护臂,Ioprey Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+99,蛇龙套装手套,Remobra Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+100,蛇龙套装护臂,Remobra Hands,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+101,红速龙腕甲,Ioprey Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+102,红速龙手甲,Ioprey Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+103,怪鸟腕甲,Kut-Ku Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+104,怪鸟手甲,Kut-Ku Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+105,白兔兽腕甲,Lagombi Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+106,白兔兽手甲,Lagombi Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+107,毒怪鸟腕甲,Gypceros Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+108,毒怪鸟手甲,Gypceros Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+109,鬼蛙腕甲,Tetsucabra Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+110,鬼蛙手甲,Tetsucabra Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+111,大名盾蟹腕甲,Hermitaur Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+112,大名盾蟹手甲,Hermitaur Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+113,赤甲兽腕甲,Volvidon Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+114,赤甲兽手甲,Volvidon Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+115,水兽腕甲,Ludroth Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+116,水兽手甲,Ludroth Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+117,夜鸟腕甲,Malfestio Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+118,夜鸟手甲,Malfestio Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+119,白电腕甲,Khezu Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+120,白电手甲,Khezu Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+121,雌火龙腕甲,Rathian Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+122,雌火龙手甲,Rathian Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+123,潜口龙腕甲,Nibelsnarf Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+124,潜口龙手甲,Nibelsnarf Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+125,雪狮子腕甲,Blango Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+126,雪狮子手甲,Blango Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+127,将军镰蟹腕甲,Ceanataur Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+128,将军镰蟹手甲,Ceanataur Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+129,绞蛇龙腕甲,Najarala Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+130,绞蛇龙手甲,Najarala Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+131,迅龙腕甲,Nargacuga Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+132,迅龙手甲,Nargacuga Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+133,贤者手套,Scholarly Grips,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+134,贤者袖扣,Scholarly Cuffs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+135,海境腕甲,Vaik Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+136,海境手甲,Vaik Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+139,锹形护袖,Aelucanth Brachia,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+140,锹形腕,Aelucanth Manus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+141,凤蝶护袖,Rhopessa Brachia,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+142,凤蝶腕,Rhopessa Manus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+143,机械腕甲,Artian Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+144,机械手甲,Artian Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+145,黑狼鸟腕甲,Garuga Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+146,黑狼鸟手甲,Garuga Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+148,爆锤龙腕甲,Uragaan Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+149,爆锤龙手甲,Uragaan Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+150,火龙腕甲,Rathalos Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+151,火龙手甲,Rathalos Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+152,海龙腕甲,Lagiacrus Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+153,海龙手甲,Lagiacrus Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+154,雷狼龙腕甲,Zinogre Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+155,雷狼龙手甲,Zinogre Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+156,泡狐龙腕甲,Mizutsune Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+157,泡狐龙手甲,Mizutsune Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+158,电龙腕甲,Astalos Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+159,电龙手甲,Astalos Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+160,巨兽腕甲,Gammoth Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+161,巨兽手甲,Gammoth Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+162,斩龙腕甲,Glavenus Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+163,斩龙手甲,Glavenus Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+164,黑蚀龙腕甲,Gore Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+165,黑蚀龙手甲,Gore Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+166,千刃龙腕甲,Regios Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+167,千刃龙手甲,Regios Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+168,轰龙腕甲,Tigrex Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+169,轰龙手甲,Tigrex Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+170,麒麟长腕甲,Kirin Longarms,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+171,麒麟护手,Kirin Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+172,碎龙腕甲,Brachydios Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+173,碎龙手甲,Brachydios Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+174,方舟腕甲,Arc Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+175,友爱腕甲,Storge Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+176,方舟手甲,Arc Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+177,友爱手甲,Storge Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+178,钢龙刚强,Kushala Grip,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+179,钢龙劲猛,Kushala Embrace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+180,水行【大袖】,Mizuha Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+181,丰玉【大袖】,Cham Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+182,帝王腕甲,Kaiser Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+183,帝王手甲,Kaiser Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+184,骸装甲【臂骨】,Skeletal Humerus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+185,尸装甲【臂骨】,Decayed Humerus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+186,黑色护肘,Black Claw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+187,黑色拳头,Black Fist,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+188,黑带腕甲,Black Belt Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+189,黑带手甲,Black Belt Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+190,公会诗人腕甲,Guild Bard Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+191,公会诗人袖扣,Guild Bard Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+192,女仆手套,Maiden's Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+193,休闲袖扣,French Maid Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+194,支援者袖扣,Helper Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+195,治疗者袖扣,Healer Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+196,抚子【蕾袖】,Dianthus Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+197,桔梗【蕾袖】,Campanile Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+198,泡澡条巾,Bath Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+199,美食喵袖,Gourmew Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+200,美食喵手套,Gourmew Mitts,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+201,皮制S腕甲,Leather Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+202,锁甲S腕甲,Chainmail Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+203,贝鲁纳S腕甲,Bherna Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+204,贝鲁纳S手甲,Bherna Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+205,狩猎S腕甲,Hunting Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+206,狩猎S手甲,Hunting Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+207,毛皮S手套,Mafumofu Grips S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+208,毛皮S连指手套,Mafumofu Mittens S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+209,结云之护臂･天,Yukumo Sky Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+210,结云之护臂･地,Yukumo Land Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+212,猎人S腕甲,Hunter's Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+213,猎人S手甲,Hunter's Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+214,猎人R腕甲,Hunter's Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+215,猎人R手甲,Hunter's Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+216,骨制S腕甲,Bone Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+217,骨制S手甲,Bone Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+224,花瓣S枝叶,Melahoa Branch S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+225,花瓣S美神,Melahoa Petal S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+226,花瓣U枝叶,Melahoa Branch U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+227,花瓣U美神,Melahoa Petal U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+228,鱼鳞S袖,Makluva Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+229,鱼鳞S护袖,Makluva Sucker S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+230,鱼鳞U袖,Makluva Sleeves U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+231,鱼鳞U护袖,Makluva Sucker U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+236,南瓜S枝叶,Mosgharl Creeper S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+237,南瓜S美神,Mosgharl Tendril S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+238,雪绒花S枝叶,Edel Creeper S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+239,雪绒花S美神,Edel Tendril S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+240,云羊鹿S手套,Moofah Claws S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+241,云羊鹿S袖扣,Moofah Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+247,蓝速龙套装S手套,Velociprey Claws S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+248,蓝速龙套装S护臂,Velociprey Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+249,黄速龙套装S手套,Genprey Claws S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+250,黄速龙套装S护臂,Genprey Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+251,红速龙套装S手套,Ioprey Claws S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+252,红速龙套装S护臂,Ioprey Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+253,蛇龙套装S手套,Remobra Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+254,蛇龙套装S护臂,Remobra Hands S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+255,猎手皮臂甲S,Trapper's Gauntlets S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+256,猎手皮手套S,Trapper's Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+257,跳狗龙王皮臂甲S,Maccao Gauntlets S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+258,跳狗龙王皮手套S,Maccao Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+259,狗龙王皮臂甲S,Jaggi Gauntlets S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+260,狗龙王皮手套S,Jaggi Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+261,蘑菇猪S拳,Mosswine Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+262,硬甲龙S腕甲,Rhenoplos Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+263,硬甲龙S手甲,Rhenoplos Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+264,狗龙S腕甲,Jaggi Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+265,狗龙S手甲,Jaggi Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+270,跳狗龙S腕甲,Maccao Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+271,跳狗龙S手甲,Maccao Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+272,蓝速龙S腕甲,Velociprey Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+273,蓝速龙S手甲,Velociprey Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+274,白速龙S腕甲,Giaprey Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+275,白速龙S手甲,Giaprey Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+276,黄速龙S腕甲,Genprey Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+277,黄速龙S手甲,Genprey Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+278,EX黄速龙腕甲,EX Genprey Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+279,EX黄速龙手甲,EX Genprey Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+280,红速龙S腕甲,Ioprey Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+281,红速龙S手甲,Ioprey Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+282,EX红速龙腕甲,EX Ioprey Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+283,EX红速龙手甲,EX Ioprey Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+284,巨蜂S腕甲,Vespoid Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+285,巨蜂S手甲,Vespoid Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+286,EX巨蜂腕甲,EX Vespoid Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+287,EX巨蜂手甲,EX Vespoid Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+288,巨甲虫S腕甲,Hornetaur Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+289,巨甲虫S手甲,Hornetaur Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+290,EX巨甲虫腕甲,EX Hornetaur Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+291,EX巨甲虫手甲,EX Hornetaur Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+292,巨甲虫R腕甲,Hornetaur Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+293,巨甲虫R手甲,Hornetaur Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+294,飞甲虫S护手,Bnahabra Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+295,飞甲虫S袖扣,Bnahabra Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+296,盾虫S腕甲,Konchu Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+297,盾虫S手甲,Konchu Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+298,野猪S腕甲,Bulldrome Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+299,野猪S手甲,Bulldrome Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+301,青熊兽S腕甲,Arzuros Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+302,青熊兽S手甲,Arzuros Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+303,砂龙S腕甲,Cephalos Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+304,砂龙S手甲,Cephalos Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+305,EX砂龙腕甲,EX Cephalos Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+306,EX砂龙手甲,EX Cephalos Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+307,怪鸟S腕甲,Kut-Ku Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+308,怪鸟S手甲,Kut-Ku Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+309,奇猿狐腕甲,Kecha Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+310,奇猿狐手甲,Kecha Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+311,白兔兽S腕甲,Lagombi Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+312,白兔兽S手甲,Lagombi Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+313,毒怪鸟S腕甲,Gypceros Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+314,毒怪鸟S手甲,Gypceros Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+315,毒怪鸟R腕甲,Gypceros Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+316,毒怪鸟R手甲,Gypceros Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+317,鬼蛙S腕甲,Tetsucabra Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+318,鬼蛙S手甲,Tetsucabra Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+319,大名盾蟹S腕甲,Hermitaur Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+320,大名盾蟹S手甲,Hermitaur Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+321,EX大名盾蟹腕甲,EX Hermitaur Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+322,EX大名盾蟹手甲,EX Hermitaur Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+323,大名盾蟹R腕甲,Hermitaur Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+324,大名盾蟹R手甲,Hermitaur Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+325,赤甲兽S腕甲,Volvidon Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+326,赤甲兽S手甲,Volvidon Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+327,水兽S腕甲,Ludroth Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+328,水兽S手甲,Ludroth Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+329,水兽R腕甲,Ludroth Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+330,水兽R手甲,Ludroth Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+331,求知腕甲,Lecturer's Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+332,求知手甲,Lecturer's Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+333,合金S腕甲,Alloy Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+334,合金S手甲,Alloy Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+335,合金R腕甲,Alloy Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+336,合金R手甲,Alloy Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+337,战斗S腕甲,Battle Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+338,战斗S手甲,Battle Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+339,铸铁S腕甲,Ingot Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+340,铸铁S手甲,Ingot Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+341,铸铁R腕甲,Ingot Vambraces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+342,铸铁R手甲,Ingot Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+343,矿石S腕甲,High Metal Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+344,矿石S手甲,High Metal Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+345,矿石U腕甲,High Metal Braces U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+346,矿石U手甲,High Metal Guards U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+349,龙虾腕甲,Lobster Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+350,龙虾手甲,Lobster Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+351,独角仙S护袖,Obituary Brachia S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+352,独角仙S腕,Obituary Manus S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+353,燕尾蝶S护袖,Butterfly Brachia S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+354,燕尾蝶S腕,Butterfly Manus S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+355,死神S双手,Death Stench Grip S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+356,死神S欲望,Death Stench Grasp S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+357,死神R双手,Death Stench Grip R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+358,死神R欲望,Death Stench Grasp R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+359,海境S腕甲,Vaik Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+360,海境S手甲,Vaik Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+361,锹形S护袖,Aelucanth Brachia S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+362,锹形S腕,Aelucanth Manus S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+363,凤蝶S护袖,Rhopessa Brachia S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+364,凤蝶S腕,Rhopessa Manus S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+365,糕点师袖,Patissier's Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+366,糕点师手套,Patissier's Mitts,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+367,毒蝎S护袖,Skalda Brachia S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+368,毒蝎S腕,Skalda Manus S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+369,毒蛛S护袖,Spio Brachia S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+370,毒蛛S腕,Spio Manus S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+371,夜鸟S腕甲,Malfestio Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+372,夜鸟S手甲,Malfestio Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+373,变形冰鲨腕甲,Zamtrios Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+374,变形冰鲨手甲,Zamtrios Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+375,白电S腕甲,Khezu Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+376,白电S手甲,Khezu Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+377,白电R腕甲,Khezu Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+378,白电R手甲,Khezu Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+379,雌火龙S腕甲,Rathian Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+380,雌火龙S手甲,Rathian Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+381,EX雌火龙腕甲,EX Rathian Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+382,EX雌火龙手甲,EX Rathian Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+383,雌火龙R腕甲,Rathian Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+384,雌火龙R手甲,Rathian Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+385,潜口龙S腕甲,Nibelsnarf Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+386,潜口龙S手甲,Nibelsnarf Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+387,水龙腕甲,Plesioth Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+388,水龙手甲,Plesioth Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+389,雪狮子S腕甲,Blango Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+390,雪狮子S手甲,Blango Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+391,EX雪狮子腕甲,EX Blango Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+392,EX雪狮子手甲,EX Blango Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+393,熔岩龙腕甲,Lavasioth Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+394,熔岩龙手甲,Lavasioth Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+395,EX熔岩龙腕甲,EX Lavasioth Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+396,EX熔岩龙手甲,EX Lavasioth Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+397,将军镰蟹S腕甲,Ceanataur Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+398,将军镰蟹S手甲,Ceanataur Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+399,EX将军镰蟹腕甲,EX Ceanataur Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+400,EX将军镰蟹手甲,EX Ceanataur Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+401,将军镰蟹R腕甲,Ceanataur Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+402,将军镰蟹R手甲,Ceanataur Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+403,绞蛇龙S腕甲,Najarala Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+404,绞蛇龙S手甲,Najarala Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+405,迅龙S腕甲,Nargacuga Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+406,迅龙S手甲,Nargacuga Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+407,黑狼鸟S腕甲,Garuga Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+408,黑狼鸟S手甲,Garuga Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+410,爆锤龙S腕甲,Uragaan Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+411,爆锤龙S手甲,Uragaan Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+412,黑带S腕甲,Black Belt Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+413,黑带S手甲,Black Belt Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+414,守护者腕甲,Guardian Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+415,守护者手甲,Guardian Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+416,守护者U腕甲,Guardian Braces U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+417,守护者U手甲,Guardian Guards U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+418,学士手套,Scholar's Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+419,学士袖扣,Scholar's Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+420,水手手套,Sailor Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+421,水手袖扣,Sailor Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+422,高级泡澡条巾,Luxury Bath Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+423,北极星【袖】,Kita Star Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+424,海渊【袖】,Umi Ocean Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+426,勇气S腕甲,Derring Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+427,勇气S手甲,Derring Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+428,杜宾腕甲,Dober Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+429,杜宾手甲,Dober Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+430,花纹钢腕甲,Damascus Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+431,花纹钢手甲,Damascus Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+432,花纹钢R腕甲,Damascus Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+433,花纹钢R手甲,Damascus Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+440,机械S腕甲,Artian Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+441,机械S手甲,Artian Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+442,机械R腕甲,Artian Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+443,机械R手甲,Artian Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+444,重甲虫腕甲,Seltas Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+445,重甲虫手甲,Seltas Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+446,火龙S腕甲,Rathalos Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+447,火龙S手甲,Rathalos Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+448,EX火龙腕甲,EX Rathalos Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+449,EX火龙手甲,EX Rathalos Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+450,火龙R腕甲,Rathalos Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+451,火龙R手甲,Rathalos Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+452,海龙S腕甲,Lagiacrus Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+453,海龙S手甲,Lagiacrus Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+454,海龙R腕甲,Lagiacrus Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+455,海龙R手甲,Lagiacrus Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+456,雷狼龙S腕甲,Zinogre Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+457,雷狼龙S手甲,Zinogre Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+458,EX雷狼龙腕甲,EX Zinogre Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+459,EX雷狼龙手甲,EX Zinogre Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+460,泡狐龙S腕甲,Mizutsune Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+461,泡狐龙S手甲,Mizutsune Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+462,电龙S腕甲,Astalos Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+463,电龙S手甲,Astalos Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+464,巨兽S腕甲,Gammoth Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+465,巨兽S手甲,Gammoth Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+466,斩龙S腕甲,Glavenus Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+467,斩龙S手甲,Glavenus Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+468,炎戈龙腕甲,Agnaktor Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+469,炎戈龙手甲,Agnaktor Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+470,黑蚀龙S腕甲,Gore Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+471,黑蚀龙S手甲,Gore Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+472,EX黑蚀龙腕甲,EX Gore Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+473,EX黑蚀龙手甲,EX Gore Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+474,黑蚀龙R腕甲,Gore Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+475,黑蚀龙R手甲,Gore Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+476,千刃龙S腕甲,Regios Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+477,千刃龙S手甲,Regios Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+478,尾锤龙腕甲,Duramboros Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+479,尾锤龙手甲,Duramboros Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+480,轰龙S腕甲,Tigrex Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+481,轰龙S手甲,Tigrex Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+482,EX轰龙腕甲,EX Tigrex Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+483,EX轰龙手甲,EX Tigrex Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+484,轰龙R腕甲,Tigrex Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+485,轰龙R手甲,Tigrex Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+486,麒麟S长腕甲,Kirin Longarms S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+487,麒麟S护手,Kirin Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+488,麒麟R长腕甲,Kirin Longarms R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+489,麒麟R护手,Kirin Gloves R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+490,碎龙S腕甲,Brachydios Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+491,碎龙S手甲,Brachydios Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+492,EX碎龙腕甲,EX Brachydios Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+493,EX碎龙手甲,EX Brachydios Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+494,金色臂甲,Golden Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+495,黑衣臂甲,Puppeteer Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+496,恐暴龙腕甲,Vangis Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+497,恐暴龙手甲,Vangis Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+498,公会骑士手套,Guild Knight Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+499,公会骑士袖扣,Guild Knight Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+500,女仆S手套,Maiden's Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+501,休闲S袖扣,French Maid Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+502,公会守卫蓝手套,Blue Guild Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+503,公会守卫蓝袖扣,Blue Guild Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+504,公会守卫红手套,Red Guild Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+505,公会守卫红袖扣,Red Guild Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+506,支援者S袖扣,Helper Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+507,治疗者S袖扣,Healer Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+508,支援者U袖扣,Helper Sleeves U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+509,治疗者U袖扣,Healer Sleeves U,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+510,公会诗人S腕甲,Guild Bard Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+511,公会诗人S袖扣,Guild Bard Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+512,三眼手环,Chakra Bracelet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+515,抚子･华【蕾袖】,Dianthus Wealsleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+516,桔梗･华【蕾袖】,Campanile Wealsleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+517,王牌腕甲,Ace Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+518,王牌手甲,Ace Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+519,女王腕甲,Sororal Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+520,女王手甲,Sororal Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+521,猎鹰腕甲,Hawkbraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+522,猎鹰手甲,Hawkguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+523,美食喵S袖,Gourmew Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+524,美食喵S手套,Gourmew Mitts S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+526,贤者S手套,Scholarly Grips S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+527,贤者S袖扣,Scholarly Cuffs S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+528,城塞游击队【手甲】,Ranger's Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+529,城塞弓击队【手甲】,Archer's Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+530,忍者臂甲･天,Shinobi Heaven Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+531,忍者臂甲･地,Shinobi Land Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+532,忍者臂甲･空,Shinobi Sky Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+533,忍者臂甲･海,Shinobi Sea Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+534,龙历士腕甲,Ancient Arms,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+535,龙历士手甲,Ancient Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+536,大师腕甲,Master's Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+537,大师手甲,Master's Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+538,黑色S护肘,Black Claw S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+539,黑色S拳头,Black Fist S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+540,桐花【臂甲】,Toka Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+541,三葵【臂甲】,Mitsuaoi Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+542,EX雌火龙S腕甲,EX Rathian Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+543,EX雌火龙S手甲,EX Rathian Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+544,EX火龙S腕甲,EX Rathalos Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+545,EX火龙S手甲,EX Rathalos Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+546,EX轰龙S腕甲,EX Tigrex Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+547,EX轰龙S手甲,EX Tigrex Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+548,方舟S腕甲,Arc Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+549,友爱S腕甲,Storge Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+550,方舟S手甲,Arc Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+551,友爱S手甲,Storge Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+552,EX方舟腕甲,EX Arc Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+553,EX友爱腕甲,EX Storge Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+554,EX方舟手甲,EX Arc Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+555,EX友爱手甲,EX Storge Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+556,方舟R腕甲,Arc Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+557,友爱R腕甲,Storge Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+558,方舟R手甲,Arc Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+559,友爱R手甲,Storge Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+560,钢龙S刚强,Kushala Grip S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+561,钢龙S劲猛,Kushala Embrace S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+562,EX钢龙刚强,EX Kushala Grip,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+563,EX钢龙劲猛,EX Kushala Embrace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+564,钢龙R刚强,Kushala Grip R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+565,钢龙R劲猛,Kushala Embrace R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+566,水行霸【大袖】,Mizuha Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+567,丰玉霸【大袖】,Cham Sleeves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+568,EX水行【大袖】,EX Mizuha Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+569,EX丰玉【大袖】,EX Cham Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+570,帝王S腕甲,Kaiser Vambraces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+571,帝王S手甲,Kaiser Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+572,EX帝王腕甲,EX Kaiser Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+573,EX帝王手甲,EX Kaiser Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+574,银白耀日腕甲,Silver Solbraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+575,银白耀日手甲,Silver Solguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+576,EX银白耀日腕甲,EX Silver Solbraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+577,EX银白耀日手甲,EX Silver Solguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+578,银白耀日R腕甲,Silver Solbraces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+579,银白耀日R手甲,Silver Solguards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+580,金黄澄月腕甲,Golden Lunebraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+581,金黄澄月手甲,Golden Luneguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+582,EX金黄澄月腕甲,EX Golden Lunebraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+583,EX金黄澄月手甲,EX Golden Luneguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+584,怒天臂甲,Divine Ire Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+585,心灭臂甲,Crusher Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+586,贪婪腕甲,Esurient Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+587,贪婪手甲,Esurient Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+588,贪婪R腕甲,Esurient Braces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+589,贪婪R手甲,Esurient Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+590,霸龙健将,Akantor Claws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+591,霸龙勇者,Akantor Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+592,霸龙R健将,Akantor Claws R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+593,霸龙R勇者,Akantor Gauntlets R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+594,崩龙健将,Ukanlos Claws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+595,崩龙勇者,Ukanlos Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+596,荒天【袖】,Tempest Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+597,苍天【袖】,Welkin Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+598,荒天亚流【袖】,Tempest Sleeves R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+599,苍天亚流【袖】,Welkin Sleeves R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+600,骸装甲･霸【臂骨】,Skeletal Humerus R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+601,尸装甲･霸【臂骨】,Decayed Humerus R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+602,苍星腕甲,Astral Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+603,苍星手甲,Astral Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+604,煌黑龙长腕,Escadora Armguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+605,煌黑龙兵器,Escadora Arma,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+606,煌黑龙R长腕,Escadora Armguards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+607,煌黑龙R兵器,Escadora Arma R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+608,团长手环,Caravaneer's Armlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+615,异形腕甲,Strange Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+616,异形手甲,Strange Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+617,红盔腕甲,Redhelm Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+618,红盔手甲,Redhelm Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+619,大雪主腕甲,Snowbaron Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+620,大雪主手甲,Snowbaron Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+621,矛碎腕甲,Stonefist Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+622,矛碎手甲,Stonefist Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+623,紫毒姬腕甲,Dreadqueen Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+624,紫毒姬手甲,Dreadqueen Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+625,岩穿腕甲,Drilltusk Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+626,岩穿手甲,Drilltusk Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+627,白疾风腕甲,Silverwind Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+628,白疾风手甲,Silverwind Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+629,宝缠腕甲,Crystalbeard Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+630,宝缠手甲,Crystalbeard Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+631,独眼腕甲,Deadeye Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+632,独眼手甲,Deadeye Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+633,黑炎王腕甲,Dreadking Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+634,黑炎王手甲,Dreadking Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+635,金雷公腕甲,Thunderlord Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+636,金雷公手甲,Thunderlord Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+637,荒钩爪腕甲,Grimclaw Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+638,荒钩爪手甲,Grimclaw Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+639,烬灭刃腕甲,Hellblade Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+640,烬灭刃手甲,Hellblade Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+660,王者的护手带,Champion's Wraps,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+661,强者的护手带,Strongman's Wraps,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+662,星灵腕甲,Zodias Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+663,星灵手甲,Zodias Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+664,海盗J手套,Pirate Gloves J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+665,海盗J袖扣,Pirate Cuffs J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+666,大海盗J手套,Buccaneer Gloves J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+667,大海盗J袖扣,Buccaneer Cuffs J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+668,电衣库手套,Dynaqlo Glovelettes,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+669,电衣库半指手套,Dynaqlo Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+670,Promising Braces,Promising Braces,mhxx-romfs-game-array+mhxx-save-format-community,0
+671,Halcyon Braces,Halcyon Braces,mhxx-romfs-game-array+mhxx-save-format-community,0
+672,Blue Star Braces,Blue Star Braces,mhxx-romfs-game-array+mhxx-save-format-community,0
+673,Blue Star Sleeves,Blue Star Sleeves,mhxx-romfs-game-array+mhxx-save-format-community,0
+674,Star Rook Vambraces,Star Rook Vambraces,mhxx-romfs-game-array+mhxx-save-format-community,0
+675,Star Rook Guards,Star Rook Guards,mhxx-romfs-game-array+mhxx-save-format-community,0
+676,Star Knight Vambraces,Star Knight Vambraces,mhxx-romfs-game-array+mhxx-save-format-community,0
+677,Star Knight Guards,Star Knight Guards,mhxx-romfs-game-array+mhxx-save-format-community,0
+678,Nisetama Gloves,Nisetama Gloves,mhxx-romfs-game-array+mhxx-save-format-community,0
+679,Nisetama Sleeves,Nisetama Sleeves,mhxx-romfs-game-array+mhxx-save-format-community,0
+680,Nisetama Gloves S,Nisetama Gloves S,mhxx-romfs-game-array+mhxx-save-format-community,0
+681,Nisetama Sleeves S,Nisetama Sleeves S,mhxx-romfs-game-array+mhxx-save-format-community,0
+682,勇者护臂,Hero's Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+683,勇者手套,Hero's Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+684,防护服手甲,Varia Suit Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+685,防护服护盾,Varia Suit Shield,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+686,零装甲手套,Zero Suit Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+687,零装甲护臂,Zero Suit Hands,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+688,狂怒腕甲,Braces of Rage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+689,狂怒手甲,Guards of Rage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+690,女神腕甲,Braces of Anat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+691,女神手甲,Guards of Anat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+694,南瓜枝叶,Mosgharl Creeper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+695,南瓜美神,Mosgharl Tendril,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+696,巨兽腕甲,Gammoth Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+697,巨兽手甲,Gammoth Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+698,美食喵袖,Gourmew Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+699,美食喵手套,Gourmew Mitts,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+700,皮制S手甲,Leather Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+701,锁甲S手甲,Chainmail Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+702,南瓜S枝叶,Mosgharl Creeper S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+703,南瓜S美神,Mosgharl Tendril S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+704,巨兽S腕甲,Gammoth Braces S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+705,巨兽S手甲,Gammoth Guards S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+706,公会守卫蓝手套,Blue Guild Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+707,公会守卫蓝袖扣,Blue Guild Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+708,公会守卫红手套,Red Guild Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+709,公会守卫红袖扣,Red Guild Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+710,美食喵S袖,Gourmew Gloves S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+711,美食喵S手套,Gourmew Mitts S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+712,Promising Archbraces,Promising Archbraces,mhxx-romfs-game-array+mhxx-save-format-community,0
+713,Halcyon Archbraces,Halcyon Archbraces,mhxx-romfs-game-array+mhxx-save-format-community,0
+714,Lucid Gauntlets,Lucid Gauntlets,mhxx-romfs-game-array+mhxx-save-format-community,0
+715,Dreamy Gauntlets,Dreamy Gauntlets,mhxx-romfs-game-array+mhxx-save-format-community,0
+716,Lucid Archbraces,Lucid Archbraces,mhxx-romfs-game-array+mhxx-save-format-community,0
+717,Dreamy Archbraces,Dreamy Archbraces,mhxx-romfs-game-array+mhxx-save-format-community,0
+718,桃毛兽王腕甲,Conga Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+719,桃毛兽王手甲,Conga Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+720,白速龙套装手套,Giaprey Claws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+721,白速龙套装护臂,Giaprey Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+722,土砂龙腕甲,Barroth Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+723,土砂龙手甲,Barroth Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+724,岩龙腕甲,Basarios Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+725,岩龙手甲,Basarios Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+726,影蜘蛛腕甲,Nerscylla Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+727,影蜘蛛手甲,Nerscylla Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+728,冰牙龙腕甲,Barioth Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+729,冰牙龙手甲,Barioth Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+730,铠龙腕甲,Gravios Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+731,铠龙手甲,Gravios Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+732,活泼腕甲,Cheerful Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+733,活泼手甲,Cheerful Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+734,海歌手套,Mariner Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+735,海歌袖扣,Mariner Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+738,角龙腕甲,Diablos Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+739,角龙手甲,Diablos Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+740,角龙R腕甲,Diablos Vambraces R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+741,角龙R手甲,Diablos Guards R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+742,天彗龙腕甲,Valstrax Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+743,天彗龙手甲,Valstrax Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+744,聪慧手套,Wisdom Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+745,聪慧袖扣,Wisdom Cuffs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+751,贝鲁纳X腕甲,Bherna Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+752,贝鲁纳X手甲,Bherna Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+753,狩猎X腕甲,Hunting Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+754,狩猎X手甲,Hunting Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+755,毛皮X手套,Mafumofu Grips X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+756,毛皮X连指手套,Mafumofu Mittens X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+757,结云之护臂･极天,Yukumo Sky Kote Goku,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+758,结云之护臂･极地,Yukumo Land Kote Goku,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+763,蓝速龙套装X手套,Velociprey Claws X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+764,蓝速龙套装X护臂,Velociprey Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+765,黄速龙套装X手套,Genprey Claws X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+766,黄速龙套装X护臂,Genprey Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+767,红速龙套装X手套,Ioprey Claws X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+768,红速龙套装X护臂,Ioprey Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+769,蛇龙套装X手套,Remobra Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+770,蛇龙套装X护臂,Remobra Hands X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+771,猎手皮臂甲X,Trapper's Gauntlets X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+772,猎手皮手套X,Trapper's Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+773,蘑菇猪X拳,Mosswine Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+774,硬甲龙X腕甲,Rhenoplos Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+775,硬甲龙X手甲,Rhenoplos Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+776,狗龙X腕甲,Jaggi Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+777,狗龙X手甲,Jaggi Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+784,跳狗龙X腕甲,Maccao Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+785,跳狗龙X手甲,Maccao Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+786,蓝速龙X腕甲,Velociprey Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+787,蓝速龙X手甲,Velociprey Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+788,白速龙X腕甲,Giaprey Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+789,白速龙X手甲,Giaprey Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+790,黄速龙X腕甲,Genprey Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+791,黄速龙X手甲,Genprey Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+792,红速龙X腕甲,Ioprey Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+793,红速龙X手甲,Ioprey Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+794,巨蜂X腕甲,Vespoid Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+795,巨蜂X手甲,Vespoid Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+796,巨甲虫X腕甲,Hornetaur Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+797,巨甲虫X手甲,Hornetaur Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+798,飞甲虫X护手,Bnahabra Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+799,飞甲虫X袖扣,Bnahabra Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+800,盾虫X腕甲,Konchu Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+801,盾虫X手甲,Konchu Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+802,野猪X腕甲,Bulldrome Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+803,野猪X手甲,Bulldrome Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+805,青熊兽X腕甲,Arzuros Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+806,青熊兽X手甲,Arzuros Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+807,砂龙X腕甲,Cephalos Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+808,砂龙X手甲,Cephalos Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+809,怪鸟X腕甲,Kut-Ku Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+810,怪鸟X手甲,Kut-Ku Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+811,奇猿狐X腕甲,Kecha Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+812,奇猿狐X手甲,Kecha Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+813,白兔兽X腕甲,Lagombi Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+814,白兔兽X手甲,Lagombi Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+815,毒怪鸟X腕甲,Gypceros Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+816,毒怪鸟X手甲,Gypceros Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+817,鬼蛙X腕甲,Tetsucabra Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+818,鬼蛙X手甲,Tetsucabra Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+819,大名盾蟹X腕甲,Hermitaur Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+820,大名盾蟹X手甲,Hermitaur Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+821,水兽X腕甲,Ludroth Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+822,水兽X手甲,Ludroth Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+823,美食喵X袖,Gourmew Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+824,美食喵X手套,Gourmew Mitts X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+825,美食喵X袖,Gourmew Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+826,美食喵X手套,Gourmew Mitts X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+827,云羊鹿X手套,Moofah Claws X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+828,云羊鹿X袖扣,Moofah Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+829,雪绒花X枝叶,Edel Creeper X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+830,雪绒花X美神,Edel Tendril X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+833,死神X双手,Death Stench Grip X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+834,死神X欲望,Death Stench Grasp X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+835,毒蝎X护袖,Skalda Brachia X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+836,毒蝎X腕,Skalda Manus X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+837,毒蛛X护袖,Spio Brachia X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+838,毒蛛X腕,Spio Manus X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+839,猎人XR腕甲,Hunter's Vambraces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+840,猎人XR手甲,Hunter's Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+841,赤甲兽X腕甲,Volvidon Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+842,赤甲兽X手甲,Volvidon Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+843,桃毛兽王X腕甲,Conga Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+844,桃毛兽王X手甲,Conga Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+845,土砂龙X腕甲,Barroth Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+846,土砂龙X手甲,Barroth Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+847,岩龙X腕甲,Basarios Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+848,岩龙X手甲,Basarios Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+849,夜鸟X腕甲,Malfestio Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+850,夜鸟X手甲,Malfestio Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+851,变形冰鲨X腕甲,Zamtrios Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+852,变形冰鲨X手甲,Zamtrios Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+853,白电X腕甲,Khezu Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+854,白电X手甲,Khezu Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+855,影蜘蛛X腕甲,Nerscylla Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+856,影蜘蛛X手甲,Nerscylla Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+857,雌火龙X腕甲,Rathian Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+858,雌火龙X手甲,Rathian Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+859,潜口龙X腕甲,Nibelsnarf Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+860,潜口龙X手甲,Nibelsnarf Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+861,水龙X腕甲,Plesioth Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+862,水龙X手甲,Plesioth Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+863,雪狮子X腕甲,Blango Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+864,雪狮子X手甲,Blango Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+865,将军镰蟹X腕甲,Ceanataur Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+866,将军镰蟹X手甲,Ceanataur Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+867,绞蛇龙X腕甲,Najarala Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+868,绞蛇龙X手甲,Najarala Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+869,迅龙X腕甲,Nargacuga Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+870,迅龙X手甲,Nargacuga Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+871,毒怪鸟XR腕甲,Gypceros Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+872,毒怪鸟XR手甲,Gypceros Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+873,大名盾蟹XR腕甲,Hermitaur Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+874,大名盾蟹XR手甲,Hermitaur Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+875,水兽XR腕甲,Ludroth Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+876,水兽XR手甲,Ludroth Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+877,异形X腕甲,Strange Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+878,异形X手甲,Strange Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+881,求知X腕甲,Lecturer's Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+882,求知X手甲,Lecturer's Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+883,糕点师X袖,Patissier's Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+884,糕点师X手套,Patissier's Mitts X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+885,最高级泡澡条巾,Posh Bath Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+886,女仆X手套,Maiden's Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+887,休闲X袖扣,French Maid Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+888,抚子･雅【蕾袖】,Dianthus Masasleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+889,桔梗･雅【蕾袖】,Campanile Masasleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+890,GX桃毛兽王腕甲,Conga Vambraces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+891,GX桃毛兽王手甲,Conga Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+892,合金XR腕甲,Alloy Vambraces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+893,合金XR手甲,Alloy Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+894,铸铁XR腕甲,Ingot Vambraces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+895,铸铁XR手甲,Ingot Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+896,机械X腕甲,Artian Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+897,机械X手甲,Artian Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+898,龙虾X腕甲,Lobster Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+899,龙虾X手甲,Lobster Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+900,白电XR腕甲,Khezu Vambraces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+901,白电XR手甲,Khezu Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+902,将军镰蟹XR腕甲,Ceanataur Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+903,将军镰蟹XR手甲,Ceanataur Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+904,雌火龙XR腕甲,Rathian Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+905,雌火龙XR手甲,Rathian Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+906,熔岩龙X腕甲,Lava Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+907,熔岩龙X手甲,Lava Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+908,黑狼鸟X腕甲,Garuga Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+909,黑狼鸟X手甲,Garuga Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+910,爆锤龙X腕甲,Uragaan Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+911,爆锤龙X手甲,Uragaan Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+912,冰牙龙X腕甲,Barioth Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+913,冰牙龙X手甲,Barioth Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+914,重甲虫X腕甲,Seltas Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+915,重甲虫X手甲,Seltas Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+916,火龙X腕甲,Rathalos Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+917,火龙X手甲,Rathalos Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+918,海龙X腕甲,Lagiacrus Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+919,海龙X手甲,Lagiacrus Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+920,雷狼龙X腕甲,Zinogre Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+921,雷狼龙X手甲,Zinogre Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+922,铠龙X腕甲,Gravios Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+923,铠龙X手甲,Gravios Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+924,泡狐龙X腕甲,Mizutsune Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+925,泡狐龙X手甲,Mizutsune Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+926,电龙X腕甲,Astalos Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+927,电龙X手甲,Astalos Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+928,巨兽X腕甲,Gammoth Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+929,巨兽X手甲,Gammoth Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+930,斩龙X腕甲,Glavenus Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+931,斩龙X手甲,Glavenus Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+932,黑蚀龙X腕甲,Gore Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+933,黑蚀龙X手甲,Gore Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+934,麒麟X长腕甲,Kirin Longarms X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+935,麒麟X护手,Kirin Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+936,麒麟XR长腕甲,Kirin Longarms XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+937,麒麟XR护手,Kirin Gloves XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+938,晓丸【臂甲】,Auroros Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+939,凛【臂甲】,Borealis Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+940,曙丸【臂甲】,Genesis Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+941,艳【臂甲】,Glyph Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+942,GX晓丸【臂甲】,Auroros Gauntlets GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+943,GX凛【臂甲】,Borealis Gauntlets GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+944,GX曙丸【臂甲】,Genesis Gauntlets GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+945,GX艳【臂甲】,Glyph Gauntlets GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+946,晓丸战流【臂甲】,Auroros Gauntlets XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+947,凛战流【臂甲】,Borealis Gauntlets XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+948,曙丸战流【臂甲】,Genesis Gauntlets XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+949,艳战流【臂甲】,Glyph Gauntlets XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+950,学士X手套,Scholar's Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+951,学士X袖扣,Scholar's Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+952,水手X手套,Sailor Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+953,水手X袖扣,Sailor Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+954,猎鹰X腕甲,Hawkbraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+955,猎鹰X手甲,Hawkguards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+956,贤者X手套,Scholarly Grips X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+957,贤者X袖扣,Scholarly Cuffs X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+958,探究手套,Research Grips,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+959,探究袖扣,Research Cuffs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+960,火龙XR腕甲,Rathalos Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+961,火龙XR手甲,Rathalos Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+962,海龙XR腕甲,Lagiacrus Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+963,海龙XR手甲,Lagiacrus Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+964,黑蚀龙XR腕甲,Gore Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+965,黑蚀龙XR手甲,Gore Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+966,炎戈龙X腕甲,Agnaktor Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+967,炎戈龙X手甲,Agnaktor Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+968,千刃龙X腕甲,Regios Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+969,千刃龙X手甲,Regios Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+970,尾锤龙X腕甲,Duramboros Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+971,尾锤龙X手甲,Duramboros Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+972,轰龙X腕甲,Tigrex Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+973,轰龙X手甲,Tigrex Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+974,轰龙XR腕甲,Tigrex Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+975,轰龙XR手甲,Tigrex Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+976,角龙X腕甲,Diablos Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+977,角龙X手甲,Diablos Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+978,角龙XR腕甲,Diablos Vambraces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+979,角龙XR手甲,Diablos Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+980,碎龙X腕甲,Brachydios Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+981,碎龙X手甲,Brachydios Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+982,方舟X腕甲,Arc Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+983,友爱X腕甲,Storge Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+984,方舟X手甲,Arc Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+985,友爱X手甲,Storge Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+986,方舟XR腕甲,Arc Vambraces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+987,友爱XR腕甲,Storge Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+988,方舟XR手甲,Arc Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+989,友爱XR手甲,Storge Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+990,天彗龙X腕甲,Valstrax Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+991,天彗龙X手甲,Valstrax Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+992,齐天臂甲･真,Grand God's Peer Arms,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+993,仙师臂甲･真,Grand Hermit Arms,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+994,恐暴龙X腕甲,Vangis Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+995,恐暴龙X手甲,Vangis Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+996,钢龙X刚强,Kushala Grip X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+997,钢龙X劲猛,Kushala Embrace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+998,钢龙XR刚强,Kushala Grip XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+999,钢龙XR劲猛,Kushala Embrace XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1000,水行真【大袖】,Grand Mizuha Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1001,丰玉真【大袖】,Grand Cham Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1002,帝王X腕甲,Kaiser Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1003,帝王X手甲,Kaiser Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1004,银白耀日Z腕甲,Silver Solbraces Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1005,银白耀日Z手甲,Silver Solguards Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1006,金黄澄月Z腕甲,Golden Lunebraces Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1007,金黄澄月Z手甲,Golden Luneguards Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1008,夜叉【贵手】,Yaksha Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1009,修罗【贵手】,Carnage Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1010,守护者X腕甲,Guardian Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1011,守护者X手甲,Guardian Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1012,公会守卫X蓝手套,Blue Guild Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1013,公会守卫X蓝手套,Blue Guild Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1014,公会守卫X蓝袖扣,Blue Guild Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1015,公会守卫X蓝袖扣,Blue Guild Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1016,公会守卫X红手套,Red Guild Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1017,公会守卫X红手套,Red Guild Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1018,公会守卫X红袖扣,Red Guild Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1019,公会守卫X红袖扣,Red Guild Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1020,公会骑士X手套,G. Knight Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1021,公会骑士X袖扣,G. Knight Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1022,公会诗人X腕甲,Guild Bard Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1023,公会诗人X袖扣,Guild Bard Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1024,王牌X腕甲,Ace Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1025,王牌X手甲,Ace Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1026,女王X腕甲,Sororal Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1027,女王X手甲,Sororal Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1028,忍者臂甲･极天,Shinobi Heaven Kote Goku,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1029,忍者臂甲･极地,Shinobi Land Kote Goku,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1030,王后腕甲,Kaiserin Arms,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1031,王后手甲,Kaisrein Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1032,酒吧主人手套,Barmaid's Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1033,酒吧主人袖扣,Barmaid's Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1034,酒保手套,Barman's Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1035,酒保袖扣,Barman's Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1036,太阳神X腕甲,Helios Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1037,月神X腕甲,Selene Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1038,太阳神X手甲,Helios Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1039,月神X手甲,Selene Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1040,城塞特攻队【手甲】,Strider's Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1041,城塞隐蔽队【手甲】,Deadeye's Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1042,花纹钢X腕甲,Damascus Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1043,花纹钢X手甲,Damascus Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1044,混沌腕甲,Chaos Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1045,堕天腕甲,Nephilim Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1046,混沌手甲,Chaos Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1047,堕天手甲,Nephilim Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1048,怒天臂甲･真,Grand Divine Ire Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1049,心灭臂甲･真,Grand Crusher Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1050,贪婪Z腕甲,Esurient Vambraces Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1051,贪婪Z手甲,Esurient Guards Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1052,铁腕腕甲,Brachydium Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1053,铁腕手甲,Brachydium Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1054,霸龙X健将,Akantor Claws X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1055,霸龙X勇者,Akantor Gauntlets X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1056,霸龙XR健将,Akantor Claws XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1057,霸龙XR勇者,Akantor Gauntlets XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1058,崩龙X健将,Ukanlos Claws X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1059,崩龙X勇者,Ukanlos Gauntlets X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1060,荒天･真【袖】,Grand Tempest Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1061,苍天･真【袖】,Grand Welkin Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1062,骸装甲･真【臂骨】,Grand Skeletal Humerus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1063,尸装甲･真【臂骨】,Grand Decayed Humerus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1064,苍星X腕甲,Astral Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1065,苍星X手甲,Astral Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1066,王座挑战,Neset Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1067,王座接纳,Neset Brachia,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1068,黑色X护肘,Black Claw X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1069,黑色X拳头,Black Fist X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1070,煌黑龙X长腕,Escadora Arms X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1071,煌黑龙X兵器,Escadora Arma X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1072,煌黑龙XR长腕,Escadora Armguards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1073,煌黑龙XR兵器,Escadora Arma XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1074,红龙护肘,Fatalis Crimsonclaws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1075,红龙拳头,Fatalis Crimsonfists,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1076,GX红龙护肘,GX Fatalis Crimsonclaws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1077,GX红龙拳头,GX Fatalis Crimsonfists,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1078,红龙XR护肘,Fatalis Crimsonclaws XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1079,红龙XR拳头,Fatalis Crimsonfists XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1080,祖龙护肘,Old Fatalis Claw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1081,祖龙拳头,Old Fatalis Fist,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1082,GX祖龙护肘,GX Old Fatalis Claw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1083,GX祖龙拳头,GX Old Fatalis Fist,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1084,支援者X袖扣,Helper Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1085,治疗者X袖扣,Healer Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1086,龙历士X腕甲,Ancient Arms X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1087,龙历士X手甲,Ancient Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1088,大师X腕甲,Master's Gauntlets X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1089,大师X手甲,Master's Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1090,桐花･真【臂甲】,Grand Toka Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1091,三葵･真【臂甲】,Grand Mitsuaoi Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1096,黑带X腕甲,Black Belt Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1097,黑带X手甲,Black Belt Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1100,晓丸亚流【臂甲】,Auroros Gauntlets R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1101,凛亚流【臂甲】,Borealis Gauntlets R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1102,曙丸亚流【臂甲】,Genesis Gauntlets R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1103,艳亚流【臂甲】,Glyph Gauntlets R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1104,银白耀日XR腕甲,Silver Solbraces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1105,银白耀日XR手甲,Silver Solguards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1106,贪婪XR腕甲,Esurient Vambraces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1107,贪婪XR手甲,Esurient Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1108,铠裂腕甲,Rustrazor Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1109,铠裂手甲,Rustrazor Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1110,胧隐腕甲,Nightcloak Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1111,胧隐手甲,Nightcloak Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1112,天眼腕甲,Soulseer Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1113,天眼手甲,Soulseer Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1114,青电主腕甲,Boltreaver Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1115,青电主手甲,Boltreaver Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1116,银峰腕甲,Elderfrost Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1117,银峰手甲,Elderfrost Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1118,鏖魔腕甲,Bloodbath Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1119,鏖魔手甲,Bloodbath Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+1120,巨兽X腕甲,Gammoth Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1121,巨兽X手甲,Gammoth Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1122,GX黄速龙腕甲,Genprey Vambraces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1123,GX黄速龙手甲,Genprey Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1124,GX红速龙腕甲,Ioprey Vambraces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1125,GX红速龙手甲,Ioprey Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1126,GX巨蜂腕甲,Vespoid Vambraces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1127,GX巨蜂手甲,Vespoid Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1128,巨甲虫XR腕甲,Hornetaur Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1129,巨甲虫XR手甲,Hornetaur Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1130,GX巨甲虫腕甲,Hornetaur Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1131,GX巨甲虫手甲,Hornetaur Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1132,GX砂龙腕甲,Cephalos Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1133,GX砂龙手甲,Cephalos Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1134,GX大名盾蟹腕甲,Hermitaur Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1135,GX大名盾蟹手甲,Hermitaur Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1136,GX雌火龙腕甲,Rathian Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1137,GX雌火龙手甲,Rathian Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1138,GX将军镰蟹腕甲,Ceanataur Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1139,GX将军镰蟹手甲,Ceanataur Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1140,GX雪狮子腕甲,Blango Vambraces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1141,GX雪狮子手甲,Blango Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1142,GX黑蚀龙腕甲,Gore Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1143,GX黑蚀龙手甲,Gore Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1144,GX雷狼龙腕甲,Zinogre Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1145,GX雷狼龙手甲,Zinogre Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1146,GX轰龙腕甲,Tigrex Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1147,GX轰龙手甲,Tigrex Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1148,GX碎龙腕甲,Brachydios Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1149,GX碎龙手甲,Brachydios Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1150,GX火龙腕甲,Rathalos Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1151,GX火龙手甲,Rathalos Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1152,GX方舟腕甲,Arc Vambraces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1153,GX方舟手甲,Arc Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1154,GX友爱腕甲,Storge Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1155,GX友爱手甲,Storge Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1156,GX钢龙刚强,Kushala Grip GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1157,GX钢龙劲猛,Kushala Embrace GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1158,GX水行【大袖】,Mizuha Sleeves GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1159,GX丰玉【大袖】,Cham Sleeves GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1160,GX帝王腕甲,Kaiser Vambraces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1161,GX帝王手甲,Kaiser Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1162,GX熔岩龙腕甲,Lavasioth Braces GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1163,GX熔岩龙手甲,Lavasioth Guards GX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1164,GX银白耀日腕甲,GX Silver Solbraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1165,GX银白耀日手甲,GX Silver Solguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1166,GX金黄澄月腕甲,GX Golden Lunebraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1167,GX金黄澄月手甲,GX Golden Luneguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1168,荒天战流【袖】,Tempest Sleeves XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1169,苍天战流【袖】,Welkin Sleeves XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1170,皮制X腕甲,Leather Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1171,皮制X手甲,Leather Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1172,锁甲X腕甲,Chain Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1173,锁甲X手甲,Chainmail Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1175,猎人X腕甲,Hunter's Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1176,猎人X手甲,Hunter's Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1177,骨制X腕甲,Bone Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1178,骨制X手甲,Bone Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1179,杜宾X腕甲,Dober Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1180,杜宾X手甲,Dober Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1181,合金X腕甲,Alloy Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1182,合金X手甲,Alloy Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1183,铸铁X腕甲,Ingot Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1184,铸铁X手甲,Ingot Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1185,花纹钢XR腕甲,Damascus VambracesXR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1186,花纹钢XR手甲,Damascus Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1187,战斗X腕甲,Battle Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1188,战斗X手甲,Battle Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1189,矿石X腕甲,High Metal Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1190,矿石X手甲,High Metal Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1191,矿石Z腕甲,High Metal Braces Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1192,矿石Z手甲,High Metal Guards Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1193,南瓜X枝叶,Mosgharl Creeper X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1194,南瓜X美神,Mosgharl Tendril X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1195,南瓜X枝叶,Mosgharl Creeper X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1196,南瓜X美神,Mosgharl Tendril X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1197,独角仙X护袖,Obituary Brachia X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1198,独角仙X腕,Obituary Manus X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1199,燕尾蝶X护袖,Butterfly Brachia X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1200,燕尾蝶X腕,Butterfly Manus X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1201,锹形X护袖,Aelucanth Brachia X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1202,锹形X腕,Aelucanth Manus X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1203,凤蝶X护袖,Rhopessa Brachia X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1204,凤蝶X腕,Rhopessa Manus X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1205,海境X腕甲,Vaik Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1206,海境X手甲,Vaik Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1207,守护者Z腕甲,Guardian Vambraces Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1208,守护者Z手甲,Guardian Guards Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1209,支援者Z袖扣,Helper Sleeves Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1210,治疗者Z袖扣,Healer Sleeves Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1211,死神XR双手,Death Stench Grip XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1212,死神XR欲望,Death Stench Grasp XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1213,鱼鳞X袖,Makluva Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1214,鱼鳞X护袖,Makluva Sucker X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1215,鱼鳞Z袖,Makluva Sleeves Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1216,鱼鳞Z护袖,Makluva Sucker Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1217,花瓣X枝叶,Melahoa Branch X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1218,花瓣X美神,Melahoa Petal X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1219,花瓣Z枝叶,Melahoa Branch Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1220,花瓣Z美神,Melahoa Petal Z,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1221,勇气X腕甲,Derring Vambraces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1222,勇气X手甲,Derring Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1223,GX北极星【袖】,GX Kita Star Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1224,GX海渊【袖】,GX Umi Ocean Sleeves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1227,聪慧X手套,Wisdom Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1228,聪慧X袖扣,Wisdom Cuffs X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1229,活泼X腕甲,Cheerful Braces X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1230,活泼X手甲,Cheerful Guards X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1231,海歌X手套,Mariner Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1232,海歌X袖扣,Mariner Sleeves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1241,白速龙套装X手套,Giaprey Claws X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1242,白速龙套装X护臂,Giaprey Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1245,团长手环X,Caravaneer's Armlets X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1247,跳狗龙王皮臂甲X,Maccao Gauntlets X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1248,跳狗龙王皮手套X,Maccao Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1249,狗龙王皮臂甲X,Jaggi Gauntlets X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1250,狗龙王皮手套X,Jaggi Gloves X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1251,机械XR腕甲,Artian Braces XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1252,机械XR手甲,Artian Guards XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+1253,黑龙护肘,Dragonclaws,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1254,黑龙拳头,Dragonfists,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1255,犯人手腕,Criminal Braces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1256,犯人手臂,Criminal Hands,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+1257,Gon Braces,Gon Braces,mhxx-romfs-game-array+mhxx-save-format-community,0
+1258,Gon Guards,Gon Guards,mhxx-romfs-game-array+mhxx-save-format-community,0
+1259,Arcfire Kote,Arcfire Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1260,Bonfire Kote,Bonfire Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1261,Waka Kote,Waka Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1262,Wagaku Kote,Wagaku Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1263,Ruler Arcfire Kote,Ruler Arcfire Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1264,Ruler Bonfire Kote,Ruler Bonfire Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1265,Ruler Waka Kote,Ruler Waka Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1266,Ruler Wagaku Kote,Ruler Wagaku Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1267,Supreme Arcfire Kote,Supreme Arcfire Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1268,Supreme Bonfire Kote,Supreme Bonfire Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1269,Supreme Wagaku Kote,Supreme Wagaku Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1270,Supreme Wagaku Kote,Supreme Wagaku Kote,mhxx-romfs-game-array+mhxx-save-format-community,0
+1271,黄金骑士【臂甲】,Garo Gauntlets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1272,黄金骑士【腕甲】,Garo Vambraces,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1273,防护服手甲,Varia Suit Guards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+1274,防护服护盾,Varia Suit Shield,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+1275,零装甲手套,Zero Suit Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+1276,零装甲护臂,Zero Suit Hands,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+1277,星耀领主腕甲,Lodestar Armguards,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+1278,星耀领主袖扣,Lodestar Cuffs,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+1279,海利亚护臂,Hylian Bracers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1280,海利亚护手,Hylian Gloves,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+1281,飞龙臂甲･天,Hiryu Sky Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+1282,飞龙臂甲･地,Hiryu Land Kote,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7

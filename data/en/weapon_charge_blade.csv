@@ -1,82 +1,82 @@
 id,name,english,source,rarity,max_level
-0,None,None,mhxx-save-format-community,0,0
-1,Petrified Strongarm,Petrified Strongarm,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,Obsidian Strongarm,Obsidian Strongarm,mhxx-dex-1.0+mhxx-save-format-community,3,8
-3,Lava's Veil,Lava's Veil,mhxx-dex-1.0+mhxx-save-format-community,5,5
-4,Dios Strongarm,Dios Strongarm,mhxx-dex-1.0+mhxx-save-format-community,3,7
-5,Demolition Blade,Demolition Blade,mhxx-dex-1.0+mhxx-save-format-community,6,6
-6,Type 31 Wyvernslayer,Type 31 Wyvernslayer,mhxx-dex-1.0+mhxx-save-format-community,2,8
-7,Poison Blade,Poison Blade,mhxx-dex-1.0+mhxx-save-format-community,2,9
-8,Elite Blade,Elite Blade,mhxx-dex-1.0+mhxx-save-format-community,1,11
-9,Guardsqual,Guardsqual,mhxx-dex-1.0+mhxx-save-format-community,4,6
-10,Serrated Glace,Serrated Glace,mhxx-dex-1.0+mhxx-save-format-community,5,5
-11,Blackguard,Blackguard,mhxx-dex-1.0+mhxx-save-format-community,2,8
-12,Sentinel Blade,Sentinel Blade,mhxx-dex-1.0+mhxx-save-format-community,4,6
-13,K. Captain's Blade,K. Captain's Blade,mhxx-dex-1.0+mhxx-save-format-community,5,5
-14,Tigrex Divide,Tigrex Divide,mhxx-dex-1.0+mhxx-save-format-community,3,7
-15,Dear Lutemis,Dear Lutemis,mhxx-dex-1.0+mhxx-save-format-community,3,8
-16,Luna Eostre,Luna Eostre,mhxx-dex-1.0+mhxx-save-format-community,7,5
-17,Rogue Axe,Rogue Axe,mhxx-dex-1.0+mhxx-save-format-community,1,10
-18,Horror Zofar,Horror Zofar,mhxx-dex-1.0+mhxx-save-format-community,2,9
-19,Snowy Veil,Snowy Veil,mhxx-dex-1.0+mhxx-save-format-community,1,8
-20,Bone Blade,Bone Blade,mhxx-dex-1.0+mhxx-save-format-community,1,11
-21,Poisonous Veil,Poisonous Veil,mhxx-dex-1.0+mhxx-save-format-community,3,7
-22,Axelion Blade,Axelion Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
-23,Hellsire Blade,Hellsire Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
-24,Lagia Storm,Lagia Storm,mhxx-dex-1.0+mhxx-save-format-community,3,8
-25,Guardian Blade,Guardian Blade,mhxx-dex-1.0+mhxx-save-format-community,2,8
-26,Schildsect,Schildsect,mhxx-dex-1.0+mhxx-save-format-community,4,7
-27,Dominisect,Dominisect,mhxx-dex-1.0+mhxx-save-format-community,6,5
-28,Desertfall,Desertfall,mhxx-dex-1.0+mhxx-save-format-community,1,9
-29,Aslat Charger,Aslat Charger,mhxx-dex-1.0+mhxx-save-format-community,3,7
-30,Seditious Blade,Seditious Blade,mhxx-dex-1.0+mhxx-save-format-community,6,6
-31,Axela Blade,Axela Blade,mhxx-dex-1.0+mhxx-save-format-community,3,9
-32,Giant's Edge,Giant's Edge,mhxx-dex-1.0+mhxx-save-format-community,3,9
-33,Mizuniya Drill,Mizuniya Drill,mhxx-dex-1.0+mhxx-save-format-community,3,9
-34,Scorching Demander,Scorching Demander,mhxx-dex-1.0+mhxx-save-format-community,3,9
-35,Elendskraft,Elendskraft,mhxx-dex-1.0+mhxx-save-format-community,3,7
-36,L'Oppresseur,L'Oppresseur,mhxx-dex-1.0+mhxx-save-format-community,3,8
-37,Daora's Casca,Daora's Casca,mhxx-dex-1.0+mhxx-save-format-community,3,6
-38,Demonlord Blade,Demonlord Blade,mhxx-dex-1.0+mhxx-save-format-community,6,7
-39,Wicked Edge,Wicked Edge,mhxx-dex-1.0+mhxx-save-format-community,3,7
-40,Gant Blade,Gant Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
-41,Akantor C. Blade,Akantor C. Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
-42,Altostratus Blade,Altostratus Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
-43,Worn C. Blade,Worn C. Blade,mhxx-dex-1.0+mhxx-save-format-community,4,7
-44,Chrono Gear,Chrono Gear,mhxx-dex-1.0+mhxx-save-format-community,6,5
-45,Teostra's Striker,Teostra's Striker,mhxx-dex-1.0+mhxx-save-format-community,7,5
-46,Black Strongarm,Black Strongarm,mhxx-dex-1.0+mhxx-save-format-community,3,7
-47,Pizzaxe,Pizzaxe,mhxx-dex-1.0+mhxx-save-format-community,2,7
-48,Hero Strongarm,Hero Strongarm,mhxx-dex-1.0+mhxx-save-format-community,6,6
-49,Vaik Veil,Vaik Veil,mhxx-dex-1.0+mhxx-save-format-community,3,6
-50,Mandible Blade,Mandible Blade,mhxx-dex-1.0+mhxx-save-format-community,3,6
-51,Cuddly Cat,Cuddly Cat,mhxx-dex-1.0+mhxx-save-format-community,2,6
-52,Chameleos C. Blade,Chameleos C. Blade,mhxx-dex-1.0+mhxx-save-format-community,2,6
-53,Dear Regina,Dear Regina,mhxx-dex-1.0+mhxx-save-format-community,11,15
-54,Dreaded Blade,Dreaded Blade,mhxx-dex-1.0+mhxx-save-format-community,11,15
-55,Rudra Divide,Rudra Divide,mhxx-dex-1.0+mhxx-save-format-community,11,15
-56,Ashen Demander,Ashen Demander,mhxx-dex-1.0+mhxx-save-format-community,11,15
-57,Charge Fox,Charge Fox,mhxx-dex-1.0+mhxx-save-format-community,6,5
-58,Legendary Anchor J,Legendary Anchor J,mhxx-dex-1.0+mhxx-save-format-community,6,5
-59,DUMMY,DUMMY,mhxx-save-format-community,0,5
-60,Gold Edge,Gold Edge,mhxx-dex-1.0+mhxx-save-format-community,10,3
-61,Silverwing Edge,Silverwing Edge,mhxx-dex-1.0+mhxx-save-format-community,7,6
-62,Axebolt Edge,Axebolt Edge,mhxx-dex-1.0+mhxx-save-format-community,11,5
-63,Fugitive Hours,Fugitive Hours,mhxx-dex-1.0+mhxx-save-format-community,11,5
-64,Elderfrost Edge,Elderfrost Edge,mhxx-dex-1.0+mhxx-save-format-community,11,5
-65,Massacre Strongarm,Massacre Strongarm,mhxx-dex-1.0+mhxx-save-format-community,11,5
-66,Razor Slasher,Razor Slasher,mhxx-dex-1.0+mhxx-save-format-community,11,5
-67,Cloaked Edge,Cloaked Edge,mhxx-dex-1.0+mhxx-save-format-community,11,5
-68,Vermilion Veil,Vermilion Veil,mhxx-dex-1.0+mhxx-save-format-community,10,3
-69,Ruiner Reaver,Ruiner Reaver,mhxx-dex-1.0+mhxx-save-format-community,10,3
-70,Fatalis Mien,Fatalis Mien,mhxx-dex-1.0+mhxx-save-format-community,10,3
-71,Lightbreak C. Blade,Lightbreak C. Blade,mhxx-dex-1.0+mhxx-save-format-community,10,3
-72,Elends/Essor,Elends/Essor,mhxx-dex-1.0+mhxx-save-format-community,10,3
-73,Diablos Strongarm,Diablos Strongarm,mhxx-dex-1.0+mhxx-save-format-community,6,5
-74,Barroth Anchor,Barroth Anchor,mhxx-dex-1.0+mhxx-save-format-community,4,6
-75,Arachnoscale,Arachnoscale,mhxx-dex-1.0+mhxx-save-format-community,4,6
-76,Alatreon Edge,Alatreon Edge,mhxx-dex-1.0+mhxx-save-format-community,10,3
-77,Blossomauler,Blossomauler,mhxx-dex-1.0+mhxx-save-format-community,10,3
-78,Research Blade,Research Blade,mhxx-dex-1.0+mhxx-save-format-community,6,5
-79,Chili Axe,Chili Axe,mhxx-dex-1.0+mhxx-save-format-community,8,3
-80,Elder Strongarm,Elder Strongarm,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,None,None,mhxx-romfs-game-array,0,0
+1,Petrified Strongarm,Petrified Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Obsidian Strongarm,Obsidian Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,Lava's Veil,Lava's Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+4,Dios Strongarm,Dios Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+5,Demolition Blade,Demolition Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+6,Type 31 Wyvernslayer,Type 31 Wyvernslayer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+7,Poison Blade,Poison Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+8,Elite Blade,Elite Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+9,Guardsqual,Guardsqual,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+10,Serrated Glace,Serrated Glace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+11,Blackguard,Blackguard,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+12,Sentinel Blade,Sentinel Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+13,K. Captain's Blade,K. Captain's Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+14,Tigrex Divide,Tigrex Divide,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+15,Dear Lutemis,Dear Lutemis,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+16,Luna Eostre,Luna Eostre,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+17,Rogue Axe,Rogue Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,10
+18,Horror Zofar,Horror Zofar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+19,Snowy Veil,Snowy Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+20,Bone Blade,Bone Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+21,Poisonous Veil,Poisonous Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,Axelion Blade,Axelion Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+23,Hellsire Blade,Hellsire Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+24,Lagia Storm,Lagia Storm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+25,Guardian Blade,Guardian Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+26,Schildsect,Schildsect,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+27,Dominisect,Dominisect,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+28,Desertfall,Desertfall,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+29,Aslat Charger,Aslat Charger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+30,Seditious Blade,Seditious Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+31,Axela Blade,Axela Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+32,Giant's Edge,Giant's Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+33,Mizuniya Drill,Mizuniya Drill,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+34,Scorching Demander,Scorching Demander,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+35,Elendskraft,Elendskraft,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+36,L'Oppresseur,L'Oppresseur,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+37,Daora's Casca,Daora's Casca,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+38,Demonlord Blade,Demonlord Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,7
+39,Wicked Edge,Wicked Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+40,Gant Blade,Gant Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+41,Akantor C. Blade,Akantor C. Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+42,Altostratus Blade,Altostratus Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+43,Worn C. Blade,Worn C. Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+44,Chrono Gear,Chrono Gear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+45,Teostra's Striker,Teostra's Striker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+46,Black Strongarm,Black Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+47,Pizzaxe,Pizzaxe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+48,Hero Strongarm,Hero Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+49,Vaik Veil,Vaik Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+50,Mandible Blade,Mandible Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+51,Cuddly Cat,Cuddly Cat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+52,Chameleos C. Blade,Chameleos C. Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+53,Dear Regina,Dear Regina,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+54,Dreaded Blade,Dreaded Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+55,Rudra Divide,Rudra Divide,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+56,Ashen Demander,Ashen Demander,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+57,Charge Fox,Charge Fox,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+58,Legendary Anchor J,Legendary Anchor J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+59,Starlight Axe,Starlight Axe,mhxx-romfs-game-array+mhxx-reviewed-game-only-translation,0,5
+60,Gold Edge,Gold Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+61,Silverwing Edge,Silverwing Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+62,Axebolt Edge,Axebolt Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+63,Fugitive Hours,Fugitive Hours,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+64,Elderfrost Edge,Elderfrost Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+65,Massacre Strongarm,Massacre Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+66,Razor Slasher,Razor Slasher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+67,Cloaked Edge,Cloaked Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+68,Vermilion Veil,Vermilion Veil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+69,Ruiner Reaver,Ruiner Reaver,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+70,Fatalis Mien,Fatalis Mien,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+71,Lightbreak C. Blade,Lightbreak C. Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+72,Elends/Essor,Elends/Essor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+73,Diablos Strongarm,Diablos Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+74,Barroth Anchor,Barroth Anchor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+75,Arachnoscale,Arachnoscale,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+76,Alatreon Edge,Alatreon Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+77,Blossomauler,Blossomauler,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+78,Research Blade,Research Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+79,Chili Axe,Chili Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+80,Elder Strongarm,Elder Strongarm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

@@ -1,133 +1,133 @@
 id,name,english,source,rarity,max_level
-0,无,None,mhxx-save-format-community,0,0
-1,贝鲁纳大锤,Petrified Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,黑曜石大锤,Obsidian Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,8
-3,铁拳,Fist of Fury,mhxx-dex-1.0+mhxx-save-format-community,4,6
-4,轰龙纹锤,Striped Striker,mhxx-dex-1.0+mhxx-save-format-community,3,7
-5,超级新星,Great Nova,mhxx-dex-1.0+mhxx-save-format-community,2,8
-6,指虎,Brazenclout,mhxx-dex-1.0+mhxx-save-format-community,3,7
-7,42式破甲锤,Type 42 Shellbuster,mhxx-dex-1.0+mhxx-save-format-community,2,7
-8,铁锤,Iron Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,11
-9,鬼铁丸,Devil Masher,mhxx-dex-1.0+mhxx-save-format-community,5,7
-10,铁砧锤,Anvil Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,8
-11,加速重锤,Accelerated Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,7
-12,螺旋推进锤,Nitro Boost Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-13,束缚之力,Binding Bludgeon,mhxx-dex-1.0+mhxx-save-format-community,2,8
-14,战锤,War Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,9
-15,战争印记,War Stamp,mhxx-dex-1.0+mhxx-save-format-community,5,5
-16,铁打击锤,Iron Striker,mhxx-dex-1.0+mhxx-save-format-community,4,6
-17,怒发锤,Mane Malice,mhxx-dex-1.0+mhxx-save-format-community,6,6
-18,鬼神锤,Demonlord Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-19,枪锤,Gun Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,8
-20,短敲者,Shot Crusher,mhxx-dex-1.0+mhxx-save-format-community,6,5
-21,钉锤,Spiked Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,10
-22,海雷涡流锤,Vortex Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-23,雷锤漩涡,Vortical Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,6
-24,冻结核心,Frozen Core,mhxx-dex-1.0+mhxx-save-format-community,2,7
-25,骨锤,Bone Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,11
-26,虾壳印锤,Lobstrosity,mhxx-dex-1.0+mhxx-save-format-community,3,7
-27,灾厄之兆,Calamitous Portent,mhxx-dex-1.0+mhxx-save-format-community,2,8
-28,碎龙之尾,Dios Tailhammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-29,爆碎破锤,Demolition Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,6
-30,独眼巨人锤,Cyclo-Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,9
-31,大锤大陵五,Matraca Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-32,叛逆激锤,Seditious Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,6
-33,颅骨粉碎者,Skullcrusher,mhxx-dex-1.0+mhxx-save-format-community,2,8
-34,朱彼特之拳,Jupiter's Sphere,mhxx-dex-1.0+mhxx-save-format-community,6,5
-35,头骨锥锤,Conehead Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,8
-36,将军镰蟹头甲斧锤,Ceanataur Head Axe,mhxx-dex-1.0+mhxx-save-format-community,2,7
-37,白电袋锤,Bag o' Horrors,mhxx-dex-1.0+mhxx-save-format-community,2,7
-38,大骨锤,Bone Bludgeon,mhxx-dex-1.0+mhxx-save-format-community,1,9
-39,肥硕冲击者,Meaty Smash,mhxx-dex-1.0+mhxx-save-format-community,4,6
-40,肥硕冲压锤,Meaty Press,mhxx-dex-1.0+mhxx-save-format-community,5,6
-41,水兽骨棒锤,Ludroth Bone Mace,mhxx-dex-1.0+mhxx-save-format-community,1,8
-42,水生兽皮大锤,Ludroth Splashhammer,mhxx-dex-1.0+mhxx-save-format-community,2,7
-43,魂之拳,Revenge Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,8
-44,跳狗龙王锤,Feather Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,8
-45,大猪头锤,Bull Head Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,9
-46,水龙头锤,Plesioth Head,mhxx-dex-1.0+mhxx-save-format-community,5,7
-47,王锤神雷,Usurper's Thunder,mhxx-dex-1.0+mhxx-save-format-community,3,7
-48,龙颅棍,Dragonhead Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,7
-49,赤色冲击,Red Bludgeon,mhxx-dex-1.0+mhxx-save-format-community,3,8
-50,星碎殒落,Leonid Starcrusher,mhxx-dex-1.0+mhxx-save-format-community,7,5
-51,隐秘破击者,Hidden Breaker,mhxx-dex-1.0+mhxx-save-format-community,2,8
-52,怪鸟头锤,Kut-Ku Pick,mhxx-dex-1.0+mhxx-save-format-community,2,9
-53,锤【乌】,Raven Torrent,mhxx-dex-1.0+mhxx-save-format-community,3,7
-54,锤【兇】,Vile Torrent,mhxx-dex-1.0+mhxx-save-format-community,6,6
-55,剧毒怪物,Venom Monster,mhxx-dex-1.0+mhxx-save-format-community,2,8
-56,绿宝石锤,Emerald Beater,mhxx-dex-1.0+mhxx-save-format-community,3,9
-57,巨兽锤,Giant's Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,9
-58,狐锤【玉落弃尘世】,Purity Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,9
-59,灼炎红铁,Scorching Isshata,mhxx-dex-1.0+mhxx-save-format-community,3,9
-60,权力of眩惑,Wuchtblick,mhxx-dex-1.0+mhxx-save-format-community,3,7
-61,THE末日,Le Jugement,mhxx-dex-1.0+mhxx-save-format-community,3,8
-62,扩张之魔神锤,Genie's Expanse,mhxx-dex-1.0+mhxx-save-format-community,3,6
-63,混沌之锤,Devil's Due,mhxx-dex-1.0+mhxx-save-format-community,6,5
-64,业锤达格扎,Consummate Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-65,名为水瓶的白骸,Skeletal Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-66,极星锤【水瓶】,Polaris Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-67,崩锤踏灭生灵,Ukanlos Trampler,mhxx-dex-1.0+mhxx-save-format-community,7,5
-68,煌黑坚锤,Alatreon Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-69,凶镜【妖云】,Incubus Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-70,严重锈蚀的大锤,Rusted Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,3
-71,气流･核心,Breath Core Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,5
-72,炎王火山口,Teostra Cratermaker,mhxx-dex-1.0+mhxx-save-format-community,3,6
-73,严重风化的大锤,Worn Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,7
-74,脉动核心,Pulsating Core,mhxx-dex-1.0+mhxx-save-format-community,6,5
-75,钢冰棍,Icesteel Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-76,雷皇锤,Gaiarch,mhxx-dex-1.0+mhxx-save-format-community,2,8
-77,黑锤,Black Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-78,结云之木锤,Yukumo Mallet,mhxx-dex-1.0+mhxx-save-format-community,1,8
-79,真结云木锤,Yukumo Purehammer,mhxx-dex-1.0+mhxx-save-format-community,3,6
-80,飞艇大锤,Airship Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,6
-81,晚安熊,Teddybear,mhxx-dex-1.0+mhxx-save-format-community,3,5
-82,感恩火腿,Enormous Ham,mhxx-dex-1.0+mhxx-save-format-community,5,5
-83,仙人掌锤,Cactus Creamer,mhxx-dex-1.0+mhxx-save-format-community,2,6
-84,黑锅【好吃】,Black Frying Pan,mhxx-dex-1.0+mhxx-save-format-community,2,6
-85,银锅【喜】,One Star Silver Pot,mhxx-dex-1.0+mhxx-save-format-community,5,6
-86,南瓜王,Pumpking,mhxx-dex-1.0+mhxx-save-format-community,2,7
-87,锚型重锤,Anchor Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-88,港口标志,Portsmark,mhxx-dex-1.0+mhxx-save-format-community,6,5
-89,巨鲸船大锤！,Arluq Whammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-90,工房谨制锤･大殴,Pride of Harth,mhxx-dex-1.0+mhxx-save-format-community,6,5
-91,白猫印章,White Kitty Stamp,mhxx-dex-1.0+mhxx-save-format-community,2,6
-92,黑猫印章,Black Kitty Stamp,mhxx-dex-1.0+mhxx-save-format-community,5,5
-93,卵锤,Egg Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,6
-94,不幸,Graceful Death,mhxx-dex-1.0+mhxx-save-format-community,3,6
-95,黑带战锤,Black Belt Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,6
-96,达人战锤,Expert Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-97,蟹纹巨锤,Pincher Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-98,疾风破击锤,Nightfall Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-99,宝缠之锤,Geode Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-100,锤【祸】,Hardened Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-101,黑炎王锤,Tomb Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-102,金狼锤雷鸣,Raiden Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-103,暴风神重锤,Seize Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-104,爆焰重锤,Magma Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-105,雷霆之力,Thunder Works,mhxx-dex-1.0+mhxx-save-format-community,6,5
-106,鬼貌,Demon Visage,mhxx-dex-1.0+mhxx-save-format-community,6,5
-107,宝锤之金属器,Goldhammer,mhxx-dex-1.0+mhxx-save-format-community,10,3
-108,银翼穿锤,Silverwing Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,6
-109,青电主大锤,Zephra Beater,mhxx-dex-1.0+mhxx-save-format-community,11,5
-110,天眼锤･孤城落月,Last Bastion,mhxx-dex-1.0+mhxx-save-format-community,11,5
-111,银峰锤,Elderfrost Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,5
-112,铠裂大锤,Razor Smasher,mhxx-dex-1.0+mhxx-save-format-community,11,5
-113,灭龙锤,Dragon Destroyer,mhxx-dex-1.0+mhxx-save-format-community,10,3
-114,红龙巨锤【邪恶】,Fatalis Smasher,mhxx-dex-1.0+mhxx-save-format-community,10,3
-115,祖龙･破坏者,Old Fatalis Buster,mhxx-dex-1.0+mhxx-save-format-community,10,3
-116,碎光灭锤,Lightbreak Hammer,mhxx-dex-1.0+mhxx-save-format-community,10,3
-117,笑颜or怒视,Grinsen/Froncement,mhxx-dex-1.0+mhxx-save-format-community,10,3
-118,巨人铠龙锤,Gigaton Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,5
-119,岩龙打击锤,Basarios Blow,mhxx-dex-1.0+mhxx-save-format-community,5,5
-120,岩壳锤,Shell Hammer,mhxx-dex-1.0+mhxx-save-format-community,5,5
-121,土砂大锤,Carapace Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,5
-122,土砂粉碎,Barroth Martello,mhxx-dex-1.0+mhxx-save-format-community,8,3
-123,影蜘蛛球锤,Cluster Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,5
-124,牧民球锤,Cluster Musterer,mhxx-dex-1.0+mhxx-save-format-community,8,3
-125,牢狱锤,Jail Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,6
-126,大刚锤重尾,Archambra Fellmace,mhxx-dex-1.0+mhxx-save-format-community,9,3
-127,黑铁匠,Blacksmith,mhxx-dex-1.0+mhxx-save-format-community,8,3
-128,首航纪念之波拉雷,Memento Volare,mhxx-dex-1.0+mhxx-save-format-community,8,3
-129,寻求未解之锤,Research Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-130,水晶针锤,Crystal Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-131,长者大锤,Elder Hammer,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,无,None,mhxx-romfs-game-array,0,0
+1,贝鲁纳大锤,Petrified Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石大锤,Obsidian Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,铁拳,Fist of Fury,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+4,轰龙纹锤,Striped Striker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+5,超级新星,Great Nova,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+6,指虎,Brazenclout,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+7,42式破甲锤,Type 42 Shellbuster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+8,铁锤,Iron Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+9,鬼铁丸,Devil Masher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,7
+10,铁砧锤,Anvil Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+11,加速重锤,Accelerated Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+12,螺旋推进锤,Nitro Boost Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+13,束缚之力,Binding Bludgeon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+14,战锤,War Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+15,战争印记,War Stamp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+16,铁打击锤,Iron Striker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+17,怒发锤,Mane Malice,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+18,鬼神锤,Demonlord Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+19,枪锤,Gun Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+20,短敲者,Shot Crusher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+21,钉锤,Spiked Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,10
+22,海雷涡流锤,Vortex Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+23,雷锤漩涡,Vortical Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+24,冻结核心,Frozen Core,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+25,骨锤,Bone Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+26,虾壳印锤,Lobstrosity,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+27,灾厄之兆,Calamitous Portent,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+28,碎龙之尾,Dios Tailhammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+29,爆碎破锤,Demolition Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+30,独眼巨人锤,Cyclo-Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+31,大锤大陵五,Matraca Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+32,叛逆激锤,Seditious Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+33,颅骨粉碎者,Skullcrusher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+34,朱彼特之拳,Jupiter's Sphere,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+35,头骨锥锤,Conehead Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+36,将军镰蟹头甲斧锤,Ceanataur Head Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+37,白电袋锤,Bag o' Horrors,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+38,大骨锤,Bone Bludgeon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+39,肥硕冲击者,Meaty Smash,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+40,肥硕冲压锤,Meaty Press,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+41,水兽骨棒锤,Ludroth Bone Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+42,水生兽皮大锤,Ludroth Splashhammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+43,魂之拳,Revenge Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+44,跳狗龙王锤,Feather Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+45,大猪头锤,Bull Head Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+46,水龙头锤,Plesioth Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,7
+47,王锤神雷,Usurper's Thunder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+48,龙颅棍,Dragonhead Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+49,赤色冲击,Red Bludgeon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+50,星碎殒落,Leonid Starcrusher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+51,隐秘破击者,Hidden Breaker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+52,怪鸟头锤,Kut-Ku Pick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+53,锤【乌】,Raven Torrent,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,锤【兇】,Vile Torrent,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+55,剧毒怪物,Venom Monster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+56,绿宝石锤,Emerald Beater,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+57,巨兽锤,Giant's Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+58,狐锤【玉落弃尘世】,Purity Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+59,灼炎红铁,Scorching Isshata,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+60,权力of眩惑,Wuchtblick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+61,THE末日,Le Jugement,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+62,扩张之魔神锤,Genie's Expanse,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+63,混沌之锤,Devil's Due,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+64,业锤达格扎,Consummate Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+65,名为水瓶的白骸,Skeletal Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+66,极星锤【水瓶】,Polaris Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+67,崩锤踏灭生灵,Ukanlos Trampler,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+68,煌黑坚锤,Alatreon Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+69,凶镜【妖云】,Incubus Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+70,严重锈蚀的大锤,Rusted Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,3
+71,气流･核心,Breath Core Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+72,炎王火山口,Teostra Cratermaker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+73,严重风化的大锤,Worn Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+74,脉动核心,Pulsating Core,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+75,钢冰棍,Icesteel Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+76,雷皇锤,Gaiarch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+77,黑锤,Black Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+78,结云之木锤,Yukumo Mallet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+79,真结云木锤,Yukumo Purehammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+80,飞艇大锤,Airship Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+81,晚安熊,Teddybear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+82,感恩火腿,Enormous Ham,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+83,仙人掌锤,Cactus Creamer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+84,黑锅【好吃】,Black Frying Pan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+85,银锅【喜】,One Star Silver Pot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+86,南瓜王,Pumpking,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+87,锚型重锤,Anchor Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+88,港口标志,Portsmark,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+89,巨鲸船大锤！,Arluq Whammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+90,工房谨制锤･大殴,Pride of Harth,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+91,白猫印章,White Kitty Stamp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+92,黑猫印章,Black Kitty Stamp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+93,卵锤,Egg Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+94,不幸,Graceful Death,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+95,黑带战锤,Black Belt Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+96,达人战锤,Expert Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+97,蟹纹巨锤,Pincher Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+98,疾风破击锤,Nightfall Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+99,宝缠之锤,Geode Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+100,锤【祸】,Hardened Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+101,黑炎王锤,Tomb Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+102,金狼锤雷鸣,Raiden Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+103,暴风神重锤,Seize Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+104,爆焰重锤,Magma Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+105,雷霆之力,Thunder Works,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+106,鬼貌,Demon Visage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+107,宝锤之金属器,Goldhammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+108,银翼穿锤,Silverwing Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+109,青电主大锤,Zephra Beater,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+110,天眼锤･孤城落月,Last Bastion,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+111,银峰锤,Elderfrost Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+112,铠裂大锤,Razor Smasher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+113,灭龙锤,Dragon Destroyer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+114,红龙巨锤【邪恶】,Fatalis Smasher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+115,祖龙･破坏者,Old Fatalis Buster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+116,碎光灭锤,Lightbreak Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+117,笑颜or怒视,Grinsen/Froncement,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+118,巨人铠龙锤,Gigaton Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+119,岩龙打击锤,Basarios Blow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+120,岩壳锤,Shell Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+121,土砂大锤,Carapace Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+122,土砂粉碎,Barroth Martello,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+123,影蜘蛛球锤,Cluster Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+124,牧民球锤,Cluster Musterer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+125,牢狱锤,Jail Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+126,大刚锤重尾,Archambra Fellmace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+127,黑铁匠,Blacksmith,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+128,首航纪念之波拉雷,Memento Volare,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+129,寻求未解之锤,Research Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+130,水晶针锤,Crystal Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+131,长者大锤,Elder Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

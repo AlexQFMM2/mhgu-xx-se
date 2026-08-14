@@ -1,84 +1,84 @@
 id,name,english,source,rarity,max_level
-0,无,None,mhxx-save-format-community,0,0
-1,贝鲁纳虫棍,Petrified Rod,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,黑曜石棍,Obsidian Rod,mhxx-dex-1.0+mhxx-save-format-community,3,8
-3,怪鸟矛,Kut-Ku Pike,mhxx-dex-1.0+mhxx-save-format-community,2,9
-4,皇家扫帚,Royal Bloom,mhxx-dex-1.0+mhxx-save-format-community,2,8
-5,跳狗龙棍,Fader Rod,mhxx-dex-1.0+mhxx-save-format-community,1,9
-6,虫棍河鼓二,Altair,mhxx-dex-1.0+mhxx-save-format-community,3,7
-7,叛逆破棍,Seditious Breaker,mhxx-dex-1.0+mhxx-save-format-community,6,6
-8,隐秘之镰,Hidden Scythe,mhxx-dex-1.0+mhxx-save-format-community,2,8
-9,雷光膛棍,Bolt Chamber,mhxx-dex-1.0+mhxx-save-format-community,2,9
-10,铁刺刀,Iron Bayonet,mhxx-dex-1.0+mhxx-save-format-community,1,11
-11,正负电极管,Arcane Strike,mhxx-dex-1.0+mhxx-save-format-community,2,9
-12,青之刺刀,Azure Bayonet,mhxx-dex-1.0+mhxx-save-format-community,1,8
-13,乾坤火龙棍,Heaven's Rath Glaive,mhxx-dex-1.0+mhxx-save-format-community,7,5
-14,红之枪斧,Crimson Fury,mhxx-dex-1.0+mhxx-save-format-community,2,8
-15,沙锚,Sand Anchor,mhxx-dex-1.0+mhxx-save-format-community,1,8
-16,鱼鳍鱼叉,Fin Harpoon,mhxx-dex-1.0+mhxx-save-format-community,5,5
-17,冰河虫棍,Névé Rod,mhxx-dex-1.0+mhxx-save-format-community,4,7
-18,骨制虫棍,Bone Staff,mhxx-dex-1.0+mhxx-save-format-community,1,11
-19,高空长刃,Sky-high Glaive,mhxx-dex-1.0+mhxx-save-format-community,5,5
-20,如意棒,Mind Stick,mhxx-dex-1.0+mhxx-save-format-community,4,7
-21,坚实长棍,Sturdy Glaive,mhxx-dex-1.0+mhxx-save-format-community,3,7
-22,火焰斧枪,Flaming Halberd,mhxx-dex-1.0+mhxx-save-format-community,6,6
-23,黑暗蓝刃,Deep Blue Glaive,mhxx-dex-1.0+mhxx-save-format-community,5,6
-24,碎龙虫棍,Dios Rod,mhxx-dex-1.0+mhxx-save-format-community,3,7
-25,爆碎黑曜杵,Demolition Press,mhxx-dex-1.0+mhxx-save-format-community,6,6
-26,针叶常春藤,Needle Ivy,mhxx-dex-1.0+mhxx-save-format-community,2,8
-27,舞乱棍,Wardance Cudgel,mhxx-dex-1.0+mhxx-save-format-community,1,8
-28,怒怒舞乱棍,Rage Cudgel,mhxx-dex-1.0+mhxx-save-format-community,2,7
-29,甲壳轮棍,Shell Intoner,mhxx-dex-1.0+mhxx-save-format-community,2,8
-30,甲虫三叉戟,Hortadent,mhxx-dex-1.0+mhxx-save-format-community,1,8
-31,教团刀棍,Sect Happa,mhxx-dex-1.0+mhxx-save-format-community,4,6
-32,飞天刀棍,Trim Happa,mhxx-dex-1.0+mhxx-save-format-community,6,5
-33,热雷之电龙棍,Astalos Cudgel,mhxx-dex-1.0+mhxx-save-format-community,3,9
-34,巨兽棍,Giant's Cudgel,mhxx-dex-1.0+mhxx-save-format-community,3,9
-35,狐薙刀【秋风引枝露】,Fox Halberd,mhxx-dex-1.0+mhxx-save-format-community,3,9
-36,灼炎长棍,Flaming Teuza,mhxx-dex-1.0+mhxx-save-format-community,3,9
-37,狙击of戏法,Leumundslist,mhxx-dex-1.0+mhxx-save-format-community,3,7
-38,THE追踪者,Le Traqueur,mhxx-dex-1.0+mhxx-save-format-community,3,8
-39,灵魂钢龙棍,Daora's Entom,mhxx-dex-1.0+mhxx-save-format-community,3,6
-40,轮棍,Caster's Rod,mhxx-dex-1.0+mhxx-save-format-community,3,6
-41,深蓝闪电,Indigo Flash,mhxx-dex-1.0+mhxx-save-format-community,3,7
-42,金碎棍棒,Metal Mauler,mhxx-dex-1.0+mhxx-save-format-community,6,6
-43,鬼神棍【猿王】,Demonlord Cudgel,mhxx-dex-1.0+mhxx-save-format-community,7,5
-44,名为蛇夫的白骸,Skeletal Cudgel,mhxx-dex-1.0+mhxx-save-format-community,3,7
-45,极星棍【蛇夫】,Polaris Zimbal,mhxx-dex-1.0+mhxx-save-format-community,7,5
-46,崩杖虫鸣预言末日,Ukanlos Staff,mhxx-dex-1.0+mhxx-save-format-community,7,5
-47,煌黑龙棍,Alatreon Dragonspire,mhxx-dex-1.0+mhxx-save-format-community,7,5
-48,黑棍,Black Rod,mhxx-dex-1.0+mhxx-save-format-community,3,7
-49,扫棍打磨,Push Broom,mhxx-dex-1.0+mhxx-save-format-community,3,6
-50,魔法少女虫杖,Magia Pitareen,mhxx-dex-1.0+mhxx-save-format-community,2,7
-51,焦香四溢烫手棒,Garia Club,mhxx-dex-1.0+mhxx-save-format-community,4,5
-52,橡子虫棍,Acorn Rod,mhxx-dex-1.0+mhxx-save-format-community,2,6
-53,暴君,Deathport Staff,mhxx-dex-1.0+mhxx-save-format-community,3,7
-54,蟹纹轮棍,Stonefist Caster,mhxx-dex-1.0+mhxx-save-format-community,11,15
-55,疾风虫棍,Nightfall Scythe,mhxx-dex-1.0+mhxx-save-format-community,11,15
-56,宝缠虫棍,Grobo Blow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-57,爆焰长棍,Ashen Teuza,mhxx-dex-1.0+mhxx-save-format-community,11,15
-58,判罪之铳棍J,Conviction Glaive J,mhxx-dex-1.0+mhxx-save-format-community,6,5
-59,阿拉丁之杖,Aladdin's Wand,mhxx-dex-1.0+mhxx-save-format-community,6,5
-60,兽矛,Spear of the Beast,mhxx-dex-1.0+mhxx-save-format-community,6,5
-61,宝棍之金属器,Goldglaive,mhxx-dex-1.0+mhxx-save-format-community,10,3
-62,银翼锐棍,Silverwing Glaive,mhxx-dex-1.0+mhxx-save-format-community,7,6
-63,至极之青电龙棍,Boltreaver Glaive,mhxx-dex-1.0+mhxx-save-format-community,11,5
-64,天眼薙刀･春愁秋思,Melancholy,mhxx-dex-1.0+mhxx-save-format-community,11,5
-65,银峰棍,Elderfrost Club,mhxx-dex-1.0+mhxx-save-format-community,11,5
-66,屠杀棍,Massacre Rod,mhxx-dex-1.0+mhxx-save-format-community,11,5
-67,铠裂虫棍,Razor Reaper,mhxx-dex-1.0+mhxx-save-format-community,11,5
-68,真･黑龙棍【天意】,True Fatalis Teni,mhxx-dex-1.0+mhxx-save-format-community,10,3
-69,黑灭龙棍,Ruiner Glaive,mhxx-dex-1.0+mhxx-save-format-community,10,3
-70,祖龙士兵棍,Fatalis Soldier,mhxx-dex-1.0+mhxx-save-format-community,10,3
-71,碎光黑曜杵,Lightbreak Press,mhxx-dex-1.0+mhxx-save-format-community,10,3
-72,戏法or信任,List/Confiance,mhxx-dex-1.0+mhxx-save-format-community,10,3
-73,铠龙坚骨棍,Graviafaren,mhxx-dex-1.0+mhxx-save-format-community,5,5
-74,角龙角虫棍,Diablos Rod,mhxx-dex-1.0+mhxx-save-format-community,6,5
-75,潜行虫棍,Stealth Glaive,mhxx-dex-1.0+mhxx-save-format-community,4,6
-76,强袭虫棍,Assault Glaive,mhxx-dex-1.0+mhxx-save-format-community,8,3
-77,凶轮【云霓】,Stratus Arc,mhxx-dex-1.0+mhxx-save-format-community,10,3
-78,缭乱辉龙戟,Blossomajesty,mhxx-dex-1.0+mhxx-save-format-community,10,3
-79,天雷棍【麒麟】,Boltbrute,mhxx-dex-1.0+mhxx-save-format-community,9,3
-80,判定未解之棍,Research Glaive,mhxx-dex-1.0+mhxx-save-format-community,6,5
-81,黄金乡之权杖,Eldora Scepter,mhxx-dex-1.0+mhxx-save-format-community,5,5
-82,长者之棍,Elder Rod,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,无,None,mhxx-romfs-game-array,0,0
+1,贝鲁纳虫棍,Petrified Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石棍,Obsidian Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,怪鸟矛,Kut-Ku Pike,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+4,皇家扫帚,Royal Bloom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+5,跳狗龙棍,Fader Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+6,虫棍河鼓二,Altair,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+7,叛逆破棍,Seditious Breaker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+8,隐秘之镰,Hidden Scythe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+9,雷光膛棍,Bolt Chamber,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+10,铁刺刀,Iron Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+11,正负电极管,Arcane Strike,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+12,青之刺刀,Azure Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+13,乾坤火龙棍,Heaven's Rath Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+14,红之枪斧,Crimson Fury,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+15,沙锚,Sand Anchor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+16,鱼鳍鱼叉,Fin Harpoon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+17,冰河虫棍,Névé Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+18,骨制虫棍,Bone Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+19,高空长刃,Sky-high Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+20,如意棒,Mind Stick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+21,坚实长棍,Sturdy Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,火焰斧枪,Flaming Halberd,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+23,黑暗蓝刃,Deep Blue Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+24,碎龙虫棍,Dios Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+25,爆碎黑曜杵,Demolition Press,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+26,针叶常春藤,Needle Ivy,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+27,舞乱棍,Wardance Cudgel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+28,怒怒舞乱棍,Rage Cudgel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+29,甲壳轮棍,Shell Intoner,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+30,甲虫三叉戟,Hortadent,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+31,教团刀棍,Sect Happa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+32,飞天刀棍,Trim Happa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+33,热雷之电龙棍,Astalos Cudgel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+34,巨兽棍,Giant's Cudgel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+35,狐薙刀【秋风引枝露】,Fox Halberd,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+36,灼炎长棍,Flaming Teuza,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+37,狙击of戏法,Leumundslist,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+38,THE追踪者,Le Traqueur,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+39,灵魂钢龙棍,Daora's Entom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+40,轮棍,Caster's Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+41,深蓝闪电,Indigo Flash,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+42,金碎棍棒,Metal Mauler,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+43,鬼神棍【猿王】,Demonlord Cudgel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+44,名为蛇夫的白骸,Skeletal Cudgel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+45,极星棍【蛇夫】,Polaris Zimbal,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+46,崩杖虫鸣预言末日,Ukanlos Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+47,煌黑龙棍,Alatreon Dragonspire,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+48,黑棍,Black Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+49,扫棍打磨,Push Broom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+50,魔法少女虫杖,Magia Pitareen,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+51,焦香四溢烫手棒,Garia Club,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+52,橡子虫棍,Acorn Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+53,暴君,Deathport Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,蟹纹轮棍,Stonefist Caster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+55,疾风虫棍,Nightfall Scythe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+56,宝缠虫棍,Grobo Blow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+57,爆焰长棍,Ashen Teuza,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+58,判罪之铳棍J,Conviction Glaive J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+59,阿拉丁之杖,Aladdin's Wand,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+60,兽矛,Spear of the Beast,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+61,宝棍之金属器,Goldglaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+62,银翼锐棍,Silverwing Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+63,至极之青电龙棍,Boltreaver Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+64,天眼薙刀･春愁秋思,Melancholy,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+65,银峰棍,Elderfrost Club,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+66,屠杀棍,Massacre Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+67,铠裂虫棍,Razor Reaper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+68,真･黑龙棍【天意】,True Fatalis Teni,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+69,黑灭龙棍,Ruiner Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+70,祖龙士兵棍,Fatalis Soldier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+71,碎光黑曜杵,Lightbreak Press,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+72,戏法or信任,List/Confiance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+73,铠龙坚骨棍,Graviafaren,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+74,角龙角虫棍,Diablos Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+75,潜行虫棍,Stealth Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+76,强袭虫棍,Assault Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+77,凶轮【云霓】,Stratus Arc,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+78,缭乱辉龙戟,Blossomajesty,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+79,天雷棍【麒麟】,Boltbrute,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+80,判定未解之棍,Research Glaive,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+81,黄金乡之权杖,Eldora Scepter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+82,长者之棍,Elder Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

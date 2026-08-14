@@ -1,113 +1,113 @@
 id,name,english,source,rarity,max_level
-0,无,None,mhxx-save-format-community,0,0
-1,贝鲁纳号角,Petrified Horn,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,黑曜石号角,Obsidian Horn,mhxx-dex-1.0+mhxx-save-format-community,3,8
-3,狩猎笛参宿七,Vadya Muse,mhxx-dex-1.0+mhxx-save-format-community,3,7
-4,叛逆战笛,Seditious Warhorn,mhxx-dex-1.0+mhxx-save-format-community,6,6
-5,水兽笛,Droth Drone,mhxx-dex-1.0+mhxx-save-format-community,2,9
-6,怪鸟之歌,Kut-Ku's Song,mhxx-dex-1.0+mhxx-save-format-community,2,9
-7,毒笛狂想曲,Poisoned Capri,mhxx-dex-1.0+mhxx-save-format-community,2,9
-8,首鸣龙陶笛,Larinoth Ocarina,mhxx-dex-1.0+mhxx-save-format-community,1,7
-9,铁号角,Iron Horn,mhxx-dex-1.0+mhxx-save-format-community,1,11
-10,炎戈火风琴,Agnakdion,mhxx-dex-1.0+mhxx-save-format-community,6,6
-11,女武神战铃,Valkyrie Chordmaker,mhxx-dex-1.0+mhxx-save-format-community,3,8
-12,金狩猎笛,Gold Chordmaker,mhxx-dex-1.0+mhxx-save-format-community,7,5
-13,金属风笛,Metal Bagpipe,mhxx-dex-1.0+mhxx-save-format-community,2,9
-14,重风笛,Heavy Bagpipe,mhxx-dex-1.0+mhxx-save-format-community,4,7
-15,海龙角笛,Lagia Horn,mhxx-dex-1.0+mhxx-save-format-community,3,8
-16,隐秘音调,Hidden Harmonic,mhxx-dex-1.0+mhxx-save-format-community,2,8
-17,波莉亚芙之笛,Poli'ahu Pipe,mhxx-dex-1.0+mhxx-save-format-community,5,6
-18,63式军乐口风琴,Type 63 Warmonica,mhxx-dex-1.0+mhxx-save-format-community,2,8
-19,音速笛,Sonic Glass,mhxx-dex-1.0+mhxx-save-format-community,1,7
-20,骨号角,Bone Horn,mhxx-dex-1.0+mhxx-save-format-community,1,11
-21,猎人号角,Hunter's Horn,mhxx-dex-1.0+mhxx-save-format-community,3,7
-22,碎龙铃铛,Dios Bell,mhxx-dex-1.0+mhxx-save-format-community,3,7
-23,爆碎破坏铃,Demolition Chime,mhxx-dex-1.0+mhxx-save-format-community,6,6
-24,危险警笛,Danger Call,mhxx-dex-1.0+mhxx-save-format-community,2,7
-25,危机警笛,Hazardous Call,mhxx-dex-1.0+mhxx-save-format-community,5,6
-26,蓝速龙笛,Velociprey Balloon,mhxx-dex-1.0+mhxx-save-format-community,1,8
-27,蓝速龙王笛,Velocidrome Balloon,mhxx-dex-1.0+mhxx-save-format-community,4,6
-28,白速龙笛,Giaprey Balloon,mhxx-dex-1.0+mhxx-save-format-community,1,8
-29,白电号角,Khezu Horn,mhxx-dex-1.0+mhxx-save-format-community,2,7
-30,公牛低吼,Bull Grunt,mhxx-dex-1.0+mhxx-save-format-community,1,8
-31,青熊笛【壹式】,Zurogong Primo,mhxx-dex-1.0+mhxx-save-format-community,1,8
-32,奇猿狐弯笛,Kecha Whappa,mhxx-dex-1.0+mhxx-save-format-community,4,6
-33,奇猿狐动听弯笛,Kecha Thumpa,mhxx-dex-1.0+mhxx-save-format-community,5,6
-34,轰龙纹笛,Striped Dragonga,mhxx-dex-1.0+mhxx-save-format-community,3,7
-35,轰音巨笛,Brazengaita,mhxx-dex-1.0+mhxx-save-format-community,3,8
-36,鬼面木鱼,Demon Block,mhxx-dex-1.0+mhxx-save-format-community,2,9
-37,震山太鼓,Mountain Crusher,mhxx-dex-1.0+mhxx-save-format-community,6,5
-38,甲壳响板,Shell Castanet,mhxx-dex-1.0+mhxx-save-format-community,2,8
-39,虫甲笛零式,Vicello Nulo,mhxx-dex-1.0+mhxx-save-format-community,1,9
-40,绿虫甲笛零式,Vicello Nulo (G),mhxx-dex-1.0+mhxx-save-format-community,2,8
-41,红虫甲笛零式,Vicello Nulo (R),mhxx-dex-1.0+mhxx-save-format-community,2,8
-42,白虫甲笛零式,Vicello Nulo (W),mhxx-dex-1.0+mhxx-save-format-community,2,8
-43,王琴轰雷,Usurper's Growl,mhxx-dex-1.0+mhxx-save-format-community,3,7
-44,夜鸟琴,Fool's Harp,mhxx-dex-1.0+mhxx-save-format-community,2,9
-45,熔岩竖琴,Lava Alphorn,mhxx-dex-1.0+mhxx-save-format-community,5,5
-46,三味线【乌】,Raven Shamisen,mhxx-dex-1.0+mhxx-save-format-community,3,7
-47,三味线【兇】,Vile Shamisen,mhxx-dex-1.0+mhxx-save-format-community,6,5
-48,雪狮琴,Dodotto Horn,mhxx-dex-1.0+mhxx-save-format-community,2,7
-49,绿宝石狩猎笛,Emerald Flap,mhxx-dex-1.0+mhxx-save-format-community,3,9
-50,巨兽弦琴,Giant's Koto,mhxx-dex-1.0+mhxx-save-format-community,3,9
-51,狐铃【无言亦无声】,Poetic Bell,mhxx-dex-1.0+mhxx-save-format-community,3,9
-52,灼炎狩猎笛,Hell Horn,mhxx-dex-1.0+mhxx-save-format-community,3,9
-53,音色of哭号,Kummerklang,mhxx-dex-1.0+mhxx-save-format-community,3,7
-54,THE安魂曲,La Sépulture,mhxx-dex-1.0+mhxx-save-format-community,3,8
-55,占卜陶笛,Blessed Ocarina,mhxx-dex-1.0+mhxx-save-format-community,3,6
-56,炎王之弦,Teostra's Tiple,mhxx-dex-1.0+mhxx-save-format-community,3,6
-57,电电太鼓,Denden Daiko,mhxx-dex-1.0+mhxx-save-format-community,6,6
-58,名为处女的白骸,Skeletal Melody,mhxx-dex-1.0+mhxx-save-format-community,3,7
-59,极星笛【处女】,Polaris Wraith,mhxx-dex-1.0+mhxx-save-format-community,7,5
-60,霸笛音神,Akantor Horn,mhxx-dex-1.0+mhxx-save-format-community,7,5
-61,崩笛倾听世界崩坍,Ukanlos Horned Flute,mhxx-dex-1.0+mhxx-save-format-community,7,5
-62,凶琴【秋岚】,Autumn Lute,mhxx-dex-1.0+mhxx-save-format-community,7,5
-63,严重风化的狩猎笛,Worn Horn,mhxx-dex-1.0+mhxx-save-format-community,4,7
-64,未来音乐盒,Avenir's Music Box,mhxx-dex-1.0+mhxx-save-format-community,6,5
-65,钢龙狩猎笛,Daora's Taus,mhxx-dex-1.0+mhxx-save-format-community,7,5
-66,黑鲁特琴,Black Lute,mhxx-dex-1.0+mhxx-save-format-community,3,7
-67,结云之笛,Yukumo Flute,mhxx-dex-1.0+mhxx-save-format-community,1,8
-68,真结云笛,Yukumo Pureflute,mhxx-dex-1.0+mhxx-save-format-community,3,6
-69,贝鲁纳钟,Bherna Chime,mhxx-dex-1.0+mhxx-save-format-community,2,6
-70,飞艇号角,Airship Horn,mhxx-dex-1.0+mhxx-save-format-community,2,6
-71,青蛙笛,Handmade Frog,mhxx-dex-1.0+mhxx-save-format-community,2,6
-72,魔幻笛,Magia Charm,mhxx-dex-1.0+mhxx-save-format-community,2,6
-73,波浪贝笛,Swell Shell,mhxx-dex-1.0+mhxx-save-format-community,2,6
-74,蕨类之风,Azumand Wind,mhxx-dex-1.0+mhxx-save-format-community,3,6
-75,龙之轰吼,Poison Fungasax,mhxx-dex-1.0+mhxx-save-format-community,2,7
-76,蜘蛛琴,Cornupion,mhxx-dex-1.0+mhxx-save-format-community,3,7
-77,红锣【壹之薙】,Crimson Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-78,紫毒姬之笛,Royal Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-79,鬼面鸣门木鱼,Pierce Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-80,疾风狩猎笛,Nightfall Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-81,宝缠之笛,Geode Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-82,三味线【祸】,Hardened Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-83,黑炎王狩猎笛,Tomb Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-84,金狼琴轰雷,Raiden Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-85,暴风神锣笛,Seize Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-86,爆焰狩猎笛,Magma Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
-87,闪电之力,Blitz Works,mhxx-dex-1.0+mhxx-save-format-community,6,5
-88,DUMMY,DUMMY,mhxx-save-format-community-en-fallback,0,5
-89,应援团笛【百万分贝】,Megaphone,mhxx-dex-1.0+mhxx-save-format-community,6,5
-90,宝笛之金属器,Goldhorn,mhxx-dex-1.0+mhxx-save-format-community,10,3
-91,银翼拍笛,Silverwing Horn,mhxx-dex-1.0+mhxx-save-format-community,7,6
-92,青电主笛,Zephra Glide,mhxx-dex-1.0+mhxx-save-format-community,11,5
-93,天眼铃･千里结言,Vagrant's Itinerary,mhxx-dex-1.0+mhxx-save-format-community,11,5
-94,银峰弦琴,Elderfrost Lute,mhxx-dex-1.0+mhxx-save-format-community,11,5
-95,铠裂笛,Razor Castanet,mhxx-dex-1.0+mhxx-save-format-community,11,5
-96,胧隐笛,Cloaked Lyre,mhxx-dex-1.0+mhxx-save-format-community,11,5
-97,红龙笛【血魂】,Fatalis Firelied,mhxx-dex-1.0+mhxx-save-format-community,10,3
-98,祖龙谎言,Old Fatalis Lied,mhxx-dex-1.0+mhxx-save-format-community,10,3
-99,碎光阳铃,Lightbreak Timbre,mhxx-dex-1.0+mhxx-save-format-community,10,3
-100,欢笑or哭泣,Lache/Sanglot,mhxx-dex-1.0+mhxx-save-format-community,10,3
-101,岩龙贝斯,Basarios Rock,mhxx-dex-1.0+mhxx-save-format-community,4,5
-102,火山摇滚演唱会,Volcanic Rock,mhxx-dex-1.0+mhxx-save-format-community,8,3
-103,邦哥战鼓,War Bongo,mhxx-dex-1.0+mhxx-save-format-community,5,6
-104,刮壶打击笛,Bariguiro,mhxx-dex-1.0+mhxx-save-format-community,5,5
-105,土砂笙【战之音】,Sandpipe,mhxx-dex-1.0+mhxx-save-format-community,4,5
-106,岩石笙【越之音】,Sandsinger,mhxx-dex-1.0+mhxx-save-format-community,8,3
-107,战鼓,War Drum,mhxx-dex-1.0+mhxx-save-format-community,4,5
-108,皇家琉璃铃,Glass Royale,mhxx-dex-1.0+mhxx-save-format-community,8,3
-109,首航纪念之莫斯卡,Memento Mosca,mhxx-dex-1.0+mhxx-save-format-community,8,3
-110,响彻未解之笛,Research Horn,mhxx-dex-1.0+mhxx-save-format-community,6,5
-111,长者之笛,Elder Horn,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,无,None,mhxx-romfs-game-array,0,0
+1,贝鲁纳号角,Petrified Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石号角,Obsidian Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,狩猎笛参宿七,Vadya Muse,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+4,叛逆战笛,Seditious Warhorn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+5,水兽笛,Droth Drone,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+6,怪鸟之歌,Kut-Ku's Song,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+7,毒笛狂想曲,Poisoned Capri,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+8,首鸣龙陶笛,Larinoth Ocarina,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,7
+9,铁号角,Iron Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+10,炎戈火风琴,Agnakdion,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+11,女武神战铃,Valkyrie Chordmaker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+12,金狩猎笛,Gold Chordmaker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+13,金属风笛,Metal Bagpipe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+14,重风笛,Heavy Bagpipe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+15,海龙角笛,Lagia Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+16,隐秘音调,Hidden Harmonic,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+17,波莉亚芙之笛,Poli'ahu Pipe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+18,63式军乐口风琴,Type 63 Warmonica,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+19,音速笛,Sonic Glass,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,7
+20,骨号角,Bone Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+21,猎人号角,Hunter's Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,碎龙铃铛,Dios Bell,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+23,爆碎破坏铃,Demolition Chime,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+24,危险警笛,Danger Call,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+25,危机警笛,Hazardous Call,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+26,蓝速龙笛,Velociprey Balloon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+27,蓝速龙王笛,Velocidrome Balloon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+28,白速龙笛,Giaprey Balloon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+29,白电号角,Khezu Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+30,公牛低吼,Bull Grunt,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+31,青熊笛【壹式】,Zurogong Primo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+32,奇猿狐弯笛,Kecha Whappa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+33,奇猿狐动听弯笛,Kecha Thumpa,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+34,轰龙纹笛,Striped Dragonga,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+35,轰音巨笛,Brazengaita,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+36,鬼面木鱼,Demon Block,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+37,震山太鼓,Mountain Crusher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+38,甲壳响板,Shell Castanet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+39,虫甲笛零式,Vicello Nulo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+40,绿虫甲笛零式,Vicello Nulo (G),mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+41,红虫甲笛零式,Vicello Nulo (R),mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+42,白虫甲笛零式,Vicello Nulo (W),mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+43,王琴轰雷,Usurper's Growl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+44,夜鸟琴,Fool's Harp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+45,熔岩竖琴,Lava Alphorn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+46,三味线【乌】,Raven Shamisen,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+47,三味线【兇】,Vile Shamisen,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+48,雪狮琴,Dodotto Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+49,绿宝石狩猎笛,Emerald Flap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+50,巨兽弦琴,Giant's Koto,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+51,狐铃【无言亦无声】,Poetic Bell,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+52,灼炎狩猎笛,Hell Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+53,音色of哭号,Kummerklang,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,THE安魂曲,La Sépulture,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+55,占卜陶笛,Blessed Ocarina,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+56,炎王之弦,Teostra's Tiple,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+57,电电太鼓,Denden Daiko,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+58,名为处女的白骸,Skeletal Melody,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+59,极星笛【处女】,Polaris Wraith,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+60,霸笛音神,Akantor Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+61,崩笛倾听世界崩坍,Ukanlos Horned Flute,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+62,凶琴【秋岚】,Autumn Lute,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+63,严重风化的狩猎笛,Worn Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+64,未来音乐盒,Avenir's Music Box,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+65,钢龙狩猎笛,Daora's Taus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+66,黑鲁特琴,Black Lute,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+67,结云之笛,Yukumo Flute,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+68,真结云笛,Yukumo Pureflute,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+69,贝鲁纳钟,Bherna Chime,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+70,飞艇号角,Airship Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+71,青蛙笛,Handmade Frog,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+72,魔幻笛,Magia Charm,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+73,波浪贝笛,Swell Shell,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+74,蕨类之风,Azumand Wind,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+75,龙之轰吼,Poison Fungasax,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+76,蜘蛛琴,Cornupion,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+77,红锣【壹之薙】,Crimson Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+78,紫毒姬之笛,Royal Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+79,鬼面鸣门木鱼,Pierce Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+80,疾风狩猎笛,Nightfall Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+81,宝缠之笛,Geode Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+82,三味线【祸】,Hardened Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+83,黑炎王狩猎笛,Tomb Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+84,金狼琴轰雷,Raiden Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+85,暴风神锣笛,Seize Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+86,爆焰狩猎笛,Magma Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+87,闪电之力,Blitz Works,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+88,懒蛋蛋平底锅,Gudetama Frying Pan,mhxx-romfs-game-array+mhxx-reviewed-game-only-translation,0,5
+89,应援团笛【百万分贝】,Megaphone,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+90,宝笛之金属器,Goldhorn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+91,银翼拍笛,Silverwing Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+92,青电主笛,Zephra Glide,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+93,天眼铃･千里结言,Vagrant's Itinerary,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+94,银峰弦琴,Elderfrost Lute,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+95,铠裂笛,Razor Castanet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+96,胧隐笛,Cloaked Lyre,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+97,红龙笛【血魂】,Fatalis Firelied,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+98,祖龙谎言,Old Fatalis Lied,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+99,碎光阳铃,Lightbreak Timbre,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+100,欢笑or哭泣,Lache/Sanglot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+101,岩龙贝斯,Basarios Rock,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+102,火山摇滚演唱会,Volcanic Rock,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+103,邦哥战鼓,War Bongo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+104,刮壶打击笛,Bariguiro,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+105,土砂笙【战之音】,Sandpipe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+106,岩石笙【越之音】,Sandsinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+107,战鼓,War Drum,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+108,皇家琉璃铃,Glass Royale,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+109,首航纪念之莫斯卡,Memento Mosca,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+110,响彻未解之笛,Research Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+111,长者之笛,Elder Horn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

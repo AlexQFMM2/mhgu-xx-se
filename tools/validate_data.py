@@ -21,6 +21,32 @@ EXPECTED_PALICO_COUNTS = {
     "palico_generation_patterns.csv": 15,
 }
 
+EXPECTED_GAME_COUNTS = {
+    "items": 2991,
+    "armor_head": 1287,
+    "armor_chest": 1287,
+    "armor_arms": 1287,
+    "armor_waist": 1287,
+    "armor_legs": 1287,
+    "weapon_great_sword": 137,
+    "weapon_sword_and_shield": 129,
+    "weapon_hammer": 132,
+    "weapon_lance": 127,
+    "weapon_light_bowgun": 110,
+    "weapon_heavy_bowgun": 109,
+    "weapon_long_sword": 127,
+    "weapon_switch_axe": 110,
+    "weapon_gunlance": 115,
+    "weapon_bow": 108,
+    "weapon_dual_blades": 126,
+    "weapon_hunting_horn": 112,
+    "weapon_insect_glaive": 83,
+    "weapon_charge_blade": 81,
+    "palico_weapons": 509,
+    "palico_head": 527,
+    "palico_armor": 527,
+}
+
 
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
@@ -57,15 +83,28 @@ def id_index(path: Path, rows: list[dict[str, str]]) -> dict[int, dict[str, str]
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("data", type=Path)
+    parser.add_argument("--game-names", type=Path)
     args = parser.parse_args()
     root = args.data
 
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     require(manifest.get("format") == "mhxx-save-editor-data-v1", "unsupported manifest format")
+    require(manifest.get("generator_version") == "2.0.0", "unsupported generator version")
     require(
         bool(manifest.get("sources", {}).get("palico_cn_translation_sha256")),
         "manifest is missing the Palico Chinese translation hash",
     )
+    game_resource = manifest.get("game_resource", {})
+    require(game_resource.get("format") == "mhxx-game-name-export-v1", "missing game-resource export metadata")
+    require(game_resource.get("language") == "jp", "game-resource language must be jp")
+    require(game_resource.get("tables") == EXPECTED_GAME_COUNTS, "game-resource table counts differ")
+    require(len(game_resource.get("sources", [])) == 36, "expected 36 hashed game-resource source files")
+    for entry in game_resource.get("sources", []):
+        digest = entry.get("sha256", "")
+        require(
+            len(digest) == 64 and all(character in "0123456789abcdef" for character in digest),
+            f"invalid game-resource SHA-256 for {entry.get('file')}",
+        )
     manifest_files = {entry["path"]: entry for entry in manifest["files"]}
     disk_files = {
         path.relative_to(root).as_posix()
@@ -118,6 +157,13 @@ def main() -> int:
             )
 
     for language in ("cn", "en"):
+        item_ids = sorted(indexes[f"{language}/items.csv"])
+        require(item_ids == list(range(EXPECTED_GAME_COUNTS["items"])), f"{language}/items.csv: IDs are not 0..2990")
+        for key, count in EXPECTED_GAME_COUNTS.items():
+            if not key.startswith("weapon_"):
+                continue
+            ids = sorted(indexes[f"{language}/{key}.csv"])
+            require(ids == list(range(count)), f"{language}/{key}.csv: IDs do not cover the game array")
         for name, expected in EXPECTED_PALICO_COUNTS.items():
             actual = len(tables[f"{language}/{name}"])
             require(actual == expected, f"{language}/{name}: expected {expected} rows, found {actual}")
@@ -165,6 +211,42 @@ def main() -> int:
                 not row["source"].endswith("-en-fallback"),
                 f"cn/{name}: id {identifier} is still marked as English fallback",
             )
+
+    if args.game_names is not None:
+        game_export = json.loads(args.game_names.read_text(encoding="utf-8"))
+        require(game_export.get("format") == "mhxx-game-name-export-v1", "unsupported game name export")
+        require(game_export.get("language") == "jp", "game name export language must be jp")
+        require(sha256(args.game_names) == game_resource.get("export_sha256"), "game name export hash differs from manifest")
+        tables_from_game = game_export.get("tables", {})
+        require(
+            {key: len(value) for key, value in tables_from_game.items()} == EXPECTED_GAME_COUNTS,
+            "supplied game name export counts differ",
+        )
+        for language in ("cn", "en"):
+            require(
+                set(indexes[f"{language}/items.csv"]) == set(range(len(tables_from_game["items"]))),
+                f"{language}/items.csv differs from game ID set",
+            )
+            for key in ("armor_head", "armor_chest", "armor_arms", "armor_waist", "armor_legs"):
+                expected = {
+                    identifier for identifier, japanese in enumerate(tables_from_game[key])
+                    if identifier == 0 or japanese not in {"装備なし", "装備無し"}
+                }
+                require(set(indexes[f"{language}/{key}.csv"]) == expected, f"{language}/{key}.csv differs from game ID set")
+            for key in (name for name in EXPECTED_GAME_COUNTS if name.startswith("weapon_")):
+                require(
+                    set(indexes[f"{language}/{key}.csv"]) == set(range(len(tables_from_game[key]))),
+                    f"{language}/{key}.csv differs from game ID set",
+                )
+            require(
+                set(indexes[f"{language}/palico_weapons.csv"]) == set(range(len(tables_from_game["palico_weapons"]))),
+                f"{language}/palico_weapons.csv differs from game ID set",
+            )
+            for key in ("palico_head", "palico_armor"):
+                expected = {
+                    identifier for identifier, japanese in enumerate(tables_from_game[key]) if japanese != "―"
+                }
+                require(set(indexes[f"{language}/{key}.csv"]) == expected, f"{language}/{key}.csv differs from game ID set")
 
     print(f"validated {len(disk_files)} CSV files ({sum(len(rows) for rows in tables.values())} rows)")
     return 0

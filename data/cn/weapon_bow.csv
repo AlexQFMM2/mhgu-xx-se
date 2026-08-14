@@ -1,109 +1,109 @@
 id,name,english,source,rarity,max_level
-0,无,None,mhxx-save-format-community,0,0
-1,贝鲁纳弓,Petrified Bow,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,黑曜石弓,Obsidian Bow,mhxx-dex-1.0+mhxx-save-format-community,3,7
-3,王弓远雷,Usurper's Rumble,mhxx-dex-1.0+mhxx-save-format-community,3,7
-4,铬黄飞虫坚弓零式,Arko Nulo (Y),mhxx-dex-1.0+mhxx-save-format-community,1,8
-5,雪白飞虫坚弓零式,Arko Nulo (W),mhxx-dex-1.0+mhxx-save-format-community,1,8
-6,音速弓,Sonic Bow,mhxx-dex-1.0+mhxx-save-format-community,2,8
-7,翅弓蜉蝣,Heat Haze,mhxx-dex-1.0+mhxx-save-format-community,4,5
-8,阴柔鞘翅弓,Feminine Haze,mhxx-dex-1.0+mhxx-save-format-community,5,7
-9,羽饰弓,Plume Bow,mhxx-dex-1.0+mhxx-save-format-community,1,9
-10,隐秘长弓,Hidden Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
-11,大钳水弓,Daimyo's Warbow,mhxx-dex-1.0+mhxx-save-format-community,2,8
-12,蓝锋弓,Bear Blade Bow,mhxx-dex-1.0+mhxx-save-format-community,4,6
-13,强力猎弓,Hunter's Stoutbow,mhxx-dex-1.0+mhxx-save-format-community,1,11
-14,耀金弓,Yekla Arc,mhxx-dex-1.0+mhxx-save-format-community,3,6
-15,鬼兜七尺弓,Demon Helm Bow,mhxx-dex-1.0+mhxx-save-format-community,4,6
-16,烈阳弓,Prominence Bow,mhxx-dex-1.0+mhxx-save-format-community,3,7
-17,女王猎弓,Queen Blaster,mhxx-dex-1.0+mhxx-save-format-community,2,7
-18,64式连装弓,Type 64 Multibow,mhxx-dex-1.0+mhxx-save-format-community,2,8
-19,轰龙弓,Tigrex Archer,mhxx-dex-1.0+mhxx-save-format-community,3,6
-20,弓箭箕宿一,Shalya Bow,mhxx-dex-1.0+mhxx-save-format-community,3,6
-21,叛逆穿箭,Seditious Arrow,mhxx-dex-1.0+mhxx-save-format-community,6,6
-22,爆锤震弓,Brazencord,mhxx-dex-1.0+mhxx-save-format-community,3,7
-23,碎龙箭,Dios Flier,mhxx-dex-1.0+mhxx-save-format-community,3,5
-24,爆碎征箭,Demolition Bow,mhxx-dex-1.0+mhxx-save-format-community,6,6
-25,六花晶弓,Crystalline Flower,mhxx-dex-1.0+mhxx-save-format-community,2,8
-26,冰蓝寒光,Blue Alighter,mhxx-dex-1.0+mhxx-save-format-community,4,5
-27,冰冷光弓,Ice Cold Alighter,mhxx-dex-1.0+mhxx-save-format-community,5,5
-28,白电弓,Khezu Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
-29,猎弓,Hunter's Bow,mhxx-dex-1.0+mhxx-save-format-community,1,11
-30,鹿角的弹弓,Kelbi Stingshot,mhxx-dex-1.0+mhxx-save-format-community,4,6
-31,鸟币弓,Kut-Ku Stave,mhxx-dex-1.0+mhxx-save-format-community,2,8
-32,弓【乌】,Crow Bow,mhxx-dex-1.0+mhxx-save-format-community,3,5
-33,弓【兇】,Vile Bow,mhxx-dex-1.0+mhxx-save-format-community,6,5
-34,雪毛皮弓,Blango Fur Bow,mhxx-dex-1.0+mhxx-save-format-community,1,7
-35,寒冰皮弓,Abominable Bow,mhxx-dex-1.0+mhxx-save-format-community,5,7
-36,海绵齿轮,Spongia Bow,mhxx-dex-1.0+mhxx-save-format-community,2,8
-37,雷光弓,Voltsender,mhxx-dex-1.0+mhxx-save-format-community,3,7
-38,严重风化的弓,Worn Bow,mhxx-dex-1.0+mhxx-save-format-community,4,8
-39,天使之足,Angelbein,mhxx-dex-1.0+mhxx-save-format-community,6,5
-40,钢冰马弓,Icesteel Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
-41,强狩猎弓,Arca Raptora,mhxx-dex-1.0+mhxx-save-format-community,4,7
-42,霹雳弓,Lightning Bow,mhxx-dex-1.0+mhxx-save-format-community,3,7
-43,巨兽弓,Giant's Bow,mhxx-dex-1.0+mhxx-save-format-community,3,7
-44,狐弓【露湿乱世情】,Blessed Rain,mhxx-dex-1.0+mhxx-save-format-community,3,7
-45,灼炎长弓,Ashen Wrath,mhxx-dex-1.0+mhxx-save-format-community,3,7
-46,视野of失落,Entbehrung,mhxx-dex-1.0+mhxx-save-format-community,3,6
-47,THE俘虏者,Le Ravisseur,mhxx-dex-1.0+mhxx-save-format-community,6,6
-48,魔弓大魔导书,Genie's Grimoire,mhxx-dex-1.0+mhxx-save-format-community,7,5
-49,勇气与希望之凄弓,Bow of Hope & Valor,mhxx-dex-1.0+mhxx-save-format-community,3,6
-50,名为白羊的白骸,Skeletal Bow,mhxx-dex-1.0+mhxx-save-format-community,3,6
-51,极星弓【白羊】,Polar Avian Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
-52,雷弓【兽王】,Beast Thunderbow,mhxx-dex-1.0+mhxx-save-format-community,6,5
-53,雷公弓,Archbeast Thunderbow,mhxx-dex-1.0+mhxx-save-format-community,7,5
-54,开天的亥伯龙神,Hyperion,mhxx-dex-1.0+mhxx-save-format-community,7,5
-55,穿月之塞勒涅,Selene Moonbroken,mhxx-dex-1.0+mhxx-save-format-community,7,5
-56,霸弓风神,Akantor Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
-57,崩弓贯射星空,Ukanlos Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
-58,煌黑强弓,Alatreon Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
-59,凶弓【小夜岚】,Tempest Nightbow,mhxx-dex-1.0+mhxx-save-format-community,7,5
-60,花之塔,Ivory Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
-61,黑弓,Onyx Bow,mhxx-dex-1.0+mhxx-save-format-community,3,6
-62,结云弓,Yukumo Bow,mhxx-dex-1.0+mhxx-save-format-community,1,8
-63,真结云弓,Yukumo Purebow,mhxx-dex-1.0+mhxx-save-format-community,3,6
-64,竹取弓,Bamboo Taketori,mhxx-dex-1.0+mhxx-save-format-community,2,8
-65,龙头琴,Seahorse Harp,mhxx-dex-1.0+mhxx-save-format-community,5,5
-66,旗鱼骨弓【鱼骨】,Morsel Bowfish,mhxx-dex-1.0+mhxx-save-format-community,1,8
-67,混沌之弓,Chaos Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
-68,猫贰玖弓,Felyne Bow,mhxx-dex-1.0+mhxx-save-format-community,2,8
-69,蜘蛛弓,Arachnid Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
-70,红熊大弓,Crimson Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-71,蟹纹弓,Stonefist Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-72,紫毒姬猎弓,Royal Blaster,mhxx-dex-1.0+mhxx-save-format-community,11,15
-73,鬼涛七尺弓,Demonic Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-74,疾风弓,Silverwind Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-75,宝缠弓,Grobo Arc,mhxx-dex-1.0+mhxx-save-format-community,11,15
-76,弓【祸】,Wicked Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-77,黑炎王弓,Dread Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-78,金狼弓远雷,Rumble Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-79,暴风神长弓,Rudra Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
-80,爆焰弓星,Hellish Wrath,mhxx-dex-1.0+mhxx-save-format-community,11,15
-81,勇者之弓,Hero's Bow,mhxx-dex-1.0+mhxx-save-format-community,6,5
-82,宝弓之金属器,Goldbow,mhxx-dex-1.0+mhxx-save-format-community,10,3
-83,银翼大弓,Silverwing Bow,mhxx-dex-1.0+mhxx-save-format-community,7,6
-84,青电主弓,Zephra Bow,mhxx-dex-1.0+mhxx-save-format-community,11,5
-85,天眼弓･露往霜来,Perennial Winter,mhxx-dex-1.0+mhxx-save-format-community,11,5
-86,银峰弓,Elderfrost Bow,mhxx-dex-1.0+mhxx-save-format-community,11,5
-87,屠杀弓,Massacre Bow,mhxx-dex-1.0+mhxx-save-format-community,11,5
-88,铠裂弓,Razor Striker,mhxx-dex-1.0+mhxx-save-format-community,11,5
-89,龙弓【国崩】,Kingdomfall,mhxx-dex-1.0+mhxx-save-format-community,10,3
-90,击灭与破坏之刚弓,Bow of Toil & Turmoil,mhxx-dex-1.0+mhxx-save-format-community,10,3
-91,愤怒与惨祸之爆弓,Bow of Ire & Anguish,mhxx-dex-1.0+mhxx-save-format-community,10,3
-92,胜利与荣光之勇弓,Glory and Grandeur,mhxx-dex-1.0+mhxx-save-format-community,10,3
-93,碎光闪箭,Lightbreak Bow,mhxx-dex-1.0+mhxx-save-format-community,10,3
-94,获得or失去,Gewinn/Perte,mhxx-dex-1.0+mhxx-save-format-community,10,3
-95,角龙角弓,Diablos Coilbender,mhxx-dex-1.0+mhxx-save-format-community,6,5
-96,强力狂野弓,Savage Wildbow,mhxx-dex-1.0+mhxx-save-format-community,5,6
-97,冰柱发射者,Ice Crest,mhxx-dex-1.0+mhxx-save-format-community,5,5
-98,影蜘蛛柔韧弓,Scylla Fist,mhxx-dex-1.0+mhxx-save-format-community,4,6
-99,影蜘蛛捕食弓,Scylla Weave,mhxx-dex-1.0+mhxx-save-format-community,8,3
-100,狂野弓,Wild Bow,mhxx-dex-1.0+mhxx-save-format-community,4,5
-101,王牙弓【滚雷】,Despot's Shock,mhxx-dex-1.0+mhxx-save-format-community,9,3
-102,吹向未解之弓,Research Bow,mhxx-dex-1.0+mhxx-save-format-community,6,5
-103,卡洋茶弹弓,Kayamcha Slinger,mhxx-dex-1.0+mhxx-save-format-community,9,3
-104,维多利亚之翼,Ala Victoria,mhxx-dex-1.0+mhxx-save-format-community,9,3
-105,长者之弓,Elder Bow,mhxx-dex-1.0+mhxx-save-format-community,8,3
-106,海盗J之弓,Pirate Bow J,mhxx-dex-1.0+mhxx-save-format-community,6,4
-107,古代兵装･弓,Ancient Bow,mhxx-dex-1.0+mhxx-save-format-community,6,4
+0,无,None,mhxx-romfs-game-array,0,0
+1,贝鲁纳弓,Petrified Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石弓,Obsidian Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+3,王弓远雷,Usurper's Rumble,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+4,铬黄飞虫坚弓零式,Arko Nulo (Y),mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+5,雪白飞虫坚弓零式,Arko Nulo (W),mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+6,音速弓,Sonic Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+7,翅弓蜉蝣,Heat Haze,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+8,阴柔鞘翅弓,Feminine Haze,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,7
+9,羽饰弓,Plume Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+10,隐秘长弓,Hidden Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+11,大钳水弓,Daimyo's Warbow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+12,蓝锋弓,Bear Blade Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+13,强力猎弓,Hunter's Stoutbow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+14,耀金弓,Yekla Arc,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+15,鬼兜七尺弓,Demon Helm Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+16,烈阳弓,Prominence Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+17,女王猎弓,Queen Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+18,64式连装弓,Type 64 Multibow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+19,轰龙弓,Tigrex Archer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+20,弓箭箕宿一,Shalya Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+21,叛逆穿箭,Seditious Arrow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+22,爆锤震弓,Brazencord,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+23,碎龙箭,Dios Flier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+24,爆碎征箭,Demolition Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+25,六花晶弓,Crystalline Flower,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+26,冰蓝寒光,Blue Alighter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+27,冰冷光弓,Ice Cold Alighter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+28,白电弓,Khezu Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+29,猎弓,Hunter's Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+30,鹿角的弹弓,Kelbi Stingshot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+31,鸟币弓,Kut-Ku Stave,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+32,弓【乌】,Crow Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+33,弓【兇】,Vile Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+34,雪毛皮弓,Blango Fur Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,7
+35,寒冰皮弓,Abominable Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,7
+36,海绵齿轮,Spongia Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+37,雷光弓,Voltsender,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+38,严重风化的弓,Worn Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,8
+39,天使之足,Angelbein,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+40,钢冰马弓,Icesteel Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+41,强狩猎弓,Arca Raptora,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+42,霹雳弓,Lightning Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+43,巨兽弓,Giant's Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+44,狐弓【露湿乱世情】,Blessed Rain,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+45,灼炎长弓,Ashen Wrath,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+46,视野of失落,Entbehrung,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+47,THE俘虏者,Le Ravisseur,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+48,魔弓大魔导书,Genie's Grimoire,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+49,勇气与希望之凄弓,Bow of Hope & Valor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+50,名为白羊的白骸,Skeletal Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+51,极星弓【白羊】,Polar Avian Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+52,雷弓【兽王】,Beast Thunderbow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+53,雷公弓,Archbeast Thunderbow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+54,开天的亥伯龙神,Hyperion,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+55,穿月之塞勒涅,Selene Moonbroken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+56,霸弓风神,Akantor Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+57,崩弓贯射星空,Ukanlos Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+58,煌黑强弓,Alatreon Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+59,凶弓【小夜岚】,Tempest Nightbow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+60,花之塔,Ivory Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+61,黑弓,Onyx Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+62,结云弓,Yukumo Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+63,真结云弓,Yukumo Purebow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+64,竹取弓,Bamboo Taketori,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+65,龙头琴,Seahorse Harp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+66,旗鱼骨弓【鱼骨】,Morsel Bowfish,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+67,混沌之弓,Chaos Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+68,猫贰玖弓,Felyne Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+69,蜘蛛弓,Arachnid Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+70,红熊大弓,Crimson Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+71,蟹纹弓,Stonefist Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+72,紫毒姬猎弓,Royal Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+73,鬼涛七尺弓,Demonic Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+74,疾风弓,Silverwind Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+75,宝缠弓,Grobo Arc,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+76,弓【祸】,Wicked Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+77,黑炎王弓,Dread Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+78,金狼弓远雷,Rumble Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+79,暴风神长弓,Rudra Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+80,爆焰弓星,Hellish Wrath,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+81,勇者之弓,Hero's Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+82,宝弓之金属器,Goldbow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+83,银翼大弓,Silverwing Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+84,青电主弓,Zephra Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+85,天眼弓･露往霜来,Perennial Winter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+86,银峰弓,Elderfrost Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+87,屠杀弓,Massacre Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+88,铠裂弓,Razor Striker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+89,龙弓【国崩】,Kingdomfall,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+90,击灭与破坏之刚弓,Bow of Toil & Turmoil,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+91,愤怒与惨祸之爆弓,Bow of Ire & Anguish,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+92,胜利与荣光之勇弓,Glory and Grandeur,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+93,碎光闪箭,Lightbreak Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+94,获得or失去,Gewinn/Perte,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+95,角龙角弓,Diablos Coilbender,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+96,强力狂野弓,Savage Wildbow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+97,冰柱发射者,Ice Crest,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+98,影蜘蛛柔韧弓,Scylla Fist,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+99,影蜘蛛捕食弓,Scylla Weave,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+100,狂野弓,Wild Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+101,王牙弓【滚雷】,Despot's Shock,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+102,吹向未解之弓,Research Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+103,卡洋茶弹弓,Kayamcha Slinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+104,维多利亚之翼,Ala Victoria,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+105,长者之弓,Elder Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+106,海盗J之弓,Pirate Bow J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,4
+107,古代兵装･弓,Ancient Bow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,4

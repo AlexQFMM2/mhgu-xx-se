@@ -1,133 +1,133 @@
 id,name,english,source,rarity,max_level
-0,None,None,mhxx-save-format-community,0,0
-1,Petrified Hammer,Petrified Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,Obsidian Hammer,Obsidian Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,8
-3,Fist of Fury,Fist of Fury,mhxx-dex-1.0+mhxx-save-format-community,4,6
-4,Striped Striker,Striped Striker,mhxx-dex-1.0+mhxx-save-format-community,3,7
-5,Great Nova,Great Nova,mhxx-dex-1.0+mhxx-save-format-community,2,8
-6,Brazenclout,Brazenclout,mhxx-dex-1.0+mhxx-save-format-community,3,7
-7,Type 42 Shellbuster,Type 42 Shellbuster,mhxx-dex-1.0+mhxx-save-format-community,2,7
-8,Iron Hammer,Iron Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,11
-9,Devil Masher,Devil Masher,mhxx-dex-1.0+mhxx-save-format-community,5,7
-10,Anvil Hammer,Anvil Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,8
-11,Accelerated Hammer,Accelerated Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,7
-12,Nitro Boost Hammer,Nitro Boost Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-13,Binding Bludgeon,Binding Bludgeon,mhxx-dex-1.0+mhxx-save-format-community,2,8
-14,War Hammer,War Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,9
-15,War Stamp,War Stamp,mhxx-dex-1.0+mhxx-save-format-community,5,5
-16,Iron Striker,Iron Striker,mhxx-dex-1.0+mhxx-save-format-community,4,6
-17,Mane Malice,Mane Malice,mhxx-dex-1.0+mhxx-save-format-community,6,6
-18,Demonlord Hammer,Demonlord Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-19,Gun Hammer,Gun Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,8
-20,Shot Crusher,Shot Crusher,mhxx-dex-1.0+mhxx-save-format-community,6,5
-21,Spiked Hammer,Spiked Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,10
-22,Vortex Hammer,Vortex Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-23,Vortical Hammer,Vortical Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,6
-24,Frozen Core,Frozen Core,mhxx-dex-1.0+mhxx-save-format-community,2,7
-25,Bone Hammer,Bone Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,11
-26,Lobstrosity,Lobstrosity,mhxx-dex-1.0+mhxx-save-format-community,3,7
-27,Calamitous Portent,Calamitous Portent,mhxx-dex-1.0+mhxx-save-format-community,2,8
-28,Dios Tailhammer,Dios Tailhammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-29,Demolition Hammer,Demolition Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,6
-30,Cyclo-Hammer,Cyclo-Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,9
-31,Matraca Hammer,Matraca Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-32,Seditious Hammer,Seditious Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,6
-33,Skullcrusher,Skullcrusher,mhxx-dex-1.0+mhxx-save-format-community,2,8
-34,Jupiter's Sphere,Jupiter's Sphere,mhxx-dex-1.0+mhxx-save-format-community,6,5
-35,Conehead Hammer,Conehead Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,8
-36,Ceanataur Head Axe,Ceanataur Head Axe,mhxx-dex-1.0+mhxx-save-format-community,2,7
-37,Bag o' Horrors,Bag o' Horrors,mhxx-dex-1.0+mhxx-save-format-community,2,7
-38,Bone Bludgeon,Bone Bludgeon,mhxx-dex-1.0+mhxx-save-format-community,1,9
-39,Meaty Smash,Meaty Smash,mhxx-dex-1.0+mhxx-save-format-community,4,6
-40,Meaty Press,Meaty Press,mhxx-dex-1.0+mhxx-save-format-community,5,6
-41,Ludroth Bone Mace,Ludroth Bone Mace,mhxx-dex-1.0+mhxx-save-format-community,1,8
-42,Ludroth Splashhammer,Ludroth Splashhammer,mhxx-dex-1.0+mhxx-save-format-community,2,7
-43,Revenge Hammer,Revenge Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,8
-44,Feather Hammer,Feather Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,8
-45,Bull Head Hammer,Bull Head Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,9
-46,Plesioth Head,Plesioth Head,mhxx-dex-1.0+mhxx-save-format-community,5,7
-47,Usurper's Thunder,Usurper's Thunder,mhxx-dex-1.0+mhxx-save-format-community,3,7
-48,Dragonhead Hammer,Dragonhead Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,7
-49,Red Bludgeon,Red Bludgeon,mhxx-dex-1.0+mhxx-save-format-community,3,8
-50,Leonid Starcrusher,Leonid Starcrusher,mhxx-dex-1.0+mhxx-save-format-community,7,5
-51,Hidden Breaker,Hidden Breaker,mhxx-dex-1.0+mhxx-save-format-community,2,8
-52,Kut-Ku Pick,Kut-Ku Pick,mhxx-dex-1.0+mhxx-save-format-community,2,9
-53,Raven Torrent,Raven Torrent,mhxx-dex-1.0+mhxx-save-format-community,3,7
-54,Vile Torrent,Vile Torrent,mhxx-dex-1.0+mhxx-save-format-community,6,6
-55,Venom Monster,Venom Monster,mhxx-dex-1.0+mhxx-save-format-community,2,8
-56,Emerald Beater,Emerald Beater,mhxx-dex-1.0+mhxx-save-format-community,3,9
-57,Giant's Hammer,Giant's Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,9
-58,Purity Hammer,Purity Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,9
-59,Scorching Isshata,Scorching Isshata,mhxx-dex-1.0+mhxx-save-format-community,3,9
-60,Wuchtblick,Wuchtblick,mhxx-dex-1.0+mhxx-save-format-community,3,7
-61,Le Jugement,Le Jugement,mhxx-dex-1.0+mhxx-save-format-community,3,8
-62,Genie's Expanse,Genie's Expanse,mhxx-dex-1.0+mhxx-save-format-community,3,6
-63,Devil's Due,Devil's Due,mhxx-dex-1.0+mhxx-save-format-community,6,5
-64,Consummate Hammer,Consummate Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-65,Skeletal Hammer,Skeletal Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-66,Polaris Hammer,Polaris Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-67,Ukanlos Trampler,Ukanlos Trampler,mhxx-dex-1.0+mhxx-save-format-community,7,5
-68,Alatreon Hammer,Alatreon Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-69,Incubus Hammer,Incubus Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-70,Rusted Hammer,Rusted Hammer,mhxx-dex-1.0+mhxx-save-format-community,1,3
-71,Breath Core Hammer,Breath Core Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,5
-72,Teostra Cratermaker,Teostra Cratermaker,mhxx-dex-1.0+mhxx-save-format-community,3,6
-73,Worn Hammer,Worn Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,7
-74,Pulsating Core,Pulsating Core,mhxx-dex-1.0+mhxx-save-format-community,6,5
-75,Icesteel Hammer,Icesteel Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,5
-76,Gaiarch,Gaiarch,mhxx-dex-1.0+mhxx-save-format-community,2,8
-77,Black Hammer,Black Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,7
-78,Yukumo Mallet,Yukumo Mallet,mhxx-dex-1.0+mhxx-save-format-community,1,8
-79,Yukumo Purehammer,Yukumo Purehammer,mhxx-dex-1.0+mhxx-save-format-community,3,6
-80,Airship Hammer,Airship Hammer,mhxx-dex-1.0+mhxx-save-format-community,2,6
-81,Teddybear,Teddybear,mhxx-dex-1.0+mhxx-save-format-community,3,5
-82,Enormous Ham,Enormous Ham,mhxx-dex-1.0+mhxx-save-format-community,5,5
-83,Cactus Creamer,Cactus Creamer,mhxx-dex-1.0+mhxx-save-format-community,2,6
-84,Black Frying Pan,Black Frying Pan,mhxx-dex-1.0+mhxx-save-format-community,2,6
-85,One Star Silver Pot,One Star Silver Pot,mhxx-dex-1.0+mhxx-save-format-community,5,6
-86,Pumpking,Pumpking,mhxx-dex-1.0+mhxx-save-format-community,2,7
-87,Anchor Hammer,Anchor Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-88,Portsmark,Portsmark,mhxx-dex-1.0+mhxx-save-format-community,6,5
-89,Arluq Whammer,Arluq Whammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-90,Pride of Harth,Pride of Harth,mhxx-dex-1.0+mhxx-save-format-community,6,5
-91,White Kitty Stamp,White Kitty Stamp,mhxx-dex-1.0+mhxx-save-format-community,2,6
-92,Black Kitty Stamp,Black Kitty Stamp,mhxx-dex-1.0+mhxx-save-format-community,5,5
-93,Egg Hammer,Egg Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,6
-94,Graceful Death,Graceful Death,mhxx-dex-1.0+mhxx-save-format-community,3,6
-95,Black Belt Hammer,Black Belt Hammer,mhxx-dex-1.0+mhxx-save-format-community,3,6
-96,Expert Hammer,Expert Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-97,Pincher Hammer,Pincher Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-98,Nightfall Hammer,Nightfall Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-99,Geode Hammer,Geode Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-100,Hardened Hammer,Hardened Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-101,Tomb Hammer,Tomb Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-102,Raiden Hammer,Raiden Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-103,Seize Hammer,Seize Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-104,Magma Hammer,Magma Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,15
-105,Thunder Works,Thunder Works,mhxx-dex-1.0+mhxx-save-format-community,6,5
-106,Demon Visage,Demon Visage,mhxx-dex-1.0+mhxx-save-format-community,6,5
-107,Goldhammer,Goldhammer,mhxx-dex-1.0+mhxx-save-format-community,10,3
-108,Silverwing Hammer,Silverwing Hammer,mhxx-dex-1.0+mhxx-save-format-community,7,6
-109,Zephra Beater,Zephra Beater,mhxx-dex-1.0+mhxx-save-format-community,11,5
-110,Last Bastion,Last Bastion,mhxx-dex-1.0+mhxx-save-format-community,11,5
-111,Elderfrost Hammer,Elderfrost Hammer,mhxx-dex-1.0+mhxx-save-format-community,11,5
-112,Razor Smasher,Razor Smasher,mhxx-dex-1.0+mhxx-save-format-community,11,5
-113,Dragon Destroyer,Dragon Destroyer,mhxx-dex-1.0+mhxx-save-format-community,10,3
-114,Fatalis Smasher,Fatalis Smasher,mhxx-dex-1.0+mhxx-save-format-community,10,3
-115,Old Fatalis Buster,Old Fatalis Buster,mhxx-dex-1.0+mhxx-save-format-community,10,3
-116,Lightbreak Hammer,Lightbreak Hammer,mhxx-dex-1.0+mhxx-save-format-community,10,3
-117,Grinsen/Froncement,Grinsen/Froncement,mhxx-dex-1.0+mhxx-save-format-community,10,3
-118,Gigaton Hammer,Gigaton Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,5
-119,Basarios Blow,Basarios Blow,mhxx-dex-1.0+mhxx-save-format-community,5,5
-120,Shell Hammer,Shell Hammer,mhxx-dex-1.0+mhxx-save-format-community,5,5
-121,Carapace Hammer,Carapace Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,5
-122,Barroth Martello,Barroth Martello,mhxx-dex-1.0+mhxx-save-format-community,8,3
-123,Cluster Hammer,Cluster Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,5
-124,Cluster Musterer,Cluster Musterer,mhxx-dex-1.0+mhxx-save-format-community,8,3
-125,Jail Hammer,Jail Hammer,mhxx-dex-1.0+mhxx-save-format-community,4,6
-126,Archambra Fellmace,Archambra Fellmace,mhxx-dex-1.0+mhxx-save-format-community,9,3
-127,Blacksmith,Blacksmith,mhxx-dex-1.0+mhxx-save-format-community,8,3
-128,Memento Volare,Memento Volare,mhxx-dex-1.0+mhxx-save-format-community,8,3
-129,Research Hammer,Research Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-130,Crystal Hammer,Crystal Hammer,mhxx-dex-1.0+mhxx-save-format-community,6,5
-131,Elder Hammer,Elder Hammer,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,None,None,mhxx-romfs-game-array,0,0
+1,Petrified Hammer,Petrified Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Obsidian Hammer,Obsidian Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,Fist of Fury,Fist of Fury,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+4,Striped Striker,Striped Striker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+5,Great Nova,Great Nova,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+6,Brazenclout,Brazenclout,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+7,Type 42 Shellbuster,Type 42 Shellbuster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+8,Iron Hammer,Iron Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+9,Devil Masher,Devil Masher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,7
+10,Anvil Hammer,Anvil Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+11,Accelerated Hammer,Accelerated Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+12,Nitro Boost Hammer,Nitro Boost Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+13,Binding Bludgeon,Binding Bludgeon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+14,War Hammer,War Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+15,War Stamp,War Stamp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+16,Iron Striker,Iron Striker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+17,Mane Malice,Mane Malice,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+18,Demonlord Hammer,Demonlord Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+19,Gun Hammer,Gun Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+20,Shot Crusher,Shot Crusher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+21,Spiked Hammer,Spiked Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,10
+22,Vortex Hammer,Vortex Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+23,Vortical Hammer,Vortical Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+24,Frozen Core,Frozen Core,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+25,Bone Hammer,Bone Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+26,Lobstrosity,Lobstrosity,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+27,Calamitous Portent,Calamitous Portent,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+28,Dios Tailhammer,Dios Tailhammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+29,Demolition Hammer,Demolition Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+30,Cyclo-Hammer,Cyclo-Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+31,Matraca Hammer,Matraca Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+32,Seditious Hammer,Seditious Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+33,Skullcrusher,Skullcrusher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+34,Jupiter's Sphere,Jupiter's Sphere,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+35,Conehead Hammer,Conehead Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+36,Ceanataur Head Axe,Ceanataur Head Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+37,Bag o' Horrors,Bag o' Horrors,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+38,Bone Bludgeon,Bone Bludgeon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+39,Meaty Smash,Meaty Smash,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+40,Meaty Press,Meaty Press,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+41,Ludroth Bone Mace,Ludroth Bone Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+42,Ludroth Splashhammer,Ludroth Splashhammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+43,Revenge Hammer,Revenge Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+44,Feather Hammer,Feather Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+45,Bull Head Hammer,Bull Head Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,9
+46,Plesioth Head,Plesioth Head,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,7
+47,Usurper's Thunder,Usurper's Thunder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+48,Dragonhead Hammer,Dragonhead Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+49,Red Bludgeon,Red Bludgeon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+50,Leonid Starcrusher,Leonid Starcrusher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+51,Hidden Breaker,Hidden Breaker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+52,Kut-Ku Pick,Kut-Ku Pick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,9
+53,Raven Torrent,Raven Torrent,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,Vile Torrent,Vile Torrent,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+55,Venom Monster,Venom Monster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+56,Emerald Beater,Emerald Beater,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+57,Giant's Hammer,Giant's Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+58,Purity Hammer,Purity Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+59,Scorching Isshata,Scorching Isshata,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,9
+60,Wuchtblick,Wuchtblick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+61,Le Jugement,Le Jugement,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,8
+62,Genie's Expanse,Genie's Expanse,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+63,Devil's Due,Devil's Due,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+64,Consummate Hammer,Consummate Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+65,Skeletal Hammer,Skeletal Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+66,Polaris Hammer,Polaris Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+67,Ukanlos Trampler,Ukanlos Trampler,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+68,Alatreon Hammer,Alatreon Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+69,Incubus Hammer,Incubus Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+70,Rusted Hammer,Rusted Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,3
+71,Breath Core Hammer,Breath Core Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+72,Teostra Cratermaker,Teostra Cratermaker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+73,Worn Hammer,Worn Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,7
+74,Pulsating Core,Pulsating Core,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+75,Icesteel Hammer,Icesteel Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+76,Gaiarch,Gaiarch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+77,Black Hammer,Black Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+78,Yukumo Mallet,Yukumo Mallet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+79,Yukumo Purehammer,Yukumo Purehammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+80,Airship Hammer,Airship Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+81,Teddybear,Teddybear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+82,Enormous Ham,Enormous Ham,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+83,Cactus Creamer,Cactus Creamer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+84,Black Frying Pan,Black Frying Pan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+85,One Star Silver Pot,One Star Silver Pot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+86,Pumpking,Pumpking,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+87,Anchor Hammer,Anchor Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+88,Portsmark,Portsmark,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+89,Arluq Whammer,Arluq Whammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+90,Pride of Harth,Pride of Harth,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+91,White Kitty Stamp,White Kitty Stamp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+92,Black Kitty Stamp,Black Kitty Stamp,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+93,Egg Hammer,Egg Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+94,Graceful Death,Graceful Death,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+95,Black Belt Hammer,Black Belt Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+96,Expert Hammer,Expert Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+97,Pincher Hammer,Pincher Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+98,Nightfall Hammer,Nightfall Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+99,Geode Hammer,Geode Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+100,Hardened Hammer,Hardened Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+101,Tomb Hammer,Tomb Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+102,Raiden Hammer,Raiden Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+103,Seize Hammer,Seize Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+104,Magma Hammer,Magma Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+105,Thunder Works,Thunder Works,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+106,Demon Visage,Demon Visage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+107,Goldhammer,Goldhammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+108,Silverwing Hammer,Silverwing Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+109,Zephra Beater,Zephra Beater,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+110,Last Bastion,Last Bastion,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+111,Elderfrost Hammer,Elderfrost Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+112,Razor Smasher,Razor Smasher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+113,Dragon Destroyer,Dragon Destroyer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+114,Fatalis Smasher,Fatalis Smasher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+115,Old Fatalis Buster,Old Fatalis Buster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+116,Lightbreak Hammer,Lightbreak Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+117,Grinsen/Froncement,Grinsen/Froncement,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+118,Gigaton Hammer,Gigaton Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+119,Basarios Blow,Basarios Blow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+120,Shell Hammer,Shell Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+121,Carapace Hammer,Carapace Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+122,Barroth Martello,Barroth Martello,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+123,Cluster Hammer,Cluster Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+124,Cluster Musterer,Cluster Musterer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+125,Jail Hammer,Jail Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+126,Archambra Fellmace,Archambra Fellmace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+127,Blacksmith,Blacksmith,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+128,Memento Volare,Memento Volare,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+129,Research Hammer,Research Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+130,Crystal Hammer,Crystal Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+131,Elder Hammer,Elder Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

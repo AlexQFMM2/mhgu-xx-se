@@ -1,110 +1,110 @@
 id,name,english,source,rarity,max_level
-0,None,None,mhxx-save-format-community,0,0
-1,Petrified Cannon,Petrified Cannon,mhxx-dex-1.0+mhxx-save-format-community,1,11
-2,Queen's Longfire,Queen's Longfire,mhxx-dex-1.0+mhxx-save-format-community,5,6
-3,Obsidian Cannon,Obsidian Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,6
-4,Griffin's Charge,Griffin's Charge,mhxx-dex-1.0+mhxx-save-format-community,5,5
-5,Crab Buster,Crab Buster,mhxx-dex-1.0+mhxx-save-format-community,2,8
-6,Piercing Crab,Piercing Crab,mhxx-dex-1.0+mhxx-save-format-community,4,6
-7,Spheniscine Slayer,Spheniscine Slayer,mhxx-dex-1.0+mhxx-save-format-community,2,7
-8,Hidden Gambit,Hidden Gambit,mhxx-dex-1.0+mhxx-save-format-community,2,8
-9,Anteka Burst,Anteka Burst,mhxx-dex-1.0+mhxx-save-format-community,1,7
-10,Rapidcaster,Rapidcaster,mhxx-dex-1.0+mhxx-save-format-community,4,5
-11,Carom Shot,Carom Shot,mhxx-dex-1.0+mhxx-save-format-community,2,6
-12,Agnaboom,Agnaboom,mhxx-dex-1.0+mhxx-save-format-community,5,5
-13,Sand Diver,Sand Diver,mhxx-dex-1.0+mhxx-save-format-community,1,8
-14,Pressurized Plaser,Pressurized Plaser,mhxx-dex-1.0+mhxx-save-format-community,4,6
-15,Arbalest,Arbalest,mhxx-dex-1.0+mhxx-save-format-community,1,11
-16,Tigrex Howl,Tigrex Howl,mhxx-dex-1.0+mhxx-save-format-community,3,6
-17,Yian Kut-Ku Cannon,Yian Kut-Ku Cannon,mhxx-dex-1.0+mhxx-save-format-community,2,7
-18,Raven Heirloom,Raven Heirloom,mhxx-dex-1.0+mhxx-save-format-community,3,7
-19,Binary Blaster,Binary Blaster,mhxx-dex-1.0+mhxx-save-format-community,2,7
-20,Tankmage,Tankmage,mhxx-dex-1.0+mhxx-save-format-community,2,7
-21,Icethrower,Icethrower,mhxx-dex-1.0+mhxx-save-format-community,2,7
-22,Quickcaster,Quickcaster,mhxx-dex-1.0+mhxx-save-format-community,5,5
-23,Injector Cannon,Injector Cannon,mhxx-dex-1.0+mhxx-save-format-community,1,8
-24,Flechette Gun,Flechette Gun,mhxx-dex-1.0+mhxx-save-format-community,4,6
-25,Meteor Bazooka,Meteor Bazooka,mhxx-dex-1.0+mhxx-save-format-community,2,7
-26,Meteor Buster,Meteor Buster,mhxx-dex-1.0+mhxx-save-format-community,4,6
-27,Striker's Bowgun,Striker's Bowgun,mhxx-dex-1.0+mhxx-save-format-community,4,5
-28,Bite Blaster,Bite Blaster,mhxx-dex-1.0+mhxx-save-format-community,2,6
-29,Sayyad Cannon,Sayyad Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,6
-30,Seditious Cannon,Seditious Cannon,mhxx-dex-1.0+mhxx-save-format-community,6,6
-31,Bone Shooter,Bone Shooter,mhxx-dex-1.0+mhxx-save-format-community,1,11
-32,Dios Cannon,Dios Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,5
-33,Demolition Cannon,Demolition Cannon,mhxx-dex-1.0+mhxx-save-format-community,6,6
-34,Type 46 Gunflage,Type 46 Gunflage,mhxx-dex-1.0+mhxx-save-format-community,2,7
-35,Lagia Blitz,Lagia Blitz,mhxx-dex-1.0+mhxx-save-format-community,3,7
-36,Usurper's Tremor,Usurper's Tremor,mhxx-dex-1.0+mhxx-save-format-community,3,6
-37,Marino Burst,Marino Burst,mhxx-dex-1.0+mhxx-save-format-community,1,7
-38,Arzuros Gun,Arzuros Gun,mhxx-dex-1.0+mhxx-save-format-community,4,5
-39,Straw Drumcannon,Straw Drumcannon,mhxx-dex-1.0+mhxx-save-format-community,4,5
-40,Monteverde,Monteverde,mhxx-dex-1.0+mhxx-save-format-community,6,6
-41,Shooting Star,Shooting Star,mhxx-dex-1.0+mhxx-save-format-community,5,5
-42,Wyvern Blaster,Wyvern Blaster,mhxx-dex-1.0+mhxx-save-format-community,3,7
-43,Giant's Cannon,Giant's Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,7
-44,Cirrus Blaster,Cirrus Blaster,mhxx-dex-1.0+mhxx-save-format-community,3,7
-45,Burning Igna,Burning Igna,mhxx-dex-1.0+mhxx-save-format-community,3,7
-46,Tödlicher Abzug,Tödlicher Abzug,mhxx-dex-1.0+mhxx-save-format-community,3,5
-47,Le Désastre,Le Désastre,mhxx-dex-1.0+mhxx-save-format-community,6,6
-48,Daora's Delphinidae,Daora's Delphinidae,mhxx-dex-1.0+mhxx-save-format-community,3,6
-49,Kamaeleon,Kamaeleon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-50,Teostra's Artillery,Teostra's Artillery,mhxx-dex-1.0+mhxx-save-format-community,7,5
-51,Skeletal Cannon,Skeletal Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,6
-52,Cosmic Cannon,Cosmic Cannon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-53,Gluttonous Cannon,Gluttonous Cannon,mhxx-dex-1.0+mhxx-save-format-community,6,5
-54,Endless Famine,Endless Famine,mhxx-dex-1.0+mhxx-save-format-community,7,5
-55,Akantor Cannon,Akantor Cannon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-56,Ukanlos Cannon,Ukanlos Cannon,mhxx-dex-1.0+mhxx-save-format-community,7,5
-57,Chaos Wing,Chaos Wing,mhxx-dex-1.0+mhxx-save-format-community,7,5
-58,Ill Omen,Ill Omen,mhxx-dex-1.0+mhxx-save-format-community,7,5
-59,Moofire Cannon,Moofire Cannon,mhxx-dex-1.0+mhxx-save-format-community,2,7
-60,Hero Blaster,Hero Blaster,mhxx-dex-1.0+mhxx-save-format-community,6,6
-61,Black Cannon,Black Cannon,mhxx-dex-1.0+mhxx-save-format-community,3,6
-62,Yukumo Bowgun,Yukumo Bowgun,mhxx-dex-1.0+mhxx-save-format-community,1,8
-63,Yukumo Puregun,Yukumo Puregun,mhxx-dex-1.0+mhxx-save-format-community,3,6
-64,Ladybug Cannon,Ladybug Cannon,mhxx-dex-1.0+mhxx-save-format-community,5,5
-65,Carrozza Bazooka,Carrozza Bazooka,mhxx-dex-1.0+mhxx-save-format-community,4,5
-66,"Aquamatic ""Needler""","Aquamatic ""Needler""",mhxx-dex-1.0+mhxx-save-format-community,3,5
-67,Felyne Bowgun,Felyne Bowgun,mhxx-dex-1.0+mhxx-save-format-community,2,7
-68,Lunastra's Zeal,Lunastra's Zeal,mhxx-dex-1.0+mhxx-save-format-community,2,6
-69,Crimson Bowgun,Crimson Bowgun,mhxx-dex-1.0+mhxx-save-format-community,11,15
-70,Eeostopen Burst,Eeostopen Burst,mhxx-dex-1.0+mhxx-save-format-community,11,15
-71,Stonefist Buster,Stonefist Buster,mhxx-dex-1.0+mhxx-save-format-community,11,15
-72,Dreadqueen Shot,Dreadqueen Shot,mhxx-dex-1.0+mhxx-save-format-community,11,15
-73,Demonic Cannon,Demonic Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,15
-74,Silverwind Sniper,Silverwind Sniper,mhxx-dex-1.0+mhxx-save-format-community,11,15
-75,Grobo Shot,Grobo Shot,mhxx-dex-1.0+mhxx-save-format-community,11,15
-76,Cahoe Shot,Cahoe Shot,mhxx-dex-1.0+mhxx-save-format-community,11,15
-77,Lord's Shot,Lord's Shot,mhxx-dex-1.0+mhxx-save-format-community,11,15
-78,Rudra's Howl,Rudra's Howl,mhxx-dex-1.0+mhxx-save-format-community,11,15
-79,Ashen Blaster,Ashen Blaster,mhxx-dex-1.0+mhxx-save-format-community,11,15
-80,Pirate Cannon J,Pirate Cannon J,mhxx-dex-1.0+mhxx-save-format-community,6,5
-81,Goldcannon,Goldcannon,mhxx-dex-1.0+mhxx-save-format-community,10,3
-82,Silverwing Cannon,Silverwing Cannon,mhxx-dex-1.0+mhxx-save-format-community,7,6
-83,Boltreaver Cannon,Boltreaver Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,5
-84,Bitter Breeze,Bitter Breeze,mhxx-dex-1.0+mhxx-save-format-community,11,5
-85,Elderfrost Boom,Elderfrost Boom,mhxx-dex-1.0+mhxx-save-format-community,11,5
-86,Massacre Cannon,Massacre Cannon,mhxx-dex-1.0+mhxx-save-format-community,11,5
-87,Razor Piercer,Razor Piercer,mhxx-dex-1.0+mhxx-save-format-community,11,5
-88,Cloaked Horror,Cloaked Horror,mhxx-dex-1.0+mhxx-save-format-community,11,5
-89,Lao-Shan Lung Cannon,Lao-Shan Lung Cannon,mhxx-dex-1.0+mhxx-save-format-community,10,3
-90,Vor Cannon,Vor Cannon,mhxx-dex-1.0+mhxx-save-format-community,10,3
-91,Destiny's Hand,Destiny's Hand,mhxx-dex-1.0+mhxx-save-format-community,10,3
-92,Fatalis Enslaver,Fatalis Enslaver,mhxx-dex-1.0+mhxx-save-format-community,10,3
-93,Lightbreak Cannon,Lightbreak Cannon,mhxx-dex-1.0+mhxx-save-format-community,10,3
-94,Verrat/Foi,Verrat/Foi,mhxx-dex-1.0+mhxx-save-format-community,10,3
-95,Rock Eater,Rock Eater,mhxx-dex-1.0+mhxx-save-format-community,4,5
-96,Gravios Howl,Gravios Howl,mhxx-dex-1.0+mhxx-save-format-community,5,6
-97,Dual Threat,Dual Threat,mhxx-dex-1.0+mhxx-save-format-community,6,5
-98,Power Stinger,Power Stinger,mhxx-dex-1.0+mhxx-save-format-community,5,6
-99,Guerrera Cannon,Guerrera Cannon,mhxx-dex-1.0+mhxx-save-format-community,5,5
-100,Ner Bustergun,Ner Bustergun,mhxx-dex-1.0+mhxx-save-format-community,4,6
-101,Loyal Thunder,Loyal Thunder,mhxx-dex-1.0+mhxx-save-format-community,9,3
-102,Agna Magnum,Agna Magnum,mhxx-dex-1.0+mhxx-save-format-community,9,3
-103,Research Cannon,Research Cannon,mhxx-dex-1.0+mhxx-save-format-community,6,5
-104,Cannonissimo,Cannonissimo,mhxx-dex-1.0+mhxx-save-format-community,9,3
-105,Arbahefty,Arbahefty,mhxx-dex-1.0+mhxx-save-format-community,6,5
-106,Magnificent El Dora Gun,Magnificent El Dora Gun,mhxx-dex-1.0+mhxx-save-format-community,5,5
-107,Elder Cannon,Elder Cannon,mhxx-dex-1.0+mhxx-save-format-community,8,3
-108,Super Trench Snarfer,Super Trench Snarfer,mhxx-dex-1.0+mhxx-save-format-community,8,3
+0,None,None,mhxx-romfs-game-array,0,0
+1,Petrified Cannon,Petrified Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Queen's Longfire,Queen's Longfire,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+3,Obsidian Cannon,Obsidian Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+4,Griffin's Charge,Griffin's Charge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+5,Crab Buster,Crab Buster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+6,Piercing Crab,Piercing Crab,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+7,Spheniscine Slayer,Spheniscine Slayer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+8,Hidden Gambit,Hidden Gambit,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,8
+9,Anteka Burst,Anteka Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,7
+10,Rapidcaster,Rapidcaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+11,Carom Shot,Carom Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+12,Agnaboom,Agnaboom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+13,Sand Diver,Sand Diver,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+14,Pressurized Plaser,Pressurized Plaser,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+15,Arbalest,Arbalest,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+16,Tigrex Howl,Tigrex Howl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+17,Yian Kut-Ku Cannon,Yian Kut-Ku Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+18,Raven Heirloom,Raven Heirloom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+19,Binary Blaster,Binary Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+20,Tankmage,Tankmage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+21,Icethrower,Icethrower,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+22,Quickcaster,Quickcaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+23,Injector Cannon,Injector Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+24,Flechette Gun,Flechette Gun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+25,Meteor Bazooka,Meteor Bazooka,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+26,Meteor Buster,Meteor Buster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+27,Striker's Bowgun,Striker's Bowgun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+28,Bite Blaster,Bite Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+29,Sayyad Cannon,Sayyad Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+30,Seditious Cannon,Seditious Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+31,Bone Shooter,Bone Shooter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,11
+32,Dios Cannon,Dios Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+33,Demolition Cannon,Demolition Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+34,Type 46 Gunflage,Type 46 Gunflage,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+35,Lagia Blitz,Lagia Blitz,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+36,Usurper's Tremor,Usurper's Tremor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+37,Marino Burst,Marino Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,7
+38,Arzuros Gun,Arzuros Gun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+39,Straw Drumcannon,Straw Drumcannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+40,Monteverde,Monteverde,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+41,Shooting Star,Shooting Star,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+42,Wyvern Blaster,Wyvern Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+43,Giant's Cannon,Giant's Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+44,Cirrus Blaster,Cirrus Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+45,Burning Igna,Burning Igna,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,7
+46,Tödlicher Abzug,Tödlicher Abzug,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+47,Le Désastre,Le Désastre,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+48,Daora's Delphinidae,Daora's Delphinidae,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+49,Kamaeleon,Kamaeleon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+50,Teostra's Artillery,Teostra's Artillery,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+51,Skeletal Cannon,Skeletal Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+52,Cosmic Cannon,Cosmic Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+53,Gluttonous Cannon,Gluttonous Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+54,Endless Famine,Endless Famine,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+55,Akantor Cannon,Akantor Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+56,Ukanlos Cannon,Ukanlos Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+57,Chaos Wing,Chaos Wing,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+58,Ill Omen,Ill Omen,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,5
+59,Moofire Cannon,Moofire Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+60,Hero Blaster,Hero Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,6
+61,Black Cannon,Black Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+62,Yukumo Bowgun,Yukumo Bowgun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1,8
+63,Yukumo Puregun,Yukumo Puregun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,6
+64,Ladybug Cannon,Ladybug Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+65,Carrozza Bazooka,Carrozza Bazooka,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+66,"Aquamatic ""Needler""","Aquamatic ""Needler""",mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3,5
+67,Felyne Bowgun,Felyne Bowgun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,7
+68,Lunastra's Zeal,Lunastra's Zeal,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2,6
+69,Crimson Bowgun,Crimson Bowgun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+70,Eeostopen Burst,Eeostopen Burst,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+71,Stonefist Buster,Stonefist Buster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+72,Dreadqueen Shot,Dreadqueen Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+73,Demonic Cannon,Demonic Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+74,Silverwind Sniper,Silverwind Sniper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+75,Grobo Shot,Grobo Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+76,Cahoe Shot,Cahoe Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+77,Lord's Shot,Lord's Shot,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+78,Rudra's Howl,Rudra's Howl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+79,Ashen Blaster,Ashen Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,15
+80,Pirate Cannon J,Pirate Cannon J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+81,Goldcannon,Goldcannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+82,Silverwing Cannon,Silverwing Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7,6
+83,Boltreaver Cannon,Boltreaver Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+84,Bitter Breeze,Bitter Breeze,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+85,Elderfrost Boom,Elderfrost Boom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+86,Massacre Cannon,Massacre Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+87,Razor Piercer,Razor Piercer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+88,Cloaked Horror,Cloaked Horror,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11,5
+89,Lao-Shan Lung Cannon,Lao-Shan Lung Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+90,Vor Cannon,Vor Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+91,Destiny's Hand,Destiny's Hand,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+92,Fatalis Enslaver,Fatalis Enslaver,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+93,Lightbreak Cannon,Lightbreak Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+94,Verrat/Foi,Verrat/Foi,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10,3
+95,Rock Eater,Rock Eater,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,5
+96,Gravios Howl,Gravios Howl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+97,Dual Threat,Dual Threat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+98,Power Stinger,Power Stinger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,6
+99,Guerrera Cannon,Guerrera Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+100,Ner Bustergun,Ner Bustergun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4,6
+101,Loyal Thunder,Loyal Thunder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+102,Agna Magnum,Agna Magnum,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+103,Research Cannon,Research Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+104,Cannonissimo,Cannonissimo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9,3
+105,Arbahefty,Arbahefty,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6,5
+106,Magnificent El Dora Gun,Magnificent El Dora Gun,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5,5
+107,Elder Cannon,Elder Cannon,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3
+108,Super Trench Snarfer,Super Trench Snarfer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8,3

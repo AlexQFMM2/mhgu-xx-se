@@ -1,510 +1,510 @@
 id,name,english,source,rarity
-0,无,None,mhxx-save-format-community,0
-1,骨制猫尖刃刀,F Bone Wedge,mhxx-dex-1.0+mhxx-save-format-community,1
-2,贝鲁纳猫杖,F Bherna Staff,mhxx-dex-1.0+mhxx-save-format-community,1
-3,铁制猫剑,F Iron Sword,mhxx-dex-1.0+mhxx-save-format-community,1
-4,骨制猫锤,F Bone Hammer,mhxx-dex-1.0+mhxx-save-format-community,1
-5,狗龙猫匕首,F Jaggi Knife,mhxx-dex-1.0+mhxx-save-format-community,1
-6,狩猎猫匕首,F Hunting Knife,mhxx-dex-1.0+mhxx-save-format-community,2
-7,结云猫木刀,F Yukumo Bokken,mhxx-dex-1.0+mhxx-save-format-community,2
-8,砍柴猫斧,F Wood Chopper,mhxx-dex-1.0+mhxx-save-format-community,2
-9,肉球猫拳,F Paw Punch,mhxx-dex-1.0+mhxx-save-format-community,2
-10,变化猫捕虫网,F Alta Net,mhxx-dex-1.0+mhxx-save-format-community,2
-11,硬甲龙猫铁锤,F Rheno Hammer,mhxx-dex-1.0+mhxx-save-format-community,2
-12,飞甲虫猫短剑,F Bnaha Dagger,mhxx-dex-1.0+mhxx-save-format-community,2
-13,跳狗龙猫短剑,F Maccao Dagger,mhxx-dex-1.0+mhxx-save-format-community,2
-14,蓝速龙猫刺刀,F Vprey Bayonet,mhxx-dex-1.0+mhxx-save-format-community,2
-15,野猪王猫獠牙,F Bulldrome Tusk,mhxx-dex-1.0+mhxx-save-format-community,2
-16,青熊兽猫狼牙棒,F Arzuros Mace,mhxx-dex-1.0+mhxx-save-format-community,2
-17,黄速龙猫刺刀,F Genprey Bayonet,mhxx-dex-1.0+mhxx-save-format-community,2
-18,砂龙猫刷,F Cephalos Brush,mhxx-dex-1.0+mhxx-save-format-community,2
-19,燕雀猫尖刃刀,F Machalite Wedge,mhxx-dex-1.0+mhxx-save-format-community,2
-20,橡子猫巨锤,F Giant Acorn,mhxx-dex-1.0+mhxx-save-format-community,2
-21,猫兽人的石像,F Stone Cat Statue,mhxx-dex-1.0+mhxx-save-format-community,2
-22,毒蜂猫棒,F Venombee Bat,mhxx-dex-1.0+mhxx-save-format-community,2
-23,美食家猫奶酪,F Gourmet Cheese,mhxx-dex-1.0+mhxx-save-format-community,2
-24,云羊鹿猫毛线,F Moofah Cotton,mhxx-dex-1.0+mhxx-save-format-community,2
-25,草食龙猫肉锤,F Aptonoth Meat,mhxx-dex-1.0+mhxx-save-format-community,2
-26,鱼猫尖刃刀,F Fish Stick,mhxx-dex-1.0+mhxx-save-format-community,2
-27,炙烧猫锤,F Grilled Hammer,mhxx-dex-1.0+mhxx-save-format-community,2
-28,红速龙猫刺刀,F Ioprey Bayonet,mhxx-dex-1.0+mhxx-save-format-community,2
-29,白兔兽猫棍,F Lagombi Staff,mhxx-dex-1.0+mhxx-save-format-community,2
-30,怪鸟猫团扇,F Kut-Ku Cutter,mhxx-dex-1.0+mhxx-save-format-community,2
-31,毒怪鸟猫安卡,F Gypceros Glare,mhxx-dex-1.0+mhxx-save-format-community,2
-32,鬼蛙猫拨浪鼓,F Cabra Pounder,mhxx-dex-1.0+mhxx-save-format-community,2
-33,大名盾蟹猫钳,F Daimyo Shears,mhxx-dex-1.0+mhxx-save-format-community,2
-34,水兽猫爪,F Ludroth Paw,mhxx-dex-1.0+mhxx-save-format-community,2
-35,白电猫针筒,F Khezu Whaccine,mhxx-dex-1.0+mhxx-save-format-community,2
-36,潜口龙猫枪锤,F Nibel Blammer,mhxx-dex-1.0+mhxx-save-format-community,2
-37,贤者猫书本,F Quest Book,mhxx-dex-1.0+mhxx-save-format-community,2
-38,蓝速龙猫尖刃刀,F Vprey Wedge,mhxx-dex-1.0+mhxx-save-format-community,2
-39,大桶猫锤,F Barrel Basher,mhxx-dex-1.0+mhxx-save-format-community,2
-40,勇气猫长枪,F Derring Lance,mhxx-dex-1.0+mhxx-save-format-community,2
-41,雪绒花猫棒,F Edel Rod,mhxx-dex-1.0+mhxx-save-format-community,2
-42,南瓜猫扫把,F Mosgharl Broom,mhxx-dex-1.0+mhxx-save-format-community,2
-43,首鸣龙猫木棒,F Bushwhacker,mhxx-dex-1.0+mhxx-save-format-community,2
-44,死神猫镰,F Death Stench Scythe,mhxx-dex-1.0+mhxx-save-format-community,2
-45,武者猫之太刀,F Marauder Blade,mhxx-dex-1.0+mhxx-save-format-community,2
-46,武者猫之锤,F Marauder Gavel,mhxx-dex-1.0+mhxx-save-format-community,2
-47,赤甲兽猫灯笼,F Volvi Lantern,mhxx-dex-1.0+mhxx-save-format-community,2
-48,夜鸟猫阳伞,F Jester Parasol,mhxx-dex-1.0+mhxx-save-format-community,2
-49,雌火龙猫细剑,F Rathian Rapier,mhxx-dex-1.0+mhxx-save-format-community,2
-50,雪狮子猫枪,F Blango Spear,mhxx-dex-1.0+mhxx-save-format-community,2
-51,将军镰蟹猫镰,F Ceanataur Cutter,mhxx-dex-1.0+mhxx-save-format-community,2
-52,绞蛇龙猫蛇笛,F Naja Pungi,mhxx-dex-1.0+mhxx-save-format-community,2
-53,迅龙猫手里剑,F Narga Shuriken,mhxx-dex-1.0+mhxx-save-format-community,2
-54,可可特猫啤酒,F Kokoto Beer,mhxx-dex-1.0+mhxx-save-format-community,3
-55,波凯猫拖把,F Pokke Mop,mhxx-dex-1.0+mhxx-save-format-community,3
-56,结云猫扇子,F Yukumo Fan,mhxx-dex-1.0+mhxx-save-format-community,3
-57,迷幻菇猫棒,F Shroom Rod,mhxx-dex-1.0+mhxx-save-format-community,3
-58,黄金乡猫掌,F Eldora Paw,mhxx-dex-1.0+mhxx-save-format-community,3
-59,黑狼鸟猫羽扇,F Garuga Fan,mhxx-dex-1.0+mhxx-save-format-community,3
-60,爆锤龙猫铁块,F Uragaan Iron,mhxx-dex-1.0+mhxx-save-format-community,3
-61,火龙猫刃,F Rathalos Blade,mhxx-dex-1.0+mhxx-save-format-community,3
-62,海龙猫锚,F Lagia Anchor,mhxx-dex-1.0+mhxx-save-format-community,3
-63,电龙猫枪,F Astalos Spear,mhxx-dex-1.0+mhxx-save-format-community,3
-64,巨猫杖,F Enormews Staff,mhxx-dex-1.0+mhxx-save-format-community,3
-65,泡狐龙猫花伞,F Mizutsune Parasol,mhxx-dex-1.0+mhxx-save-format-community,3
-66,公会猫细剑,F Guild Rapier,mhxx-dex-1.0+mhxx-save-format-community,3
-67,晚安猫菲妮,F Moofy Plush,mhxx-dex-1.0+mhxx-save-format-community,3
-68,灼炎之喵剑,F Scorching Blade,mhxx-dex-1.0+mhxx-save-format-community,3
-69,王猫剑滚滚,F Mewsurper's Peal,mhxx-dex-1.0+mhxx-save-format-community,3
-70,灯笼of喵喵,F Katzenlampe,mhxx-dex-1.0+mhxx-save-format-community,3
-71,千刃龙猫斧,F Seregios Edge,mhxx-dex-1.0+mhxx-save-format-community,3
-72,轰龙猫轰锤,F Tigrex Whammer,mhxx-dex-1.0+mhxx-save-format-community,3
-73,神猫剑轰隆,F Kirin Rumblezap,mhxx-dex-1.0+mhxx-save-format-community,3
-74,碎龙猫拳,F Brachy Punch,mhxx-dex-1.0+mhxx-save-format-community,3
-75,THE喵喵心,F Le Cœur de Chat,mhxx-dex-1.0+mhxx-save-format-community,3
-76,钢龙猫杖,F Kushala Wand,mhxx-dex-1.0+mhxx-save-format-community,3
-77,魔神猫欺瞒剑,F Genie Breath,mhxx-dex-1.0+mhxx-save-format-community,3
-78,帝王猫权杖,F Kaiser Mace,mhxx-dex-1.0+mhxx-save-format-community,3
-79,其名为猫的白骸,F White Felyne Husk,mhxx-dex-1.0+mhxx-save-format-community,3
-80,骨制S猫尖刃刀,F Bone Wedge S,mhxx-dex-1.0+mhxx-save-format-community,4
-81,贝鲁纳S猫杖,F Bherna Staff S,mhxx-dex-1.0+mhxx-save-format-community,4
-82,狩猎S猫匕首,F Hunting Knife S,mhxx-dex-1.0+mhxx-save-format-community,4
-83,结云猫木刀･鲣鱼干,F Yukumo Bonito,mhxx-dex-1.0+mhxx-save-format-community,4
-84,灵鹤猫尖刃刀,F Carbalite Wedge,mhxx-dex-1.0+mhxx-save-format-community,4
-85,橡子S猫巨锤,F Giant Acorn S,mhxx-dex-1.0+mhxx-save-format-community,4
-86,蓝速龙S猫尖刃刀,F Vprey Wedge S,mhxx-dex-1.0+mhxx-save-format-community,4
-87,大桶S猫锤,F Barrel Basher S,mhxx-dex-1.0+mhxx-save-format-community,4
-88,美食家S猫奶酪,F Gourmet Cheese S,mhxx-dex-1.0+mhxx-save-format-community,4
-89,云羊鹿S猫毛线,F Moofah Cotton S,mhxx-dex-1.0+mhxx-save-format-community,4
-90,猫猫的BBQ,F Barbecue,mhxx-dex-1.0+mhxx-save-format-community,4
-91,鱼S猫尖刃刀,F Fish Stick S,mhxx-dex-1.0+mhxx-save-format-community,4
-92,猫的晚餐,F Fingerlicker,mhxx-dex-1.0+mhxx-save-format-community,4
-93,首鸣龙S猫木棒,F Bushwhacker S,mhxx-dex-1.0+mhxx-save-format-community,4
-94,肉球S猫拳,F Paw Punch S,mhxx-dex-1.0+mhxx-save-format-community,4
-95,灵鹤猫剑,F Carbalite Sword,mhxx-dex-1.0+mhxx-save-format-community,4
-96,骨制S猫锤,F Bone Hammer S,mhxx-dex-1.0+mhxx-save-format-community,4
-97,变化S猫捕虫网,F Alta Net S,mhxx-dex-1.0+mhxx-save-format-community,4
-98,飞甲虫S猫短剑,F Bnaha Dagger S,mhxx-dex-1.0+mhxx-save-format-community,4
-99,狗龙S猫匕首,F Jaggi Knife S,mhxx-dex-1.0+mhxx-save-format-community,4
-100,硬甲龙S猫铁锤,F Rheno Hammer S,mhxx-dex-1.0+mhxx-save-format-community,4
-101,垂皮龙猫叶,F Slagtoth Leaf,mhxx-dex-1.0+mhxx-save-format-community,4
-102,跳狗龙S猫短剑,F Maccao Dagger S,mhxx-dex-1.0+mhxx-save-format-community,4
-103,蓝速龙S猫刺刀,F Vprey Bayonet S,mhxx-dex-1.0+mhxx-save-format-community,4
-104,野猪王S猫獠牙,F Bulldrome Tusk S,mhxx-dex-1.0+mhxx-save-format-community,4
-105,青熊兽S猫狼牙棒,F Arzuros Mace S,mhxx-dex-1.0+mhxx-save-format-community,4
-106,黄速龙S猫刺刀,F Genprey Bayonet S,mhxx-dex-1.0+mhxx-save-format-community,4
-107,白兔兽S猫棍,F Lagombi Staff S,mhxx-dex-1.0+mhxx-save-format-community,4
-108,砂龙S猫刷,F Cephalos Brush S,mhxx-dex-1.0+mhxx-save-format-community,4
-109,怪鸟S猫团扇,F Kut-Ku Cutter S,mhxx-dex-1.0+mhxx-save-format-community,4
-110,毒怪鸟S猫安卡,F Gypceros Glare S,mhxx-dex-1.0+mhxx-save-format-community,4
-111,鬼蛙S猫拨浪鼓,F Cabra Pounder S,mhxx-dex-1.0+mhxx-save-format-community,4
-112,大名盾蟹S猫钳,F Daimyo Shears S,mhxx-dex-1.0+mhxx-save-format-community,4
-113,水兽S猫爪,F Ludroth Paw S,mhxx-dex-1.0+mhxx-save-format-community,4
-114,奇猿狐猫耙,F Kecha Harrow,mhxx-dex-1.0+mhxx-save-format-community,4
-115,铃兰猫棒,F Bell Rod,mhxx-dex-1.0+mhxx-save-format-community,5
-116,兽神石像鬼的华尔兹,F Gargouille Waltz,mhxx-dex-1.0+mhxx-save-format-community,5
-117,毒蜂S猫棒,F Venombee Bat S,mhxx-dex-1.0+mhxx-save-format-community,5
-118,南瓜S猫扫把,F Mosgharl Broom S,mhxx-dex-1.0+mhxx-save-format-community,5
-119,名刀喵铁,F Meowtetsuken,mhxx-dex-1.0+mhxx-save-format-community,5
-120,敲打喵锤,F Pounderpurr,mhxx-dex-1.0+mhxx-save-format-community,5
-121,红速龙S猫刺刀,F Ioprey Bayonet S,mhxx-dex-1.0+mhxx-save-format-community,5
-122,赤甲兽S猫灯笼,F Volvi Lantern S,mhxx-dex-1.0+mhxx-save-format-community,5
-123,白电S猫针筒,F Khezu Whaccine S,mhxx-dex-1.0+mhxx-save-format-community,5
-124,潜口龙S猫枪锤,F Nibel Blammer S,mhxx-dex-1.0+mhxx-save-format-community,5
-125,催眠伞公爵猫香箱,F Slumbering Duke,mhxx-dex-1.0+mhxx-save-format-community,5
-126,雌火龙S猫细剑,F Queen Rapier,mhxx-dex-1.0+mhxx-save-format-community,5
-127,雪狮子S猫长矛,F Blango Spear S,mhxx-dex-1.0+mhxx-save-format-community,5
-128,将军镰蟹S猫镰,F Ceanataur Cutter S,mhxx-dex-1.0+mhxx-save-format-community,5
-129,绞蛇龙S猫蛇笛,F Naja Pungi S,mhxx-dex-1.0+mhxx-save-format-community,5
-130,迅龙S猫手里剑,F Narga Shuriken S,mhxx-dex-1.0+mhxx-save-format-community,5
-131,黑狼鸟S猫羽扇,F Garuga Fan S,mhxx-dex-1.0+mhxx-save-format-community,5
-132,爆锤龙S猫铁块,F Uragaan Iron S,mhxx-dex-1.0+mhxx-save-format-community,5
-133,变形冰鲨猫掌,F Zamtrios Paw,mhxx-dex-1.0+mhxx-save-format-community,5
-134,水龙猫冲浪板,F Plesioth Board,mhxx-dex-1.0+mhxx-save-format-community,5
-135,熔岩龙猫权杖,F Lava Mace,mhxx-dex-1.0+mhxx-save-format-community,5
-136,雪绒花S猫棒,F Edel Rod S,mhxx-dex-1.0+mhxx-save-format-community,6
-137,沉睡猫菲妮,F Lulling Moofy Plush,mhxx-dex-1.0+mhxx-save-format-community,6
-138,砍柴S猫斧,F Wood Chopper S,mhxx-dex-1.0+mhxx-save-format-community,6
-139,怪鸟的咕咕咕,F Kut-Ku Cackle,mhxx-dex-1.0+mhxx-save-format-community,6
-140,野猪王的咚咚咚,F Bulldrome Rrrush,mhxx-dex-1.0+mhxx-save-format-community,6
-141,大迷幻喵菇棒,F Mighty Shroom Rod,mhxx-dex-1.0+mhxx-save-format-community,6
-142,死神S猫镰,F D. Stench Scythe S,mhxx-dex-1.0+mhxx-save-format-community,6
-143,亡国之宝杖喵喵拳,F Lost Catspaw Staff,mhxx-dex-1.0+mhxx-save-format-community,6
-144,海龙S猫锚,F Lagia Anchor S,mhxx-dex-1.0+mhxx-save-format-community,6
-145,斩龙猫剑,F Scorched Whiskers,mhxx-dex-1.0+mhxx-save-format-community,6
-146,电枪猫枪,F Lightning Spear,mhxx-dex-1.0+mhxx-save-format-community,6
-147,巨猫･拂侠,F Ginormews Staff,mhxx-dex-1.0+mhxx-save-format-community,6
-148,夏喵草深绯之伞,F Crimson Parasol,mhxx-dex-1.0+mhxx-save-format-community,6
-149,炎剑猫刃,F Blazing Blade,mhxx-dex-1.0+mhxx-save-format-community,6
-150,王牙猫剑【猫雷】,F Mewsurper's Roar,mhxx-dex-1.0+mhxx-save-format-community,6
-151,漆黑of喵喵,F Katzenfunzel,mhxx-dex-1.0+mhxx-save-format-community,6
-152,轰龙S猫轰锤,F Tigrex Whammer S,mhxx-dex-1.0+mhxx-save-format-community,6
-153,重甲虫猫钻头,F Seltas Drill,mhxx-dex-1.0+mhxx-save-format-community,6
-154,炎戈龙猫长枪,F Agnaktor Lance,mhxx-dex-1.0+mhxx-save-format-community,6
-155,尾锤龙猫斧,F Duram Axe,mhxx-dex-1.0+mhxx-save-format-community,6
-156,神猫剑【猫光】,F Kirin Bolt,mhxx-dex-1.0+mhxx-save-format-community,6
-157,金色猫机关,F Golden Gadget,mhxx-dex-1.0+mhxx-save-format-community,6
-158,恐暴龙猫暴锤,F Vangis Mace,mhxx-dex-1.0+mhxx-save-format-community,6
-159,猛怪鸟猫团扇,F Kut-Ku Cutter R,mhxx-dex-1.0+mhxx-save-format-community,6
-160,猛奇猿狐猫耙,F Kecha Harrow R,mhxx-dex-1.0+mhxx-save-format-community,6
-161,猛毒怪鸟猫安卡,F Gypceros Ankh R,mhxx-dex-1.0+mhxx-save-format-community,6
-162,猛鬼蛙猫拨浪鼓,F Cabra Pounder R,mhxx-dex-1.0+mhxx-save-format-community,6
-163,猛大名盾蟹猫钳,F Daimyo Shears R,mhxx-dex-1.0+mhxx-save-format-community,6
-164,猛水兽猫爪,F Ludroth Paw R,mhxx-dex-1.0+mhxx-save-format-community,6
-165,猛夜鸟猫阳伞,F Jester Parasol R,mhxx-dex-1.0+mhxx-save-format-community,6
-166,猛变形冰鲨猫掌,F Zamtrios Paw R,mhxx-dex-1.0+mhxx-save-format-community,6
-167,猛白电猫针筒,F Khezu Whaccine R,mhxx-dex-1.0+mhxx-save-format-community,6
-168,猛雌火龙猫细剑,F Rathian Rapier R,mhxx-dex-1.0+mhxx-save-format-community,6
-169,猛潜口龙猫枪锤,F Nibel Blammer R,mhxx-dex-1.0+mhxx-save-format-community,6
-170,猛水龙猫冲浪板,F Plesioth Board R,mhxx-dex-1.0+mhxx-save-format-community,6
-171,猛雪狮子猫枪,F Blango Spear R,mhxx-dex-1.0+mhxx-save-format-community,6
-172,贤者S猫书本,F Quest Book S,mhxx-dex-1.0+mhxx-save-format-community,7
-173,可可特S猫啤酒,F Kokoto Beer S,mhxx-dex-1.0+mhxx-save-format-community,7
-174,波凯S猫拖把,F Pokke Mop S,mhxx-dex-1.0+mhxx-save-format-community,7
-175,结云S猫扇子,F Yukumo Fan S,mhxx-dex-1.0+mhxx-save-format-community,7
-176,公会猫利剑,F Guildcalibur,mhxx-dex-1.0+mhxx-save-format-community,7
-177,悠久的龙头琴,F Dragon Evertones,mhxx-dex-1.0+mhxx-save-format-community,7
-178,木桶小锤【天地无用】,F Barrel Mallet,mhxx-dex-1.0+mhxx-save-format-community,7
-179,北辰纳豆流喵蛮刀,F Dirty Blade,mhxx-dex-1.0+mhxx-save-format-community,7
-180,名剑烤鱼,F Meowsketeer Rapier,mhxx-dex-1.0+mhxx-save-format-community,7
-181,大师猫刃,F Master's Blade,mhxx-dex-1.0+mhxx-save-format-community,7
-182,勇气S猫长枪,F Derring Lance S,mhxx-dex-1.0+mhxx-save-format-community,7
-183,千刃龙S猫斧,F Seregios Edge S,mhxx-dex-1.0+mhxx-save-format-community,7
-184,碎龙猫重拳,F Brachy Wallop,mhxx-dex-1.0+mhxx-save-format-community,7
-185,THE喵纳斯,F Le Chatphrodite,mhxx-dex-1.0+mhxx-save-format-community,7
-186,白骸之猫杖,F White Felyne Staff,mhxx-dex-1.0+mhxx-save-format-community,7
-187,极星剑喵喵,F Polaris Sword,mhxx-dex-1.0+mhxx-save-format-community,7
-188,猛熔岩龙猫权杖,F Lava Mace R,mhxx-dex-1.0+mhxx-save-format-community,7
-189,猛将军镰蟹猫镰,F Ceanataur Cutter R,mhxx-dex-1.0+mhxx-save-format-community,7
-190,猛迅龙猫手里剑,F Narga Shuriken R,mhxx-dex-1.0+mhxx-save-format-community,7
-191,猛绞蛇龙猫蛇笛,F Naja Pungi R,mhxx-dex-1.0+mhxx-save-format-community,7
-192,猛黑狼鸟猫羽扇,F Garuga Fan R,mhxx-dex-1.0+mhxx-save-format-community,7
-193,猛爆锤龙猫铁块,F Uragaan Iron R,mhxx-dex-1.0+mhxx-save-format-community,7
-194,猛重甲虫猫钻头,F Seltas Drill R,mhxx-dex-1.0+mhxx-save-format-community,7
-195,猛火龙猫刃,F Rathalos Blade R,mhxx-dex-1.0+mhxx-save-format-community,7
-196,猛海龙猫锚,F Lagia Anchor R,mhxx-dex-1.0+mhxx-save-format-community,7
-197,猛王猫剑滚滚,F Mewsurper's Peal R,mhxx-dex-1.0+mhxx-save-format-community,7
-198,钢龙S猫杖,F Kushala Wand S,mhxx-dex-1.0+mhxx-save-format-community,7
-199,魔神S猫欺瞒剑,F Genie Breath S,mhxx-dex-1.0+mhxx-save-format-community,7
-200,帝王S猫权杖,F Kaiser Mace S,mhxx-dex-1.0+mhxx-save-format-community,7
-201,霸剑猫黑神,F Akantor Sword,mhxx-dex-1.0+mhxx-save-format-community,7
-202,崩剑猫白神,F Ukanlos Shovel,mhxx-dex-1.0+mhxx-save-format-community,7
-203,凶猫刀【沙丁云】,F Cursed Cloud,mhxx-dex-1.0+mhxx-save-format-community,7
-204,煌黑龙猫镰,F Escador Scythe,mhxx-dex-1.0+mhxx-save-format-community,7
-205,猛泡狐龙猫花伞,F Mizutsune Parasol R,mhxx-dex-1.0+mhxx-save-format-community,7
-206,猛电龙猫枪,F Astalos Spear R,mhxx-dex-1.0+mhxx-save-format-community,7
-207,猛巨猫杖,F Enormews Staff R,mhxx-dex-1.0+mhxx-save-format-community,7
-208,猛灼炎之喵剑,F Scorching Blade R,mhxx-dex-1.0+mhxx-save-format-community,7
-209,猛炎戈龙猫长枪,F Agnaktor Lance R,mhxx-dex-1.0+mhxx-save-format-community,7
-210,猛灯笼of喵喵,F Katzenlampe R,mhxx-dex-1.0+mhxx-save-format-community,7
-211,猛千刃龙猫斧,F Seregios Edge R,mhxx-dex-1.0+mhxx-save-format-community,7
-212,猛尾锤龙猫斧,F Duram Axe R,mhxx-dex-1.0+mhxx-save-format-community,7
-213,猛轰龙猫轰锤,F Tigrex Whammer R,mhxx-dex-1.0+mhxx-save-format-community,7
-214,猛碎龙猫拳,F Brachy Punch R,mhxx-dex-1.0+mhxx-save-format-community,7
-215,猛金色猫机关,F Golden Gadget R,mhxx-dex-1.0+mhxx-save-format-community,7
-216,猛恐暴龙猫暴锤,F Deviljho Mace R,mhxx-dex-1.0+mhxx-save-format-community,7
-217,异形猫锤,F Strange Hammer,mhxx-dex-1.0+mhxx-save-format-community,11
-218,异形S猫锤,F Strange Hammer S,mhxx-dex-1.0+mhxx-save-format-community,11
-219,红盔猫狼牙棒,F Redhelm Mace,mhxx-dex-1.0+mhxx-save-format-community,11
-220,红盔S猫狼牙棒,F Redhelm Mace S,mhxx-dex-1.0+mhxx-save-format-community,11
-221,大雪主猫棍,F Snowbaron Stick,mhxx-dex-1.0+mhxx-save-format-community,11
-222,大雪主S猫棍,F Snowbaron Stick S,mhxx-dex-1.0+mhxx-save-format-community,11
-223,矛碎猫钳,F Stonefist Shears,mhxx-dex-1.0+mhxx-save-format-community,11
-224,矛碎S猫钳,F Stonefist Shears S,mhxx-dex-1.0+mhxx-save-format-community,11
-225,紫毒姬猫细剑,F Dreadqueen Rapier,mhxx-dex-1.0+mhxx-save-format-community,11
-226,紫毒姬S猫细剑,F Dreadqueen Rapier S,mhxx-dex-1.0+mhxx-save-format-community,11
-227,岩穿猫拨浪鼓,F Drilltusk Pounder,mhxx-dex-1.0+mhxx-save-format-community,11
-228,岩穿S猫拨浪鼓,F Drilltusk Pounder S,mhxx-dex-1.0+mhxx-save-format-community,11
-229,白疾风猫手里剑,F Silverwind Star,mhxx-dex-1.0+mhxx-save-format-community,11
-230,白疾风S猫手里剑,F Silverwind Star S,mhxx-dex-1.0+mhxx-save-format-community,11
-231,宝缠猫铁块,F Crystalbeard Iron,mhxx-dex-1.0+mhxx-save-format-community,11
-232,宝缠S猫铁块,F Crystalbeard Iron S,mhxx-dex-1.0+mhxx-save-format-community,11
-233,独眼猫羽扇,F Deadeye Fan,mhxx-dex-1.0+mhxx-save-format-community,11
-234,独眼S猫羽扇,F Deadeye Fan S,mhxx-dex-1.0+mhxx-save-format-community,11
-235,黑炎王猫刃,F Dreadking Blade,mhxx-dex-1.0+mhxx-save-format-community,11
-236,黑炎王S猫刃,F Dreadking Blade S,mhxx-dex-1.0+mhxx-save-format-community,11
-237,金狼猫剑滚滚,F Thunderlord's Peal,mhxx-dex-1.0+mhxx-save-format-community,11
-238,金狼牙猫剑【猫雷】,F Thunderlord's Roar,mhxx-dex-1.0+mhxx-save-format-community,11
-239,荒钩爪猫轰锤,F Grimclaw Whammer,mhxx-dex-1.0+mhxx-save-format-community,11
-240,荒钩爪S猫轰锤,F Grimclaw Whammer S,mhxx-dex-1.0+mhxx-save-format-community,11
-241,爆焰之喵剑,F Blazing Ashes,mhxx-dex-1.0+mhxx-save-format-community,11
-242,烬灭喵剑,F Ashen Whiskers,mhxx-dex-1.0+mhxx-save-format-community,11
-243,僵尸君的胃袋,F Zombie-kun Gut,mhxx-dex-1.0+mhxx-save-format-community,3
-244,妖精的尾巴之刃,F Fairy Tail Blade,mhxx-dex-1.0+mhxx-save-format-community,3
-245,财宝J猫圣爵,F Treasure Chalice J,mhxx-dex-1.0+mhxx-save-format-community,3
-246,大海盗J猫之大钥匙,F Pirate Key J,mhxx-dex-1.0+mhxx-save-format-community,3
-247,传说J猫瞄准镜,F Legendary Glass J,mhxx-dex-1.0+mhxx-save-format-community,3
-248,金币王J猫钩,F Greedy Hook J,mhxx-dex-1.0+mhxx-save-format-community,3
-249,报纸卷儿,F Rolled-up Paper,mhxx-dex-1.0+mhxx-save-format-community,3
-250,猎衣库猫球,F Monqlo Ball,mhxx-dex-1.0+mhxx-save-format-community,3
-251,F Meowstar Gunbai,F Meowstar Gunbai,mhxx-save-format-community-en-fallback,0
-252,F Spirits Sword,F Spirits Sword,mhxx-save-format-community-en-fallback,0
-253,御堂筋猫自行车,F Midousuji Bike,mhxx-dex-1.0+mhxx-save-format-community,7
-254,僵尸君的强胃袋,F Zombie-kun Stomach,mhxx-dex-1.0+mhxx-save-format-community,7
-255,危险的那玩意儿,F Grandpaw Danger,mhxx-dex-1.0+mhxx-save-format-community,7
-256,真妖精的尾巴之刃,F True Fairy Tail Blade,mhxx-dex-1.0+mhxx-save-format-community,7
-257,黑魔喵之杖,F Dark Meowgic Staff,mhxx-dex-1.0+mhxx-save-format-community,7
-258,财宝王J猫圣爵,F Booty Chalice J,mhxx-dex-1.0+mhxx-save-format-community,7
-259,大海盗J猫之冒险钥匙,F Buccaneer Key J,mhxx-dex-1.0+mhxx-save-format-community,7
-260,传说王J猫瞄准镜,F King Scope J,mhxx-dex-1.0+mhxx-save-format-community,7
-261,大金币王J猫钩,F Avaricious Hook J,mhxx-dex-1.0+mhxx-save-format-community,7
-262,卷得很硬的报纸卷儿,F Tightly-rolled Paper,mhxx-dex-1.0+mhxx-save-format-community,7
-263,猎衣库S猫球,F Monqlo Ball S,mhxx-dex-1.0+mhxx-save-format-community,7
-264,F Supreme Gunbai,F Supreme Gunbai,mhxx-save-format-community-en-fallback,0
-265,F Star World,F Star World,mhxx-save-format-community-en-fallback,0
-266,F Magical Baton,F Magical Baton,mhxx-save-format-community-en-fallback,0
-267,F Kirimi Stick,F Kirimi Stick,mhxx-save-format-community-en-fallback,0
-268,F Nyankyrie Weapon,F Nyankyrie Weapon,mhxx-save-format-community-en-fallback,0
-269,猫之指挥棒,F Wind Waker,mhxx-dex-1.0+mhxx-save-format-community,7
-270,喵束枪,F Blaster,mhxx-dex-1.0+mhxx-save-format-community,7
-271,无敌锤子,F Invincible Hammer,mhxx-dex-1.0+mhxx-save-format-community,7
-272,监视员的鹤嘴镐,F Sentry's Pickaxe,mhxx-dex-1.0+mhxx-save-format-community,7
-273,秘书的活页夹,F Minder's Binder,mhxx-dex-1.0+mhxx-save-format-community,7
-274,喵骑剑,F Sword of Purrity,mhxx-dex-1.0+mhxx-save-format-community,7
-275,春丽猫钉拳套,F Chun Bracelets,mhxx-dex-1.0+mhxx-save-format-community,7
-276,布兰卡猫巨骨舌鱼,F Blanka Fish,mhxx-dex-1.0+mhxx-save-format-community,7
-277,魔剑阿喵斯托尔,F Alastor,mhxx-dex-1.0+mhxx-save-format-community,7
-278,狂舞大锤,F Rushing Hammer,mhxx-dex-1.0+mhxx-save-format-community,7
-279,旋律猫指挥棒,F Melodic Baton,mhxx-dex-1.0+mhxx-save-format-community,7
-280,F Spirits Sword S,F Spirits Sword S,mhxx-save-format-community-en-fallback,0
-281,MH Fan Club猫喇叭,F Fan Megaphone,mhxx-dex-1.0+mhxx-save-format-community,7
-282,猫铁木屐【煮苦级】,F Tenderpaw Clog,mhxx-dex-1.0+mhxx-save-format-community,7
-283,白速龙猫刺刀,F Giaprey Bayonet,mhxx-dex-1.0+mhxx-save-format-community,4
-284,桃毛兽猫钹,F Conga Cymbals,mhxx-dex-1.0+mhxx-save-format-community,4
-285,土砂龙猫权杖,F Barroth Mace,mhxx-dex-1.0+mhxx-save-format-community,4
-286,窥视未知猫眼镜,F Second Sight Lens,mhxx-dex-1.0+mhxx-save-format-community,5
-287,岩龙猫斧,F Basarios Axe,mhxx-dex-1.0+mhxx-save-format-community,5
-288,影蜘蛛猫尖刃刀,F Nerscylla Wedge,mhxx-dex-1.0+mhxx-save-format-community,5
-289,冰牙龙猫厨刀,F Barioth Knife,mhxx-dex-1.0+mhxx-save-format-community,6
-290,铠龙猫火箭炮,F Grav Bazooka,mhxx-dex-1.0+mhxx-save-format-community,6
-291,角龙猫锤,F Diablos Hammer,mhxx-dex-1.0+mhxx-save-format-community,7
-292,银翼的猫剑,F Silverwing Sword,mhxx-dex-1.0+mhxx-save-format-community,7
-293,骨制X猫尖刃刀,F Bone Wedge X,mhxx-dex-1.0+mhxx-save-format-community,8
-294,贝鲁纳X猫杖,F Bherna Staff X,mhxx-dex-1.0+mhxx-save-format-community,8
-295,绯鸢猫尖刃刀,F Eltalite Wedge,mhxx-dex-1.0+mhxx-save-format-community,8
-296,巨大X猫橡子,F Giant Acorn X,mhxx-dex-1.0+mhxx-save-format-community,8
-297,蓝速龙X猫尖刃刀,F Vprey Wedge X,mhxx-dex-1.0+mhxx-save-format-community,8
-298,大桶X猫锤,F Barrel Basher X,mhxx-dex-1.0+mhxx-save-format-community,8
-299,美食家X猫奶酪,F Gourmet Cheese X,mhxx-dex-1.0+mhxx-save-format-community,8
-300,云羊鹿X猫毛线,F Moofah Cotton X,mhxx-dex-1.0+mhxx-save-format-community,8
-301,DX猫猫的BBQ,F Deluxe BBQ,mhxx-dex-1.0+mhxx-save-format-community,8
-302,鱼X猫尖刃刀,F Fish Stick X,mhxx-dex-1.0+mhxx-save-format-community,8
-303,猫猫的满汉全席,F Smorgasbord,mhxx-dex-1.0+mhxx-save-format-community,8
-304,首鸣龙X猫木棒,F Bushwhacker X,mhxx-dex-1.0+mhxx-save-format-community,8
-305,肉球X猫拳,F Paw Punch X,mhxx-dex-1.0+mhxx-save-format-community,8
-306,绯鸢猫剑,F Eltalite Sword,mhxx-dex-1.0+mhxx-save-format-community,8
-307,骨制X猫锤,F Bone Hammer X,mhxx-dex-1.0+mhxx-save-format-community,8
-308,变化X猫捕虫网,F Alta Net X,mhxx-dex-1.0+mhxx-save-format-community,8
-309,飞甲虫X猫短剑,F Bnaha Dagger X,mhxx-dex-1.0+mhxx-save-format-community,8
-310,狗龙X猫匕首,F Jaggi Knife X,mhxx-dex-1.0+mhxx-save-format-community,8
-311,硬甲龙X猫铁锤,F Rheno Hammer X,mhxx-dex-1.0+mhxx-save-format-community,8
-312,垂皮龙X猫叶,F Slagtoth Leaf X,mhxx-dex-1.0+mhxx-save-format-community,8
-313,跳狗龙X猫短剑,F Maccao Dagger X,mhxx-dex-1.0+mhxx-save-format-community,8
-314,蓝速龙X猫刺刀,F Vprey Bayonet X,mhxx-dex-1.0+mhxx-save-format-community,8
-315,野猪王X猫獠牙,F Bulldrome Tusk X,mhxx-dex-1.0+mhxx-save-format-community,8
-316,青熊兽X猫狼牙棒,F Arzuros Mace X,mhxx-dex-1.0+mhxx-save-format-community,8
-317,白速龙X猫刺刀,F Giaprey Bayonet X,mhxx-dex-1.0+mhxx-save-format-community,8
-318,黄速龙X猫刺刀,F Genprey Bayonet X,mhxx-dex-1.0+mhxx-save-format-community,8
-319,白兔兽X猫棍,F Lagombi Staff X,mhxx-dex-1.0+mhxx-save-format-community,8
-320,砂龙X猫刷,F Cephalos Brush X,mhxx-dex-1.0+mhxx-save-format-community,8
-321,怪鸟X猫团扇,F Kut-Ku Cutter X,mhxx-dex-1.0+mhxx-save-format-community,8
-322,毒怪鸟X猫安卡,F Gypceros Glare X,mhxx-dex-1.0+mhxx-save-format-community,8
-323,鬼蛙X猫拨浪鼓,F Cabra Pounder X,mhxx-dex-1.0+mhxx-save-format-community,8
-324,大名盾蟹X猫钳,F Daimyo Shears X,mhxx-dex-1.0+mhxx-save-format-community,8
-325,水兽X猫爪,F Ludroth Paw X,mhxx-dex-1.0+mhxx-save-format-community,8
-326,奇猿狐X猫耙,F Kecha Harrow X,mhxx-dex-1.0+mhxx-save-format-community,8
-327,可可特X猫啤酒,F Kokoto Beer X,mhxx-dex-1.0+mhxx-save-format-community,9
-328,结云X猫扇子,F Yukumo Fan X,mhxx-dex-1.0+mhxx-save-format-community,9
-329,铃兰X猫棒,F Bell Rod X,mhxx-dex-1.0+mhxx-save-format-community,9
-330,大怪鸟的咕咕咕,F Yian Kut-Ku Cackle,mhxx-dex-1.0+mhxx-save-format-community,9
-331,巨型野猪王的咚咚咚,F Bulldrome Rrrumble,mhxx-dex-1.0+mhxx-save-format-community,9
-332,大兽神贝西摩斯的乱舞,F Sacred Titan Dance,mhxx-dex-1.0+mhxx-save-format-community,9
-333,毒蜂X猫棒,F Venombee Bat X,mhxx-dex-1.0+mhxx-save-format-community,9
-334,南瓜X猫扫帚,F Mosgharl Broom X,mhxx-dex-1.0+mhxx-save-format-community,9
-335,名刀喵虎彻,F Real Catetsu Blade,mhxx-dex-1.0+mhxx-save-format-community,9
-336,武者猫特大宝锤,F Marauder Warhammer,mhxx-dex-1.0+mhxx-save-format-community,9
-337,龙识究镜猫放大镜,F Finder's Loupe,mhxx-dex-1.0+mhxx-save-format-community,9
-338,红速龙X猫刺刀,F Ioprey Bayonet X,mhxx-dex-1.0+mhxx-save-format-community,9
-339,赤甲兽X猫灯笼,F Volvi Lantern X,mhxx-dex-1.0+mhxx-save-format-community,9
-340,岩龙X猫斧,F Basarios Axe X,mhxx-dex-1.0+mhxx-save-format-community,9
-341,桃毛兽X猫钹,F Conga Cymbals X,mhxx-dex-1.0+mhxx-save-format-community,9
-342,土砂龙X猫权杖,F Barroth Mace X,mhxx-dex-1.0+mhxx-save-format-community,9
-343,白电X猫针筒,F Khezu Whaccine X,mhxx-dex-1.0+mhxx-save-format-community,9
-344,潜口龙X猫枪锤,F Nibel Blammer X,mhxx-dex-1.0+mhxx-save-format-community,9
-345,眠伞大公猫头套,F Slumbering Archduke,mhxx-dex-1.0+mhxx-save-format-community,9
-346,雌火龙猫细剑,F Swiftblur Rapier,mhxx-dex-1.0+mhxx-save-format-community,9
-347,雪狮子X猫枪,F Blango Spear X,mhxx-dex-1.0+mhxx-save-format-community,9
-348,将军镰蟹X猫镰,F Ceanataur Cutter X,mhxx-dex-1.0+mhxx-save-format-community,9
-349,影蜘蛛X猫尖刃刀,F Scylla Wedge X,mhxx-dex-1.0+mhxx-save-format-community,9
-350,绞蛇龙X猫蛇笛,F Naja Pungi X,mhxx-dex-1.0+mhxx-save-format-community,9
-351,迅龙X猫手里剑,F Narga Shuriken X,mhxx-dex-1.0+mhxx-save-format-community,9
-352,变形冰鲨X猫掌,F Zamtrios Paw X,mhxx-dex-1.0+mhxx-save-format-community,9
-353,水龙X猫冲浪板,F Plesioth Board X,mhxx-dex-1.0+mhxx-save-format-community,9
-354,狞怪鸟猫团扇,F Kut-Ku Cutter XR,mhxx-dex-1.0+mhxx-save-format-community,9
-355,狞奇猿狐猫耙,F Kecha Harrow XR,mhxx-dex-1.0+mhxx-save-format-community,9
-356,狞毒怪鸟猫安卡,F Gypceros Glare XR,mhxx-dex-1.0+mhxx-save-format-community,9
-357,狞鬼蛙猫拨浪鼓,F Cabra Pounder XR,mhxx-dex-1.0+mhxx-save-format-community,9
-358,狞大名盾蟹猫钳,F Daimyo Shears XR,mhxx-dex-1.0+mhxx-save-format-community,9
-359,狞水兽猫爪,F Ludroth Paw XR,mhxx-dex-1.0+mhxx-save-format-community,9
-360,贤者X猫书本,F Quest Book X,mhxx-dex-1.0+mhxx-save-format-community,9
-361,勇气X猫长枪,F Derring Lance X,mhxx-dex-1.0+mhxx-save-format-community,9
-362,木桶大锤【急速奔驰】,F Barrel Hammer,mhxx-dex-1.0+mhxx-save-format-community,9
-363,ZZZ……猫菲妮,F Snoozy Moofy Plush,mhxx-dex-1.0+mhxx-save-format-community,9
-364,砍柴X猫斧,F Wood Chopper X,mhxx-dex-1.0+mhxx-save-format-community,9
-365,痹枪喵麻蕈,F Mycetic Rod,mhxx-dex-1.0+mhxx-save-format-community,9
-366,死神X猫镰,F DeathStench Scythe X,mhxx-dex-1.0+mhxx-save-format-community,9
-367,至宝杖肉球,F Fine Catspaw Staff,mhxx-dex-1.0+mhxx-save-format-community,9
-368,熟睡猫菲妮,F Slumbral Moofy Plush,mhxx-dex-1.0+mhxx-save-format-community,9
-369,黑狼鸟X猫羽扇,F Garuga Fan X,mhxx-dex-1.0+mhxx-save-format-community,9
-370,爆锤龙X猫铁块,F Uragaan Iron X,mhxx-dex-1.0+mhxx-save-format-community,9
-371,熔岩龙X猫权杖,F Lava Mace X,mhxx-dex-1.0+mhxx-save-format-community,9
-372,海龙X猫锚,F Lagia Anchor X,mhxx-dex-1.0+mhxx-save-format-community,9
-373,大斩剑闪耀喵星,F Novaslice Whiskers,mhxx-dex-1.0+mhxx-save-format-community,9
-374,霆枪猫标枪,F St. Elmo's Javelin,mhxx-dex-1.0+mhxx-save-format-community,9
-375,巨猫拂侠MAX,F Ginormewsest Staff,mhxx-dex-1.0+mhxx-save-format-community,9
-376,夏喵草的深绯天伞,F Crimson Sky Parasol,mhxx-dex-1.0+mhxx-save-format-community,9
-377,冰牙龙X猫厨刀,F Barioth Knife X,mhxx-dex-1.0+mhxx-save-format-community,9
-378,狱炎剑猫刃,F Charring Blade,mhxx-dex-1.0+mhxx-save-format-community,9
-379,真･王牙猫剑【仙狸】,F Mewsurper's Yowl,mhxx-dex-1.0+mhxx-save-format-community,9
-380,铠龙X火箭炮,F Grav Bazooka X,mhxx-dex-1.0+mhxx-save-format-community,9
-381,魂of喵喵,F Katzenseele,mhxx-dex-1.0+mhxx-save-format-community,9
-382,轰龙X猫轰锤,F Tigrex Whammer X,mhxx-dex-1.0+mhxx-save-format-community,9
-383,重甲虫X猫钻头,F Seltas Drill X,mhxx-dex-1.0+mhxx-save-format-community,9
-384,雷神猫宝剑麒麟,F Kirin Bolt Maximus,mhxx-dex-1.0+mhxx-save-format-community,9
-385,封龙薙刀【老猫龙】,F Sealed Drgn Halberd,mhxx-dex-1.0+mhxx-save-format-community,9
-386,狞岩龙猫斧,F Basarios Axe XR,mhxx-dex-1.0+mhxx-save-format-community,9
-387,狞桃毛兽猫钹,F Conga Cymbals XR,mhxx-dex-1.0+mhxx-save-format-community,9
-388,狞土砂龙猫权杖,F Barroth Mace XR,mhxx-dex-1.0+mhxx-save-format-community,9
-389,狞白电猫针筒,F Khezu Whaccine XR,mhxx-dex-1.0+mhxx-save-format-community,9
-390,狞潜口龙猫枪锤,F Nibel Blammer XR,mhxx-dex-1.0+mhxx-save-format-community,9
-391,狞夜鸟猫阳伞,F Jester Parasol XR,mhxx-dex-1.0+mhxx-save-format-community,9
-392,狞雌火龙猫细剑,F Rathian Rapier XR,mhxx-dex-1.0+mhxx-save-format-community,9
-393,狞雪狮子猫枪,F Blango Spear XR,mhxx-dex-1.0+mhxx-save-format-community,9
-394,狞将军镰蟹猫镰,F Ceanataur Cutter XR,mhxx-dex-1.0+mhxx-save-format-community,9
-395,狞影蜘蛛猫尖刃刀,F Scylla Wedge XR,mhxx-dex-1.0+mhxx-save-format-community,9
-396,狞绞蛇龙猫蛇笛,F Naja Pungi XR,mhxx-dex-1.0+mhxx-save-format-community,9
-397,狞迅龙猫手里剑,F Narga Shuriken XR,mhxx-dex-1.0+mhxx-save-format-community,9
-398,狞变形冰鲨猫掌,F Zamtrios Paw XR,mhxx-dex-1.0+mhxx-save-format-community,9
-399,狞水龙猫冲浪板,F Plesioth Board XR,mhxx-dex-1.0+mhxx-save-format-community,9
-400,公会X猫利剑,F Guildcalibur X,mhxx-dex-1.0+mhxx-save-format-community,10
-401,悠久闪耀龙头琴,F Dragon Forevertones,mhxx-dex-1.0+mhxx-save-format-community,10
-402,纳豆真传喵蛮刀,F Pro Dirty Blade,mhxx-dex-1.0+mhxx-save-format-community,10
-403,天下名剑煮鱼,F Meowsketeer Espada,mhxx-dex-1.0+mhxx-save-format-community,10
-404,传奇猫剑,F Legend Blade,mhxx-dex-1.0+mhxx-save-format-community,10
-405,探索喵之扇,F Miaownifique,mhxx-dex-1.0+mhxx-save-format-community,10
-406,爱=喵喵,F Purrlissimo,mhxx-dex-1.0+mhxx-save-format-community,10
-407,炎戈龙X猫长枪,F Agnaktor Lance X,mhxx-dex-1.0+mhxx-save-format-community,10
-408,尾锤龙X猫斧,F Duram Axe X,mhxx-dex-1.0+mhxx-save-format-community,10
-409,千刃龙X猫斧,F Seregios Edge X,mhxx-dex-1.0+mhxx-save-format-community,10
-410,角龙X猫锤,F Diablos Hammer X,mhxx-dex-1.0+mhxx-save-format-community,10
-411,碎龙猫超拳,F Brachydios Smash,mhxx-dex-1.0+mhxx-save-format-community,10
-412,THE喵芙洛狄蒂,F La Venyasss,mhxx-dex-1.0+mhxx-save-format-community,10
-413,龙星猫剑喵闪耀,F Dragon Comet,mhxx-dex-1.0+mhxx-save-format-community,10
-414,金色X猫机关,F Golden Gadget X,mhxx-dex-1.0+mhxx-save-format-community,10
-415,恐暴龙X猫暴锤,F Vangis Mace X,mhxx-dex-1.0+mhxx-save-format-community,10
-416,金枪鱼or鸡肉,F Fischfleisch,mhxx-dex-1.0+mhxx-save-format-community,10
-417,钢龙X猫杖,F Kushala Wand X,mhxx-dex-1.0+mhxx-save-format-community,10
-418,魔神X猫欺瞒剑,F Genie Breath X,mhxx-dex-1.0+mhxx-save-format-community,10
-419,帝王X猫权杖,F Kaiser Mace X,mhxx-dex-1.0+mhxx-save-format-community,10
-420,白骸猫杖喵喵座,F White Felyne Scepter,mhxx-dex-1.0+mhxx-save-format-community,10
-421,极星爪剑喵喵,F Polaris Clawsword,mhxx-dex-1.0+mhxx-save-format-community,10
-422,碑文之杖喵赫麦特,F Engraved Staff,mhxx-dex-1.0+mhxx-save-format-community,10
-423,狞黑狼鸟猫羽扇,F Garuga Fan XR,mhxx-dex-1.0+mhxx-save-format-community,10
-424,狞爆锤龙猫铁块,F Uragaan Iron XR,mhxx-dex-1.0+mhxx-save-format-community,10
-425,狞熔岩龙猫权杖,F Lava Mace XR,mhxx-dex-1.0+mhxx-save-format-community,10
-426,狞海龙猫锚,F Lagia Anchor XR,mhxx-dex-1.0+mhxx-save-format-community,10
-427,狞灼炎之喵剑,F Scorching Blade XR,mhxx-dex-1.0+mhxx-save-format-community,10
-428,狞电龙猫枪,F Astalos Spear XR,mhxx-dex-1.0+mhxx-save-format-community,10
-429,狞巨猫杖,F Enormews Staff XR,mhxx-dex-1.0+mhxx-save-format-community,10
-430,狞泡狐龙猫花伞,F Mizutsune Parasol XR,mhxx-dex-1.0+mhxx-save-format-community,10
-431,狞冰牙龙猫厨刀,F Barioth Knife XR,mhxx-dex-1.0+mhxx-save-format-community,10
-432,狞火龙猫刃,F Rathalos Blade XR,mhxx-dex-1.0+mhxx-save-format-community,10
-433,狞王猫剑滚滚,F Mewsurper's Peal XR,mhxx-dex-1.0+mhxx-save-format-community,10
-434,狞铠龙猫火箭炮,F Grav Bazooka XR,mhxx-dex-1.0+mhxx-save-format-community,10
-435,狞灯笼of喵喵,F Katzenlampe XR,mhxx-dex-1.0+mhxx-save-format-community,10
-436,狞轰龙猫轰锤,F Tigrex Whammer XR,mhxx-dex-1.0+mhxx-save-format-community,10
-437,狞重甲虫猫钻头,F Seltas Drill XR,mhxx-dex-1.0+mhxx-save-format-community,10
-438,狩猎X猫匕首,F Hunting Knife X,mhxx-dex-1.0+mhxx-save-format-community,10
-439,真･结云猫木刀,F True Yukumo Bokken,mhxx-dex-1.0+mhxx-save-format-community,10
-440,波凯X猫拖把,F Pokke Mop X,mhxx-dex-1.0+mhxx-save-format-community,10
-441,雪绒花X猫棒,F Edel Rod X,mhxx-dex-1.0+mhxx-save-format-community,10
-442,霸剑X猫黑神,F Akantor Sword X,mhxx-dex-1.0+mhxx-save-format-community,10
-443,崩剑X猫白神,F Ukanlos Shovel X,mhxx-dex-1.0+mhxx-save-format-community,10
-444,太虚之猫刀【天鱼】,F Celestial Squall,mhxx-dex-1.0+mhxx-save-format-community,10
-445,煌黑龙X猫镰,F Escador Scythe X,mhxx-dex-1.0+mhxx-save-format-community,10
-446,黑龙猫眼剑,F Fatalis Eye,mhxx-dex-1.0+mhxx-save-format-community,10
-447,黑灭猫眼剑,F Havoc Eye,mhxx-dex-1.0+mhxx-save-format-community,10
-448,祖龙喵棒,F Fatalis Rod,mhxx-dex-1.0+mhxx-save-format-community,10
-449,狞炎戈龙猫长枪,F Agnaktor Lance XR,mhxx-dex-1.0+mhxx-save-format-community,10
-450,狞尾锤龙猫斧,F Duram Axe XR,mhxx-dex-1.0+mhxx-save-format-community,10
-451,狞千刃龙猫斧,F Seregios Edge XR,mhxx-dex-1.0+mhxx-save-format-community,10
-452,狞角龙猫锤,F Diablos Hammer XR,mhxx-dex-1.0+mhxx-save-format-community,10
-453,狞碎龙猫拳,F Brachy Punch XR,mhxx-dex-1.0+mhxx-save-format-community,10
-454,狞金色猫机关,F Golden Gadget XR,mhxx-dex-1.0+mhxx-save-format-community,10
-455,狞恐暴龙猫暴锤,F Vangis Mace XR,mhxx-dex-1.0+mhxx-save-format-community,10
-456,异形X猫锤,F Strange Hammer X,mhxx-dex-1.0+mhxx-save-format-community,11
-457,异形XX猫锤,F Strange Hammer XX,mhxx-dex-1.0+mhxx-save-format-community,11
-458,红盔X猫狼牙棒,F Redhelm Mace X,mhxx-dex-1.0+mhxx-save-format-community,11
-459,红盔XX猫狼牙棒,F Redhelm Mace XX,mhxx-dex-1.0+mhxx-save-format-community,11
-460,大雪主X猫棍,F Snowbaron Stick X,mhxx-dex-1.0+mhxx-save-format-community,11
-461,大雪主XX猫棍,F Snowbaron Stick XX,mhxx-dex-1.0+mhxx-save-format-community,11
-462,矛碎X猫钳,F Stonefist Shears X,mhxx-dex-1.0+mhxx-save-format-community,11
-463,矛碎XX猫钳,F Stonefist Shears XX,mhxx-dex-1.0+mhxx-save-format-community,11
-464,紫毒姬X猫细剑,F DreadqueenRapier X,mhxx-dex-1.0+mhxx-save-format-community,11
-465,紫毒姬XX猫细剑,F DreadqueenRapier XX,mhxx-dex-1.0+mhxx-save-format-community,11
-466,岩穿X猫拨浪鼓,F Drilltusk Pounder X,mhxx-dex-1.0+mhxx-save-format-community,11
-467,岩穿XX猫拨浪鼓,F Drilltusk Pounder XX,mhxx-dex-1.0+mhxx-save-format-community,11
-468,胧隐究极魂,F Cloaked Parasol,mhxx-dex-1.0+mhxx-save-format-community,11
-469,胧伞大侯爵喵伞,F Exalted Parasol,mhxx-dex-1.0+mhxx-save-format-community,11
-470,撕碎･磨爪,F Scratching Pole,mhxx-dex-1.0+mhxx-save-format-community,11
-471,铠裂猫镰超级猫抓板,F Rending Pole,mhxx-dex-1.0+mhxx-save-format-community,11
-472,白疾风X猫手里剑,F Silverwind Star X,mhxx-dex-1.0+mhxx-save-format-community,11
-473,白疾风XX猫手里剑,F Silverwind Star XX,mhxx-dex-1.0+mhxx-save-format-community,11
-474,宝缠X猫铁块,F Crystalbeard Iron X,mhxx-dex-1.0+mhxx-save-format-community,11
-475,宝缠XX猫铁块,F Crystalbeard Iron XX,mhxx-dex-1.0+mhxx-save-format-community,11
-476,独眼X猫羽扇,F Deadeye Fan X,mhxx-dex-1.0+mhxx-save-format-community,11
-477,独眼XX猫羽扇,F Deadeye Fan XX,mhxx-dex-1.0+mhxx-save-format-community,11
-478,黑炎王X猫刃,F Dreadking Blade X,mhxx-dex-1.0+mhxx-save-format-community,11
-479,黑炎王XX猫刃,F Dreadking Blade XX,mhxx-dex-1.0+mhxx-save-format-community,11
-480,真･金狼牙猫剑,F Thunderlord'sRoar X,mhxx-dex-1.0+mhxx-save-format-community,11
-481,极･金狼牙猫剑【低吼】,F Thunderlord'sRoar XX,mhxx-dex-1.0+mhxx-save-format-community,11
-482,荒钩爪X猫轰锤,F GrimclawWhammer X,mhxx-dex-1.0+mhxx-save-format-community,11
-483,荒钩爪XX猫轰锤,F GrimclawWhammr XX,mhxx-dex-1.0+mhxx-save-format-community,11
-484,豪灭剑喵者也,F Smouldering Whiskers,mhxx-dex-1.0+mhxx-save-format-community,11
-485,真灭剑闪耀喵星,F Searing Whiskers,mhxx-dex-1.0+mhxx-save-format-community,11
-486,天眼猫伞･红叶良猫,F Scarlet Virtue,mhxx-dex-1.0+mhxx-save-format-community,11
-487,红喵的饱食猫伞,F Incarnadine Greed,mhxx-dex-1.0+mhxx-save-format-community,11
-488,西风猫枪,F Zephra Spear,mhxx-dex-1.0+mhxx-save-format-community,11
-489,吉尔博尔特猫枪,F Zilbolt Spear,mhxx-dex-1.0+mhxx-save-format-community,11
-490,银峰猫杖,F Snowcap Staff,mhxx-dex-1.0+mhxx-save-format-community,11
-491,拂侠猫王之大乱斗,F The Trampler,mhxx-dex-1.0+mhxx-save-format-community,11
-492,屠杀猫锤,F Carnage Hammer,mhxx-dex-1.0+mhxx-save-format-community,11
-493,尘猫锤喵是也,F Bloodbath Hammer,mhxx-dex-1.0+mhxx-save-format-community,11
-494,F Flame Naginata,F Flame Naginata,mhxx-save-format-community-en-fallback,0
-495,C月猫棒,F Cutie Moon Rod,mhxx-dex-1.0+mhxx-save-format-community,3
-496,F Conquest Naginata,F Conquest Naginata,mhxx-save-format-community-en-fallback,0
-497,都牟刈猫太刀,F Tsumugari,mhxx-dex-1.0+mhxx-save-format-community,7
-498,亚瑟猫长枪,F Arthur's Lance,mhxx-dex-1.0+mhxx-save-format-community,7
-499,C月S猫棒,F Cutie Moon Rod S,mhxx-dex-1.0+mhxx-save-format-community,7
-500,F Q.Bacon Skewer,F Q.Bacon Skewer,mhxx-save-format-community-en-fallback,0
-501,都牟刈X猫太刀,F Tsumugari X,mhxx-dex-1.0+mhxx-save-format-community,10
-502,亚瑟X猫长枪,F Arthur's Lance X,mhxx-dex-1.0+mhxx-save-format-community,10
-503,C月X猫棒,F Cutie Moon Rod X,mhxx-dex-1.0+mhxx-save-format-community,10
-504,F Q.Bacon Skewer X,F Q.Bacon Skewer X,mhxx-save-format-community-en-fallback,0
-505,“我有异议”牌子,F Objection! Panel,mhxx-dex-1.0+mhxx-save-format-community,10
-506,灵魂十字镐,F Spirits Pickaxe,mhxx-dex-1.0+mhxx-save-format-community,10
-507,克洛格的树枝,F Korok Branch,mhxx-dex-1.0+mhxx-save-format-community,10
-508,F Zenith Naginata,F Zenith Naginata,mhxx-save-format-community-en-fallback,0
+0,无,None,mhxx-romfs-game-array,0
+1,骨制猫尖刃刀,F Bone Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+2,贝鲁纳猫杖,F Bherna Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+3,铁制猫剑,F Iron Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+4,骨制猫锤,F Bone Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+5,狗龙猫匕首,F Jaggi Knife,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,1
+6,狩猎猫匕首,F Hunting Knife,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+7,结云猫木刀,F Yukumo Bokken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+8,砍柴猫斧,F Wood Chopper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+9,肉球猫拳,F Paw Punch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+10,变化猫捕虫网,F Alta Net,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+11,硬甲龙猫铁锤,F Rheno Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+12,飞甲虫猫短剑,F Bnaha Dagger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+13,跳狗龙猫短剑,F Maccao Dagger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+14,蓝速龙猫刺刀,F Vprey Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+15,野猪王猫獠牙,F Bulldrome Tusk,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+16,青熊兽猫狼牙棒,F Arzuros Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+17,黄速龙猫刺刀,F Genprey Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+18,砂龙猫刷,F Cephalos Brush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+19,燕雀猫尖刃刀,F Machalite Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+20,橡子猫巨锤,F Giant Acorn,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+21,猫兽人的石像,F Stone Cat Statue,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+22,毒蜂猫棒,F Venombee Bat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+23,美食家猫奶酪,F Gourmet Cheese,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+24,云羊鹿猫毛线,F Moofah Cotton,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+25,草食龙猫肉锤,F Aptonoth Meat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+26,鱼猫尖刃刀,F Fish Stick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+27,炙烧猫锤,F Grilled Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+28,红速龙猫刺刀,F Ioprey Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+29,白兔兽猫棍,F Lagombi Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+30,怪鸟猫团扇,F Kut-Ku Cutter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+31,毒怪鸟猫安卡,F Gypceros Glare,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+32,鬼蛙猫拨浪鼓,F Cabra Pounder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+33,大名盾蟹猫钳,F Daimyo Shears,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+34,水兽猫爪,F Ludroth Paw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+35,白电猫针筒,F Khezu Whaccine,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+36,潜口龙猫枪锤,F Nibel Blammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+37,贤者猫书本,F Quest Book,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+38,蓝速龙猫尖刃刀,F Vprey Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+39,大桶猫锤,F Barrel Basher,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+40,勇气猫长枪,F Derring Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+41,雪绒花猫棒,F Edel Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+42,南瓜猫扫把,F Mosgharl Broom,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+43,首鸣龙猫木棒,F Bushwhacker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+44,死神猫镰,F Death Stench Scythe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+45,武者猫之太刀,F Marauder Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+46,武者猫之锤,F Marauder Gavel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+47,赤甲兽猫灯笼,F Volvi Lantern,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+48,夜鸟猫阳伞,F Jester Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+49,雌火龙猫细剑,F Rathian Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+50,雪狮子猫枪,F Blango Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+51,将军镰蟹猫镰,F Ceanataur Cutter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+52,绞蛇龙猫蛇笛,F Naja Pungi,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+53,迅龙猫手里剑,F Narga Shuriken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,2
+54,可可特猫啤酒,F Kokoto Beer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+55,波凯猫拖把,F Pokke Mop,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+56,结云猫扇子,F Yukumo Fan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+57,迷幻菇猫棒,F Shroom Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+58,黄金乡猫掌,F Eldora Paw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+59,黑狼鸟猫羽扇,F Garuga Fan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+60,爆锤龙猫铁块,F Uragaan Iron,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+61,火龙猫刃,F Rathalos Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+62,海龙猫锚,F Lagia Anchor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+63,电龙猫枪,F Astalos Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+64,巨猫杖,F Enormews Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+65,泡狐龙猫花伞,F Mizutsune Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+66,公会猫细剑,F Guild Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+67,晚安猫菲妮,F Moofy Plush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+68,灼炎之喵剑,F Scorching Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+69,王猫剑滚滚,F Mewsurper's Peal,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+70,灯笼of喵喵,F Katzenlampe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+71,千刃龙猫斧,F Seregios Edge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+72,轰龙猫轰锤,F Tigrex Whammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+73,神猫剑轰隆,F Kirin Rumblezap,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+74,碎龙猫拳,F Brachy Punch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+75,THE喵喵心,F Le Cœur de Chat,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+76,钢龙猫杖,F Kushala Wand,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+77,魔神猫欺瞒剑,F Genie Breath,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+78,帝王猫权杖,F Kaiser Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+79,其名为猫的白骸,F White Felyne Husk,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+80,骨制S猫尖刃刀,F Bone Wedge S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+81,贝鲁纳S猫杖,F Bherna Staff S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+82,狩猎S猫匕首,F Hunting Knife S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+83,结云猫木刀･鲣鱼干,F Yukumo Bonito,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+84,灵鹤猫尖刃刀,F Carbalite Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+85,橡子S猫巨锤,F Giant Acorn S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+86,蓝速龙S猫尖刃刀,F Vprey Wedge S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+87,大桶S猫锤,F Barrel Basher S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+88,美食家S猫奶酪,F Gourmet Cheese S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+89,云羊鹿S猫毛线,F Moofah Cotton S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+90,猫猫的BBQ,F Barbecue,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+91,鱼S猫尖刃刀,F Fish Stick S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+92,猫的晚餐,F Fingerlicker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+93,首鸣龙S猫木棒,F Bushwhacker S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+94,肉球S猫拳,F Paw Punch S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+95,灵鹤猫剑,F Carbalite Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+96,骨制S猫锤,F Bone Hammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+97,变化S猫捕虫网,F Alta Net S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+98,飞甲虫S猫短剑,F Bnaha Dagger S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+99,狗龙S猫匕首,F Jaggi Knife S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+100,硬甲龙S猫铁锤,F Rheno Hammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+101,垂皮龙猫叶,F Slagtoth Leaf,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+102,跳狗龙S猫短剑,F Maccao Dagger S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+103,蓝速龙S猫刺刀,F Vprey Bayonet S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+104,野猪王S猫獠牙,F Bulldrome Tusk S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+105,青熊兽S猫狼牙棒,F Arzuros Mace S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+106,黄速龙S猫刺刀,F Genprey Bayonet S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+107,白兔兽S猫棍,F Lagombi Staff S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+108,砂龙S猫刷,F Cephalos Brush S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+109,怪鸟S猫团扇,F Kut-Ku Cutter S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+110,毒怪鸟S猫安卡,F Gypceros Glare S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+111,鬼蛙S猫拨浪鼓,F Cabra Pounder S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+112,大名盾蟹S猫钳,F Daimyo Shears S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+113,水兽S猫爪,F Ludroth Paw S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+114,奇猿狐猫耙,F Kecha Harrow,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+115,铃兰猫棒,F Bell Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+116,兽神石像鬼的华尔兹,F Gargouille Waltz,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+117,毒蜂S猫棒,F Venombee Bat S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+118,南瓜S猫扫把,F Mosgharl Broom S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+119,名刀喵铁,F Meowtetsuken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+120,敲打喵锤,F Pounderpurr,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+121,红速龙S猫刺刀,F Ioprey Bayonet S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+122,赤甲兽S猫灯笼,F Volvi Lantern S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+123,白电S猫针筒,F Khezu Whaccine S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+124,潜口龙S猫枪锤,F Nibel Blammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+125,催眠伞公爵猫香箱,F Slumbering Duke,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+126,雌火龙S猫细剑,F Queen Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+127,雪狮子S猫长矛,F Blango Spear S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+128,将军镰蟹S猫镰,F Ceanataur Cutter S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+129,绞蛇龙S猫蛇笛,F Naja Pungi S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+130,迅龙S猫手里剑,F Narga Shuriken S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+131,黑狼鸟S猫羽扇,F Garuga Fan S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+132,爆锤龙S猫铁块,F Uragaan Iron S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+133,变形冰鲨猫掌,F Zamtrios Paw,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+134,水龙猫冲浪板,F Plesioth Board,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+135,熔岩龙猫权杖,F Lava Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+136,雪绒花S猫棒,F Edel Rod S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+137,沉睡猫菲妮,F Lulling Moofy Plush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+138,砍柴S猫斧,F Wood Chopper S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+139,怪鸟的咕咕咕,F Kut-Ku Cackle,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+140,野猪王的咚咚咚,F Bulldrome Rrrush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+141,大迷幻喵菇棒,F Mighty Shroom Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+142,死神S猫镰,F D. Stench Scythe S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+143,亡国之宝杖喵喵拳,F Lost Catspaw Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+144,海龙S猫锚,F Lagia Anchor S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+145,斩龙猫剑,F Scorched Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+146,电枪猫枪,F Lightning Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+147,巨猫･拂侠,F Ginormews Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+148,夏喵草深绯之伞,F Crimson Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+149,炎剑猫刃,F Blazing Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+150,王牙猫剑【猫雷】,F Mewsurper's Roar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+151,漆黑of喵喵,F Katzenfunzel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+152,轰龙S猫轰锤,F Tigrex Whammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+153,重甲虫猫钻头,F Seltas Drill,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+154,炎戈龙猫长枪,F Agnaktor Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+155,尾锤龙猫斧,F Duram Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+156,神猫剑【猫光】,F Kirin Bolt,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+157,金色猫机关,F Golden Gadget,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+158,恐暴龙猫暴锤,F Vangis Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+159,猛怪鸟猫团扇,F Kut-Ku Cutter R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+160,猛奇猿狐猫耙,F Kecha Harrow R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+161,猛毒怪鸟猫安卡,F Gypceros Ankh R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+162,猛鬼蛙猫拨浪鼓,F Cabra Pounder R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+163,猛大名盾蟹猫钳,F Daimyo Shears R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+164,猛水兽猫爪,F Ludroth Paw R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+165,猛夜鸟猫阳伞,F Jester Parasol R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+166,猛变形冰鲨猫掌,F Zamtrios Paw R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+167,猛白电猫针筒,F Khezu Whaccine R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+168,猛雌火龙猫细剑,F Rathian Rapier R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+169,猛潜口龙猫枪锤,F Nibel Blammer R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+170,猛水龙猫冲浪板,F Plesioth Board R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+171,猛雪狮子猫枪,F Blango Spear R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+172,贤者S猫书本,F Quest Book S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+173,可可特S猫啤酒,F Kokoto Beer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+174,波凯S猫拖把,F Pokke Mop S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+175,结云S猫扇子,F Yukumo Fan S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+176,公会猫利剑,F Guildcalibur,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+177,悠久的龙头琴,F Dragon Evertones,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+178,木桶小锤【天地无用】,F Barrel Mallet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+179,北辰纳豆流喵蛮刀,F Dirty Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+180,名剑烤鱼,F Meowsketeer Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+181,大师猫刃,F Master's Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+182,勇气S猫长枪,F Derring Lance S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+183,千刃龙S猫斧,F Seregios Edge S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+184,碎龙猫重拳,F Brachy Wallop,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+185,THE喵纳斯,F Le Chatphrodite,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+186,白骸之猫杖,F White Felyne Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+187,极星剑喵喵,F Polaris Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+188,猛熔岩龙猫权杖,F Lava Mace R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+189,猛将军镰蟹猫镰,F Ceanataur Cutter R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+190,猛迅龙猫手里剑,F Narga Shuriken R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+191,猛绞蛇龙猫蛇笛,F Naja Pungi R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+192,猛黑狼鸟猫羽扇,F Garuga Fan R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+193,猛爆锤龙猫铁块,F Uragaan Iron R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+194,猛重甲虫猫钻头,F Seltas Drill R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+195,猛火龙猫刃,F Rathalos Blade R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+196,猛海龙猫锚,F Lagia Anchor R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+197,猛王猫剑滚滚,F Mewsurper's Peal R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+198,钢龙S猫杖,F Kushala Wand S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+199,魔神S猫欺瞒剑,F Genie Breath S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+200,帝王S猫权杖,F Kaiser Mace S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+201,霸剑猫黑神,F Akantor Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+202,崩剑猫白神,F Ukanlos Shovel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+203,凶猫刀【沙丁云】,F Cursed Cloud,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+204,煌黑龙猫镰,F Escador Scythe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+205,猛泡狐龙猫花伞,F Mizutsune Parasol R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+206,猛电龙猫枪,F Astalos Spear R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+207,猛巨猫杖,F Enormews Staff R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+208,猛灼炎之喵剑,F Scorching Blade R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+209,猛炎戈龙猫长枪,F Agnaktor Lance R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+210,猛灯笼of喵喵,F Katzenlampe R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+211,猛千刃龙猫斧,F Seregios Edge R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+212,猛尾锤龙猫斧,F Duram Axe R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+213,猛轰龙猫轰锤,F Tigrex Whammer R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+214,猛碎龙猫拳,F Brachy Punch R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+215,猛金色猫机关,F Golden Gadget R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+216,猛恐暴龙猫暴锤,F Deviljho Mace R,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+217,异形猫锤,F Strange Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+218,异形S猫锤,F Strange Hammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+219,红盔猫狼牙棒,F Redhelm Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+220,红盔S猫狼牙棒,F Redhelm Mace S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+221,大雪主猫棍,F Snowbaron Stick,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+222,大雪主S猫棍,F Snowbaron Stick S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+223,矛碎猫钳,F Stonefist Shears,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+224,矛碎S猫钳,F Stonefist Shears S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+225,紫毒姬猫细剑,F Dreadqueen Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+226,紫毒姬S猫细剑,F Dreadqueen Rapier S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+227,岩穿猫拨浪鼓,F Drilltusk Pounder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+228,岩穿S猫拨浪鼓,F Drilltusk Pounder S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+229,白疾风猫手里剑,F Silverwind Star,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+230,白疾风S猫手里剑,F Silverwind Star S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+231,宝缠猫铁块,F Crystalbeard Iron,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+232,宝缠S猫铁块,F Crystalbeard Iron S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+233,独眼猫羽扇,F Deadeye Fan,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+234,独眼S猫羽扇,F Deadeye Fan S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+235,黑炎王猫刃,F Dreadking Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+236,黑炎王S猫刃,F Dreadking Blade S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+237,金狼猫剑滚滚,F Thunderlord's Peal,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+238,金狼牙猫剑【猫雷】,F Thunderlord's Roar,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+239,荒钩爪猫轰锤,F Grimclaw Whammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+240,荒钩爪S猫轰锤,F Grimclaw Whammer S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+241,爆焰之喵剑,F Blazing Ashes,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+242,烬灭喵剑,F Ashen Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+243,僵尸君的胃袋,F Zombie-kun Gut,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+244,妖精的尾巴之刃,F Fairy Tail Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+245,财宝J猫圣爵,F Treasure Chalice J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+246,大海盗J猫之大钥匙,F Pirate Key J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+247,传说J猫瞄准镜,F Legendary Glass J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+248,金币王J猫钩,F Greedy Hook J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+249,报纸卷儿,F Rolled-up Paper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+250,猎衣库猫球,F Monqlo Ball,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+251,F Meowstar Gunbai,F Meowstar Gunbai,mhxx-romfs-game-array+mhxx-save-format-community,0
+252,F Spirits Sword,F Spirits Sword,mhxx-romfs-game-array+mhxx-save-format-community,0
+253,御堂筋猫自行车,F Midousuji Bike,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+254,僵尸君的强胃袋,F Zombie-kun Stomach,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+255,危险的那玩意儿,F Grandpaw Danger,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+256,真妖精的尾巴之刃,F True Fairy Tail Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+257,黑魔喵之杖,F Dark Meowgic Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+258,财宝王J猫圣爵,F Booty Chalice J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+259,大海盗J猫之冒险钥匙,F Buccaneer Key J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+260,传说王J猫瞄准镜,F King Scope J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+261,大金币王J猫钩,F Avaricious Hook J,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+262,卷得很硬的报纸卷儿,F Tightly-rolled Paper,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+263,猎衣库S猫球,F Monqlo Ball S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+264,F Supreme Gunbai,F Supreme Gunbai,mhxx-romfs-game-array+mhxx-save-format-community,0
+265,F Star World,F Star World,mhxx-romfs-game-array+mhxx-save-format-community,0
+266,F Magical Baton,F Magical Baton,mhxx-romfs-game-array+mhxx-save-format-community,0
+267,F Kirimi Stick,F Kirimi Stick,mhxx-romfs-game-array+mhxx-save-format-community,0
+268,F Nyankyrie Weapon,F Nyankyrie Weapon,mhxx-romfs-game-array+mhxx-save-format-community,0
+269,猫之指挥棒,F Wind Waker,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+270,喵束枪,F Blaster,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+271,无敌锤子,F Invincible Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+272,监视员的鹤嘴镐,F Sentry's Pickaxe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+273,秘书的活页夹,F Minder's Binder,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+274,喵骑剑,F Sword of Purrity,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+275,春丽猫钉拳套,F Chun Bracelets,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+276,布兰卡猫巨骨舌鱼,F Blanka Fish,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+277,魔剑阿喵斯托尔,F Alastor,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+278,狂舞大锤,F Rushing Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+279,旋律猫指挥棒,F Melodic Baton,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+280,F Spirits Sword S,F Spirits Sword S,mhxx-romfs-game-array+mhxx-save-format-community,0
+281,MH Fan Club猫喇叭,F Fan Megaphone,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+282,猫铁木屐【煮苦级】,F Tenderpaw Clog,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+283,白速龙猫刺刀,F Giaprey Bayonet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+284,桃毛兽猫钹,F Conga Cymbals,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+285,土砂龙猫权杖,F Barroth Mace,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,4
+286,窥视未知猫眼镜,F Second Sight Lens,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+287,岩龙猫斧,F Basarios Axe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+288,影蜘蛛猫尖刃刀,F Nerscylla Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,5
+289,冰牙龙猫厨刀,F Barioth Knife,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+290,铠龙猫火箭炮,F Grav Bazooka,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,6
+291,角龙猫锤,F Diablos Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+292,银翼的猫剑,F Silverwing Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+293,骨制X猫尖刃刀,F Bone Wedge X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+294,贝鲁纳X猫杖,F Bherna Staff X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+295,绯鸢猫尖刃刀,F Eltalite Wedge,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+296,巨大X猫橡子,F Giant Acorn X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+297,蓝速龙X猫尖刃刀,F Vprey Wedge X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+298,大桶X猫锤,F Barrel Basher X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+299,美食家X猫奶酪,F Gourmet Cheese X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+300,云羊鹿X猫毛线,F Moofah Cotton X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+301,DX猫猫的BBQ,F Deluxe BBQ,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+302,鱼X猫尖刃刀,F Fish Stick X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+303,猫猫的满汉全席,F Smorgasbord,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+304,首鸣龙X猫木棒,F Bushwhacker X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+305,肉球X猫拳,F Paw Punch X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+306,绯鸢猫剑,F Eltalite Sword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+307,骨制X猫锤,F Bone Hammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+308,变化X猫捕虫网,F Alta Net X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+309,飞甲虫X猫短剑,F Bnaha Dagger X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+310,狗龙X猫匕首,F Jaggi Knife X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+311,硬甲龙X猫铁锤,F Rheno Hammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+312,垂皮龙X猫叶,F Slagtoth Leaf X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+313,跳狗龙X猫短剑,F Maccao Dagger X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+314,蓝速龙X猫刺刀,F Vprey Bayonet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+315,野猪王X猫獠牙,F Bulldrome Tusk X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+316,青熊兽X猫狼牙棒,F Arzuros Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+317,白速龙X猫刺刀,F Giaprey Bayonet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+318,黄速龙X猫刺刀,F Genprey Bayonet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+319,白兔兽X猫棍,F Lagombi Staff X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+320,砂龙X猫刷,F Cephalos Brush X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+321,怪鸟X猫团扇,F Kut-Ku Cutter X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+322,毒怪鸟X猫安卡,F Gypceros Glare X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+323,鬼蛙X猫拨浪鼓,F Cabra Pounder X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+324,大名盾蟹X猫钳,F Daimyo Shears X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+325,水兽X猫爪,F Ludroth Paw X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+326,奇猿狐X猫耙,F Kecha Harrow X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,8
+327,可可特X猫啤酒,F Kokoto Beer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+328,结云X猫扇子,F Yukumo Fan X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+329,铃兰X猫棒,F Bell Rod X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+330,大怪鸟的咕咕咕,F Yian Kut-Ku Cackle,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+331,巨型野猪王的咚咚咚,F Bulldrome Rrrumble,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+332,大兽神贝西摩斯的乱舞,F Sacred Titan Dance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+333,毒蜂X猫棒,F Venombee Bat X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+334,南瓜X猫扫帚,F Mosgharl Broom X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+335,名刀喵虎彻,F Real Catetsu Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+336,武者猫特大宝锤,F Marauder Warhammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+337,龙识究镜猫放大镜,F Finder's Loupe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+338,红速龙X猫刺刀,F Ioprey Bayonet X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+339,赤甲兽X猫灯笼,F Volvi Lantern X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+340,岩龙X猫斧,F Basarios Axe X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+341,桃毛兽X猫钹,F Conga Cymbals X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+342,土砂龙X猫权杖,F Barroth Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+343,白电X猫针筒,F Khezu Whaccine X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+344,潜口龙X猫枪锤,F Nibel Blammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+345,眠伞大公猫头套,F Slumbering Archduke,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+346,雌火龙猫细剑,F Swiftblur Rapier,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+347,雪狮子X猫枪,F Blango Spear X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+348,将军镰蟹X猫镰,F Ceanataur Cutter X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+349,影蜘蛛X猫尖刃刀,F Scylla Wedge X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+350,绞蛇龙X猫蛇笛,F Naja Pungi X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+351,迅龙X猫手里剑,F Narga Shuriken X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+352,变形冰鲨X猫掌,F Zamtrios Paw X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+353,水龙X猫冲浪板,F Plesioth Board X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+354,狞怪鸟猫团扇,F Kut-Ku Cutter XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+355,狞奇猿狐猫耙,F Kecha Harrow XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+356,狞毒怪鸟猫安卡,F Gypceros Glare XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+357,狞鬼蛙猫拨浪鼓,F Cabra Pounder XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+358,狞大名盾蟹猫钳,F Daimyo Shears XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+359,狞水兽猫爪,F Ludroth Paw XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+360,贤者X猫书本,F Quest Book X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+361,勇气X猫长枪,F Derring Lance X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+362,木桶大锤【急速奔驰】,F Barrel Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+363,ZZZ……猫菲妮,F Snoozy Moofy Plush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+364,砍柴X猫斧,F Wood Chopper X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+365,痹枪喵麻蕈,F Mycetic Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+366,死神X猫镰,F DeathStench Scythe X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+367,至宝杖肉球,F Fine Catspaw Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+368,熟睡猫菲妮,F Slumbral Moofy Plush,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+369,黑狼鸟X猫羽扇,F Garuga Fan X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+370,爆锤龙X猫铁块,F Uragaan Iron X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+371,熔岩龙X猫权杖,F Lava Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+372,海龙X猫锚,F Lagia Anchor X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+373,大斩剑闪耀喵星,F Novaslice Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+374,霆枪猫标枪,F St. Elmo's Javelin,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+375,巨猫拂侠MAX,F Ginormewsest Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+376,夏喵草的深绯天伞,F Crimson Sky Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+377,冰牙龙X猫厨刀,F Barioth Knife X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+378,狱炎剑猫刃,F Charring Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+379,真･王牙猫剑【仙狸】,F Mewsurper's Yowl,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+380,铠龙X火箭炮,F Grav Bazooka X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+381,魂of喵喵,F Katzenseele,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+382,轰龙X猫轰锤,F Tigrex Whammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+383,重甲虫X猫钻头,F Seltas Drill X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+384,雷神猫宝剑麒麟,F Kirin Bolt Maximus,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+385,封龙薙刀【老猫龙】,F Sealed Drgn Halberd,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+386,狞岩龙猫斧,F Basarios Axe XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+387,狞桃毛兽猫钹,F Conga Cymbals XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+388,狞土砂龙猫权杖,F Barroth Mace XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+389,狞白电猫针筒,F Khezu Whaccine XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+390,狞潜口龙猫枪锤,F Nibel Blammer XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+391,狞夜鸟猫阳伞,F Jester Parasol XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+392,狞雌火龙猫细剑,F Rathian Rapier XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+393,狞雪狮子猫枪,F Blango Spear XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+394,狞将军镰蟹猫镰,F Ceanataur Cutter XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+395,狞影蜘蛛猫尖刃刀,F Scylla Wedge XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+396,狞绞蛇龙猫蛇笛,F Naja Pungi XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+397,狞迅龙猫手里剑,F Narga Shuriken XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+398,狞变形冰鲨猫掌,F Zamtrios Paw XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+399,狞水龙猫冲浪板,F Plesioth Board XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,9
+400,公会X猫利剑,F Guildcalibur X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+401,悠久闪耀龙头琴,F Dragon Forevertones,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+402,纳豆真传喵蛮刀,F Pro Dirty Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+403,天下名剑煮鱼,F Meowsketeer Espada,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+404,传奇猫剑,F Legend Blade,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+405,探索喵之扇,F Miaownifique,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+406,爱=喵喵,F Purrlissimo,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+407,炎戈龙X猫长枪,F Agnaktor Lance X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+408,尾锤龙X猫斧,F Duram Axe X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+409,千刃龙X猫斧,F Seregios Edge X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+410,角龙X猫锤,F Diablos Hammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+411,碎龙猫超拳,F Brachydios Smash,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+412,THE喵芙洛狄蒂,F La Venyasss,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+413,龙星猫剑喵闪耀,F Dragon Comet,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+414,金色X猫机关,F Golden Gadget X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+415,恐暴龙X猫暴锤,F Vangis Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+416,金枪鱼or鸡肉,F Fischfleisch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+417,钢龙X猫杖,F Kushala Wand X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+418,魔神X猫欺瞒剑,F Genie Breath X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+419,帝王X猫权杖,F Kaiser Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+420,白骸猫杖喵喵座,F White Felyne Scepter,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+421,极星爪剑喵喵,F Polaris Clawsword,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+422,碑文之杖喵赫麦特,F Engraved Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+423,狞黑狼鸟猫羽扇,F Garuga Fan XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+424,狞爆锤龙猫铁块,F Uragaan Iron XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+425,狞熔岩龙猫权杖,F Lava Mace XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+426,狞海龙猫锚,F Lagia Anchor XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+427,狞灼炎之喵剑,F Scorching Blade XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+428,狞电龙猫枪,F Astalos Spear XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+429,狞巨猫杖,F Enormews Staff XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+430,狞泡狐龙猫花伞,F Mizutsune Parasol XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+431,狞冰牙龙猫厨刀,F Barioth Knife XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+432,狞火龙猫刃,F Rathalos Blade XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+433,狞王猫剑滚滚,F Mewsurper's Peal XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+434,狞铠龙猫火箭炮,F Grav Bazooka XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+435,狞灯笼of喵喵,F Katzenlampe XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+436,狞轰龙猫轰锤,F Tigrex Whammer XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+437,狞重甲虫猫钻头,F Seltas Drill XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+438,狩猎X猫匕首,F Hunting Knife X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+439,真･结云猫木刀,F True Yukumo Bokken,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+440,波凯X猫拖把,F Pokke Mop X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+441,雪绒花X猫棒,F Edel Rod X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+442,霸剑X猫黑神,F Akantor Sword X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+443,崩剑X猫白神,F Ukanlos Shovel X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+444,太虚之猫刀【天鱼】,F Celestial Squall,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+445,煌黑龙X猫镰,F Escador Scythe X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+446,黑龙猫眼剑,F Fatalis Eye,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+447,黑灭猫眼剑,F Havoc Eye,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+448,祖龙喵棒,F Fatalis Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+449,狞炎戈龙猫长枪,F Agnaktor Lance XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+450,狞尾锤龙猫斧,F Duram Axe XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+451,狞千刃龙猫斧,F Seregios Edge XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+452,狞角龙猫锤,F Diablos Hammer XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+453,狞碎龙猫拳,F Brachy Punch XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+454,狞金色猫机关,F Golden Gadget XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+455,狞恐暴龙猫暴锤,F Vangis Mace XR,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+456,异形X猫锤,F Strange Hammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+457,异形XX猫锤,F Strange Hammer XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+458,红盔X猫狼牙棒,F Redhelm Mace X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+459,红盔XX猫狼牙棒,F Redhelm Mace XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+460,大雪主X猫棍,F Snowbaron Stick X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+461,大雪主XX猫棍,F Snowbaron Stick XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+462,矛碎X猫钳,F Stonefist Shears X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+463,矛碎XX猫钳,F Stonefist Shears XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+464,紫毒姬X猫细剑,F DreadqueenRapier X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+465,紫毒姬XX猫细剑,F DreadqueenRapier XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+466,岩穿X猫拨浪鼓,F Drilltusk Pounder X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+467,岩穿XX猫拨浪鼓,F Drilltusk Pounder XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+468,胧隐究极魂,F Cloaked Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+469,胧伞大侯爵喵伞,F Exalted Parasol,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+470,撕碎･磨爪,F Scratching Pole,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+471,铠裂猫镰超级猫抓板,F Rending Pole,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+472,白疾风X猫手里剑,F Silverwind Star X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+473,白疾风XX猫手里剑,F Silverwind Star XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+474,宝缠X猫铁块,F Crystalbeard Iron X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+475,宝缠XX猫铁块,F Crystalbeard Iron XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+476,独眼X猫羽扇,F Deadeye Fan X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+477,独眼XX猫羽扇,F Deadeye Fan XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+478,黑炎王X猫刃,F Dreadking Blade X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+479,黑炎王XX猫刃,F Dreadking Blade XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+480,真･金狼牙猫剑,F Thunderlord'sRoar X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+481,极･金狼牙猫剑【低吼】,F Thunderlord'sRoar XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+482,荒钩爪X猫轰锤,F GrimclawWhammer X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+483,荒钩爪XX猫轰锤,F GrimclawWhammr XX,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+484,豪灭剑喵者也,F Smouldering Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+485,真灭剑闪耀喵星,F Searing Whiskers,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+486,天眼猫伞･红叶良猫,F Scarlet Virtue,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+487,红喵的饱食猫伞,F Incarnadine Greed,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+488,西风猫枪,F Zephra Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+489,吉尔博尔特猫枪,F Zilbolt Spear,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+490,银峰猫杖,F Snowcap Staff,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+491,拂侠猫王之大乱斗,F The Trampler,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+492,屠杀猫锤,F Carnage Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+493,尘猫锤喵是也,F Bloodbath Hammer,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,11
+494,F Flame Naginata,F Flame Naginata,mhxx-romfs-game-array+mhxx-save-format-community,0
+495,C月猫棒,F Cutie Moon Rod,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,3
+496,F Conquest Naginata,F Conquest Naginata,mhxx-romfs-game-array+mhxx-save-format-community,0
+497,都牟刈猫太刀,F Tsumugari,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+498,亚瑟猫长枪,F Arthur's Lance,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+499,C月S猫棒,F Cutie Moon Rod S,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,7
+500,F Q.Bacon Skewer,F Q.Bacon Skewer,mhxx-romfs-game-array+mhxx-save-format-community,0
+501,都牟刈X猫太刀,F Tsumugari X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+502,亚瑟X猫长枪,F Arthur's Lance X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+503,C月X猫棒,F Cutie Moon Rod X,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+504,F Q.Bacon Skewer X,F Q.Bacon Skewer X,mhxx-romfs-game-array+mhxx-save-format-community,0
+505,“我有异议”牌子,F Objection! Panel,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+506,灵魂十字镐,F Spirits Pickaxe,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+507,克洛格的树枝,F Korok Branch,mhxx-romfs-game-array+mhxx-dex-1.0+mhxx-save-format-community,10
+508,F Zenith Naginata,F Zenith Naginata,mhxx-romfs-game-array+mhxx-save-format-community,0
