@@ -94,7 +94,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     auto *emptyTitle = new QLabel(QStringLiteral("尚未读取存档"), m_emptyPage);
     emptyTitle->setObjectName(QStringLiteral("emptyTitle"));
     emptyTitle->setAlignment(Qt::AlignCenter);
-    auto *emptyHint = new QLabel(QStringLiteral("点击右下角“读取存档”，选择无文件头的 system。"), m_emptyPage);
+    auto *emptyHint = new QLabel(QStringLiteral("点击右下角“读取存档”，选择 system（支持无头或带 36 字节头）。"), m_emptyPage);
     emptyHint->setObjectName(QStringLiteral("appSubtitle"));
     emptyHint->setAlignment(Qt::AlignCenter);
     emptyLayout->addWidget(emptyTitle);

@@ -1,7 +1,8 @@
 # MHGU / MHXX Save Editor
 
 Monster Hunter Generations Ultimate（Nintendo Switch）存档修改器。当前首版支持
-MHGU 的无头 `system`；MHXX / Nintendo 3DS 尚无真实样本，因此暂不开放。
+MHGU 的 `system`（支持无头及带 36 字节头的版本）；MHXX / Nintendo 3DS 尚无真实
+样本，因此暂不开放。
 
 界面采用与 MH3G、MH4G 统一的中文管理台，左侧切换存档槽、角色、道具箱、装备箱
 和猫猫，右侧在同一窗口编辑。猎人及猫猫幻化统一标为
@@ -34,13 +35,15 @@ powershell -ExecutionPolicy Bypass -File .\build-windows.ps1 `
 
 ## 使用流程
 
-1. 打开大小为 `5,159,064` 字节的 MHGU `system`。
+1. 打开大小为 `5,159,064` 字节（无头）或 `5,159,100` 字节（带 36 字节头）的
+   MHGU `system`。
 2. 从存档 1/2/3 中选择一个已使用槽位。
 3. 编辑角色信息、2300 格道具箱、猎人/猫装备箱或最多 84 只猫。
 4. 点击“保存修改”原子覆盖当前打开的 `system`；成功后会弹窗显示路径。
 
 切换存档槽、打开其他文件或退出时，如果存在未保存修改，程序会提供“保存 / 放弃 /
-取消”。带 36 字节文件头、大小为 `5,159,100` 的 `system_backup` 会被拒绝。
+取消”。两种 `system` 保存时都会保持原有文件头形式；文件名明确为 `system_backup`
+的游戏备份会被拒绝，修改器不会直接编辑它。
 
 ## 已实现功能
 

@@ -91,7 +91,8 @@ struct MhguPalico {
 class MhguSave {
 public:
     static constexpr qint64 FileSize = 5159064;
-    static constexpr qint64 BackupFileSize = 5159100;
+    static constexpr qint64 HeaderSize = 36;
+    static constexpr qint64 HeaderedFileSize = FileSize + HeaderSize;
     static constexpr int ItemCount = 2300;
     static constexpr int EquipmentCount = 2000;
     static constexpr int PalicoEquipmentCount = 1000;
@@ -143,6 +144,7 @@ private:
     void encodeItems(const QVector<MhguItem> &items);
 
     QByteArray m_raw;
+    QByteArray m_header;
     QString m_path;
     QString m_error;
     int m_selectedSlot = -1;

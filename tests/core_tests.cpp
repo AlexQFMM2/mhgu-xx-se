@@ -99,10 +99,6 @@ int main(int argc, char **argv)
     const QString wrong = temp.filePath(QStringLiteral("wrong"));
     require(writeFile(wrong, QByteArray(10, char(0))), "write wrong-size file");
     require(!save.open(wrong), "reject wrong-size file");
-    const QString backup = temp.filePath(QStringLiteral("headered-input"));
-    require(writeFile(backup, QByteArray(int(MhguSave::BackupFileSize), char(0))), "write backup file");
-    require(!save.open(backup) && save.error().contains(QStringLiteral("system_backup")), "reject headered backup");
-
     const QString path = temp.filePath(QStringLiteral("system"));
     const QByteArray original = syntheticSystem();
     require(writeFile(path, original), "write synthetic system");
@@ -122,6 +118,31 @@ int main(int argc, char **argv)
     require(!save.isDirty(), "clean immediately after open");
     require(save.save(), "save unchanged system");
     require(readFile(path) == original, "unchanged save is byte-identical");
+
+    QByteArray header(int(MhguSave::HeaderSize), char(0));
+    for (int i = 0; i < header.size(); ++i) header[i] = char((i * 17 + 3) & 0xFF);
+    const QByteArray headeredOriginal = header + original;
+    const QString headeredPath = temp.filePath(QStringLiteral("system-headered"));
+    require(writeFile(headeredPath, headeredOriginal), "write headered system");
+    require(save.open(headeredPath), "open headered system");
+    require(save.selectSlot(0), "select slot in headered system");
+    require(save.save(), "save unchanged headered system");
+    require(readFile(headeredPath) == headeredOriginal, "headered unchanged save is byte-identical");
+    MhguCharacter headeredCharacter = save.character();
+    headeredCharacter.money = 7654321;
+    require(save.setCharacter(headeredCharacter) && save.save(), "edit and save headered system");
+    const QByteArray headeredEdited = readFile(headeredPath);
+    require(headeredEdited.size() == MhguSave::HeaderedFileSize, "headered save keeps original size");
+    require(headeredEdited.left(int(MhguSave::HeaderSize)) == header, "header bytes remain unchanged");
+
+    const QString backup = temp.filePath(QStringLiteral("system_backup"));
+    require(writeFile(backup, headeredOriginal), "write named backup file");
+    require(!save.open(backup) && save.error().contains(QStringLiteral("system_backup")), "reject named system_backup");
+    require(save.isOpen() && save.path() == headeredPath && save.character().money == 7654321,
+            "rejected backup preserves current headered system");
+    require(QFile::remove(backup), "remove synthetic named backup after rejection test");
+
+    require(save.open(path) && save.selectSlot(1), "return to unheadered system");
 
     require(save.setItem(0, MhguItem{9, 99}), "set bit-packed item");
     require(save.items()[0].id == 9 && save.items()[0].count == 99, "round-trip bit-packed item");

@@ -49,33 +49,44 @@ bool subset(const std::array<quint8, A> &selected, const std::array<quint8, B> &
 
 bool MhguSave::open(const QString &path)
 {
+    const QFileInfo input(path);
+    if (input.fileName().compare(QStringLiteral("system_backup"), Qt::CaseInsensitive) == 0) {
+        m_error = QStringLiteral("为避免破坏游戏备份，不能直接编辑 system_backup；请选择 system。");
+        return false;
+    }
     QFile file(path);
     if (!file.open(QIODevice::ReadOnly)) {
         m_error = QStringLiteral("无法读取文件：%1").arg(file.errorString());
         return false;
     }
     const QByteArray bytes = file.readAll();
-    if (bytes.size() == BackupFileSize) {
-        m_error = QStringLiteral("这是带 36 字节文件头的 system_backup，首版只编辑无头的 system。");
-        return false;
-    }
-    if (bytes.size() != FileSize) {
-        m_error = QStringLiteral("文件大小不正确：应为 %1 字节，实际为 %2 字节。")
-                      .arg(FileSize).arg(bytes.size());
+    QByteArray header;
+    QByteArray raw;
+    if (bytes.size() == FileSize) {
+        raw = bytes;
+    } else if (bytes.size() == HeaderedFileSize) {
+        header = bytes.left(int(HeaderSize));
+        raw = bytes.mid(int(HeaderSize));
+    } else {
+        m_error = QStringLiteral("文件大小不正确：应为 %1 字节（无头）或 %2 字节（带 36 字节头），实际为 %3 字节。")
+                      .arg(FileSize).arg(HeaderedFileSize).arg(bytes.size());
         return false;
     }
 
     const QByteArray previousRaw = m_raw;
+    const QByteArray previousHeader = m_header;
     const QString previousPath = m_path;
     const int previousSlot = m_selectedSlot;
     const bool previousDirty = m_dirty;
-    m_raw = bytes;
+    m_raw = raw;
+    m_header = header;
     m_path = QFileInfo(path).absoluteFilePath();
     m_selectedSlot = -1;
     m_dirty = false;
     QString validationError;
     if (!validate(&validationError)) {
         m_raw = previousRaw;
+        m_header = previousHeader;
         m_path = previousPath;
         m_selectedSlot = previousSlot;
         m_dirty = previousDirty;
@@ -98,7 +109,8 @@ bool MhguSave::save()
         return false;
     }
     const QFileInfo target(m_path);
-    if (!target.exists() || target.size() != FileSize) {
+    const QByteArray output = m_header + m_raw;
+    if (!target.exists() || target.size() != output.size()) {
         m_error = QStringLiteral("磁盘上的 system 已被删除或尺寸发生变化；为避免覆盖错误文件，已停止保存。");
         return false;
     }
@@ -108,7 +120,7 @@ bool MhguSave::save()
         m_error = QStringLiteral("无法写入 system：%1").arg(file.errorString());
         return false;
     }
-    if (file.write(m_raw) != m_raw.size()) {
+    if (file.write(output) != output.size()) {
         m_error = QStringLiteral("system 没有完整写入：%1").arg(file.errorString());
         file.cancelWriting();
         return false;
@@ -125,6 +137,7 @@ bool MhguSave::save()
 void MhguSave::close()
 {
     m_raw.clear();
+    m_header.clear();
     m_path.clear();
     m_selectedSlot = -1;
     m_dirty = false;
