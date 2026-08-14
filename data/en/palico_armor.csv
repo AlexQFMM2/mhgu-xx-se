@@ -1,0 +1,525 @@
+id,name,english,source,rarity
+0,None,None,mhxx-save-format-community,0
+2,F Acorn Mail,F Acorn Mail,mhxx-dex-1.0,1
+4,F Bherna Mail,F Bherna Mail,mhxx-dex-1.0,1
+6,F Alloy Mail,F Alloy Mail,mhxx-dex-1.0,1
+8,F Bone Mail,F Bone Mail,mhxx-dex-1.0,1
+10,F Jaggi Mail,F Jaggi Mail,mhxx-dex-1.0,1
+12,F Hunting Mail,F Hunting Mail,mhxx-dex-1.0,2
+14,F Mafumofu Vest,F Mafumofu Vest,mhxx-dex-1.0,2
+16,F Yukumo Dogi,F Yukumo Dogi,mhxx-dex-1.0,2
+18,F Alta Shirt,F Alta Shirt,mhxx-dex-1.0,2
+20,F Rheno Mail,F Rheno Mail,mhxx-dex-1.0,2
+22,F Bnaha Suit,F Bnaha Suit,mhxx-dex-1.0,2
+24,F Maccao Mail,F Maccao Mail,mhxx-dex-1.0,2
+26,F Velociprey Mail,F Velociprey Mail,mhxx-dex-1.0,2
+28,F Bulldrome Vest,F Bulldrome Vest,mhxx-dex-1.0,2
+30,F Arzuros Mail,F Arzuros Mail,mhxx-dex-1.0,2
+32,F Genprey Mail,F Genprey Mail,mhxx-dex-1.0,2
+34,F Cephalos Dress,F Cephalos Dress,mhxx-dex-1.0,2
+36,F Stone Body,F Stone Body,mhxx-dex-1.0,2
+38,F Venombee Wings,F Venombee Wings,mhxx-dex-1.0,2
+40,F Gourmet Suit,F Gourmet Suit,mhxx-dex-1.0,2
+42,F Moofy Suit,F Moofy Suit,mhxx-dex-1.0,2
+44,F Aptonoth Suit,F Aptonoth Suit,mhxx-dex-1.0,2
+46,F Popo Wear,F Popo Wear,mhxx-dex-1.0,2
+48,F Gargwa Vest,F Gargwa Vest,mhxx-dex-1.0,2
+50,F Ioprey Mail,F Ioprey Mail,mhxx-dex-1.0,2
+52,F Lagombi Mail,F Lagombi Mail,mhxx-dex-1.0,2
+54,F Kut-Ku Wear,F Kut-Ku Wear,mhxx-dex-1.0,2
+56,F Gypceros Cloth,F Gypceros Cloth,mhxx-dex-1.0,2
+58,F Cabra Wrap,F Cabra Wrap,mhxx-dex-1.0,2
+60,F Daimyo Suit,F Daimyo Suit,mhxx-dex-1.0,2
+62,F Ludroth Mail,F Ludroth Mail,mhxx-dex-1.0,2
+64,F Khezu Apron,F Khezu Apron,mhxx-dex-1.0,2
+66,F Nibel Mail,F Nibel Mail,mhxx-dex-1.0,2
+68,F Scholarly Suit,F Scholarly Suit,mhxx-dex-1.0,2
+70,F Derring Lorica,F Derring Lorica,mhxx-dex-1.0,2
+72,F Edel Frills,F Edel Frills,mhxx-dex-1.0,2
+74,F Kittendant Suit,F Kittendant Suit,mhxx-dex-1.0,2
+76,F Mosgharl Mail,F Mosgharl Mail,mhxx-dex-1.0,2
+78,F Larinoth Suit,F Larinoth Suit,mhxx-dex-1.0,2
+80,F Death Stench Coat,F Death Stench Coat,mhxx-dex-1.0,2
+82,F Marauder Armor,F Marauder Armor,mhxx-dex-1.0,2
+84,F Volvi Mail,F Volvi Mail,mhxx-dex-1.0,2
+86,F Malfestio Mail,F Malfestio Mail,mhxx-dex-1.0,2
+88,F Rathian Mail,F Rathian Mail,mhxx-dex-1.0,2
+90,F Blango Garb,F Blango Garb,mhxx-dex-1.0,2
+92,F Ceanataur Suit,F Ceanataur Suit,mhxx-dex-1.0,2
+94,F Naja Sirwal,F Naja Sirwal,mhxx-dex-1.0,2
+96,F Narga Mail,F Narga Mail,mhxx-dex-1.0,2
+98,F Maiden Mail,F Maiden Mail,mhxx-dex-1.0,3
+100,F Helper Mail,F Helper Mail,mhxx-dex-1.0,3
+102,F Pretty Robe,F Pretty Robe,mhxx-dex-1.0,3
+104,F Chaos Skirt,F Chaos Skirt,mhxx-dex-1.0,3
+106,F El Dora Mail,F El Dora Mail,mhxx-dex-1.0,3
+108,F Artian Gear,F Artian Gear,mhxx-dex-1.0,3
+110,F Garuga Robe,F Garuga Robe,mhxx-dex-1.0,3
+112,F Uragaan Mail,F Uragaan Mail,mhxx-dex-1.0,3
+114,F Rathalos Mail,F Rathalos Mail,mhxx-dex-1.0,3
+116,F Lagia Mail,F Lagia Mail,mhxx-dex-1.0,3
+118,F Astalos Suit,F Astalos Suit,mhxx-dex-1.0,3
+120,F Gammoth Coat,F Gammoth Coat,mhxx-dex-1.0,3
+122,F Mizutsune Suit,F Mizutsune Suit,mhxx-dex-1.0,3
+124,F Guild Suit,F Guild Suit,mhxx-dex-1.0,3
+126,F Glavenus Mail,F Glavenus Mail,mhxx-dex-1.0,3
+128,F Zinogre Mail,F Zinogre Mail,mhxx-dex-1.0,3
+130,F Gore Ghost,F Gore Ghost,mhxx-dex-1.0,3
+132,F Seregios Mail,F Seregios Mail,mhxx-dex-1.0,3
+134,F Tigrex Mail,F Tigrex Mail,mhxx-dex-1.0,3
+136,F Kirin Vest,F Kirin Vest,mhxx-dex-1.0,3
+138,F Brachy Gloves,F Brachy Gloves,mhxx-dex-1.0,3
+140,F Angel Feathers,F Angel Feathers,mhxx-dex-1.0,3
+142,F Kushala Cista,F Kushala Cista,mhxx-dex-1.0,3
+144,F Genie Carpet,F Genie Carpet,mhxx-dex-1.0,3
+146,F Kaiser Robe,F Kaiser Robe,mhxx-dex-1.0,3
+148,F Husk Suit,F Husk Suit,mhxx-dex-1.0,3
+150,F Acorn Mail S,F Acorn Mail S,mhxx-dex-1.0,4
+152,F Bherna Mail S,F Bherna Mail S,mhxx-dex-1.0,4
+154,F Hunting Mail S,F Hunting Mail S,mhxx-dex-1.0,4
+156,F Mafumofu Vest S,F Mafumofu Vest S,mhxx-dex-1.0,4
+158,F Yukumo Dogi S,F Yukumo Dogi S,mhxx-dex-1.0,4
+160,F Gourmet Suit S,F Gourmet Suit S,mhxx-dex-1.0,4
+162,F Moofy Suit S,F Moofy Suit S,mhxx-dex-1.0,4
+164,F Aptonoth Suit S,F Aptonoth Suit S,mhxx-dex-1.0,4
+166,F Popo Wear S,F Popo Wear S,mhxx-dex-1.0,4
+168,F Gargwa Vest S,F Gargwa Vest S,mhxx-dex-1.0,4
+170,F Larinoth Suit S,F Larinoth Suit S,mhxx-dex-1.0,4
+172,F Alloy Mail S,F Alloy Mail S,mhxx-dex-1.0,4
+174,F Bone Mail S,F Bone Mail S,mhxx-dex-1.0,4
+176,F Alta Shirt S,F Alta Shirt S,mhxx-dex-1.0,4
+178,F Bnaha Suit S,F Bnaha Suit S,mhxx-dex-1.0,4
+180,F Jaggi Mail S,F Jaggi Mail S,mhxx-dex-1.0,4
+182,F Rheno Mail S,F Rheno Mail S,mhxx-dex-1.0,4
+184,F Slagtoth Cape,F Slagtoth Cape,mhxx-dex-1.0,4
+186,F Maccao Mail S,F Maccao Mail S,mhxx-dex-1.0,4
+188,F Velociprey Mail S,F Velociprey Mail S,mhxx-dex-1.0,4
+190,F Bulldrome Vest S,F Bulldrome Vest S,mhxx-dex-1.0,4
+192,F Arzuros Mail S,F Arzuros Mail S,mhxx-dex-1.0,4
+194,F Giaprey Mail,F Giaprey Mail,mhxx-dex-1.0,4
+196,F Genprey Mail S,F Genprey Mail S,mhxx-dex-1.0,4
+198,F Lagombi Mail S,F Lagombi Mail S,mhxx-dex-1.0,4
+200,F Cephalos Dress S,F Cephalos Dress S,mhxx-dex-1.0,4
+202,F Kut-Ku Wear S,F Kut-Ku Wear S,mhxx-dex-1.0,4
+204,F Gypceros Cloth S,F Gypceros Cloth S,mhxx-dex-1.0,4
+206,F Cabra Wrap S,F Cabra Wrap S,mhxx-dex-1.0,4
+208,F Daimyo Suit S,F Daimyo Suit S,mhxx-dex-1.0,4
+210,F Ludroth Mail S,F Ludroth Mail S,mhxx-dex-1.0,4
+212,F Conga Fete,F Conga Fete,mhxx-dex-1.0,4
+214,F Kecha Coat,F Kecha Coat,mhxx-dex-1.0,4
+216,F Barroth Mail,F Barroth Mail,mhxx-dex-1.0,4
+218,F Ladybug Wings,F Ladybug Wings,mhxx-dex-1.0,5
+220,F Lecturer's Suit,F Lecturer's Suit,mhxx-dex-1.0,5
+222,F Guide's Suit,F Guide's Suit,mhxx-dex-1.0,5
+224,F Sailor Suit,F Sailor Suit,mhxx-dex-1.0,5
+226,F Stone King Body,F Stone King Body,mhxx-dex-1.0,5
+228,F Venombee Wings S,F Venombee Wings S,mhxx-dex-1.0,5
+230,F Mosgharl Mail S,F Mosgharl Mail S,mhxx-dex-1.0,5
+232,F Marauder Armor S,F Marauder Armor S,mhxx-dex-1.0,5
+234,F Pleasant Dress,F Pleasant Dress,mhxx-dex-1.0,5
+236,F Wisdom Cloak,F Wisdom Cloak,mhxx-dex-1.0,5
+238,F Ioprey Mail S,F Ioprey Mail S,mhxx-dex-1.0,5
+240,F Volvi Mail S,F Volvi Mail S,mhxx-dex-1.0,5
+242,F Basarios Mail,F Basarios Mail,mhxx-dex-1.0,5
+244,F Khezu Smock S,F Khezu Smock S,mhxx-dex-1.0,5
+246,F Nibel Mail S,F Nibel Mail S,mhxx-dex-1.0,5
+248,F Malfestio Mail S,F Malfestio Mail S,mhxx-dex-1.0,5
+250,F Rathian Mail S,F Rathian Mail S,mhxx-dex-1.0,5
+252,F Blango Garb S,F Blango Garb S,mhxx-dex-1.0,5
+254,F Ceanataur Suit S,F Ceanataur Suit S,mhxx-dex-1.0,5
+256,F Scylla Mail,F Scylla Mail,mhxx-dex-1.0,5
+258,F Naja Sirwal S,F Naja Sirwal S,mhxx-dex-1.0,5
+260,F Narga Mail S,F Narga Mail S,mhxx-dex-1.0,5
+262,F Garuga Robe S,F Garuga Robe S,mhxx-dex-1.0,5
+264,F Uragaan Mail S,F Uragaan Mail S,mhxx-dex-1.0,5
+266,F Zamtrios Suit,F Zamtrios Suit,mhxx-dex-1.0,5
+268,F Plesioth Suit,F Plesioth Suit,mhxx-dex-1.0,5
+270,F Lava Mail,F Lava Mail,mhxx-dex-1.0,5
+272,F Edel Frills S,F Edel Frills S,mhxx-dex-1.0,6
+274,F Kittendant Suit S,F Kittendant Suit S,mhxx-dex-1.0,6
+276,F Shakalaka Duds,F Shakalaka Duds,mhxx-dex-1.0,6
+278,F Straw Raincoat,F Straw Raincoat,mhxx-dex-1.0,6
+280,F Chaos Skirt+,F Chaos Skirt+,mhxx-dex-1.0,6
+282,F Death Stench Coat S,F Death Stench Coat S,mhxx-dex-1.0,6
+284,F El Dora Mail S,F El Dora Mail S,mhxx-dex-1.0,6
+286,F Artian Gear S,F Artian Gear S,mhxx-dex-1.0,6
+288,F Cheerful Suit,F Cheerful Suit,mhxx-dex-1.0,6
+290,F Mariner Suit,F Mariner Suit,mhxx-dex-1.0,6
+292,F Lagia Pirate S,F Lagia Pirate S,mhxx-dex-1.0,6
+294,F Glavenus Mail S,F Glavenus Mail S,mhxx-dex-1.0,6
+296,F Astalos Suit S,F Astalos Suit S,mhxx-dex-1.0,6
+298,F Gammoth Coat S,F Gammoth Coat S,mhxx-dex-1.0,6
+300,F Mizutsune Suit S,F Mizutsune Suit S,mhxx-dex-1.0,6
+302,F Barioth Mail,F Barioth Mail,mhxx-dex-1.0,6
+304,F Rathalos Mail S,F Rathalos Mail S,mhxx-dex-1.0,6
+306,F Zinogre Mail S,F Zinogre Mail S,mhxx-dex-1.0,6
+308,F Grav Armor,F Grav Armor,mhxx-dex-1.0,6
+310,F Gore Ghost S,F Gore Ghost S,mhxx-dex-1.0,6
+312,F Tigrex Mail S,F Tigrex Mail S,mhxx-dex-1.0,6
+314,F Seltas Body,F Seltas Body,mhxx-dex-1.0,6
+316,F Agnaktor Mail,F Agnaktor Mail,mhxx-dex-1.0,6
+318,F Duram Mail,F Duram Mail,mhxx-dex-1.0,6
+320,F Kirin Vest S,F Kirin Vest S,mhxx-dex-1.0,6
+322,F Puppeteer Garb,F Puppeteer Garb,mhxx-dex-1.0,6
+324,F Vangis Mail,F Vangis Mail,mhxx-dex-1.0,6
+326,F Kut-Ku Wear R,F Kut-Ku Wear R,mhxx-dex-1.0,6
+328,F Kecha Coat R,F Kecha Coat R,mhxx-dex-1.0,6
+330,F Gypceros Cloth R,F Gypceros Cloth R,mhxx-dex-1.0,6
+332,F Cabra Wrap R,F Cabra Wrap R,mhxx-dex-1.0,6
+334,F Daimyo Suit R,F Daimyo Suit R,mhxx-dex-1.0,6
+336,F Ludroth Mail R,F Ludroth Mail R,mhxx-dex-1.0,6
+338,F Malfestio Mail R,F Malfestio Mail R,mhxx-dex-1.0,6
+340,F Zamtrios Suit R,F Zamtrios Suit R,mhxx-dex-1.0,6
+342,F Khezu Suit R,F Khezu Suit R,mhxx-dex-1.0,6
+344,F Rathian Mail R,F Rathian Mail R,mhxx-dex-1.0,6
+346,F Nibel Mail R,F Nibel Mail R,mhxx-dex-1.0,6
+348,F Plesioth Suit R,F Plesioth Suit R,mhxx-dex-1.0,6
+350,F Blango Garb R,F Blango Garb R,mhxx-dex-1.0,6
+352,F Scholarly Suit S,F Scholarly Suit S,mhxx-dex-1.0,7
+354,F Maiden Mail S,F Maiden Mail S,mhxx-dex-1.0,7
+356,F Helper Mail S,F Helper Mail S,mhxx-dex-1.0,7
+358,F Beautiful Robe,F Beautiful Robe,mhxx-dex-1.0,7
+361,F Guild Suit S,F Guild Suit S,mhxx-dex-1.0,7
+363,F Arcadia Robe,F Arcadia Robe,mhxx-dex-1.0,7
+365,F Transpurrter Cape,F Transpurrter Cape,mhxx-dex-1.0,7
+367,F Dirty Hakama,F Dirty Hakama,mhxx-dex-1.0,7
+369,F D'Artanyan's Cape,F D'Artanyan's Cape,mhxx-dex-1.0,7
+371,F Master's Mail,F Master's Mail,mhxx-dex-1.0,7
+373,F Derring Lorica S,F Derring Lorica S,mhxx-dex-1.0,7
+375,F Seregios Mail S,F Seregios Mail S,mhxx-dex-1.0,7
+377,F Diablos Mail,F Diablos Mail,mhxx-dex-1.0,7
+379,F Brachy Fist S,F Brachy Fist S,mhxx-dex-1.0,7
+381,F Angel Down S,F Angel Down S,mhxx-dex-1.0,7
+383,F Valstrax Mail,F Valstrax Mail,mhxx-dex-1.0,7
+385,F Husk Suit S,F Husk Suit S,mhxx-dex-1.0,7
+387,F Nakarkos Suit,F Nakarkos Suit,mhxx-dex-1.0,7
+389,F Lava Mail R,F Lava Mail R,mhxx-dex-1.0,7
+391,F Ceanataur Suit R,F Ceanataur Suit R,mhxx-dex-1.0,7
+393,F Narga Mail R,F Narga Mail R,mhxx-dex-1.0,7
+395,F Naja Sirwal R,F Naja Sirwal R,mhxx-dex-1.0,7
+397,F Garuga Robe R,F Garuga Robe R,mhxx-dex-1.0,7
+399,F Uragaan Mail R,F Uragaan Mail R,mhxx-dex-1.0,7
+401,F Seltas Body R,F Seltas Body R,mhxx-dex-1.0,7
+403,F Rathalos Mail R,F Rathalos Mail R,mhxx-dex-1.0,7
+405,F Lagia Pirate R,F Lagia Pirate R,mhxx-dex-1.0,7
+407,F Zinogre Mail R,F Zinogre Mail R,mhxx-dex-1.0,7
+408,F Felcote's Coat,F Felcote's Coat,mhxx-dex-1.0,7
+410,F Kushala Cormi S,F Kushala Cormi S,mhxx-dex-1.0,7
+412,F Genie Carpet S,F Genie Carpet S,mhxx-dex-1.0,7
+414,F Kaiser Panoply,F Kaiser Panoply,mhxx-dex-1.0,7
+416,F Akantor Facade,F Akantor Facade,mhxx-dex-1.0,7
+418,F Ukanlos Facade,F Ukanlos Facade,mhxx-dex-1.0,7
+420,F Majestic Robe,F Majestic Robe,mhxx-dex-1.0,7
+422,F Escador Soul,F Escador Soul,mhxx-dex-1.0,7
+424,F Mizutsune Suit R,F Mizutsune Suit R,mhxx-dex-1.0,7
+426,F Astalos Suit R,F Astalos Suit R,mhxx-dex-1.0,7
+428,F Gammoth Coat R,F Gammoth Coat R,mhxx-dex-1.0,7
+430,F Glavenus Mail R,F Glavenus Mail R,mhxx-dex-1.0,7
+432,F Agnaktor Mail R,F Agnaktor Mail R,mhxx-dex-1.0,7
+434,F Gore Ghost R,F Gore Ghost R,mhxx-dex-1.0,7
+436,F Seregios Mail R,F Seregios Mail R,mhxx-dex-1.0,7
+438,F Duram Mail R,F Duram Mail R,mhxx-dex-1.0,7
+440,F Tigrex Mail R,F Tigrex Mail R,mhxx-dex-1.0,7
+442,F Brachy Gloves R,F Brachy Gloves R,mhxx-dex-1.0,7
+444,F Puppeteer Garb R,F Puppeteer Garb R,mhxx-dex-1.0,7
+446,F Vangis Mail R,F Vangis Mail R,mhxx-dex-1.0,7
+448,F Acorn Mail X,F Acorn Mail X,mhxx-dex-1.0,8
+450,F Bherna Mail X,F Bherna Mail X,mhxx-dex-1.0,8
+452,F Gourmet Suit X,F Gourmet Suit X,mhxx-dex-1.0,8
+454,F Moofy Suit X,F Moofy Suit X,mhxx-dex-1.0,8
+456,F Aptonoth Suit X,F Aptonoth Suit X,mhxx-dex-1.0,8
+458,F Popo Wear X,F Popo Wear X,mhxx-dex-1.0,8
+460,F Gargwa Vest X,F Gargwa Vest X,mhxx-dex-1.0,8
+462,F Larinoth Suit X,F Larinoth Suit X,mhxx-dex-1.0,8
+463,F Barrel Body,F Barrel Body,mhxx-dex-1.0,8
+465,F Alloy Mail X,F Alloy Mail X,mhxx-dex-1.0,8
+467,F Bone Mail X,F Bone Mail X,mhxx-dex-1.0,8
+469,F Alta Shirt X,F Alta Shirt X,mhxx-dex-1.0,8
+471,F Bnaha Suit X,F Bnaha Suit X,mhxx-dex-1.0,8
+473,F Jaggi Mail X,F Jaggi Mail X,mhxx-dex-1.0,8
+475,F Rheno Mail X,F Rheno Mail X,mhxx-dex-1.0,8
+477,F Slagtoth Cape X,F Slagtoth Cape X,mhxx-dex-1.0,8
+479,F Maccao Mail X,F Maccao Mail X,mhxx-dex-1.0,8
+481,F Velociprey Mail X,F Velociprey Mail X,mhxx-dex-1.0,8
+483,F Bulldrome Vest X,F Bulldrome Vest X,mhxx-dex-1.0,8
+485,F Arzuros Mail X,F Arzuros Mail X,mhxx-dex-1.0,8
+487,F Giaprey Mail X,F Giaprey Mail X,mhxx-dex-1.0,8
+489,F Genprey Mail X,F Genprey Mail X,mhxx-dex-1.0,8
+491,F Lagombi Mail X,F Lagombi Mail X,mhxx-dex-1.0,8
+493,F Cephalos Dress X,F Cephalos Dress X,mhxx-dex-1.0,8
+495,F Kut-Ku Wear X,F Kut-Ku Wear X,mhxx-dex-1.0,8
+497,F Gypceros Cloth X,F Gypceros Cloth X,mhxx-dex-1.0,8
+499,F Cabra Wrap X,F Cabra Wrap X,mhxx-dex-1.0,8
+501,F Daimyo Suit X,F Daimyo Suit X,mhxx-dex-1.0,8
+503,F Ludroth Mail X,F Ludroth Mail X,mhxx-dex-1.0,8
+505,F Kecha Coat X,F Kecha Coat X,mhxx-dex-1.0,8
+507,F Maiden Mail X,F Maiden Mail X,mhxx-dex-1.0,9
+509,F Exquisite Robe,F Exquisite Robe,mhxx-dex-1.0,9
+511,F Ladybug Wings X,F Ladybug Wings X,mhxx-dex-1.0,9
+513,F Hot Shakalaka Duds,F Hot Shakalaka Duds,mhxx-dex-1.0,9
+515,F Large Straw Raincoat,F Large Straw Raincoat,mhxx-dex-1.0,9
+517,F Lecturer's Suit X,F Lecturer's Suit X,mhxx-dex-1.0,9
+519,F Stone God Body,F Stone God Body,mhxx-dex-1.0,9
+521,F Venombee Wings X,F Venombee Wings X,mhxx-dex-1.0,9
+523,F Mosgharl Mail X,F Mosgharl Mail X,mhxx-dex-1.0,9
+525,F Marauder Armor X,F Marauder Armor X,mhxx-dex-1.0,9
+527,F Pleasant Dress X,F Pleasant Dress X,mhxx-dex-1.0,9
+529,F Wisdom Cloak X,F Wisdom Cloak X,mhxx-dex-1.0,9
+531,F Postman Suit X,F Postman Suit X,mhxx-dex-1.0,9
+533,F Ioprey Mail X,F Ioprey Mail X,mhxx-dex-1.0,9
+535,F Volvi Mail X,F Volvi Mail X,mhxx-dex-1.0,9
+537,F Basarios Mail X,F Basarios Mail X,mhxx-dex-1.0,9
+539,F Conga Fete X,F Conga Fete X,mhxx-dex-1.0,9
+541,F Barroth Mail X,F Barroth Mail X,mhxx-dex-1.0,9
+543,F Khezu Smock X,F Khezu Smock X,mhxx-dex-1.0,9
+545,F Nibel Mail X,F Nibel Mail X,mhxx-dex-1.0,9
+547,F Malfestio Mail X,F Malfestio Mail X,mhxx-dex-1.0,9
+549,F Rathian Mail X,F Rathian Mail X,mhxx-dex-1.0,9
+551,F Blango Garb X,F Blango Garb X,mhxx-dex-1.0,9
+553,F Ceanataur Suit X,F Ceanataur Suit X,mhxx-dex-1.0,9
+555,F Scylla Armor X,F Scylla Armor X,mhxx-dex-1.0,9
+557,F Naja Sirwal X,F Naja Sirwal X,mhxx-dex-1.0,9
+559,F Narga Mail X,F Narga Mail X,mhxx-dex-1.0,9
+561,F Zamtrios Suit X,F Zamtrios Suit X,mhxx-dex-1.0,9
+563,F Plesioth Suit X,F Plesioth Suit X,mhxx-dex-1.0,9
+565,F Kut-Ku Wear XR,F Kut-Ku Wear XR,mhxx-dex-1.0,9
+567,F Kecha Coat XR,F Kecha Coat XR,mhxx-dex-1.0,9
+569,F Gypceros Cloth XR,F Gypceros Cloth XR,mhxx-dex-1.0,9
+571,F Cabra Wrap XR,F Cabra Wrap XR,mhxx-dex-1.0,9
+573,F Daimyo Suit XR,F Daimyo Suit XR,mhxx-dex-1.0,9
+575,F Ludroth Mail XR,F Ludroth Mail XR,mhxx-dex-1.0,9
+577,F Scholarly Suit X,F Scholarly Suit X,mhxx-dex-1.0,9
+579,F Kittendant Suit X,F Kittendant Suit X,mhxx-dex-1.0,9
+581,F Derring Lorica X,F Derring Lorica X,mhxx-dex-1.0,9
+583,F Transpurrrrter Cape,F Transpurrrrter Cape,mhxx-dex-1.0,9
+586,F Guide's Suit X,F Guide's Suit X,mhxx-dex-1.0,9
+588,F Sailor Suit X,F Sailor Suit X,mhxx-dex-1.0,9
+590,F Grand Chaos Skirt,F Grand Chaos Skirt,mhxx-dex-1.0,9
+592,F Death Stench Coat X,F Death Stench Coat X,mhxx-dex-1.0,9
+594,F El Dora Mail X,F El Dora Mail X,mhxx-dex-1.0,9
+596,F Artian Gear X,F Artian Gear X,mhxx-dex-1.0,9
+598,F Cheerful Suit X,F Cheerful Suit X,mhxx-dex-1.0,9
+600,F Mariner Suit X,F Mariner Suit X,mhxx-dex-1.0,9
+602,F Cute Dress,F Cute Dress,mhxx-dex-1.0,9
+604,F Garuga Robe X,F Garuga Robe X,mhxx-dex-1.0,9
+606,F Uragaan Mail X,F Uragaan Mail X,mhxx-dex-1.0,9
+608,F Lava Mail X,F Lava Mail X,mhxx-dex-1.0,9
+610,F Lagia Pirate X,F Lagia Pirate X,mhxx-dex-1.0,9
+612,F Glavenus Mail X,F Glavenus Mail X,mhxx-dex-1.0,9
+614,F Astalos Suit X,F Astalos Suit X,mhxx-dex-1.0,9
+616,F Gammoth Coat X,F Gammoth Coat X,mhxx-dex-1.0,9
+618,F Mizutsune Suit X,F Mizutsune Suit X,mhxx-dex-1.0,9
+620,F Barioth Mail X,F Barioth Mail X,mhxx-dex-1.0,9
+622,F Rathalos Mail X,F Rathalos Mail X,mhxx-dex-1.0,9
+624,F Zinogre Mail X,F Zinogre Mail X,mhxx-dex-1.0,9
+626,F Grav Armor X,F Grav Armor X,mhxx-dex-1.0,9
+628,F Gore Ghost X,F Gore Ghost X,mhxx-dex-1.0,9
+630,F Tigrex Mail X,F Tigrex Mail X,mhxx-dex-1.0,9
+632,F Seltas Body X,F Seltas Body X,mhxx-dex-1.0,9
+634,F Kirin Vest X,F Kirin Vest X,mhxx-dex-1.0,9
+636,F Borealis Mail,F Borealis Mail,mhxx-dex-1.0,9
+638,F Basarios Mail XR,F Basarios Mail XR,mhxx-dex-1.0,9
+640,F Conga Fete XR,F Conga Fete XR,mhxx-dex-1.0,9
+642,F Barroth Mail XR,F Barroth Mail XR,mhxx-dex-1.0,9
+644,F Khezu Suit XR,F Khezu Suit XR,mhxx-dex-1.0,9
+646,F Nibel Mail XR,F Nibel Mail XR,mhxx-dex-1.0,9
+648,F Malfestio Mail XR,F Malfestio Mail XR,mhxx-dex-1.0,9
+650,F Rathian Mail XR,F Rathian Mail XR,mhxx-dex-1.0,9
+652,F Blango Garb XR,F Blango Garb XR,mhxx-dex-1.0,9
+654,F Ceanataur Suit XR,F Ceanataur Suit XR,mhxx-dex-1.0,9
+656,F Scylla Mail XR,F Scylla Mail XR,mhxx-dex-1.0,9
+658,F Naja Sirwal XR,F Naja Sirwal XR,mhxx-dex-1.0,9
+660,F Narga Mail XR,F Narga Mail XR,mhxx-dex-1.0,9
+662,F Zamtrios Suit XR,F Zamtrios Suit XR,mhxx-dex-1.0,9
+664,F Plesioth Suit XR,F Plesioth Suit XR,mhxx-dex-1.0,9
+666,F Guild Suit X,F Guild Suit X,mhxx-dex-1.0,10
+668,F Ultra Arcadia Robe,F Ultra Arcadia Robe,mhxx-dex-1.0,10
+670,F Pro Dirty Hakama,F Pro Dirty Hakama,mhxx-dex-1.0,10
+672,F D'Artanyan Hero Cape,F D'Artanyan Hero Cape,mhxx-dex-1.0,10
+674,F Master's Mail X,F Master's Mail X,mhxx-dex-1.0,10
+676,F Barmaid's Uniform,F Barmaid's Uniform,mhxx-dex-1.0,10
+678,F Barman's Suit,F Barman's Suit,mhxx-dex-1.0,10
+680,F Agnaktor Mail X,F Agnaktor Mail X,mhxx-dex-1.0,10
+682,F Duram Mail X,F Duram Mail X,mhxx-dex-1.0,10
+684,F Seregios Mail X,F Seregios Mail X,mhxx-dex-1.0,10
+686,F Diablos Mail X,F Diablos Mail X,mhxx-dex-1.0,10
+688,F Brachy Fists X,F Brachy Fists X,mhxx-dex-1.0,10
+690,F Angel Down X,F Angel Down X,mhxx-dex-1.0,10
+692,F Valstrax Mail X,F Valstrax Mail X,mhxx-dex-1.0,10
+694,F Puppeteer Garb+,F Puppeteer Garb+,mhxx-dex-1.0,10
+696,F Vangis Mail X,F Vangis Mail X,mhxx-dex-1.0,10
+698,F Chaos Cloak,F Chaos Cloak,mhxx-dex-1.0,10
+700,F Kushala Vise X,F Kushala Vise X,mhxx-dex-1.0,10
+702,F Genie Carpet X,F Genie Carpet X,mhxx-dex-1.0,10
+704,F Kaiser Panoply X,F Kaiser Panoply X,mhxx-dex-1.0,10
+706,F Husk Suit X,F Husk Suit X,mhxx-dex-1.0,10
+708,F Nakarkos Suit X,F Nakarkos Suit X,mhxx-dex-1.0,10
+710,F Neset Mail,F Neset Mail,mhxx-dex-1.0,10
+712,F Garuga Robe XR,F Garuga Robe XR,mhxx-dex-1.0,10
+714,F Uragaan Mail XR,F Uragaan Mail XR,mhxx-dex-1.0,10
+716,F Lava Mail XR,F Lava Mail XR,mhxx-dex-1.0,10
+718,F Lagia Pirate XR,F Lagia Pirate XR,mhxx-dex-1.0,10
+720,F Glavenus Mail XR,F Glavenus Mail XR,mhxx-dex-1.0,10
+722,F Astalos Suit XR,F Astalos Suit XR,mhxx-dex-1.0,10
+724,F Gammoth Coat XR,F Gammoth Coat XR,mhxx-dex-1.0,10
+726,F Mizutsune Suit XR,F Mizutsune Suit XR,mhxx-dex-1.0,10
+728,F Barioth Mail XR,F Barioth Mail XR,mhxx-dex-1.0,10
+730,F Rathalos Mail XR,F Rathalos Mail XR,mhxx-dex-1.0,10
+732,F Zinogre Mail XR,F Zinogre Mail XR,mhxx-dex-1.0,10
+734,F Grav Armor XR,F Grav Armor XR,mhxx-dex-1.0,10
+736,F Gore Ghost XR,F Gore Ghost XR,mhxx-dex-1.0,10
+738,F Rex Mail XR,F Rex Mail XR,mhxx-dex-1.0,10
+740,F Seltas Body XR,F Seltas Body XR,mhxx-dex-1.0,10
+742,F Hunting Mail X,F Hunting Mail X,mhxx-dex-1.0,10
+744,F Mafumofu Vest X,F Mafumofu Vest X,mhxx-dex-1.0,10
+746,F Yukumo Dogi X,F Yukumo Dogi X,mhxx-dex-1.0,10
+748,F Helper Mail X,F Helper Mail X,mhxx-dex-1.0,10
+750,F Edel Frills X,F Edel Frills X,mhxx-dex-1.0,10
+751,F Felcote's Thick Coat,F Felcote's Thick Coat,mhxx-dex-1.0,10
+753,F Akantor Facade X,F Akantor Facade X,mhxx-dex-1.0,10
+755,F Ukanlos Facade X,F Ukanlos Facade X,mhxx-dex-1.0,10
+757,F Grand Majestic Robe,F Grand Majestic Robe,mhxx-dex-1.0,10
+759,F Escador Soul X,F Escador Soul X,mhxx-dex-1.0,10
+761,F Dragon Mail,F Dragon Mail,mhxx-dex-1.0,10
+763,F Fatalis Crimsonmail,F Fatalis Crimsonmail,mhxx-dex-1.0,10
+765,F Old Fatalis Mail,F Old Fatalis Mail,mhxx-dex-1.0,10
+767,F Agnaktor Mail XR,F Agnaktor Mail XR,mhxx-dex-1.0,10
+769,F Duram Mail XR,F Duram Mail XR,mhxx-dex-1.0,10
+771,F Seregios Mail XR,F Seregios Mail XR,mhxx-dex-1.0,10
+773,F Diablos Mail XR,F Diablos Mail XR,mhxx-dex-1.0,10
+775,F Brachy Gloves XR,F Brachy Gloves XR,mhxx-dex-1.0,10
+777,F Puppeteer Garb XR,F Puppeteer Garb XR,mhxx-dex-1.0,10
+779,F Vangis Mail XR,F Vangis Mail XR,mhxx-dex-1.0,10
+781,F Strange Mail,F Strange Mail,mhxx-dex-1.0,11
+783,F Strange Mail S,F Strange Mail S,mhxx-dex-1.0,11
+785,F Strange Mail X,F Strange Mail X,mhxx-dex-1.0,11
+787,F Strange Mail XX,F Strange Mail XX,mhxx-dex-1.0,11
+789,F Redhelm Mail,F Redhelm Mail,mhxx-dex-1.0,11
+791,F Redhelm Mail S,F Redhelm Mail S,mhxx-dex-1.0,11
+793,F Redhelm Mail X,F Redhelm Mail X,mhxx-dex-1.0,11
+795,F Redhelm Mail XX,F Redhelm Mail XX,mhxx-dex-1.0,11
+797,F Snowbaron Mail,F Snowbaron Mail,mhxx-dex-1.0,11
+799,F Snowbaron Mail S,F Snowbaron Mail S,mhxx-dex-1.0,11
+801,F Snowbaron Mail X,F Snowbaron Mail X,mhxx-dex-1.0,11
+803,F Snowbaron Mail XX,F Snowbaron Mail XX,mhxx-dex-1.0,11
+805,F Stonefist Suit,F Stonefist Suit,mhxx-dex-1.0,11
+807,F Stonefist Suit S,F Stonefist Suit S,mhxx-dex-1.0,11
+809,F Stonefist Suit X,F Stonefist Suit X,mhxx-dex-1.0,11
+811,F Stonefist Suit XX,F Stonefist Suit XX,mhxx-dex-1.0,11
+813,F Dreadqueen Mail,F Dreadqueen Mail,mhxx-dex-1.0,11
+815,F Dreadqueen Mail S,F Dreadqueen Mail S,mhxx-dex-1.0,11
+817,F Dreadqueen Mail X,F Dreadqueen Mail X,mhxx-dex-1.0,11
+819,F Dreadqueen Mail XX,F Dreadqueen Mail XX,mhxx-dex-1.0,11
+821,F Drilltusk Wrap,F Drilltusk Wrap,mhxx-dex-1.0,11
+823,F Drilltusk Wrap S,F Drilltusk Wrap S,mhxx-dex-1.0,11
+825,F Drilltusk Wrap X,F Drilltusk Wrap X,mhxx-dex-1.0,11
+827,F Drilltusk Wrap XX,F Drilltusk Wrap XX,mhxx-dex-1.0,11
+829,F Nightcloak Mail X,F Nightcloak Mail X,mhxx-dex-1.0,11
+831,F Nightcloak Mail XX,F Nightcloak Mail XX,mhxx-dex-1.0,11
+833,F Rustrazor Suit X,F Rustrazor Suit X,mhxx-dex-1.0,11
+835,F Rustrazor Suit XX,F Rustrazor Suit XX,mhxx-dex-1.0,11
+837,F Silverwind Mail,F Silverwind Mail,mhxx-dex-1.0,11
+839,F Silverwind Mail S,F Silverwind Mail S,mhxx-dex-1.0,11
+841,F Silverwind Mail X,F Silverwind Mail X,mhxx-dex-1.0,11
+843,F Silverwind Mail XX,F Silverwind Mail XX,mhxx-dex-1.0,11
+845,F Crystalbeard Mail,F Crystalbeard Mail,mhxx-dex-1.0,11
+847,F Crystalbeard Mail S,F Crystalbeard Mail S,mhxx-dex-1.0,11
+849,F Crystalbeard Mail X,F Crystalbeard Mail X,mhxx-dex-1.0,11
+851,F Crystalbeard Mail XX,F Crystalbeard Mail XX,mhxx-dex-1.0,11
+853,F Deadeye Robe,F Deadeye Robe,mhxx-dex-1.0,11
+855,F Deadeye Robe S,F Deadeye Robe S,mhxx-dex-1.0,11
+857,F Deadeye Robe X,F Deadeye Robe X,mhxx-dex-1.0,11
+859,F Deadeye Robe XX,F Deadeye Robe XX,mhxx-dex-1.0,11
+861,F Dreadking Mail,F Dreadking Mail,mhxx-dex-1.0,11
+863,F Dreadking Mail S,F Dreadking Mail S,mhxx-dex-1.0,11
+865,F Dreadking Mail X,F Dreadking Mail X,mhxx-dex-1.0,11
+867,F Dreadking Mail XX,F Dreadking Mail XX,mhxx-dex-1.0,11
+869,F Thunderlord Mail,F Thunderlord Mail,mhxx-dex-1.0,11
+871,F Thunderlord Mail S,F Thunderlord Mail S,mhxx-dex-1.0,11
+873,F Thunderlord Mail X,F Thunderlord Mail X,mhxx-dex-1.0,11
+875,F Thunderlord Mail XX,F Thunderlord Mail XX,mhxx-dex-1.0,11
+877,F Grimclaw Mail,F Grimclaw Mail,mhxx-dex-1.0,11
+879,F Grimclaw Mail S,F Grimclaw Mail S,mhxx-dex-1.0,11
+881,F Grimclaw Mail X,F Grimclaw Mail X,mhxx-dex-1.0,11
+883,F Grimclaw Mail XX,F Grimclaw Mail XX,mhxx-dex-1.0,11
+885,F Hellblade Mail,F Hellblade Mail,mhxx-dex-1.0,11
+887,F Hellblade Mail S,F Hellblade Mail S,mhxx-dex-1.0,11
+889,F Hellblade Mail X,F Hellblade Mail X,mhxx-dex-1.0,11
+891,F Hellblade Mail XX,F Hellblade Mail XX,mhxx-dex-1.0,11
+893,F Soulseer Suit X,F Soulseer Suit X,mhxx-dex-1.0,11
+895,F Soulseer Suit XX,F Soulseer Suit XX,mhxx-dex-1.0,11
+897,F Boltreaver Suit X,F Boltreaver Suit X,mhxx-dex-1.0,11
+899,F Boltreaver Suit XX,F Boltreaver Suit XX,mhxx-dex-1.0,11
+901,F Elderfrost Coat X,F Elderfrost Coat X,mhxx-dex-1.0,11
+903,F Elderfrost Coat XX,F Elderfrost Coat XX,mhxx-dex-1.0,11
+905,F Bloodbath Mail X,F Bloodbath Mail X,mhxx-dex-1.0,11
+907,F Bloodbath Mail XX,F Bloodbath Mail XX,mhxx-dex-1.0,11
+908,F Zombie-kun Costume,F Zombie-kun Costume,mhxx-dex-1.0,3
+909,F Happy Outfit,F Happy Outfit,mhxx-dex-1.0,3
+911,F Treasure Chest J,F Treasure Chest J,mhxx-dex-1.0,3
+913,F Pirate Vest J,F Pirate Vest J,mhxx-dex-1.0,3
+915,F Legendary Suit J,F Legendary Suit J,mhxx-dex-1.0,3
+917,F Greedy Bones J,F Greedy Bones J,mhxx-dex-1.0,3
+918,F Catboard,F Catboard,mhxx-dex-1.0,3
+920,F Monqlo Shirt,F Monqlo Shirt,mhxx-dex-1.0,3
+922,[JP] F Meowstar Haori,[JP] F Meowstar Haori,mhxx-dex-1.0,3
+924,F Baby Tiga Suit,F Baby Tiga Suit,mhxx-dex-1.0,3
+926,[JP] F Spirit Armor,[JP] F Spirit Armor,mhxx-dex-1.0,3
+927,F Navirou Costume,F Navirou Costume,mhxx-dex-1.0,3
+929,[JP] F Nyatfire Suit,[JP] F Nyatfire Suit,mhxx-dex-1.0,3
+930,F Luna Costume,F Luna Costume,mhxx-dex-1.0,3
+932,F Postman Suit,F Postman Suit,mhxx-dex-1.0,7
+934,F Booyah Jacket,F Booyah Jacket,mhxx-dex-1.0,7
+936,F Sohoku Jersey,F Sohoku Jersey,mhxx-dex-1.0,7
+937,F Zombie-kun Wear,F Zombie-kun Wear,mhxx-dex-1.0,7
+938,F Grandpaw D Guise,F Grandpaw D Guise,mhxx-dex-1.0,7
+939,F Happy Guise,F Happy Guise,mhxx-dex-1.0,7
+941,F Dark Meowgic Robe,F Dark Meowgic Robe,mhxx-dex-1.0,7
+943,F Booty Chest J,F Booty Chest J,mhxx-dex-1.0,7
+945,F Buccaneer Vest J,F Buccaneer Vest J,mhxx-dex-1.0,7
+947,F King Suit J,F King Suit J,mhxx-dex-1.0,7
+949,F Avaricious Bones J,F Avaricious Bones J,mhxx-dex-1.0,7
+950,F Super Catboard,F Super Catboard,mhxx-dex-1.0,7
+952,F Monqlo Shirt S,F Monqlo Shirt S,mhxx-dex-1.0,7
+954,[JP] F Supreme Haori,[JP] F Supreme Haori,mhxx-dex-1.0,7
+956,[JP] F Star Suit,[JP] F Star Suit,mhxx-dex-1.0,7
+958,[JP] F Magical Robe,[JP] F Magical Robe,mhxx-dex-1.0,7
+959,[JP] F Kirimi-Chan,[JP] F Kirimi-Chan,mhxx-dex-1.0,7
+961,[JP] F Nyankyrie Suit,[JP] F Nyankyrie Suit,mhxx-dex-1.0,7
+963,F Link Tunic,F Link Tunic,mhxx-dex-1.0,7
+965,F Fox Suit,F Fox Suit,mhxx-dex-1.0,7
+967,F Mario Overalls,F Mario Overalls,mhxx-dex-1.0,7
+969,F Luigi Overalls,F Luigi Overalls,mhxx-dex-1.0,7
+970,F Resetti Guise,F Resetti Guise,mhxx-dex-1.0,7
+971,F Isabelle Guise,F Isabelle Guise,mhxx-dex-1.0,7
+973,F Armor of Purrity,F Armor of Purrity,mhxx-dex-1.0,7
+975,F Chun Attire,F Chun Attire,mhxx-dex-1.0,7
+976,F Fancy Blanka Wear,F Fancy Blanka Wear,mhxx-dex-1.0,7
+978,F Dante Jacket,F Dante Jacket,mhxx-dex-1.0,7
+980,F Mega Armor,F Mega Armor,mhxx-dex-1.0,7
+982,F Melodic Suit,F Melodic Suit,mhxx-dex-1.0,7
+984,F Baby Tiga Suit S,F Baby Tiga Suit S,mhxx-dex-1.0,7
+986,F Sunsnug Vest,F Sunsnug Vest,mhxx-dex-1.0,7
+988,[JP] F Spirits Armor S,[JP] F Spirits Armor S,mhxx-dex-1.0,7
+990,F Fan Top,F Fan Top,mhxx-dex-1.0,7
+992,F Pep Squad Suit,F Pep Squad Suit,mhxx-dex-1.0,7
+993,F Navirou Bodysuit,F Navirou Bodysuit,mhxx-dex-1.0,7
+995,[JP] F Nyatfire Suit+,[JP] F Nyatfire Suit+,mhxx-dex-1.0,7
+997,F Divine Retribution,F Divine Retribution,mhxx-dex-1.0,7
+999,F Arthur's Armor,F Arthur's Armor,mhxx-dex-1.0,7
+1000,F Luna Bodysuit,F Luna Bodysuit,mhxx-dex-1.0,7
+1002,F Detective Suit,F Detective Suit,mhxx-dex-1.0,7
+1003,[JP] F Gudetama Ppoi,[JP] F Gudetama Ppoi,mhxx-dex-1.0,7
+1004,F Navirou Makeover,F Navirou Makeover,mhxx-dex-1.0,10
+1006,F Divine Retribution X,F Divine Retribution X,mhxx-dex-1.0,10
+1008,F Arthur's Armor X,F Arthur's Armor X,mhxx-dex-1.0,10
+1009,F Luna Makeover,F Luna Makeover,mhxx-dex-1.0,10
+1011,F Detective Suit X,F Detective Suit X,mhxx-dex-1.0,10
+1012,[JP] F Gudetama Ppoi X,[JP] F Gudetama Ppoi X,mhxx-dex-1.0,10
+1013,F Retsu Kaioh Outfit,F Retsu Kaioh Outfit,mhxx-dex-1.0,10
+1015,F Tesshou Jacket,F Tesshou Jacket,mhxx-dex-1.0,10
+1017,F Booyah Jacket X,F Booyah Jacket X,mhxx-dex-1.0,10
+1018,F Danger Suit,F Danger Suit,mhxx-dex-1.0,10
+1020,F Phoenix Jacket,F Phoenix Jacket,mhxx-dex-1.0,10
+1022,F Korok Suit,F Korok Suit,mhxx-dex-1.0,10
+1024,[JP] F Nyatfire Suit Z,[JP] F Nyatfire Suit Z,mhxx-dex-1.0,10

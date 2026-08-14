@@ -1,0 +1,138 @@
+id,name,english,source,rarity,max_level
+0,无,None,mhxx-save-format-community,0,0
+1,贝鲁纳大剑,Petrified Blade,mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石剑,Obsidian Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,斧枪,Halberd,mhxx-dex-1.0+mhxx-save-format-community,3,8
+4,决心,Decider,mhxx-dex-1.0+mhxx-save-format-community,5,6
+5,火碎斩,Igneous Blade,mhxx-dex-1.0+mhxx-save-format-community,5,5
+6,41式对飞龙大剑,Type 41 Wyvernator,mhxx-dex-1.0+mhxx-save-format-community,2,8
+7,白电大剑,Khezu Shock Sword,mhxx-dex-1.0+mhxx-save-format-community,2,7
+8,防卫者,Defender,mhxx-dex-1.0+mhxx-save-format-community,2,9
+9,王大剑风雷,Usurper's Storm,mhxx-dex-1.0+mhxx-save-format-community,3,7
+10,灼炎大刀,Barbaroi Blade,mhxx-dex-1.0+mhxx-save-format-community,2,8
+11,铁剑,Iron Sword,mhxx-dex-1.0+mhxx-save-format-community,1,11
+12,海龙大剑,Lagiacrus Blade,mhxx-dex-1.0+mhxx-save-format-community,3,7
+13,雷剑海龙,Lagia Lightning,mhxx-dex-1.0+mhxx-save-format-community,6,6
+14,水龙剑,Plesioth Watercutter,mhxx-dex-1.0+mhxx-save-format-community,4,7
+15,流剑水龙,Plesioth Wave Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+16,藏钩大剑,Ravager Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
+17,上位藏钩大剑,Lacerator Blade,mhxx-dex-1.0+mhxx-save-format-community,4,5
+18,战术大剑,Tactical Blade,mhxx-dex-1.0+mhxx-save-format-community,3,7
+19,隐秘斩切刀,Hidden Blade,mhxx-dex-1.0+mhxx-save-format-community,2,8
+20,破坏者大剑,Buster Sword,mhxx-dex-1.0+mhxx-save-format-community,2,9
+21,铬金咬剃刀,Chrome Razor,mhxx-dex-1.0+mhxx-save-format-community,4,7
+22,黄铜炎剑,Brazenwall,mhxx-dex-1.0+mhxx-save-format-community,3,8
+23,斯库拉伽,Skraga,mhxx-dex-1.0+mhxx-save-format-community,2,8
+24,武骨厨刀,Santoku Reaver,mhxx-dex-1.0+mhxx-save-format-community,2,8
+25,蟾蜍大厨刀,Toad Bereaver,mhxx-dex-1.0+mhxx-save-format-community,5,6
+26,骨刃,Bone Cleaver,mhxx-dex-1.0+mhxx-save-format-community,1,11
+27,赤翼,Red Wing,mhxx-dex-1.0+mhxx-save-format-community,3,8
+28,辉剑火龙,Rathalos Gleamsword,mhxx-dex-1.0+mhxx-save-format-community,7,5
+29,大剑参宿七,Cheda Blade,mhxx-dex-1.0+mhxx-save-format-community,3,7
+30,叛逆断刀,Seditious Cleaver,mhxx-dex-1.0+mhxx-save-format-community,6,6
+31,龙颚,Jawblade,mhxx-dex-1.0+mhxx-save-format-community,2,9
+32,龙颚剑,Wyvern Jawblade,mhxx-dex-1.0+mhxx-save-format-community,5,6
+33,奇猿狐大剑,Thrash Sword,mhxx-dex-1.0+mhxx-save-format-community,4,6
+34,奇猿狐狂刃,Thrash Blade,mhxx-dex-1.0+mhxx-save-format-community,5,6
+35,巨骨剑,Golem Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
+36,女武神骨剑,Valkyrie Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
+37,斯巴达之剑,Spartacus Blade,mhxx-dex-1.0+mhxx-save-format-community,6,6
+38,轰龙颚,Tiger Jawblade,mhxx-dex-1.0+mhxx-save-format-community,3,7
+39,碎龙巨剑,Dios Blade,mhxx-dex-1.0+mhxx-save-format-community,3,7
+40,爆碎大剑,Demolition Sword,mhxx-dex-1.0+mhxx-save-format-community,6,6
+41,处刑者,Executioner,mhxx-dex-1.0+mhxx-save-format-community,4,7
+42,水兽骨剑,Ludroth Bone Sword,mhxx-dex-1.0+mhxx-save-format-community,1,7
+43,暴雨大剑,Cataclysm Sword,mhxx-dex-1.0+mhxx-save-format-community,2,8
+44,白兔裹雪剑,Snowclad,mhxx-dex-1.0+mhxx-save-format-community,2,9
+45,赤纹剑,Red Stripe,mhxx-dex-1.0+mhxx-save-format-community,1,8
+46,赤钳剑,Red Pincer,mhxx-dex-1.0+mhxx-save-format-community,2,8
+47,将军镰蟹之刃,Ceanataur Blade,mhxx-dex-1.0+mhxx-save-format-community,2,8
+48,蛇剑【苍蛇】,Azure Serpentblade,mhxx-dex-1.0+mhxx-save-format-community,1,9
+49,蛇剑【黄牙】,Saffron Fangblade,mhxx-dex-1.0+mhxx-save-format-community,1,9
+50,蛇剑【毒牙】,Fanged Serpentblade,mhxx-dex-1.0+mhxx-save-format-community,1,9
+51,蛇剑【毒蛾】,Deadly Serpentblade,mhxx-dex-1.0+mhxx-save-format-community,2,8
+52,蛇剑【白蛇】,White Serpentblade,mhxx-dex-1.0+mhxx-save-format-community,1,8
+53,斩首刀【鸡】,Chicken Decapitator,mhxx-dex-1.0+mhxx-save-format-community,2,9
+54,青龙刀【乌】,Sentoryu Raven,mhxx-dex-1.0+mhxx-save-format-community,3,7
+55,青龙刀【兇】,Sentoryu Bane,mhxx-dex-1.0+mhxx-save-format-community,6,5
+56,夜鸟镰剑,Nocturnal Falx,mhxx-dex-1.0+mhxx-save-format-community,2,9
+57,绿宝石之翼,Verdant Wing,mhxx-dex-1.0+mhxx-save-format-community,3,9
+58,巨兽大剑,Giant's Slicer,mhxx-dex-1.0+mhxx-save-format-community,3,9
+59,狐大剑【夜宿樱花树】,Hanayako Yohino,mhxx-dex-1.0+mhxx-save-format-community,3,9
+60,灼炎大剑,Scorching Blazer,mhxx-dex-1.0+mhxx-save-format-community,3,9
+61,自尊of黑影,Schattenstolz,mhxx-dex-1.0+mhxx-save-format-community,3,7
+62,THE启示,L'Apothéose,mhxx-dex-1.0+mhxx-save-format-community,3,8
+63,召雷剑【麒麟】,Kirin Thundersword,mhxx-dex-1.0+mhxx-save-format-community,3,8
+64,狮尾毒弯刀,Grand Shamshir,mhxx-dex-1.0+mhxx-save-format-community,3,6
+65,鬼金棒,Demon Rod,mhxx-dex-1.0+mhxx-save-format-community,6,6
+66,鬼神金棒,Demonlord Club,mhxx-dex-1.0+mhxx-save-format-community,7,5
+67,狂战士巨剑,Berserker Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+68,业剑漆黑贪食,Consummate Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
+69,名为狮子的白骸,Skeletal Great Sword,mhxx-dex-1.0+mhxx-save-format-community,3,7
+70,极星剑【狮子】,Astral Leo,mhxx-dex-1.0+mhxx-save-format-community,7,5
+71,霸剑剑神,Akantor Broadsword,mhxx-dex-1.0+mhxx-save-format-community,7,5
+72,崩剑灭世之怒,Ukanlos Destructor,mhxx-dex-1.0+mhxx-save-format-community,7,5
+73,煌黑大剑,Alatreon Great Sword,mhxx-dex-1.0+mhxx-save-format-community,7,5
+74,凶剑【丛云】,Roilcloud Sword,mhxx-dex-1.0+mhxx-save-format-community,7,5
+75,严重锈蚀的大剑,Rusted Great Sword,mhxx-dex-1.0+mhxx-save-format-community,1,3
+76,太古大剑,Ancient Blade,mhxx-dex-1.0+mhxx-save-format-community,3,6
+77,钢冰大剑,Icesteel Edge,mhxx-dex-1.0+mhxx-save-format-community,3,6
+78,严重风化的大剑,Worn Great Sword,mhxx-dex-1.0+mhxx-save-format-community,4,7
+79,碑铭石板,Epitaph Blade,mhxx-dex-1.0+mhxx-save-format-community,6,5
+80,炎王之刃,Teostra Blade,mhxx-dex-1.0+mhxx-save-format-community,7,5
+81,火山烈剑,Vulcanis,mhxx-dex-1.0+mhxx-save-format-community,2,8
+82,黑大剑,Black Blade,mhxx-dex-1.0+mhxx-save-format-community,3,7
+83,结云大剑,Yukumo Edge,mhxx-dex-1.0+mhxx-save-format-community,1,8
+84,真结云大剑,Yukumo Pure Edge,mhxx-dex-1.0+mhxx-save-format-community,3,6
+85,首鸣龙之剑,Larisaber,mhxx-dex-1.0+mhxx-save-format-community,2,6
+86,奶酪搅拌棒,Cheese Mixer,mhxx-dex-1.0+mhxx-save-format-community,2,7
+87,番伞【秋雨】,Autumn Umbrella,mhxx-dex-1.0+mhxx-save-format-community,6,5
+88,冷冻旗鱼,Frozen Speartuna,mhxx-dex-1.0+mhxx-save-format-community,2,7
+89,龙之栖所,Wyvern's Perch,mhxx-dex-1.0+mhxx-save-format-community,2,6
+90,芦荟剑,Aloe Blade,mhxx-dex-1.0+mhxx-save-format-community,3,6
+91,猫魂,Cat's Soul,mhxx-dex-1.0+mhxx-save-format-community,4,5
+92,黄金乡之剑,El Dora Blade,mhxx-dex-1.0+mhxx-save-format-community,2,7
+93,黑带大剑,Black Belt Blade,mhxx-dex-1.0+mhxx-save-format-community,3,6
+94,达人大剑,Expert Blade,mhxx-dex-1.0+mhxx-save-format-community,6,5
+95,兔女神裹雪大剑,Eostoclad,mhxx-dex-1.0+mhxx-save-format-community,11,15
+96,蟹纹巨钳,Stonefist Pincer,mhxx-dex-1.0+mhxx-save-format-community,11,15
+97,紫毒姬大剑,Royal Blade,mhxx-dex-1.0+mhxx-save-format-community,11,15
+98,鬼厨刀唐草,Demon Knife,mhxx-dex-1.0+mhxx-save-format-community,11,15
+99,疾风之焰,Blazing Squall,mhxx-dex-1.0+mhxx-save-format-community,11,15
+100,宝缠大剑,Grobowall,mhxx-dex-1.0+mhxx-save-format-community,11,15
+101,青龙刀【祸】,Sentoryo Calamity,mhxx-dex-1.0+mhxx-save-format-community,11,15
+102,黑炎王之翼,Flamelord Wing,mhxx-dex-1.0+mhxx-save-format-community,11,15
+103,金狼大剑激雷,Thunderlord Gekirai,mhxx-dex-1.0+mhxx-save-format-community,11,15
+104,暴风神之颚,Rudra Jawblade,mhxx-dex-1.0+mhxx-save-format-community,11,15
+105,爆焰耀变剑,Crisped Blazer,mhxx-dex-1.0+mhxx-save-format-community,11,15
+106,火狐大剑,Fox Blade,mhxx-dex-1.0+mhxx-save-format-community,6,5
+107,船长之剑J,Captain Blade J,mhxx-dex-1.0+mhxx-save-format-community,6,5
+108,火魔神亚蒙之剑,Amol Saiqa,mhxx-dex-1.0+mhxx-save-format-community,6,5
+109,仁剑【侠客站姿】,Chivalry,mhxx-dex-1.0+mhxx-save-format-community,6,5
+110,G剑,G Blade,mhxx-dex-1.0+mhxx-save-format-community,6,5
+111,宝大剑之金属器,Gold Great Sword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+112,银翼大剑,Silverwing Great Sword,mhxx-dex-1.0+mhxx-save-format-community,7,6
+113,青电主大剑,Zephra Wing,mhxx-dex-1.0+mhxx-save-format-community,11,5
+114,天眼大剑･闲花素琴,Yaezakura,mhxx-dex-1.0+mhxx-save-format-community,11,5
+115,银峰大剑,Elderfrost Great Sword,mhxx-dex-1.0+mhxx-save-format-community,11,5
+116,屠杀大剑,Massacre Blade,mhxx-dex-1.0+mhxx-save-format-community,11,5
+117,铠裂大剑,Razor Cleaver,mhxx-dex-1.0+mhxx-save-format-community,11,5
+118,胧镰,Cloaked Blade,mhxx-dex-1.0+mhxx-save-format-community,11,5
+119,杀龙大剑,Dragonslayer,mhxx-dex-1.0+mhxx-save-format-community,10,3
+120,红龙大剑【绝望】,Fatalis Fireblade,mhxx-dex-1.0+mhxx-save-format-community,10,3
+121,祖龙辉剑【破暗】,Fatalis Ancestor,mhxx-dex-1.0+mhxx-save-format-community,10,3
+122,碎光击剑,Lightbreak Blade,mhxx-dex-1.0+mhxx-save-format-community,10,3
+123,光亮or阴影,Licht/Ombre,mhxx-dex-1.0+mhxx-save-format-community,10,3
+124,争执角,Quarrel Hornsword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+125,冰凌白牙,Icicle Fang,mhxx-dex-1.0+mhxx-save-format-community,5,5
+126,土砂大剑,Carapace Sword,mhxx-dex-1.0+mhxx-save-format-community,4,6
+127,影蜘蛛巨剑,Immane Blade,mhxx-dex-1.0+mhxx-save-format-community,4,6
+128,影蜘蛛大剑,Scylla Blade,mhxx-dex-1.0+mhxx-save-format-community,8,3
+129,无畏,Reddnaught,mhxx-dex-1.0+mhxx-save-format-community,9,3
+130,包裹未解之大剑,Research Great Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+131,维京之角,Viking Hornsword,mhxx-dex-1.0+mhxx-save-format-community,9,3
+132,搅拌棒【嘴麻】,Palette Knife,mhxx-dex-1.0+mhxx-save-format-community,8,3
+133,长者大剑,Elder Blade,mhxx-dex-1.0+mhxx-save-format-community,8,3
+134,轻羽剑【圣职者】,Clero Blade,mhxx-dex-1.0+mhxx-save-format-community,4,6
+135,漂流者之刀,Drifter's Sword,mhxx-dex-1.0+mhxx-save-format-community,9,3
+136,牙狼剑,Garo Sword,mhxx-dex-1.0+mhxx-save-format-community,9,3

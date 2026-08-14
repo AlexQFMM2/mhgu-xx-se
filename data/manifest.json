@@ -1,0 +1,362 @@
+{
+  "files": [
+    {
+      "path": "cn/armor_arms.csv",
+      "rows": 1136,
+      "sha256": "d398503842f8da96f84a6bf1275e57eb1082796b61314e2fbbcbcbc7d5a64732"
+    },
+    {
+      "path": "cn/armor_chest.csv",
+      "rows": 1167,
+      "sha256": "82859e073d49e7b4ec2535a421b1d4c3bafe4bf94a4f95a573c666e2ac4aa4dc"
+    },
+    {
+      "path": "cn/armor_head.csv",
+      "rows": 1182,
+      "sha256": "b659e2f22c8845145849a640c70205ea5d967e785e5020fea70b95a7bb15d550"
+    },
+    {
+      "path": "cn/armor_legs.csv",
+      "rows": 1155,
+      "sha256": "b7a20fa9cffc0a192784b9fef2f170dacd45a7dea238738ff46e544debd426e2"
+    },
+    {
+      "path": "cn/armor_waist.csv",
+      "rows": 1091,
+      "sha256": "396c641378be0fef32128cf69e546a243b02bbc61b6072d9cf9d6201675759ee"
+    },
+    {
+      "path": "cn/decorations.csv",
+      "rows": 263,
+      "sha256": "90240f6a490a890a5e7dde7207a446f8c36d85817524b8f631b238b22c1ff0d7"
+    },
+    {
+      "path": "cn/equipment_lookups.csv",
+      "rows": 157,
+      "sha256": "6d7a827b45fc52a4f6f9f940df46b38c9d07dc45001af8008f82b382fa60364c"
+    },
+    {
+      "path": "cn/equipment_types.csv",
+      "rows": 21,
+      "sha256": "99d07c0151e88a8a3bb7add821e47c12031993c6bc663c6141e3bd2e630157bd"
+    },
+    {
+      "path": "cn/items.csv",
+      "rows": 2921,
+      "sha256": "31695198ac4ca3d3901ef0259bff3e0b6a39a31bd1efb58fde8952b13a649b2e"
+    },
+    {
+      "path": "cn/palico_armor.csv",
+      "rows": 524,
+      "sha256": "0d773746224d72206785c546dfa8d5080fbf91b8b58656b36f0b58a677dddf6d"
+    },
+    {
+      "path": "cn/palico_forte_grants.csv",
+      "rows": 37,
+      "sha256": "15d96ee56accd25d9a81bf487b1fa7b48c5dda6991b37da5df618dd522582d7f"
+    },
+    {
+      "path": "cn/palico_fortes.csv",
+      "rows": 8,
+      "sha256": "02d9ceee0ee887eaf1cd221fd1d2663d111e82bae91a765fdf08b3370f415ecc"
+    },
+    {
+      "path": "cn/palico_generation_patterns.csv",
+      "rows": 15,
+      "sha256": "b4f2f8bde2de191745d10e957e47df068620f58b00cce8015e05f4e4c930ee7b"
+    },
+    {
+      "path": "cn/palico_head.csv",
+      "rows": 502,
+      "sha256": "e812adf9c27129f0ae166a5c017abc65bffd0a0ec346949f5219909e3a5d84dc"
+    },
+    {
+      "path": "cn/palico_limits.csv",
+      "rows": 6,
+      "sha256": "80bfa770f80e9465c6bac3f909469a0a93ce7cd5a56ee79071552a7eb23acf90"
+    },
+    {
+      "path": "cn/palico_skills.csv",
+      "rows": 97,
+      "sha256": "18462d6b13f71530d91a02dc61d1676506e4c55422f77616b258727d2d828cd1"
+    },
+    {
+      "path": "cn/palico_support_moves.csv",
+      "rows": 58,
+      "sha256": "e8a54d1ca8129b6f9d74a5675134bb0baf8c969922e5ad0b7a215f2d3ebb77cd"
+    },
+    {
+      "path": "cn/palico_targets.csv",
+      "rows": 6,
+      "sha256": "7a2941107edc7144739c0b75b03369ffc7d746cf305c118045a9f83b04dff0e1"
+    },
+    {
+      "path": "cn/palico_weapons.csv",
+      "rows": 509,
+      "sha256": "cab6e55587156728bcf9a892863582e9eecdd310cf90312f385180d17877aba6"
+    },
+    {
+      "path": "cn/skills.csv",
+      "rows": 206,
+      "sha256": "930a8fbd6902ec77c65fd875b8108061a7667bf71c2b9525974e7c9a1212ea34"
+    },
+    {
+      "path": "cn/talismans.csv",
+      "rows": 11,
+      "sha256": "6f17823cd28dd7ab7d394fca6cdd8545d53f3dc9b3fc83f5e9422861f18e34ae"
+    },
+    {
+      "path": "cn/weapon_bow.csv",
+      "rows": 108,
+      "sha256": "af6f67fdbddaa084a694cb317a0ed1f6909aa26cb748ce8b8d2aa60ef6f7010d"
+    },
+    {
+      "path": "cn/weapon_charge_blade.csv",
+      "rows": 81,
+      "sha256": "4a33d71027a7464a31386a3d36c2a77b9203e8f07ed97e8d0c6bcdbb2d83be3b"
+    },
+    {
+      "path": "cn/weapon_dual_blades.csv",
+      "rows": 126,
+      "sha256": "4818a41f66b8e1ae23cb13fb8d7e4fea9efce7f98057572974600241a0eefcf8"
+    },
+    {
+      "path": "cn/weapon_great_sword.csv",
+      "rows": 137,
+      "sha256": "b93fd51be27c7e61ed8dac366f1238854090d30cd03d7b204c17383d612b2e90"
+    },
+    {
+      "path": "cn/weapon_gunlance.csv",
+      "rows": 115,
+      "sha256": "a2f1dca29c72874584553ff83ef5e30ae9633a9d998bdaa167033b3a14097f4b"
+    },
+    {
+      "path": "cn/weapon_hammer.csv",
+      "rows": 132,
+      "sha256": "adc7a2b8415c421924a48c499ed9c23c5b94c59e6b5060be80a31553302c6fd9"
+    },
+    {
+      "path": "cn/weapon_heavy_bowgun.csv",
+      "rows": 109,
+      "sha256": "04d9f459955d047529a3d8df792487554921f1bc9917147c0486dbec99e6ca34"
+    },
+    {
+      "path": "cn/weapon_hunting_horn.csv",
+      "rows": 112,
+      "sha256": "7d4ce070ea845218e523d0bd31e10ada406829c446b32f59dc3c3b80ee61f22a"
+    },
+    {
+      "path": "cn/weapon_insect_glaive.csv",
+      "rows": 83,
+      "sha256": "ce8268e2cffecdde68a29a039d69148ea3840b8241b25f3dadf295538fc7c545"
+    },
+    {
+      "path": "cn/weapon_lance.csv",
+      "rows": 127,
+      "sha256": "4542c5e9c3027d4e4cc33b6aca5f3965e6c51f18f906583388c90db942f9ab6d"
+    },
+    {
+      "path": "cn/weapon_light_bowgun.csv",
+      "rows": 110,
+      "sha256": "a65b051354c55a3066c426b26959dee41ecf17d46ff902b9b30a30b29b302ef3"
+    },
+    {
+      "path": "cn/weapon_long_sword.csv",
+      "rows": 127,
+      "sha256": "44dcc1be977cbeb69812333f9299b76e3451f813c0c19928c09538d60d662345"
+    },
+    {
+      "path": "cn/weapon_switch_axe.csv",
+      "rows": 110,
+      "sha256": "5ea43eefe1c26f636f2ea05f7ca45914d9e5d475156020ccaa5c151db5a330d6"
+    },
+    {
+      "path": "cn/weapon_sword_and_shield.csv",
+      "rows": 129,
+      "sha256": "3d87003c5765657b2bed74823606c9ebbc8a7a77566ad3833844aab18b7e1db7"
+    },
+    {
+      "path": "en/armor_arms.csv",
+      "rows": 1136,
+      "sha256": "38ba4a5361dba8e49731f8315ca1504e9e33745e048f64e354e8fcf14094d6fa"
+    },
+    {
+      "path": "en/armor_chest.csv",
+      "rows": 1167,
+      "sha256": "fb208881d8a95b16fa4a3fb8b6d789a68df05bb7c9fab72f0317193cbdd5ed21"
+    },
+    {
+      "path": "en/armor_head.csv",
+      "rows": 1182,
+      "sha256": "c7e48e5d57af6a9cc261c4b81bb8fb45820bb36fbfaf93e10e93c79524e26d6d"
+    },
+    {
+      "path": "en/armor_legs.csv",
+      "rows": 1155,
+      "sha256": "5f77293215547645cba52cf8924bce4db54aacba5447691faceea4958b616e47"
+    },
+    {
+      "path": "en/armor_waist.csv",
+      "rows": 1091,
+      "sha256": "25c9bacf26723f2e94e1ee0d71e50fa54649937af6bf3839fb406f5d7559c420"
+    },
+    {
+      "path": "en/decorations.csv",
+      "rows": 263,
+      "sha256": "7b4042374eb99c5123b37216aa7c21398e8e29eb1c7ae418215123aa1ee2208b"
+    },
+    {
+      "path": "en/equipment_lookups.csv",
+      "rows": 157,
+      "sha256": "009134c253547460fde49cec82dcfb4548f6e8a61d9cb2b4d5cd1676912493e4"
+    },
+    {
+      "path": "en/equipment_types.csv",
+      "rows": 21,
+      "sha256": "99ddefb31a2274f11572942ff1f890723a4eb8911f7bcb779dddfc9c72847f90"
+    },
+    {
+      "path": "en/items.csv",
+      "rows": 2921,
+      "sha256": "5e2a29b4a69c8ae6e13b62958a26ee23cc2d97511709eca73487fb9c29754276"
+    },
+    {
+      "path": "en/palico_armor.csv",
+      "rows": 524,
+      "sha256": "752495a8229ac82f2800518ac602e30ddf801dcdad45b055132e6bf7cdf63044"
+    },
+    {
+      "path": "en/palico_forte_grants.csv",
+      "rows": 37,
+      "sha256": "15d96ee56accd25d9a81bf487b1fa7b48c5dda6991b37da5df618dd522582d7f"
+    },
+    {
+      "path": "en/palico_fortes.csv",
+      "rows": 8,
+      "sha256": "efdeab91572d3085af7194a1d535c234c6800d680e7a7e6e9f3fa8f060e7cd7a"
+    },
+    {
+      "path": "en/palico_generation_patterns.csv",
+      "rows": 15,
+      "sha256": "b4f2f8bde2de191745d10e957e47df068620f58b00cce8015e05f4e4c930ee7b"
+    },
+    {
+      "path": "en/palico_head.csv",
+      "rows": 502,
+      "sha256": "1fbe99dab1e0441acd14bfdd4ba60dab278dc44260093abe6b9a836ad25e9892"
+    },
+    {
+      "path": "en/palico_limits.csv",
+      "rows": 6,
+      "sha256": "80bfa770f80e9465c6bac3f909469a0a93ce7cd5a56ee79071552a7eb23acf90"
+    },
+    {
+      "path": "en/palico_skills.csv",
+      "rows": 97,
+      "sha256": "aa9b19bac18d9ac938d3e74a32f5836fad19d2e390707f6a1864e6673992f5cf"
+    },
+    {
+      "path": "en/palico_support_moves.csv",
+      "rows": 58,
+      "sha256": "034220cc45e207c215b45ebc2f974ae1e7e7a7f413d2a51064cfc28aa726bf1a"
+    },
+    {
+      "path": "en/palico_targets.csv",
+      "rows": 6,
+      "sha256": "cd279eba7d86a513e0621994cb360ac1fd99fe85444dd75e52b8e17d69913840"
+    },
+    {
+      "path": "en/palico_weapons.csv",
+      "rows": 509,
+      "sha256": "624ed50990ae98eda205cb8d1684ce1ba6435c21d942e4f96c40ae70107a6426"
+    },
+    {
+      "path": "en/skills.csv",
+      "rows": 206,
+      "sha256": "2eb1e93cad1418217c1c20cc92dac2345702475490db2aa63df4ae06de895d7a"
+    },
+    {
+      "path": "en/talismans.csv",
+      "rows": 11,
+      "sha256": "9e0051d0434fa7cdb2f8c5e11e4c12cc3f23ff3672f96246745329f31dba4517"
+    },
+    {
+      "path": "en/weapon_bow.csv",
+      "rows": 108,
+      "sha256": "46d4eccddfa673db656d65bd91094af0469020e1a63602dc450c3c208825a350"
+    },
+    {
+      "path": "en/weapon_charge_blade.csv",
+      "rows": 81,
+      "sha256": "f3bbe7d2179c38e360463e39c51836f6e2662c610716953ef6e44a6f3d544fbe"
+    },
+    {
+      "path": "en/weapon_dual_blades.csv",
+      "rows": 126,
+      "sha256": "ec01a432d6f73f5b6ba47ef383df175e41e55e3f28928f005b9858ba5f9743bb"
+    },
+    {
+      "path": "en/weapon_great_sword.csv",
+      "rows": 137,
+      "sha256": "37b70f7221828185fa300d8c54782808a20864f76cfd473f3db86861bda4b31e"
+    },
+    {
+      "path": "en/weapon_gunlance.csv",
+      "rows": 115,
+      "sha256": "75c3468b944362468db5aeb4908f765b145a69b60f517ad74f6b2ee5f914f24c"
+    },
+    {
+      "path": "en/weapon_hammer.csv",
+      "rows": 132,
+      "sha256": "e6857e6c76b4651f83e726b77fd463d42819eae9b4c0c7e05ca29d0398db975e"
+    },
+    {
+      "path": "en/weapon_heavy_bowgun.csv",
+      "rows": 109,
+      "sha256": "5a2af2a28230d66f6515d310b7f6045c3fb2d61294570cf36d4997f2aab57220"
+    },
+    {
+      "path": "en/weapon_hunting_horn.csv",
+      "rows": 112,
+      "sha256": "d6a7a056652dec28df6b23a5938e7c5be1a7567b7d3f19553f4685ba81576ca6"
+    },
+    {
+      "path": "en/weapon_insect_glaive.csv",
+      "rows": 83,
+      "sha256": "bb4b1274aa3991d4ce70a6d6870b13bcb11ac77dacb7f464a821de0e8d38b3ba"
+    },
+    {
+      "path": "en/weapon_lance.csv",
+      "rows": 127,
+      "sha256": "f0230d075ff9edb56520a09d7884cbcd332013ae07588ce759c3189091a5586a"
+    },
+    {
+      "path": "en/weapon_light_bowgun.csv",
+      "rows": 110,
+      "sha256": "155e534c1f173f5a41af93c30ea2cf353d1b835bfa7f27646c88b86dd75b1071"
+    },
+    {
+      "path": "en/weapon_long_sword.csv",
+      "rows": 127,
+      "sha256": "4730ffac54a917cd2e877ecb32c57eff277a957b297637588f9a7c9a4664faf0"
+    },
+    {
+      "path": "en/weapon_switch_axe.csv",
+      "rows": 110,
+      "sha256": "4d49a06f23a012551a2d5d81d7f8d7b43dc39d54ceb5379cb37796cd424176e7"
+    },
+    {
+      "path": "en/weapon_sword_and_shield.csv",
+      "rows": 129,
+      "sha256": "64ed453e9a191a1631b45a109999ed73b79f773e667b90410e9877f433e67725"
+    }
+  ],
+  "format": "mhxx-save-editor-data-v1",
+  "generator_version": "1.1.1",
+  "sources": {
+    "dex_dump_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
+    "mhxx_dex_exe_sha256": "5e0508b80b02565c5c7217861c315911878896567b07659631c34b7f7dae46c7",
+    "palico_cn_translation_sha256": "e83abe3813020389a0591dde40bb4a853d77a962b9346c58066532fa0e9820b9",
+    "save_data_crosswalk_sha256": "679c970d54588fcc2460cd2ed2ba72a8d7dc0e2414a96b49ac94e11e0a2be6f2"
+  }
+}

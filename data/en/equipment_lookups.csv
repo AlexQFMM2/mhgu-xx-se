@@ -1,0 +1,158 @@
+domain,equipment_type,variant,value,name,english,source
+weapon_special,"14,20",phial,1,Power,Power,mhxx-dex-1.0
+weapon_special,"14,20",phial,2,Para,Para,mhxx-dex-1.0
+weapon_special,"14,20",phial,3,Poison,Poison,mhxx-dex-1.0
+weapon_special,"14,20",phial,4,Dragon,Dragon,mhxx-dex-1.0
+weapon_special,"14,20",phial,5,Element,Element,mhxx-dex-1.0
+weapon_special,"14,20",phial,6,Exhaust,Exhaust,mhxx-dex-1.0
+weapon_special,"14,20",phial,7,Impact,Impact,mhxx-dex-1.0
+weapon_special,16,arc_type,1,Wide,Wide,mhxx-dex-1.0
+weapon_special,16,arc_type,2,Focus,Focus,mhxx-dex-1.0
+weapon_special,16,arc_type,3,Blast,Blast,mhxx-dex-1.0
+weapon_special,16,arc_type,4,Power,Power,mhxx-dex-1.0
+weapon_special,"11,12",recoil,1,Low,Low,mhxx-dex-1.0
+weapon_special,"11,12",recoil,2,Some,Some,mhxx-dex-1.0
+weapon_special,"11,12",recoil,3,Avg.,Avg.,mhxx-dex-1.0
+weapon_special,"11,12",recoil,4,High,High,mhxx-dex-1.0
+weapon_special,"11,12",reload_speed,1,V. Fast,V. Fast,mhxx-dex-1.0
+weapon_special,"11,12",reload_speed,2,Abv.Avg,Abv.Avg,mhxx-dex-1.0
+weapon_special,"11,12",reload_speed,3,Average,Average,mhxx-dex-1.0
+weapon_special,"11,12",reload_speed,4,Bel.Avg,Bel.Avg,mhxx-dex-1.0
+weapon_special,"11,12",reload_speed,5,V. Slow,V. Slow,mhxx-dex-1.0
+weapon_special,"11,12",deviation,0,-,-,mhxx-dex-1.0
+weapon_special,"11,12",deviation,1,LR Mild,LR Mild,mhxx-dex-1.0
+weapon_special,"11,12",deviation,2,LR Severe,LR Severe,mhxx-dex-1.0
+weapon_special,"11,12",deviation,3,L Mild,L Mild,mhxx-dex-1.0
+weapon_special,"11,12",deviation,4,L Severe,L Severe,mhxx-dex-1.0
+weapon_special,"11,12",deviation,5,R Mild,R Mild,mhxx-dex-1.0
+weapon_special,"11,12",deviation,6,R Severe,R Severe,mhxx-dex-1.0
+weapon_special,18,song_category,1,Offensive,Offensive,mhxx-dex-1.0
+weapon_special,18,song_category,2,Defensive,Defensive,mhxx-dex-1.0
+weapon_special,18,song_category,3,Protection,Protection,mhxx-dex-1.0
+weapon_special,18,song_category,4,Healing,Healing,mhxx-dex-1.0
+weapon_special,18,song_category,5,User-only,User-only,mhxx-dex-1.0
+weapon_special,18,song_category,6,Other,Other,mhxx-dex-1.0
+kinsect,19,damage_type,1,Cutting,Cutting,mhxx-dex-1.0
+kinsect,19,damage_type,2,Blunt,Blunt,mhxx-dex-1.0
+weapon_special,11,rapid_fire_gap,1,Low,Low,mhxx-dex-1.0
+weapon_special,11,rapid_fire_gap,2,Avg.,Avg.,mhxx-dex-1.0
+weapon_special,11,rapid_fire_gap,3,High,High,mhxx-dex-1.0
+weapon_special,11,rapid_fire_gap,4,V.High,V.High,mhxx-dex-1.0
+weapon_special,18,recital_effect,1,Movement Speed Up,Movement Speed Up,mhxx-dex-1.0
+weapon_special,18,recital_effect,2,Attack Deflection Prevention,Attack Deflection Prevention,mhxx-dex-1.0
+weapon_special,18,recital_effect,3,Attack +10%,Attack +10%,mhxx-dex-1.0
+weapon_special,18,recital_effect,4,Attack +15%,Attack +15%,mhxx-dex-1.0
+weapon_special,18,recital_effect,5,Attack +5%,Attack +5%,mhxx-dex-1.0
+weapon_special,18,recital_effect,6,Defense +10%,Defense +10%,mhxx-dex-1.0
+weapon_special,18,recital_effect,7,Defense +15%,Defense +15%,mhxx-dex-1.0
+weapon_special,18,recital_effect,8,Defense +5%,Defense +5%,mhxx-dex-1.0
+weapon_special,18,recital_effect,9,Att. & Def. +10%,Att. & Def. +10%,mhxx-dex-1.0
+weapon_special,18,recital_effect,10,Att. & Def. +5%,Att. & Def. +5%,mhxx-dex-1.0
+weapon_special,18,recital_effect,11,Max Health +30,Max Health +30,mhxx-dex-1.0
+weapon_special,18,recital_effect,12,Max Health +50,Max Health +50,mhxx-dex-1.0
+weapon_special,18,recital_effect,13,Recovery Speed Up (S),Recovery Speed Up (S),mhxx-dex-1.0
+weapon_special,18,recital_effect,14,Recovery Speed Up (L),Recovery Speed Up (L),mhxx-dex-1.0
+weapon_special,18,recital_effect,15,Health Recovery (S),Health Recovery (S),mhxx-dex-1.0
+weapon_special,18,recital_effect,16,Health Rec. (S) + Ant.,Health Rec. (S) + Ant.,mhxx-dex-1.0
+weapon_special,18,recital_effect,17,Health Rec. (M) + Ant.,Health Rec. (M) + Ant.,mhxx-dex-1.0
+weapon_special,18,recital_effect,18,Health Rec. (M) + Deod.,Health Rec. (M) + Deod.,mhxx-dex-1.0
+weapon_special,18,recital_effect,19,Health Recovery (L),Health Recovery (L),mhxx-dex-1.0
+weapon_special,18,recital_effect,20,Fire Res +5 + Fireblight Reduced,Fire Res +5 + Fireblight Reduced,mhxx-dex-1.0
+weapon_special,18,recital_effect,21,Fire Res +7 + Fireblight Immune,Fire Res +7 + Fireblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,22,Fire Res +7 + Fireblight Immune,Fire Res +7 + Fireblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,23,Water Res +5 + Waterblight Reduced,Water Res +5 + Waterblight Reduced,mhxx-dex-1.0
+weapon_special,18,recital_effect,24,Water Res +7 + Waterblight Immune,Water Res +7 + Waterblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,25,Water Res +7 + Waterblight Immune,Water Res +7 + Waterblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,26,Thunder Res +5 + Thunderblight Reduced,Thunder Res +5 + Thunderblight Reduced,mhxx-dex-1.0
+weapon_special,18,recital_effect,27,Thunder Res +7 + Thunderblight Immune,Thunder Res +7 + Thunderblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,28,Thunder Res +7 + Thunderblight Immune,Thunder Res +7 + Thunderblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,29,Ice Res +5 + Iceblight Reduced,Ice Res +5 + Iceblight Reduced,mhxx-dex-1.0
+weapon_special,18,recital_effect,30,Ice Res +7 + Iceblight Immune,Ice Res +7 + Iceblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,31,Ice Res +7 + Iceblight Immune,Ice Res +7 + Iceblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,32,Dragon Res +5 + Dragonblight Reduced,Dragon Res +5 + Dragonblight Reduced,mhxx-dex-1.0
+weapon_special,18,recital_effect,33,Dragon Res +7 + Dragonblight Immune,Dragon Res +7 + Dragonblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,34,Dragon Res +7 + Dragonblight Immune,Dragon Res +7 + Dragonblight Immune,mhxx-dex-1.0
+weapon_special,18,recital_effect,35,Negate Paralysis,Negate Paralysis,mhxx-dex-1.0
+weapon_special,18,recital_effect,36,Negate Stun,Negate Stun,mhxx-dex-1.0
+weapon_special,18,recital_effect,37,Bind Res,Bind Res,mhxx-dex-1.0
+weapon_special,18,recital_effect,38,Divine Protection,Divine Protection,mhxx-dex-1.0
+weapon_special,18,recital_effect,39,Tremor Res,Tremor Res,mhxx-dex-1.0
+weapon_special,18,recital_effect,40,Negate Heat,Negate Heat,mhxx-dex-1.0
+weapon_special,18,recital_effect,41,Negate Cold,Negate Cold,mhxx-dex-1.0
+weapon_special,18,recital_effect,42,Hearing Protection (S),Hearing Protection (S),mhxx-dex-1.0
+weapon_special,18,recital_effect,43,HG Earplugs Effect Activated,HG Earplugs Effect Activated,mhxx-dex-1.0
+weapon_special,18,recital_effect,44,Wind Pressure Reduced,Wind Pressure Reduced,mhxx-dex-1.0
+weapon_special,18,recital_effect,45,Wind Pressure Negated,Wind Pressure Negated,mhxx-dex-1.0
+weapon_special,18,recital_effect,46,Hearing Protection (S) + Wind Pressure Reduced,Hearing Protection (S) + Wind Pressure Reduced,mhxx-dex-1.0
+weapon_special,18,recital_effect,47,HG Earplugs Effect Activated + Wind Pressure Negated,HG Earplugs Effect Activated + Wind Pressure Negated,mhxx-dex-1.0
+weapon_special,18,recital_effect,48,All Elemental Res +5,All Elemental Res +5,mhxx-dex-1.0
+weapon_special,18,recital_effect,49,All Elemental Res +10,All Elemental Res +10,mhxx-dex-1.0
+weapon_special,18,recital_effect,50,Blightproof,Blightproof,mhxx-dex-1.0
+weapon_special,18,recital_effect,51,Negate Abnormal Stat.,Negate Abnormal Stat.,mhxx-dex-1.0
+weapon_special,18,recital_effect,52,Elemental Attack +8%,Elemental Attack +8%,mhxx-dex-1.0
+weapon_special,18,recital_effect,53,Elemental Attack +10%,Elemental Attack +10%,mhxx-dex-1.0
+weapon_special,18,recital_effect,54,Abnormal Status Attack +10%,Abnormal Status Attack +10%,mhxx-dex-1.0
+weapon_special,18,recital_effect,55,Abnormal Status Attack +15%,Abnormal Status Attack +15%,mhxx-dex-1.0
+weapon_special,18,recital_effect,56,Affinity +15 + Health Rec. (S),Affinity +15 + Health Rec. (S),mhxx-dex-1.0
+weapon_special,18,recital_effect,57,Affinity +20 + Health Rec. (S),Affinity +20 + Health Rec. (S),mhxx-dex-1.0
+weapon_special,18,recital_effect,58,Negate Stamina Use (S),Negate Stamina Use (S),mhxx-dex-1.0
+weapon_special,18,recital_effect,59,Negate Stamina Use (L),Negate Stamina Use (L),mhxx-dex-1.0
+weapon_special,18,recital_effect,60,Negate Stamina Use (S) Extended,Negate Stamina Use (S) Extended,mhxx-dex-1.0
+weapon_special,18,recital_effect,61,Psychic,Psychic,mhxx-dex-1.0
+weapon_special,18,recital_effect,62,High-Frequency Waves Emitted,High-Frequency Waves Emitted,mhxx-dex-1.0
+weapon_special,18,recital_effect,63,Negate Knockback,Negate Knockback,mhxx-dex-1.0
+weapon_special,18,recital_effect,64,Finale,Finale,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,1,Normal Lv1,Normal Lv1,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,2,Normal Lv2,Normal Lv2,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,3,Normal Lv3,Normal Lv3,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,4,Normal Lv4,Normal Lv4,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,5,Normal Lv5,Normal Lv5,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,6,Wide Lv1,Wide Lv1,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,7,Wide Lv2,Wide Lv2,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,8,Wide Lv3,Wide Lv3,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,9,Wide Lv4,Wide Lv4,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,10,Wide Lv5,Wide Lv5,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,11,Long Lv1,Long Lv1,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,12,Long Lv2,Long Lv2,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,13,Long Lv3,Long Lv3,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,14,Long Lv4,Long Lv4,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,15,Long Lv5,Long Lv5,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,16,Pierce Lv1,Pierce Lv1,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,17,Pierce Lv2,Pierce Lv2,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,18,Pierce Lv3,Pierce Lv3,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,19,Pierce Lv4,Pierce Lv4,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,20,Pierce Lv5,Pierce Lv5,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,21,Rapid Lv1,Rapid Lv1,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,22,Rapid Lv2,Rapid Lv2,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,23,Rapid Lv3,Rapid Lv3,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,24,Rapid Lv4,Rapid Lv4,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,25,Rapid Lv5,Rapid Lv5,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,26,Spread Lv1,Spread Lv1,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,27,Spread Lv2,Spread Lv2,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,28,Spread Lv3,Spread Lv3,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,29,Spread Lv4,Spread Lv4,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,30,Spread Lv5,Spread Lv5,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,31,Heavy Lv1,Heavy Lv1,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,32,Heavy Lv2,Heavy Lv2,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,33,Heavy Lv3,Heavy Lv3,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,34,Heavy Lv4,Heavy Lv4,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,35,Heavy Lv5,Heavy Lv5,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,36,Normal,Normal,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,37,Wide,Wide,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,38,Long,Long,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,39,Pierce,Pierce,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,40,Rapid,Rapid,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,41,Spread,Spread,mhxx-dex-1.0
+weapon_special,"15,16",shot_type,42,Heavy,Heavy,mhxx-dex-1.0
+attribute_type,7-20,dex,1,Fire,Fire,mhxx-dex-1.0
+attribute_type,7-20,dex,2,Wat,Wat,mhxx-dex-1.0
+attribute_type,7-20,dex,3,Thun,Thun,mhxx-dex-1.0
+attribute_type,7-20,dex,4,Ice,Ice,mhxx-dex-1.0
+attribute_type,7-20,dex,5,Dra,Dra,mhxx-dex-1.0
+attribute_type,7-20,dex,6,Pois,Pois,mhxx-dex-1.0
+attribute_type,7-20,dex,7,Para,Para,mhxx-dex-1.0
+attribute_type,7-20,dex,8,Sleep,Sleep,mhxx-dex-1.0
+attribute_type,7-20,dex,9,Blast,Blast,mhxx-dex-1.0
+palico_weapon,1,balance,1,Balanced,Balanced,mhxx-dex-1.0
+palico_weapon,1,balance,2,Close Range,Close Range,mhxx-dex-1.0
+palico_weapon,1,balance,3,Boomerang,Boomerang,mhxx-dex-1.0

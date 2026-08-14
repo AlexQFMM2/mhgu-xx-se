@@ -1,0 +1,1092 @@
+id,name,english,source,rarity
+0,无,None,mhxx-save-format-community,0
+4,皮制腰带,Leather Belt,mhxx-dex-1.0,1
+9,锁甲腰带,Chainmail Belt,mhxx-dex-1.0,1
+14,贝鲁纳腰带,Bherna Belt,mhxx-dex-1.0,1
+19,狩猎护裙,Hunting Faulds,mhxx-dex-1.0,1
+24,狩猎护腰,Hunting Coat,mhxx-dex-1.0,1
+29,毛皮护腰,Mafumofu Coat,mhxx-dex-1.0,1
+34,结云之带,Yukumo Obi,mhxx-dex-1.0,1
+37,石架腰甲,Loc Lac Kilt,mhxx-dex-1.0,1
+42,猎人护裙,Hunter's Faulds,mhxx-dex-1.0,1
+47,猎人护腰,Hunter's Coat,mhxx-dex-1.0,1
+52,骨制护裙,Bone Faulds,mhxx-dex-1.0,1
+57,骨制护腰,Bone Coat,mhxx-dex-1.0,1
+59,皮制轻量腰带,Light Belt,mhxx-dex-1.0,1
+60,铁制腰带,Iron Belt,mhxx-dex-1.0,1
+80,狗龙护裙,Jaggi Faulds,mhxx-dex-1.0,1
+85,狗龙护腰,Jaggi Coat,mhxx-dex-1.0,1
+90,跳狗龙护裙,Maccao Faulds,mhxx-dex-1.0,1
+95,跳狗龙护腰,Maccao Coat,mhxx-dex-1.0,1
+100,蓝速龙护裙,Velociprey Tassets,mhxx-dex-1.0,1
+105,蓝速龙护腰,Velociprey Coat,mhxx-dex-1.0,1
+110,白速龙护裙,Giaprey Tassets,mhxx-dex-1.0,1
+115,白速龙护腰,Giaprey Coat,mhxx-dex-1.0,1
+120,黄速龙护裙,Genprey Tassets,mhxx-dex-1.0,1
+125,黄速龙护腰,Genprey Coat,mhxx-dex-1.0,1
+130,巨蜂护裙,Vespoid Tassets,mhxx-dex-1.0,1
+135,巨蜂护腰,Vespoid Coat,mhxx-dex-1.0,1
+140,巨甲虫护裙,Hornetaur Tassets,mhxx-dex-1.0,1
+145,巨甲虫护腰,Hornetaur Coat,mhxx-dex-1.0,1
+150,飞甲虫腰甲,Bnahabra Coil,mhxx-dex-1.0,1
+155,飞甲虫护腰,Bnahabra Coat,mhxx-dex-1.0,1
+164,蘑菇猪屁屁,Mosswine Hip,mhxx-dex-1.0,1
+169,硬甲龙腰甲,Rhenoplos Coil,mhxx-dex-1.0,1
+174,硬甲龙护腰,Rhenoplos Coat,mhxx-dex-1.0,1
+179,野猪护裙,Bulldrome Faulds,mhxx-dex-1.0,1
+184,野猪护腰,Bulldrome Coat,mhxx-dex-1.0,1
+190,青熊兽护裙,Arzuros Faulds,mhxx-dex-1.0,1
+195,青熊兽护腰,Arzuros Coat,mhxx-dex-1.0,1
+200,砂龙护裙,Cephalos Tassets,mhxx-dex-1.0,1
+205,砂龙护腰,Cephalos Coat,mhxx-dex-1.0,1
+210,勇气腰带,Derring Belt,mhxx-dex-1.0,2
+215,合金腰甲,Alloy Coil,mhxx-dex-1.0,2
+220,合金护腰,Alloy Coat,mhxx-dex-1.0,2
+225,战斗护裙,Battle Tassets,mhxx-dex-1.0,2
+230,战斗护腰,Battle Coat,mhxx-dex-1.0,2
+235,铸铁腰甲,Ingot Coil,mhxx-dex-1.0,2
+240,铸铁护腰,Ingot Coat,mhxx-dex-1.0,2
+245,矿石护裙,High Metal Tassets,mhxx-dex-1.0,2
+250,矿石护腰,High Metal Coat,mhxx-dex-1.0,2
+257,花瓣叶片,Melahoa Folia,mhxx-dex-1.0,2
+262,花瓣叶脉,Melahoa Trunk,mhxx-dex-1.0,2
+267,鱼鳞腰甲,Makluva Coil,mhxx-dex-1.0,2
+272,鱼鳞裤装,Makluva Fin,mhxx-dex-1.0,2
+276,厨师布裙,Bistro Sarong,mhxx-dex-1.0,2
+279,厨师围裙,Bistro Apron,mhxx-dex-1.0,2
+283,独角仙护腰具,Obituary Elytra,mhxx-dex-1.0,2
+288,独角仙尾椎,Obituary Alae,mhxx-dex-1.0,2
+293,燕尾蝶护腰具,Butterfly Elytra,mhxx-dex-1.0,2
+298,燕尾蝶尾椎,Butterfly Alae,mhxx-dex-1.0,2
+303,死神脐带,Death Stench Bowels,mhxx-dex-1.0,2
+308,死神贪欲,Death Stench Belly,mhxx-dex-1.0,2
+317,南瓜叶片,Mosgharl Folia,mhxx-dex-1.0,2
+322,南瓜叶脉,Mosgharl Fronds,mhxx-dex-1.0,2
+327,雪绒花叶片,Edel Folia,mhxx-dex-1.0,2
+332,雪绒花叶脉,Edel Fronds,mhxx-dex-1.0,2
+337,毒蝎护腰具,Skalda Elytra,mhxx-dex-1.0,2
+342,毒蝎尾椎,Skalda Alae,mhxx-dex-1.0,2
+347,毒蛛护腰具,Spio Elytra,mhxx-dex-1.0,2
+352,毒蛛尾椎,Spio Alae,mhxx-dex-1.0,2
+355,水生兽护裙,Droth Faulds,mhxx-dex-1.0,2
+358,水生兽护腰,Droth Coat,mhxx-dex-1.0,2
+361,熔岩兽护裙,Uroktor Tassets,mhxx-dex-1.0,2
+363,熔岩兽护腰,Uroktor Coat,mhxx-dex-1.0,2
+369,云羊鹿腰甲,Moofah Coil,mhxx-dex-1.0,2
+373,云羊鹿护腰,Moofah Coat,mhxx-dex-1.0,2
+402,蛇龙套装腰带,Remobra Belt,mhxx-dex-1.0,2
+407,蛇龙套装皮带,Remobra Band,mhxx-dex-1.0,2
+412,红速龙护裙,Ioprey Tassets,mhxx-dex-1.0,2
+417,红速龙护腰,Ioprey Coat,mhxx-dex-1.0,2
+422,怪鸟护裙,Kut-Ku Tassets,mhxx-dex-1.0,2
+427,怪鸟护腰,Kut-Ku Coat,mhxx-dex-1.0,2
+432,白兔兽护裙,Lagombi Faulds,mhxx-dex-1.0,2
+437,白兔兽护腰,Lagombi Coat,mhxx-dex-1.0,2
+442,毒怪鸟护裙,Gypceros Tassets,mhxx-dex-1.0,2
+447,毒怪鸟护腰,Gypceros Coat,mhxx-dex-1.0,2
+452,鬼蛙护裙,Tetsucabra Faulds,mhxx-dex-1.0,2
+457,鬼蛙护腰,Tetsucabra Coat,mhxx-dex-1.0,2
+462,大名盾蟹护裙,Hermitaur Tassets,mhxx-dex-1.0,2
+467,大名盾蟹护腰,Hermitaur Coat,mhxx-dex-1.0,2
+472,赤甲兽护裙,Volvidon Faulds,mhxx-dex-1.0,2
+477,赤甲兽护腰,Volvidon Coat,mhxx-dex-1.0,2
+482,水兽护裙,Ludroth Faulds,mhxx-dex-1.0,2
+487,水兽护腰,Ludroth Coat,mhxx-dex-1.0,2
+492,夜鸟护裙,Malfestio Faulds,mhxx-dex-1.0,2
+497,夜鸟护腰,Malfestio Coat,mhxx-dex-1.0,2
+502,白电护裙,Khezu Tassets,mhxx-dex-1.0,2
+507,白电护腰,Khezu Coat,mhxx-dex-1.0,2
+512,雌火龙护裙,Rathian Faulds,mhxx-dex-1.0,2
+517,雌火龙护腰,Rathian Coat,mhxx-dex-1.0,2
+522,潜口龙护裙,Nibelsnarf Faulds,mhxx-dex-1.0,2
+527,潜口龙护腰,Nibelsnarf Coat,mhxx-dex-1.0,2
+532,雪狮子护裙,Blango Tassets,mhxx-dex-1.0,2
+537,雪狮子护腰,Blango Coat,mhxx-dex-1.0,2
+542,将军镰蟹护裙,Ceanataur Tassets,mhxx-dex-1.0,2
+547,将军镰蟹护腰,Ceanataur Coat,mhxx-dex-1.0,2
+552,绞蛇龙护裙,Najarala Faulds,mhxx-dex-1.0,2
+557,绞蛇龙护腰,Najarala Coat,mhxx-dex-1.0,2
+562,迅龙护裙,Nargacuga Faulds,mhxx-dex-1.0,2
+567,迅龙护腰,Nargacuga Coat,mhxx-dex-1.0,2
+572,贤者腰甲,Scholarly Sash,mhxx-dex-1.0,2
+577,贤者护腰,Scholarly Coat,mhxx-dex-1.0,2
+582,海境护裙,Vaik Faulds,mhxx-dex-1.0,3
+587,海境护腰,Vaik Coat,mhxx-dex-1.0,3
+594,锹形护腰具,Aelucanth Elytra,mhxx-dex-1.0,3
+599,锹形尾椎,Aelucanth Alae,mhxx-dex-1.0,3
+604,凤蝶护腰具,Rhopessa Elytra,mhxx-dex-1.0,3
+609,凤蝶尾椎,Rhopessa Alae,mhxx-dex-1.0,3
+620,黑狼鸟护裙,Garuga Tassets,mhxx-dex-1.0,3
+625,黑狼鸟护腰,Garuga Coat,mhxx-dex-1.0,3
+631,爆锤龙护裙,Uragaan Faulds,mhxx-dex-1.0,3
+636,爆锤龙护腰,Uragaan Coat,mhxx-dex-1.0,3
+641,火龙护裙,Rathalos Faulds,mhxx-dex-1.0,3
+646,火龙护腰,Rathalos Coat,mhxx-dex-1.0,3
+651,海龙护裙,Lagiacrus Faulds,mhxx-dex-1.0,3
+656,海龙护腰,Lagiacrus Coat,mhxx-dex-1.0,3
+661,雷狼龙护裙,Zinogre Faulds,mhxx-dex-1.0,3
+666,雷狼龙护腰,Zinogre Coat,mhxx-dex-1.0,3
+671,泡狐龙护裙,Mizutsune Faulds,mhxx-dex-1.0,3
+676,泡狐龙护腰,Mizutsune Coat,mhxx-dex-1.0,3
+681,电龙护裙,Astalos Faulds,mhxx-dex-1.0,3
+686,电龙护腰,Astalos Coat,mhxx-dex-1.0,3
+691,巨兽护裙,Gammoth Faulds,mhxx-dex-1.0,3
+696,巨兽护腰,Gammoth Coat,mhxx-dex-1.0,3
+701,斩龙护裙,Glavenus Faulds,mhxx-dex-1.0,3
+706,斩龙护腰,Glavenus Coat,mhxx-dex-1.0,3
+711,黑蚀龙护裙,Gore Faulds,mhxx-dex-1.0,3
+716,黑蚀龙护腰,Gore Coat,mhxx-dex-1.0,3
+721,千刃龙护裙,Regios Tassets,mhxx-dex-1.0,3
+726,千刃龙护腰,Regios Coat,mhxx-dex-1.0,3
+731,轰龙护裙,Tigrex Tassets,mhxx-dex-1.0,3
+736,轰龙护腰,Tigrex Coat,mhxx-dex-1.0,3
+741,麒麟腰环,Kirin Hoop,mhxx-dex-1.0,3
+746,麒麟绑腰,Kirin Shorts,mhxx-dex-1.0,3
+751,碎龙护裙,Brachydios Faulds,mhxx-dex-1.0,3
+756,碎龙护腰,Brachydios Coat,mhxx-dex-1.0,3
+761,方舟护裙,Arc Faulds,mhxx-dex-1.0,3
+766,方舟护腰,Arc Coat,mhxx-dex-1.0,3
+771,友爱护裙,Storge Faulds,mhxx-dex-1.0,3
+776,友爱护腰,Storge Coat,mhxx-dex-1.0,3
+781,钢龙安稳,Kushala Cocoon,mhxx-dex-1.0,3
+786,钢龙尊爱,Kushala Wind Wrap,mhxx-dex-1.0,3
+791,水行【圆带】,Mizuha Sash,mhxx-dex-1.0,3
+796,丰玉【圆带】,Cham Coat,mhxx-dex-1.0,3
+801,帝王护裙,Kaiser Tassets,mhxx-dex-1.0,3
+806,帝王护腰,Kaiser Coat,mhxx-dex-1.0,3
+811,骸装甲【腰骨】,Skeletal Hipbone,mhxx-dex-1.0,3
+816,尸装甲【腰骨】,Decayed Hipbone,mhxx-dex-1.0,3
+821,黑色脊髓,Black Spine,mhxx-dex-1.0,3
+826,黑色鳞片,Black Scale,mhxx-dex-1.0,3
+831,黑带护裙,Black Belt Tassets,mhxx-dex-1.0,3
+836,黑带护腰,Black Belt Coat,mhxx-dex-1.0,3
+841,公会诗人腰甲,Guild Bard Coil,mhxx-dex-1.0,3
+846,公会诗人护腰,Guild Bard Coat,mhxx-dex-1.0,3
+851,女仆裙,Maiden's Skirt,mhxx-dex-1.0,3
+856,休闲褶裙,French Maid Frills,mhxx-dex-1.0,3
+861,支援者裙,Helper Skirt,mhxx-dex-1.0,3
+866,治疗者褶裙,Healer Frills,mhxx-dex-1.0,3
+871,抚子【枝垂】,Dianthus Skirt,mhxx-dex-1.0,3
+876,桔梗【枝垂】,Campanile Skirt,mhxx-dex-1.0,3
+885,美食喵布裙,Gourmew Sarong,mhxx-dex-1.0,3
+890,美食喵围裙,Gourmew Apron,mhxx-dex-1.0,3
+895,皮制S护裙,Leather Faulds S,mhxx-dex-1.0,4
+900,皮制S护腰,Leather Coat S,mhxx-dex-1.0,4
+905,锁甲S护裙,Chainmail Faulds S,mhxx-dex-1.0,4
+910,锁甲S护腰,Chainmail Coat S,mhxx-dex-1.0,4
+915,贝鲁纳S腰带,Bherna Belt S,mhxx-dex-1.0,4
+920,贝鲁纳S护腰,Bherna Coat S,mhxx-dex-1.0,4
+925,狩猎S护裙,Hunting Faulds S,mhxx-dex-1.0,4
+930,狩猎S护腰,Hunting Coat S,mhxx-dex-1.0,4
+935,毛皮S腰甲,Mafumofu Coil S,mhxx-dex-1.0,4
+940,毛皮S护腰,Mafumofu Coat S,mhxx-dex-1.0,4
+945,结云之带･天,Yukumo Sky Obi,mhxx-dex-1.0,4
+950,结云之带･地,Yukumo Land Obi,mhxx-dex-1.0,4
+953,石架S腰甲,Loc Lac Kilt S,mhxx-dex-1.0,4
+958,猎人S护裙,Hunter's Faulds S,mhxx-dex-1.0,4
+963,猎人S护腰,Hunter's Coat S,mhxx-dex-1.0,4
+968,猎人R护裙,Hunter's Faulds R,mhxx-dex-1.0,4
+973,猎人R护腰,Hunter's Coat R,mhxx-dex-1.0,4
+978,骨制S护裙,Bone Faulds S,mhxx-dex-1.0,4
+983,骨制S护腰,Bone Coat S,mhxx-dex-1.0,4
+985,皮制轻量S腰带,Light Belt S,mhxx-dex-1.0,4
+986,铁制S腰带,Iron Belt S,mhxx-dex-1.0,4
+996,花瓣S叶片,Melahoa Folia S,mhxx-dex-1.0,4
+1001,花瓣S叶脉,Melahoa Trunk S,mhxx-dex-1.0,4
+1006,花瓣U叶片,Melahoa Folia U,mhxx-dex-1.0,4
+1011,花瓣U叶脉,Melahoa Trunk U,mhxx-dex-1.0,4
+1016,鱼鳞S腰甲,Makluva Coil S,mhxx-dex-1.0,4
+1021,鱼鳞S裤装,Makluva Fin S,mhxx-dex-1.0,4
+1026,鱼鳞U腰甲,Makluva Coil U,mhxx-dex-1.0,4
+1031,鱼鳞U裤装,Makluva Fin U,mhxx-dex-1.0,4
+1035,厨师S布裙,Bistro Sarong S,mhxx-dex-1.0,4
+1038,厨师S围裙,Bistro Apron S,mhxx-dex-1.0,4
+1046,南瓜S叶片,Mosgharl Folia S,mhxx-dex-1.0,4
+1051,南瓜S叶脉,Mosgharl Fronds S,mhxx-dex-1.0,4
+1056,雪绒花S叶片,Edel Folia S,mhxx-dex-1.0,4
+1061,雪绒花S叶脉,Edel Fronds S,mhxx-dex-1.0,4
+1066,云羊鹿S腰甲,Moofah Coil S,mhxx-dex-1.0,4
+1070,云羊鹿S护腰,Moofah Coat S,mhxx-dex-1.0,4
+1113,蛇龙套装S腰带,Remobra Belt S,mhxx-dex-1.0,4
+1118,蛇龙套装S皮带,Remobra Band S,mhxx-dex-1.0,4
+1135,蘑菇猪S屁屁,Mosswine Hip S,mhxx-dex-1.0,4
+1140,硬甲龙S腰甲,Rhenoplos Coil S,mhxx-dex-1.0,4
+1145,硬甲龙S护腰,Rhenoplos Coat S,mhxx-dex-1.0,4
+1150,狗龙S护裙,Jaggi Faulds S,mhxx-dex-1.0,4
+1155,狗龙S护腰,Jaggi Coat S,mhxx-dex-1.0,4
+1158,水生兽S护裙,Droth Faulds S,mhxx-dex-1.0,4
+1161,水生兽S护腰,Droth Coat S,mhxx-dex-1.0,4
+1164,熔岩兽S护裙,Uroktor Tassets S,mhxx-dex-1.0,4
+1166,熔岩兽S护腰,Uroktor Coat S,mhxx-dex-1.0,4
+1170,跳狗龙S护裙,Maccao Faulds S,mhxx-dex-1.0,4
+1175,跳狗龙S护腰,Maccao Coat S,mhxx-dex-1.0,4
+1180,蓝速龙S护裙,Velociprey Tassets S,mhxx-dex-1.0,4
+1185,蓝速龙S护腰,Velociprey Coat S,mhxx-dex-1.0,4
+1190,白速龙S护裙,Giaprey Faulds S,mhxx-dex-1.0,4
+1195,白速龙S护腰,Giaprey Coat S,mhxx-dex-1.0,4
+1200,黄速龙S护裙,Genprey Tassets S,mhxx-dex-1.0,4
+1205,黄速龙S护腰,Genprey Coat S,mhxx-dex-1.0,4
+1210,EX黄速龙护裙,EX Genprey Tassets,mhxx-dex-1.0,4
+1215,EX黄速龙护腰,EX Genprey Coat,mhxx-dex-1.0,4
+1220,红速龙S护裙,Ioprey Tassets S,mhxx-dex-1.0,4
+1225,红速龙S护腰,Ioprey Coat S,mhxx-dex-1.0,4
+1230,EX红速龙护裙,EX Ioprey Tassets,mhxx-dex-1.0,4
+1235,EX红速龙护腰,EX Ioprey Coat,mhxx-dex-1.0,4
+1240,巨蜂S护裙,Vespoid Tassets S,mhxx-dex-1.0,4
+1245,巨蜂S护腰,Vespoid Coat S,mhxx-dex-1.0,4
+1250,EX巨蜂护裙,EX Vespoid Tassets,mhxx-dex-1.0,4
+1255,EX巨蜂护腰,EX Vespoid Coat,mhxx-dex-1.0,4
+1260,巨甲虫S护裙,Hornetaur Tassets S,mhxx-dex-1.0,4
+1265,巨甲虫S护腰,Hornetaur Coat S,mhxx-dex-1.0,4
+1270,EX巨甲虫护裙,EX Hornetaur Tassets,mhxx-dex-1.0,4
+1275,EX巨甲虫护腰,EX Hornetaur Coat,mhxx-dex-1.0,4
+1280,巨甲虫R护裙,Hornetaur Tassets R,mhxx-dex-1.0,4
+1285,巨甲虫R护腰,Hornetaur Coat R,mhxx-dex-1.0,4
+1290,飞甲虫S腰甲,Bnahabra Coil S,mhxx-dex-1.0,4
+1295,飞甲虫S护腰,Bnahabra Coat S,mhxx-dex-1.0,4
+1304,野猪S护裙,Bulldrome Faulds S,mhxx-dex-1.0,4
+1309,野猪S护腰,Bulldrome Coat S,mhxx-dex-1.0,4
+1315,青熊兽S护裙,Arzuros Faulds S,mhxx-dex-1.0,4
+1320,青熊兽S护腰,Arzuros Coat S,mhxx-dex-1.0,4
+1325,砂龙S护裙,Cephalos Tassets S,mhxx-dex-1.0,4
+1330,砂龙S护腰,Cephalos Coat S,mhxx-dex-1.0,4
+1335,EX砂龙护裙,EX Cephalos Tassets,mhxx-dex-1.0,4
+1340,EX砂龙护腰,EX Cephalos Coat,mhxx-dex-1.0,4
+1345,怪鸟S护裙,Kut-Ku Tassets S,mhxx-dex-1.0,4
+1350,怪鸟S护腰,Kut-Ku Coat S,mhxx-dex-1.0,4
+1355,奇猿狐护裙,Kecha Faulds,mhxx-dex-1.0,4
+1360,奇猿狐护腰,Kecha Coat,mhxx-dex-1.0,4
+1365,白兔兽S护裙,Lagombi Faulds S,mhxx-dex-1.0,4
+1370,白兔兽S护腰,Lagombi Coat S,mhxx-dex-1.0,4
+1375,毒怪鸟S护裙,Gypceros Tassets S,mhxx-dex-1.0,4
+1380,毒怪鸟S护腰,Gypceros Coat S,mhxx-dex-1.0,4
+1385,毒怪鸟R护裙,Gypceros Tassets R,mhxx-dex-1.0,4
+1390,毒怪鸟R护腰,Gypceros Coat R,mhxx-dex-1.0,4
+1395,鬼蛙S护裙,Tetsucabra Faulds S,mhxx-dex-1.0,4
+1400,鬼蛙S护腰,Tetsucabra Coat S,mhxx-dex-1.0,4
+1405,大名盾蟹S护裙,Hermitaur Tassets S,mhxx-dex-1.0,4
+1410,大名盾蟹S护腰,Hermitaur Coat S,mhxx-dex-1.0,4
+1415,EX大名盾蟹护裙,EX Hermitaur Tassets,mhxx-dex-1.0,4
+1420,EX大名盾蟹护腰,EX Hermitaur Coat,mhxx-dex-1.0,4
+1425,大名盾蟹R护裙,Hermitaur Tassets R,mhxx-dex-1.0,4
+1430,大名盾蟹R护腰,Hermitaur Coat R,mhxx-dex-1.0,4
+1435,赤甲兽S护裙,Volvidon Faulds S,mhxx-dex-1.0,4
+1440,赤甲兽S护腰,Volvidon Coat S,mhxx-dex-1.0,4
+1445,桃毛兽王护裙,Conga Tassets,mhxx-dex-1.0,4
+1450,桃毛兽王护腰,Conga Coat,mhxx-dex-1.0,4
+1455,水兽S护裙,Ludroth Faulds S,mhxx-dex-1.0,4
+1460,水兽S护腰,Ludroth Coat S,mhxx-dex-1.0,4
+1465,水兽R护裙,Ludroth Tassets R,mhxx-dex-1.0,4
+1470,水兽R护腰,Ludroth Coat R,mhxx-dex-1.0,4
+1475,土砂龙护裙,Barroth Faulds,mhxx-dex-1.0,4
+1480,土砂龙护腰,Barroth Coat,mhxx-dex-1.0,4
+1485,求知裙,Lecturer's Skirt,mhxx-dex-1.0,4
+1490,求知褶裙,Lecturer's Frills,mhxx-dex-1.0,4
+1495,合金S腰甲,Alloy Coil S,mhxx-dex-1.0,5
+1500,合金S护腰,Alloy Coat S,mhxx-dex-1.0,5
+1505,合金R腰甲,Alloy Coil R,mhxx-dex-1.0,5
+1510,合金R护腰,Alloy Coat R,mhxx-dex-1.0,5
+1515,战斗S护裙,Battle Tassets S,mhxx-dex-1.0,5
+1520,战斗S护腰,Battle Coat S,mhxx-dex-1.0,5
+1525,铸铁S腰甲,Ingot Coil S,mhxx-dex-1.0,5
+1530,铸铁S护腰,Ingot Coat S,mhxx-dex-1.0,5
+1535,铸铁R腰甲,Ingot Coil R,mhxx-dex-1.0,5
+1540,铸铁R护腰,Ingot Coat R,mhxx-dex-1.0,5
+1545,矿石S护裙,High Metal Tassets S,mhxx-dex-1.0,5
+1550,矿石S护腰,High Metal Coat S,mhxx-dex-1.0,5
+1555,矿石U护裙,High Metal Tassets U,mhxx-dex-1.0,5
+1560,矿石U护腰,High Metal Coat U,mhxx-dex-1.0,5
+1567,龙虾腰甲,Lobster Coil,mhxx-dex-1.0,5
+1572,龙虾护腰,Lobster Coat,mhxx-dex-1.0,5
+1577,独角仙S护腰具,Obituary Elytra S,mhxx-dex-1.0,5
+1582,独角仙S尾椎,Obituary Alae S,mhxx-dex-1.0,5
+1587,燕尾蝶S护腰具,Butterfly Elytra S,mhxx-dex-1.0,5
+1592,燕尾蝶S尾椎,Butterfly Alae S,mhxx-dex-1.0,5
+1597,死神S脐带,Death Stench Bowels S,mhxx-dex-1.0,5
+1602,死神S贪欲,Death Stench Belly S,mhxx-dex-1.0,5
+1607,死神R脐带,Death Stench Bowels R,mhxx-dex-1.0,5
+1612,死神R贪欲,Death Stench Belly R,mhxx-dex-1.0,5
+1617,海境S护裙,Vaik Faulds S,mhxx-dex-1.0,5
+1622,海境S护腰,Vaik Coat S,mhxx-dex-1.0,5
+1627,锹形S护腰具,Aelucanth Elytra S,mhxx-dex-1.0,5
+1632,锹形S尾椎,Aelucanth Alae S,mhxx-dex-1.0,5
+1637,凤蝶S护腰具,Rhopessa Elytra S,mhxx-dex-1.0,5
+1642,凤蝶S尾椎,Rhopessa Alae S,mhxx-dex-1.0,5
+1647,糕点师布裙,Patissier's Sarong,mhxx-dex-1.0,5
+1652,糕点师围裙,Patissier's Apron,mhxx-dex-1.0,5
+1657,毒蝎S护腰具,Skalda Elytra S,mhxx-dex-1.0,5
+1662,毒蝎S尾椎,Skalda Alae S,mhxx-dex-1.0,5
+1667,毒蛛S护腰具,Spio Elytra S,mhxx-dex-1.0,5
+1672,毒蛛S尾椎,Spio Alae S,mhxx-dex-1.0,5
+1678,岩龙护裙,Basarios Tassets,mhxx-dex-1.0,5
+1683,岩龙护腰,Basarios Coat,mhxx-dex-1.0,5
+1688,夜鸟S护裙,Malfestio Faulds S,mhxx-dex-1.0,5
+1693,夜鸟S护腰,Malfestio Coat S,mhxx-dex-1.0,5
+1698,变形冰鲨护裙,Zamtrios Faulds,mhxx-dex-1.0,5
+1703,变形冰鲨护腰,Zamtrios Coat,mhxx-dex-1.0,5
+1708,白电S护裙,Khezu Tassets S,mhxx-dex-1.0,5
+1713,白电S护腰,Khezu Coat S,mhxx-dex-1.0,5
+1718,白电R护裙,Khezu Tassets R,mhxx-dex-1.0,5
+1723,白电R护腰,Khezu Coat R,mhxx-dex-1.0,5
+1728,影蜘蛛护裙,Nerscylla Faulds,mhxx-dex-1.0,5
+1733,影蜘蛛护腰,Nerscylla Coat,mhxx-dex-1.0,5
+1738,雌火龙S护裙,Rathian Faulds S,mhxx-dex-1.0,5
+1743,雌火龙S护腰,Rathian Coat S,mhxx-dex-1.0,5
+1748,EX雌火龙护裙,EX Rathian Faulds,mhxx-dex-1.0,5
+1753,EX雌火龙护腰,EX Rathian Coat,mhxx-dex-1.0,5
+1758,雌火龙R护裙,Rathian Faulds R,mhxx-dex-1.0,5
+1763,雌火龙R护腰,Rathian Coat R,mhxx-dex-1.0,5
+1768,潜口龙S护裙,Nibelsnarf Faulds S,mhxx-dex-1.0,5
+1773,潜口龙S护腰,Nibelsnarf Coat S,mhxx-dex-1.0,5
+1786,雪狮子S护裙,Blango Tassets S,mhxx-dex-1.0,5
+1791,雪狮子S护腰,Blango Coat S,mhxx-dex-1.0,5
+1796,EX雪狮子护裙,EX Blango Tassets,mhxx-dex-1.0,5
+1801,EX雪狮子护腰,EX Blango Coat,mhxx-dex-1.0,5
+1806,熔岩龙护裙,Lavasioth Tassets,mhxx-dex-1.0,5
+1811,熔岩龙护腰,Lavasioth Coat,mhxx-dex-1.0,5
+1816,EX熔岩龙护裙,EX Lavasioth Tassets,mhxx-dex-1.0,5
+1821,EX熔岩龙护腰,EX Lavasioth Coat,mhxx-dex-1.0,5
+1826,将军镰蟹S护裙,Ceanataur Tassets S,mhxx-dex-1.0,5
+1831,将军镰蟹S护腰,Ceanataur Coat S,mhxx-dex-1.0,5
+1836,EX将军镰蟹护裙,EX Ceanataur Tassets,mhxx-dex-1.0,5
+1841,EX将军镰蟹护腰,EX Ceanataur Coat,mhxx-dex-1.0,5
+1846,将军镰蟹R护裙,Ceanataur Tassets R,mhxx-dex-1.0,5
+1851,将军镰蟹R护腰,Ceanataur Coat R,mhxx-dex-1.0,5
+1856,绞蛇龙S护裙,Najarala Faulds S,mhxx-dex-1.0,5
+1861,绞蛇龙S护腰,Najarala Coat S,mhxx-dex-1.0,5
+1866,迅龙S护裙,Nargacuga Tassets S,mhxx-dex-1.0,5
+1871,迅龙S护腰,Nargacuga Coat S,mhxx-dex-1.0,5
+1876,黑狼鸟S护裙,Garuga Tassets S,mhxx-dex-1.0,5
+1881,黑狼鸟S护腰,Garuga Coat S,mhxx-dex-1.0,5
+1887,爆锤龙S护裙,Uragaan Faulds S,mhxx-dex-1.0,5
+1892,爆锤龙S护腰,Uragaan Coat S,mhxx-dex-1.0,5
+1897,黑带S护裙,Black Belt Tassets S,mhxx-dex-1.0,5
+1902,黑带S护腰,Black Belt Coat S,mhxx-dex-1.0,5
+1907,守护者腰甲,Guardian Coil,mhxx-dex-1.0,5
+1912,守护者护腰,Guardian Coat,mhxx-dex-1.0,5
+1917,守护者U腰甲,Guardian Coil U,mhxx-dex-1.0,5
+1922,守护者U护腰,Guardian Coat U,mhxx-dex-1.0,5
+1927,学士裙,Scholar's Skirt,mhxx-dex-1.0,5
+1932,学士褶裙,Scholar's Mini,mhxx-dex-1.0,5
+1937,水手裙,Sailor Skirt,mhxx-dex-1.0,5
+1942,水手褶裙,Sailor Mini,mhxx-dex-1.0,5
+1960,勇气S护裙,Derring Faulds S,mhxx-dex-1.0,6
+1965,勇气S护腰,Derring Coat S,mhxx-dex-1.0,6
+1970,杜宾腰甲,Dober Coil,mhxx-dex-1.0,6
+1975,杜宾护腰,Dober Coat,mhxx-dex-1.0,6
+1980,花纹钢腰甲,Damascus Coil,mhxx-dex-1.0,6
+1985,花纹钢护腰,Damascus Coat,mhxx-dex-1.0,6
+1990,花纹钢R腰甲,Damascus Coil R,mhxx-dex-1.0,6
+1995,花纹钢R护腰,Damascus Coat R,mhxx-dex-1.0,6
+2001,铬合金腰甲,Chrome Metal Coil,mhxx-dex-1.0,6
+2003,铬合金护腰,Chrome Metal Coat,mhxx-dex-1.0,6
+2008,机械S腰甲,Artian Coil S,mhxx-dex-1.0,6
+2013,机械S护腰,Artian Coat S,mhxx-dex-1.0,6
+2018,机械R腰甲,Artian Coil R,mhxx-dex-1.0,6
+2023,机械R护腰,Artian Coat R,mhxx-dex-1.0,6
+2028,冰牙龙护裙,Barioth Faulds,mhxx-dex-1.0,6
+2033,冰牙龙护腰,Barioth Coat,mhxx-dex-1.0,6
+2038,重甲虫护裙,Seltas Faulds,mhxx-dex-1.0,6
+2043,重甲虫护腰,Seltas Coat,mhxx-dex-1.0,6
+2048,火龙S护裙,Rathalos Faulds S,mhxx-dex-1.0,6
+2053,火龙S护腰,Rathalos Coat S,mhxx-dex-1.0,6
+2058,EX火龙护裙,EX Rathalos Faulds,mhxx-dex-1.0,6
+2063,EX火龙护腰,EX Rathalos Coat,mhxx-dex-1.0,6
+2068,火龙R护裙,Rathalos Faulds R,mhxx-dex-1.0,6
+2073,火龙R护腰,Rathalos Coat R,mhxx-dex-1.0,6
+2078,海龙S护裙,Lagiacrus Faulds S,mhxx-dex-1.0,6
+2083,海龙S护腰,Lagiacrus Coat S,mhxx-dex-1.0,6
+2088,海龙R护裙,Lagiacrus Faulds R,mhxx-dex-1.0,6
+2093,海龙R护腰,Lagiacrus Coat R,mhxx-dex-1.0,6
+2098,雷狼龙S护裙,Zinogre Faulds S,mhxx-dex-1.0,6
+2103,雷狼龙S护腰,Zinogre Coat S,mhxx-dex-1.0,6
+2108,EX雷狼龙护裙,EX Zinogre Faulds,mhxx-dex-1.0,6
+2113,EX雷狼龙护腰,EX Zinogre Coat,mhxx-dex-1.0,6
+2118,铠龙护裙,Gravios Tassets,mhxx-dex-1.0,6
+2123,铠龙护腰,Gravios Coat,mhxx-dex-1.0,6
+2128,泡狐龙S护裙,Mizutsune Faulds S,mhxx-dex-1.0,6
+2133,泡狐龙S护腰,Mizutsune Coat S,mhxx-dex-1.0,6
+2138,电龙S护裙,Astalos Faulds S,mhxx-dex-1.0,6
+2143,电龙S护腰,Astalos Coat S,mhxx-dex-1.0,6
+2148,巨兽S护裙,Gammoth Faulds S,mhxx-dex-1.0,6
+2153,巨兽S护腰,Gammoth Coat S,mhxx-dex-1.0,6
+2158,斩龙S护裙,Glavenus Faulds S,mhxx-dex-1.0,6
+2163,斩龙S护腰,Glavenus Coat S,mhxx-dex-1.0,6
+2168,炎戈龙护裙,Agnaktor Faulds,mhxx-dex-1.0,6
+2173,炎戈龙护腰,Agnaktor Coat,mhxx-dex-1.0,6
+2178,黑蚀龙S护裙,Gore Faulds S,mhxx-dex-1.0,6
+2183,黑蚀龙S护腰,Gore Coat S,mhxx-dex-1.0,6
+2188,EX黑蚀龙护裙,EX Gore Faulds,mhxx-dex-1.0,6
+2193,EX黑蚀龙护腰,EX Gore Coat,mhxx-dex-1.0,6
+2198,黑蚀龙R护裙,Gore Faulds R,mhxx-dex-1.0,6
+2203,黑蚀龙R护腰,Gore Coat R,mhxx-dex-1.0,6
+2208,千刃龙S护裙,Regios Tassets S,mhxx-dex-1.0,6
+2213,千刃龙S护腰,Regios Coat S,mhxx-dex-1.0,6
+2218,尾锤龙护裙,Duramboros Faulds,mhxx-dex-1.0,6
+2223,尾锤龙护腰,Duramboros Coat,mhxx-dex-1.0,6
+2228,轰龙S护裙,Tigrex Tassets S,mhxx-dex-1.0,6
+2233,轰龙S护腰,Tigrex Coat S,mhxx-dex-1.0,6
+2238,EX轰龙护裙,EX Tigrex Tassets,mhxx-dex-1.0,6
+2243,EX轰龙护腰,EX Tigrex Coat,mhxx-dex-1.0,6
+2248,轰龙R护裙,Tigrex Tassets R,mhxx-dex-1.0,6
+2253,轰龙R护腰,Tigrex Coat R,mhxx-dex-1.0,6
+2258,麒麟S腰环,Kirin Hoop S,mhxx-dex-1.0,6
+2263,麒麟S绑腰,Kirin Shorts S,mhxx-dex-1.0,6
+2268,麒麟R腰环,Kirin Hoop R,mhxx-dex-1.0,6
+2273,麒麟R绑腰,Kirin Shorts R,mhxx-dex-1.0,6
+2278,碎龙S护裙,Brachydios Faulds S,mhxx-dex-1.0,6
+2283,碎龙S护腰,Brachydios Coat S,mhxx-dex-1.0,6
+2288,EX碎龙护裙,EX Brachydios Faulds,mhxx-dex-1.0,6
+2293,EX碎龙护腰,EX Brachydios Coat,mhxx-dex-1.0,6
+2298,金色带,Golden Obi,mhxx-dex-1.0,6
+2303,黑衣带,Puppeteer Obi,mhxx-dex-1.0,6
+2308,恐暴龙腰甲,Vangis Coil,mhxx-dex-1.0,6
+2313,恐暴龙护腰,Vangis Coat,mhxx-dex-1.0,6
+2318,公会骑士腰甲,Guild Knight Coat,mhxx-dex-1.0,6
+2323,公会骑士裙,Guild Knight Kilt,mhxx-dex-1.0,6
+2328,女仆S裙,Maiden's Skirt S,mhxx-dex-1.0,6
+2333,休闲S褶裙,French Maid Frills S,mhxx-dex-1.0,6
+2338,公会守卫蓝腰甲,Blue Guild Coil,mhxx-dex-1.0,6
+2343,公会守卫蓝护腰,Blue Guild Coat,mhxx-dex-1.0,6
+2348,公会守卫蓝腰甲,Blue Guild Coil,mhxx-dex-1.0,6
+2353,公会守卫蓝护腰,Blue Guild Coat,mhxx-dex-1.0,6
+2358,公会守卫红腰甲,Red Guild Coil,mhxx-dex-1.0,6
+2363,公会守卫红护腰,Red Guild Coat,mhxx-dex-1.0,6
+2368,公会守卫红腰甲,Red Guild Coil,mhxx-dex-1.0,6
+2373,公会守卫红护腰,Red Guild Coat,mhxx-dex-1.0,6
+2378,支援者S裙,Helper Skirt S,mhxx-dex-1.0,6
+2383,治疗者S褶裙,Healer Frills S,mhxx-dex-1.0,6
+2388,支援者U裙,Helper Skirt U,mhxx-dex-1.0,6
+2393,治疗者U褶裙,Healer Frills U,mhxx-dex-1.0,6
+2398,公会诗人S腰甲,Guild Bard Coil S,mhxx-dex-1.0,6
+2403,公会诗人S护腰,Guild Bard Coat S,mhxx-dex-1.0,6
+2408,三眼腰饰,Chakra Waistlet,mhxx-dex-1.0,6
+2413,抚子･华【枝垂】,Dianthus Wealskirt,mhxx-dex-1.0,6
+2418,桔梗･华【枝垂】,Campanile Wealskirt,mhxx-dex-1.0,6
+2423,王牌护裙,Ace Faulds,mhxx-dex-1.0,6
+2428,王牌护腰,Ace Coat,mhxx-dex-1.0,6
+2433,女王护裙,Sororal Faulds,mhxx-dex-1.0,6
+2438,女王护腰,Sororal Coat,mhxx-dex-1.0,6
+2443,猎鹰腰甲,Hawkcoil,mhxx-dex-1.0,6
+2448,猎鹰护腰,Hawkcoat,mhxx-dex-1.0,6
+2453,美食喵S布裙,Gourmew Sarong S,mhxx-dex-1.0,6
+2458,美食喵S围裙,Gourmew Apron S,mhxx-dex-1.0,6
+2464,贤者S腰甲,Scholarly Sash S,mhxx-dex-1.0,6
+2469,贤者S护腰,Scholarly Coat S,mhxx-dex-1.0,6
+2474,城塞游击队【锁带】,Ranger's Sash,mhxx-dex-1.0,6
+2479,城塞弓击队【弹带】,Archer's Belt,mhxx-dex-1.0,6
+2484,忍者带･天,Shinobi Heaven Belt,mhxx-dex-1.0,7
+2489,忍者带･地,Shinobi Land Belt,mhxx-dex-1.0,7
+2494,忍者带･空,Shinobi Sky Belt,mhxx-dex-1.0,7
+2499,忍者带･海,Shinobi Sea Belt,mhxx-dex-1.0,7
+2504,龙历士腰甲,Ancient Coil,mhxx-dex-1.0,7
+2509,龙历士护腰,Ancient Coat,mhxx-dex-1.0,7
+2514,大师护裙,Master's Faulds,mhxx-dex-1.0,7
+2519,大师护腰,Master's Coat,mhxx-dex-1.0,7
+2524,黑色S脊髓,Black Spine S,mhxx-dex-1.0,7
+2529,黑色S鳞片,Black Scale S,mhxx-dex-1.0,7
+2534,桐花【腰具】,Toka Koshiate,mhxx-dex-1.0,7
+2539,三葵【腰具】,Mitsuaoi Koshiate,mhxx-dex-1.0,7
+2544,聪慧腰甲,Wisdom Coil,mhxx-dex-1.0,7
+2549,聪慧护腰,Wisdom Coat,mhxx-dex-1.0,7
+2554,活泼腰带,Cheerful Belt,mhxx-dex-1.0,7
+2559,活泼皮带,Cheerful Band,mhxx-dex-1.0,7
+2564,海歌裙,Mariner Skirt,mhxx-dex-1.0,7
+2569,海歌褶裙,Mariner Frills,mhxx-dex-1.0,7
+2574,EX雌火龙S护裙,EX Rathian Faulds S,mhxx-dex-1.0,7
+2579,EX雌火龙S护腰,EX Rathian Coat S,mhxx-dex-1.0,7
+2584,EX火龙S护裙,EX Rathalos Faulds S,mhxx-dex-1.0,7
+2589,EX火龙S护腰,EX Rathalos Coat S,mhxx-dex-1.0,7
+2594,EX轰龙S腰甲,EX Tigrex Coil S,mhxx-dex-1.0,7
+2599,EX轰龙S护腰,EX Tigrex Coat S,mhxx-dex-1.0,7
+2604,角龙腰甲,Diablos Coil,mhxx-dex-1.0,7
+2609,角龙护腰,Diablos Coat,mhxx-dex-1.0,7
+2614,角龙R腰甲,Diablos Coil R,mhxx-dex-1.0,7
+2619,角龙R护腰,Diablos Coat R,mhxx-dex-1.0,7
+2624,方舟S护裙,Arc Faulds S,mhxx-dex-1.0,7
+2629,方舟S护腰,Arc Coat S,mhxx-dex-1.0,7
+2634,友爱S护裙,Storge Faulds S,mhxx-dex-1.0,7
+2639,友爱S护腰,Storge Coat S,mhxx-dex-1.0,7
+2644,EX方舟护裙,EX Arc Faulds,mhxx-dex-1.0,7
+2649,EX方舟护腰,EX Arc Coat,mhxx-dex-1.0,7
+2654,EX友爱护裙,EX Storge Faulds,mhxx-dex-1.0,7
+2659,EX友爱护腰,EX Storge Coat,mhxx-dex-1.0,7
+2664,方舟R护裙,Arc Faulds R,mhxx-dex-1.0,7
+2669,方舟R护腰,Arc Coat R,mhxx-dex-1.0,7
+2674,友爱R护裙,Storge Faulds R,mhxx-dex-1.0,7
+2679,友爱R护腰,Storge Coat R,mhxx-dex-1.0,7
+2684,天彗龙护裙,Valstrax Faulds,mhxx-dex-1.0,7
+2689,天彗龙护腰,Valstrax Coat,mhxx-dex-1.0,7
+2694,钢龙S安稳,Kushala Cocoon S,mhxx-dex-1.0,7
+2699,钢龙S尊爱,Kushala Wind Wrap S,mhxx-dex-1.0,7
+2704,EX钢龙安稳,EX Kushala Cocoon,mhxx-dex-1.0,7
+2709,EX钢龙尊爱,EX Kushala Wind Wrap,mhxx-dex-1.0,7
+2714,钢龙R安稳,Kushala Cocoon R,mhxx-dex-1.0,7
+2719,钢龙R尊爱,Kushala Wind Wrap R,mhxx-dex-1.0,7
+2724,水行霸【圆带】,Mizuha Sash S,mhxx-dex-1.0,7
+2729,丰玉霸【圆带】,Cham Coat S,mhxx-dex-1.0,7
+2734,EX水行【圆带】,EX Mizuha Sash,mhxx-dex-1.0,7
+2739,EX丰玉【圆带】,EX Cham Coat,mhxx-dex-1.0,7
+2744,帝王S护裙,Kaiser Tassets S,mhxx-dex-1.0,7
+2749,帝王S护腰,Kaiser Coat S,mhxx-dex-1.0,7
+2754,EX帝王护裙,EX Kaiser Tassets,mhxx-dex-1.0,7
+2759,EX帝王护腰,EX Kaiser Coat,mhxx-dex-1.0,7
+2764,银白耀日腰甲,Silver Solcoil,mhxx-dex-1.0,7
+2769,银白耀日护腰,Silver Solcoat,mhxx-dex-1.0,7
+2774,EX银白耀日腰甲,EX Silver Solcoil,mhxx-dex-1.0,7
+2779,EX银白耀日护腰,EX Silver Solcoat,mhxx-dex-1.0,7
+2784,银白耀日R腰甲,Silver Solcoil R,mhxx-dex-1.0,7
+2789,银白耀日R护腰,Silver Solcoat R,mhxx-dex-1.0,7
+2794,金黄澄月腰甲,Golden Lunecoil,mhxx-dex-1.0,7
+2799,金黄澄月护腰,Golden Lunecoat,mhxx-dex-1.0,7
+2804,EX金黄澄月腰甲,EX Golden Lunecoil,mhxx-dex-1.0,7
+2809,EX金黄澄月护腰,EX Golden Lunecoat,mhxx-dex-1.0,7
+2814,怒天带,Divine Ire Obi,mhxx-dex-1.0,7
+2819,心灭带,Crusher Belt,mhxx-dex-1.0,7
+2824,贪婪护裙,Esurient Faulds,mhxx-dex-1.0,7
+2829,贪婪护腰,Esurient Coat,mhxx-dex-1.0,7
+2834,贪婪R护裙,Esurient Faulds R,mhxx-dex-1.0,7
+2839,贪婪R护腰,Esurient Coat R,mhxx-dex-1.0,7
+2844,霸龙缠腰,Akantor Cincture,mhxx-dex-1.0,7
+2849,霸龙腰护具,Akantor Sash,mhxx-dex-1.0,7
+2854,霸龙R缠腰,Akantor Cincture R,mhxx-dex-1.0,7
+2859,霸龙R腰护具,Akantor Sash R,mhxx-dex-1.0,7
+2864,崩龙缠腰,Ukanlos Cincture,mhxx-dex-1.0,7
+2869,崩龙腰护具,Ukanlos Sash,mhxx-dex-1.0,7
+2874,荒天【带】,Tempest Obi,mhxx-dex-1.0,7
+2879,苍天【带】,Welkin Obi,mhxx-dex-1.0,7
+2884,荒天亚流【带】,Tempest Obi R,mhxx-dex-1.0,7
+2889,苍天亚流【带】,Welkin Obi R,mhxx-dex-1.0,7
+2894,骸装甲･霸【腰骨】,Skeletal Hipbone R,mhxx-dex-1.0,7
+2899,尸装甲･霸【腰骨】,Decayed Hipbone R,mhxx-dex-1.0,7
+2904,苍星腰甲,Astral Coil,mhxx-dex-1.0,7
+2909,苍星护腰,Astral Coat,mhxx-dex-1.0,7
+2914,煌黑龙神力,Escadora Might,mhxx-dex-1.0,7
+2919,煌黑龙力量,Escadora Force,mhxx-dex-1.0,7
+2924,煌黑龙R神力,Escadora Might R,mhxx-dex-1.0,7
+2929,煌黑龙R力量,Escadora Force R,mhxx-dex-1.0,7
+2946,皮制X护裙,Leather Faulds X,mhxx-dex-1.0,8
+2951,皮制X护腰,Leather Coat X,mhxx-dex-1.0,8
+2956,锁甲X护裙,Chainmail Faulds X,mhxx-dex-1.0,8
+2961,锁甲X护腰,Chainmail Coat X,mhxx-dex-1.0,8
+2966,贝鲁纳X腰带,Bherna Belt X,mhxx-dex-1.0,8
+2971,贝鲁纳X护腰,Bherna Coat X,mhxx-dex-1.0,8
+2976,狩猎X护裙,Hunting Faulds X,mhxx-dex-1.0,8
+2981,狩猎X护腰,Hunting Coat X,mhxx-dex-1.0,8
+2986,毛皮X腰甲,Mafumofu Coil X,mhxx-dex-1.0,8
+2991,毛皮X护腰,Mafumofu Coat X,mhxx-dex-1.0,8
+2996,结云之带･极天,Yukumo Sky Obi Goku,mhxx-dex-1.0,8
+3001,结云之带･极地,Yukumo Land Obi Goku,mhxx-dex-1.0,8
+3008,石架X腰甲,Loc Lac Kilt X,mhxx-dex-1.0,8
+3013,猎人X护裙,Hunter's Faulds X,mhxx-dex-1.0,8
+3018,猎人X护腰,Hunter's Coat X,mhxx-dex-1.0,8
+3023,猎人XR护裙,Hunter's Faulds XR,mhxx-dex-1.0,8
+3028,猎人XR护腰,Hunter's Coat XR,mhxx-dex-1.0,8
+3033,骨制X护裙,Bone Faulds X,mhxx-dex-1.0,8
+3038,骨制X护腰,Bone Coat X,mhxx-dex-1.0,8
+3061,花瓣X叶片,Melahoa Folia X,mhxx-dex-1.0,8
+3066,花瓣X叶脉,Melahoa Trunk X,mhxx-dex-1.0,8
+3071,花瓣Z叶片,Melahoa Skirt Z,mhxx-dex-1.0,8
+3076,花瓣Z叶脉,Melahoa Trunk Z,mhxx-dex-1.0,8
+3081,鱼鳞X腰甲,Makluva Coil X,mhxx-dex-1.0,8
+3086,鱼鳞X裤装,Makluva Fin X,mhxx-dex-1.0,8
+3091,鱼鳞Z腰甲,Makluva Coil Z,mhxx-dex-1.0,8
+3096,鱼鳞Z裤装,Makluva Fin Z,mhxx-dex-1.0,8
+3101,独角仙X护腰具,Obituary Elytra X,mhxx-dex-1.0,8
+3106,独角仙X尾椎,Obituary Alae X,mhxx-dex-1.0,8
+3111,燕尾蝶X护腰具,Butterfly Elytra X,mhxx-dex-1.0,8
+3116,燕尾蝶X尾椎,Butterfly Alae X,mhxx-dex-1.0,8
+3121,死神X脐带,Death Stench Bowels X,mhxx-dex-1.0,8
+3126,死神X贪欲,Death Stench Belly X,mhxx-dex-1.0,8
+3131,死神XR脐带,Death Stench Bowels XR,mhxx-dex-1.0,8
+3136,死神XR贪欲,Death Stench Belly XR,mhxx-dex-1.0,8
+3145,南瓜X叶片,Mosgharl Folia X,mhxx-dex-1.0,8
+3150,南瓜X叶脉,Mosgharl Fronds X,mhxx-dex-1.0,8
+3155,雪绒花X叶片,Edel Folia X,mhxx-dex-1.0,8
+3160,雪绒花X叶脉,Edel Fronds X,mhxx-dex-1.0,8
+3165,毒蝎X护腰具,Skalda Elytra X,mhxx-dex-1.0,8
+3170,毒蝎X尾椎,Skalda Alae X,mhxx-dex-1.0,8
+3175,毒蛛X护腰具,Spio Elytra X,mhxx-dex-1.0,8
+3180,毒蛛X尾椎,Spio Alae X,mhxx-dex-1.0,8
+3185,合金X腰甲,Alloy Coil X,mhxx-dex-1.0,8
+3190,合金X护腰,Alloy Coat X,mhxx-dex-1.0,8
+3195,合金XR护裙,Alloy Faulds XR,mhxx-dex-1.0,8
+3200,合金XR护腰,Alloy Coat XR,mhxx-dex-1.0,8
+3205,战斗X护裙,Battle Tassets X,mhxx-dex-1.0,8
+3210,战斗X护腰,Battle Coat X,mhxx-dex-1.0,8
+3215,铸铁X腰甲,Ingot Coil X,mhxx-dex-1.0,8
+3220,铸铁X护腰,Ingot Coat X,mhxx-dex-1.0,8
+3225,铸铁XR腰甲,Ingot Coil XR,mhxx-dex-1.0,8
+3230,铸铁XR护腰,Ingot Coat XR,mhxx-dex-1.0,8
+3235,矿石X护裙,High Metal Tassets X,mhxx-dex-1.0,8
+3240,矿石X护腰,High Metal Coat X,mhxx-dex-1.0,8
+3245,矿石Z护裙,High Metal Tassets Z,mhxx-dex-1.0,8
+3250,矿石Z护腰,High Metal Coat Z,mhxx-dex-1.0,8
+3257,龙虾X腰甲,Lobster Coil X,mhxx-dex-1.0,8
+3262,龙虾X护腰,Lobster Coat X,mhxx-dex-1.0,8
+3267,海境X护裙,Vaik Faulds X,mhxx-dex-1.0,8
+3272,海境X护腰,Vaik Coat X,mhxx-dex-1.0,8
+3276,厨师X布裙,Bistro Sarong X,mhxx-dex-1.0,8
+3279,厨师X围裙,Bistro Apron X,mhxx-dex-1.0,8
+3283,糕点师X布裙,Patissier's Sarong X,mhxx-dex-1.0,8
+3288,糕点师X围裙,Patissier's Apron X,mhxx-dex-1.0,8
+3293,美食喵X布裙,Gourmew Sarong X,mhxx-dex-1.0,8
+3298,美食喵X围裙,Gourmew Apron X,mhxx-dex-1.0,8
+3303,锹形X护腰具,Aelucanth Elytra X,mhxx-dex-1.0,8
+3308,锹形X尾椎,Aelucanth Alae X,mhxx-dex-1.0,8
+3313,凤蝶X护腰具,Rhopessa Elytra X,mhxx-dex-1.0,8
+3318,凤蝶X尾椎,Rhopessa Alae X,mhxx-dex-1.0,8
+3323,求知X裙,Lecturer's Skirt X,mhxx-dex-1.0,8
+3328,求知X褶裙,Lecturer's Frills X,mhxx-dex-1.0,8
+3333,勇气X护裙,Derring Faulds X,mhxx-dex-1.0,8
+3338,勇气X护腰,Derring Coat X,mhxx-dex-1.0,8
+3343,机械X腰甲,Artian Coil X,mhxx-dex-1.0,8
+3348,机械X护腰,Artian Coat X,mhxx-dex-1.0,8
+3353,机械XR腰甲,Artian Coil XR,mhxx-dex-1.0,8
+3358,机械XR护腰,Artian Coat XR,mhxx-dex-1.0,8
+3363,女仆X裙,Maiden's Skirt X,mhxx-dex-1.0,8
+3368,休闲X褶裙,French Maid Frills X,mhxx-dex-1.0,8
+3373,抚子･雅【枝垂】,Dianthus Masaskirt,mhxx-dex-1.0,8
+3378,桔梗･雅【枝垂】,Campanile Masaskirt,mhxx-dex-1.0,8
+3383,猎鹰X腰甲,Hawkcoil X,mhxx-dex-1.0,8
+3388,猎鹰X护腰,Hawkcoat X,mhxx-dex-1.0,8
+3393,贤者X腰甲,Scholarly Sash X,mhxx-dex-1.0,8
+3398,贤者X护腰,Scholarly Coat X,mhxx-dex-1.0,8
+3403,杜宾X腰甲,Dober Coil X,mhxx-dex-1.0,8
+3408,杜宾X护腰,Dober Coat X,mhxx-dex-1.0,8
+3413,学士X裙,Scholar's Skirt X,mhxx-dex-1.0,8
+3418,学士X褶裙,Scholar's Mini X,mhxx-dex-1.0,8
+3423,水手X裙,Sailor Skirt X,mhxx-dex-1.0,8
+3428,水手X褶裙,Sailor Mini X,mhxx-dex-1.0,8
+3433,海歌X裙,Mariner Skirt X,mhxx-dex-1.0,8
+3438,海歌X褶裙,Mariner Frills X,mhxx-dex-1.0,8
+3447,狗龙X护裙,Jaggi Faulds X,mhxx-dex-1.0,8
+3452,狗龙X护腰,Jaggi Coat X,mhxx-dex-1.0,8
+3458,跳狗龙X护裙,Maccao Faulds X,mhxx-dex-1.0,8
+3463,跳狗龙X护腰,Maccao Coat X,mhxx-dex-1.0,8
+3468,蓝速龙X护裙,Velociprey Tassets X,mhxx-dex-1.0,8
+3473,蓝速龙X护腰,Velociprey Coat X,mhxx-dex-1.0,8
+3478,白速龙X护裙,Giaprey Faulds X,mhxx-dex-1.0,8
+3483,白速龙X护腰,Giaprey Coat X,mhxx-dex-1.0,8
+3488,黄速龙X护裙,Genprey Tassets X,mhxx-dex-1.0,8
+3493,黄速龙X护腰,Genprey Coat X,mhxx-dex-1.0,8
+3498,GX黄速龙护裙,Genprey Tassets GX,mhxx-dex-1.0,8
+3503,GX黄速龙护腰,Genprey Coat GX,mhxx-dex-1.0,8
+3508,巨蜂X护裙,Vespoid Tassets X,mhxx-dex-1.0,8
+3513,巨蜂X护腰,Vespoid Coat X,mhxx-dex-1.0,8
+3518,GX巨蜂护裙,Vespoid Tassets GX,mhxx-dex-1.0,8
+3523,GX巨蜂护腰,Vespoid Coat GX,mhxx-dex-1.0,8
+3528,巨甲虫X护裙,Hornetaur Tassets X,mhxx-dex-1.0,8
+3533,巨甲虫X护腰,Hornetaur Coat X,mhxx-dex-1.0,8
+3538,GX巨甲虫护裙,Hornetaur Tassets GX,mhxx-dex-1.0,8
+3543,GX巨甲虫护腰,Hornetaur Coat GX,mhxx-dex-1.0,8
+3548,巨甲虫XR护裙,Hornetaur Tassets XR,mhxx-dex-1.0,8
+3553,巨甲虫XR护腰,Hornetaur Coat XR,mhxx-dex-1.0,8
+3558,飞甲虫X腰甲,Bnahabra Coil X,mhxx-dex-1.0,8
+3563,飞甲虫X护腰,Bnahabra Coat X,mhxx-dex-1.0,8
+3572,蘑菇猪X屁屁,Mosswine Hip X,mhxx-dex-1.0,8
+3577,硬甲龙X腰甲,Rhenoplos Coil X,mhxx-dex-1.0,8
+3582,硬甲龙X护腰,Rhenoplos Coat X,mhxx-dex-1.0,8
+3587,野猪X护裙,Bulldrome Faulds X,mhxx-dex-1.0,8
+3592,野猪X护腰,Bulldrome Coat X,mhxx-dex-1.0,8
+3598,青熊兽X护裙,Arzuros Faulds X,mhxx-dex-1.0,8
+3603,青熊兽X护腰,Arzuros Coat X,mhxx-dex-1.0,8
+3608,砂龙X护裙,Cephalos Tassets X,mhxx-dex-1.0,8
+3613,砂龙X护腰,Cephalos Coat X,mhxx-dex-1.0,8
+3618,GX砂龙护裙,Cephalos Tassets GX,mhxx-dex-1.0,8
+3623,GX砂龙护腰,Cephalos Coat GX,mhxx-dex-1.0,8
+3626,水生兽X护裙,Droth Faulds X,mhxx-dex-1.0,8
+3629,水生兽X护腰,Droth Coat X,mhxx-dex-1.0,8
+3632,熔岩兽X护裙,Uroktor Tassets X,mhxx-dex-1.0,8
+3634,熔岩兽X护腰,Uroktor Coat X,mhxx-dex-1.0,8
+3640,云羊鹿X腰甲,Moofah Coil X,mhxx-dex-1.0,8
+3644,云羊鹿X护腰,Moofah Coat X,mhxx-dex-1.0,8
+3680,蛇龙套装X腰带,Remobra Belt X,mhxx-dex-1.0,8
+3685,蛇龙套装X皮带,Remobra Band X,mhxx-dex-1.0,8
+3690,红速龙X护裙,Ioprey Tassets X,mhxx-dex-1.0,8
+3695,红速龙X护腰,Ioprey Coat X,mhxx-dex-1.0,8
+3700,GX红速龙护裙,Ioprey Tassets GX,mhxx-dex-1.0,8
+3705,GX红速龙护腰,Ioprey Coat GX,mhxx-dex-1.0,8
+3710,怪鸟X护裙,Kut-Ku Tassets X,mhxx-dex-1.0,8
+3715,怪鸟X护腰,Kut-Ku Coat X,mhxx-dex-1.0,8
+3720,奇猿狐X护裙,Kecha Faulds X,mhxx-dex-1.0,8
+3725,奇猿狐X护腰,Kecha Coat X,mhxx-dex-1.0,8
+3730,白兔兽X护裙,Lagombi Faulds X,mhxx-dex-1.0,8
+3735,白兔兽X护腰,Lagombi Coat X,mhxx-dex-1.0,8
+3740,毒怪鸟X护裙,Gypceros Tassets X,mhxx-dex-1.0,8
+3745,毒怪鸟X护腰,Gypceros Coat X,mhxx-dex-1.0,8
+3750,毒怪鸟XR护裙,Gypceros Tassets XR,mhxx-dex-1.0,8
+3755,毒怪鸟XR护腰,Gypceros Coat XR,mhxx-dex-1.0,8
+3760,鬼蛙X护裙,Tetsucabra Faulds X,mhxx-dex-1.0,8
+3765,鬼蛙X护腰,Tetsucabra Coat X,mhxx-dex-1.0,8
+3770,大名盾蟹X护裙,Hermitaur Tassets X,mhxx-dex-1.0,8
+3775,大名盾蟹X护腰,Hermitaur Coat X,mhxx-dex-1.0,8
+3780,GX大名盾蟹护裙,Hermitaur Tassets GX,mhxx-dex-1.0,8
+3785,GX大名盾蟹护腰,Hermitaur Coat GX,mhxx-dex-1.0,8
+3790,大名盾蟹XR护裙,Hermitaur Tassets XR,mhxx-dex-1.0,8
+3795,大名盾蟹XR护腰,Hermitaur Coat XR,mhxx-dex-1.0,8
+3800,赤甲兽X护裙,Volvidon Faulds X,mhxx-dex-1.0,8
+3805,赤甲兽X护腰,Volvidon Coat X,mhxx-dex-1.0,8
+3810,桃毛兽王X护裙,Conga Tassets X,mhxx-dex-1.0,8
+3815,桃毛兽王X护腰,Conga Coat X,mhxx-dex-1.0,8
+3820,GX桃毛兽王护裙,Conga Tassets GX,mhxx-dex-1.0,8
+3825,GX桃毛兽王护腰,Conga Coat GX,mhxx-dex-1.0,8
+3830,水兽X护裙,Ludroth Faulds X,mhxx-dex-1.0,8
+3835,水兽X护腰,Ludroth Coat X,mhxx-dex-1.0,8
+3840,水兽XR护裙,Ludroth Faulds XR,mhxx-dex-1.0,8
+3845,水兽XR护腰,Ludroth Coat XR,mhxx-dex-1.0,8
+3850,土砂龙X护裙,Barroth Faulds X,mhxx-dex-1.0,8
+3855,土砂龙X护腰,Barroth Coat X,mhxx-dex-1.0,8
+3860,岩龙X护裙,Basarios Tassets X,mhxx-dex-1.0,8
+3865,岩龙X护腰,Basarios Coat X,mhxx-dex-1.0,8
+3870,夜鸟X护裙,Malfestio Faulds X,mhxx-dex-1.0,8
+3875,夜鸟X护腰,Malfestio Coat X,mhxx-dex-1.0,8
+3880,变形冰鲨X护裙,Zamtrios Faulds X,mhxx-dex-1.0,8
+3885,变形冰鲨X护腰,Zamtrios Coat X,mhxx-dex-1.0,8
+3890,白电X护裙,Khezu Tassets X,mhxx-dex-1.0,8
+3895,白电X护腰,Khezu Coat X,mhxx-dex-1.0,8
+3900,白电XR护裙,Khezu Tassets XR,mhxx-dex-1.0,8
+3905,白电XR护腰,Khezu Coat XR,mhxx-dex-1.0,8
+3910,影蜘蛛X护裙,Nerscylla Faulds X,mhxx-dex-1.0,8
+3915,影蜘蛛X护腰,Nerscylla Coat X,mhxx-dex-1.0,8
+3920,雌火龙X护裙,Rathian Faulds X,mhxx-dex-1.0,8
+3925,雌火龙X护腰,Rathian Coat X,mhxx-dex-1.0,8
+3930,GX雌火龙护裙,Rathian Faulds GX,mhxx-dex-1.0,8
+3935,GX雌火龙护腰,Rathian Coat GX,mhxx-dex-1.0,8
+3940,雌火龙XR护裙,Rathian Faulds XR,mhxx-dex-1.0,8
+3945,雌火龙XR护腰,Rathian Coat XR,mhxx-dex-1.0,8
+3950,潜口龙X护裙,Nibelsnarf Faulds X,mhxx-dex-1.0,8
+3955,潜口龙X护腰,Nibelsnarf Coat X,mhxx-dex-1.0,8
+3964,无装备,---,mhxx-dex-1.0,8
+3969,雪狮子X护裙,Blango Tassets X,mhxx-dex-1.0,8
+3974,雪狮子X护腰,Blango Coat X,mhxx-dex-1.0,8
+3979,GX雪狮子护裙,Blango Tassets GX,mhxx-dex-1.0,8
+3984,GX雪狮子护腰,Blango Coat GX,mhxx-dex-1.0,8
+3989,熔岩龙X护裙,Lava Tassets X,mhxx-dex-1.0,8
+3994,熔岩龙X护腰,Lava Coat X,mhxx-dex-1.0,8
+3999,GX熔岩龙护裙,Lavasioth Tassets GX,mhxx-dex-1.0,8
+4004,GX熔岩龙护腰,Lavasioth Coat GX,mhxx-dex-1.0,8
+4009,将军镰蟹X护裙,Ceanataur Tassets X,mhxx-dex-1.0,8
+4014,将军镰蟹X护腰,Ceanataur Coat X,mhxx-dex-1.0,8
+4019,GX将军镰蟹护裙,Ceanataur Tassets GX,mhxx-dex-1.0,8
+4024,GX将军镰蟹护腰,Ceanataur Coat GX,mhxx-dex-1.0,8
+4029,将军镰蟹XR护裙,Ceanataur Tassets XR,mhxx-dex-1.0,8
+4034,将军镰蟹XR护腰,Ceanataur Coat XR,mhxx-dex-1.0,8
+4039,绞蛇龙X护裙,Najarala Faulds X,mhxx-dex-1.0,8
+4044,绞蛇龙X护腰,Najarala Coat X,mhxx-dex-1.0,8
+4049,迅龙X护裙,Nargacuga Faulds X,mhxx-dex-1.0,8
+4054,迅龙X护腰,Nargacuga Coat X,mhxx-dex-1.0,8
+4059,黑狼鸟X护裙,Garuga Tassets X,mhxx-dex-1.0,8
+4064,黑狼鸟X护腰,Garuga Coat X,mhxx-dex-1.0,8
+4070,爆锤龙X护裙,Uragaan Faulds X,mhxx-dex-1.0,8
+4075,爆锤龙X护腰,Uragaan Coat X,mhxx-dex-1.0,8
+4088,公会骑士X腰甲,G. Knight Coat X,mhxx-dex-1.0,8
+4093,公会骑士X裙,G. Knight Kilt X,mhxx-dex-1.0,8
+4098,公会诗人X腰甲,Guild Bard Coil X,mhxx-dex-1.0,8
+4103,公会诗人X护腰,Guild Bard Coat X,mhxx-dex-1.0,8
+4107,铬合金X腰甲,Chrome Metal Coil X,mhxx-dex-1.0,8
+4109,铬合金X护腰,Chrome Metal Coat X,mhxx-dex-1.0,8
+4115,支援者X裙,Helper Skirt X,mhxx-dex-1.0,9
+4120,治疗者X褶裙,Healer Frills X,mhxx-dex-1.0,9
+4125,支援者Z裙,Helper Skirt Z,mhxx-dex-1.0,9
+4130,治疗者Z褶裙,Healer Frills Z,mhxx-dex-1.0,9
+4135,龙历士X腰甲,Ancient Coil X,mhxx-dex-1.0,9
+4140,龙历士X护腰,Ancient Coat X,mhxx-dex-1.0,9
+4145,王牌X护裙,Ace Faulds X,mhxx-dex-1.0,9
+4150,王牌X护腰,Ace Coat X,mhxx-dex-1.0,9
+4155,女王X护裙,Sororal Faulds X,mhxx-dex-1.0,9
+4160,女王X护腰,Sororal Coat X,mhxx-dex-1.0,9
+4165,城塞特攻队【锁带】,Strider's Sash,mhxx-dex-1.0,9
+4170,城塞隐蔽队【弹带】,Deadeye's Belt,mhxx-dex-1.0,9
+4175,忍者带･极天,Shinobi Heaven Belt Goku,mhxx-dex-1.0,9
+4180,忍者带･极地,Shinobi Land Belt Goku,mhxx-dex-1.0,9
+4185,大师X护裙,Master's Faulds X,mhxx-dex-1.0,9
+4190,大师X护腰,Master's Coat X,mhxx-dex-1.0,9
+4195,桐花･真【腰具】,Grand Toka Koshiate,mhxx-dex-1.0,9
+4200,三葵･真【腰具】,Grand Mitsuaoi Koshiate,mhxx-dex-1.0,9
+4205,夜叉【腰卷】,Yaksha Coil,mhxx-dex-1.0,9
+4210,修罗【腰卷】,Carnage Wrap,mhxx-dex-1.0,9
+4215,太阳神X腰甲,Helios Coil X,mhxx-dex-1.0,9
+4220,太阳神X护腰,Helios Coat X,mhxx-dex-1.0,9
+4225,月神X腰甲,Selene Coil X,mhxx-dex-1.0,9
+4230,月神X护腰,Selene Coat X,mhxx-dex-1.0,9
+4235,聪慧X腰甲,Wisdom Coil X,mhxx-dex-1.0,9
+4240,聪慧X护腰,Wisdom Coat X,mhxx-dex-1.0,9
+4245,探究腰甲,Research Sash,mhxx-dex-1.0,9
+4250,探究护腰,Research Coat,mhxx-dex-1.0,9
+4255,活泼X腰带,Cheerful Belt X,mhxx-dex-1.0,9
+4260,活泼X皮带,Cheerful Band X,mhxx-dex-1.0,9
+4265,冰牙龙X护裙,Barioth Faulds X,mhxx-dex-1.0,9
+4270,冰牙龙X护腰,Barioth Coat X,mhxx-dex-1.0,9
+4275,重甲虫X护裙,Seltas Faulds X,mhxx-dex-1.0,9
+4280,重甲虫X护腰,Seltas Coat X,mhxx-dex-1.0,9
+4285,火龙X护裙,Rathalos Faulds X,mhxx-dex-1.0,9
+4290,火龙X护腰,Rathalos Coat X,mhxx-dex-1.0,9
+4295,GX火龙护裙,Rathalos Faulds GX,mhxx-dex-1.0,9
+4300,GX火龙护腰,Rathalos Coat GX,mhxx-dex-1.0,9
+4305,火龙XR护裙,Rathalos Faulds XR,mhxx-dex-1.0,9
+4310,火龙XR护腰,Rathalos Coat XR,mhxx-dex-1.0,9
+4315,海龙X护裙,Lagiacrus Faulds X,mhxx-dex-1.0,9
+4320,海龙X护腰,Lagiacrus Coat X,mhxx-dex-1.0,9
+4325,海龙XR护裙,Lagiacrus Faulds XR,mhxx-dex-1.0,9
+4330,海龙XR护腰,Lagiacrus Coat XR,mhxx-dex-1.0,9
+4335,雷狼龙X护裙,Zinogre Faulds X,mhxx-dex-1.0,9
+4340,雷狼龙X护腰,Zinogre Coat X,mhxx-dex-1.0,9
+4345,GX雷狼龙护裙,Zinogre Faulds GX,mhxx-dex-1.0,9
+4350,GX雷狼龙护腰,Zinogre Coat GX,mhxx-dex-1.0,9
+4355,铠龙X护裙,Gravios Tassets X,mhxx-dex-1.0,9
+4360,铠龙X护腰,Gravios Coat X,mhxx-dex-1.0,9
+4365,泡狐龙X护裙,Mizutsune Faulds X,mhxx-dex-1.0,9
+4370,泡狐龙X护腰,Mizutsune Coat X,mhxx-dex-1.0,9
+4375,电龙X护裙,Astalos Faulds X,mhxx-dex-1.0,9
+4380,电龙X护腰,Astalos Coat X,mhxx-dex-1.0,9
+4385,巨兽X护裙,Gammoth Faulds X,mhxx-dex-1.0,9
+4390,巨兽X护腰,Gammoth Coat X,mhxx-dex-1.0,9
+4395,斩龙X护裙,Glavenus Faulds X,mhxx-dex-1.0,9
+4400,斩龙X护腰,Glavenus Coat X,mhxx-dex-1.0,9
+4405,炎戈龙X护裙,Agnaktor Faulds X,mhxx-dex-1.0,9
+4410,炎戈龙X护腰,Agnaktor Coat X,mhxx-dex-1.0,9
+4415,黑蚀龙X护裙,Gore Faulds X,mhxx-dex-1.0,9
+4420,黑蚀龙X护腰,Gore Coat X,mhxx-dex-1.0,9
+4425,GX黑蚀龙护裙,Gore Faulds GX,mhxx-dex-1.0,9
+4430,GX黑蚀龙护腰,Gore Coat GX,mhxx-dex-1.0,9
+4435,黑蚀龙XR护裙,Gore Faulds XR,mhxx-dex-1.0,9
+4440,黑蚀龙XR护腰,Gore Coat XR,mhxx-dex-1.0,9
+4445,千刃龙X护裙,Regios Tassets X,mhxx-dex-1.0,9
+4450,千刃龙X护腰,Regios Coat X,mhxx-dex-1.0,9
+4455,尾锤龙X护裙,Duramboros Faulds X,mhxx-dex-1.0,9
+4460,尾锤龙X护腰,Duramboros Coat X,mhxx-dex-1.0,9
+4465,轰龙X护裙,Tigrex Tassets X,mhxx-dex-1.0,9
+4470,轰龙X护腰,Tigrex Coat X,mhxx-dex-1.0,9
+4475,GX轰龙护裙,Tigrex Tassets GX,mhxx-dex-1.0,9
+4480,GX轰龙护腰,Tigrex Coat GX,mhxx-dex-1.0,9
+4485,轰龙XR护裙,Tigrex Tassets XR,mhxx-dex-1.0,9
+4490,轰龙XR护腰,Tigrex Coat XR,mhxx-dex-1.0,9
+4495,角龙X腰甲,Diablos Coil X,mhxx-dex-1.0,9
+4500,角龙X护腰,Diablos Coat X,mhxx-dex-1.0,9
+4505,角龙XR腰甲,Diablos Coil XR,mhxx-dex-1.0,9
+4510,角龙XR护腰,Diablos Coat XR,mhxx-dex-1.0,9
+4515,麒麟X腰环,Kirin Hoop X,mhxx-dex-1.0,9
+4520,麒麟X绑腰,Kirin Shorts X,mhxx-dex-1.0,9
+4525,麒麟XR腰环,Kirin Hoop XR,mhxx-dex-1.0,9
+4530,麒麟XR绑腰,Kirin Shorts XR,mhxx-dex-1.0,9
+4535,碎龙X护裙,Brachydios Faulds X,mhxx-dex-1.0,9
+4540,碎龙X护腰,Brachydios Coat X,mhxx-dex-1.0,9
+4545,GX碎龙护裙,Brachydios Faulds GX,mhxx-dex-1.0,9
+4550,GX碎龙护腰,Brachydios Coat GX,mhxx-dex-1.0,9
+4555,方舟X护裙,Arc Faulds X,mhxx-dex-1.0,9
+4560,方舟X护腰,Arc Coat X,mhxx-dex-1.0,9
+4565,友爱X护裙,Storge Faulds X,mhxx-dex-1.0,9
+4570,友爱X护腰,Storge Coat X,mhxx-dex-1.0,9
+4575,GX方舟护裙,Arc Faulds GX,mhxx-dex-1.0,9
+4580,GX方舟护腰,Arc Coat GX,mhxx-dex-1.0,9
+4585,GX友爱护裙,Storge Faulds GX,mhxx-dex-1.0,9
+4590,GX友爱护腰,Storge Coat GX,mhxx-dex-1.0,9
+4595,方舟XR护裙,Arc Faulds XR,mhxx-dex-1.0,9
+4600,方舟XR护腰,Arc Coat XR,mhxx-dex-1.0,9
+4605,友爱XR护裙,Storge Faulds XR,mhxx-dex-1.0,9
+4610,友爱XR护腰,Storge Coat XR,mhxx-dex-1.0,9
+4615,天彗龙X护裙,Valstrax Faulds X,mhxx-dex-1.0,9
+4620,天彗龙X护腰,Valstrax Coat X,mhxx-dex-1.0,9
+4625,齐天带･真,Grand God's Peer Belt,mhxx-dex-1.0,9
+4630,仙师带･真,Grand Hermit Belt,mhxx-dex-1.0,9
+4635,恐暴龙X腰甲,Vangis Coil X,mhxx-dex-1.0,9
+4640,恐暴龙X护腰,Vangis Coat X,mhxx-dex-1.0,9
+4645,混沌护裙,Chaos Faulds,mhxx-dex-1.0,9
+4650,混沌护腰,Chaos Coat,mhxx-dex-1.0,9
+4655,堕天护裙,Nephilim Tassets,mhxx-dex-1.0,9
+4660,堕天护腰,Nephilim Coat,mhxx-dex-1.0,9
+4665,黑带X护裙,Black Belt Tassets X,mhxx-dex-1.0,9
+4670,黑带X护腰,Black Belt Coat X,mhxx-dex-1.0,9
+4675,守护者X腰甲,Guardian Coil X,mhxx-dex-1.0,9
+4680,守护者X护腰,Guardian Coat X,mhxx-dex-1.0,9
+4685,守护者Z腰甲,Guardian Coil Z,mhxx-dex-1.0,9
+4690,守护者Z护腰,Guardian Coat Z,mhxx-dex-1.0,9
+4695,公会守卫X蓝腰甲,Blue Guild Coil X,mhxx-dex-1.0,9
+4700,公会守卫X蓝护腰,Blue Guild Coat X,mhxx-dex-1.0,9
+4705,公会守卫X蓝腰甲,Blue Guild Coil X,mhxx-dex-1.0,9
+4710,公会守卫X蓝护腰,Blue Guild Coat X,mhxx-dex-1.0,9
+4715,公会守卫X红腰甲,Red Guild Coil X,mhxx-dex-1.0,9
+4720,公会守卫X红护腰,Red Guild Coat X,mhxx-dex-1.0,9
+4725,公会守卫X红腰甲,Red Guild Coil X,mhxx-dex-1.0,9
+4730,公会守卫X红护腰,Red Guild Coat X,mhxx-dex-1.0,9
+4735,黑色X脊髓,Black Spine X,mhxx-dex-1.0,9
+4740,黑色X鳞片,Black Scale X,mhxx-dex-1.0,9
+4745,花纹钢X腰甲,Damascus Coil X,mhxx-dex-1.0,9
+4750,花纹钢X护腰,Damascus Coat X,mhxx-dex-1.0,9
+4755,花纹钢XR腰甲,Damascus Coil XR,mhxx-dex-1.0,9
+4760,花纹钢XR护腰,Damascus Coat XR,mhxx-dex-1.0,9
+4767,王后护裙,Kaiserin Faulds,mhxx-dex-1.0,9
+4772,王后护腰,Kaiserin Coat,mhxx-dex-1.0,9
+4777,酒吧主人裙,Barmaid's Skirt,mhxx-dex-1.0,9
+4782,酒吧主人褶裙,Barmaid's Frills,mhxx-dex-1.0,9
+4787,酒保腰甲,Barman's Coil,mhxx-dex-1.0,9
+4792,酒保护腰,Barman's Coat,mhxx-dex-1.0,9
+4803,钢龙X安稳,Kushala Cocoon X,mhxx-dex-1.0,10
+4808,钢龙X尊爱,Kushala Wind Wrap X,mhxx-dex-1.0,10
+4813,GX钢龙安稳,Kushala Cocoon GX,mhxx-dex-1.0,10
+4818,GX钢龙尊爱,Kushala Wind Wrap GX,mhxx-dex-1.0,10
+4823,钢龙XR安稳,Kushala Cocoon XR,mhxx-dex-1.0,10
+4828,钢龙XR尊爱,Kushala Wind Wrap XR,mhxx-dex-1.0,10
+4833,水行真【圆带】,Grand Mizuha Sash,mhxx-dex-1.0,10
+4838,丰玉真【圆带】,Grand Cham Coat,mhxx-dex-1.0,10
+4843,GX水行【圆带】,Mizuha Sash GX,mhxx-dex-1.0,10
+4848,GX丰玉【圆带】,Cham Coat GX,mhxx-dex-1.0,10
+4853,帝王X护裙,Kaiser Tassets X,mhxx-dex-1.0,10
+4858,帝王X护腰,Kaiser Coat X,mhxx-dex-1.0,10
+4863,GX帝王护裙,Kaiser Tassets GX,mhxx-dex-1.0,10
+4868,GX帝王护腰,Kaiser Coat GX,mhxx-dex-1.0,10
+4873,银白耀日Z腰甲,Silver Solcoil Z,mhxx-dex-1.0,10
+4878,银白耀日Z护腰,Silver Solcoat Z,mhxx-dex-1.0,10
+4883,GX银白耀日腰甲,GX Silver Solcoil,mhxx-dex-1.0,10
+4888,GX银白耀日护腰,GX Silver Solcoat,mhxx-dex-1.0,10
+4893,银白耀日XR护裙,Silver Solfaulds XR,mhxx-dex-1.0,10
+4898,银白耀日XR护腰,Silver Solcoat XR,mhxx-dex-1.0,10
+4903,金黄澄月Z腰甲,Golden Lunecoil Z,mhxx-dex-1.0,10
+4908,金黄澄月Z护腰,Golden Lunecoat Z,mhxx-dex-1.0,10
+4913,GX金黄澄月腰甲,GX Golden Lunecoil,mhxx-dex-1.0,10
+4918,GX金黄澄月护腰,GX Golden Lunecoat,mhxx-dex-1.0,10
+4923,怒天带･真,Grand Divine Ire Obi,mhxx-dex-1.0,10
+4928,心灭带･真,Grand Crusher Belt,mhxx-dex-1.0,10
+4933,贪婪Z护裙,Esurient Faulds Z,mhxx-dex-1.0,10
+4938,贪婪Z护腰,Esurient Coat Z,mhxx-dex-1.0,10
+4943,贪婪XR护裙,Esurient Faulds XR,mhxx-dex-1.0,10
+4948,贪婪XR护腰,Esurient Coat XR,mhxx-dex-1.0,10
+4953,铁腕护裙,Brachydium Faulds,mhxx-dex-1.0,10
+4958,铁腕护腰,Brachydium Coat,mhxx-dex-1.0,10
+4963,晓丸【腰具】,Auroros Tassets,mhxx-dex-1.0,10
+4968,曙丸【腰具】,Genesis Tassets,mhxx-dex-1.0,10
+4973,凛【腰具】,Borealis Tassets,mhxx-dex-1.0,10
+4978,艳【腰具】,Glyph Tassets,mhxx-dex-1.0,10
+4983,GX晓丸【腰具】,Auroros Tassets GX,mhxx-dex-1.0,10
+4988,GX曙丸【腰具】,Genesis Tassets GX,mhxx-dex-1.0,10
+4993,GX凛【腰具】,Borealis Tassets GX,mhxx-dex-1.0,10
+4998,GX艳【腰具】,Glyph Tassets GX,mhxx-dex-1.0,10
+5003,晓丸战流【腰具】,Auroros Tassets XR,mhxx-dex-1.0,10
+5008,曙丸战流【腰具】,Genesis Tassets XR,mhxx-dex-1.0,10
+5013,凛战流【腰具】,Borealis Tassets XR,mhxx-dex-1.0,10
+5018,艳战流【腰具】,Glyph Tassets XR,mhxx-dex-1.0,10
+5023,晓丸亚流【腰具】,Auroros Tassets R,mhxx-dex-1.0,10
+5028,曙丸亚流【腰具】,Genesis Tassets R,mhxx-dex-1.0,10
+5033,凛亚流【腰具】,Borealis Tassets R,mhxx-dex-1.0,10
+5038,艳亚流【腰具】,Glyph Tassets R,mhxx-dex-1.0,10
+5043,霸龙X缠腰,Akantor Cincture X,mhxx-dex-1.0,10
+5048,霸龙X腰护具,Akantor Sash X,mhxx-dex-1.0,10
+5053,霸龙XR缠腰,Akantor Cincture XR,mhxx-dex-1.0,10
+5058,霸龙XR腰护具,Akantor Sash XR,mhxx-dex-1.0,10
+5063,崩龙X缠腰,Ukanlos Cincture X,mhxx-dex-1.0,10
+5068,崩龙X腰护具,Ukanlos Sash X,mhxx-dex-1.0,10
+5073,荒天･真【带】,Grand Tempest Obi,mhxx-dex-1.0,10
+5078,苍天･真【带】,Grand Welkin Obi,mhxx-dex-1.0,10
+5083,荒天战流【带】,Tempest Obi XR,mhxx-dex-1.0,10
+5088,苍天战流【带】,Welkin Obi XR,mhxx-dex-1.0,10
+5093,骸装甲･真【腰骨】,Grand Skeletal Hipbone,mhxx-dex-1.0,10
+5098,尸装甲･真【腰骨】,Grand Decayed Hipbone,mhxx-dex-1.0,10
+5103,苍星X腰甲,Astral Coil X,mhxx-dex-1.0,10
+5108,苍星X护腰,Astral Coat X,mhxx-dex-1.0,10
+5113,王座象征,Neset Coat,mhxx-dex-1.0,10
+5118,王座印记,Neset Elytra,mhxx-dex-1.0,10
+5123,黑龙脊髓,Dragonbarbs,mhxx-dex-1.0,10
+5128,黑龙鳞片,Dragonsheath,mhxx-dex-1.0,10
+5133,煌黑龙X神力,Escadora Might X,mhxx-dex-1.0,10
+5138,煌黑龙X力量,Escadora Force X,mhxx-dex-1.0,10
+5143,煌黑龙XR神力,Escadora Might XR,mhxx-dex-1.0,10
+5148,煌黑龙XR力量,Escadora Force XR,mhxx-dex-1.0,10
+5153,红龙脊髓,Fatalis Crimsonbarbs,mhxx-dex-1.0,10
+5158,红龙鳞片,Fatalis Crimsonscale,mhxx-dex-1.0,10
+5163,GX红龙脊髓,GX Fatalis Crimsonbarbs,mhxx-dex-1.0,10
+5168,GX红龙鳞片,GX Fatalis Crimsonscale,mhxx-dex-1.0,10
+5173,红龙XR脊髓,Fatalis Crimsonbarbs XR,mhxx-dex-1.0,10
+5178,红龙XR鳞片,Fatalis Crimsonscale XR,mhxx-dex-1.0,10
+5183,祖龙脊髓,Old Fatalis Spine,mhxx-dex-1.0,10
+5188,祖龙鳞片,Old Fatalis Scale,mhxx-dex-1.0,10
+5193,GX祖龙脊髓,GX Old Fatalis Spine,mhxx-dex-1.0,10
+5198,GX祖龙鳞片,GX Old Fatalis Scale,mhxx-dex-1.0,10
+5203,异形护裙,Strange Faulds,mhxx-dex-1.0,5
+5208,异形护腰,Strange Coat,mhxx-dex-1.0,5
+5213,异形X护裙,Strange Faulds X,mhxx-dex-1.0,8
+5218,异形X护腰,Strange Coat X,mhxx-dex-1.0,8
+5223,红盔护裙,Redhelm Faulds,mhxx-dex-1.0,11
+5228,红盔护腰,Redhelm Coat,mhxx-dex-1.0,11
+5233,大雪主护裙,Snowbaron Faulds,mhxx-dex-1.0,11
+5238,大雪主护腰,Snowbaron Coat,mhxx-dex-1.0,11
+5243,矛碎护裙,Stonefist Faulds,mhxx-dex-1.0,11
+5248,矛碎护腰,Stonefist Coat,mhxx-dex-1.0,11
+5253,紫毒姬护裙,Dreadqueen Faulds,mhxx-dex-1.0,11
+5258,紫毒姬护腰,Dreadqueen Coat,mhxx-dex-1.0,11
+5263,岩穿护裙,Drilltusk Faulds,mhxx-dex-1.0,11
+5268,岩穿护腰,Drilltusk Coat,mhxx-dex-1.0,11
+5273,白疾风护裙,Silverwind Faulds,mhxx-dex-1.0,11
+5278,白疾风护腰,Silverwind Coat,mhxx-dex-1.0,11
+5283,宝缠护裙,Crystalbeard Faulds,mhxx-dex-1.0,11
+5288,宝缠护腰,Crystalbeard Coat,mhxx-dex-1.0,11
+5293,独眼护裙,Deadeye Faulds,mhxx-dex-1.0,11
+5298,独眼护腰,Deadeye Coat,mhxx-dex-1.0,11
+5303,黑炎王护裙,Dreadking Faulds,mhxx-dex-1.0,11
+5308,黑炎王护腰,Dreadking Coat,mhxx-dex-1.0,11
+5313,金雷公护裙,Thunderlord Faulds,mhxx-dex-1.0,11
+5318,金雷公护腰,Thunderlord Coat,mhxx-dex-1.0,11
+5323,荒钩爪护裙,Grimclaw Faulds,mhxx-dex-1.0,11
+5328,荒钩爪护腰,Grimclaw Coat,mhxx-dex-1.0,11
+5333,烬灭刃护裙,Hellblade Faulds,mhxx-dex-1.0,11
+5338,烬灭刃护腰,Hellblade Coat,mhxx-dex-1.0,11
+5343,胧隐护裙,Nightcloak Faulds,mhxx-dex-1.0,11
+5348,胧隐护腰,Nightcloak Coat,mhxx-dex-1.0,11
+5353,铠裂护裙,Rustrazor Faulds,mhxx-dex-1.0,11
+5358,铠裂护腰,Rustrazor Coat,mhxx-dex-1.0,11
+5363,天眼护裙,Soulseer Faulds,mhxx-dex-1.0,11
+5368,天眼护腰,Soulseer Coat,mhxx-dex-1.0,11
+5373,青电主护裙,Boltreaver Faulds,mhxx-dex-1.0,11
+5378,青电主护腰,Boltreaver Coat,mhxx-dex-1.0,11
+5383,银峰护裙,Elderfrost Faulds,mhxx-dex-1.0,11
+5388,银峰护腰,Elderfrost Coat,mhxx-dex-1.0,11
+5393,鏖魔护裙,Bloodbath Faulds,mhxx-dex-1.0,11
+5398,鏖魔护腰,Bloodbath Coat,mhxx-dex-1.0,11
+5403,【日】瑞星【腰具】,[JP] Promising Girdle,mhxx-dex-1.0,3
+5408,【日】景星【腰具】,[JP] Halcyon Girdle,mhxx-dex-1.0,3
+5413,【日】梦视【腰具】,[JP] Lucid Tassets,mhxx-dex-1.0,3
+5418,【日】梦言【腰具】,[JP] Dreamy Tassets,mhxx-dex-1.0,3
+5423,【日】烈火【腰具】,[JP] Arcfire Obi,mhxx-dex-1.0,3
+5428,【日】活火【腰具】,[JP] Bonfire Obi,mhxx-dex-1.0,3
+5433,【日】和歌【腰具】,[JP] Waka Obi,mhxx-dex-1.0,3
+5438,【日】和乐【腰具】,[JP] Wagaku Obi,mhxx-dex-1.0,3
+5451,海盗J腰甲,Pirate Coil J,mhxx-dex-1.0,6
+5456,海盗J裙,Pirate Skirt J,mhxx-dex-1.0,6
+5461,大海盗J腰甲,Buccaneer Coil J,mhxx-dex-1.0,6
+5466,大海盗J裙,Buccaneer Skirt J,mhxx-dex-1.0,6
+5473,星灵腰甲,Zodias Coil,mhxx-dex-1.0,7
+5478,星灵护腰,Zodias Coat,mhxx-dex-1.0,7
+5481,坊屋腰带,Booyah Belt,mhxx-dex-1.0,5
+5484,坊屋皮带,Booyah Buckle,mhxx-dex-1.0,5
+5497,王者的腰带,Champion's Belt,mhxx-dex-1.0,7
+5502,强者的腰带,Strongman's Belt,mhxx-dex-1.0,7
+5507,电衣库扣环腰带,Dynaqlo Belt,mhxx-dex-1.0,6
+5512,电衣库腰包,Dynaqlo Pouch,mhxx-dex-1.0,6
+5517,【日】蓝星花腰甲,[JP] Blue Star Coil,mhxx-dex-1.0,6
+5522,【日】蓝星花护腰,[JP] Blue Star Coat,mhxx-dex-1.0,6
+5527,【日】星骑士腰甲,[JP] Star Knight Coil,mhxx-dex-1.0,6
+5532,【日】星骑士护腰,[JP] Star Knight Coat,mhxx-dex-1.0,6
+5537,【日】星城腰甲,[JP] Star Rook Coil,mhxx-dex-1.0,7
+5542,【日】星城护腰,[JP] Star Rook Coat,mhxx-dex-1.0,7
+5547,【日】瑞星･霸【腰具】,[JP] Promising Archgirdle,mhxx-dex-1.0,7
+5552,【日】景星･霸【腰具】,[JP] Halcyon Archgirdle,mhxx-dex-1.0,7
+5557,【日】梦视･霸【腰具】,[JP] Lucid Archgirdle,mhxx-dex-1.0,7
+5562,【日】梦言･霸【腰具】,[JP] Dreamy Archgirdle,mhxx-dex-1.0,7
+5567,【日】烈火･霸【腰具】,[JP] Ruler Arcfire Obi,mhxx-dex-1.0,7
+5572,【日】活火･霸【腰具】,[JP] Ruler Bonfire Obi,mhxx-dex-1.0,7
+5577,【日】和歌･霸【腰具】,[JP] Ruler Waka Obi,mhxx-dex-1.0,7
+5582,【日】和乐･霸【腰具】,[JP] Ruler Wagaku Obi,mhxx-dex-1.0,7
+5611,勇者腰带,Hero's Belt,mhxx-dex-1.0,7
+5616,勇者皮带,Hero's Band,mhxx-dex-1.0,7
+5621,星耀领主腰甲,Lodestar Belt,mhxx-dex-1.0,7
+5626,星耀领主护腰,Lodestar Cloak,mhxx-dex-1.0,7
+5660,飞龙带･天,Hiryu Sky Belt,mhxx-dex-1.0,7
+5665,飞龙带･地,Hiryu Land Belt,mhxx-dex-1.0,7
+5686,【日】烈火･极【腰具】,[JP] Supreme Arcfire Obi,mhxx-dex-1.0,10
+5691,【日】活火･极【腰具】,[JP] Supreme Bonfire Obi,mhxx-dex-1.0,10
+5696,【日】和歌･极【腰具】,[JP] Supreme Wagaku Obi,mhxx-dex-1.0,10
+5701,【日】和乐･极【腰具】,[JP] Supreme Wagaku Obi,mhxx-dex-1.0,10
+5706,黄金骑士【腰具】,Garo Tassets,mhxx-dex-1.0,10
+5711,黄金骑士【腰带】,Garo Belt,mhxx-dex-1.0,10
+5716,海利亚腰带,Hylian Belt,mhxx-dex-1.0,10
+5721,海利亚皮带,Hylian Bandolier,mhxx-dex-1.0,10

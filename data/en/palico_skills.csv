@@ -1,0 +1,98 @@
+id,name,english,source,generation_tier
+0,-----,-----,mhxx-save-format-community,0
+1,Health Up (S),Health Up (S),mhxx-save-format-community,1
+2,Health Up (L),Health Up (L),mhxx-save-format-community,2
+3,Attack Up (S),Attack Up (S),mhxx-save-format-community,0
+4,Attack Up (L),Attack Up (L),mhxx-save-format-community,2
+5,Defense Up (S),Defense Up (S),mhxx-save-format-community,0
+6,Defense Up (L),Defense Up (L),mhxx-save-format-community,2
+7,Omniresistance,Omniresistance,mhxx-save-format-community,3
+8,Critical Up (S),Critical Up (S),mhxx-save-format-community,1
+9,Critical Up (L),Critical Up (L),mhxx-save-format-community,2
+10,Handicraft,Handicraft,mhxx-save-format-community,0
+11,Bombay Boost,Bombay Boost,mhxx-save-format-community,0
+12,Element Attack Up,Element Attack Up,mhxx-save-format-community,3
+13,Status Attack Up,Status Attack Up,mhxx-save-format-community,3
+14,Knockout King,Knockout King,mhxx-save-format-community,2
+15,Stamina Drain,Stamina Drain,mhxx-save-format-community,1
+16,Guard (S),Guard (S),mhxx-save-format-community,0
+17,Guard (L),Guard (L),mhxx-save-format-community,2
+18,Guard Boost,Guard Boost,mhxx-save-format-community,0
+19,Support Priority,Support Priority,mhxx-save-format-community,3
+20,Support Boost,Support Boost,mhxx-save-format-community,2
+21,Support Move +1,Support Move +1,mhxx-save-format-community,3
+22,Pilfer Boost,Pilfer Boost,mhxx-save-format-community,0
+23,Revival Pro,Revival Pro,mhxx-save-format-community,3
+24,Heat/Bomb Res,Heat/Bomb Res,mhxx-save-format-community,0
+25,Negate Poison,Negate Poison,mhxx-save-format-community,1
+26,Negate Wind,Negate Wind,mhxx-save-format-community,1
+27,Negate Paralysis,Negate Paralysis,mhxx-save-format-community,1
+28,Negate Stun,Negate Stun,mhxx-save-format-community,2
+29,Negate Confusion,Negate Confusion,mhxx-save-format-community,1
+30,Tremor Res,Tremor Res,mhxx-save-format-community,1
+31,Earplugs,Earplugs,mhxx-save-format-community,2
+32,Negate Sleep,Negate Sleep,mhxx-save-format-community,1
+33,Biology,Biology,mhxx-save-format-community,1
+34,Iron Hide,Iron Hide,mhxx-save-format-community,1
+35,Non-Stick Fur,Non-Stick Fur,mhxx-save-format-community,1
+36,Nine Lives (Attack),Nine Lives (Attack),mhxx-save-format-community,2
+37,Nine Lives (Defense),Nine Lives (Defense),mhxx-save-format-community,1
+38,Last Stand,Last Stand,mhxx-save-format-community,0
+39,Anger Prone,Anger Prone,mhxx-save-format-community,3
+40,Counter Boost,Counter Boost,mhxx-save-format-community,2
+41,Monsterdar,Monsterdar,mhxx-save-format-community,0
+42,Boomerang Pro,Boomerang Pro,mhxx-save-format-community,1
+43,Pro Trapper,Pro Trapper,mhxx-save-format-community,0
+44,Gathering Pro,Gathering Pro,mhxx-save-format-community,0
+45,Slacker Slap,Slacker Slap,mhxx-save-format-community,0
+46,Health Harmonics,Health Harmonics,mhxx-save-format-community,0
+47,Goldenfish Catcher,Goldenfish Catcher,mhxx-save-format-community,1
+48,Baddest Cat Ever,Baddest Cat Ever,mhxx-save-format-community,0
+49,High Cadence,High Cadence,mhxx-save-format-community,0
+50,World's Strongest,World's Strongest,mhxx-save-format-community,0
+51,Zombie,Zombie,mhxx-save-format-community,0
+52,Desperation,Desperation,mhxx-save-format-community,0
+53,Nagatobimaru,Nagatobimaru,mhxx-save-format-community,0
+54,Fanalis,Fanalis,mhxx-save-format-community,0
+55,Aera,Aera,mhxx-save-format-community,0
+56,Ranged Attack Up,Ranged Attack Up,mhxx-save-format-community,0
+57,Sonic Mini Bombay,Sonic Mini Bombay,mhxx-save-format-community,0
+58,Fashion Sense,Fashion Sense,mhxx-save-format-community,0
+59,Universal,Universal,mhxx-save-format-community,0
+60,Bento Jutsu,Bento Jutsu,mhxx-save-format-community,0
+61,Jugido,Jugido,mhxx-save-format-community,0
+62,Diva,Diva,mhxx-save-format-community,0
+63,Wind Waker,Wind Waker,mhxx-save-format-community,0
+64,Landmaster,Landmaster,mhxx-save-format-community,0
+65,Super Mushroom,Super Mushroom,mhxx-save-format-community,0
+66,Shopkeeping,Shopkeeping,mhxx-save-format-community,0
+67,Triforce,Triforce,mhxx-save-format-community,0
+68,Morph Ball Bomb,Morph Ball Bomb,mhxx-save-format-community,0
+69,Megaflare,Megaflare,mhxx-save-format-community,0
+70,DEF-centric,DEF-centric,mhxx-save-format-community,0
+71,STAM-centric,STAM-centric,mhxx-save-format-community,0
+72,Fire Res Up,Fire Res Up,mhxx-save-format-community,0
+73,Water Res Up,Water Res Up,mhxx-save-format-community,0
+74,Thunder Res Up,Thunder Res Up,mhxx-save-format-community,0
+75,Ice Res Up,Ice Res Up,mhxx-save-format-community,0
+76,Dragon Res Up,Dragon Res Up,mhxx-save-format-community,0
+77,Crit Boost,Crit Boost,mhxx-save-format-community,0
+78,Recovery Up,Recovery Up,mhxx-save-format-community,0
+79,Bombercat,Bombercat,mhxx-save-format-community,1
+80,Angery,Angery,mhxx-save-format-community,2
+81,Evasion Up,Evasion Up,mhxx-save-format-community,2
+82,Trainer,Trainer,mhxx-save-format-community,0
+83,Water Up,Water Up,mhxx-save-format-community,0
+84,Ice Up,Ice Up,mhxx-save-format-community,0
+85,Dragon Up,Dragon Up,mhxx-save-format-community,0
+86,SP Extender,SP Extender,mhxx-save-format-community,0
+87,Weakness Exploit,Weakness Exploit,mhxx-save-format-community,0
+88,Ground Diver,Ground Diver,mhxx-save-format-community,0
+89,Moxie,Moxie,mhxx-save-format-community,0
+90,Beastly Cat,Beastly Cat,mhxx-save-format-community,0
+91,Misty Helper,Misty Helper,mhxx-save-format-community,0
+92,Lucky Protector,Lucky Protector,mhxx-save-format-community,0
+93,Bomb Transporter,Bomb Transporter,mhxx-save-format-community,0
+94,Defense Priority,Defense Priority,mhxx-save-format-community,0
+95,Rolling Boost,Rolling Boost,mhxx-save-format-community,0
+96,NULL [96],NULL [96],mhxx-save-format-community,0

@@ -1,0 +1,127 @@
+id,name,english,source,rarity,max_level
+0,无,None,mhxx-save-format-community,0,0
+1,贝鲁纳短剑,Petrified Daggers,mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石短剑,Obsidian Daggers,mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,冰层心剑,Gelid Mind,mhxx-dex-1.0+mhxx-save-format-community,4,5
+4,电锯双剑,Twin Chainsaws,mhxx-dex-1.0+mhxx-save-format-community,2,7
+5,机动双锯,Roving Saws,mhxx-dex-1.0+mhxx-save-format-community,5,5
+6,51式武装棍棒,Type 51 Macerators,mhxx-dex-1.0+mhxx-save-format-community,2,8
+7,昆虫指令,Insecticutters,mhxx-dex-1.0+mhxx-save-format-community,1,8
+8,昆虫双切,Insectiscythes,mhxx-dex-1.0+mhxx-save-format-community,5,5
+9,双短剑,Twin Daggers,mhxx-dex-1.0+mhxx-save-format-community,1,11
+10,飓风,Hurricane,mhxx-dex-1.0+mhxx-save-format-community,2,8
+11,利齿双颚,Cleaving Jaws,mhxx-dex-1.0+mhxx-save-format-community,4,6
+12,冷冽剁刀,Cool Cleavers,mhxx-dex-1.0+mhxx-save-format-community,5,5
+13,碎龙双切,Dios Slicers,mhxx-dex-1.0+mhxx-save-format-community,3,7
+14,爆碎双刃,Demolition Blades,mhxx-dex-1.0+mhxx-save-format-community,6,6
+15,双剑轩辕十二,Zakun Twins,mhxx-dex-1.0+mhxx-save-format-community,3,7
+16,叛逆裂爪,Seditious Talons,mhxx-dex-1.0+mhxx-save-format-community,6,6
+17,双战斧,Dual Hatchets,mhxx-dex-1.0+mhxx-save-format-community,3,7
+18,龙卷风,Tornado Hatchets,mhxx-dex-1.0+mhxx-save-format-community,4,5
+19,轰龙双切,Rex Slicers,mhxx-dex-1.0+mhxx-save-format-community,3,7
+20,王双刃雷神,Usurper's Fulgur,mhxx-dex-1.0+mhxx-save-format-community,3,7
+21,秩序细剑,Sworn Rapiers,mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,跳狗龙刺剑,Dual Piercers,mhxx-dex-1.0+mhxx-save-format-community,1,9
+23,火焰风暴,Flamestorm,mhxx-dex-1.0+mhxx-save-format-community,6,5
+24,焰形双剑,Rouge Flames,mhxx-dex-1.0+mhxx-save-format-community,3,6
+25,白电短剑,Khezu Daggers,mhxx-dex-1.0+mhxx-save-format-community,2,8
+26,双骨剑,Bone Scythes,mhxx-dex-1.0+mhxx-save-format-community,1,11
+27,雌雄双焰刀,Twin Flames,mhxx-dex-1.0+mhxx-save-format-community,3,8
+28,金银龙对剑,Wyvern Strife,mhxx-dex-1.0+mhxx-save-format-community,7,5
+29,兄弟钩爪,Talon Carvers,mhxx-dex-1.0+mhxx-save-format-community,2,9
+30,水龙曲刃刀,Plesioth Cutlasses,mhxx-dex-1.0+mhxx-save-format-community,4,6
+31,暴风火,Firestorm,mhxx-dex-1.0+mhxx-save-format-community,5,6
+32,六刃双剑,Bladed Edges,mhxx-dex-1.0+mhxx-save-format-community,2,7
+33,双钳剑,Bladed Pincers,mhxx-dex-1.0+mhxx-save-format-community,5,5
+34,禁忌匕首,Hidden Gemini,mhxx-dex-1.0+mhxx-save-format-community,2,8
+35,蟹角,Crab Horns,mhxx-dex-1.0+mhxx-save-format-community,2,8
+36,迅雷,Monarch,mhxx-dex-1.0+mhxx-save-format-community,3,8
+37,青熊双钺,Cerulean Axes,mhxx-dex-1.0+mhxx-save-format-community,1,8
+38,火刃火焰红莲,Blazeblades,mhxx-dex-1.0+mhxx-save-format-community,3,8
+39,水兽双剑,Ludroth Pair,mhxx-dex-1.0+mhxx-save-format-community,2,8
+40,双海龙剑,Twin Acrus,mhxx-dex-1.0+mhxx-save-format-community,3,8
+41,冰雪双刃,Snow Slicers,mhxx-dex-1.0+mhxx-save-format-community,2,8
+42,白兔脱缰剑,Maulagombs,mhxx-dex-1.0+mhxx-save-format-community,4,5
+43,二重战斧,Dual Battleaxes,mhxx-dex-1.0+mhxx-save-format-community,2,9
+44,蓝速龙双剑,Vprey Claws,mhxx-dex-1.0+mhxx-save-format-community,1,7
+45,寒冰毒液,Snow Venom,mhxx-dex-1.0+mhxx-save-format-community,2,8
+46,力矩回旋剑,Whirlitwists,mhxx-dex-1.0+mhxx-save-format-community,4,6
+47,力矩钻头剑,Whirlitorture,mhxx-dex-1.0+mhxx-save-format-community,5,6
+48,怪鸟双耳,Kut-Ku Pair,mhxx-dex-1.0+mhxx-save-format-community,2,9
+49,铁扇【乌】,Raven Tessen,mhxx-dex-1.0+mhxx-save-format-community,3,7
+50,铁扇【兇】,Wicked Tessen,mhxx-dex-1.0+mhxx-save-format-community,6,5
+51,雷光双剑,Twin Bolts,mhxx-dex-1.0+mhxx-save-format-community,3,9
+52,巨兽双剑,Giant's Daggers,mhxx-dex-1.0+mhxx-save-format-community,3,9
+53,狐双刃【浮世梦如空】,Morning Dawn,mhxx-dex-1.0+mhxx-save-format-community,3,9
+54,灼炎伐木手,Smoldering Cities,mhxx-dex-1.0+mhxx-save-format-community,3,9
+55,乌鸦of撕裂者,Fledderklauen,mhxx-dex-1.0+mhxx-save-format-community,3,7
+56,THE使徒,Les Apôtres,mhxx-dex-1.0+mhxx-save-format-community,3,8
+57,锐爪双剑,Twin Nails,mhxx-dex-1.0+mhxx-save-format-community,3,6
+58,斗鬼【高丸】,Suzuka Takamaru,mhxx-dex-1.0+mhxx-save-format-community,6,7
+59,愤怒双刃,Wrath & Rancor,mhxx-dex-1.0+mhxx-save-format-community,6,5
+60,业双刃大小激情,Consummate Pair,mhxx-dex-1.0+mhxx-save-format-community,7,5
+61,名为双子的白骸,Chasm Blades,mhxx-dex-1.0+mhxx-save-format-community,3,7
+62,极星双剑【双子】,Astral Gemini,mhxx-dex-1.0+mhxx-save-format-community,7,5
+63,霸爪爪神,Akantor Blades,mhxx-dex-1.0+mhxx-save-format-community,7,5
+64,崩刃皓掌碎月,Ukanlos Ruinblades,mhxx-dex-1.0+mhxx-save-format-community,7,5
+65,凶扇【黑风白雨】,Stormwind Fans,mhxx-dex-1.0+mhxx-save-format-community,7,5
+66,严重风化的双剑,Worn Blades,mhxx-dex-1.0+mhxx-save-format-community,4,7
+67,封龙剑【超绝一门】,Enduring Schism,mhxx-dex-1.0+mhxx-save-format-community,6,5
+68,太古双短剑,Hi Twin Daggers,mhxx-dex-1.0+mhxx-save-format-community,6,5
+69,黑双短剑,Black Twin Daggers,mhxx-dex-1.0+mhxx-save-format-community,3,7
+70,结云之双剑,Yukumo Duo,mhxx-dex-1.0+mhxx-save-format-community,1,8
+71,真结云双剑,Pure Yukumo Duo,mhxx-dex-1.0+mhxx-save-format-community,3,6
+72,龙历院正式双剑,Wycademy Blades,mhxx-dex-1.0+mhxx-save-format-community,3,6
+73,英雄双刃,Heroic Twins,mhxx-dex-1.0+mhxx-save-format-community,3,7
+74,公会骑士军刀,Guild Knight Sabers,mhxx-dex-1.0+mhxx-save-format-community,6,6
+75,微醺啤酒,Addled Beers,mhxx-dex-1.0+mhxx-save-format-community,3,6
+76,波凯连指手套,Pokke Mittens,mhxx-dex-1.0+mhxx-save-format-community,2,6
+77,狩丸子【白团】,White Dango,mhxx-dex-1.0+mhxx-save-format-community,3,6
+78,狩丸子【火药团】,Spicy Dango,mhxx-dex-1.0+mhxx-save-format-community,4,5
+79,狩丸子【毒天狗团】,Tengu Dango,mhxx-dex-1.0+mhxx-save-format-community,4,5
+80,贪吃鬼的餐具,Glutton's Tools,mhxx-dex-1.0+mhxx-save-format-community,2,6
+81,双剑煮炒,Stewbry Stirfoils,mhxx-dex-1.0+mhxx-save-format-community,5,5
+82,蝶剑,Qornu Waga,mhxx-dex-1.0+mhxx-save-format-community,3,7
+83,奇面稻草人,Shaka Scarecrows,mhxx-dex-1.0+mhxx-save-format-community,4,5
+84,艾露猫君梅拉露君,Felyne and Melynx,mhxx-dex-1.0+mhxx-save-format-community,6,5
+85,猫爪,Felyne Claws,mhxx-dex-1.0+mhxx-save-format-community,5,5
+86,钢龙之石双剑,Daora Blades,mhxx-dex-1.0+mhxx-save-format-community,2,7
+87,红熊双钺,Crimson Daggers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+88,兔女神双雪剑,Blackhare Daggers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+89,蟹纹双剑,Pincher Daggers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+90,紫毒姬双剑,Royal Daggers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+91,疾风双刃,Nightfall Daggers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+92,铁扇【祸】,Hardened Daggers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+93,金狼双刃雷神,Raiden Daggers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+94,暴风神双切,Seize Slicers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+95,爆焰双刃,Enflamed Slicers,mhxx-dex-1.0+mhxx-save-format-community,11,15
+96,海盗J之刃,Pirate Edges J,mhxx-dex-1.0+mhxx-save-format-community,6,5
+97,红莲爆炎刃,Exploding Blades,mhxx-dex-1.0+mhxx-save-format-community,6,5
+98,范马刃牙流格斗术,Baki Combat Jutsu,mhxx-dex-1.0+mhxx-save-format-community,6,5
+99,DUMMY,DUMMY,mhxx-save-format-community-en-fallback,0,5
+100,MH Fan Club特制扇子,Fan Club Fans,mhxx-dex-1.0+mhxx-save-format-community,6,5
+101,宝刀之成对金属器,Goldblades,mhxx-dex-1.0+mhxx-save-format-community,10,3
+102,银翼双刃,Silverwing Blades,mhxx-dex-1.0+mhxx-save-format-community,7,6
+103,青电主双剑,Twin Revolt,mhxx-dex-1.0+mhxx-save-format-community,11,5
+104,天眼双刃･色即是空,Impermanence,mhxx-dex-1.0+mhxx-save-format-community,11,5
+105,银峰双剑,Elderfrost Blades,mhxx-dex-1.0+mhxx-save-format-community,11,5
+106,屠杀双剑,Massacre Spines,mhxx-dex-1.0+mhxx-save-format-community,11,5
+107,铠裂双剑,Razor Dissectors,mhxx-dex-1.0+mhxx-save-format-community,11,5
+108,双焰,Flaming Pair,mhxx-dex-1.0+mhxx-save-format-community,10,3
+109,双龙刃【红空暗夜】,Ebonblood Twindrakes,mhxx-dex-1.0+mhxx-save-format-community,10,3
+110,双龙刃【飞天】,Ultimus Celestials,mhxx-dex-1.0+mhxx-save-format-community,10,3
+111,碎光双闪,Lightbreak Twins,mhxx-dex-1.0+mhxx-save-format-community,10,3
+112,使徒or魔女,Apostel/Sorcière,mhxx-dex-1.0+mhxx-save-format-community,10,3
+113,兄弟剑,Diablos Bashers,mhxx-dex-1.0+mhxx-save-format-community,6,5
+114,粉红双球锤,Pink Maracas,mhxx-dex-1.0+mhxx-save-format-community,5,6
+115,白速龙双爪,Giaprey Claws,mhxx-dex-1.0+mhxx-save-format-community,4,6
+116,冰牙双剑,Blizzarioths,mhxx-dex-1.0+mhxx-save-format-community,5,5
+117,里世界之炎,Ignis Noire,mhxx-dex-1.0+mhxx-save-format-community,9,3
+118,流水鳍双剑,Verdant Slashers,mhxx-dex-1.0+mhxx-save-format-community,8,3
+119,面对未解之双剑,Research Spikes,mhxx-dex-1.0+mhxx-save-format-community,6,5
+120,酒场探索者,Cercatore Talea,mhxx-dex-1.0+mhxx-save-format-community,9,3
+121,【我说完了】,Ace Blades,mhxx-dex-1.0+mhxx-save-format-community,9,3
+122,双鱼剑,Luzio Saurel,mhxx-dex-1.0+mhxx-save-format-community,9,3
+123,长者短剑,Elder Daggers,mhxx-dex-1.0+mhxx-save-format-community,8,3
+124,迅雷之力,Jinrai Works,mhxx-dex-1.0+mhxx-save-format-community,9,3
+125,光剑Cypher,Light Sword Cypher,mhxx-dex-1.0+mhxx-save-format-community,6,4

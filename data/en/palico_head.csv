@@ -1,0 +1,503 @@
+id,name,english,source,rarity
+0,None,None,mhxx-save-format-community,0
+1,F Acorn Helm,F Acorn Helm,mhxx-dex-1.0,1
+3,F Bherna Hood,F Bherna Hood,mhxx-dex-1.0,1
+5,F Alloy Helm,F Alloy Helm,mhxx-dex-1.0,1
+7,F Bone Helm,F Bone Helm,mhxx-dex-1.0,1
+9,F Jaggi Helm,F Jaggi Helm,mhxx-dex-1.0,1
+11,F Hunting Helm,F Hunting Helm,mhxx-dex-1.0,2
+13,F Mafumofu Hood,F Mafumofu Hood,mhxx-dex-1.0,2
+15,F Yukumo Kasa,F Yukumo Kasa,mhxx-dex-1.0,2
+17,F Alta Hat,F Alta Hat,mhxx-dex-1.0,2
+19,F Rheno Helm,F Rheno Helm,mhxx-dex-1.0,2
+21,F Bnaha Cap,F Bnaha Cap,mhxx-dex-1.0,2
+23,F Maccao Helm,F Maccao Helm,mhxx-dex-1.0,2
+25,F Velociprey Helm,F Velociprey Helm,mhxx-dex-1.0,2
+27,F Bulldrome Mask,F Bulldrome Mask,mhxx-dex-1.0,2
+29,F Arzuros Helm,F Arzuros Helm,mhxx-dex-1.0,2
+31,F Genprey Helm,F Genprey Helm,mhxx-dex-1.0,2
+33,F Cephalos Hat,F Cephalos Hat,mhxx-dex-1.0,2
+35,F Stone Head,F Stone Head,mhxx-dex-1.0,2
+37,F Venombee Cap,F Venombee Cap,mhxx-dex-1.0,2
+39,F Gourmet Toque,F Gourmet Toque,mhxx-dex-1.0,2
+41,F Moofy Head,F Moofy Head,mhxx-dex-1.0,2
+43,F Aptonoth Mask,F Aptonoth Mask,mhxx-dex-1.0,2
+45,F Popo Head,F Popo Head,mhxx-dex-1.0,2
+47,F Gargwa Mask,F Gargwa Mask,mhxx-dex-1.0,2
+49,F Ioprey Helm,F Ioprey Helm,mhxx-dex-1.0,2
+51,F Lagombi Helm,F Lagombi Helm,mhxx-dex-1.0,2
+53,F Kut-Ku Mask,F Kut-Ku Mask,mhxx-dex-1.0,2
+55,F Gypceros Crest,F Gypceros Crest,mhxx-dex-1.0,2
+57,F Cabra Horn,F Cabra Horn,mhxx-dex-1.0,2
+59,F Daimyo Mask,F Daimyo Mask,mhxx-dex-1.0,2
+61,F Ludroth Helm,F Ludroth Helm,mhxx-dex-1.0,2
+63,F Khezu Cap,F Khezu Cap,mhxx-dex-1.0,2
+65,F Nibel Helm,F Nibel Helm,mhxx-dex-1.0,2
+67,F Scholarly Cap,F Scholarly Cap,mhxx-dex-1.0,2
+69,F Derring Galea,F Derring Galea,mhxx-dex-1.0,2
+71,F Edel Pigtails,F Edel Pigtails,mhxx-dex-1.0,2
+73,F Kittendant Hood,F Kittendant Hood,mhxx-dex-1.0,2
+75,F Mosgharl Hat,F Mosgharl Hat,mhxx-dex-1.0,2
+77,F Larinoth Mask,F Larinoth Mask,mhxx-dex-1.0,2
+79,F Death Stench Hood,F Death Stench Hood,mhxx-dex-1.0,2
+81,F Marauder Helm,F Marauder Helm,mhxx-dex-1.0,2
+83,F Volvi Helm,F Volvi Helm,mhxx-dex-1.0,2
+85,F Malfestio Mask,F Malfestio Mask,mhxx-dex-1.0,2
+87,F Rathian Helm,F Rathian Helm,mhxx-dex-1.0,2
+89,F Blango Mask,F Blango Mask,mhxx-dex-1.0,2
+91,F Ceanataur Mask,F Ceanataur Mask,mhxx-dex-1.0,2
+93,F Naja Turban,F Naja Turban,mhxx-dex-1.0,2
+95,F Narga Helm,F Narga Helm,mhxx-dex-1.0,2
+97,F Maiden Hood,F Maiden Hood,mhxx-dex-1.0,3
+99,F Helper Hood,F Helper Hood,mhxx-dex-1.0,3
+101,F Pretty Toque,F Pretty Toque,mhxx-dex-1.0,3
+103,F Chaos Bulbs,F Chaos Bulbs,mhxx-dex-1.0,3
+105,F El Dora Helm,F El Dora Helm,mhxx-dex-1.0,3
+107,F Artian Core,F Artian Core,mhxx-dex-1.0,3
+109,F Garuga Hood,F Garuga Hood,mhxx-dex-1.0,3
+111,F Uragaan Helm,F Uragaan Helm,mhxx-dex-1.0,3
+113,F Rathalos Helm,F Rathalos Helm,mhxx-dex-1.0,3
+115,F Lagia Tricorne,F Lagia Tricorne,mhxx-dex-1.0,3
+117,F Astalos Mask,F Astalos Mask,mhxx-dex-1.0,3
+119,F Gammoth Collar,F Gammoth Collar,mhxx-dex-1.0,3
+121,F Mizutsune Kasa,F Mizutsune Kasa,mhxx-dex-1.0,3
+123,F Guild Headgear,F Guild Headgear,mhxx-dex-1.0,3
+125,F Glavenus Helm,F Glavenus Helm,mhxx-dex-1.0,3
+127,F Zinogre Helm,F Zinogre Helm,mhxx-dex-1.0,3
+129,F Gore Horror,F Gore Horror,mhxx-dex-1.0,3
+131,F Seregios Helm,F Seregios Helm,mhxx-dex-1.0,3
+133,F Tigrex Helm,F Tigrex Helm,mhxx-dex-1.0,3
+135,F Kirin Horn,F Kirin Horn,mhxx-dex-1.0,3
+137,F Brachy Headgear,F Brachy Headgear,mhxx-dex-1.0,3
+139,F Angel Halo,F Angel Halo,mhxx-dex-1.0,3
+141,F Kushala Glare,F Kushala Glare,mhxx-dex-1.0,3
+143,F Genie Helm,F Genie Helm,mhxx-dex-1.0,3
+145,F Kaiser Periwig,F Kaiser Periwig,mhxx-dex-1.0,3
+147,F Husk Mask,F Husk Mask,mhxx-dex-1.0,3
+149,F Acorn Helm S,F Acorn Helm S,mhxx-dex-1.0,4
+151,F Bherna Hood S,F Bherna Hood S,mhxx-dex-1.0,4
+153,F Hunting Helm S,F Hunting Helm S,mhxx-dex-1.0,4
+155,F Mafumofu Hood S,F Mafumofu Hood S,mhxx-dex-1.0,4
+157,F Yukumo Kasa S,F Yukumo Kasa S,mhxx-dex-1.0,4
+159,F Gourmet Toque S,F Gourmet Toque S,mhxx-dex-1.0,4
+161,F Moofy Head S,F Moofy Head S,mhxx-dex-1.0,4
+163,F Aptonoth Mask S,F Aptonoth Mask S,mhxx-dex-1.0,4
+165,F Popo Head S,F Popo Head S,mhxx-dex-1.0,4
+167,F Gargwa Mask S,F Gargwa Mask S,mhxx-dex-1.0,4
+169,F Larinoth Mask S,F Larinoth Mask S,mhxx-dex-1.0,4
+171,F Alloy Helm S,F Alloy Helm S,mhxx-dex-1.0,4
+173,F Bone Helm S,F Bone Helm S,mhxx-dex-1.0,4
+175,F Alta Hat S,F Alta Hat S,mhxx-dex-1.0,4
+177,F Bnaha Cap S,F Bnaha Cap S,mhxx-dex-1.0,4
+179,F Jaggi Helm S,F Jaggi Helm S,mhxx-dex-1.0,4
+181,F Rheno Helm S,F Rheno Helm S,mhxx-dex-1.0,4
+183,F Slagtoth Hood,F Slagtoth Hood,mhxx-dex-1.0,4
+185,F Maccao Helm S,F Maccao Helm S,mhxx-dex-1.0,4
+187,F Velociprey Helm S,F Velociprey Helm S,mhxx-dex-1.0,4
+189,F Bulldrome Mask S,F Bulldrome Mask S,mhxx-dex-1.0,4
+191,F Arzuros Helm S,F Arzuros Helm S,mhxx-dex-1.0,4
+193,F Giaprey Helm,F Giaprey Helm,mhxx-dex-1.0,4
+195,F Genprey Helm S,F Genprey Helm S,mhxx-dex-1.0,4
+197,F Lagombi Helm S,F Lagombi Helm S,mhxx-dex-1.0,4
+199,F Cephalos Hat S,F Cephalos Hat S,mhxx-dex-1.0,4
+201,F Kut-Ku Mask S,F Kut-Ku Mask S,mhxx-dex-1.0,4
+203,F Gypceros Crest S,F Gypceros Crest S,mhxx-dex-1.0,4
+205,F Cabra Horn S,F Cabra Horn S,mhxx-dex-1.0,4
+207,F Daimyo Mask S,F Daimyo Mask S,mhxx-dex-1.0,4
+209,F Ludroth Helm S,F Ludroth Helm S,mhxx-dex-1.0,4
+211,F Conga Steeple,F Conga Steeple,mhxx-dex-1.0,4
+213,F Kecha Cap,F Kecha Cap,mhxx-dex-1.0,4
+215,F Barroth Helm,F Barroth Helm,mhxx-dex-1.0,4
+217,F Ladybug Cap,F Ladybug Cap,mhxx-dex-1.0,5
+219,F Lecturer's Hood,F Lecturer's Hood,mhxx-dex-1.0,5
+221,F Guide's Hood,F Guide's Hood,mhxx-dex-1.0,5
+223,F Sailor Hat,F Sailor Hat,mhxx-dex-1.0,5
+225,F Stone King Head,F Stone King Head,mhxx-dex-1.0,5
+227,F Venombee Cap S,F Venombee Cap S,mhxx-dex-1.0,5
+229,F Mosgharl Hat S,F Mosgharl Hat S,mhxx-dex-1.0,5
+231,F Marauder Helm S,F Marauder Helm S,mhxx-dex-1.0,5
+233,F Pleasant Ribbons,F Pleasant Ribbons,mhxx-dex-1.0,5
+235,F Wisdom Hat,F Wisdom Hat,mhxx-dex-1.0,5
+237,F Ioprey Helm S,F Ioprey Helm S,mhxx-dex-1.0,5
+239,F Volvi Helm S,F Volvi Helm S,mhxx-dex-1.0,5
+241,F Basarios Helm,F Basarios Helm,mhxx-dex-1.0,5
+243,F Khezu Catnurse S,F Khezu Catnurse S,mhxx-dex-1.0,5
+245,F Nibel Helm S,F Nibel Helm S,mhxx-dex-1.0,5
+247,F Malfestio Mask S,F Malfestio Mask S,mhxx-dex-1.0,5
+249,F Rathian Helm S,F Rathian Helm S,mhxx-dex-1.0,5
+251,F Blango Mask S,F Blango Mask S,mhxx-dex-1.0,5
+253,F Ceanataur Mask S,F Ceanataur Mask S,mhxx-dex-1.0,5
+255,F Scylla Mask,F Scylla Mask,mhxx-dex-1.0,5
+257,F Naja Turban S,F Naja Turban S,mhxx-dex-1.0,5
+259,F Narga Helm S,F Narga Helm S,mhxx-dex-1.0,5
+261,F Garuga Hood S,F Garuga Hood S,mhxx-dex-1.0,5
+263,F Uragaan Helm S,F Uragaan Helm S,mhxx-dex-1.0,5
+265,F Zamtrios Helmet,F Zamtrios Helmet,mhxx-dex-1.0,5
+267,F Plesioth Cap,F Plesioth Cap,mhxx-dex-1.0,5
+269,F Lava Helm,F Lava Helm,mhxx-dex-1.0,5
+271,F Edel Pigtails S,F Edel Pigtails S,mhxx-dex-1.0,6
+273,F Kittendant Hood S,F Kittendant Hood S,mhxx-dex-1.0,6
+275,F Acorn Mask,F Acorn Mask,mhxx-dex-1.0,6
+277,F Pincer Mask,F Pincer Mask,mhxx-dex-1.0,6
+279,F Chaos Bulbs+,F Chaos Bulbs+,mhxx-dex-1.0,6
+281,F Death Stench Hood S,F Death Stench Hood S,mhxx-dex-1.0,6
+283,F El Dora Helm S,F El Dora Helm S,mhxx-dex-1.0,6
+285,F Artian Core S,F Artian Core S,mhxx-dex-1.0,6
+287,F Cheerful Cap,F Cheerful Cap,mhxx-dex-1.0,6
+289,F Mariner Hood,F Mariner Hood,mhxx-dex-1.0,6
+291,F Lagia Triad S,F Lagia Triad S,mhxx-dex-1.0,6
+293,F Glavenus Helm S,F Glavenus Helm S,mhxx-dex-1.0,6
+295,F Astalos Mask S,F Astalos Mask S,mhxx-dex-1.0,6
+297,F Gammoth Collar S,F Gammoth Collar S,mhxx-dex-1.0,6
+299,F Mizutsune Kasa S,F Mizutsune Kasa S,mhxx-dex-1.0,6
+301,F Barioth Helm,F Barioth Helm,mhxx-dex-1.0,6
+303,F Rathalos Helm S,F Rathalos Helm S,mhxx-dex-1.0,6
+305,F Zinogre Helm S,F Zinogre Helm S,mhxx-dex-1.0,6
+307,F Grav Mask,F Grav Mask,mhxx-dex-1.0,6
+309,F Gore Horror S,F Gore Horror S,mhxx-dex-1.0,6
+311,F Tigrex Helm S,F Tigrex Helm S,mhxx-dex-1.0,6
+313,F Seltas Head,F Seltas Head,mhxx-dex-1.0,6
+315,F Agnaktor Helm,F Agnaktor Helm,mhxx-dex-1.0,6
+317,F Duram Helm,F Duram Helm,mhxx-dex-1.0,6
+319,F Kirin Horn S,F Kirin Horn S,mhxx-dex-1.0,6
+321,F Puppeteer Mask,F Puppeteer Mask,mhxx-dex-1.0,6
+323,F Vangis Helm,F Vangis Helm,mhxx-dex-1.0,6
+325,F Kut-Ku Mask R,F Kut-Ku Mask R,mhxx-dex-1.0,6
+327,F Kecha Cap R,F Kecha Cap R,mhxx-dex-1.0,6
+329,F Gypceros Crest R,F Gypceros Crest R,mhxx-dex-1.0,6
+331,F Cabra Horn R,F Cabra Horn R,mhxx-dex-1.0,6
+333,F Daimyo Mask R,F Daimyo Mask R,mhxx-dex-1.0,6
+335,F Ludroth Helm R,F Ludroth Helm R,mhxx-dex-1.0,6
+337,F Malfestio Mask R,F Malfestio Mask R,mhxx-dex-1.0,6
+339,F Zamtrios Helmet R,F Zamtrios Helmet R,mhxx-dex-1.0,6
+341,F Khezu Cap R,F Khezu Cap R,mhxx-dex-1.0,6
+343,F Rathian Helm R,F Rathian Helm R,mhxx-dex-1.0,6
+345,F Nibel Helm R,F Nibel Helm R,mhxx-dex-1.0,6
+347,F Plesioth Cap R,F Plesioth Cap R,mhxx-dex-1.0,6
+349,F Blango Mask R,F Blango Mask R,mhxx-dex-1.0,6
+351,F Scholarly Cap S,F Scholarly Cap S,mhxx-dex-1.0,7
+353,F Maiden Hood S,F Maiden Hood S,mhxx-dex-1.0,7
+355,F Helper Hood S,F Helper Hood S,mhxx-dex-1.0,7
+357,F Beautiful Toque,F Beautiful Toque,mhxx-dex-1.0,7
+359,F Ultimate Mask,F Ultimate Mask,mhxx-dex-1.0,7
+360,F Guild Headgear S,F Guild Headgear S,mhxx-dex-1.0,7
+362,F Soul Hairpiece,F Soul Hairpiece,mhxx-dex-1.0,7
+364,F Transpurrter Kasa,F Transpurrter Kasa,mhxx-dex-1.0,7
+366,F Dirty Locks,F Dirty Locks,mhxx-dex-1.0,7
+368,F D'Artanyan's Hat,F D'Artanyan's Hat,mhxx-dex-1.0,7
+370,F Master's Helm,F Master's Helm,mhxx-dex-1.0,7
+372,F Derring Galea S,F Derring Galea S,mhxx-dex-1.0,7
+374,F Seregios Helm S,F Seregios Helm S,mhxx-dex-1.0,7
+376,F Diablos Helm,F Diablos Helm,mhxx-dex-1.0,7
+378,F Brachy Noggin S,F Brachy Noggin S,mhxx-dex-1.0,7
+380,F Angel Aura S,F Angel Aura S,mhxx-dex-1.0,7
+382,F Valstrax Helm,F Valstrax Helm,mhxx-dex-1.0,7
+384,F Husk Mask S,F Husk Mask S,mhxx-dex-1.0,7
+386,F Nakarkos Mask,F Nakarkos Mask,mhxx-dex-1.0,7
+388,F Lava Helm R,F Lava Helm R,mhxx-dex-1.0,7
+390,F Ceanataur Mask R,F Ceanataur Mask R,mhxx-dex-1.0,7
+392,F Narga Helm R,F Narga Helm R,mhxx-dex-1.0,7
+394,F Naja Turban R,F Naja Turban R,mhxx-dex-1.0,7
+396,F Garuga Hood R,F Garuga Hood R,mhxx-dex-1.0,7
+398,F Uragaan Helm R,F Uragaan Helm R,mhxx-dex-1.0,7
+400,F Seltas Head R,F Seltas Head R,mhxx-dex-1.0,7
+402,F Rathalos Helm R,F Rathalos Helm R,mhxx-dex-1.0,7
+404,F Lagia Triad R,F Lagia Triad R,mhxx-dex-1.0,7
+406,F Zinogre Helm R,F Zinogre Helm R,mhxx-dex-1.0,7
+409,F Kushala Glower S,F Kushala Glower S,mhxx-dex-1.0,7
+411,F Genie Helm S,F Genie Helm S,mhxx-dex-1.0,7
+413,F Kaiser Crown,F Kaiser Crown,mhxx-dex-1.0,7
+415,F Akantor Visage,F Akantor Visage,mhxx-dex-1.0,7
+417,F Ukanlos Visage,F Ukanlos Visage,mhxx-dex-1.0,7
+419,F Majestic Crown,F Majestic Crown,mhxx-dex-1.0,7
+421,F Escador Wisdom,F Escador Wisdom,mhxx-dex-1.0,7
+423,F Mizutsune Kasa R,F Mizutsune Kasa R,mhxx-dex-1.0,7
+425,F Astalos Mask R,F Astalos Mask R,mhxx-dex-1.0,7
+427,F Gammoth Collar R,F Gammoth Collar R,mhxx-dex-1.0,7
+429,F Glavenus Helm R,F Glavenus Helm R,mhxx-dex-1.0,7
+431,F Agnaktor Helm R,F Agnaktor Helm R,mhxx-dex-1.0,7
+433,F Gore Horror R,F Gore Horror R,mhxx-dex-1.0,7
+435,F Seregios Helm R,F Seregios Helm R,mhxx-dex-1.0,7
+437,F Duram Helm R,F Duram Helm R,mhxx-dex-1.0,7
+439,F Tigrex Helm R,F Tigrex Helm R,mhxx-dex-1.0,7
+441,F Brachy Head R,F Brachy Head R,mhxx-dex-1.0,7
+443,F Puppeteer Mask R,F Puppeteer Mask R,mhxx-dex-1.0,7
+445,F Vangis Helm R,F Vangis Helm R,mhxx-dex-1.0,7
+447,F Acorn Helm X,F Acorn Helm X,mhxx-dex-1.0,8
+449,F Bherna Hood X,F Bherna Hood X,mhxx-dex-1.0,8
+451,F Gourmet Toque X,F Gourmet Toque X,mhxx-dex-1.0,8
+453,F Moofy Head X,F Moofy Head X,mhxx-dex-1.0,8
+455,F Aptonoth Mask X,F Aptonoth Mask X,mhxx-dex-1.0,8
+457,F Popo Head X,F Popo Head X,mhxx-dex-1.0,8
+459,F Gargwa Mask X,F Gargwa Mask X,mhxx-dex-1.0,8
+461,F Larinoth Mask X,F Larinoth Mask X,mhxx-dex-1.0,8
+464,F Alloy Helm X,F Alloy Helm X,mhxx-dex-1.0,8
+466,F Bone Helm X,F Bone Helm X,mhxx-dex-1.0,8
+468,F Alta Hat X,F Alta Hat X,mhxx-dex-1.0,8
+470,F Bnaha Cap X,F Bnaha Cap X,mhxx-dex-1.0,8
+472,F Jaggi Helm X,F Jaggi Helm X,mhxx-dex-1.0,8
+474,F Rheno Helm X,F Rheno Helm X,mhxx-dex-1.0,8
+476,F Slagtoth Hood X,F Slagtoth Hood X,mhxx-dex-1.0,8
+478,F Maccao Helm X,F Maccao Helm X,mhxx-dex-1.0,8
+480,F Velociprey Helm X,F Velociprey Helm X,mhxx-dex-1.0,8
+482,F Bulldrome Mask X,F Bulldrome Mask X,mhxx-dex-1.0,8
+484,F Arzuros Helm X,F Arzuros Helm X,mhxx-dex-1.0,8
+486,F Giaprey Helm X,F Giaprey Helm X,mhxx-dex-1.0,8
+488,F Genprey Helm X,F Genprey Helm X,mhxx-dex-1.0,8
+490,F Lagombi Helm X,F Lagombi Helm X,mhxx-dex-1.0,8
+492,F Cephalos Hat X,F Cephalos Hat X,mhxx-dex-1.0,8
+494,F Kut-Ku Mask X,F Kut-Ku Mask X,mhxx-dex-1.0,8
+496,F Gypceros Crest X,F Gypceros Crest X,mhxx-dex-1.0,8
+498,F Cabra Horn X,F Cabra Horn X,mhxx-dex-1.0,8
+500,F Daimyo Mask X,F Daimyo Mask X,mhxx-dex-1.0,8
+502,F Ludroth Helm X,F Ludroth Helm X,mhxx-dex-1.0,8
+504,F Kecha Cap X,F Kecha Cap X,mhxx-dex-1.0,8
+506,F Maiden Hood X,F Maiden Hood X,mhxx-dex-1.0,9
+508,F Exquisite Toque,F Exquisite Toque,mhxx-dex-1.0,9
+510,F Ladybug Cap X,F Ladybug Cap X,mhxx-dex-1.0,9
+512,F Odd Acorn Mask,F Odd Acorn Mask,mhxx-dex-1.0,9
+514,F Odd Pincer Mask,F Odd Pincer Mask,mhxx-dex-1.0,9
+516,F Lecturer's Hood X,F Lecturer's Hood X,mhxx-dex-1.0,9
+518,F Stone God Head,F Stone God Head,mhxx-dex-1.0,9
+520,F Venombee Cap X,F Venombee Cap X,mhxx-dex-1.0,9
+522,F Mosgharl Hat X,F Mosgharl Hat X,mhxx-dex-1.0,9
+524,F Marauder Helm X,F Marauder Helm X,mhxx-dex-1.0,9
+526,F Pleasant Ribbons X,F Pleasant Ribbons X,mhxx-dex-1.0,9
+528,F Wisdom Hat X,F Wisdom Hat X,mhxx-dex-1.0,9
+530,F Postman Beret X,F Postman Beret X,mhxx-dex-1.0,9
+532,F Ioprey Helm X,F Ioprey Helm X,mhxx-dex-1.0,9
+534,F Volvi Helm X,F Volvi Helm X,mhxx-dex-1.0,9
+536,F Basarios Helm X,F Basarios Helm X,mhxx-dex-1.0,9
+538,F Conga Steeple X,F Conga Steeple X,mhxx-dex-1.0,9
+540,F Barroth Helm X,F Barroth Helm X,mhxx-dex-1.0,9
+542,F Khezu Catnurse X,F Khezu Catnurse X,mhxx-dex-1.0,9
+544,F Nibel Helm X,F Nibel Helm X,mhxx-dex-1.0,9
+546,F Malfestio Mask X,F Malfestio Mask X,mhxx-dex-1.0,9
+548,F Rathian Helm X,F Rathian Helm X,mhxx-dex-1.0,9
+550,F Blango Mask X,F Blango Mask X,mhxx-dex-1.0,9
+552,F Ceanataur Mask X,F Ceanataur Mask X,mhxx-dex-1.0,9
+554,F Scylla Mask X,F Scylla Mask X,mhxx-dex-1.0,9
+556,F Naja Turban X,F Naja Turban X,mhxx-dex-1.0,9
+558,F Narga Helm X,F Narga Helm X,mhxx-dex-1.0,9
+560,F Zamtrios Helmet X,F Zamtrios Helmet X,mhxx-dex-1.0,9
+562,F Plesioth Cap X,F Plesioth Cap X,mhxx-dex-1.0,9
+564,F Kut-Ku Mask XR,F Kut-Ku Mask XR,mhxx-dex-1.0,9
+566,F Kecha Cap XR,F Kecha Cap XR,mhxx-dex-1.0,9
+568,F Gypceros Crest XR,F Gypceros Crest XR,mhxx-dex-1.0,9
+570,F Cabra Horn XR,F Cabra Horn XR,mhxx-dex-1.0,9
+572,F Daimyo Mask XR,F Daimyo Mask XR,mhxx-dex-1.0,9
+574,F Ludroth Helm XR,F Ludroth Helm XR,mhxx-dex-1.0,9
+576,F Scholarly Cap X,F Scholarly Cap X,mhxx-dex-1.0,9
+578,F Kittendant Hood X,F Kittendant Hood X,mhxx-dex-1.0,9
+580,F Derring Galea X,F Derring Galea X,mhxx-dex-1.0,9
+582,F Transpurrrrter Kasa,F Transpurrrrter Kasa,mhxx-dex-1.0,9
+584,F Ultimate Mask+,F Ultimate Mask+,mhxx-dex-1.0,9
+585,F Guide's Hood X,F Guide's Hood X,mhxx-dex-1.0,9
+587,F Sailor Hat X,F Sailor Hat X,mhxx-dex-1.0,9
+589,F Grand Chaos Bulbs,F Grand Chaos Bulbs,mhxx-dex-1.0,9
+591,F Death Stench Hood X,F Death Stench Hood X,mhxx-dex-1.0,9
+593,F El Dora Helm X,F El Dora Helm X,mhxx-dex-1.0,9
+595,F Artian Core X,F Artian Core X,mhxx-dex-1.0,9
+597,F Cheerful Cap X,F Cheerful Cap X,mhxx-dex-1.0,9
+599,F Mariner Hood X,F Mariner Hood X,mhxx-dex-1.0,9
+601,F Cute Ribbon,F Cute Ribbon,mhxx-dex-1.0,9
+603,F Garuga Hood X,F Garuga Hood X,mhxx-dex-1.0,9
+605,F Uragaan Helm X,F Uragaan Helm X,mhxx-dex-1.0,9
+607,F Lava Helm X,F Lava Helm X,mhxx-dex-1.0,9
+609,F Lagia Triad X,F Lagia Triad X,mhxx-dex-1.0,9
+611,F Glavenus Helm X,F Glavenus Helm X,mhxx-dex-1.0,9
+613,F Astalos Mask X,F Astalos Mask X,mhxx-dex-1.0,9
+615,F Gammoth Collar X,F Gammoth Collar X,mhxx-dex-1.0,9
+617,F Mizutsune Kasa X,F Mizutsune Kasa X,mhxx-dex-1.0,9
+619,F Barioth Helm X,F Barioth Helm X,mhxx-dex-1.0,9
+621,F Rathalos Helm X,F Rathalos Helm X,mhxx-dex-1.0,9
+623,F Zinogre Helm X,F Zinogre Helm X,mhxx-dex-1.0,9
+625,F Grav Mask X,F Grav Mask X,mhxx-dex-1.0,9
+627,F Gore Horror X,F Gore Horror X,mhxx-dex-1.0,9
+629,F Tigrex Helm X,F Tigrex Helm X,mhxx-dex-1.0,9
+631,F Seltas Head X,F Seltas Head X,mhxx-dex-1.0,9
+633,F Kirin Horn X,F Kirin Horn X,mhxx-dex-1.0,9
+635,F Borealis Crown,F Borealis Crown,mhxx-dex-1.0,9
+637,F Basarios Helm XR,F Basarios Helm XR,mhxx-dex-1.0,9
+639,F Conga Steeple XR,F Conga Steeple XR,mhxx-dex-1.0,9
+641,F Barroth Helm XR,F Barroth Helm XR,mhxx-dex-1.0,9
+643,F Khezu Cap XR,F Khezu Cap XR,mhxx-dex-1.0,9
+645,F Nibel Helm XR,F Nibel Helm XR,mhxx-dex-1.0,9
+647,F Malfestio Mask XR,F Malfestio Mask XR,mhxx-dex-1.0,9
+649,F Rathian Helm XR,F Rathian Helm XR,mhxx-dex-1.0,9
+651,F Blango Mask XR,F Blango Mask XR,mhxx-dex-1.0,9
+653,F Ceanataur Mask XR,F Ceanataur Mask XR,mhxx-dex-1.0,9
+655,F Scylla Mask XR,F Scylla Mask XR,mhxx-dex-1.0,9
+657,F Naja Turban XR,F Naja Turban XR,mhxx-dex-1.0,9
+659,F Narga Helm XR,F Narga Helm XR,mhxx-dex-1.0,9
+661,F Zamtrios Helmet XR,F Zamtrios Helmet XR,mhxx-dex-1.0,9
+663,F Plesioth Cap XR,F Plesioth Cap XR,mhxx-dex-1.0,9
+665,F Guild Headgear X,F Guild Headgear X,mhxx-dex-1.0,10
+667,F Spirit Hairpiece,F Spirit Hairpiece,mhxx-dex-1.0,10
+669,F Pro Dirty Locks,F Pro Dirty Locks,mhxx-dex-1.0,10
+671,F D'Artanyan Hero Hat,F D'Artanyan Hero Hat,mhxx-dex-1.0,10
+673,F Master's Helm X,F Master's Helm X,mhxx-dex-1.0,10
+675,F Barmaid's Cap,F Barmaid's Cap,mhxx-dex-1.0,10
+677,F Barman's Shades,F Barman's Shades,mhxx-dex-1.0,10
+679,F Agnaktor Helm X,F Agnaktor Helm X,mhxx-dex-1.0,10
+681,F Duram Helm X,F Duram Helm X,mhxx-dex-1.0,10
+683,F Seregios Helm X,F Seregios Helm X,mhxx-dex-1.0,10
+685,F Diablos Helm X,F Diablos Helm X,mhxx-dex-1.0,10
+687,F Brachy Noggin X,F Brachy Noggin X,mhxx-dex-1.0,10
+689,F Angel Aura X,F Angel Aura X,mhxx-dex-1.0,10
+691,F Valstrax Helm X,F Valstrax Helm X,mhxx-dex-1.0,10
+693,F Puppeteer Mask+,F Puppeteer Mask+,mhxx-dex-1.0,10
+695,F Vangis Helm X,F Vangis Helm X,mhxx-dex-1.0,10
+697,F Chaos Hood,F Chaos Hood,mhxx-dex-1.0,10
+699,F Kushala Snarl X,F Kushala Snarl X,mhxx-dex-1.0,10
+701,F Genie Helm X,F Genie Helm X,mhxx-dex-1.0,10
+703,F Kaiser Crown X,F Kaiser Crown X,mhxx-dex-1.0,10
+705,F Husk Mask X,F Husk Mask X,mhxx-dex-1.0,10
+707,F Nakarkos Mask X,F Nakarkos Mask X,mhxx-dex-1.0,10
+709,F Neset Helm,F Neset Helm,mhxx-dex-1.0,10
+711,F Garuga Hood XR,F Garuga Hood XR,mhxx-dex-1.0,10
+713,F Uragaan Helm XR,F Uragaan Helm XR,mhxx-dex-1.0,10
+715,F Lava Helm XR,F Lava Helm XR,mhxx-dex-1.0,10
+717,F Lagia Triad XR,F Lagia Triad XR,mhxx-dex-1.0,10
+719,F Glavenus Helm XR,F Glavenus Helm XR,mhxx-dex-1.0,10
+721,F Astalos Mask XR,F Astalos Mask XR,mhxx-dex-1.0,10
+723,F Gammoth Collar XR,F Gammoth Collar XR,mhxx-dex-1.0,10
+725,F Mizutsune Kasa XR,F Mizutsune Kasa XR,mhxx-dex-1.0,10
+727,F Barioth Helm XR,F Barioth Helm XR,mhxx-dex-1.0,10
+729,F Rathalos Helm XR,F Rathalos Helm XR,mhxx-dex-1.0,10
+731,F Zinogre Helm XR,F Zinogre Helm XR,mhxx-dex-1.0,10
+733,F Grav Mask XR,F Grav Mask XR,mhxx-dex-1.0,10
+735,F Gore Horror XR,F Gore Horror XR,mhxx-dex-1.0,10
+737,F Rex Helm XR,F Rex Helm XR,mhxx-dex-1.0,10
+739,F Seltas Head XR,F Seltas Head XR,mhxx-dex-1.0,10
+741,F Hunting Helm X,F Hunting Helm X,mhxx-dex-1.0,10
+743,F Mafumofu Hood X,F Mafumofu Hood X,mhxx-dex-1.0,10
+745,F Yukumo Kasa X,F Yukumo Kasa X,mhxx-dex-1.0,10
+747,F Helper Hood X,F Helper Hood X,mhxx-dex-1.0,10
+749,F Edel Pigtails X,F Edel Pigtails X,mhxx-dex-1.0,10
+752,F Akantor Visage X,F Akantor Visage X,mhxx-dex-1.0,10
+754,F Ukanlos Visage X,F Ukanlos Visage X,mhxx-dex-1.0,10
+756,F Grand Majestic Crown,F Grand Majestic Crown,mhxx-dex-1.0,10
+758,F Escador Wisdom X,F Escador Wisdom X,mhxx-dex-1.0,10
+760,F Dragon Helm,F Dragon Helm,mhxx-dex-1.0,10
+762,F Fatalis Crimsonhelm,F Fatalis Crimsonhelm,mhxx-dex-1.0,10
+764,F Old Fatalis Helm,F Old Fatalis Helm,mhxx-dex-1.0,10
+766,F Agnaktor Helm XR,F Agnaktor Helm XR,mhxx-dex-1.0,10
+768,F Duram Helm XR,F Duram Helm XR,mhxx-dex-1.0,10
+770,F Seregios Helm XR,F Seregios Helm XR,mhxx-dex-1.0,10
+772,F Diablos Helm XR,F Diablos Helm XR,mhxx-dex-1.0,10
+774,F Brachy Head XR,F Brachy Head XR,mhxx-dex-1.0,10
+776,F Puppeteer Mask XR,F Puppeteer Mask XR,mhxx-dex-1.0,10
+778,F Vangis Helm XR,F Vangis Helm XR,mhxx-dex-1.0,10
+780,F Strange Helm,F Strange Helm,mhxx-dex-1.0,11
+782,F Strange Helm S,F Strange Helm S,mhxx-dex-1.0,11
+784,F Strange Helm X,F Strange Helm X,mhxx-dex-1.0,11
+786,F Strange Helm XX,F Strange Helm XX,mhxx-dex-1.0,11
+788,F Redhelm Helm,F Redhelm Helm,mhxx-dex-1.0,11
+790,F Redhelm Helm S,F Redhelm Helm S,mhxx-dex-1.0,11
+792,F Redhelm Helm X,F Redhelm Helm X,mhxx-dex-1.0,11
+794,F Redhelm Helm XX,F Redhelm Helm XX,mhxx-dex-1.0,11
+796,F Snowbaron Helm,F Snowbaron Helm,mhxx-dex-1.0,11
+798,F Snowbaron Helm S,F Snowbaron Helm S,mhxx-dex-1.0,11
+800,F Snowbaron Helm X,F Snowbaron Helm X,mhxx-dex-1.0,11
+802,F Snowbaron Helm XX,F Snowbaron Helm XX,mhxx-dex-1.0,11
+804,F Stonefist Mask,F Stonefist Mask,mhxx-dex-1.0,11
+806,F Stonefist Mask S,F Stonefist Mask S,mhxx-dex-1.0,11
+808,F Stonefist Mask X,F Stonefist Mask X,mhxx-dex-1.0,11
+810,F Stonefist Mask XX,F Stonefist Mask XX,mhxx-dex-1.0,11
+812,F Dreadqueen Helm,F Dreadqueen Helm,mhxx-dex-1.0,11
+814,F Dreadqueen Helm S,F Dreadqueen Helm S,mhxx-dex-1.0,11
+816,F Dreadqueen Helm X,F Dreadqueen Helm X,mhxx-dex-1.0,11
+818,F Dreadqueen Helm XX,F Dreadqueen Helm XX,mhxx-dex-1.0,11
+820,F Drilltusk Horn,F Drilltusk Horn,mhxx-dex-1.0,11
+822,F Drilltusk Horn S,F Drilltusk Horn S,mhxx-dex-1.0,11
+824,F Drilltusk Horn X,F Drilltusk Horn X,mhxx-dex-1.0,11
+826,F Drilltusk Horn XX,F Drilltusk Horn XX,mhxx-dex-1.0,11
+828,F Nightcloak Mask X,F Nightcloak Mask X,mhxx-dex-1.0,11
+830,F Nightcloak Mask XX,F Nightcloak Mask XX,mhxx-dex-1.0,11
+832,F Rustrazor Mask X,F Rustrazor Mask X,mhxx-dex-1.0,11
+834,F Rustrazor Mask XX,F Rustrazor Mask XX,mhxx-dex-1.0,11
+836,F Silverwind Helm,F Silverwind Helm,mhxx-dex-1.0,11
+838,F Silverwind Helm S,F Silverwind Helm S,mhxx-dex-1.0,11
+840,F Silverwind Helm X,F Silverwind Helm X,mhxx-dex-1.0,11
+842,F Silverwind Helm XX,F Silverwind Helm XX,mhxx-dex-1.0,11
+844,F Crystalbeard Helm,F Crystalbeard Helm,mhxx-dex-1.0,11
+846,F Crystalbeard Helm S,F Crystalbeard Helm S,mhxx-dex-1.0,11
+848,F Crystalbeard Helm X,F Crystalbeard Helm X,mhxx-dex-1.0,11
+850,F Crystalbeard Helm XX,F Crystalbeard Helm XX,mhxx-dex-1.0,11
+852,F Deadeye Hood,F Deadeye Hood,mhxx-dex-1.0,11
+854,F Deadeye Hood S,F Deadeye Hood S,mhxx-dex-1.0,11
+856,F Deadeye Hood X,F Deadeye Hood X,mhxx-dex-1.0,11
+858,F Deadeye Hood XX,F Deadeye Hood XX,mhxx-dex-1.0,11
+860,F Dreadking Helm,F Dreadking Helm,mhxx-dex-1.0,11
+862,F Dreadking Helm S,F Dreadking Helm S,mhxx-dex-1.0,11
+864,F Dreadking Helm X,F Dreadking Helm X,mhxx-dex-1.0,11
+866,F Dreadking Helm XX,F Dreadking Helm XX,mhxx-dex-1.0,11
+868,F Thunderlord Helm,F Thunderlord Helm,mhxx-dex-1.0,11
+870,F Thunderlord Helm S,F Thunderlord Helm S,mhxx-dex-1.0,11
+872,F Thunderlord Helm X,F Thunderlord Helm X,mhxx-dex-1.0,11
+874,F Thunderlord Helm XX,F Thunderlord Helm XX,mhxx-dex-1.0,11
+876,F Grimclaw Helm,F Grimclaw Helm,mhxx-dex-1.0,11
+878,F Grimclaw Helm S,F Grimclaw Helm S,mhxx-dex-1.0,11
+880,F Grimclaw Helm X,F Grimclaw Helm X,mhxx-dex-1.0,11
+882,F Grimclaw Helm XX,F Grimclaw Helm XX,mhxx-dex-1.0,11
+884,F Hellblade Helm,F Hellblade Helm,mhxx-dex-1.0,11
+886,F Hellblade Helm S,F Hellblade Helm S,mhxx-dex-1.0,11
+888,F Hellblade Helm X,F Hellblade Helm X,mhxx-dex-1.0,11
+890,F Hellblade Helm XX,F Hellblade Helm XX,mhxx-dex-1.0,11
+892,F Soulseer Kasa X,F Soulseer Kasa X,mhxx-dex-1.0,11
+894,F Soulseer Kasa XX,F Soulseer Kasa XX,mhxx-dex-1.0,11
+896,F Boltreaver Mask X,F Boltreaver Mask X,mhxx-dex-1.0,11
+898,F Boltreaver Mask XX,F Boltreaver Mask XX,mhxx-dex-1.0,11
+900,F Elderfrost Collar X,F Elderfrost Collar X,mhxx-dex-1.0,11
+902,F Elderfrost Collar XX,F Elderfrost Collar XX,mhxx-dex-1.0,11
+904,F Bloodbath Helm X,F Bloodbath Helm X,mhxx-dex-1.0,11
+906,F Bloodbath Helm XX,F Bloodbath Helm XX,mhxx-dex-1.0,11
+910,F Treasure Crown J,F Treasure Crown J,mhxx-dex-1.0,3
+912,F Pirate Bandanna J,F Pirate Bandanna J,mhxx-dex-1.0,3
+914,F Legendary Helm J,F Legendary Helm J,mhxx-dex-1.0,3
+916,F Greedy Skull J,F Greedy Skull J,mhxx-dex-1.0,3
+919,F Monqlo Cap,F Monqlo Cap,mhxx-dex-1.0,3
+921,[JP] F Meowstar Helm,[JP] F Meowstar Helm,mhxx-dex-1.0,3
+923,F Baby Tiga Hat,F Baby Tiga Hat,mhxx-dex-1.0,3
+925,[JP] F Spirit Helm,[JP] F Spirit Helm,mhxx-dex-1.0,3
+928,[JP] F Nyatfire Kasa,[JP] F Nyatfire Kasa,mhxx-dex-1.0,3
+931,F Postman Beret,F Postman Beret,mhxx-dex-1.0,7
+933,F Booyah Pompadour,F Booyah Pompadour,mhxx-dex-1.0,7
+935,F Sohoku Helmet,F Sohoku Helmet,mhxx-dex-1.0,7
+940,F Dark Meowgic Hood,F Dark Meowgic Hood,mhxx-dex-1.0,7
+942,F Booty Crown J,F Booty Crown J,mhxx-dex-1.0,7
+944,F Buccaneer Bandanna J,F Buccaneer Bandanna J,mhxx-dex-1.0,7
+946,F King Helm J,F King Helm J,mhxx-dex-1.0,7
+948,F Avaricious Skull J,F Avaricious Skull J,mhxx-dex-1.0,7
+951,F Monqlo Cap S,F Monqlo Cap S,mhxx-dex-1.0,7
+953,[JP] F Supreme Helm,[JP] F Supreme Helm,mhxx-dex-1.0,7
+955,[JP] F Star Hat,[JP] F Star Hat,mhxx-dex-1.0,7
+957,[JP] F Magical Hat,[JP] F Magical Hat,mhxx-dex-1.0,7
+960,[JP] F Nyankyrie Head,[JP] F Nyankyrie Head,mhxx-dex-1.0,7
+962,F Link Mask,F Link Mask,mhxx-dex-1.0,7
+964,F Fox Mic,F Fox Mic,mhxx-dex-1.0,7
+966,F Mario Cap,F Mario Cap,mhxx-dex-1.0,7
+968,F Luigi Cap,F Luigi Cap,mhxx-dex-1.0,7
+972,F Helm of Purrity,F Helm of Purrity,mhxx-dex-1.0,7
+974,F Chun Chignon,F Chun Chignon,mhxx-dex-1.0,7
+977,F Dante Wig,F Dante Wig,mhxx-dex-1.0,7
+979,F Mega Helmet,F Mega Helmet,mhxx-dex-1.0,7
+981,F Melodic Curls,F Melodic Curls,mhxx-dex-1.0,7
+983,F Baby Tiga Hat S,F Baby Tiga Hat S,mhxx-dex-1.0,7
+985,F Sunsnug Mask,F Sunsnug Mask,mhxx-dex-1.0,7
+987,[JP] F Spirits Helm S,[JP] F Spirits Helm S,mhxx-dex-1.0,7
+989,F Meowniac's Mask,F Meowniac's Mask,mhxx-dex-1.0,7
+991,F Pep Squad Cap,F Pep Squad Cap,mhxx-dex-1.0,7
+994,[JP] F Nyatfire Kasa+,[JP] F Nyatfire Kasa+,mhxx-dex-1.0,7
+996,F Okami Hood,F Okami Hood,mhxx-dex-1.0,7
+998,F Arthur's Helm,F Arthur's Helm,mhxx-dex-1.0,7
+1001,F Detective Specs,F Detective Specs,mhxx-dex-1.0,7
+1005,F Okami Hood X,F Okami Hood X,mhxx-dex-1.0,10
+1007,F Arthur's Helm X,F Arthur's Helm X,mhxx-dex-1.0,10
+1010,F Detective Specs X,F Detective Specs X,mhxx-dex-1.0,10
+1014,F Tesshou Head,F Tesshou Head,mhxx-dex-1.0,10
+1016,F Booyah Pompadour X,F Booyah Pompadour X,mhxx-dex-1.0,10
+1019,F Phoenix Wig,F Phoenix Wig,mhxx-dex-1.0,10
+1021,F Kittyback Hat,F Kittyback Hat,mhxx-dex-1.0,10
+1023,[JP] F Nyatfire Kasa Z,[JP] F Nyatfire Kasa Z,mhxx-dex-1.0,10

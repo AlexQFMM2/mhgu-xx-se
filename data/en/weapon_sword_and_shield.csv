@@ -1,0 +1,130 @@
+id,name,english,source,rarity,max_level
+0,None,None,mhxx-save-format-community,0,0
+1,Petrified Sword,Petrified Sword,mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Obsidian Sword,Obsidian Sword,mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,Dios Edge,Dios Edge,mhxx-dex-1.0+mhxx-save-format-community,3,7
+4,Demolition Cutter,Demolition Cutter,mhxx-dex-1.0+mhxx-save-format-community,6,6
+5,Hidden Edge,Hidden Edge,mhxx-dex-1.0+mhxx-save-format-community,2,8
+6,Frost Edge,Frost Edge,mhxx-dex-1.0+mhxx-save-format-community,2,7
+7,Velocidrome Bite,Velocidrome Bite,mhxx-dex-1.0+mhxx-save-format-community,1,7
+8,Raven Blade,Raven Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
+9,Spiked Circle,Spiked Circle,mhxx-dex-1.0+mhxx-save-format-community,2,8
+10,Shura Fan,Shura Fan,mhxx-dex-1.0+mhxx-save-format-community,2,9
+11,Hunter's Knife,Hunter's Knife,mhxx-dex-1.0+mhxx-save-format-community,1,11
+12,Odyssey Blade,Odyssey Blade,mhxx-dex-1.0+mhxx-save-format-community,4,6
+13,Hunter's Dagger,Hunter's Dagger,mhxx-dex-1.0+mhxx-save-format-community,2,8
+14,Heavy Bang,Heavy Bang,mhxx-dex-1.0+mhxx-save-format-community,3,6
+15,Baumfäller,Baumfäller,mhxx-dex-1.0+mhxx-save-format-community,6,5
+16,Dual Carapace,Dual Carapace,mhxx-dex-1.0+mhxx-save-format-community,2,8
+17,Lava Pick,Lava Pick,mhxx-dex-1.0+mhxx-save-format-community,2,8
+18,Soldier's Dagger,Soldier's Dagger,mhxx-dex-1.0+mhxx-save-format-community,1,8
+19,Usurper's Firebolt,Usurper's Firebolt,mhxx-dex-1.0+mhxx-save-format-community,3,7
+20,Princess Rapier,Princess Rapier,mhxx-dex-1.0+mhxx-save-format-community,3,8
+21,Lunatic Rose,Lunatic Rose,mhxx-dex-1.0+mhxx-save-format-community,7,5
+22,Khezu Razor,Khezu Razor,mhxx-dex-1.0+mhxx-save-format-community,2,7
+23,Serpent Bite,Serpent Bite,mhxx-dex-1.0+mhxx-save-format-community,1,9
+24,Viper Bite,Viper Bite,mhxx-dex-1.0+mhxx-save-format-community,1,7
+25,Hydra Bite,Hydra Bite,mhxx-dex-1.0+mhxx-save-format-community,1,8
+26,Snake Bite,Snake Bite,mhxx-dex-1.0+mhxx-save-format-community,1,8
+27,Naab Sword,Naab Sword,mhxx-dex-1.0+mhxx-save-format-community,3,7
+28,Seditious Fang,Seditious Fang,mhxx-dex-1.0+mhxx-save-format-community,6,6
+29,Bone Kris,Bone Kris,mhxx-dex-1.0+mhxx-save-format-community,1,11
+30,Djinn,Djinn,mhxx-dex-1.0+mhxx-save-format-community,3,8
+31,Corona,Corona,mhxx-dex-1.0+mhxx-save-format-community,6,5
+32,Golden Falchion,Golden Falchion,mhxx-dex-1.0+mhxx-save-format-community,7,5
+33,Bone Pick,Bone Pick,mhxx-dex-1.0+mhxx-save-format-community,2,9
+34,Rajang Club,Rajang Club,mhxx-dex-1.0+mhxx-save-format-community,6,6
+35,Demonlord Mace,Demonlord Mace,mhxx-dex-1.0+mhxx-save-format-community,7,5
+36,Weary Finsword,Weary Finsword,mhxx-dex-1.0+mhxx-save-format-community,5,6
+37,Thunderbane,Thunderbane,mhxx-dex-1.0+mhxx-save-format-community,2,7
+38,Ludroth's Nail,Ludroth's Nail,mhxx-dex-1.0+mhxx-save-format-community,1,7
+39,Royal Claw,Royal Claw,mhxx-dex-1.0+mhxx-save-format-community,2,8
+40,Rex Talon,Rex Talon,mhxx-dex-1.0+mhxx-save-format-community,3,7
+41,Gigas Club,Gigas Club,mhxx-dex-1.0+mhxx-save-format-community,3,8
+42,Bone Tabar,Bone Tabar,mhxx-dex-1.0+mhxx-save-format-community,1,7
+43,Sharkutter,Sharkutter,mhxx-dex-1.0+mhxx-save-format-community,4,6
+44,Sharfin Sword,Sharfin Sword,mhxx-dex-1.0+mhxx-save-format-community,5,5
+45,Lagia Sword,Lagia Sword,mhxx-dex-1.0+mhxx-save-format-community,3,7
+46,Storm Sword,Storm Sword,mhxx-dex-1.0+mhxx-save-format-community,6,6
+47,Poison Axe,Poison Axe,mhxx-dex-1.0+mhxx-save-format-community,2,9
+48,Brash Buddies,Brash Buddies,mhxx-dex-1.0+mhxx-save-format-community,1,8
+49,Secta Nulo,Secta Nulo,mhxx-dex-1.0+mhxx-save-format-community,1,9
+50,Secta Nulo (G),Secta Nulo (G),mhxx-dex-1.0+mhxx-save-format-community,2,8
+51,Secta Nulo (R),Secta Nulo (R),mhxx-dex-1.0+mhxx-save-format-community,2,8
+52,Celestial Sword,Celestial Sword,mhxx-dex-1.0+mhxx-save-format-community,4,6
+53,Cross Sword,Cross Sword,mhxx-dex-1.0+mhxx-save-format-community,6,6
+54,Verdant Rapier,Verdant Rapier,mhxx-dex-1.0+mhxx-save-format-community,3,9
+55,Giant's Tusk,Giant's Tusk,mhxx-dex-1.0+mhxx-save-format-community,3,9
+56,Hana no Nagoriwo,Hana no Nagoriwo,mhxx-dex-1.0+mhxx-save-format-community,3,9
+57,Burning Prominar,Burning Prominar,mhxx-dex-1.0+mhxx-save-format-community,3,9
+58,Sucher-Ankh,Sucher-Ankh,mhxx-dex-1.0+mhxx-save-format-community,3,7
+59,Le Détecteur,Le Détecteur,mhxx-dex-1.0+mhxx-save-format-community,3,8
+60,Kirin Bolt Ultimus,Kirin Bolt Ultimus,mhxx-dex-1.0+mhxx-save-format-community,3,8
+61,Skeletal Blade,Skeletal Blade,mhxx-dex-1.0+mhxx-save-format-community,3,7
+62,Astral Taurus,Astral Taurus,mhxx-dex-1.0+mhxx-save-format-community,7,5
+63,Akantor Duo,Akantor Duo,mhxx-dex-1.0+mhxx-save-format-community,7,5
+64,Ukanlos Soul Hatchet,Ukanlos Soul Hatchet,mhxx-dex-1.0+mhxx-save-format-community,7,5
+65,Alatreon Sword,Alatreon Sword,mhxx-dex-1.0+mhxx-save-format-community,7,5
+66,Ominous Treasure,Ominous Treasure,mhxx-dex-1.0+mhxx-save-format-community,7,5
+67,Rusted Sword,Rusted Sword,mhxx-dex-1.0+mhxx-save-format-community,1,3
+68,Eternal Strife,Eternal Strife,mhxx-dex-1.0+mhxx-save-format-community,3,6
+69,Icesteel Dagger,Icesteel Dagger,mhxx-dex-1.0+mhxx-save-format-community,3,6
+70,Worn Sword,Worn Sword,mhxx-dex-1.0+mhxx-save-format-community,4,7
+71,Divine Exodus,Divine Exodus,mhxx-dex-1.0+mhxx-save-format-community,6,5
+72,Teostra's Spada,Teostra's Spada,mhxx-dex-1.0+mhxx-save-format-community,7,5
+73,Tusk Gear,Tusk Gear,mhxx-dex-1.0+mhxx-save-format-community,2,8
+74,Black Sword,Black Sword,mhxx-dex-1.0+mhxx-save-format-community,3,7
+75,Yukumo Cutter,Yukumo Cutter,mhxx-dex-1.0+mhxx-save-format-community,1,8
+76,Yukumo Pure Cutter,Yukumo Pure Cutter,mhxx-dex-1.0+mhxx-save-format-community,3,6
+77,Moofah Sword,Moofah Sword,mhxx-dex-1.0+mhxx-save-format-community,2,6
+78,Hero's Blade,Hero's Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
+79,Dragonseal Sword,Dragonseal Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+80,Kitchen Knife,Kitchen Knife,mhxx-dex-1.0+mhxx-save-format-community,2,6
+81,Chak Chak,Chak Chak,mhxx-dex-1.0+mhxx-save-format-community,2,6
+82,Floral Seif,Floral Seif,mhxx-dex-1.0+mhxx-save-format-community,3,6
+83,Ninja Sword,Ninja Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+84,Shining Wyvern Blade,Shining Wyvern Blade,mhxx-dex-1.0+mhxx-save-format-community,5,6
+85,Catspaw,Catspaw,mhxx-dex-1.0+mhxx-save-format-community,2,6
+86,Melynx Tool,Melynx Tool,mhxx-dex-1.0+mhxx-save-format-community,5,5
+87,Eldora Closure,Eldora Closure,mhxx-dex-1.0+mhxx-save-format-community,2,7
+88,Black Belt Sword,Black Belt Sword,mhxx-dex-1.0+mhxx-save-format-community,3,6
+89,Dreadqueen Rapier,Dreadqueen Rapier,mhxx-dex-1.0+mhxx-save-format-community,11,15
+90,Drilltusk Truncheon,Drilltusk Truncheon,mhxx-dex-1.0+mhxx-save-format-community,11,15
+91,Nightfall Edge,Nightfall Edge,mhxx-dex-1.0+mhxx-save-format-community,11,15
+92,Geode Mace,Geode Mace,mhxx-dex-1.0+mhxx-save-format-community,11,15
+93,Hardened Edge,Hardened Edge,mhxx-dex-1.0+mhxx-save-format-community,11,15
+94,Tomb Edge,Tomb Edge,mhxx-dex-1.0+mhxx-save-format-community,11,15
+95,Thunderlord Firebolt,Thunderlord Firebolt,mhxx-dex-1.0+mhxx-save-format-community,11,15
+96,Grimclaw Barb,Grimclaw Barb,mhxx-dex-1.0+mhxx-save-format-community,11,15
+97,Fiery Prominar,Fiery Prominar,mhxx-dex-1.0+mhxx-save-format-community,11,15
+98,Inazuma Works,Inazuma Works,mhxx-dex-1.0+mhxx-save-format-community,6,5
+99,Levindicator,Levindicator,mhxx-dex-1.0+mhxx-save-format-community,6,5
+100,DUMMY,DUMMY,mhxx-save-format-community,0,5
+101,Hero's Sword,Hero's Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+102,Goldsword,Goldsword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+103,Silverwing Swiftblade,Silverwing Swiftblade,mhxx-dex-1.0+mhxx-save-format-community,7,6
+104,Zephra Rapier,Zephra Rapier,mhxx-dex-1.0+mhxx-save-format-community,11,5
+105,Kyoka Fugetsu,Kyoka Fugetsu,mhxx-dex-1.0+mhxx-save-format-community,11,5
+106,Elderfrost Sword,Elderfrost Sword,mhxx-dex-1.0+mhxx-save-format-community,11,5
+107,Massacre Club,Massacre Club,mhxx-dex-1.0+mhxx-save-format-community,11,5
+108,Razor Render,Razor Render,mhxx-dex-1.0+mhxx-save-format-community,11,5
+109,Cloaked Fan,Cloaked Fan,mhxx-dex-1.0+mhxx-save-format-community,11,5
+110,Ruiner Sword,Ruiner Sword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+111,O. Fatalis Sword,O. Fatalis Sword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+112,Lightbreak Sword,Lightbreak Sword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+113,Verstecken/Chercher,Verstecken/Chercher,mhxx-dex-1.0+mhxx-save-format-community,10,3
+114,Flame Syphos,Flame Syphos,mhxx-dex-1.0+mhxx-save-format-community,5,5
+115,Studded Club,Studded Club,mhxx-dex-1.0+mhxx-save-format-community,6,5
+116,Icicle Spike,Icicle Spike,mhxx-dex-1.0+mhxx-save-format-community,5,4
+117,Cryo Cross,Cryo Cross,mhxx-dex-1.0+mhxx-save-format-community,9,3
+118,Carapace Mace,Carapace Mace,mhxx-dex-1.0+mhxx-save-format-community,4,6
+119,Scaly Sword,Scaly Sword,mhxx-dex-1.0+mhxx-save-format-community,4,6
+120,Bloodscale Sword,Bloodscale Sword,mhxx-dex-1.0+mhxx-save-format-community,8,3
+121,Platinum Dawn,Platinum Dawn,mhxx-dex-1.0+mhxx-save-format-community,10,3
+122,Binding Blade,Binding Blade,mhxx-dex-1.0+mhxx-save-format-community,8,3
+123,Drome Rush Dagger,Drome Rush Dagger,mhxx-dex-1.0+mhxx-save-format-community,8,3
+124,Research Sword,Research Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+125,Wycademy Dagger,Wycademy Dagger,mhxx-dex-1.0+mhxx-save-format-community,9,3
+126,Elder Sword,Elder Sword,mhxx-dex-1.0+mhxx-save-format-community,8,3
+127,Xin's Trust,Xin's Trust,mhxx-dex-1.0+mhxx-save-format-community,9,3
+128,Falchion,Falchion,mhxx-dex-1.0+mhxx-save-format-community,6,4

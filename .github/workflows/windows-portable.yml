@@ -1,0 +1,81 @@
+name: Windows Portable Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  build-windows:
+    name: Build and test Windows portable package
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Qt 5 MinGW
+        id: msys2
+        uses: msys2/setup-msys2@v2
+        with:
+          msystem: MINGW64
+          update: true
+          install: >-
+            mingw-w64-x86_64-binutils
+            mingw-w64-x86_64-gcc
+            mingw-w64-x86_64-make
+            mingw-w64-x86_64-qt5
+
+      - name: Validate generated data
+        shell: pwsh
+        run: python .\tools\validate_data.py .\data
+
+      - name: Build portable package
+        shell: pwsh
+        env:
+          MSYS2_LOCATION: ${{ steps.msys2.outputs.msys2-location }}
+        run: |
+          .\build-windows.ps1 -QtDir "$env:MSYS2_LOCATION\mingw64"
+
+      - name: Build and run core tests
+        shell: pwsh
+        env:
+          MSYS2_LOCATION: ${{ steps.msys2.outputs.msys2-location }}
+        run: |
+          $QtBin = "$env:MSYS2_LOCATION\mingw64\bin"
+          $env:PATH = "$QtBin;$env:PATH"
+          New-Item -ItemType Directory -Force -Path .\tests\build | Out-Null
+          & "$QtBin\qmake.exe" .\tests\CoreTests.pro -o .\tests\build\Makefile
+          if ($LASTEXITCODE -ne 0) { throw 'test qmake failed' }
+          & "$QtBin\mingw32-make.exe" -C .\tests\build -j2
+          if ($LASTEXITCODE -ne 0) { throw 'test build failed' }
+          .\tests\bin\mhgu_core_tests.exe
+          if ($LASTEXITCODE -ne 0) { throw 'core tests failed' }
+
+      - name: Create zip
+        shell: pwsh
+        run: |
+          Compress-Archive `
+            -Path .\dist\* `
+            -DestinationPath .\MHGUSaveEditor-windows-portable.zip `
+            -Force
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: MHGUSaveEditor-windows-portable
+          path: MHGUSaveEditor-windows-portable.zip
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Upload release asset
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: MHGUSaveEditor-windows-portable.zip

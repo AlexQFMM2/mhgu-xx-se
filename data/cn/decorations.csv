@@ -1,0 +1,264 @@
+id,name,english,source
+0,无,None,mhxx-save-format-community
+2638,耐毒珠【1】,Antidote Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2639,耐毒珠【2】,Antidote Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2640,耐麻珠【1】,Paralysis Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2641,耐麻珠【2】,Paralysis Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2642,耐眠珠【1】,Pep Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2643,耐眠珠【2】,Pep Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2644,耐绝珠【1】,Steadfast Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2645,制绝珠【1】,Standfast Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2646,防音珠【1】,Earplug Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2647,防音珠【3】,Earplug Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2648,防风珠【1】,Wind Res Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2649,防风珠【2】,Wind Res Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2650,耐震珠【1】,Footing Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2651,抗震珠【1】,Tectonic Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2652,耐达摩珠【1】,Bind Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2653,抗达摩珠【1】,Shackle Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2654,耐暑珠【1】,Heat Res Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2655,耐寒珠【1】,Cold Res Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2656,北风珠【1】,Polar Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2657,北风珠【3】,Polar Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2658,南风珠【1】,Solar Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2659,南风珠【3】,Solar Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2660,耐盗珠【1】,Safe Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2661,耐防珠【1】,Def Lock Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2662,抗狂珠【1】,Sane Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2663,抗狂珠【3】,Sane Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2664,菌学珠【1】,Biology Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2665,菌究珠【1】,Microbio Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2666,抗伤珠【1】,Staunch Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2667,攻击珠【1】,Attack Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2668,攻击珠【2】,Attack Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2669,攻击珠【3】,Attack Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2670,防御珠【1】,Defense Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2671,防御珠【2】,Defense Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2672,体力珠【1】,Vitality Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2673,耐火珠【1】,Fire Res Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2674,制火珠【1】,Nul-Fire Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2675,耐水珠【1】,Water Res Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2676,制水珠【1】,Nul-Water Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2677,耐雷珠【1】,ThunderRes Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2678,制雷珠【1】,Nul-Thundr Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2679,耐冰珠【1】,Ice Res Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2680,制冰珠【1】,Nul-Ice Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2681,耐龙珠【1】,Dragon Res Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2682,制龙珠【1】,Nul-Dragon Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2683,属耐珠【1】,Resistor Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2684,属耐珠【3】,Resistor Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2685,火炎珠【1】,Blaze Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2686,火炎珠【2】,Blaze Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2687,流水珠【1】,Stream Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2688,流水珠【2】,Stream Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2689,雷光珠【1】,Bolt Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2690,雷光珠【2】,Bolt Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2691,结冰珠【1】,Frost Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2692,结冰珠【2】,Frost Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2693,破龙珠【1】,Dragon Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2694,破龙珠【2】,Dragon Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2695,属攻珠【1】,Element Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2696,属攻珠【3】,Element Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2697,特攻珠【1】,Disabler Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2698,特攻珠【2】,Disabler Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2699,打磨珠【1】,Grinder Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2700,匠珠【1】,Handicraft Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2701,匠珠【3】,Handicraft Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2702,斩铁珠【1】,Razor Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2703,斩铁珠【3】,Razor Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2704,剑豪珠【1】,Fencer Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2705,剑豪珠【3】,Fencer Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2706,刚刃珠【1】,Sharp Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2707,刚刃珠【3】,Sharp Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2708,钝器珠【1】,Blunt Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2709,钝器珠【2】,Blunt Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2710,拔刀珠【1】,Draw Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2711,拔刀珠【2】,Draw Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2712,拔打珠【1】,Gambit Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2713,拔打珠【3】,Gambit Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2714,速纳珠【1】,Sheath Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2715,速纳珠【2】,Sheath Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2716,收磨珠【1】,Razor Sheath Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2717,Dummy Jwl 1,Dummy Jwl 1,mhxx-save-format-community-en-fallback
+2718,Dummy Jwl 2,Dummy Jwl 2,mhxx-save-format-community-en-fallback
+2719,刃鳞珠【1】,Bladescale Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2720,Dummy Jwl 3,Dummy Jwl 3,mhxx-save-format-community-en-fallback
+2721,刃鳞珠【3】,Bladescale Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2722,早填珠【1】,Quickload Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2723,早填珠【2】,Quickload Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2724,抑反珠【1】,Absorber Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2725,抑反珠【3】,Absorber Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2726,点射珠【1】,Sniper Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2727,强弹珠【1】,Forceshot Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2728,强弹珠【3】,Forceshot Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2729,贯穿珠【1】,Pierce Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2730,贯穿珠【3】,Pierce Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2731,散弹珠【1】,Pellet Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2732,散弹珠【3】,Pellet Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2733,重弹珠【1】,Heavyshot Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2734,重弹珠【3】,Heavyshot Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2735,加弹珠【1】,ShotPlus Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2736,加弹珠【2】,ShotPlus Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2737,加贯珠【1】,PiercePlus Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2738,加散珠【1】,PelletPlus Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2739,加榴珠【1】,CragPlus Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2740,加扩珠【1】,ClustPlus Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2741,加扩珠【3】,ClustPlus Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2742,毒瓶珠【1】,Poisoncoat Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2743,痹瓶珠【1】,Paracoat Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2744,痹瓶珠【2】,Paracoat Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2745,眠瓶珠【1】,Sleep Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2746,强瓶珠【1】,Powercoat Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2747,强瓶珠【2】,Powercoat Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2748,属瓶珠【1】,Elemcoat Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2749,属瓶珠【2】,Elemcoat Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2750,接瓶珠【1】,Rangecoat Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2751,减瓶珠【1】,Draincoat Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2752,爆瓶珠【1】,Blastcoat Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2753,速射珠【1】,Salvo Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2754,速射珠【3】,Salvo Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2755,射法珠【1】,Precise Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2756,射法珠【2】,Precise Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2757,装填珠【1】,Capacity Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2758,装填珠【3】,Capacity Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2759,变射珠【1】,Irregular Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2760,省弹珠【1】,Thrift Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2761,省弹珠【2】,Thrift Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2762,达人珠【1】,Expert Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2763,达人珠【2】,Expert Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2764,达人珠【3】,Expert Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2765,痛击珠【1】,Tenderizer Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2766,痛击珠【3】,Tenderizer Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2767,连击珠【1】,Chain Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2768,连击珠【3】,Chain Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2769,特会珠【1】,Crit Status Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2770,特会珠【2】,Crit Status Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2771,属会珠【1】,CritElementJwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2772,属会珠【2】,CritElementJwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2773,会心珠【1】,Critical Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2774,会心珠【3】,Critical Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2775,意外会心珠【1】,Negative Crit Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2776,Dummy Jwl 4,Dummy Jwl 4,mhxx-save-format-community-en-fallback
+2777,意外会心珠【3】,Negative Crit Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2778,缩短珠【1】,Charger Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2779,缩短珠【3】,Charger Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2780,狂奔珠【1】,Sprinter Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2781,狂奔珠【3】,Sprinter Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2782,体术珠【1】,Physique Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2783,体术珠【2】,Physique Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2784,早气珠【1】,Refresh Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2785,早气珠【2】,Refresh Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2786,长跑珠【1】,Distance Runner Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2787,长跑珠【2】,Distance Runner Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2788,Dummy Jwl 5,Dummy Jwl 5,mhxx-save-format-community-en-fallback
+2789,闪避珠【1】,Evasion Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2790,闪避珠【2】,Evasion Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2791,跳跃珠【1】,Jumping Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2792,跳跃珠【3】,Jumping Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2793,泡沫珠【1】,Bubble Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2794,泡沫珠【3】,Bubble Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2795,铁壁珠【1】,Ironwall Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2796,铁壁珠【2】,Ironwall Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2797,强壁珠【1】,Shield Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2798,强壁珠【2】,Shield Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2799,KO珠【1】,KO Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2800,KO珠【2】,KO Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2801,夺气珠【1】,Drain Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2802,夺气珠【2】,Drain Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2803,鼓笛珠【1】,Sonorous Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2804,炮术珠【1】,Artillery Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2805,重击珠【1】,Destroyer Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2806,重击珠【3】,Destroyer Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2807,爆师珠【1】,Bombardier Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2808,全开珠【1】,Throttle Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2809,全开珠【2】,Throttle Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2810,斗魂珠【1】,Spirit Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2811,斗魂珠【2】,Spirit Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2812,无伤珠【1】,Flawless Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2813,无伤珠【2】,Flawless Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2814,好机珠【1】,Favor Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2815,良机珠【3】,Favor Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2816,龙气珠【1】,Dragon Spirit Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2817,Dummy Jwl 6,Dummy Jwl 6,mhxx-save-format-community-en-fallback
+2818,龙气珠【3】,Dragon Spirit Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2819,潜力珠【1】,Potential Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2820,潜力珠【2】,Potential Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2821,逆境珠【1】,Fortitude Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2822,逆境珠【2】,Fortitude Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2823,暴怒珠【1】,Furor Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2824,暴怒珠【2】,Furor Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2825,绝境珠【1】,Crisis Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2826,绝境珠【2】,Crisis Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2827,毅力珠【1】,Guts Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2828,毅力珠【2】,Guts Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2829,蹑脚珠【1】,Ninja Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2830,指挥珠【1】,Player Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2831,名指挥珠【1】,Morale Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2832,号令珠【1】,Leader Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2833,号令珠【2】,Leader Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2834,骑惯珠【1】,Rodeo Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2835,飞燕珠【1】,Flight Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2836,无念珠【1】,Insight Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2837,无念珠【3】,Insight Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2838,忍耐珠【1】,Endurance Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2839,Dummy Jwl 7,Dummy Jwl 7,mhxx-save-format-community-en-fallback
+2840,Dummy Jwl 8,Dummy Jwl 8,mhxx-save-format-community-en-fallback
+2841,技延珠【1】,Extender Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2842,技延珠【2】,Extender Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2843,Dummy Jwl 9,Dummy Jwl 9,mhxx-save-format-community-en-fallback
+2844,千里珠【1】,Psychic Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2845,观察珠【1】,Perception Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2846,猎手珠【1】,Ranger Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2847,搬运珠【1】,Transportr Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2848,加护珠【1】,Protection Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2849,神护珠【1】,Asylum Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2850,英雄珠【1】,Hero Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2851,英雄珠【3】,Hero Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2852,治愈珠【1】,Medicine Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2853,治愈珠【2】,Medicine Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2854,早复珠【1】,Recovery Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2855,早复珠【2】,Recovery Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2856,持续珠【1】,Enduring Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2857,友爱珠【1】,Friendship Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2858,友爱珠【2】,Friendship Jwl 2,mhxx-dex-1.0+mhxx-save-format-community
+2859,无食珠【1】,Hungerless Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2860,食汉珠【1】,Metabolism Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2861,快吃珠【1】,Gobbler Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2862,快吃珠【3】,Gobbler Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2863,节食珠【1】,Satiated Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2864,肉食珠【1】,Meateater Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2865,肉好珠【1】,Meatlover Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2866,茸好珠【1】,Fungiform Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2867,野草珠【1】,Grass Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2868,博士珠【1】,Professor Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2869,弹制珠【1】,Factory Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2870,陷阱师珠【1】,Trapmaster Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2871,采集珠【1】,Gathering Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2872,采蜜珠【1】,Honeybee Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2873,占蜜珠【1】,Queenbee Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2874,护石珠【1】,Charmer Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2875,护石珠【3】,Charmer Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2876,祝福珠【1】,Blessing Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2877,运气珠【1】,Fate Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2878,运气珠【3】,Fate Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2879,剥皮珠【1】,Carver Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2880,剥皮珠【3】,Carver Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2881,捕获珠【1】,Capture Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2882,捕获珠【3】,Capture Jwl 3,mhxx-dex-1.0+mhxx-save-format-community
+2883,历铃珠【1】,Bell Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2884,始猎珠【1】,Novice Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2885,雪花珠【1】,Snowflake Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2886,仙汤珠【1】,Springs Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2887,探究珠【1】,Study Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2888,天宴珠【1】,Skyfeast Jwl 1,mhxx-dex-1.0+mhxx-save-format-community
+2889,Dummy Jwl 10,Dummy Jwl 10,mhxx-save-format-community-en-fallback
+2890,Dummy Jwl 11,Dummy Jwl 11,mhxx-save-format-community-en-fallback
+2891,Dummy Jwl 12,Dummy Jwl 12,mhxx-save-format-community-en-fallback
+2892,Dummy Jwl 13,Dummy Jwl 13,mhxx-save-format-community-en-fallback
+2893,Dummy Jwl 14,Dummy Jwl 14,mhxx-save-format-community-en-fallback
+2894,Dummy Jwl 15,Dummy Jwl 15,mhxx-save-format-community-en-fallback
+2895,Dummy Jwl 16,Dummy Jwl 16,mhxx-save-format-community-en-fallback
+2896,Dummy Jwl 17,Dummy Jwl 17,mhxx-save-format-community-en-fallback
+2897,Dummy Jwl 18,Dummy Jwl 18,mhxx-save-format-community-en-fallback
+2898,Dummy Jwl 19,Dummy Jwl 19,mhxx-save-format-community-en-fallback
+2899,Dummy Jwl 20,Dummy Jwl 20,mhxx-save-format-community-en-fallback

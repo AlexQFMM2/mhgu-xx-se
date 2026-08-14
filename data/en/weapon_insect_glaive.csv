@@ -1,0 +1,84 @@
+id,name,english,source,rarity,max_level
+0,None,None,mhxx-save-format-community,0,0
+1,Petrified Rod,Petrified Rod,mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Obsidian Rod,Obsidian Rod,mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,Kut-Ku Pike,Kut-Ku Pike,mhxx-dex-1.0+mhxx-save-format-community,2,9
+4,Royal Bloom,Royal Bloom,mhxx-dex-1.0+mhxx-save-format-community,2,8
+5,Fader Rod,Fader Rod,mhxx-dex-1.0+mhxx-save-format-community,1,9
+6,Altair,Altair,mhxx-dex-1.0+mhxx-save-format-community,3,7
+7,Seditious Breaker,Seditious Breaker,mhxx-dex-1.0+mhxx-save-format-community,6,6
+8,Hidden Scythe,Hidden Scythe,mhxx-dex-1.0+mhxx-save-format-community,2,8
+9,Bolt Chamber,Bolt Chamber,mhxx-dex-1.0+mhxx-save-format-community,2,9
+10,Iron Bayonet,Iron Bayonet,mhxx-dex-1.0+mhxx-save-format-community,1,11
+11,Arcane Strike,Arcane Strike,mhxx-dex-1.0+mhxx-save-format-community,2,9
+12,Azure Bayonet,Azure Bayonet,mhxx-dex-1.0+mhxx-save-format-community,1,8
+13,Heaven's Rath Glaive,Heaven's Rath Glaive,mhxx-dex-1.0+mhxx-save-format-community,7,5
+14,Crimson Fury,Crimson Fury,mhxx-dex-1.0+mhxx-save-format-community,2,8
+15,Sand Anchor,Sand Anchor,mhxx-dex-1.0+mhxx-save-format-community,1,8
+16,Fin Harpoon,Fin Harpoon,mhxx-dex-1.0+mhxx-save-format-community,5,5
+17,Névé Rod,Névé Rod,mhxx-dex-1.0+mhxx-save-format-community,4,7
+18,Bone Staff,Bone Staff,mhxx-dex-1.0+mhxx-save-format-community,1,11
+19,Sky-high Glaive,Sky-high Glaive,mhxx-dex-1.0+mhxx-save-format-community,5,5
+20,Mind Stick,Mind Stick,mhxx-dex-1.0+mhxx-save-format-community,4,7
+21,Sturdy Glaive,Sturdy Glaive,mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,Flaming Halberd,Flaming Halberd,mhxx-dex-1.0+mhxx-save-format-community,6,6
+23,Deep Blue Glaive,Deep Blue Glaive,mhxx-dex-1.0+mhxx-save-format-community,5,6
+24,Dios Rod,Dios Rod,mhxx-dex-1.0+mhxx-save-format-community,3,7
+25,Demolition Press,Demolition Press,mhxx-dex-1.0+mhxx-save-format-community,6,6
+26,Needle Ivy,Needle Ivy,mhxx-dex-1.0+mhxx-save-format-community,2,8
+27,Wardance Cudgel,Wardance Cudgel,mhxx-dex-1.0+mhxx-save-format-community,1,8
+28,Rage Cudgel,Rage Cudgel,mhxx-dex-1.0+mhxx-save-format-community,2,7
+29,Shell Intoner,Shell Intoner,mhxx-dex-1.0+mhxx-save-format-community,2,8
+30,Hortadent,Hortadent,mhxx-dex-1.0+mhxx-save-format-community,1,8
+31,Sect Happa,Sect Happa,mhxx-dex-1.0+mhxx-save-format-community,4,6
+32,Trim Happa,Trim Happa,mhxx-dex-1.0+mhxx-save-format-community,6,5
+33,Astalos Cudgel,Astalos Cudgel,mhxx-dex-1.0+mhxx-save-format-community,3,9
+34,Giant's Cudgel,Giant's Cudgel,mhxx-dex-1.0+mhxx-save-format-community,3,9
+35,Fox Halberd,Fox Halberd,mhxx-dex-1.0+mhxx-save-format-community,3,9
+36,Flaming Teuza,Flaming Teuza,mhxx-dex-1.0+mhxx-save-format-community,3,9
+37,Leumundslist,Leumundslist,mhxx-dex-1.0+mhxx-save-format-community,3,7
+38,Le Traqueur,Le Traqueur,mhxx-dex-1.0+mhxx-save-format-community,3,8
+39,Daora's Entom,Daora's Entom,mhxx-dex-1.0+mhxx-save-format-community,3,6
+40,Caster's Rod,Caster's Rod,mhxx-dex-1.0+mhxx-save-format-community,3,6
+41,Indigo Flash,Indigo Flash,mhxx-dex-1.0+mhxx-save-format-community,3,7
+42,Metal Mauler,Metal Mauler,mhxx-dex-1.0+mhxx-save-format-community,6,6
+43,Demonlord Cudgel,Demonlord Cudgel,mhxx-dex-1.0+mhxx-save-format-community,7,5
+44,Skeletal Cudgel,Skeletal Cudgel,mhxx-dex-1.0+mhxx-save-format-community,3,7
+45,Polaris Zimbal,Polaris Zimbal,mhxx-dex-1.0+mhxx-save-format-community,7,5
+46,Ukanlos Staff,Ukanlos Staff,mhxx-dex-1.0+mhxx-save-format-community,7,5
+47,Alatreon Dragonspire,Alatreon Dragonspire,mhxx-dex-1.0+mhxx-save-format-community,7,5
+48,Black Rod,Black Rod,mhxx-dex-1.0+mhxx-save-format-community,3,7
+49,Push Broom,Push Broom,mhxx-dex-1.0+mhxx-save-format-community,3,6
+50,Magia Pitareen,Magia Pitareen,mhxx-dex-1.0+mhxx-save-format-community,2,7
+51,Garia Club,Garia Club,mhxx-dex-1.0+mhxx-save-format-community,4,5
+52,Acorn Rod,Acorn Rod,mhxx-dex-1.0+mhxx-save-format-community,2,6
+53,Deathport Staff,Deathport Staff,mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,Stonefist Caster,Stonefist Caster,mhxx-dex-1.0+mhxx-save-format-community,11,15
+55,Nightfall Scythe,Nightfall Scythe,mhxx-dex-1.0+mhxx-save-format-community,11,15
+56,Grobo Blow,Grobo Blow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+57,Ashen Teuza,Ashen Teuza,mhxx-dex-1.0+mhxx-save-format-community,11,15
+58,Conviction Glaive J,Conviction Glaive J,mhxx-dex-1.0+mhxx-save-format-community,6,5
+59,Aladdin's Wand,Aladdin's Wand,mhxx-dex-1.0+mhxx-save-format-community,6,5
+60,Spear of the Beast,Spear of the Beast,mhxx-dex-1.0+mhxx-save-format-community,6,5
+61,Goldglaive,Goldglaive,mhxx-dex-1.0+mhxx-save-format-community,10,3
+62,Silverwing Glaive,Silverwing Glaive,mhxx-dex-1.0+mhxx-save-format-community,7,6
+63,Boltreaver Glaive,Boltreaver Glaive,mhxx-dex-1.0+mhxx-save-format-community,11,5
+64,Melancholy,Melancholy,mhxx-dex-1.0+mhxx-save-format-community,11,5
+65,Elderfrost Club,Elderfrost Club,mhxx-dex-1.0+mhxx-save-format-community,11,5
+66,Massacre Rod,Massacre Rod,mhxx-dex-1.0+mhxx-save-format-community,11,5
+67,Razor Reaper,Razor Reaper,mhxx-dex-1.0+mhxx-save-format-community,11,5
+68,True Fatalis Teni,True Fatalis Teni,mhxx-dex-1.0+mhxx-save-format-community,10,3
+69,Ruiner Glaive,Ruiner Glaive,mhxx-dex-1.0+mhxx-save-format-community,10,3
+70,Fatalis Soldier,Fatalis Soldier,mhxx-dex-1.0+mhxx-save-format-community,10,3
+71,Lightbreak Press,Lightbreak Press,mhxx-dex-1.0+mhxx-save-format-community,10,3
+72,List/Confiance,List/Confiance,mhxx-dex-1.0+mhxx-save-format-community,10,3
+73,Graviafaren,Graviafaren,mhxx-dex-1.0+mhxx-save-format-community,5,5
+74,Diablos Rod,Diablos Rod,mhxx-dex-1.0+mhxx-save-format-community,6,5
+75,Stealth Glaive,Stealth Glaive,mhxx-dex-1.0+mhxx-save-format-community,4,6
+76,Assault Glaive,Assault Glaive,mhxx-dex-1.0+mhxx-save-format-community,8,3
+77,Stratus Arc,Stratus Arc,mhxx-dex-1.0+mhxx-save-format-community,10,3
+78,Blossomajesty,Blossomajesty,mhxx-dex-1.0+mhxx-save-format-community,10,3
+79,Boltbrute,Boltbrute,mhxx-dex-1.0+mhxx-save-format-community,9,3
+80,Research Glaive,Research Glaive,mhxx-dex-1.0+mhxx-save-format-community,6,5
+81,Eldora Scepter,Eldora Scepter,mhxx-dex-1.0+mhxx-save-format-community,5,5
+82,Elder Rod,Elder Rod,mhxx-dex-1.0+mhxx-save-format-community,8,3

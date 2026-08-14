@@ -1,0 +1,16 @@
+kind,pattern_id,sequence,source
+move,0,111111111,mhxx-save-format-community
+move,1,2211111,mhxx-save-format-community
+move,2,222111,mhxx-save-format-community
+move,3,22221,mhxx-save-format-community
+move,4,3111111,mhxx-save-format-community
+move,5,321111,mhxx-save-format-community
+move,6,32211,mhxx-save-format-community
+move,7,3222,mhxx-save-format-community
+skill,0,11111111,mhxx-save-format-community
+skill,1,221111,mhxx-save-format-community
+skill,2,22211,mhxx-save-format-community
+skill,3,2222,mhxx-save-format-community
+skill,4,311111,mhxx-save-format-community
+skill,5,32111,mhxx-save-format-community
+skill,6,3221,mhxx-save-format-community

@@ -1,0 +1,2922 @@
+id,name,english,source
+1,Book of Combos 1,Book of Combos 1,mhxx-dex-1.0
+2,Book of Combos 2,Book of Combos 2,mhxx-dex-1.0
+3,Book of Combos 3,Book of Combos 3,mhxx-dex-1.0
+4,Book of Combos 4,Book of Combos 4,mhxx-dex-1.0
+5,Book of Combos 5,Book of Combos 5,mhxx-dex-1.0
+6,Organizer Guide,Organizer Guide,mhxx-dex-1.0
+7,Pack Rat Guide,Pack Rat Guide,mhxx-dex-1.0
+8,Binoculars,Binoculars,mhxx-dex-1.0
+9,Potion,Potion,mhxx-dex-1.0
+10,Mega Potion,Mega Potion,mhxx-dex-1.0
+11,Nutrients,Nutrients,mhxx-dex-1.0
+12,Mega Nutrients,Mega Nutrients,mhxx-dex-1.0
+13,Antidote,Antidote,mhxx-dex-1.0
+14,Immunizer,Immunizer,mhxx-dex-1.0
+15,Dash Juice,Dash Juice,mhxx-dex-1.0
+16,Mega Dash Juice,Mega Dash Juice,mhxx-dex-1.0
+17,Demondrug,Demondrug,mhxx-dex-1.0
+18,Mega Demondrug,Mega Demondrug,mhxx-dex-1.0
+19,Might Pill,Might Pill,mhxx-dex-1.0
+20,Armorskin,Armorskin,mhxx-dex-1.0
+21,Mega Armorskin,Mega Armorskin,mhxx-dex-1.0
+22,Adamant Pill,Adamant Pill,mhxx-dex-1.0
+23,Cool Drink,Cool Drink,mhxx-dex-1.0
+24,Hot Drink,Hot Drink,mhxx-dex-1.0
+25,Cleanser,Cleanser,mhxx-dex-1.0
+26,Psychoserum,Psychoserum,mhxx-dex-1.0
+27,Herbal Medicine,Herbal Medicine,mhxx-dex-1.0
+28,Max Potion,Max Potion,mhxx-dex-1.0
+29,Ancient Potion,Ancient Potion,mhxx-dex-1.0
+30,Energy Drink,Energy Drink,mhxx-dex-1.0
+31,Lifepowder,Lifepowder,mhxx-dex-1.0
+32,Dust of Life,Dust of Life,mhxx-dex-1.0
+33,Hunter's Drink,Hunter's Drink,mhxx-dex-1.0
+34,Catalyst,Catalyst,mhxx-dex-1.0
+35,Gunpowder,Gunpowder,mhxx-dex-1.0
+36,Lifecrystals,Lifecrystals,mhxx-dex-1.0
+37,Tranquilizer,Tranquilizer,mhxx-dex-1.0
+38,Yukumo Egg,Yukumo Egg,mhxx-dex-1.0
+39,Tanzia Chips,Tanzia Chips,mhxx-dex-1.0
+40,Powercharm,Powercharm,mhxx-dex-1.0
+41,Powertalon,Powertalon,mhxx-dex-1.0
+42,Armorcharm,Armorcharm,mhxx-dex-1.0
+43,Armortalon,Armortalon,mhxx-dex-1.0
+44,BBQ Spit,BBQ Spit,mhxx-dex-1.0
+45,Raw Meat,Raw Meat,mhxx-dex-1.0
+46,Poisoned Meat,Poisoned Meat,mhxx-dex-1.0
+47,Tinged Meat,Tinged Meat,mhxx-dex-1.0
+48,Drugged Meat,Drugged Meat,mhxx-dex-1.0
+49,Rare Steak,Rare Steak,mhxx-dex-1.0
+50,Well-done Steak,Well-done Steak,mhxx-dex-1.0
+51,Burnt Meat,Burnt Meat,mhxx-dex-1.0
+52,Chilled Meat,Chilled Meat,mhxx-dex-1.0
+53,Hot Meat,Hot Meat,mhxx-dex-1.0
+54,Mosswine Jerky,Mosswine Jerky,mhxx-dex-1.0
+55,Kingmeat,Kingmeat,mhxx-dex-1.0
+56,Whetstone,Whetstone,mhxx-dex-1.0
+57,Old Pickaxe,Old Pickaxe,mhxx-dex-1.0
+58,Iron Pickaxe,Iron Pickaxe,mhxx-dex-1.0
+59,Mega Pickaxe,Mega Pickaxe,mhxx-dex-1.0
+60,Old Bug Net,Old Bug Net,mhxx-dex-1.0
+61,Bug Net,Bug Net,mhxx-dex-1.0
+62,Mega Bug Net,Mega Bug Net,mhxx-dex-1.0
+63,Boomerang,Boomerang,mhxx-dex-1.0
+64,Throwing Knife,Throwing Knife,mhxx-dex-1.0
+65,Poison Knife,Poison Knife,mhxx-dex-1.0
+66,Sleep Knife,Sleep Knife,mhxx-dex-1.0
+67,Paralysis Knife,Paralysis Knife,mhxx-dex-1.0
+68,Tranq Knife,Tranq Knife,mhxx-dex-1.0
+69,Bomb Casing,Bomb Casing,mhxx-dex-1.0
+70,Paintball,Paintball,mhxx-dex-1.0
+71,Flash Bomb,Flash Bomb,mhxx-dex-1.0
+72,Sonic Bomb,Sonic Bomb,mhxx-dex-1.0
+73,Tranq Bomb,Tranq Bomb,mhxx-dex-1.0
+74,Deodorant,Deodorant,mhxx-dex-1.0
+75,Smoke Bomb,Smoke Bomb,mhxx-dex-1.0
+76,Poison Smoke Bomb,Poison Smoke Bomb,mhxx-dex-1.0
+77,Farcaster,Farcaster,mhxx-dex-1.0
+78,Dung Bomb,Dung Bomb,mhxx-dex-1.0
+79,Dung,Dung,mhxx-dex-1.0
+80,Trap Tool,Trap Tool,mhxx-dex-1.0
+81,Spider Web,Spider Web,mhxx-dex-1.0
+82,Net,Net,mhxx-dex-1.0
+83,Pitfall Trap,Pitfall Trap,mhxx-dex-1.0
+84,Shock Trap,Shock Trap,mhxx-dex-1.0
+85,Barrel Lid,Barrel Lid,mhxx-dex-1.0
+86,Small Barrel,Small Barrel,mhxx-dex-1.0
+87,Large Barrel,Large Barrel,mhxx-dex-1.0
+88,Barrel Bomb S,Barrel Bomb S,mhxx-dex-1.0
+89,Barrel Bomb L,Barrel Bomb L,mhxx-dex-1.0
+90,Barrel Bomb L+,Barrel Bomb L+,mhxx-dex-1.0
+91,Bounce Bomb,Bounce Bomb,mhxx-dex-1.0
+92,Bounce Bomb+,Bounce Bomb+,mhxx-dex-1.0
+94,Affinity Oil,Affinity Oil,mhxx-dex-1.0
+95,Destroyer Oil,Destroyer Oil,mhxx-dex-1.0
+96,Stamina Oil,Stamina Oil,mhxx-dex-1.0
+97,Mind's Eye Oil,Mind's Eye Oil,mhxx-dex-1.0
+98,Huskberry,Huskberry,mhxx-dex-1.0
+99,Bone Husk,Bone Husk,mhxx-dex-1.0
+100,Normal S Lv1,Normal S Lv1,mhxx-dex-1.0
+101,Normal S Lv2,Normal S Lv2,mhxx-dex-1.0
+102,Normal S Lv3,Normal S Lv3,mhxx-dex-1.0
+103,Pierce S Lv1,Pierce S Lv1,mhxx-dex-1.0
+104,Pierce S Lv2,Pierce S Lv2,mhxx-dex-1.0
+105,Pierce S Lv3,Pierce S Lv3,mhxx-dex-1.0
+106,Pellet S Lv1,Pellet S Lv1,mhxx-dex-1.0
+107,Pellet S Lv2,Pellet S Lv2,mhxx-dex-1.0
+108,Pellet S Lv3,Pellet S Lv3,mhxx-dex-1.0
+109,Crag S Lv1,Crag S Lv1,mhxx-dex-1.0
+110,Crag S Lv2,Crag S Lv2,mhxx-dex-1.0
+111,Crag S Lv3,Crag S Lv3,mhxx-dex-1.0
+112,Clust S Lv1,Clust S Lv1,mhxx-dex-1.0
+113,Clust S Lv2,Clust S Lv2,mhxx-dex-1.0
+114,Clust S Lv3,Clust S Lv3,mhxx-dex-1.0
+115,Flaming S Lv1,Flaming S Lv1,mhxx-dex-1.0
+116,Water S Lv1,Water S Lv1,mhxx-dex-1.0
+117,Thunder S Lv1,Thunder S Lv1,mhxx-dex-1.0
+118,Freeze S Lv1,Freeze S Lv1,mhxx-dex-1.0
+119,Dragon S Lv1,Dragon S Lv1,mhxx-dex-1.0
+120,Poison S Lv1,Poison S Lv1,mhxx-dex-1.0
+121,Poison S Lv2,Poison S Lv2,mhxx-dex-1.0
+122,Para S Lv1,Para S Lv1,mhxx-dex-1.0
+123,Para S Lv2,Para S Lv2,mhxx-dex-1.0
+124,Sleep S Lv1,Sleep S Lv1,mhxx-dex-1.0
+125,Sleep S Lv2,Sleep S Lv2,mhxx-dex-1.0
+126,Exhaust S Lv1,Exhaust S Lv1,mhxx-dex-1.0
+127,Exhaust S Lv2,Exhaust S Lv2,mhxx-dex-1.0
+128,Recover S Lv1,Recover S Lv1,mhxx-dex-1.0
+129,Recover S Lv2,Recover S Lv2,mhxx-dex-1.0
+130,Paint S,Paint S,mhxx-dex-1.0
+131,Tranq S,Tranq S,mhxx-dex-1.0
+164,Stone S,Stone S,mhxx-dex-1.0
+165,Wyvern S,Wyvern S,mhxx-dex-1.0
+166,Slicing S Lv1,Slicing S Lv1,mhxx-dex-1.0
+167,Slicing S Lv2,Slicing S Lv2,mhxx-dex-1.0
+168,Blast S Lv1,Blast S Lv1,mhxx-dex-1.0
+169,Blast S Lv2,Blast S Lv2,mhxx-dex-1.0
+170,Demon S,Demon S,mhxx-dex-1.0
+171,Demon Aff S,Demon Aff S,mhxx-dex-1.0
+172,Armor S,Armor S,mhxx-dex-1.0
+173,Super Armor S,Super Armor S,mhxx-dex-1.0
+174,Force S Lv1,Force S Lv1,mhxx-dex-1.0
+175,Force S Lv2,Force S Lv2,mhxx-dex-1.0
+176,Heavy S Lv1,Heavy S Lv1,mhxx-dex-1.0
+177,Heavy S Lv2,Heavy S Lv2,mhxx-dex-1.0
+178,Sting S,Sting S,mhxx-dex-1.0
+179,Flaming S Lv2,Flaming S Lv2,mhxx-dex-1.0
+180,Water S Lv2,Water S Lv2,mhxx-dex-1.0
+181,Thunder S Lv2,Thunder S Lv2,mhxx-dex-1.0
+182,Freeze S Lv2,Freeze S Lv2,mhxx-dex-1.0
+183,Dragon S Lv2,Dragon S Lv2,mhxx-dex-1.0
+184,P.Flaming S Lv1,P.Flaming S Lv1,mhxx-dex-1.0
+185,P.Flaming S Lv2,P.Flaming S Lv2,mhxx-dex-1.0
+186,P.Water S Lv1,P.Water S Lv1,mhxx-dex-1.0
+187,P.Water S Lv2,P.Water S Lv2,mhxx-dex-1.0
+188,P.Thunder S Lv1,P.Thunder S Lv1,mhxx-dex-1.0
+189,P.Thunder S Lv2,P.Thunder S Lv2,mhxx-dex-1.0
+190,P.Freeze S Lv1,P.Freeze S Lv1,mhxx-dex-1.0
+191,P.Freeze S Lv2,P.Freeze S Lv2,mhxx-dex-1.0
+192,Cannon S Lv1,Cannon S Lv1,mhxx-dex-1.0
+193,Cannon S Lv2,Cannon S Lv2,mhxx-dex-1.0
+194,Long S Lv1,Long S Lv1,mhxx-dex-1.0
+195,Long S Lv2,Long S Lv2,mhxx-dex-1.0
+196,Triblast S,Triblast S,mhxx-dex-1.0
+197,Shrapnel S,Shrapnel S,mhxx-dex-1.0
+198,Dazzling S,Dazzling S,mhxx-dex-1.0
+199,Poison Smoke S,Poison Smoke S,mhxx-dex-1.0
+200,Flash S,Flash S,mhxx-dex-1.0
+201,Dung S,Dung S,mhxx-dex-1.0
+202,Remedy S,Remedy S,mhxx-dex-1.0
+203,Group Recover S,Group Recover S,mhxx-dex-1.0
+204,Demon Armor S,Demon Armor S,mhxx-dex-1.0
+207,Empty Phial,Empty Phial,mhxx-dex-1.0
+208,Power Coating Lv1,Power Coating Lv1,mhxx-dex-1.0
+209,Power Coating Lv2,Power Coating Lv2,mhxx-dex-1.0
+210,Elem Coating Lv1,Elem Coating Lv1,mhxx-dex-1.0
+211,Elem Coating Lv2,Elem Coating Lv2,mhxx-dex-1.0
+212,C.Range Coating,C.Range Coating,mhxx-dex-1.0
+213,Poison Coating,Poison Coating,mhxx-dex-1.0
+214,Para Coating,Para Coating,mhxx-dex-1.0
+215,Sleep Coating,Sleep Coating,mhxx-dex-1.0
+216,Exhaust Coating,Exhaust Coating,mhxx-dex-1.0
+217,Blast Coating,Blast Coating,mhxx-dex-1.0
+218,Paint Coating,Paint Coating,mhxx-dex-1.0
+219,Larval Extract,Larval Extract,mhxx-dex-1.0
+220,Paralarval Extract,Paralarval Extract,mhxx-dex-1.0
+221,Power Jelly,Power Jelly,mhxx-dex-1.0
+222,Heavy Jelly,Heavy Jelly,mhxx-dex-1.0
+223,Speed Jelly,Speed Jelly,mhxx-dex-1.0
+224,Fire Ambrosia,Fire Ambrosia,mhxx-dex-1.0
+225,Water Ambrosia,Water Ambrosia,mhxx-dex-1.0
+226,Thunder Ambrosia,Thunder Ambrosia,mhxx-dex-1.0
+227,Ice Ambrosia,Ice Ambrosia,mhxx-dex-1.0
+228,Dragon Ambrosia,Dragon Ambrosia,mhxx-dex-1.0
+229,Power Jelly+,Power Jelly+,mhxx-dex-1.0
+230,Heavy Jelly+,Heavy Jelly+,mhxx-dex-1.0
+231,Speed Jelly+,Speed Jelly+,mhxx-dex-1.0
+232,Power Jelly++,Power Jelly++,mhxx-dex-1.0
+233,Heavy Jelly++,Heavy Jelly++,mhxx-dex-1.0
+234,Speed Jelly++,Speed Jelly++,mhxx-dex-1.0
+235,Fire Ambrosia+,Fire Ambrosia+,mhxx-dex-1.0
+236,Water Ambrosia+,Water Ambrosia+,mhxx-dex-1.0
+237,Thunder Ambrosia+,Thunder Ambrosia+,mhxx-dex-1.0
+238,Ice Ambrosia+,Ice Ambrosia+,mhxx-dex-1.0
+239,Dragon Ambrosia+,Dragon Ambrosia+,mhxx-dex-1.0
+240,Douse Ambrosia,Douse Ambrosia,mhxx-dex-1.0
+241,Drought Ambrosia,Drought Ambrosia,mhxx-dex-1.0
+242,Resistor Ambrosia,Resistor Ambrosia,mhxx-dex-1.0
+243,Melt Ambrosia,Melt Ambrosia,mhxx-dex-1.0
+244,De-wyrm Ambrosia,De-wyrm Ambrosia,mhxx-dex-1.0
+245,Reverse Ambrosia,Reverse Ambrosia,mhxx-dex-1.0
+246,Alchemy Barrel,Alchemy Barrel,mhxx-dex-1.0
+247,Alchemy Food,Alchemy Food,mhxx-dex-1.0
+248,Alchemy Immunizer,Alchemy Immunizer,mhxx-dex-1.0
+249,Alchemy Earplugs,Alchemy Earplugs,mhxx-dex-1.0
+250,Alchemy Slick,Alchemy Slick,mhxx-dex-1.0
+251,Alchemy Cheer,Alchemy Cheer,mhxx-dex-1.0
+252,Alchemy Whetstone,Alchemy Whetstone,mhxx-dex-1.0
+253,Alchemy Bullet,Alchemy Bullet,mhxx-dex-1.0
+254,Alchemy Coating,Alchemy Coating,mhxx-dex-1.0
+255,Alchemy Sonic Bomb,Alchemy Sonic Bomb,mhxx-dex-1.0
+256,Alchemy Booster,Alchemy Booster,mhxx-dex-1.0
+257,Alchemy Fireball,Alchemy Fireball,mhxx-dex-1.0
+258,Alchemy Remedy,Alchemy Remedy,mhxx-dex-1.0
+259,Worm,Worm,mhxx-dex-1.0
+260,Mega Fishing Fly,Mega Fishing Fly,mhxx-dex-1.0
+261,Frog,Frog,mhxx-dex-1.0
+262,Sushifish Bait,Sushifish Bait,mhxx-dex-1.0
+263,Burst Bait,Burst Bait,mhxx-dex-1.0
+264,Goldenfish Bait,Goldenfish Bait,mhxx-dex-1.0
+265,Field Horn,Field Horn,mhxx-dex-1.0
+266,Health Flute,Health Flute,mhxx-dex-1.0
+267,Antidote Flute,Antidote Flute,mhxx-dex-1.0
+268,Demon Flute,Demon Flute,mhxx-dex-1.0
+269,Armor Flute,Armor Flute,mhxx-dex-1.0
+270,Garbage,Garbage,mhxx-dex-1.0
+271,Honey,Honey,mhxx-dex-1.0
+272,Herb,Herb,mhxx-dex-1.0
+273,Antidote Herb,Antidote Herb,mhxx-dex-1.0
+274,Fire Herb,Fire Herb,mhxx-dex-1.0
+275,Ivy,Ivy,mhxx-dex-1.0
+276,Sleep Herb,Sleep Herb,mhxx-dex-1.0
+277,Sap Plant,Sap Plant,mhxx-dex-1.0
+278,Felvine,Felvine,mhxx-dex-1.0
+279,Gloamgrass Root,Gloamgrass Root,mhxx-dex-1.0
+280,Hot Pepper,Hot Pepper,mhxx-dex-1.0
+281,Snow Herb,Snow Herb,mhxx-dex-1.0
+282,Spicy Mushroom,Spicy Mushroom,mhxx-dex-1.0
+283,Frozen Berry,Frozen Berry,mhxx-dex-1.0
+284,King Cactus,King Cactus,mhxx-dex-1.0
+285,Dosbiscus,Dosbiscus,mhxx-dex-1.0
+286,Heftcorn,Heftcorn,mhxx-dex-1.0
+287,Stargazer Flower,Stargazer Flower,mhxx-dex-1.0
+288,Prismatic Dandelion,Prismatic Dandelion,mhxx-dex-1.0
+289,Immaculate Ore,Immaculate Ore,mhxx-dex-1.0
+290,Dragonvine,Dragonvine,mhxx-dex-1.0
+291,Tough Dragonvine,Tough Dragonvine,mhxx-dex-1.0
+292,Blue Mushroom,Blue Mushroom,mhxx-dex-1.0
+293,Nitroshroom,Nitroshroom,mhxx-dex-1.0
+294,Parashroom,Parashroom,mhxx-dex-1.0
+295,Toadstool,Toadstool,mhxx-dex-1.0
+296,Mopeshroom,Mopeshroom,mhxx-dex-1.0
+297,Exciteshroom,Exciteshroom,mhxx-dex-1.0
+298,Dragon Toadstool,Dragon Toadstool,mhxx-dex-1.0
+299,Chaos Mushroom,Chaos Mushroom,mhxx-dex-1.0
+300,Bindshroom,Bindshroom,mhxx-dex-1.0
+301,Reststool,Reststool,mhxx-dex-1.0
+302,Paintberry,Paintberry,mhxx-dex-1.0
+303,Might Seed,Might Seed,mhxx-dex-1.0
+304,Adamant Seed,Adamant Seed,mhxx-dex-1.0
+305,Nulberry,Nulberry,mhxx-dex-1.0
+306,Dragonfell Berry,Dragonfell Berry,mhxx-dex-1.0
+307,Scatternut,Scatternut,mhxx-dex-1.0
+308,Needleberry,Needleberry,mhxx-dex-1.0
+309,Latchberry,Latchberry,mhxx-dex-1.0
+310,Bomberry,Bomberry,mhxx-dex-1.0
+311,Bumblepumpkin,Bumblepumpkin,mhxx-dex-1.0
+312,Giant Acorn,Giant Acorn,mhxx-dex-1.0
+313,Spiky Acorn,Spiky Acorn,mhxx-dex-1.0
+314,Yukumo Wood,Yukumo Wood,mhxx-dex-1.0
+315,Yukumo Hardwood,Yukumo Hardwood,mhxx-dex-1.0
+316,Yukumo Stoutwood,Yukumo Stoutwood,mhxx-dex-1.0
+317,Stone,Stone,mhxx-dex-1.0
+318,Iron Ore,Iron Ore,mhxx-dex-1.0
+319,Earth Crystal,Earth Crystal,mhxx-dex-1.0
+320,Machalite Ore,Machalite Ore,mhxx-dex-1.0
+321,Disc Stone,Disc Stone,mhxx-dex-1.0
+322,Ice Crystal,Ice Crystal,mhxx-dex-1.0
+323,Bealite Ore,Bealite Ore,mhxx-dex-1.0
+324,Lightcrystal,Lightcrystal,mhxx-dex-1.0
+325,Dragonite Ore,Dragonite Ore,mhxx-dex-1.0
+326,Firestone,Firestone,mhxx-dex-1.0
+327,Allfire Stone,Allfire Stone,mhxx-dex-1.0
+328,Lava Nugget,Lava Nugget,mhxx-dex-1.0
+329,Carbalite Ore,Carbalite Ore,mhxx-dex-1.0
+330,Eltalite Ore,Eltalite Ore,mhxx-dex-1.0
+331,Meldspar Ore,Meldspar Ore,mhxx-dex-1.0
+332,Novacrystal,Novacrystal,mhxx-dex-1.0
+333,Purecrystal,Purecrystal,mhxx-dex-1.0
+334,Fucium Ore,Fucium Ore,mhxx-dex-1.0
+335,Firecell Stone,Firecell Stone,mhxx-dex-1.0
+336,Rainbow Ore,Rainbow Ore,mhxx-dex-1.0
+337,Pristine Ore,Pristine Ore,mhxx-dex-1.0
+338,Ultimas Crystal,Ultimas Crystal,mhxx-dex-1.0
+339,Aquaglow Jewel,Aquaglow Jewel,mhxx-dex-1.0
+340,Sunspire Jewel,Sunspire Jewel,mhxx-dex-1.0
+341,Bloodrun Jewel,Bloodrun Jewel,mhxx-dex-1.0
+342,Lazurite Jewel,Lazurite Jewel,mhxx-dex-1.0
+343,Adamant Orb,Adamant Orb,mhxx-dex-1.0
+344,Sovereign Orb,Sovereign Orb,mhxx-dex-1.0
+345,Armor Stone,Armor Stone,mhxx-dex-1.0
+346,Armor Sphere,Armor Sphere,mhxx-dex-1.0
+347,Armor Sphere+,Armor Sphere+,mhxx-dex-1.0
+348,Adv Armor Sphere,Adv Armor Sphere,mhxx-dex-1.0
+349,Hard Armor Sphere,Hard Armor Sphere,mhxx-dex-1.0
+350,Heavy Armor Sphere,Heavy Armor Sphere,mhxx-dex-1.0
+351,King Armor Sphere,King Armor Sphere,mhxx-dex-1.0
+352,True Armor Sphere,True Armor Sphere,mhxx-dex-1.0
+353,Mystery Charm,Mystery Charm,mhxx-dex-1.0
+354,Shining Charm,Shining Charm,mhxx-dex-1.0
+355,Timeworn Charm,Timeworn Charm,mhxx-dex-1.0
+356,Enduring Charm,Enduring Charm,mhxx-dex-1.0
+357,Rustshard,Rustshard,mhxx-dex-1.0
+358,Ancient Shard,Ancient Shard,mhxx-dex-1.0
+359,Rare Fish,Rare Fish,mhxx-dex-1.0
+360,Burnt Fish,Burnt Fish,mhxx-dex-1.0
+361,Gourmet Fish,Gourmet Fish,mhxx-dex-1.0
+362,Whetfish,Whetfish,mhxx-dex-1.0
+363,Sushifish,Sushifish,mhxx-dex-1.0
+364,Sleepyfish,Sleepyfish,mhxx-dex-1.0
+365,Pin Tuna,Pin Tuna,mhxx-dex-1.0
+366,Speartuna,Speartuna,mhxx-dex-1.0
+367,Popfish,Popfish,mhxx-dex-1.0
+368,Scatterfish,Scatterfish,mhxx-dex-1.0
+369,Burst Arowana,Burst Arowana,mhxx-dex-1.0
+370,Bomb Arowana,Bomb Arowana,mhxx-dex-1.0
+371,Glutton Tuna,Glutton Tuna,mhxx-dex-1.0
+372,Gastronome Tuna,Gastronome Tuna,mhxx-dex-1.0
+373,Ancient Fish,Ancient Fish,mhxx-dex-1.0
+374,Small Goldenfish,Small Goldenfish,mhxx-dex-1.0
+375,Wanchovy,Wanchovy,mhxx-dex-1.0
+376,Blue Cutthroat,Blue Cutthroat,mhxx-dex-1.0
+377,Humspun Conch,Humspun Conch,mhxx-dex-1.0
+378,Armored Bream,Armored Bream,mhxx-dex-1.0
+379,Sharqskin,Sharqskin,mhxx-dex-1.0
+380,Springnight Carp,Springnight Carp,mhxx-dex-1.0
+381,Tailed Frog,Tailed Frog,mhxx-dex-1.0
+382,Guardfish,Guardfish,mhxx-dex-1.0
+383,Insect Husk,Insect Husk,mhxx-dex-1.0
+384,Godbug,Godbug,mhxx-dex-1.0
+385,Bitterbug,Bitterbug,mhxx-dex-1.0
+386,Flashbug,Flashbug,mhxx-dex-1.0
+387,Thunderbug,Thunderbug,mhxx-dex-1.0
+388,Stinkhopper,Stinkhopper,mhxx-dex-1.0
+389,Snakebee Larva,Snakebee Larva,mhxx-dex-1.0
+390,Stygian Worm,Stygian Worm,mhxx-dex-1.0
+391,Carpenterbug,Carpenterbug,mhxx-dex-1.0
+392,Shiny Beetle,Shiny Beetle,mhxx-dex-1.0
+393,Hercudrome,Hercudrome,mhxx-dex-1.0
+394,Fulgurbug,Fulgurbug,mhxx-dex-1.0
+395,King Scarab,King Scarab,mhxx-dex-1.0
+396,Rare Scarab,Rare Scarab,mhxx-dex-1.0
+397,Blossom Cricket,Blossom Cricket,mhxx-dex-1.0
+398,Great Hornfly,Great Hornfly,mhxx-dex-1.0
+399,Butterfly Beetle,Butterfly Beetle,mhxx-dex-1.0
+400,Great Ladybug,Great Ladybug,mhxx-dex-1.0
+401,Emperor Hopper,Emperor Hopper,mhxx-dex-1.0
+402,Flutterfly,Flutterfly,mhxx-dex-1.0
+403,Toxic Kumori,Toxic Kumori,mhxx-dex-1.0
+404,Large Toxic Kumori,Large Toxic Kumori,mhxx-dex-1.0
+405,Lethal Kumori,Lethal Kumori,mhxx-dex-1.0
+406,Dracophage Bug,Dracophage Bug,mhxx-dex-1.0
+407,Monster Bone S,Monster Bone S,mhxx-dex-1.0
+408,Monster Bone M,Monster Bone M,mhxx-dex-1.0
+409,Monster Bone L,Monster Bone L,mhxx-dex-1.0
+410,Mystery Bone,Mystery Bone,mhxx-dex-1.0
+411,Unknown Skull,Unknown Skull,mhxx-dex-1.0
+412,Huge Unknown Skull,Huge Unknown Skull,mhxx-dex-1.0
+413,Monster Bone+,Monster Bone+,mhxx-dex-1.0
+414,Monster Keenbone,Monster Keenbone,mhxx-dex-1.0
+415,Monster Hardbone,Monster Hardbone,mhxx-dex-1.0
+416,Monster Toughbone,Monster Toughbone,mhxx-dex-1.0
+417,Monster Slogbone,Monster Slogbone,mhxx-dex-1.0
+418,Elder Dragon Bone,Elder Dragon Bone,mhxx-dex-1.0
+419,Lrg ElderDragon Bone,Lrg ElderDragon Bone,mhxx-dex-1.0
+420,Avian Finebone,Avian Finebone,mhxx-dex-1.0
+421,Avian Stoutbone,Avian Stoutbone,mhxx-dex-1.0
+422,Large Herbivore Bone,Large Herbivore Bone,mhxx-dex-1.0
+423,Brute Bone,Brute Bone,mhxx-dex-1.0
+424,Jumbo Bone,Jumbo Bone,mhxx-dex-1.0
+425,Stoutbone,Stoutbone,mhxx-dex-1.0
+426,Massive Bone,Massive Bone,mhxx-dex-1.0
+427,Dragonbone Relic,Dragonbone Relic,mhxx-dex-1.0
+428,Dragonbone Artifact,Dragonbone Artifact,mhxx-dex-1.0
+429,Irregular Bone,Irregular Bone,mhxx-dex-1.0
+430,Irregular Stoutbone,Irregular Stoutbone,mhxx-dex-1.0
+431,Irregular Slogbone,Irregular Slogbone,mhxx-dex-1.0
+432,Wyvern Fang,Wyvern Fang,mhxx-dex-1.0
+433,Wyvern Claw,Wyvern Claw,mhxx-dex-1.0
+434,Sharp Claw,Sharp Claw,mhxx-dex-1.0
+435,Piercing Claw,Piercing Claw,mhxx-dex-1.0
+436,Sharp Fang,Sharp Fang,mhxx-dex-1.0
+437,Crushing Fang,Crushing Fang,mhxx-dex-1.0
+438,Bird Wyvern Gem,Bird Wyvern Gem,mhxx-dex-1.0
+439,Fey Wyvern Gem,Fey Wyvern Gem,mhxx-dex-1.0
+440,Wyvern Gem,Wyvern Gem,mhxx-dex-1.0
+441,Lrg Wyvern Gem,Lrg Wyvern Gem,mhxx-dex-1.0
+442,Elder Dragon Blood,Elder Dragon Blood,mhxx-dex-1.0
+443,Pure Dragon Blood,Pure Dragon Blood,mhxx-dex-1.0
+444,Viscous Dragon Blood,Viscous Dragon Blood,mhxx-dex-1.0
+445,Steel Egg,Steel Egg,mhxx-dex-1.0
+446,Silver Egg,Silver Egg,mhxx-dex-1.0
+447,Golden Egg,Golden Egg,mhxx-dex-1.0
+448,Platinum Egg,Platinum Egg,mhxx-dex-1.0
+449,Slickaxe,Slickaxe,mhxx-dex-1.0
+450,Screamer Sac,Screamer Sac,mhxx-dex-1.0
+451,Poison Sac,Poison Sac,mhxx-dex-1.0
+452,Toxin Sac,Toxin Sac,mhxx-dex-1.0
+453,Deadly Poison Sac,Deadly Poison Sac,mhxx-dex-1.0
+454,Paralysis Sac,Paralysis Sac,mhxx-dex-1.0
+455,Omniplegia Sac,Omniplegia Sac,mhxx-dex-1.0
+456,Ultraplegia Sac,Ultraplegia Sac,mhxx-dex-1.0
+457,Sleep Sac,Sleep Sac,mhxx-dex-1.0
+458,Coma Sac,Coma Sac,mhxx-dex-1.0
+459,Torpor Sac,Torpor Sac,mhxx-dex-1.0
+460,Flame Sac,Flame Sac,mhxx-dex-1.0
+461,Inferno Sac,Inferno Sac,mhxx-dex-1.0
+462,Conflagrant Sac,Conflagrant Sac,mhxx-dex-1.0
+463,Electro Sac,Electro Sac,mhxx-dex-1.0
+464,Thunder Sac,Thunder Sac,mhxx-dex-1.0
+465,Lightning Sac,Lightning Sac,mhxx-dex-1.0
+466,Freezer Sac,Freezer Sac,mhxx-dex-1.0
+467,Cryo Sac,Cryo Sac,mhxx-dex-1.0
+468,Aqua Sac,Aqua Sac,mhxx-dex-1.0
+469,Torrent Sac,Torrent Sac,mhxx-dex-1.0
+470,Flood Sac,Flood Sac,mhxx-dex-1.0
+471,Dash Extract,Dash Extract,mhxx-dex-1.0
+472,Pale Extract,Pale Extract,mhxx-dex-1.0
+473,Hyper Extract,Hyper Extract,mhxx-dex-1.0
+474,Potent Hyper Extract,Potent Hyper Extract,mhxx-dex-1.0
+475,Hyper Fang,Hyper Fang,mhxx-dex-1.0
+476,Hyper Fang+,Hyper Fang+,mhxx-dex-1.0
+477,Hyper Hardfang,Hyper Hardfang,mhxx-dex-1.0
+478,Hyper Keenfang,Hyper Keenfang,mhxx-dex-1.0
+479,Hyper Solidfang,Hyper Solidfang,mhxx-dex-1.0
+480,Hyper Claw,Hyper Claw,mhxx-dex-1.0
+481,Hyper Claw+,Hyper Claw+,mhxx-dex-1.0
+482,Hyper Heavyclaw,Hyper Heavyclaw,mhxx-dex-1.0
+483,Hyper Keenclaw,Hyper Keenclaw,mhxx-dex-1.0
+484,Hyper Solidclaw,Hyper Solidclaw,mhxx-dex-1.0
+485,Hyper Monster Bone,Hyper Monster Bone,mhxx-dex-1.0
+486,Hyper MnstrToughbone,Hyper MnstrToughbone,mhxx-dex-1.0
+487,Hyper MnstrSlogbone,Hyper MnstrSlogbone,mhxx-dex-1.0
+488,Hyper Horn+,Hyper Horn+,mhxx-dex-1.0
+489,Hyper Hardhorn,Hyper Hardhorn,mhxx-dex-1.0
+490,Hyper Flame Sac,Hyper Flame Sac,mhxx-dex-1.0
+491,Hyper Conflagrant Sac,Hyper Conflagrant Sac,mhxx-dex-1.0
+492,Hyper Pyroscale,Hyper Pyroscale,mhxx-dex-1.0
+493,Hyper Flarescale,Hyper Flarescale,mhxx-dex-1.0
+494,Hyper Aqua Sac,Hyper Aqua Sac,mhxx-dex-1.0
+495,Hyper Flood Sac,Hyper Flood Sac,mhxx-dex-1.0
+496,Hyper Fluid,Hyper Fluid,mhxx-dex-1.0
+497,Hyper Viscous Fluid,Hyper Viscous Fluid,mhxx-dex-1.0
+498,Hyper Electro Sac,Hyper Electro Sac,mhxx-dex-1.0
+499,Hyper Lightning Sac,Hyper Lightning Sac,mhxx-dex-1.0
+500,Hyper Charged Shell,Hyper Charged Shell,mhxx-dex-1.0
+501,Hyper Amped Shell,Hyper Amped Shell,mhxx-dex-1.0
+502,Hyper Shockfur,Hyper Shockfur,mhxx-dex-1.0
+503,Hyper Fluxfur,Hyper Fluxfur,mhxx-dex-1.0
+504,Hyper Ice Block,Hyper Ice Block,mhxx-dex-1.0
+505,Hyper Ice Chunk,Hyper Ice Chunk,mhxx-dex-1.0
+506,Hyper Draco. Scale,Hyper Draco. Scale,mhxx-dex-1.0
+507,Hyper Draco. Scale+,Hyper Draco. Scale+,mhxx-dex-1.0
+508,Hyper Toxin,Hyper Toxin,mhxx-dex-1.0
+509,Hyper Potent Toxin,Hyper Potent Toxin,mhxx-dex-1.0
+510,Hyper Paratoxin,Hyper Paratoxin,mhxx-dex-1.0
+511,Hyper Potent Paratoxin,Hyper Potent Paratoxin,mhxx-dex-1.0
+512,Hyper Sleep Sac,Hyper Sleep Sac,mhxx-dex-1.0
+513,Hyper Coma Sac,Hyper Coma Sac,mhxx-dex-1.0
+514,Hyper Narcotoxin,Hyper Narcotoxin,mhxx-dex-1.0
+515,Hyper Potent Narcotoxin,Hyper Potent Narcotoxin,mhxx-dex-1.0
+516,Hyper Catalyst,Hyper Catalyst,mhxx-dex-1.0
+517,Hyper Catalyst+,Hyper Catalyst+,mhxx-dex-1.0
+518,Felyne Fur Ruby,Felyne Fur Ruby,mhxx-dex-1.0
+519,Larinoth Hide,Larinoth Hide,mhxx-dex-1.0
+520,Larinoth Finehide,Larinoth Finehide,mhxx-dex-1.0
+521,Gargwa Feather,Gargwa Feather,mhxx-dex-1.0
+522,Gargwa Finefeather,Gargwa Finefeather,mhxx-dex-1.0
+523,Moofah Horn,Moofah Horn,mhxx-dex-1.0
+524,Moofah Fleeceball,Moofah Fleeceball,mhxx-dex-1.0
+525,Moofah Heavyhorn,Moofah Heavyhorn,mhxx-dex-1.0
+526,Kelbi Horn,Kelbi Horn,mhxx-dex-1.0
+527,Warm Pelt,Warm Pelt,mhxx-dex-1.0
+528,High-quality Pelt,High-quality Pelt,mhxx-dex-1.0
+529,Prized Pelt,Prized Pelt,mhxx-dex-1.0
+530,Anteka Antler,Anteka Antler,mhxx-dex-1.0
+531,Anteka Proud Antler,Anteka Proud Antler,mhxx-dex-1.0
+532,Rhenoplos Shell,Rhenoplos Shell,mhxx-dex-1.0
+533,Rhenoplos Carapace,Rhenoplos Carapace,mhxx-dex-1.0
+534,Rhenoplos Scalp,Rhenoplos Scalp,mhxx-dex-1.0
+535,Slagtoth Hide+,Slagtoth Hide+,mhxx-dex-1.0
+536,Supple Piel,Supple Piel,mhxx-dex-1.0
+537,Monster Fluid,Monster Fluid,mhxx-dex-1.0
+538,Monster Broth,Monster Broth,mhxx-dex-1.0
+539,Monster Essence,Monster Essence,mhxx-dex-1.0
+540,Bnahabra Shell,Bnahabra Shell,mhxx-dex-1.0
+541,Bnahabra Carapace,Bnahabra Carapace,mhxx-dex-1.0
+542,Bnahabra Wing,Bnahabra Wing,mhxx-dex-1.0
+543,Bnahabra Razorwing,Bnahabra Razorwing,mhxx-dex-1.0
+544,Altaroth Jaw,Altaroth Jaw,mhxx-dex-1.0
+545,Altaroth Stomach,Altaroth Stomach,mhxx-dex-1.0
+546,Quality Stomach,Quality Stomach,mhxx-dex-1.0
+547,Premium Stomach,Premium Stomach,mhxx-dex-1.0
+548,Vespoid Shell,Vespoid Shell,mhxx-dex-1.0
+549,Vespoid Carapace,Vespoid Carapace,mhxx-dex-1.0
+550,Vespoid Wing,Vespoid Wing,mhxx-dex-1.0
+551,Vespoid Innerwing,Vespoid Innerwing,mhxx-dex-1.0
+552,Vespoid Razorwing,Vespoid Razorwing,mhxx-dex-1.0
+553,Hornetaur Shell,Hornetaur Shell,mhxx-dex-1.0
+554,Hornetaur Carapace,Hornetaur Carapace,mhxx-dex-1.0
+555,Hornetaur Wing,Hornetaur Wing,mhxx-dex-1.0
+556,Hornetaur Innerwing,Hornetaur Innerwing,mhxx-dex-1.0
+557,Hornetaur Razorwing,Hornetaur Razorwing,mhxx-dex-1.0
+558,Hornetaur Head,Hornetaur Head,mhxx-dex-1.0
+559,Konchu Shell,Konchu Shell,mhxx-dex-1.0
+560,Konchu Carapace,Konchu Carapace,mhxx-dex-1.0
+561,Konchu Cortex,Konchu Cortex,mhxx-dex-1.0
+562,Shocking Extract,Shocking Extract,mhxx-dex-1.0
+563,Shocking Jelly,Shocking Jelly,mhxx-dex-1.0
+564,Remobra Hide,Remobra Hide,mhxx-dex-1.0
+565,Remobra Hide+,Remobra Hide+,mhxx-dex-1.0
+566,Remobra Finehide,Remobra Finehide,mhxx-dex-1.0
+567,Striped Skin,Striped Skin,mhxx-dex-1.0
+568,Striped Finehide,Striped Finehide,mhxx-dex-1.0
+569,Remobra Head,Remobra Head,mhxx-dex-1.0
+570,Mighty Remobra Head,Mighty Remobra Head,mhxx-dex-1.0
+571,Bird Wyvern Fang,Bird Wyvern Fang,mhxx-dex-1.0
+572,Maccao Scale,Maccao Scale,mhxx-dex-1.0
+573,Maccao Scale+,Maccao Scale+,mhxx-dex-1.0
+574,Maccao Shard,Maccao Shard,mhxx-dex-1.0
+575,Maccao Hide,Maccao Hide,mhxx-dex-1.0
+576,Great Maccao Scale,Great Maccao Scale,mhxx-dex-1.0
+577,Great Maccao Scale+,Great Maccao Scale+,mhxx-dex-1.0
+578,Great Maccao Shard,Great Maccao Shard,mhxx-dex-1.0
+579,Great Maccao Hide,Great Maccao Hide,mhxx-dex-1.0
+580,Great Maccao Hide+,Great Maccao Hide+,mhxx-dex-1.0
+581,Great Maccao Piel,Great Maccao Piel,mhxx-dex-1.0
+582,Champion's Crest,Champion's Crest,mhxx-dex-1.0
+583,Glorious Crest,Glorious Crest,mhxx-dex-1.0
+584,Maccao Tailspike,Maccao Tailspike,mhxx-dex-1.0
+585,Maccao Tailspear,Maccao Tailspear,mhxx-dex-1.0
+586,Jaggi Scale,Jaggi Scale,mhxx-dex-1.0
+587,Jaggi Scale+,Jaggi Scale+,mhxx-dex-1.0
+588,Jaggi Shard,Jaggi Shard,mhxx-dex-1.0
+589,Jaggi Hide,Jaggi Hide,mhxx-dex-1.0
+590,Jaggi Piel,Jaggi Piel,mhxx-dex-1.0
+591,Velociprey Scale,Velociprey Scale,mhxx-dex-1.0
+592,Velociprey Scale+,Velociprey Scale+,mhxx-dex-1.0
+593,Velociprey Shard,Velociprey Shard,mhxx-dex-1.0
+594,Velociprey Hide,Velociprey Hide,mhxx-dex-1.0
+595,Velociprey Hide+,Velociprey Hide+,mhxx-dex-1.0
+596,Velocidrome Hide,Velocidrome Hide,mhxx-dex-1.0
+597,Velocidrome Hide+,Velocidrome Hide+,mhxx-dex-1.0
+598,Velocidrome Piel,Velocidrome Piel,mhxx-dex-1.0
+599,Velocidrome Claw,Velocidrome Claw,mhxx-dex-1.0
+600,Velocidrome Claw+,Velocidrome Claw+,mhxx-dex-1.0
+601,Velocidrome Talon,Velocidrome Talon,mhxx-dex-1.0
+602,Velocidrome Head,Velocidrome Head,mhxx-dex-1.0
+603,Genprey Fang,Genprey Fang,mhxx-dex-1.0
+604,Genprey Scale,Genprey Scale,mhxx-dex-1.0
+605,Genprey Scale+,Genprey Scale+,mhxx-dex-1.0
+606,Genprey Shard,Genprey Shard,mhxx-dex-1.0
+607,Genprey Hide,Genprey Hide,mhxx-dex-1.0
+608,Genprey Hide+,Genprey Hide+,mhxx-dex-1.0
+609,Gendrome Hide,Gendrome Hide,mhxx-dex-1.0
+610,Gendrome Hide+,Gendrome Hide+,mhxx-dex-1.0
+611,Gendrome Piel,Gendrome Piel,mhxx-dex-1.0
+612,Gendrome Fang,Gendrome Fang,mhxx-dex-1.0
+613,Gendrome Fang+,Gendrome Fang+,mhxx-dex-1.0
+614,Gendrome Hardfang,Gendrome Hardfang,mhxx-dex-1.0
+615,Gendrome Head,Gendrome Head,mhxx-dex-1.0
+616,Ioprey Fang,Ioprey Fang,mhxx-dex-1.0
+617,Ioprey Scale,Ioprey Scale,mhxx-dex-1.0
+618,Ioprey Scale+,Ioprey Scale+,mhxx-dex-1.0
+619,Ioprey Shard,Ioprey Shard,mhxx-dex-1.0
+620,Ioprey Hide,Ioprey Hide,mhxx-dex-1.0
+621,Ioprey Hide+,Ioprey Hide+,mhxx-dex-1.0
+622,Iodrome Hide,Iodrome Hide,mhxx-dex-1.0
+623,Iodrome Hide+,Iodrome Hide+,mhxx-dex-1.0
+624,Iodrome Piel,Iodrome Piel,mhxx-dex-1.0
+625,Iodrome Violet Scale,Iodrome Violet Scale,mhxx-dex-1.0
+626,Iodrome Violet Scale+,Iodrome Violet Scale+,mhxx-dex-1.0
+627,Iodrome Violet Shard,Iodrome Violet Shard,mhxx-dex-1.0
+628,Iodrome Head,Iodrome Head,mhxx-dex-1.0
+629,Giaprey Scale,Giaprey Scale,mhxx-dex-1.0
+630,Giaprey Scale+,Giaprey Scale+,mhxx-dex-1.0
+631,Giaprey Shard,Giaprey Shard,mhxx-dex-1.0
+632,Giaprey Hide,Giaprey Hide,mhxx-dex-1.0
+633,Giaprey Hide+,Giaprey Hide+,mhxx-dex-1.0
+634,Giadrome Hide+,Giadrome Hide+,mhxx-dex-1.0
+635,Giadrome Piel,Giadrome Piel,mhxx-dex-1.0
+636,Giadrome Claw+,Giadrome Claw+,mhxx-dex-1.0
+637,Giadrome Talon,Giadrome Talon,mhxx-dex-1.0
+638,Giadrome Head,Giadrome Head,mhxx-dex-1.0
+639,Arzuros Pelt,Arzuros Pelt,mhxx-dex-1.0
+640,Arzuros Pelt+,Arzuros Pelt+,mhxx-dex-1.0
+641,Arzuros Fur,Arzuros Fur,mhxx-dex-1.0
+642,Arzuros Shell,Arzuros Shell,mhxx-dex-1.0
+643,Arzuros Carapace,Arzuros Carapace,mhxx-dex-1.0
+644,Arzuros Cortex,Arzuros Cortex,mhxx-dex-1.0
+645,Arzuros Brace,Arzuros Brace,mhxx-dex-1.0
+646,Arzuros Brace+,Arzuros Brace+,mhxx-dex-1.0
+647,Arzuros Allbrace,Arzuros Allbrace,mhxx-dex-1.0
+648,Redhelm Pelt,Redhelm Pelt,mhxx-dex-1.0
+649,Redhelm Pelt+,Redhelm Pelt+,mhxx-dex-1.0
+650,Redhelm Fur,Redhelm Fur,mhxx-dex-1.0
+651,Redhelm Shell,Redhelm Shell,mhxx-dex-1.0
+652,Redhelm Carapace,Redhelm Carapace,mhxx-dex-1.0
+653,Redhelm Cortex,Redhelm Cortex,mhxx-dex-1.0
+654,Redhelm Ragehair,Redhelm Ragehair,mhxx-dex-1.0
+655,Redhelm Furyhair,Redhelm Furyhair,mhxx-dex-1.0
+656,Redhelm Zenith Furyhair,Redhelm Zenith Furyhair,mhxx-dex-1.0
+657,Lagombi Pelt,Lagombi Pelt,mhxx-dex-1.0
+658,Lagombi Pelt+,Lagombi Pelt+,mhxx-dex-1.0
+659,Lagombi Fur,Lagombi Fur,mhxx-dex-1.0
+660,Lagombi Ear,Lagombi Ear,mhxx-dex-1.0
+661,Lagombi Ear+,Lagombi Ear+,mhxx-dex-1.0
+662,Lagombi Plastron,Lagombi Plastron,mhxx-dex-1.0
+663,Lagombi Plastron+,Lagombi Plastron+,mhxx-dex-1.0
+664,Lagombi Cuirass,Lagombi Cuirass,mhxx-dex-1.0
+665,Lagombi Iceclaw,Lagombi Iceclaw,mhxx-dex-1.0
+666,Lagombi Frozenclaw,Lagombi Frozenclaw,mhxx-dex-1.0
+667,Lagombi Frigidclaw,Lagombi Frigidclaw,mhxx-dex-1.0
+668,Snowbaron Pelt,Snowbaron Pelt,mhxx-dex-1.0
+669,Snowbaron Pelt+,Snowbaron Pelt+,mhxx-dex-1.0
+670,Snowbaron Fur,Snowbaron Fur,mhxx-dex-1.0
+671,Snowbaron Plastron,Snowbaron Plastron,mhxx-dex-1.0
+672,Snowbaron Plastron+,Snowbaron Plastron+,mhxx-dex-1.0
+673,Snowbaron Cuirass,Snowbaron Cuirass,mhxx-dex-1.0
+674,Volvidon Shell,Volvidon Shell,mhxx-dex-1.0
+675,Volvidon Carapace,Volvidon Carapace,mhxx-dex-1.0
+676,Volvidon Cortex,Volvidon Cortex,mhxx-dex-1.0
+677,Volvidon Claw,Volvidon Claw,mhxx-dex-1.0
+678,Volvidon Claw+,Volvidon Claw+,mhxx-dex-1.0
+679,Volvidon Talon,Volvidon Talon,mhxx-dex-1.0
+680,Volvi Rickrack,Volvi Rickrack,mhxx-dex-1.0
+681,Large Volvi Rickrack,Large Volvi Rickrack,mhxx-dex-1.0
+682,Kut-Ku Scale,Kut-Ku Scale,mhxx-dex-1.0
+683,Kut-Ku Scale+,Kut-Ku Scale+,mhxx-dex-1.0
+684,Kut-Ku Shard,Kut-Ku Shard,mhxx-dex-1.0
+685,Kut-Ku Shell,Kut-Ku Shell,mhxx-dex-1.0
+686,Kut-Ku Carapace,Kut-Ku Carapace,mhxx-dex-1.0
+687,Kut-Ku Cortex,Kut-Ku Cortex,mhxx-dex-1.0
+688,Kut-Ku Ear,Kut-Ku Ear,mhxx-dex-1.0
+689,Kut-Ku Auricle,Kut-Ku Auricle,mhxx-dex-1.0
+690,Kut-Ku Luckear,Kut-Ku Luckear,mhxx-dex-1.0
+691,Giant Beak,Giant Beak,mhxx-dex-1.0
+692,Splendid Beak,Splendid Beak,mhxx-dex-1.0
+693,Kut-Ku Webbing,Kut-Ku Webbing,mhxx-dex-1.0
+694,Kut-Ku Weave,Kut-Ku Weave,mhxx-dex-1.0
+695,Hyper Kut-Ku Scale,Hyper Kut-Ku Scale,mhxx-dex-1.0
+696,Hyper Kut-Ku Shard,Hyper Kut-Ku Shard,mhxx-dex-1.0
+697,Rubbery Hide,Rubbery Hide,mhxx-dex-1.0
+698,Rubbery Hide+,Rubbery Hide+,mhxx-dex-1.0
+699,Rubbery Finehide,Rubbery Finehide,mhxx-dex-1.0
+700,Gypceros Webbing,Gypceros Webbing,mhxx-dex-1.0
+701,Gypceros Weave,Gypceros Weave,mhxx-dex-1.0
+702,Gypceros Wing,Gypceros Wing,mhxx-dex-1.0
+703,Gypceros Head,Gypceros Head,mhxx-dex-1.0
+704,Gypceros Hardhead,Gypceros Hardhead,mhxx-dex-1.0
+705,Hyper Gypceros Hide,Hyper Gypceros Hide,mhxx-dex-1.0
+706,Hyper Gypceros Piel,Hyper Gypceros Piel,mhxx-dex-1.0
+707,Azurefeather,Azurefeather,mhxx-dex-1.0
+708,Azurefeather+,Azurefeather+,mhxx-dex-1.0
+709,Azure Plume,Azure Plume,mhxx-dex-1.0
+710,Malfestio Webbing,Malfestio Webbing,mhxx-dex-1.0
+711,Malfestio Wing,Malfestio Wing,mhxx-dex-1.0
+712,Malfestio Grandwing,Malfestio Grandwing,mhxx-dex-1.0
+713,Malfestio Wingtalon,Malfestio Wingtalon,mhxx-dex-1.0
+714,Malfestio Wingtalon+,Malfestio Wingtalon+,mhxx-dex-1.0
+715,Malfestio Hrd Wingtalon,Malfestio Hrd Wingtalon,mhxx-dex-1.0
+716,Malfestio Ear,Malfestio Ear,mhxx-dex-1.0
+717,Malfestio Luckear,Malfestio Luckear,mhxx-dex-1.0
+718,Malfestio Tailfeather,Malfestio Tailfeather,mhxx-dex-1.0
+719,Malfestio Tailblade,Malfestio Tailblade,mhxx-dex-1.0
+720,Malfestio Goldfeather,Malfestio Goldfeather,mhxx-dex-1.0
+721,Malfestio Goldfeather+,Malfestio Goldfeather+,mhxx-dex-1.0
+722,Hyper Azurefeather,Hyper Azurefeather,mhxx-dex-1.0
+723,Hyper Azurefeather+,Hyper Azurefeather+,mhxx-dex-1.0
+724,Nightcloak Plume,Nightcloak Plume,mhxx-dex-1.0
+725,Nightcloak Grandwing,Nightcloak Grandwing,mhxx-dex-1.0
+726,Nightcloak Clearscale,Nightcloak Clearscale,mhxx-dex-1.0
+727,Garuga Scale,Garuga Scale,mhxx-dex-1.0
+728,Garuga Scale+,Garuga Scale+,mhxx-dex-1.0
+729,Garuga Shard,Garuga Shard,mhxx-dex-1.0
+730,Garuga Shell,Garuga Shell,mhxx-dex-1.0
+731,Garuga Carapace,Garuga Carapace,mhxx-dex-1.0
+732,Garuga Cortex,Garuga Cortex,mhxx-dex-1.0
+733,Garuga Ear,Garuga Ear,mhxx-dex-1.0
+734,Garuga Auricle,Garuga Auricle,mhxx-dex-1.0
+735,Sharpened Beak,Sharpened Beak,mhxx-dex-1.0
+736,Rejuvenated Beak,Rejuvenated Beak,mhxx-dex-1.0
+737,Garuga Wing,Garuga Wing,mhxx-dex-1.0
+738,Garuga Fellwing,Garuga Fellwing,mhxx-dex-1.0
+739,Garuga Tail,Garuga Tail,mhxx-dex-1.0
+740,Garuga Lash,Garuga Lash,mhxx-dex-1.0
+741,Garuga Mane,Garuga Mane,mhxx-dex-1.0
+742,Garuga Silverpelt,Garuga Silverpelt,mhxx-dex-1.0
+743,Hyper Garuga Scale,Hyper Garuga Scale,mhxx-dex-1.0
+744,Hyper Garuga Shard,Hyper Garuga Shard,mhxx-dex-1.0
+745,Deadeye Scale,Deadeye Scale,mhxx-dex-1.0
+746,Deadeye Scale+,Deadeye Scale+,mhxx-dex-1.0
+747,Deadeye Shard,Deadeye Shard,mhxx-dex-1.0
+748,Deadeye Shell,Deadeye Shell,mhxx-dex-1.0
+749,Deadeye Carapace,Deadeye Carapace,mhxx-dex-1.0
+750,Deadeye Cortex,Deadeye Cortex,mhxx-dex-1.0
+751,Mosswine Hide,Mosswine Hide,mhxx-dex-1.0
+752,Mosswine Thick Hide,Mosswine Thick Hide,mhxx-dex-1.0
+753,Bullfango Pelt,Bullfango Pelt,mhxx-dex-1.0
+754,Bullfango Pelt+,Bullfango Pelt+,mhxx-dex-1.0
+755,Bullfango Thickfur,Bullfango Thickfur,mhxx-dex-1.0
+756,Bullfango Head,Bullfango Head,mhxx-dex-1.0
+757,Bulldrome Hide,Bulldrome Hide,mhxx-dex-1.0
+758,Bulldrome Hide+,Bulldrome Hide+,mhxx-dex-1.0
+759,Bulldrome Thickhide,Bulldrome Thickhide,mhxx-dex-1.0
+760,Bulldrome Tusk,Bulldrome Tusk,mhxx-dex-1.0
+761,Bulldrome Tusk+,Bulldrome Tusk+,mhxx-dex-1.0
+762,Bulldrome Hardtusk,Bulldrome Hardtusk,mhxx-dex-1.0
+763,Conga Pelt+,Conga Pelt+,mhxx-dex-1.0
+764,Conga Fur,Conga Fur,mhxx-dex-1.0
+765,Beastly Fang,Beastly Fang,mhxx-dex-1.0
+766,Congalala Pelt+,Congalala Pelt+,mhxx-dex-1.0
+767,Congalala Fur,Congalala Fur,mhxx-dex-1.0
+768,Congalala Fang,Congalala Fang,mhxx-dex-1.0
+769,Congalala Claw+,Congalala Claw+,mhxx-dex-1.0
+770,Vibrant Pelt,Vibrant Pelt,mhxx-dex-1.0
+771,Vibrant Fur,Vibrant Fur,mhxx-dex-1.0
+772,Congalala Hardclaw,Congalala Hardclaw,mhxx-dex-1.0
+773,Hyper Congalala Pelt+,Hyper Congalala Pelt+,mhxx-dex-1.0
+774,Blango Pelt,Blango Pelt,mhxx-dex-1.0
+775,Blango Pelt+,Blango Pelt+,mhxx-dex-1.0
+776,Blango Fur,Blango Fur,mhxx-dex-1.0
+777,Blangonga Pelt,Blangonga Pelt,mhxx-dex-1.0
+778,Blangonga Pelt+,Blangonga Pelt+,mhxx-dex-1.0
+779,Blangonga Fur,Blangonga Fur,mhxx-dex-1.0
+780,Blangonga Fang,Blangonga Fang,mhxx-dex-1.0
+781,Blangonga Fang+,Blangonga Fang+,mhxx-dex-1.0
+782,Blangonga Hardfang,Blangonga Hardfang,mhxx-dex-1.0
+783,Blangonga Whisker,Blangonga Whisker,mhxx-dex-1.0
+784,Leather Beast Pelt,Leather Beast Pelt,mhxx-dex-1.0
+785,Blangonga Tail,Blangonga Tail,mhxx-dex-1.0
+786,Blangonga Lash,Blangonga Lash,mhxx-dex-1.0
+787,Hyper Blangonga Pelt,Hyper Blangonga Pelt,mhxx-dex-1.0
+788,Hyper Blangonga Pelt+,Hyper Blangonga Pelt+,mhxx-dex-1.0
+789,Kecha Pelt+,Kecha Pelt+,mhxx-dex-1.0
+790,Kecha Fur,Kecha Fur,mhxx-dex-1.0
+791,Kecha Grandbone,Kecha Grandbone,mhxx-dex-1.0
+792,Kecha Leadbone,Kecha Leadbone,mhxx-dex-1.0
+793,Kecha Talon,Kecha Talon,mhxx-dex-1.0
+794,Kecha Ripper,Kecha Ripper,mhxx-dex-1.0
+795,Kecha Ear+,Kecha Ear+,mhxx-dex-1.0
+796,Kecha Auricle,Kecha Auricle,mhxx-dex-1.0
+797,Kecha Tail,Kecha Tail,mhxx-dex-1.0
+798,Kecha Lash,Kecha Lash,mhxx-dex-1.0
+799,Hyper Kecha Pelt,Hyper Kecha Pelt,mhxx-dex-1.0
+800,Hyper Kecha Pelt+,Hyper Kecha Pelt+,mhxx-dex-1.0
+801,Small Lobstershell,Small Lobstershell,mhxx-dex-1.0
+802,Large Lobstershell,Large Lobstershell,mhxx-dex-1.0
+803,Giant Lobstershell,Giant Lobstershell,mhxx-dex-1.0
+804,Cephalos Scale,Cephalos Scale,mhxx-dex-1.0
+805,Cephalos Scale+,Cephalos Scale+,mhxx-dex-1.0
+806,Cephalos Shard,Cephalos Shard,mhxx-dex-1.0
+807,Cephalos Fin,Cephalos Fin,mhxx-dex-1.0
+808,Cephalos Fin+,Cephalos Fin+,mhxx-dex-1.0
+809,Cephalos Grandfin,Cephalos Grandfin,mhxx-dex-1.0
+810,Cephalos Fang,Cephalos Fang,mhxx-dex-1.0
+811,Cephalos Fang+,Cephalos Fang+,mhxx-dex-1.0
+812,Cephalos Hardfang,Cephalos Hardfang,mhxx-dex-1.0
+813,Plesioth Scale+,Plesioth Scale+,mhxx-dex-1.0
+814,Plesioth Shard,Plesioth Shard,mhxx-dex-1.0
+815,Plesioth Fin+,Plesioth Fin+,mhxx-dex-1.0
+816,Plesioth Grandfin,Plesioth Grandfin,mhxx-dex-1.0
+817,Plesioth Fang+,Plesioth Fang+,mhxx-dex-1.0
+818,Plesioth Hardfang,Plesioth Hardfang,mhxx-dex-1.0
+819,Plesioth Webbing,Plesioth Webbing,mhxx-dex-1.0
+820,Hrd Ples Webbing,Hrd Ples Webbing,mhxx-dex-1.0
+821,Plesioth Head,Plesioth Head,mhxx-dex-1.0
+822,Uber Plesio Head,Uber Plesio Head,mhxx-dex-1.0
+823,Hyper Plesioth Scale,Hyper Plesioth Scale,mhxx-dex-1.0
+824,Hyper Plesioth Shard,Hyper Plesioth Shard,mhxx-dex-1.0
+825,Lavasioth Scale+,Lavasioth Scale+,mhxx-dex-1.0
+826,Lavasioth Shard,Lavasioth Shard,mhxx-dex-1.0
+827,Lavasioth Carapace,Lavasioth Carapace,mhxx-dex-1.0
+828,Lavasioth Cortex,Lavasioth Cortex,mhxx-dex-1.0
+829,Lavasioth Fang+,Lavasioth Fang+,mhxx-dex-1.0
+830,Lavasioth Hardfang,Lavasioth Hardfang,mhxx-dex-1.0
+831,Lavasioth Fin+,Lavasioth Fin+,mhxx-dex-1.0
+832,Lavasioth Grandfin,Lavasioth Grandfin,mhxx-dex-1.0
+833,Hyper Lavasioth Scale,Hyper Lavasioth Scale,mhxx-dex-1.0
+834,Hyper Lavasioth Shard,Hyper Lavasioth Shard,mhxx-dex-1.0
+835,Hydro Hide,Hydro Hide,mhxx-dex-1.0
+836,Hydro Hide+,Hydro Hide+,mhxx-dex-1.0
+837,Hydro Piel,Hydro Piel,mhxx-dex-1.0
+838,Immature Sponge,Immature Sponge,mhxx-dex-1.0
+839,Spongy Hide,Spongy Hide,mhxx-dex-1.0
+840,Spongy Hide+,Spongy Hide+,mhxx-dex-1.0
+841,Spongy Piel,Spongy Piel,mhxx-dex-1.0
+842,R.Ludroth Scale,R.Ludroth Scale,mhxx-dex-1.0
+843,R.Ludroth Scale+,R.Ludroth Scale+,mhxx-dex-1.0
+844,R.Ludroth Shard,R.Ludroth Shard,mhxx-dex-1.0
+845,R.Ludroth Claw,R.Ludroth Claw,mhxx-dex-1.0
+846,R.Ludroth Claw+,R.Ludroth Claw+,mhxx-dex-1.0
+847,R.Ludroth Talon,R.Ludroth Talon,mhxx-dex-1.0
+848,R.Ludroth Crest,R.Ludroth Crest,mhxx-dex-1.0
+849,R.Ludroth Crest+,R.Ludroth Crest+,mhxx-dex-1.0
+850,Chic Crest,Chic Crest,mhxx-dex-1.0
+851,R.Ludroth Tail,R.Ludroth Tail,mhxx-dex-1.0
+852,R.Ludroth Lash,R.Ludroth Lash,mhxx-dex-1.0
+853,Hyper R.Ludroth Scale,Hyper R.Ludroth Scale,mhxx-dex-1.0
+854,Hyper R.Ludroth Shard,Hyper R.Ludroth Shard,mhxx-dex-1.0
+855,Nibelsnarf Shell,Nibelsnarf Shell,mhxx-dex-1.0
+856,Nibel Carapace,Nibel Carapace,mhxx-dex-1.0
+857,Nibelsnarf Cortex,Nibelsnarf Cortex,mhxx-dex-1.0
+858,Nibelsnarf Hide,Nibelsnarf Hide,mhxx-dex-1.0
+859,Nibelsnarf Hide+,Nibelsnarf Hide+,mhxx-dex-1.0
+860,Nibelsnarf Piel,Nibelsnarf Piel,mhxx-dex-1.0
+861,Nibelsnarf Claw,Nibelsnarf Claw,mhxx-dex-1.0
+862,Nibelsnarf Claw+,Nibelsnarf Claw+,mhxx-dex-1.0
+863,Nibelsnarf Talon,Nibelsnarf Talon,mhxx-dex-1.0
+864,Nibelsnarf Scalp,Nibelsnarf Scalp,mhxx-dex-1.0
+865,Nibelsnarf Crown,Nibelsnarf Crown,mhxx-dex-1.0
+866,Vivid Fluid,Vivid Fluid,mhxx-dex-1.0
+867,Brilliant Fluid,Brilliant Fluid,mhxx-dex-1.0
+868,Dazzling Fluid,Dazzling Fluid,mhxx-dex-1.0
+869,Hyper Nibelsnarf Shell,Hyper Nibelsnarf Shell,mhxx-dex-1.0
+870,Hyper Nibelsnarf Cortex,Hyper Nibelsnarf Cortex,mhxx-dex-1.0
+871,Lagiacrus Hide,Lagiacrus Hide,mhxx-dex-1.0
+872,Lagiacrus Hide+,Lagiacrus Hide+,mhxx-dex-1.0
+873,Lagiacrus Piel,Lagiacrus Piel,mhxx-dex-1.0
+874,Lagiacrus Scale,Lagiacrus Scale,mhxx-dex-1.0
+875,Lagiacrus Scale+,Lagiacrus Scale+,mhxx-dex-1.0
+876,Lagiacrus Shard,Lagiacrus Shard,mhxx-dex-1.0
+877,Shell Shocker,Shell Shocker,mhxx-dex-1.0
+878,Shell Shocker+,Shell Shocker+,mhxx-dex-1.0
+879,Deathly Shocker,Deathly Shocker,mhxx-dex-1.0
+880,Lagiacrus Horn,Lagiacrus Horn,mhxx-dex-1.0
+881,Lagiacrus Horn+,Lagiacrus Horn+,mhxx-dex-1.0
+882,Lagia Hardhorn,Lagia Hardhorn,mhxx-dex-1.0
+883,Lagiacrus Tail,Lagiacrus Tail,mhxx-dex-1.0
+884,Lagiacrus Flail,Lagiacrus Flail,mhxx-dex-1.0
+885,Lagiacrus Claw,Lagiacrus Claw,mhxx-dex-1.0
+886,Lagiacrus Claw+,Lagiacrus Claw+,mhxx-dex-1.0
+887,Lagiacrus Talon,Lagiacrus Talon,mhxx-dex-1.0
+888,Lagiacrus Plate,Lagiacrus Plate,mhxx-dex-1.0
+889,Lagiacrus Sapphire,Lagiacrus Sapphire,mhxx-dex-1.0
+890,Lagiacrus Mantle,Lagiacrus Mantle,mhxx-dex-1.0
+891,Hyper Lagiacrus Hide,Hyper Lagiacrus Hide,mhxx-dex-1.0
+892,Hyper Lagiacrus Piel,Hyper Lagiacrus Piel,mhxx-dex-1.0
+893,Uroktor Scale,Uroktor Scale,mhxx-dex-1.0
+894,Uroktor Scale+,Uroktor Scale+,mhxx-dex-1.0
+895,Uroktor Shard,Uroktor Shard,mhxx-dex-1.0
+896,Agnaktor Scale,Agnaktor Scale,mhxx-dex-1.0
+897,Agnaktor Carapace,Agnaktor Carapace,mhxx-dex-1.0
+898,Agnaktor Cortex,Agnaktor Cortex,mhxx-dex-1.0
+899,Agnaktor Hide+,Agnaktor Hide+,mhxx-dex-1.0
+900,Agnaktor Piel,Agnaktor Piel,mhxx-dex-1.0
+901,Agnaktor Claw+,Agnaktor Claw+,mhxx-dex-1.0
+902,Agnaktor Talon,Agnaktor Talon,mhxx-dex-1.0
+903,Agnaktor Fin+,Agnaktor Fin+,mhxx-dex-1.0
+904,Agnaktor Grandfin,Agnaktor Grandfin,mhxx-dex-1.0
+905,Agnaktor Beak,Agnaktor Beak,mhxx-dex-1.0
+906,Agnaktor Tail,Agnaktor Tail,mhxx-dex-1.0
+907,Scalding Pleura+,Scalding Pleura+,mhxx-dex-1.0
+908,Scorching Pleura,Scorching Pleura,mhxx-dex-1.0
+909,Hyper Agnaktor Shell,Hyper Agnaktor Shell,mhxx-dex-1.0
+910,Hyper Agnaktor Cortex,Hyper Agnaktor Cortex,mhxx-dex-1.0
+911,Tetsucabra Scale,Tetsucabra Scale,mhxx-dex-1.0
+912,Tetsucabra Scale+,Tetsucabra Scale+,mhxx-dex-1.0
+913,Tetsucabra Shard,Tetsucabra Shard,mhxx-dex-1.0
+914,Tetsucabra Shell,Tetsucabra Shell,mhxx-dex-1.0
+915,Tetsucabra Carapace,Tetsucabra Carapace,mhxx-dex-1.0
+916,Tetsucabra Cortex,Tetsucabra Cortex,mhxx-dex-1.0
+917,Tetsucabra Claw,Tetsucabra Claw,mhxx-dex-1.0
+918,Tetsucabra Claw+,Tetsucabra Claw+,mhxx-dex-1.0
+919,Tetsucabra Hardclaw,Tetsucabra Hardclaw,mhxx-dex-1.0
+920,Tetsucabra Tusks,Tetsucabra Tusks,mhxx-dex-1.0
+921,Tetsucabra Tusks+,Tetsucabra Tusks+,mhxx-dex-1.0
+922,Tetsucabra Gnawrl,Tetsucabra Gnawrl,mhxx-dex-1.0
+923,Dignified Skull,Dignified Skull,mhxx-dex-1.0
+924,Vicious Visage,Vicious Visage,mhxx-dex-1.0
+925,Paddock Oil,Paddock Oil,mhxx-dex-1.0
+926,Paddock Oil+,Paddock Oil+,mhxx-dex-1.0
+927,Paddock Cream,Paddock Cream,mhxx-dex-1.0
+928,Hyper Tetsu. Scale,Hyper Tetsu. Scale,mhxx-dex-1.0
+929,Hyper Tetsu. Shard,Hyper Tetsu. Shard,mhxx-dex-1.0
+930,Drilltusk Scale,Drilltusk Scale,mhxx-dex-1.0
+931,Drilltusk Scale+,Drilltusk Scale+,mhxx-dex-1.0
+932,Drilltusk Shard,Drilltusk Shard,mhxx-dex-1.0
+933,Drilltusk Shell,Drilltusk Shell,mhxx-dex-1.0
+934,Drilltusk Carapace,Drilltusk Carapace,mhxx-dex-1.0
+935,Drilltusk Cortex,Drilltusk Cortex,mhxx-dex-1.0
+936,Drilltusk Tusk,Drilltusk Tusk,mhxx-dex-1.0
+937,Drilltusk Tusk+,Drilltusk Tusk+,mhxx-dex-1.0
+938,Drilltusk Gnawrl,Drilltusk Gnawrl,mhxx-dex-1.0
+939,Sharqskin Scale,Sharqskin Scale,mhxx-dex-1.0
+940,Meaty Hide+,Meaty Hide+,mhxx-dex-1.0
+941,Zamtrios Hide+,Zamtrios Hide+,mhxx-dex-1.0
+942,Zamtrios Piel,Zamtrios Piel,mhxx-dex-1.0
+943,Zamtrios Scale+,Zamtrios Scale+,mhxx-dex-1.0
+944,Zamtrios Shard,Zamtrios Shard,mhxx-dex-1.0
+945,Zamtrios Fin+,Zamtrios Fin+,mhxx-dex-1.0
+946,Zamtrios Grandfin,Zamtrios Grandfin,mhxx-dex-1.0
+947,Zamtrios Sawtooth,Zamtrios Sawtooth,mhxx-dex-1.0
+948,Zamtrios Sawtooth+,Zamtrios Sawtooth+,mhxx-dex-1.0
+949,Zamtrios Tailblade,Zamtrios Tailblade,mhxx-dex-1.0
+950,Zamtrios Tailbrand,Zamtrios Tailbrand,mhxx-dex-1.0
+951,Hyper Zamtrios Hide,Hyper Zamtrios Hide,mhxx-dex-1.0
+952,Hyper Zamtrios Piel,Hyper Zamtrios Piel,mhxx-dex-1.0
+953,Najarala Shell,Najarala Shell,mhxx-dex-1.0
+954,Najarala Ampsounder,Najarala Ampsounder,mhxx-dex-1.0
+955,Najarala Carapace,Najarala Carapace,mhxx-dex-1.0
+956,Najarala Cortex,Najarala Cortex,mhxx-dex-1.0
+957,Najarala Hide,Najarala Hide,mhxx-dex-1.0
+958,Najarala Hide+,Najarala Hide+,mhxx-dex-1.0
+959,Najarala Piel,Najarala Piel,mhxx-dex-1.0
+960,Najarala Marrow,Najarala Marrow,mhxx-dex-1.0
+961,Najarala Medulla,Najarala Medulla,mhxx-dex-1.0
+962,Najarala Sounder,Najarala Sounder,mhxx-dex-1.0
+963,Najarala Sounder+,Najarala Sounder+,mhxx-dex-1.0
+964,Najarala Fang,Najarala Fang,mhxx-dex-1.0
+965,Chilling Beak,Chilling Beak,mhxx-dex-1.0
+966,Heart-stopping Beak,Heart-stopping Beak,mhxx-dex-1.0
+967,Hyper Najarala Shell,Hyper Najarala Shell,mhxx-dex-1.0
+968,Hyper Najarala Cortex,Hyper Najarala Cortex,mhxx-dex-1.0
+969,Black Pearl,Black Pearl,mhxx-dex-1.0
+970,Fine Black Pearl,Fine Black Pearl,mhxx-dex-1.0
+971,Wyvern Scalp,Wyvern Scalp,mhxx-dex-1.0
+972,Heavy Wyvern Scalp,Heavy Wyvern Scalp,mhxx-dex-1.0
+973,Decayed Crimson Horn,Decayed Crimson Horn,mhxx-dex-1.0
+974,Timeworn Crimson Horn,Timeworn Crimson Horn,mhxx-dex-1.0
+975,Sm. Hermitaur Shell,Sm. Hermitaur Shell,mhxx-dex-1.0
+976,Tiny Hermitaur Shell,Tiny Hermitaur Shell,mhxx-dex-1.0
+977,Hermitaur Shell,Hermitaur Shell,mhxx-dex-1.0
+978,Hermitaur Carapace,Hermitaur Carapace,mhxx-dex-1.0
+979,Hermitaur Cortex,Hermitaur Cortex,mhxx-dex-1.0
+980,Hermitaur Claw,Hermitaur Claw,mhxx-dex-1.0
+981,Hermitaur Claw+,Hermitaur Claw+,mhxx-dex-1.0
+982,Hermitaur Hardclaw,Hermitaur Hardclaw,mhxx-dex-1.0
+983,Hyper Hermitaur Scale,Hyper Hermitaur Scale,mhxx-dex-1.0
+984,Hyper Hermitaur Cortex,Hyper Hermitaur Cortex,mhxx-dex-1.0
+985,Stonefist Shell,Stonefist Shell,mhxx-dex-1.0
+986,Stonefist Carapace,Stonefist Carapace,mhxx-dex-1.0
+987,Stonefist Cortex,Stonefist Cortex,mhxx-dex-1.0
+988,Stonefist Claw,Stonefist Claw,mhxx-dex-1.0
+989,Stonefist Claw+,Stonefist Claw+,mhxx-dex-1.0
+990,Stonefist Talon,Stonefist Talon,mhxx-dex-1.0
+991,Small Ceanataur Shell,Small Ceanataur Shell,mhxx-dex-1.0
+992,Ceanataur Shell,Ceanataur Shell,mhxx-dex-1.0
+993,Ceanataur Carapace,Ceanataur Carapace,mhxx-dex-1.0
+994,Ceanataur Cortex,Ceanataur Cortex,mhxx-dex-1.0
+995,Ceanataur Leg,Ceanataur Leg,mhxx-dex-1.0
+996,Ceanataur Leg+,Ceanataur Leg+,mhxx-dex-1.0
+997,Heavy Ceanataur Leg,Heavy Ceanataur Leg,mhxx-dex-1.0
+998,Ceanataur Claw,Ceanataur Claw,mhxx-dex-1.0
+999,Ceanataur Claw+,Ceanataur Claw+,mhxx-dex-1.0
+1000,Ceanataur Hardclaw,Ceanataur Hardclaw,mhxx-dex-1.0
+1001,Hyper Ceanataur Shell,Hyper Ceanataur Shell,mhxx-dex-1.0
+1002,Hyper Ceanataur Crtx,Hyper Ceanataur Crtx,mhxx-dex-1.0
+1003,Heavy Rustrazor Scalp,Heavy Rustrazor Scalp,mhxx-dex-1.0
+1004,Rustrazor Cortex,Rustrazor Cortex,mhxx-dex-1.0
+1005,Rustrazor Hardclaw,Rustrazor Hardclaw,mhxx-dex-1.0
+1006,Nerscylla Carapace,Nerscylla Carapace,mhxx-dex-1.0
+1007,Nerscylla Cortex,Nerscylla Cortex,mhxx-dex-1.0
+1008,Nerscylla Shear,Nerscylla Shear,mhxx-dex-1.0
+1009,Nerscylla Scishorn,Nerscylla Scishorn,mhxx-dex-1.0
+1010,Nerscylla Sharpclaw,Nerscylla Sharpclaw,mhxx-dex-1.0
+1011,Nerscylla Hardclaw,Nerscylla Hardclaw,mhxx-dex-1.0
+1012,Nerscylla Spike+,Nerscylla Spike+,mhxx-dex-1.0
+1013,Nerscylla Surspike,Nerscylla Surspike,mhxx-dex-1.0
+1014,Hyper Nerscylla Cortex,Hyper Nerscylla Cortex,mhxx-dex-1.0
+1015,Seltas Carapace,Seltas Carapace,mhxx-dex-1.0
+1016,Seltas Cortex,Seltas Cortex,mhxx-dex-1.0
+1017,Seltas Innerwing,Seltas Innerwing,mhxx-dex-1.0
+1018,Seltas Razorwing,Seltas Razorwing,mhxx-dex-1.0
+1019,Seltas Horn+,Seltas Horn+,mhxx-dex-1.0
+1020,Seltas Hardhorn,Seltas Hardhorn,mhxx-dex-1.0
+1021,S.Queen Carapace,S.Queen Carapace,mhxx-dex-1.0
+1022,S.Queen Cortex,S.Queen Cortex,mhxx-dex-1.0
+1023,S.Queen Hardpectus,S.Queen Hardpectus,mhxx-dex-1.0
+1024,S.Queen Pectus+,S.Queen Pectus+,mhxx-dex-1.0
+1025,S.Queen Sharpclaw,S.Queen Sharpclaw,mhxx-dex-1.0
+1026,S.Queen Hardclaw,S.Queen Hardclaw,mhxx-dex-1.0
+1027,S.Queen Jaw,S.Queen Jaw,mhxx-dex-1.0
+1028,S.Queen Maw,S.Queen Maw,mhxx-dex-1.0
+1029,S.Queen Crescent,S.Queen Crescent,mhxx-dex-1.0
+1030,S.Queen Moonlash,S.Queen Moonlash,mhxx-dex-1.0
+1031,S.Queen Extract,S.Queen Extract,mhxx-dex-1.0
+1032,D.S.QueenConcentrate,D.S.QueenConcentrate,mhxx-dex-1.0
+1033,Hyper S.Queen Shell,Hyper S.Queen Shell,mhxx-dex-1.0
+1034,Hyper S.Queen Cortex,Hyper S.Queen Cortex,mhxx-dex-1.0
+1035,Barroth Carapace,Barroth Carapace,mhxx-dex-1.0
+1036,Barroth Cortex,Barroth Cortex,mhxx-dex-1.0
+1037,Barroth Ridge+,Barroth Ridge+,mhxx-dex-1.0
+1038,Barroth Chine,Barroth Chine,mhxx-dex-1.0
+1039,Barroth Claw+,Barroth Claw+,mhxx-dex-1.0
+1040,Barroth Talon,Barroth Talon,mhxx-dex-1.0
+1041,Barroth Scalp,Barroth Scalp,mhxx-dex-1.0
+1042,Barroth Crown,Barroth Crown,mhxx-dex-1.0
+1043,Barroth Tail,Barroth Tail,mhxx-dex-1.0
+1044,Barroth Lash,Barroth Lash,mhxx-dex-1.0
+1045,Fertile Mud,Fertile Mud,mhxx-dex-1.0
+1046,Hyper Barroth Cortex,Hyper Barroth Cortex,mhxx-dex-1.0
+1047,Uragaan Scale,Uragaan Scale,mhxx-dex-1.0
+1048,Uragaan Scale+,Uragaan Scale+,mhxx-dex-1.0
+1049,Uragaan Shard,Uragaan Shard,mhxx-dex-1.0
+1050,Uragaan Shell,Uragaan Shell,mhxx-dex-1.0
+1051,Uragaan Carapace,Uragaan Carapace,mhxx-dex-1.0
+1052,Uragaan Cortex,Uragaan Cortex,mhxx-dex-1.0
+1053,Uragaan Jaw,Uragaan Jaw,mhxx-dex-1.0
+1054,Uragaan Jaw+,Uragaan Jaw+,mhxx-dex-1.0
+1055,Uragaan Scute,Uragaan Scute,mhxx-dex-1.0
+1056,Uragaan Scute+,Uragaan Scute+,mhxx-dex-1.0
+1057,Uragaan Marrow,Uragaan Marrow,mhxx-dex-1.0
+1058,Uragaan Ruby,Uragaan Ruby,mhxx-dex-1.0
+1059,Uragaan Pallium,Uragaan Pallium,mhxx-dex-1.0
+1060,Hyper Uragaan Scale,Hyper Uragaan Scale,mhxx-dex-1.0
+1061,Hyper Uragaan Shard,Hyper Uragaan Shard,mhxx-dex-1.0
+1062,Crystalbeard Scale,Crystalbeard Scale,mhxx-dex-1.0
+1063,Crystalbeard Scale+,Crystalbeard Scale+,mhxx-dex-1.0
+1064,Crystalbeard Shard,Crystalbeard Shard,mhxx-dex-1.0
+1065,Crystalbeard Jaw,Crystalbeard Jaw,mhxx-dex-1.0
+1066,Crystalbeard Maw,Crystalbeard Maw,mhxx-dex-1.0
+1067,Crystalbeard Mandible,Crystalbeard Mandible,mhxx-dex-1.0
+1068,Treasure Nugget,Treasure Nugget,mhxx-dex-1.0
+1069,Large Treasure Nugget,Large Treasure Nugget,mhxx-dex-1.0
+1070,Brach Shell,Brach Shell,mhxx-dex-1.0
+1071,Brach Carapace,Brach Carapace,mhxx-dex-1.0
+1072,Brach Cortex,Brach Cortex,mhxx-dex-1.0
+1073,Brach Ebonshell,Brach Ebonshell,mhxx-dex-1.0
+1074,Brach Ebonshell+,Brach Ebonshell+,mhxx-dex-1.0
+1075,Fine Brach Ebonshell,Fine Brach Ebonshell,mhxx-dex-1.0
+1076,Brach Scalp,Brach Scalp,mhxx-dex-1.0
+1077,Brach Scalp+,Brach Scalp+,mhxx-dex-1.0
+1078,Brach Crown,Brach Crown,mhxx-dex-1.0
+1079,Brach Warhead,Brach Warhead,mhxx-dex-1.0
+1080,Mystery Slime,Mystery Slime,mhxx-dex-1.0
+1081,Glowing Slime,Glowing Slime,mhxx-dex-1.0
+1082,Flashpoint Slime,Flashpoint Slime,mhxx-dex-1.0
+1083,Brach Hammer,Brach Hammer,mhxx-dex-1.0
+1084,Brach Pounder,Brach Pounder,mhxx-dex-1.0
+1085,Brach Pounder+,Brach Pounder+,mhxx-dex-1.0
+1086,Brach Obliterator,Brach Obliterator,mhxx-dex-1.0
+1087,Brach Tail,Brach Tail,mhxx-dex-1.0
+1088,Brach Lash,Brach Lash,mhxx-dex-1.0
+1089,Brach Marrow,Brach Marrow,mhxx-dex-1.0
+1090,Brach Gem,Brach Gem,mhxx-dex-1.0
+1091,Brach Pallium,Brach Pallium,mhxx-dex-1.0
+1092,Immortal Reactor,Immortal Reactor,mhxx-dex-1.0
+1093,Hyper Brach Shell,Hyper Brach Shell,mhxx-dex-1.0
+1094,Hyper Brach Cortex,Hyper Brach Cortex,mhxx-dex-1.0
+1095,Duram Carapace,Duram Carapace,mhxx-dex-1.0
+1096,Duramboros Cortex,Duramboros Cortex,mhxx-dex-1.0
+1097,Hard Mossplate,Hard Mossplate,mhxx-dex-1.0
+1098,Heavy Mossplate,Heavy Mossplate,mhxx-dex-1.0
+1099,Duramboros Hump,Duramboros Hump,mhxx-dex-1.0
+1100,Marbled Hump,Marbled Hump,mhxx-dex-1.0
+1101,Duram Tailcase+,Duram Tailcase+,mhxx-dex-1.0
+1102,Duram Hardtail,Duram Hardtail,mhxx-dex-1.0
+1103,Duramboros Horn+,Duramboros Horn+,mhxx-dex-1.0
+1104,Duramboros Hardhorn,Duramboros Hardhorn,mhxx-dex-1.0
+1105,Duram Sacrum,Duram Sacrum,mhxx-dex-1.0
+1106,Durambolite,Durambolite,mhxx-dex-1.0
+1107,Hyper Duram Shell,Hyper Duram Shell,mhxx-dex-1.0
+1108,Hyper Duram Cortex,Hyper Duram Cortex,mhxx-dex-1.0
+1109,Flabby Hide,Flabby Hide,mhxx-dex-1.0
+1110,Pearl Hide,Pearl Hide,mhxx-dex-1.0
+1111,Pearl Glosshide,Pearl Glosshide,mhxx-dex-1.0
+1112,Pale Bone,Pale Bone,mhxx-dex-1.0
+1113,Pale Steak,Pale Steak,mhxx-dex-1.0
+1114,Khezu Special Cut,Khezu Special Cut,mhxx-dex-1.0
+1115,Hyper Khezu Hide,Hyper Khezu Hide,mhxx-dex-1.0
+1116,Hyper Khezu Glosshide,Hyper Khezu Glosshide,mhxx-dex-1.0
+1117,Nargacuga Scale,Nargacuga Scale,mhxx-dex-1.0
+1118,Nargacuga Scale+,Nargacuga Scale+,mhxx-dex-1.0
+1119,Nargacuga Shard,Nargacuga Shard,mhxx-dex-1.0
+1120,Nargacuga Blackfur,Nargacuga Blackfur,mhxx-dex-1.0
+1121,Nargacuga Pelt+,Nargacuga Pelt+,mhxx-dex-1.0
+1122,Nargacuga Blackfur+,Nargacuga Blackfur+,mhxx-dex-1.0
+1123,Nargacuga Tail,Nargacuga Tail,mhxx-dex-1.0
+1124,Nargacuga Lash,Nargacuga Lash,mhxx-dex-1.0
+1125,Narga Tailspike,Narga Tailspike,mhxx-dex-1.0
+1126,Narga Tailspear,Narga Tailspear,mhxx-dex-1.0
+1127,Nargacuga Cutwing,Nargacuga Cutwing,mhxx-dex-1.0
+1128,Narga Razor,Narga Razor,mhxx-dex-1.0
+1129,Nargacuga Cutwing+,Nargacuga Cutwing+,mhxx-dex-1.0
+1130,Nargacuga Fang,Nargacuga Fang,mhxx-dex-1.0
+1131,Nargacuga Fang+,Nargacuga Fang+,mhxx-dex-1.0
+1132,Nargacuga Hardfang,Nargacuga Hardfang,mhxx-dex-1.0
+1133,Nargacuga Marrow,Nargacuga Marrow,mhxx-dex-1.0
+1134,Narga Medulla,Narga Medulla,mhxx-dex-1.0
+1135,Nargacuga Mantle,Nargacuga Mantle,mhxx-dex-1.0
+1136,Hyper Narga Scale,Hyper Narga Scale,mhxx-dex-1.0
+1137,Hyper Narga Shard,Hyper Narga Shard,mhxx-dex-1.0
+1138,Silverwind Scale,Silverwind Scale,mhxx-dex-1.0
+1139,Silverwind Scale+,Silverwind Scale+,mhxx-dex-1.0
+1140,Silverwind Shard,Silverwind Shard,mhxx-dex-1.0
+1141,Silverwind Blackfur,Silverwind Blackfur,mhxx-dex-1.0
+1142,Silverwind Blackfur+,Silverwind Blackfur+,mhxx-dex-1.0
+1143,Silverwind Blackpelage,Silverwind Blackpelage,mhxx-dex-1.0
+1144,Barioth Carapace,Barioth Carapace,mhxx-dex-1.0
+1145,Barioth Cortex,Barioth Cortex,mhxx-dex-1.0
+1146,Barioth Pelt+,Barioth Pelt+,mhxx-dex-1.0
+1147,Barioth Thickfur,Barioth Thickfur,mhxx-dex-1.0
+1148,Barioth Claw+,Barioth Claw+,mhxx-dex-1.0
+1149,Barioth Talon,Barioth Talon,mhxx-dex-1.0
+1150,Amber Fang+,Amber Fang+,mhxx-dex-1.0
+1151,Amber Hardfang,Amber Hardfang,mhxx-dex-1.0
+1152,Barioth Spike,Barioth Spike,mhxx-dex-1.0
+1153,Barioth Tail,Barioth Tail,mhxx-dex-1.0
+1154,Barioth Lash,Barioth Lash,mhxx-dex-1.0
+1155,Hyper Barioth Piel,Hyper Barioth Piel,mhxx-dex-1.0
+1156,Basarios Carapace,Basarios Carapace,mhxx-dex-1.0
+1157,Basarios Wing,Basarios Wing,mhxx-dex-1.0
+1158,Basarios Tears,Basarios Tears,mhxx-dex-1.0
+1159,Basarios Cortex,Basarios Cortex,mhxx-dex-1.0
+1160,Basarios Fellwing,Basarios Fellwing,mhxx-dex-1.0
+1161,Basarios Pallium,Basarios Pallium,mhxx-dex-1.0
+1162,Hyper Basarios Cortex,Hyper Basarios Cortex,mhxx-dex-1.0
+1163,Gravios Carapace,Gravios Carapace,mhxx-dex-1.0
+1164,Gravios Cortex,Gravios Cortex,mhxx-dex-1.0
+1165,Gravios Scalp,Gravios Scalp,mhxx-dex-1.0
+1166,Gravios Crown,Gravios Crown,mhxx-dex-1.0
+1167,Gravios Wing,Gravios Wing,mhxx-dex-1.0
+1168,Gravios Fellwing,Gravios Fellwing,mhxx-dex-1.0
+1169,Gravios Medulla,Gravios Medulla,mhxx-dex-1.0
+1170,Gravios Pallium,Gravios Pallium,mhxx-dex-1.0
+1171,Hyper Gravios Cortex,Hyper Gravios Cortex,mhxx-dex-1.0
+1172,Rathian Scale,Rathian Scale,mhxx-dex-1.0
+1173,Rathian Scale+,Rathian Scale+,mhxx-dex-1.0
+1174,Rathian Shard,Rathian Shard,mhxx-dex-1.0
+1175,Rathian Shell,Rathian Shell,mhxx-dex-1.0
+1176,Rathian Carapace,Rathian Carapace,mhxx-dex-1.0
+1177,Rathian Cortex,Rathian Cortex,mhxx-dex-1.0
+1178,Rathian Webbing,Rathian Webbing,mhxx-dex-1.0
+1179,Rathian Weave,Rathian Weave,mhxx-dex-1.0
+1180,Rathian Spike,Rathian Spike,mhxx-dex-1.0
+1181,Rathian Spike+,Rathian Spike+,mhxx-dex-1.0
+1182,Rathian Surspike,Rathian Surspike,mhxx-dex-1.0
+1183,Rathian Plate,Rathian Plate,mhxx-dex-1.0
+1184,Rathian Ruby,Rathian Ruby,mhxx-dex-1.0
+1185,Rathian Mantle,Rathian Mantle,mhxx-dex-1.0
+1186,Hyper Rathian Scale,Hyper Rathian Scale,mhxx-dex-1.0
+1187,Hyper Rathian Shard,Hyper Rathian Shard,mhxx-dex-1.0
+1188,Dreadqueen Scale,Dreadqueen Scale,mhxx-dex-1.0
+1189,Dreadqueen Scale+,Dreadqueen Scale+,mhxx-dex-1.0
+1190,Dreadqueen Shard,Dreadqueen Shard,mhxx-dex-1.0
+1191,Dreadqueen Shell,Dreadqueen Shell,mhxx-dex-1.0
+1192,Dreadqueen Carapace,Dreadqueen Carapace,mhxx-dex-1.0
+1193,Dreadqueen Cortex,Dreadqueen Cortex,mhxx-dex-1.0
+1194,G.Rathian Scale+,G.Rathian Scale+,mhxx-dex-1.0
+1195,G.Rathian Shard,G.Rathian Shard,mhxx-dex-1.0
+1196,G.Rathian Carapace,G.Rathian Carapace,mhxx-dex-1.0
+1197,G.Rathian Cortex,G.Rathian Cortex,mhxx-dex-1.0
+1198,G.Rathian Spike+,G.Rathian Spike+,mhxx-dex-1.0
+1199,G.Rath Surspike,G.Rath Surspike,mhxx-dex-1.0
+1200,Hyper G.Rathian Scale,Hyper G.Rathian Scale,mhxx-dex-1.0
+1201,Hyper G.Rathian Shard,Hyper G.Rathian Shard,mhxx-dex-1.0
+1202,Rathalos Scale,Rathalos Scale,mhxx-dex-1.0
+1203,Rathalos Scale+,Rathalos Scale+,mhxx-dex-1.0
+1204,Rathalos Shard,Rathalos Shard,mhxx-dex-1.0
+1205,Rathalos Shell,Rathalos Shell,mhxx-dex-1.0
+1206,Rathalos Carapace,Rathalos Carapace,mhxx-dex-1.0
+1207,Rathalos Cortex,Rathalos Cortex,mhxx-dex-1.0
+1208,Rathalos Webbing,Rathalos Webbing,mhxx-dex-1.0
+1209,Rathalos Wing,Rathalos Wing,mhxx-dex-1.0
+1210,Rathalos Fellwing,Rathalos Fellwing,mhxx-dex-1.0
+1211,Rathalos Tail,Rathalos Tail,mhxx-dex-1.0
+1212,Rathalos Lash,Rathalos Lash,mhxx-dex-1.0
+1213,Rathalos Plate,Rathalos Plate,mhxx-dex-1.0
+1214,Rathalos Ruby,Rathalos Ruby,mhxx-dex-1.0
+1215,Rathalos Mantle,Rathalos Mantle,mhxx-dex-1.0
+1216,Hyper Rathalos Scale,Hyper Rathalos Scale,mhxx-dex-1.0
+1217,Hyper Rathalos Shard,Hyper Rathalos Shard,mhxx-dex-1.0
+1218,Dreadking Scale,Dreadking Scale,mhxx-dex-1.0
+1219,Dreadking Scale+,Dreadking Scale+,mhxx-dex-1.0
+1220,Dreadking Shard,Dreadking Shard,mhxx-dex-1.0
+1221,Dreadking Shell,Dreadking Shell,mhxx-dex-1.0
+1222,Dreadking Carapace,Dreadking Carapace,mhxx-dex-1.0
+1223,Dreadking Cortex,Dreadking Cortex,mhxx-dex-1.0
+1224,S.Rathalos Scale+,S.Rathalos Scale+,mhxx-dex-1.0
+1225,S.Rathalos Shard,S.Rathalos Shard,mhxx-dex-1.0
+1226,S.Rathalos Carapace,S.Rathalos Carapace,mhxx-dex-1.0
+1227,S.Rath Cortex,S.Rath Cortex,mhxx-dex-1.0
+1228,S.Rathalos Tail,S.Rathalos Tail,mhxx-dex-1.0
+1229,S.Rath Lash,S.Rath Lash,mhxx-dex-1.0
+1230,Hyper S.Rath. Scale,Hyper S.Rath. Scale,mhxx-dex-1.0
+1231,Hyper S.Rath. Shard,Hyper S.Rath. Shard,mhxx-dex-1.0
+1232,Rath Wingtalon,Rath Wingtalon,mhxx-dex-1.0
+1233,Rath Wingtalon+,Rath Wingtalon+,mhxx-dex-1.0
+1234,Rath Marrow,Rath Marrow,mhxx-dex-1.0
+1235,Rath Medulla,Rath Medulla,mhxx-dex-1.0
+1236,Rath Gleam,Rath Gleam,mhxx-dex-1.0
+1237,Firegleam Dollop,Firegleam Dollop,mhxx-dex-1.0
+1238,Zinogre Shell,Zinogre Shell,mhxx-dex-1.0
+1239,Zinogre Carapace,Zinogre Carapace,mhxx-dex-1.0
+1240,Zinogre Cortex,Zinogre Cortex,mhxx-dex-1.0
+1241,Zinogre Shockfur,Zinogre Shockfur,mhxx-dex-1.0
+1242,Zinogre Electrofur,Zinogre Electrofur,mhxx-dex-1.0
+1243,Zinogre Electrofur+,Zinogre Electrofur+,mhxx-dex-1.0
+1244,Zinogre Horn,Zinogre Horn,mhxx-dex-1.0
+1245,Zinogre Horn+,Zinogre Horn+,mhxx-dex-1.0
+1246,Zinogre Hardhorn,Zinogre Hardhorn,mhxx-dex-1.0
+1247,Zinogre Claw,Zinogre Claw,mhxx-dex-1.0
+1248,Zinogre Claw+,Zinogre Claw+,mhxx-dex-1.0
+1249,Zinogre Hardclaw,Zinogre Hardclaw,mhxx-dex-1.0
+1250,Zinogre Tail,Zinogre Tail,mhxx-dex-1.0
+1251,Zinogre Lash,Zinogre Lash,mhxx-dex-1.0
+1252,Zinogre Shocker,Zinogre Shocker,mhxx-dex-1.0
+1253,Zinogre Shocker+,Zinogre Shocker+,mhxx-dex-1.0
+1254,Zinogre D-Shocker,Zinogre D-Shocker,mhxx-dex-1.0
+1255,Zinogre Plate,Zinogre Plate,mhxx-dex-1.0
+1256,Zinogre Jasper,Zinogre Jasper,mhxx-dex-1.0
+1257,Zinogre Skymerald,Zinogre Skymerald,mhxx-dex-1.0
+1258,Hyper Zinogre Shell,Hyper Zinogre Shell,mhxx-dex-1.0
+1259,Hyper Zinogre Cortex,Hyper Zinogre Cortex,mhxx-dex-1.0
+1260,Thunderlord Shell,Thunderlord Shell,mhxx-dex-1.0
+1261,Thunderlord Carapace,Thunderlord Carapace,mhxx-dex-1.0
+1262,Thunderlord Cortex,Thunderlord Cortex,mhxx-dex-1.0
+1263,Thunderlord Shockfur,Thunderlord Shockfur,mhxx-dex-1.0
+1264,Thunderlord Electrofur,Thunderlord Electrofur,mhxx-dex-1.0
+1265,Thunderlord Boltfur,Thunderlord Boltfur,mhxx-dex-1.0
+1266,Thunderlord Horn,Thunderlord Horn,mhxx-dex-1.0
+1267,Thunderlord Horn+,Thunderlord Horn+,mhxx-dex-1.0
+1268,Thunderlord Gleamhorn,Thunderlord Gleamhorn,mhxx-dex-1.0
+1269,Astalos Scale,Astalos Scale,mhxx-dex-1.0
+1270,Astalos Scale+,Astalos Scale+,mhxx-dex-1.0
+1271,Astalos Shard,Astalos Shard,mhxx-dex-1.0
+1272,Astalos Shell,Astalos Shell,mhxx-dex-1.0
+1273,Astalos Shell+,Astalos Shell+,mhxx-dex-1.0
+1274,Heavy Astalos Shell,Heavy Astalos Shell,mhxx-dex-1.0
+1275,Astalos Membrane,Astalos Membrane,mhxx-dex-1.0
+1276,Astalos Membrane+,Astalos Membrane+,mhxx-dex-1.0
+1277,Astalos Wingmembrane,Astalos Wingmembrane,mhxx-dex-1.0
+1278,Astalos Wingtalon,Astalos Wingtalon,mhxx-dex-1.0
+1279,Astalos Wingtalon+,Astalos Wingtalon+,mhxx-dex-1.0
+1280,Astalos Wingripper,Astalos Wingripper,mhxx-dex-1.0
+1281,Astalos Crest,Astalos Crest,mhxx-dex-1.0
+1282,Astalos Crest+,Astalos Crest+,mhxx-dex-1.0
+1283,Heavy Astalos Crest+,Heavy Astalos Crest+,mhxx-dex-1.0
+1284,Astalos Scissortail,Astalos Scissortail,mhxx-dex-1.0
+1285,Astalos Scissortailblade,Astalos Scissortailblade,mhxx-dex-1.0
+1286,Electroscale,Electroscale,mhxx-dex-1.0
+1287,Electroscale+,Electroscale+,mhxx-dex-1.0
+1288,Boltscale,Boltscale,mhxx-dex-1.0
+1289,Astalos Plate,Astalos Plate,mhxx-dex-1.0
+1290,Astalos Electrogem,Astalos Electrogem,mhxx-dex-1.0
+1291,Astalos Mantle,Astalos Mantle,mhxx-dex-1.0
+1292,Hyper Astalos Scale,Hyper Astalos Scale,mhxx-dex-1.0
+1293,Hyper Astalos Shard,Hyper Astalos Shard,mhxx-dex-1.0
+1294,Boltreaver Shard,Boltreaver Shard,mhxx-dex-1.0
+1295,Heavy Boltreaver Shell,Heavy Boltreaver Shell,mhxx-dex-1.0
+1296,Boltreaver Electric Barb,Boltreaver Electric Barb,mhxx-dex-1.0
+1297,Gammoth Pelt,Gammoth Pelt,mhxx-dex-1.0
+1298,Gammoth Pelt+,Gammoth Pelt+,mhxx-dex-1.0
+1299,Gammoth Fur,Gammoth Fur,mhxx-dex-1.0
+1300,Gammoth Shell,Gammoth Shell,mhxx-dex-1.0
+1301,Gammoth Carapace,Gammoth Carapace,mhxx-dex-1.0
+1302,Gammoth Cortex,Gammoth Cortex,mhxx-dex-1.0
+1303,Gammoth Fang,Gammoth Fang,mhxx-dex-1.0
+1304,Gammoth Fang+,Gammoth Fang+,mhxx-dex-1.0
+1305,Gammoth Hardfang,Gammoth Hardfang,mhxx-dex-1.0
+1306,Trunkspine,Trunkspine,mhxx-dex-1.0
+1307,Trunkspine+,Trunkspine+,mhxx-dex-1.0
+1308,Gammoth Redfur,Gammoth Redfur,mhxx-dex-1.0
+1309,Snowclod,Snowclod,mhxx-dex-1.0
+1310,Large Snowclod,Large Snowclod,mhxx-dex-1.0
+1311,Giant Snowclod,Giant Snowclod,mhxx-dex-1.0
+1312,Gammoth Scalp,Gammoth Scalp,mhxx-dex-1.0
+1313,Gammoth Ice Orb,Gammoth Ice Orb,mhxx-dex-1.0
+1314,Gammoth Pallium,Gammoth Pallium,mhxx-dex-1.0
+1315,Hyper Gammoth Fur,Hyper Gammoth Fur,mhxx-dex-1.0
+1316,Hyper Gammoth Fur X,Hyper Gammoth Fur X,mhxx-dex-1.0
+1317,Elderfrost Pelt,Elderfrost Pelt,mhxx-dex-1.0
+1318,Elderfrost Cortex,Elderfrost Cortex,mhxx-dex-1.0
+1319,Elderfrost Trunkspine,Elderfrost Trunkspine,mhxx-dex-1.0
+1320,Mizutsune Scale,Mizutsune Scale,mhxx-dex-1.0
+1321,Mizutsune Scale+,Mizutsune Scale+,mhxx-dex-1.0
+1322,Mizutsune Shard,Mizutsune Shard,mhxx-dex-1.0
+1323,Mizutsune Purplefur,Mizutsune Purplefur,mhxx-dex-1.0
+1324,Mizutsune Purplefur+,Mizutsune Purplefur+,mhxx-dex-1.0
+1325,Mizutsune Purplefell,Mizutsune Purplefell,mhxx-dex-1.0
+1326,Mizutsune Claw,Mizutsune Claw,mhxx-dex-1.0
+1327,Mizutsune Claw+,Mizutsune Claw+,mhxx-dex-1.0
+1328,Mizutsune Hardclaw,Mizutsune Hardclaw,mhxx-dex-1.0
+1329,Mizutsune Fin,Mizutsune Fin,mhxx-dex-1.0
+1330,Mizutsune Fin+,Mizutsune Fin+,mhxx-dex-1.0
+1331,Mizutsune Silkfin,Mizutsune Silkfin,mhxx-dex-1.0
+1332,Mizutsune Tail,Mizutsune Tail,mhxx-dex-1.0
+1333,Purple Mizutsune Tail,Purple Mizutsune Tail,mhxx-dex-1.0
+1334,Bubblefoam,Bubblefoam,mhxx-dex-1.0
+1335,Bubblefoam+,Bubblefoam+,mhxx-dex-1.0
+1336,Distilled Bubblefoam,Distilled Bubblefoam,mhxx-dex-1.0
+1337,Mizutsune Plate,Mizutsune Plate,mhxx-dex-1.0
+1338,Mizutsune Water Orb,Mizutsune Water Orb,mhxx-dex-1.0
+1339,Mizutsune Pallium,Mizutsune Pallium,mhxx-dex-1.0
+1340,Hyper Mizutsune Scale,Hyper Mizutsune Scale,mhxx-dex-1.0
+1341,Hyper Mizutsune Scale X,Hyper Mizutsune Scale X,mhxx-dex-1.0
+1342,Soulseer Shard,Soulseer Shard,mhxx-dex-1.0
+1343,Soulseer Purplehide,Soulseer Purplehide,mhxx-dex-1.0
+1344,Soulseer Tail,Soulseer Tail,mhxx-dex-1.0
+1345,Glavenus Scale,Glavenus Scale,mhxx-dex-1.0
+1346,Glavenus Scale+,Glavenus Scale+,mhxx-dex-1.0
+1347,Glavenus Shard,Glavenus Shard,mhxx-dex-1.0
+1348,Glavenus Shell,Glavenus Shell,mhxx-dex-1.0
+1349,Glavenus Carapace,Glavenus Carapace,mhxx-dex-1.0
+1350,Glavenus Cortex,Glavenus Cortex,mhxx-dex-1.0
+1351,Glavenus Fang,Glavenus Fang,mhxx-dex-1.0
+1352,Glavenus Fang+,Glavenus Fang+,mhxx-dex-1.0
+1353,Glavenus Hardfang,Glavenus Hardfang,mhxx-dex-1.0
+1354,Glavenus Pyroshell,Glavenus Pyroshell,mhxx-dex-1.0
+1355,Glavenus Pyroshell+,Glavenus Pyroshell+,mhxx-dex-1.0
+1356,Glavenus Hellshell,Glavenus Hellshell,mhxx-dex-1.0
+1357,Glavenus Tail,Glavenus Tail,mhxx-dex-1.0
+1358,Glavenus Tailedge,Glavenus Tailedge,mhxx-dex-1.0
+1359,Glavenus Tailpiece,Glavenus Tailpiece,mhxx-dex-1.0
+1360,Flaming Bursa,Flaming Bursa,mhxx-dex-1.0
+1361,Solar Bursa,Solar Bursa,mhxx-dex-1.0
+1362,Molten Bursa,Molten Bursa,mhxx-dex-1.0
+1363,Glavenus Plate,Glavenus Plate,mhxx-dex-1.0
+1364,Glavenus Fire Orb,Glavenus Fire Orb,mhxx-dex-1.0
+1365,Glavenus Pallium,Glavenus Pallium,mhxx-dex-1.0
+1366,Hyper Glavenus Scale,Hyper Glavenus Scale,mhxx-dex-1.0
+1367,Hyper Glavenus Scale X,Hyper Glavenus Scale X,mhxx-dex-1.0
+1368,Hellblade Scale,Hellblade Scale,mhxx-dex-1.0
+1369,Hellblade Scale+,Hellblade Scale+,mhxx-dex-1.0
+1370,Hellblade Shard,Hellblade Shard,mhxx-dex-1.0
+1371,Hellblade Shell,Hellblade Shell,mhxx-dex-1.0
+1372,Hellblade Carapace,Hellblade Carapace,mhxx-dex-1.0
+1373,Hellblade Cortex,Hellblade Cortex,mhxx-dex-1.0
+1374,Hellblade Powder,Hellblade Powder,mhxx-dex-1.0
+1375,Tigrex Scale,Tigrex Scale,mhxx-dex-1.0
+1376,Tigrex Scale+,Tigrex Scale+,mhxx-dex-1.0
+1377,Tigrex Shard,Tigrex Shard,mhxx-dex-1.0
+1378,Tigrex Shell,Tigrex Shell,mhxx-dex-1.0
+1379,Tigrex Carapace,Tigrex Carapace,mhxx-dex-1.0
+1380,Tigrex Cortex,Tigrex Cortex,mhxx-dex-1.0
+1381,Tigrex Tail,Tigrex Tail,mhxx-dex-1.0
+1382,Tigrex Lash,Tigrex Lash,mhxx-dex-1.0
+1383,Tigrex Claw,Tigrex Claw,mhxx-dex-1.0
+1384,Tigrex Claw+,Tigrex Claw+,mhxx-dex-1.0
+1385,Tigrex Hardclaw,Tigrex Hardclaw,mhxx-dex-1.0
+1386,Tigrex Fang,Tigrex Fang,mhxx-dex-1.0
+1387,Tigrex Fang+,Tigrex Fang+,mhxx-dex-1.0
+1388,Tigrex Hardfang,Tigrex Hardfang,mhxx-dex-1.0
+1389,Tigrex Scalp,Tigrex Scalp,mhxx-dex-1.0
+1390,Tigrex Maw,Tigrex Maw,mhxx-dex-1.0
+1391,Tigrex Mantle,Tigrex Mantle,mhxx-dex-1.0
+1392,Hyper Tigrex Scale,Hyper Tigrex Scale,mhxx-dex-1.0
+1393,Hyper Tigrex Scale X,Hyper Tigrex Scale X,mhxx-dex-1.0
+1394,Grimclaw Scale,Grimclaw Scale,mhxx-dex-1.0
+1395,Grimclaw Scale+,Grimclaw Scale+,mhxx-dex-1.0
+1396,Grimclaw Shard,Grimclaw Shard,mhxx-dex-1.0
+1397,Grimclaw Shell,Grimclaw Shell,mhxx-dex-1.0
+1398,Grimclaw Carapace,Grimclaw Carapace,mhxx-dex-1.0
+1399,Grimclaw Cortex,Grimclaw Cortex,mhxx-dex-1.0
+1400,Grimclaw Talon,Grimclaw Talon,mhxx-dex-1.0
+1401,Grimclaw Talon+,Grimclaw Talon+,mhxx-dex-1.0
+1402,Grimclaw Hardclaw,Grimclaw Hardclaw,mhxx-dex-1.0
+1403,Seregios Bladescale,Seregios Bladescale,mhxx-dex-1.0
+1404,Seregios Slavescale,Seregios Slavescale,mhxx-dex-1.0
+1405,Seregios Slavescale+,Seregios Slavescale+,mhxx-dex-1.0
+1406,Airblade Shard,Airblade Shard,mhxx-dex-1.0
+1407,Seregios Airblade,Seregios Airblade,mhxx-dex-1.0
+1408,Seregios Airblade+,Seregios Airblade+,mhxx-dex-1.0
+1409,Seregios Talon,Seregios Talon,mhxx-dex-1.0
+1410,Seregios Carver,Seregios Carver,mhxx-dex-1.0
+1411,Seregios Carver+,Seregios Carver+,mhxx-dex-1.0
+1412,Seregios Impaler,Seregios Impaler,mhxx-dex-1.0
+1413,Seregios Impaler+,Seregios Impaler+,mhxx-dex-1.0
+1414,Seregios Sunderer,Seregios Sunderer,mhxx-dex-1.0
+1415,Seregios Breacher,Seregios Breacher,mhxx-dex-1.0
+1416,Seregios Breacher+,Seregios Breacher+,mhxx-dex-1.0
+1417,Seregios Wingtalon,Seregios Wingtalon,mhxx-dex-1.0
+1418,Seregios Scraper,Seregios Scraper,mhxx-dex-1.0
+1419,Seregios Scraper+,Seregios Scraper+,mhxx-dex-1.0
+1420,Seregios Dissenter,Seregios Dissenter,mhxx-dex-1.0
+1421,Seregios Lens,Seregios Lens,mhxx-dex-1.0
+1422,Hyper Seregios Scale,Hyper Seregios Scale,mhxx-dex-1.0
+1423,Hyper Seregios Scale X,Hyper Seregios Scale X,mhxx-dex-1.0
+1424,Diablos Carapace,Diablos Carapace,mhxx-dex-1.0
+1425,Diablos Cortex,Diablos Cortex,mhxx-dex-1.0
+1426,Diablos Ridge+,Diablos Ridge+,mhxx-dex-1.0
+1427,Diablos Chine,Diablos Chine,mhxx-dex-1.0
+1428,Twisted Horn,Twisted Horn,mhxx-dex-1.0
+1429,Majestic Horn,Majestic Horn,mhxx-dex-1.0
+1430,Diablos Hardhorn,Diablos Hardhorn,mhxx-dex-1.0
+1431,Diablos Fang,Diablos Fang,mhxx-dex-1.0
+1432,Diablos Tailcase,Diablos Tailcase,mhxx-dex-1.0
+1433,Diablos Tailcase+,Diablos Tailcase+,mhxx-dex-1.0
+1434,Blos Medulla,Blos Medulla,mhxx-dex-1.0
+1435,Hyper Diablos Cortex,Hyper Diablos Cortex,mhxx-dex-1.0
+1436,Bloodbath Cortex,Bloodbath Cortex,mhxx-dex-1.0
+1437,Bloodbath Chine,Bloodbath Chine,mhxx-dex-1.0
+1438,Bloodbath Grimhorn,Bloodbath Grimhorn,mhxx-dex-1.0
+1439,Gore Magala Scale,Gore Magala Scale,mhxx-dex-1.0
+1440,Gore Magala Scale+,Gore Magala Scale+,mhxx-dex-1.0
+1441,Gore Magala Shard,Gore Magala Shard,mhxx-dex-1.0
+1442,Gore Magala Shell,Gore Magala Shell,mhxx-dex-1.0
+1443,Gore Magala Carapace,Gore Magala Carapace,mhxx-dex-1.0
+1444,Gore Magala Cortex,Gore Magala Cortex,mhxx-dex-1.0
+1445,Gore Magala Wing,Gore Magala Wing,mhxx-dex-1.0
+1446,Gore Magala Wing+,Gore Magala Wing+,mhxx-dex-1.0
+1447,Gore Magala Eclipse,Gore Magala Eclipse,mhxx-dex-1.0
+1448,Antinomic Wing,Antinomic Wing,mhxx-dex-1.0
+1449,Gore Magala Ripclaw,Gore Magala Ripclaw,mhxx-dex-1.0
+1450,Gore Magala Ripclaw+,Gore Magala Ripclaw+,mhxx-dex-1.0
+1451,Gore Magala Shredder,Gore Magala Shredder,mhxx-dex-1.0
+1452,Gore Magala Tail,Gore Magala Tail,mhxx-dex-1.0
+1453,Gore Magala Lash,Gore Magala Lash,mhxx-dex-1.0
+1454,Gore Magala Plate,Gore Magala Plate,mhxx-dex-1.0
+1455,Contrary Scale,Contrary Scale,mhxx-dex-1.0
+1456,Gore Magala Nyctgem,Gore Magala Nyctgem,mhxx-dex-1.0
+1457,Gore Magala Mantle,Gore Magala Mantle,mhxx-dex-1.0
+1458,Gore Magala Feeler,Gore Magala Feeler,mhxx-dex-1.0
+1459,Gore Magala Feeler+,Gore Magala Feeler+,mhxx-dex-1.0
+1460,Gore Magala Sensor,Gore Magala Sensor,mhxx-dex-1.0
+1461,Diametrical Horn,Diametrical Horn,mhxx-dex-1.0
+1462,Defiled Scale,Defiled Scale,mhxx-dex-1.0
+1463,Chaos Scale,Chaos Scale,mhxx-dex-1.0
+1464,Hyper G.Magala Scale,Hyper G.Magala Scale,mhxx-dex-1.0
+1465,Hyper G.Magala Scale X,Hyper G.Magala Scale X,mhxx-dex-1.0
+1466,S.Magala Scale,S.Magala Scale,mhxx-dex-1.0
+1467,S.Magala Scale+,S.Magala Scale+,mhxx-dex-1.0
+1468,S.Magala Shard,S.Magala Shard,mhxx-dex-1.0
+1469,S.Magala Shell,S.Magala Shell,mhxx-dex-1.0
+1470,S.Magala Carapace,S.Magala Carapace,mhxx-dex-1.0
+1471,S.Magala Cortex,S.Magala Cortex,mhxx-dex-1.0
+1472,S.Magala Prismwing,S.Magala Prismwing,mhxx-dex-1.0
+1473,S.Magala Prismwing+,S.Magala Prismwing+,mhxx-dex-1.0
+1474,S.Magala Lightwing,S.Magala Lightwing,mhxx-dex-1.0
+1475,S.Magala Caress,S.Magala Caress,mhxx-dex-1.0
+1476,S.Magala Caress+,S.Magala Caress+,mhxx-dex-1.0
+1477,S.Magala Purifier,S.Magala Purifier,mhxx-dex-1.0
+1478,S.Magala Tail,S.Magala Tail,mhxx-dex-1.0
+1479,S.Magala Lash,S.Magala Lash,mhxx-dex-1.0
+1480,S.Magala Plate,S.Magala Plate,mhxx-dex-1.0
+1481,S.Magala Phosgem,S.Magala Phosgem,mhxx-dex-1.0
+1482,S.Magala Mantle,S.Magala Mantle,mhxx-dex-1.0
+1483,S.Magala Horn,S.Magala Horn,mhxx-dex-1.0
+1484,S.Magala Horn+,S.Magala Horn+,mhxx-dex-1.0
+1485,S.Magala Hardhorn,S.Magala Hardhorn,mhxx-dex-1.0
+1486,Pure Scale,Pure Scale,mhxx-dex-1.0
+1487,Rajang Horn+,Rajang Horn+,mhxx-dex-1.0
+1488,Rajang Hardhorn,Rajang Hardhorn,mhxx-dex-1.0
+1489,Rajang Fang+,Rajang Fang+,mhxx-dex-1.0
+1490,Rajang Hardfang,Rajang Hardfang,mhxx-dex-1.0
+1491,Rajang Blackfur,Rajang Blackfur,mhxx-dex-1.0
+1492,Rajang Wildpelt,Rajang Wildpelt,mhxx-dex-1.0
+1493,Rajang Claw+,Rajang Claw+,mhxx-dex-1.0
+1494,Rajang Hardclaw,Rajang Hardclaw,mhxx-dex-1.0
+1495,Rajang Tail,Rajang Tail,mhxx-dex-1.0
+1496,Gold Rajang Pelt,Gold Rajang Pelt,mhxx-dex-1.0
+1497,Gold Rajang Pelt+,Gold Rajang Pelt+,mhxx-dex-1.0
+1498,Rajang Ragehair,Rajang Ragehair,mhxx-dex-1.0
+1499,Rajang Apoplexy,Rajang Apoplexy,mhxx-dex-1.0
+1500,Rajang Nerve,Rajang Nerve,mhxx-dex-1.0
+1501,Rajang Heart,Rajang Heart,mhxx-dex-1.0
+1502,Ghoulish Gold Horn,Ghoulish Gold Horn,mhxx-dex-1.0
+1503,Ghoulish Gold Gorer,Ghoulish Gold Gorer,mhxx-dex-1.0
+1504,Hyper Rajang Fur,Hyper Rajang Fur,mhxx-dex-1.0
+1505,Hyper Rajang Fur X,Hyper Rajang Fur X,mhxx-dex-1.0
+1506,Deviljho Scale,Deviljho Scale,mhxx-dex-1.0
+1507,Deviljho Shard,Deviljho Shard,mhxx-dex-1.0
+1508,Deviljho Crook,Deviljho Crook,mhxx-dex-1.0
+1509,Deviljho Hide,Deviljho Hide,mhxx-dex-1.0
+1510,Deviljho Blackpiel,Deviljho Blackpiel,mhxx-dex-1.0
+1511,Bloodied Ebonhide,Bloodied Ebonhide,mhxx-dex-1.0
+1512,Deviljho Tallfang,Deviljho Tallfang,mhxx-dex-1.0
+1513,Deviljho Hardfang,Deviljho Hardfang,mhxx-dex-1.0
+1514,Vile Fang,Vile Fang,mhxx-dex-1.0
+1515,Deviljho Talon,Deviljho Talon,mhxx-dex-1.0
+1516,Deviljho Ripper,Deviljho Ripper,mhxx-dex-1.0
+1517,Deviljho Scalp,Deviljho Scalp,mhxx-dex-1.0
+1518,Deviljho Tail,Deviljho Tail,mhxx-dex-1.0
+1519,Deviljho Flail,Deviljho Flail,mhxx-dex-1.0
+1520,Deviljho Saliva,Deviljho Saliva,mhxx-dex-1.0
+1521,Black Blood,Black Blood,mhxx-dex-1.0
+1522,Spattered Hide,Spattered Hide,mhxx-dex-1.0
+1523,Deviljho Gem,Deviljho Gem,mhxx-dex-1.0
+1524,Hyper Deviljho Scale,Hyper Deviljho Scale,mhxx-dex-1.0
+1525,Hyper Deviljho Scale X,Hyper Deviljho Scale X,mhxx-dex-1.0
+1526,Kirin Thunderhorn,Kirin Thunderhorn,mhxx-dex-1.0
+1527,Kirin Hide,Kirin Hide,mhxx-dex-1.0
+1528,Kirin Hide+,Kirin Hide+,mhxx-dex-1.0
+1529,Kirin Finehide,Kirin Finehide,mhxx-dex-1.0
+1530,Kirin Mane,Kirin Mane,mhxx-dex-1.0
+1531,Platinum Mane,Platinum Mane,mhxx-dex-1.0
+1532,Kirin Thundertail,Kirin Thundertail,mhxx-dex-1.0
+1533,Kirin Thunderlash,Kirin Thunderlash,mhxx-dex-1.0
+1534,Kirin Azure Horn,Kirin Azure Horn,mhxx-dex-1.0
+1535,Kirin Azure Peak,Kirin Azure Peak,mhxx-dex-1.0
+1536,Daora Shell,Daora Shell,mhxx-dex-1.0
+1537,Daora Carapace,Daora Carapace,mhxx-dex-1.0
+1538,Daora Cortex,Daora Cortex,mhxx-dex-1.0
+1539,Daora Scale,Daora Scale,mhxx-dex-1.0
+1540,Daora Dragon Scale+,Daora Dragon Scale+,mhxx-dex-1.0
+1541,Daora Shard,Daora Shard,mhxx-dex-1.0
+1542,Daora Webbing,Daora Webbing,mhxx-dex-1.0
+1543,Daora Fellwing,Daora Fellwing,mhxx-dex-1.0
+1544,Daora Horn,Daora Horn,mhxx-dex-1.0
+1545,Daora Hardhorn,Daora Hardhorn,mhxx-dex-1.0
+1546,Daora Horn+,Daora Horn+,mhxx-dex-1.0
+1547,Daora Tail,Daora Tail,mhxx-dex-1.0
+1548,Daora Lash,Daora Lash,mhxx-dex-1.0
+1549,Daora Claw,Daora Claw,mhxx-dex-1.0
+1550,Daora Claw+,Daora Claw+,mhxx-dex-1.0
+1551,Daora Hardclaw,Daora Hardclaw,mhxx-dex-1.0
+1552,Daora Gem,Daora Gem,mhxx-dex-1.0
+1553,Lrg Elder Dragon Gem,Lrg Elder Dragon Gem,mhxx-dex-1.0
+1554,Chameleos Hide,Chameleos Hide,mhxx-dex-1.0
+1555,Chameleos Hide+,Chameleos Hide+,mhxx-dex-1.0
+1556,Chameleos Finehide,Chameleos Finehide,mhxx-dex-1.0
+1557,Chameleos Horn,Chameleos Horn,mhxx-dex-1.0
+1558,Chameleos Spike,Chameleos Spike,mhxx-dex-1.0
+1559,Chameleos Hardhorn,Chameleos Hardhorn,mhxx-dex-1.0
+1560,Chameleos Claw,Chameleos Claw,mhxx-dex-1.0
+1561,Chameleos Claw+,Chameleos Claw+,mhxx-dex-1.0
+1562,Chameleos Hardclaw,Chameleos Hardclaw,mhxx-dex-1.0
+1563,Chameleos Webbing,Chameleos Webbing,mhxx-dex-1.0
+1564,Chameleos Fellwing,Chameleos Fellwing,mhxx-dex-1.0
+1565,Chameleos Tail,Chameleos Tail,mhxx-dex-1.0
+1566,Chameleos Lash,Chameleos Lash,mhxx-dex-1.0
+1567,Chameleos Gem,Chameleos Gem,mhxx-dex-1.0
+1568,Teostra Shell,Teostra Shell,mhxx-dex-1.0
+1569,Teostra Carapace,Teostra Carapace,mhxx-dex-1.0
+1570,Teostra Cortex,Teostra Cortex,mhxx-dex-1.0
+1571,Teostra Mane,Teostra Mane,mhxx-dex-1.0
+1572,Teostra Tail,Teostra Tail,mhxx-dex-1.0
+1573,Teostra Lash,Teostra Lash,mhxx-dex-1.0
+1574,Teostra Horn,Teostra Horn,mhxx-dex-1.0
+1575,Teostra Horn+,Teostra Horn+,mhxx-dex-1.0
+1576,Teostra Hardhorn,Teostra Hardhorn,mhxx-dex-1.0
+1577,Fire Dragon Scale,Fire Dragon Scale,mhxx-dex-1.0
+1578,Fire Dragon Scale+,Fire Dragon Scale+,mhxx-dex-1.0
+1579,Flame Shard,Flame Shard,mhxx-dex-1.0
+1580,Fire Dragon Claw,Fire Dragon Claw,mhxx-dex-1.0
+1581,Teostra Claw+,Teostra Claw+,mhxx-dex-1.0
+1582,Fire Dragon Hardclaw,Fire Dragon Hardclaw,mhxx-dex-1.0
+1583,Teostra Webbing,Teostra Webbing,mhxx-dex-1.0
+1584,Teostra Powder,Teostra Powder,mhxx-dex-1.0
+1585,Teostra Gem,Teostra Gem,mhxx-dex-1.0
+1586,Wyvern Crystal,Wyvern Crystal,mhxx-dex-1.0
+1587,Great Wyvern Crystal,Great Wyvern Crystal,mhxx-dex-1.0
+1588,Akantor Scale+,Akantor Scale+,mhxx-dex-1.0
+1589,Akantor Shard,Akantor Shard,mhxx-dex-1.0
+1590,Akantor Carapace,Akantor Carapace,mhxx-dex-1.0
+1591,Akantor Cortex,Akantor Cortex,mhxx-dex-1.0
+1592,Akantor Tail,Akantor Tail,mhxx-dex-1.0
+1593,Akantor Flail,Akantor Flail,mhxx-dex-1.0
+1594,Akantor Hardclaw,Akantor Hardclaw,mhxx-dex-1.0
+1595,Akantor Shredtalon,Akantor Shredtalon,mhxx-dex-1.0
+1596,Akantor Tallfang,Akantor Tallfang,mhxx-dex-1.0
+1597,Akantor Greatfang,Akantor Greatfang,mhxx-dex-1.0
+1598,Akantor Spike,Akantor Spike,mhxx-dex-1.0
+1599,Akantor Thickspike,Akantor Thickspike,mhxx-dex-1.0
+1600,Akantor Gem,Akantor Gem,mhxx-dex-1.0
+1601,Conquest Sphere,Conquest Sphere,mhxx-dex-1.0
+1602,Ukanlos Carapace,Ukanlos Carapace,mhxx-dex-1.0
+1603,Ukanlos Cortex,Ukanlos Cortex,mhxx-dex-1.0
+1604,Ukanlos Underscale,Ukanlos Underscale,mhxx-dex-1.0
+1605,Ukanlos Underscale+,Ukanlos Underscale+,mhxx-dex-1.0
+1606,Ukanlos Tail,Ukanlos Tail,mhxx-dex-1.0
+1607,Ukanlos Flail,Ukanlos Flail,mhxx-dex-1.0
+1608,Ukanlos Digger,Ukanlos Digger,mhxx-dex-1.0
+1609,Ukanlos Digger+,Ukanlos Digger+,mhxx-dex-1.0
+1610,Ukanlos Shoveljaw,Ukanlos Shoveljaw,mhxx-dex-1.0
+1611,Ukanlos Shoveljaw+,Ukanlos Shoveljaw+,mhxx-dex-1.0
+1612,Ukanlos Fin+,Ukanlos Fin+,mhxx-dex-1.0
+1613,Ukanlos Strongfin,Ukanlos Strongfin,mhxx-dex-1.0
+1614,Ukanlos Gem,Ukanlos Gem,mhxx-dex-1.0
+1615,Ukanlos Stone,Ukanlos Stone,mhxx-dex-1.0
+1616,Alatreon Scute,Alatreon Scute,mhxx-dex-1.0
+1617,Alatreon Pallium,Alatreon Pallium,mhxx-dex-1.0
+1618,Alatreon Plate,Alatreon Plate,mhxx-dex-1.0
+1619,Alatreon Mantle,Alatreon Mantle,mhxx-dex-1.0
+1620,Alatreon Talon,Alatreon Talon,mhxx-dex-1.0
+1621,Alatreon Riptalon,Alatreon Riptalon,mhxx-dex-1.0
+1622,Alatreon Webbing,Alatreon Webbing,mhxx-dex-1.0
+1623,Alatreo Direwing,Alatreo Direwing,mhxx-dex-1.0
+1624,Alatreon Tail,Alatreon Tail,mhxx-dex-1.0
+1625,Alatreo Diretail,Alatreo Diretail,mhxx-dex-1.0
+1626,Broken Skypiercer,Broken Skypiercer,mhxx-dex-1.0
+1627,Skypiercer,Skypiercer,mhxx-dex-1.0
+1628,Skyswayer,Skyswayer,mhxx-dex-1.0
+1629,Azure Dragongem,Azure Dragongem,mhxx-dex-1.0
+1630,Azure Dragonsphire,Azure Dragonsphire,mhxx-dex-1.0
+1631,Amatsu Carapace,Amatsu Carapace,mhxx-dex-1.0
+1632,Amatsu Cortex,Amatsu Cortex,mhxx-dex-1.0
+1633,Amatsu Webbing,Amatsu Webbing,mhxx-dex-1.0
+1634,Amatsu Membrane,Amatsu Membrane,mhxx-dex-1.0
+1635,Amatsu Horn,Amatsu Horn,mhxx-dex-1.0
+1636,Amatsu Hardhorn,Amatsu Hardhorn,mhxx-dex-1.0
+1637,Amatsu Claw+,Amatsu Claw+,mhxx-dex-1.0
+1638,Amatsu Hardclaw,Amatsu Hardclaw,mhxx-dex-1.0
+1639,Amatsu Tail,Amatsu Tail,mhxx-dex-1.0
+1640,Amatsu Stormtail,Amatsu Stormtail,mhxx-dex-1.0
+1641,Amatsu Pleura,Amatsu Pleura,mhxx-dex-1.0
+1642,Amatsu Heavypleura,Amatsu Heavypleura,mhxx-dex-1.0
+1643,Storm Vesicle,Storm Vesicle,mhxx-dex-1.0
+1644,Storm Vesicle Clump,Storm Vesicle Clump,mhxx-dex-1.0
+1645,Heavenly Dragongem,Heavenly Dragongem,mhxx-dex-1.0
+1646,Heavenly Dragonsphire,Heavenly Dragonsphire,mhxx-dex-1.0
+1647,Dragon Healing Crystal,Dragon Healing Crystal,mhxx-dex-1.0
+1648,Lao-Shan Shard,Lao-Shan Shard,mhxx-dex-1.0
+1649,Lao-Shan Cortex,Lao-Shan Cortex,mhxx-dex-1.0
+1650,Lao-Shan Hardhorn,Lao-Shan Hardhorn,mhxx-dex-1.0
+1651,Lao-Shan Megaclaw,Lao-Shan Megaclaw,mhxx-dex-1.0
+1652,Lao-Shan Mantle,Lao-Shan Mantle,mhxx-dex-1.0
+1653,Fatalis Shard,Fatalis Shard,mhxx-dex-1.0
+1654,Fatalis Cortex,Fatalis Cortex,mhxx-dex-1.0
+1655,Fatalis Hardhorn,Fatalis Hardhorn,mhxx-dex-1.0
+1656,Fatalis Evil Eye,Fatalis Evil Eye,mhxx-dex-1.0
+1657,Fatalis Fellwing,Fatalis Fellwing,mhxx-dex-1.0
+1658,Crimson Fatalis Scale,Crimson Fatalis Scale,mhxx-dex-1.0
+1659,Crimson Fatalis Shell,Crimson Fatalis Shell,mhxx-dex-1.0
+1660,Crimson Fatalis Horn,Crimson Fatalis Horn,mhxx-dex-1.0
+1661,Crimson Fatalis Wing,Crimson Fatalis Wing,mhxx-dex-1.0
+1662,Fatalis Devileye+,Fatalis Devileye+,mhxx-dex-1.0
+1663,Old Fatalis Shard,Old Fatalis Shard,mhxx-dex-1.0
+1664,Old Fatalis Cortex,Old Fatalis Cortex,mhxx-dex-1.0
+1665,Old Fatalis Hardhorn,Old Fatalis Hardhorn,mhxx-dex-1.0
+1666,Old Fatalis Fellwing,Old Fatalis Fellwing,mhxx-dex-1.0
+1667,Old Fatalis Souleye,Old Fatalis Souleye,mhxx-dex-1.0
+1668,Nakarkos Husk,Nakarkos Husk,mhxx-dex-1.0
+1669,Nakarkos Husk+,Nakarkos Husk+,mhxx-dex-1.0
+1670,Heavy Nakarkos Husk,Heavy Nakarkos Husk,mhxx-dex-1.0
+1671,Nakarkos Shell,Nakarkos Shell,mhxx-dex-1.0
+1672,Nakarkos Shell+,Nakarkos Shell+,mhxx-dex-1.0
+1673,Nakarkos Hardshell,Nakarkos Hardshell,mhxx-dex-1.0
+1674,Nakarkos Skull,Nakarkos Skull,mhxx-dex-1.0
+1675,Nakarkos Hardskull,Nakarkos Hardskull,mhxx-dex-1.0
+1676,Nakarkos Vertebra,Nakarkos Vertebra,mhxx-dex-1.0
+1677,Nakarkos Hardvertebra,Nakarkos Hardvertebra,mhxx-dex-1.0
+1678,Nakarkos Hide,Nakarkos Hide,mhxx-dex-1.0
+1679,Nakarkos Azurehide,Nakarkos Azurehide,mhxx-dex-1.0
+1680,Nakarkos Arm Brace,Nakarkos Arm Brace,mhxx-dex-1.0
+1681,Scary Nakarkos ArmBrce,Scary Nakarkos ArmBrce,mhxx-dex-1.0
+1682,Nakarkos Fang,Nakarkos Fang,mhxx-dex-1.0
+1683,Nakarkos Cuttlebone,Nakarkos Cuttlebone,mhxx-dex-1.0
+1684,Lrg Nakarkos Cuttlebone,Lrg Nakarkos Cuttlebone,mhxx-dex-1.0
+1685,Nakarkos Soul Orb,Nakarkos Soul Orb,mhxx-dex-1.0
+1686,Nakarkos SecretSoulOrb,Nakarkos SecretSoulOrb,mhxx-dex-1.0
+1687,Radiant Mucus,Radiant Mucus,mhxx-dex-1.0
+1688,Radiant Mucus+,Radiant Mucus+,mhxx-dex-1.0
+1689,Viscous Radiant Mucus,Viscous Radiant Mucus,mhxx-dex-1.0
+1690,Valstrax Scale+,Valstrax Scale+,mhxx-dex-1.0
+1691,Valstrax Shard,Valstrax Shard,mhxx-dex-1.0
+1692,Valstrax Carapace,Valstrax Carapace,mhxx-dex-1.0
+1693,Valstrax Cortex,Valstrax Cortex,mhxx-dex-1.0
+1694,Valstrax Claw+,Valstrax Claw+,mhxx-dex-1.0
+1695,Valstrax Hardclaw,Valstrax Hardclaw,mhxx-dex-1.0
+1696,Valstrax Tail,Valstrax Tail,mhxx-dex-1.0
+1697,Valstrax Helixtail,Valstrax Helixtail,mhxx-dex-1.0
+1698,Valstrax Lancewing,Valstrax Lancewing,mhxx-dex-1.0
+1699,Valstrax Lancewing+,Valstrax Lancewing+,mhxx-dex-1.0
+1700,Valstrax Spineshell,Valstrax Spineshell,mhxx-dex-1.0
+1701,Valstrax Spineshell+,Valstrax Spineshell+,mhxx-dex-1.0
+1702,Red Dragon Mindstone,Red Dragon Mindstone,mhxx-dex-1.0
+1703,Ruby Dragon Mindstone,Ruby Dragon Mindstone,mhxx-dex-1.0
+1704,Burned Husk,Burned Husk,mhxx-dex-1.0
+1705,Shimmering Dragonfluid,Shimmering Dragonfluid,mhxx-dex-1.0
+1706,Golden Silk,Golden Silk,mhxx-dex-1.0
+1707,Ahtal-Ka Gold Cocoon,Ahtal-Ka Gold Cocoon,mhxx-dex-1.0
+1708,Ahtal-Ka Purple Cocoon,Ahtal-Ka Purple Cocoon,mhxx-dex-1.0
+1709,Ahtal-Ka Foreblade,Ahtal-Ka Foreblade,mhxx-dex-1.0
+1710,Iridescent Carapace,Iridescent Carapace,mhxx-dex-1.0
+1711,Ahtal-Ka Pheromone,Ahtal-Ka Pheromone,mhxx-dex-1.0
+1712,Ahtal-Ka Fine Silk,Ahtal-Ka Fine Silk,mhxx-dex-1.0
+1713,Ahtal-Ka Alluring Gem,Ahtal-Ka Alluring Gem,mhxx-dex-1.0
+1714,Royal Pyroxene,Royal Pyroxene,mhxx-dex-1.0
+1715,Map,Map,mhxx-dex-1.0
+1716,First-aid Med,First-aid Med,mhxx-dex-1.0
+1717,First-aid Med+,First-aid Med+,mhxx-dex-1.0
+1718,Ration,Ration,mhxx-dex-1.0
+1719,Portable Spit,Portable Spit,mhxx-dex-1.0
+1720,Mini Whetstone,Mini Whetstone,mhxx-dex-1.0
+1721,EZ Shock Trap,EZ Shock Trap,mhxx-dex-1.0
+1722,EZ Flash Bomb,EZ Flash Bomb,mhxx-dex-1.0
+1723,EZ Sonic Bomb,EZ Sonic Bomb,mhxx-dex-1.0
+1724,EZ Max Potion,EZ Max Potion,mhxx-dex-1.0
+1725,EZ Lifepowder,EZ Lifepowder,mhxx-dex-1.0
+1726,EZ Dust of Life,EZ Dust of Life,mhxx-dex-1.0
+1727,EZ Pitfall Trap,EZ Pitfall Trap,mhxx-dex-1.0
+1728,EZ Barrel Bomb L,EZ Barrel Bomb L,mhxx-dex-1.0
+1729,EZ Hunter's Drink,EZ Hunter's Drink,mhxx-dex-1.0
+1730,Ballista Ammo,Ballista Ammo,mhxx-dex-1.0
+1731,One-shot Binder,One-shot Binder,mhxx-dex-1.0
+1732,Anti-dragon Bomb,Anti-dragon Bomb,mhxx-dex-1.0
+1733,Dense Marcoal,Dense Marcoal,mhxx-dex-1.0
+1734,Paw Pass Ticket,Paw Pass Ticket,mhxx-dex-1.0
+1735,EZ Farcaster,EZ Farcaster,mhxx-dex-1.0
+1736,Rusted Fragment,Rusted Fragment,mhxx-dex-1.0
+1737,Ancient Fragment,Ancient Fragment,mhxx-dex-1.0
+1738,Mythical Fragment,Mythical Fragment,mhxx-dex-1.0
+1739,Sinister Cloth,Sinister Cloth,mhxx-dex-1.0
+1740,Sinister Darkcloth,Sinister Darkcloth,mhxx-dex-1.0
+1741,Sinister Gloomcloth,Sinister Gloomcloth,mhxx-dex-1.0
+1742,Extravagant Artifact,Extravagant Artifact,mhxx-dex-1.0
+1743,Opulent Artifact,Opulent Artifact,mhxx-dex-1.0
+1744,Decadent Artifact,Decadent Artifact,mhxx-dex-1.0
+1745,Broken Statue,Broken Statue,mhxx-dex-1.0
+1746,Large Broken Statue,Large Broken Statue,mhxx-dex-1.0
+1747,Broken Cat God Statue,Broken Cat God Statue,mhxx-dex-1.0
+1748,Dark Piece,Dark Piece,mhxx-dex-1.0
+1749,Dark Stone,Dark Stone,mhxx-dex-1.0
+1750,Felyne Kettle,Felyne Kettle,mhxx-dex-1.0
+1751,Yukumo Riceflour,Yukumo Riceflour,mhxx-dex-1.0
+1752,Doll Parts,Doll Parts,mhxx-dex-1.0
+1753,Weapon Codex,Weapon Codex,mhxx-dex-1.0
+1754,Bowgun Codex,Bowgun Codex,mhxx-dex-1.0
+1755,Deluxe Barrel Timber,Deluxe Barrel Timber,mhxx-dex-1.0
+1756,Ancient Talisman,Ancient Talisman,mhxx-dex-1.0
+1757,Damaged Amber,Damaged Amber,mhxx-dex-1.0
+1758,Cloudy Fragment,Cloudy Fragment,mhxx-dex-1.0
+1759,Strange Mask,Strange Mask,mhxx-dex-1.0
+1760,Sunmarge Crystal,Sunmarge Crystal,mhxx-dex-1.0
+1761,Ocean Pyroxene,Ocean Pyroxene,mhxx-dex-1.0
+1762,Fluffy White Ball,Fluffy White Ball,mhxx-dex-1.0
+1763,Fluffy Black Ball,Fluffy Black Ball,mhxx-dex-1.0
+1764,Fusion Material - Head,Fusion Material - Head,mhxx-dex-1.0
+1765,Fusion Material - Chest,Fusion Material - Chest,mhxx-dex-1.0
+1766,Fusion Material - Arms,Fusion Material - Arms,mhxx-dex-1.0
+1767,Fusion Material - Waist,Fusion Material - Waist,mhxx-dex-1.0
+1768,Fusion Material - Legs,Fusion Material - Legs,mhxx-dex-1.0
+1769,F Fusion Material - Head,F Fusion Material - Head,mhxx-dex-1.0
+1770,F Fusion Material - Chest,F Fusion Material - Chest,mhxx-dex-1.0
+1771,Voucher,Voucher,mhxx-dex-1.0
+1772,Gourmet Voucher,Gourmet Voucher,mhxx-dex-1.0
+1773,Commendation,Commendation,mhxx-dex-1.0
+1774,Commendation G,Commendation G,mhxx-dex-1.0
+1775,Commendation XX,Commendation XX,mhxx-dex-1.0
+1776,Accolade,Accolade,mhxx-dex-1.0
+1777,Accolade G,Accolade G,mhxx-dex-1.0
+1778,Accolade XX,Accolade XX,mhxx-dex-1.0
+1779,Distinction,Distinction,mhxx-dex-1.0
+1780,Privilege,Privilege,mhxx-dex-1.0
+1781,Privilege G,Privilege G,mhxx-dex-1.0
+1782,Triumph,Triumph,mhxx-dex-1.0
+1783,Pawprint Stamp,Pawprint Stamp,mhxx-dex-1.0
+1784,Pawprint Ticket,Pawprint Ticket,mhxx-dex-1.0
+1785,Bherna Ticket,Bherna Ticket,mhxx-dex-1.0
+1786,Bherna Ticket G,Bherna Ticket G,mhxx-dex-1.0
+1787,Kokoto Ticket,Kokoto Ticket,mhxx-dex-1.0
+1788,Kokoto Ticket G,Kokoto Ticket G,mhxx-dex-1.0
+1789,Pokke Ticket,Pokke Ticket,mhxx-dex-1.0
+1790,Pokke Ticket G,Pokke Ticket G,mhxx-dex-1.0
+1791,Yukumo Ticket,Yukumo Ticket,mhxx-dex-1.0
+1792,Yukumo Ticket G,Yukumo Ticket G,mhxx-dex-1.0
+1793,Wycademy Ticket,Wycademy Ticket,mhxx-dex-1.0
+1794,Wycademy Ticket G,Wycademy Ticket G,mhxx-dex-1.0
+1795,Soaratorium Ticket,Soaratorium Ticket,mhxx-dex-1.0
+1796,Pub Ticket,Pub Ticket,mhxx-dex-1.0
+1797,Palico Ticket,Palico Ticket,mhxx-dex-1.0
+1798,Palico Ticket G,Palico Ticket G,mhxx-dex-1.0
+1799,Airship Ticket,Airship Ticket,mhxx-dex-1.0
+1800,Airship Ticket G,Airship Ticket G,mhxx-dex-1.0
+1801,Bistro Ticket,Bistro Ticket,mhxx-dex-1.0
+1802,Bistro Ticket G,Bistro Ticket G,mhxx-dex-1.0
+1803,Trade Ticket,Trade Ticket,mhxx-dex-1.0
+1804,Footbath Ticket,Footbath Ticket,mhxx-dex-1.0
+1805,Bronze Guild Ticket,Bronze Guild Ticket,mhxx-dex-1.0
+1806,Gold Guild Ticket,Gold Guild Ticket,mhxx-dex-1.0
+1807,Blackbelt Ticket,Blackbelt Ticket,mhxx-dex-1.0
+1808,Expert Ticket,Expert Ticket,mhxx-dex-1.0
+1809,Expert Ticket G,Expert Ticket G,mhxx-dex-1.0
+1810,Legend Ticket,Legend Ticket,mhxx-dex-1.0
+1811,Legend Ticket G,Legend Ticket G,mhxx-dex-1.0
+1812,VE Ticket,VE Ticket,mhxx-dex-1.0
+1813,VE Deluxe Ticket,VE Deluxe Ticket,mhxx-dex-1.0
+1814,VE Bronze Ticket,VE Bronze Ticket,mhxx-dex-1.0
+1815,VE Silver Ticket,VE Silver Ticket,mhxx-dex-1.0
+1816,VE Golden Ticket,VE Golden Ticket,mhxx-dex-1.0
+1817,VE Cosmic Ticket,VE Cosmic Ticket,mhxx-dex-1.0
+1818,EX Rathalos Ticket,EX Rathalos Ticket,mhxx-dex-1.0
+1819,EX Rathalos Ticket S,EX Rathalos Ticket S,mhxx-dex-1.0
+1820,EX Lavasioth Ticket,EX Lavasioth Ticket,mhxx-dex-1.0
+1821,EX Tigrex Ticket,EX Tigrex Ticket,mhxx-dex-1.0
+1822,EX Tigrex Ticket S,EX Tigrex Ticket S,mhxx-dex-1.0
+1823,EX Zinogre Ticket,EX Zinogre Ticket,mhxx-dex-1.0
+1824,EX Brachydios Ticket,EX Brachydios Ticket,mhxx-dex-1.0
+1825,EX Gore Magala Ticket,EX Gore Magala Ticket,mhxx-dex-1.0
+1826,EX S.Magala Ticket,EX S.Magala Ticket,mhxx-dex-1.0
+1827,EX Daora Ticket,EX Daora Ticket,mhxx-dex-1.0
+1828,EX Chameleos Ticket,EX Chameleos Ticket,mhxx-dex-1.0
+1829,EX Teostra Ticket,EX Teostra Ticket,mhxx-dex-1.0
+1830,EX G.Rathian Ticket,EX G.Rathian Ticket,mhxx-dex-1.0
+1831,EX S.Rathalos Ticket,EX S.Rathalos Ticket,mhxx-dex-1.0
+1832,EX Congalala Ticket,EX Congalala Ticket,mhxx-dex-1.0
+1833,EX Lao-Shan Lung Ticket,EX Lao-Shan Lung Ticket,mhxx-dex-1.0
+1834,EX C.Fatalis Ticket,EX C.Fatalis Ticket,mhxx-dex-1.0
+1835,EX Old Fatalis Ticket,EX Old Fatalis Ticket,mhxx-dex-1.0
+1836,EX Lao-Shan Ticket S,EX Lao-Shan Ticket S,mhxx-dex-1.0
+1837,Hyper Hunter I,Hyper Hunter I,mhxx-dex-1.0
+1838,Hyper Hunter II,Hyper Hunter II,mhxx-dex-1.0
+1839,Hyper Hunter III,Hyper Hunter III,mhxx-dex-1.0
+1840,Hyper Hunter IV,Hyper Hunter IV,mhxx-dex-1.0
+1841,Hyper Hunter V,Hyper Hunter V,mhxx-dex-1.0
+1842,Hyper Hunter VI,Hyper Hunter VI,mhxx-dex-1.0
+1843,Redhelm Hunter I,Redhelm Hunter I,mhxx-dex-1.0
+1844,Redhelm Hunter II,Redhelm Hunter II,mhxx-dex-1.0
+1845,Redhelm Hunter III,Redhelm Hunter III,mhxx-dex-1.0
+1846,Redhelm Hunter IV,Redhelm Hunter IV,mhxx-dex-1.0
+1847,Redhelm Hunter V,Redhelm Hunter V,mhxx-dex-1.0
+1848,Redhelm Hunter VI,Redhelm Hunter VI,mhxx-dex-1.0
+1849,Redhelm Hunter VII,Redhelm Hunter VII,mhxx-dex-1.0
+1850,Redhelm Hunter VIII,Redhelm Hunter VIII,mhxx-dex-1.0
+1851,Redhelm Hunter IX,Redhelm Hunter IX,mhxx-dex-1.0
+1852,Redhelm Hunter X,Redhelm Hunter X,mhxx-dex-1.0
+1853,Redhelm Hunter XI,Redhelm Hunter XI,mhxx-dex-1.0
+1854,Redhelm Hunter XII,Redhelm Hunter XII,mhxx-dex-1.0
+1855,Redhelm Hunter XIII,Redhelm Hunter XIII,mhxx-dex-1.0
+1856,Redhelm Hunter XIV,Redhelm Hunter XIV,mhxx-dex-1.0
+1857,Redhelm Hunter XV,Redhelm Hunter XV,mhxx-dex-1.0
+1858,Snowbaron Hunter I,Snowbaron Hunter I,mhxx-dex-1.0
+1859,Snowbaron Hunter II,Snowbaron Hunter II,mhxx-dex-1.0
+1860,Snowbaron Hunter III,Snowbaron Hunter III,mhxx-dex-1.0
+1861,Snowbaron Hunter IV,Snowbaron Hunter IV,mhxx-dex-1.0
+1862,Snowbaron Hunter V,Snowbaron Hunter V,mhxx-dex-1.0
+1863,Snowbaron Hunter VI,Snowbaron Hunter VI,mhxx-dex-1.0
+1864,Snowbaron Hunter VII,Snowbaron Hunter VII,mhxx-dex-1.0
+1865,Snowbaron Hunter VIII,Snowbaron Hunter VIII,mhxx-dex-1.0
+1866,Snowbaron Hunter IX,Snowbaron Hunter IX,mhxx-dex-1.0
+1867,Snowbaron Hunter X,Snowbaron Hunter X,mhxx-dex-1.0
+1868,Snowbaron Hunter XI,Snowbaron Hunter XI,mhxx-dex-1.0
+1869,Snowbaron Hunter XII,Snowbaron Hunter XII,mhxx-dex-1.0
+1870,Snowbaron Hunter XIII,Snowbaron Hunter XIII,mhxx-dex-1.0
+1871,Snowbaron Hunter XIV,Snowbaron Hunter XIV,mhxx-dex-1.0
+1872,Snowbaron Hunter XV,Snowbaron Hunter XV,mhxx-dex-1.0
+1873,Stonefist Hunter I,Stonefist Hunter I,mhxx-dex-1.0
+1874,Stonefist Hunter II,Stonefist Hunter II,mhxx-dex-1.0
+1875,Stonefist Hunter III,Stonefist Hunter III,mhxx-dex-1.0
+1876,Stonefist Hunter IV,Stonefist Hunter IV,mhxx-dex-1.0
+1877,Stonefist Hunter V,Stonefist Hunter V,mhxx-dex-1.0
+1878,Stonefist Hunter VI,Stonefist Hunter VI,mhxx-dex-1.0
+1879,Stonefist Hunter VII,Stonefist Hunter VII,mhxx-dex-1.0
+1880,Stonefist Hunter VIII,Stonefist Hunter VIII,mhxx-dex-1.0
+1881,Stonefist Hunter IX,Stonefist Hunter IX,mhxx-dex-1.0
+1882,Stonefist Hunter X,Stonefist Hunter X,mhxx-dex-1.0
+1883,Stonefist Hunter XI,Stonefist Hunter XI,mhxx-dex-1.0
+1884,Stonefist Hunter XII,Stonefist Hunter XII,mhxx-dex-1.0
+1885,Stonefist Hunter XIII,Stonefist Hunter XIII,mhxx-dex-1.0
+1886,Stonefist Hunter XIV,Stonefist Hunter XIV,mhxx-dex-1.0
+1887,Stonefist Hunter XV,Stonefist Hunter XV,mhxx-dex-1.0
+1888,Dreadqueen Hunter I,Dreadqueen Hunter I,mhxx-dex-1.0
+1889,Dreadqueen Hunter II,Dreadqueen Hunter II,mhxx-dex-1.0
+1890,Dreadqueen Hunter III,Dreadqueen Hunter III,mhxx-dex-1.0
+1891,Dreadqueen Hunter IV,Dreadqueen Hunter IV,mhxx-dex-1.0
+1892,Dreadqueen Hunter V,Dreadqueen Hunter V,mhxx-dex-1.0
+1893,Dreadqueen Hunter VI,Dreadqueen Hunter VI,mhxx-dex-1.0
+1894,Dreadqueen Hunter VII,Dreadqueen Hunter VII,mhxx-dex-1.0
+1895,Dreadqueen Hunter VIII,Dreadqueen Hunter VIII,mhxx-dex-1.0
+1896,Dreadqueen Hunter IX,Dreadqueen Hunter IX,mhxx-dex-1.0
+1897,Dreadqueen Hunter X,Dreadqueen Hunter X,mhxx-dex-1.0
+1898,Dreadqueen Hunter XI,Dreadqueen Hunter XI,mhxx-dex-1.0
+1899,Dreadqueen Hunter XII,Dreadqueen Hunter XII,mhxx-dex-1.0
+1900,Dreadqueen Hunter XIII,Dreadqueen Hunter XIII,mhxx-dex-1.0
+1901,Dreadqueen Hunter XIV,Dreadqueen Hunter XIV,mhxx-dex-1.0
+1902,Dreadqueen Hunter XV,Dreadqueen Hunter XV,mhxx-dex-1.0
+1903,Drilltusk Hunter I,Drilltusk Hunter I,mhxx-dex-1.0
+1904,Drilltusk Hunter II,Drilltusk Hunter II,mhxx-dex-1.0
+1905,Drilltusk Hunter III,Drilltusk Hunter III,mhxx-dex-1.0
+1906,Drilltusk Hunter IV,Drilltusk Hunter IV,mhxx-dex-1.0
+1907,Drilltusk Hunter V,Drilltusk Hunter V,mhxx-dex-1.0
+1908,Drilltusk Hunter VI,Drilltusk Hunter VI,mhxx-dex-1.0
+1909,Drilltusk Hunter VII,Drilltusk Hunter VII,mhxx-dex-1.0
+1910,Drilltusk Hunter VIII,Drilltusk Hunter VIII,mhxx-dex-1.0
+1911,Drilltusk Hunter IX,Drilltusk Hunter IX,mhxx-dex-1.0
+1912,Drilltusk Hunter X,Drilltusk Hunter X,mhxx-dex-1.0
+1913,Drilltusk Hunter XI,Drilltusk Hunter XI,mhxx-dex-1.0
+1914,Drilltusk Hunter XII,Drilltusk Hunter XII,mhxx-dex-1.0
+1915,Drilltusk Hunter XIII,Drilltusk Hunter XIII,mhxx-dex-1.0
+1916,Drilltusk Hunter XIV,Drilltusk Hunter XIV,mhxx-dex-1.0
+1917,Drilltusk Hunter XV,Drilltusk Hunter XV,mhxx-dex-1.0
+1918,Silverwind Hunter I,Silverwind Hunter I,mhxx-dex-1.0
+1919,Silverwind Hunter II,Silverwind Hunter II,mhxx-dex-1.0
+1920,Silverwind Hunter III,Silverwind Hunter III,mhxx-dex-1.0
+1921,Silverwind Hunter IV,Silverwind Hunter IV,mhxx-dex-1.0
+1922,Silverwind Hunter V,Silverwind Hunter V,mhxx-dex-1.0
+1923,Silverwind Hunter VI,Silverwind Hunter VI,mhxx-dex-1.0
+1924,Silverwind Hunter VII,Silverwind Hunter VII,mhxx-dex-1.0
+1925,Silverwind Hunter VIII,Silverwind Hunter VIII,mhxx-dex-1.0
+1926,Silverwind Hunter IX,Silverwind Hunter IX,mhxx-dex-1.0
+1927,Silverwind Hunter X,Silverwind Hunter X,mhxx-dex-1.0
+1928,Silverwind Hunter XI,Silverwind Hunter XI,mhxx-dex-1.0
+1929,Silverwind Hunter XII,Silverwind Hunter XII,mhxx-dex-1.0
+1930,Silverwind Hunter XIII,Silverwind Hunter XIII,mhxx-dex-1.0
+1931,Silverwind Hunter XIV,Silverwind Hunter XIV,mhxx-dex-1.0
+1932,Silverwind Hunter XV,Silverwind Hunter XV,mhxx-dex-1.0
+1933,Crystalbeard Hunter I,Crystalbeard Hunter I,mhxx-dex-1.0
+1934,Crystalbeard Hunter II,Crystalbeard Hunter II,mhxx-dex-1.0
+1935,Crystalbeard Hunter III,Crystalbeard Hunter III,mhxx-dex-1.0
+1936,Crystalbeard Hunter IV,Crystalbeard Hunter IV,mhxx-dex-1.0
+1937,Crystalbeard Hunter V,Crystalbeard Hunter V,mhxx-dex-1.0
+1938,Crystalbeard Hunter VI,Crystalbeard Hunter VI,mhxx-dex-1.0
+1939,Crystalbeard Hunter VII,Crystalbeard Hunter VII,mhxx-dex-1.0
+1940,Crystalbeard Hunter VIII,Crystalbeard Hunter VIII,mhxx-dex-1.0
+1941,Crystalbeard Hunter IX,Crystalbeard Hunter IX,mhxx-dex-1.0
+1942,Crystalbeard Hunter X,Crystalbeard Hunter X,mhxx-dex-1.0
+1943,Crystalbeard Hunter XI,Crystalbeard Hunter XI,mhxx-dex-1.0
+1944,Crystalbeard Hunter XII,Crystalbeard Hunter XII,mhxx-dex-1.0
+1945,Crystalbeard Hunter XIII,Crystalbeard Hunter XIII,mhxx-dex-1.0
+1946,Crystalbeard Hunter XIV,Crystalbeard Hunter XIV,mhxx-dex-1.0
+1947,Crystalbeard Hunter XV,Crystalbeard Hunter XV,mhxx-dex-1.0
+1948,Deadeye Hunter I,Deadeye Hunter I,mhxx-dex-1.0
+1949,Deadeye Hunter II,Deadeye Hunter II,mhxx-dex-1.0
+1950,Deadeye Hunter III,Deadeye Hunter III,mhxx-dex-1.0
+1951,Deadeye Hunter IV,Deadeye Hunter IV,mhxx-dex-1.0
+1952,Deadeye Hunter V,Deadeye Hunter V,mhxx-dex-1.0
+1953,Deadeye Hunter VI,Deadeye Hunter VI,mhxx-dex-1.0
+1954,Deadeye Hunter VII,Deadeye Hunter VII,mhxx-dex-1.0
+1955,Deadeye Hunter VIII,Deadeye Hunter VIII,mhxx-dex-1.0
+1956,Deadeye Hunter IX,Deadeye Hunter IX,mhxx-dex-1.0
+1957,Deadeye Hunter X,Deadeye Hunter X,mhxx-dex-1.0
+1958,Deadeye Hunter XI,Deadeye Hunter XI,mhxx-dex-1.0
+1959,Deadeye Hunter XII,Deadeye Hunter XII,mhxx-dex-1.0
+1960,Deadeye Hunter XIII,Deadeye Hunter XIII,mhxx-dex-1.0
+1961,Deadeye Hunter XIV,Deadeye Hunter XIV,mhxx-dex-1.0
+1962,Deadeye Hunter XV,Deadeye Hunter XV,mhxx-dex-1.0
+1963,Dreadking Hunter I,Dreadking Hunter I,mhxx-dex-1.0
+1964,Dreadking Hunter II,Dreadking Hunter II,mhxx-dex-1.0
+1965,Dreadking Hunter III,Dreadking Hunter III,mhxx-dex-1.0
+1966,Dreadking Hunter IV,Dreadking Hunter IV,mhxx-dex-1.0
+1967,Dreadking Hunter V,Dreadking Hunter V,mhxx-dex-1.0
+1968,Dreadking Hunter VI,Dreadking Hunter VI,mhxx-dex-1.0
+1969,Dreadking Hunter VII,Dreadking Hunter VII,mhxx-dex-1.0
+1970,Dreadking Hunter VIII,Dreadking Hunter VIII,mhxx-dex-1.0
+1971,Dreadking Hunter IX,Dreadking Hunter IX,mhxx-dex-1.0
+1972,Dreadking Hunter X,Dreadking Hunter X,mhxx-dex-1.0
+1973,Dreadking Hunter XI,Dreadking Hunter XI,mhxx-dex-1.0
+1974,Dreadking Hunter XII,Dreadking Hunter XII,mhxx-dex-1.0
+1975,Dreadking Hunter XIII,Dreadking Hunter XIII,mhxx-dex-1.0
+1976,Dreadking Hunter XIV,Dreadking Hunter XIV,mhxx-dex-1.0
+1977,Dreadking Hunter XV,Dreadking Hunter XV,mhxx-dex-1.0
+1978,Thunderlord Hunter I,Thunderlord Hunter I,mhxx-dex-1.0
+1979,Thunderlord Hunter II,Thunderlord Hunter II,mhxx-dex-1.0
+1980,Thunderlord Hunter III,Thunderlord Hunter III,mhxx-dex-1.0
+1981,Thunderlord Hunter IV,Thunderlord Hunter IV,mhxx-dex-1.0
+1982,Thunderlord Hunter V,Thunderlord Hunter V,mhxx-dex-1.0
+1983,Thunderlord Hunter VI,Thunderlord Hunter VI,mhxx-dex-1.0
+1984,Thunderlord Hunter VII,Thunderlord Hunter VII,mhxx-dex-1.0
+1985,Thunderlord Hunter VIII,Thunderlord Hunter VIII,mhxx-dex-1.0
+1986,Thunderlord Hunter IX,Thunderlord Hunter IX,mhxx-dex-1.0
+1987,Thunderlord Hunter X,Thunderlord Hunter X,mhxx-dex-1.0
+1988,Thunderlord Hunter XI,Thunderlord Hunter XI,mhxx-dex-1.0
+1989,Thunderlord Hunter XII,Thunderlord Hunter XII,mhxx-dex-1.0
+1990,Thunderlord Hunter XIII,Thunderlord Hunter XIII,mhxx-dex-1.0
+1991,Thunderlord Hunter XIV,Thunderlord Hunter XIV,mhxx-dex-1.0
+1992,Thunderlord Hunter XV,Thunderlord Hunter XV,mhxx-dex-1.0
+1993,Grimclaw Hunter I,Grimclaw Hunter I,mhxx-dex-1.0
+1994,Grimclaw Hunter II,Grimclaw Hunter II,mhxx-dex-1.0
+1995,Grimclaw Hunter III,Grimclaw Hunter III,mhxx-dex-1.0
+1996,Grimclaw Hunter IV,Grimclaw Hunter IV,mhxx-dex-1.0
+1997,Grimclaw Hunter V,Grimclaw Hunter V,mhxx-dex-1.0
+1998,Grimclaw Hunter VI,Grimclaw Hunter VI,mhxx-dex-1.0
+1999,Grimclaw Hunter VII,Grimclaw Hunter VII,mhxx-dex-1.0
+2000,Grimclaw Hunter VIII,Grimclaw Hunter VIII,mhxx-dex-1.0
+2001,Grimclaw Hunter IX,Grimclaw Hunter IX,mhxx-dex-1.0
+2002,Grimclaw Hunter X,Grimclaw Hunter X,mhxx-dex-1.0
+2003,Grimclaw Hunter XI,Grimclaw Hunter XI,mhxx-dex-1.0
+2004,Grimclaw Hunter XII,Grimclaw Hunter XII,mhxx-dex-1.0
+2005,Grimclaw Hunter XIII,Grimclaw Hunter XIII,mhxx-dex-1.0
+2006,Grimclaw Hunter XIV,Grimclaw Hunter XIV,mhxx-dex-1.0
+2007,Grimclaw Hunter XV,Grimclaw Hunter XV,mhxx-dex-1.0
+2008,Hellblade Hunter I,Hellblade Hunter I,mhxx-dex-1.0
+2009,Hellblade Hunter II,Hellblade Hunter II,mhxx-dex-1.0
+2010,Hellblade Hunter III,Hellblade Hunter III,mhxx-dex-1.0
+2011,Hellblade Hunter IV,Hellblade Hunter IV,mhxx-dex-1.0
+2012,Hellblade Hunter V,Hellblade Hunter V,mhxx-dex-1.0
+2013,Hellblade Hunter VI,Hellblade Hunter VI,mhxx-dex-1.0
+2014,Hellblade Hunter VII,Hellblade Hunter VII,mhxx-dex-1.0
+2015,Hellblade Hunter VIII,Hellblade Hunter VIII,mhxx-dex-1.0
+2016,Hellblade Hunter IX,Hellblade Hunter IX,mhxx-dex-1.0
+2017,Hellblade Hunter X,Hellblade Hunter X,mhxx-dex-1.0
+2018,Hellblade Hunter XI,Hellblade Hunter XI,mhxx-dex-1.0
+2019,Hellblade Hunter XII,Hellblade Hunter XII,mhxx-dex-1.0
+2020,Hellblade Hunter XIII,Hellblade Hunter XIII,mhxx-dex-1.0
+2021,Hellblade Hunter XIV,Hellblade Hunter XIV,mhxx-dex-1.0
+2022,Hellblade Hunter XV,Hellblade Hunter XV,mhxx-dex-1.0
+2023,Nightcloak Hunter I,Nightcloak Hunter I,mhxx-dex-1.0
+2024,Nightcloak Hunter II,Nightcloak Hunter II,mhxx-dex-1.0
+2025,Nightcloak Hunter III,Nightcloak Hunter III,mhxx-dex-1.0
+2026,Nightcloak Hunter IV,Nightcloak Hunter IV,mhxx-dex-1.0
+2027,Nightcloak Hunter V,Nightcloak Hunter V,mhxx-dex-1.0
+2028,Rustrazor Hunter I,Rustrazor Hunter I,mhxx-dex-1.0
+2029,Rustrazor Hunter II,Rustrazor Hunter II,mhxx-dex-1.0
+2030,Rustrazor Hunter III,Rustrazor Hunter III,mhxx-dex-1.0
+2031,Rustrazor Hunter IV,Rustrazor Hunter IV,mhxx-dex-1.0
+2032,Rustrazor Hunter V,Rustrazor Hunter V,mhxx-dex-1.0
+2033,Soulseer Hunter I,Soulseer Hunter I,mhxx-dex-1.0
+2034,Soulseer Hunter II,Soulseer Hunter II,mhxx-dex-1.0
+2035,Soulseer Hunter III,Soulseer Hunter III,mhxx-dex-1.0
+2036,Soulseer Hunter IV,Soulseer Hunter IV,mhxx-dex-1.0
+2037,Soulseer Hunter V,Soulseer Hunter V,mhxx-dex-1.0
+2038,Boltreaver Hunter I,Boltreaver Hunter I,mhxx-dex-1.0
+2039,Boltreaver Hunter II,Boltreaver Hunter II,mhxx-dex-1.0
+2040,Boltreaver Hunter III,Boltreaver Hunter III,mhxx-dex-1.0
+2041,Boltreaver Hunter IV,Boltreaver Hunter IV,mhxx-dex-1.0
+2042,Boltreaver Hunter V,Boltreaver Hunter V,mhxx-dex-1.0
+2043,Elderfrost Hunter I,Elderfrost Hunter I,mhxx-dex-1.0
+2044,Elderfrost Hunter II,Elderfrost Hunter II,mhxx-dex-1.0
+2045,Elderfrost Hunter III,Elderfrost Hunter III,mhxx-dex-1.0
+2046,Elderfrost Hunter IV,Elderfrost Hunter IV,mhxx-dex-1.0
+2047,Elderfrost Hunter V,Elderfrost Hunter V,mhxx-dex-1.0
+2048,Bloodbath Hunter I,Bloodbath Hunter I,mhxx-dex-1.0
+2049,Bloodbath Hunter II,Bloodbath Hunter II,mhxx-dex-1.0
+2050,Bloodbath Hunter III,Bloodbath Hunter III,mhxx-dex-1.0
+2051,Bloodbath Hunter IV,Bloodbath Hunter IV,mhxx-dex-1.0
+2052,Bloodbath Hunter V,Bloodbath Hunter V,mhxx-dex-1.0
+2053,Royal Honey,Royal Honey,mhxx-dex-1.0
+2054,Unique Mushroom,Unique Mushroom,mhxx-dex-1.0
+2055,Choice Mushroom,Choice Mushroom,mhxx-dex-1.0
+2056,Ripened Mushroom,Ripened Mushroom,mhxx-dex-1.0
+2057,Great Shroom,Great Shroom,mhxx-dex-1.0
+2058,Abyssal Mushroom,Abyssal Mushroom,mhxx-dex-1.0
+2059,Super Sprout,Super Sprout,mhxx-dex-1.0
+2060,Tropical Berry,Tropical Berry,mhxx-dex-1.0
+2061,Mountain Herbs,Mountain Herbs,mhxx-dex-1.0
+2062,Unique Fern,Unique Fern,mhxx-dex-1.0
+2063,Choice Fern,Choice Fern,mhxx-dex-1.0
+2064,Goldenfish,Goldenfish,mhxx-dex-1.0
+2065,Silverfish,Silverfish,mhxx-dex-1.0
+2066,Brocadefish,Brocadefish,mhxx-dex-1.0
+2067,King Brocadefish,King Brocadefish,mhxx-dex-1.0
+2068,Premium Sashimi,Premium Sashimi,mhxx-dex-1.0
+2069,Royal Rhino,Royal Rhino,mhxx-dex-1.0
+2070,Divine Rhino,Divine Rhino,mhxx-dex-1.0
+2071,Silver Cricket,Silver Cricket,mhxx-dex-1.0
+2072,Gold Cricket,Gold Cricket,mhxx-dex-1.0
+2073,Immortal Moth,Immortal Moth,mhxx-dex-1.0
+2074,Large Immortal Moth,Large Immortal Moth,mhxx-dex-1.0
+2075,Auristone Piece,Auristone Piece,mhxx-dex-1.0
+2076,Auristone Chunk,Auristone Chunk,mhxx-dex-1.0
+2077,Balmstone Piece,Balmstone Piece,mhxx-dex-1.0
+2078,Balmstone Chunk,Balmstone Chunk,mhxx-dex-1.0
+2079,Dragon Amber Piece,Dragon Amber Piece,mhxx-dex-1.0
+2080,Dragon Amber Chunk,Dragon Amber Chunk,mhxx-dex-1.0
+2081,Crystal Bone,Crystal Bone,mhxx-dex-1.0
+2082,Bloodstone,Bloodstone,mhxx-dex-1.0
+2083,Deep Bloodstone,Deep Bloodstone,mhxx-dex-1.0
+2084,Coal,Coal,mhxx-dex-1.0
+2085,Volatile Coal,Volatile Coal,mhxx-dex-1.0
+2086,Fossilized Bone,Fossilized Bone,mhxx-dex-1.0
+2087,Decayed Scale,Decayed Scale,mhxx-dex-1.0
+2088,White Liver,White Liver,mhxx-dex-1.0
+2089,Slagtoth Oil,Slagtoth Oil,mhxx-dex-1.0
+2090,Secret Stash,Secret Stash,mhxx-dex-1.0
+2091,Round Acorn,Round Acorn,mhxx-dex-1.0
+2092,Fine Stomach,Fine Stomach,mhxx-dex-1.0
+2093,Luminous Stomach,Luminous Stomach,mhxx-dex-1.0
+2094,Monster Guts,Monster Guts,mhxx-dex-1.0
+2095,Piscine Liver,Piscine Liver,mhxx-dex-1.0
+2096,Popo Tongue,Popo Tongue,mhxx-dex-1.0
+2097,Apceros Liver,Apceros Liver,mhxx-dex-1.0
+2098,Ancient Berry,Ancient Berry,mhxx-dex-1.0
+2099,Water Lily Root,Water Lily Root,mhxx-dex-1.0
+2100,Water Lily Tuber,Water Lily Tuber,mhxx-dex-1.0
+2101,Moofah Fur,Moofah Fur,mhxx-dex-1.0
+2102,Beautiful Shell,Beautiful Shell,mhxx-dex-1.0
+2103,Comet Rock,Comet Rock,mhxx-dex-1.0
+2104,Tall Mushroom,Tall Mushroom,mhxx-dex-1.0
+2105,Gargwa Egg,Gargwa Egg,mhxx-dex-1.0
+2106,Gold Gargwa Egg,Gold Gargwa Egg,mhxx-dex-1.0
+2107,Wyvern Egg,Wyvern Egg,mhxx-dex-1.0
+2108,Sootstone Ore,Sootstone Ore,mhxx-dex-1.0
+2109,Quartz Ore,Quartz Ore,mhxx-dex-1.0
+2110,Powderstone,Powderstone,mhxx-dex-1.0
+2111,Carnivore Egg,Carnivore Egg,mhxx-dex-1.0
+2112,Meteor Chunk,Meteor Chunk,mhxx-dex-1.0
+2113,Eternal Fossil,Eternal Fossil,mhxx-dex-1.0
+2114,Herbivore Egg,Herbivore Egg,mhxx-dex-1.0
+2115,Cannon Ammo,Cannon Ammo,mhxx-dex-1.0
+2116,Guild Flag,Guild Flag,mhxx-dex-1.0
+2117,Gargwa Guano,Gargwa Guano,mhxx-dex-1.0
+2118,Territorial Dung,Territorial Dung,mhxx-dex-1.0
+2119,Territorial Dung+,Territorial Dung+,mhxx-dex-1.0
+2120,Drone Substance,Drone Substance,mhxx-dex-1.0
+2121,Queen Substance,Queen Substance,mhxx-dex-1.0
+2122,Toad Tear,Toad Tear,mhxx-dex-1.0
+2123,Large Toad Tear,Large Toad Tear,mhxx-dex-1.0
+2124,Carapaceon Brains,Carapaceon Brains,mhxx-dex-1.0
+2125,Carapaceon Brains+,Carapaceon Brains+,mhxx-dex-1.0
+2126,Crab Pearl,Crab Pearl,mhxx-dex-1.0
+2127,Crab Pearl+,Crab Pearl+,mhxx-dex-1.0
+2128,Wyvern Tear,Wyvern Tear,mhxx-dex-1.0
+2129,Large Wyvern Tear,Large Wyvern Tear,mhxx-dex-1.0
+2130,Beast Tear,Beast Tear,mhxx-dex-1.0
+2131,Large Beast Tear,Large Beast Tear,mhxx-dex-1.0
+2132,Dragon Treasure,Dragon Treasure,mhxx-dex-1.0
+2133,Old Dragon Treasure,Old Dragon Treasure,mhxx-dex-1.0
+2134,Frenzy Shard,Frenzy Shard,mhxx-dex-1.0
+2135,Frenzy Crystal,Frenzy Crystal,mhxx-dex-1.0
+2136,Vile Frenzy Crystal,Vile Frenzy Crystal,mhxx-dex-1.0
+2137,Khezu Whelp,Khezu Whelp,mhxx-dex-1.0
+2138,Khezu Coin,Khezu Coin,mhxx-dex-1.0
+2139,Najarala Coin,Najarala Coin,mhxx-dex-1.0
+2140,Rathalos Coin,Rathalos Coin,mhxx-dex-1.0
+2141,Kecha Coin,Kecha Coin,mhxx-dex-1.0
+2142,Plesioth Coin,Plesioth Coin,mhxx-dex-1.0
+2143,Brachydios Coin,Brachydios Coin,mhxx-dex-1.0
+2144,Gypceros Coin,Gypceros Coin,mhxx-dex-1.0
+2145,Drome Coin,Drome Coin,mhxx-dex-1.0
+2146,Garuga Coin,Garuga Coin,mhxx-dex-1.0
+2147,Uragaan Coin,Uragaan Coin,mhxx-dex-1.0
+2148,Seregios Coin,Seregios Coin,mhxx-dex-1.0
+2149,Tetsucabra Coin,Tetsucabra Coin,mhxx-dex-1.0
+2150,Congalala Coin,Congalala Coin,mhxx-dex-1.0
+2151,Horns Coin,Horns Coin,mhxx-dex-1.0
+2152,Humble Scrap,Humble Scrap,mhxx-dex-1.0
+2153,Humble Scrap+,Humble Scrap+,mhxx-dex-1.0
+2154,Heavy Humble Scrap,Heavy Humble Scrap,mhxx-dex-1.0
+2155,Handsome Scrap,Handsome Scrap,mhxx-dex-1.0
+2156,Handsome Scrap+,Handsome Scrap+,mhxx-dex-1.0
+2157,Heavy Handsome Scrap,Heavy Handsome Scrap,mhxx-dex-1.0
+2158,Ore Scrap,Ore Scrap,mhxx-dex-1.0
+2159,Ore Scrap+,Ore Scrap+,mhxx-dex-1.0
+2160,Heavy Ore Scrap,Heavy Ore Scrap,mhxx-dex-1.0
+2161,Insect Scrap,Insect Scrap,mhxx-dex-1.0
+2162,Insect Scrap+,Insect Scrap+,mhxx-dex-1.0
+2163,Heavy Insect Scrap,Heavy Insect Scrap,mhxx-dex-1.0
+2164,Bone Scrap,Bone Scrap,mhxx-dex-1.0
+2165,Bone Scrap+,Bone Scrap+,mhxx-dex-1.0
+2166,Heavy Bone Scrap,Heavy Bone Scrap,mhxx-dex-1.0
+2167,Wood Scrap,Wood Scrap,mhxx-dex-1.0
+2168,Wood Scrap+,Wood Scrap+,mhxx-dex-1.0
+2169,Heavy Wood Scrap,Heavy Wood Scrap,mhxx-dex-1.0
+2170,Fur Scrap,Fur Scrap,mhxx-dex-1.0
+2171,Fur Scrap+,Fur Scrap+,mhxx-dex-1.0
+2172,Heavy Fur Scrap,Heavy Fur Scrap,mhxx-dex-1.0
+2173,Rhenoplos Scrap,Rhenoplos Scrap,mhxx-dex-1.0
+2174,Rhenoplos Scrap+,Rhenoplos Scrap+,mhxx-dex-1.0
+2175,Heavy Rhenoplos Scrap,Heavy Rhenoplos Scrap,mhxx-dex-1.0
+2176,Slagtoth Scrap+,Slagtoth Scrap+,mhxx-dex-1.0
+2177,Bnahabra Scrap,Bnahabra Scrap,mhxx-dex-1.0
+2178,Bnahabra Scrap+,Bnahabra Scrap+,mhxx-dex-1.0
+2179,Heavy Bnahabra Scrap,Heavy Bnahabra Scrap,mhxx-dex-1.0
+2180,Great Jaggi Scrap,Great Jaggi Scrap,mhxx-dex-1.0
+2181,Great Jaggi Scrap+,Great Jaggi Scrap+,mhxx-dex-1.0
+2182,Hvy Great Jaggi Scrap,Hvy Great Jaggi Scrap,mhxx-dex-1.0
+2183,Maccao Scrap,Maccao Scrap,mhxx-dex-1.0
+2184,Maccao Scrap+,Maccao Scrap+,mhxx-dex-1.0
+2185,Heavy Maccao Scrap,Heavy Maccao Scrap,mhxx-dex-1.0
+2186,Velociprey Scrap,Velociprey Scrap,mhxx-dex-1.0
+2187,Velociprey Scrap+,Velociprey Scrap+,mhxx-dex-1.0
+2188,Heavy Velociprey Scrap,Heavy Velociprey Scrap,mhxx-dex-1.0
+2189,Giaprey Scrap+,Giaprey Scrap+,mhxx-dex-1.0
+2190,Heavy Giaprey Scrap,Heavy Giaprey Scrap,mhxx-dex-1.0
+2191,Genprey Scrap,Genprey Scrap,mhxx-dex-1.0
+2192,Genprey Scrap+,Genprey Scrap+,mhxx-dex-1.0
+2193,Heavy Genprey Scrap,Heavy Genprey Scrap,mhxx-dex-1.0
+2194,Ioprey Scrap,Ioprey Scrap,mhxx-dex-1.0
+2195,Ioprey Scrap+,Ioprey Scrap+,mhxx-dex-1.0
+2196,Heavy Ioprey Scrap,Heavy Ioprey Scrap,mhxx-dex-1.0
+2197,Arzuros Scrap,Arzuros Scrap,mhxx-dex-1.0
+2198,Arzuros Scrap+,Arzuros Scrap+,mhxx-dex-1.0
+2199,Heavy Arzuros Scrap,Heavy Arzuros Scrap,mhxx-dex-1.0
+2200,Redhelm Scrap,Redhelm Scrap,mhxx-dex-1.0
+2201,Prime Redhelm Scrap,Prime Redhelm Scrap,mhxx-dex-1.0
+2202,Elite Redhelm Scrap,Elite Redhelm Scrap,mhxx-dex-1.0
+2203,Perfect Redhelm Scrap,Perfect Redhelm Scrap,mhxx-dex-1.0
+2204,Lagombi Scrap,Lagombi Scrap,mhxx-dex-1.0
+2205,Lagombi Scrap+,Lagombi Scrap+,mhxx-dex-1.0
+2206,Heavy Lagombi Scrap,Heavy Lagombi Scrap,mhxx-dex-1.0
+2207,Snowbaron Scrap,Snowbaron Scrap,mhxx-dex-1.0
+2208,Prime Snowbaron Scrap,Prime Snowbaron Scrap,mhxx-dex-1.0
+2209,Elite Snowbaron Scrap,Elite Snowbaron Scrap,mhxx-dex-1.0
+2210,Perfect Snowbaron Scrap,Perfect Snowbaron Scrap,mhxx-dex-1.0
+2211,Volvidon Scrap,Volvidon Scrap,mhxx-dex-1.0
+2212,Volvidon Scrap+,Volvidon Scrap+,mhxx-dex-1.0
+2213,Heavy Volvidon Scrap,Heavy Volvidon Scrap,mhxx-dex-1.0
+2214,Yian Kut-Ku Scrap,Yian Kut-Ku Scrap,mhxx-dex-1.0
+2215,Yian Kut-Ku Scrap+,Yian Kut-Ku Scrap+,mhxx-dex-1.0
+2216,Heavy Yian Kut-Ku Scrap,Heavy Yian Kut-Ku Scrap,mhxx-dex-1.0
+2217,Hyper Kut-Ku Scrap,Hyper Kut-Ku Scrap,mhxx-dex-1.0
+2218,Hyper Kut-Ku Scrap X,Hyper Kut-Ku Scrap X,mhxx-dex-1.0
+2219,Gypceros Scrap,Gypceros Scrap,mhxx-dex-1.0
+2220,Gypceros Scrap+,Gypceros Scrap+,mhxx-dex-1.0
+2221,Heavy Gypceros Scrap,Heavy Gypceros Scrap,mhxx-dex-1.0
+2222,Hyper Gypceros Scrap,Hyper Gypceros Scrap,mhxx-dex-1.0
+2223,Hyper Gypceros Scrap X,Hyper Gypceros Scrap X,mhxx-dex-1.0
+2224,Malfestio Scrap,Malfestio Scrap,mhxx-dex-1.0
+2225,Malfestio Scrap+,Malfestio Scrap+,mhxx-dex-1.0
+2226,Heavy Malfestio Scrap,Heavy Malfestio Scrap,mhxx-dex-1.0
+2227,Hyper Malfestio Scrap,Hyper Malfestio Scrap,mhxx-dex-1.0
+2228,Hyper Malfestio Scrap X,Hyper Malfestio Scrap X,mhxx-dex-1.0
+2229,Elite Nightcloak Scrap,Elite Nightcloak Scrap,mhxx-dex-1.0
+2230,Perf. Nightcloak Scrap,Perf. Nightcloak Scrap,mhxx-dex-1.0
+2231,Yian Garuga Scrap,Yian Garuga Scrap,mhxx-dex-1.0
+2232,Yian Garuga Scrap+,Yian Garuga Scrap+,mhxx-dex-1.0
+2233,Hvy Yian Garuga Scrap,Hvy Yian Garuga Scrap,mhxx-dex-1.0
+2234,Hyper Garuga Scrap,Hyper Garuga Scrap,mhxx-dex-1.0
+2235,Hyper Garuga Scrap X,Hyper Garuga Scrap X,mhxx-dex-1.0
+2236,Deadeye Scrap,Deadeye Scrap,mhxx-dex-1.0
+2237,Prime Deadeye Scrap,Prime Deadeye Scrap,mhxx-dex-1.0
+2238,Elite Deadeye Scrap,Elite Deadeye Scrap,mhxx-dex-1.0
+2239,Perfect Deadeye Scrap,Perfect Deadeye Scrap,mhxx-dex-1.0
+2240,Bulldrome Scrap,Bulldrome Scrap,mhxx-dex-1.0
+2241,Bulldrome Scrap+,Bulldrome Scrap+,mhxx-dex-1.0
+2242,Heavy Bulldrome Scrap,Heavy Bulldrome Scrap,mhxx-dex-1.0
+2243,Congalala Scrap+,Congalala Scrap+,mhxx-dex-1.0
+2244,Heavy Congalala Scrap,Heavy Congalala Scrap,mhxx-dex-1.0
+2245,Hyper Congalala Scrap,Hyper Congalala Scrap,mhxx-dex-1.0
+2246,Blangonga Scrap,Blangonga Scrap,mhxx-dex-1.0
+2247,Blangonga Scrap+,Blangonga Scrap+,mhxx-dex-1.0
+2248,Heavy Blangonga Scrap,Heavy Blangonga Scrap,mhxx-dex-1.0
+2249,Hyper Blangonga Scrap,Hyper Blangonga Scrap,mhxx-dex-1.0
+2250,Hypr Blangonga Scrap X,Hypr Blangonga Scrap X,mhxx-dex-1.0
+2251,Kecha Wacha Scrap+,Kecha Wacha Scrap+,mhxx-dex-1.0
+2252,Hvy Kecha Wacha Scrap,Hvy Kecha Wacha Scrap,mhxx-dex-1.0
+2253,Hyper Kecha Scrap,Hyper Kecha Scrap,mhxx-dex-1.0
+2254,Hyper Kecha Scrap X,Hyper Kecha Scrap X,mhxx-dex-1.0
+2255,Cephalos Scrap,Cephalos Scrap,mhxx-dex-1.0
+2256,Cephalos Scrap+,Cephalos Scrap+,mhxx-dex-1.0
+2257,Heavy Cephalos Scrap,Heavy Cephalos Scrap,mhxx-dex-1.0
+2258,Plesioth Scrap+,Plesioth Scrap+,mhxx-dex-1.0
+2259,Heavy Plesioth Scrap,Heavy Plesioth Scrap,mhxx-dex-1.0
+2260,Hyper Plesioth Scrap,Hyper Plesioth Scrap,mhxx-dex-1.0
+2261,Hyper Plesioth Scrap X,Hyper Plesioth Scrap X,mhxx-dex-1.0
+2262,Lavasioth Scrap+,Lavasioth Scrap+,mhxx-dex-1.0
+2263,Heavy Lavasioth Scrap,Heavy Lavasioth Scrap,mhxx-dex-1.0
+2264,Hyper Lavasioth Scrap,Hyper Lavasioth Scrap,mhxx-dex-1.0
+2265,Hyper Lavasioth Scrap X,Hyper Lavasioth Scrap X,mhxx-dex-1.0
+2266,Royal Ludroth Scrap,Royal Ludroth Scrap,mhxx-dex-1.0
+2267,Royal Ludroth Scrap+,Royal Ludroth Scrap+,mhxx-dex-1.0
+2268,Heavy R.Ludroth Scrap,Heavy R.Ludroth Scrap,mhxx-dex-1.0
+2269,Hyper R.Ludroth Scrap,Hyper R.Ludroth Scrap,mhxx-dex-1.0
+2270,Hyper R.Ludroth Scrap X,Hyper R.Ludroth Scrap X,mhxx-dex-1.0
+2271,Nibelsnarf Scrap,Nibelsnarf Scrap,mhxx-dex-1.0
+2272,Nibelsnarf Scrap+,Nibelsnarf Scrap+,mhxx-dex-1.0
+2273,Heavy Nibelsnarf Scrap,Heavy Nibelsnarf Scrap,mhxx-dex-1.0
+2274,Hyper Nibelsnarf Scrap,Hyper Nibelsnarf Scrap,mhxx-dex-1.0
+2275,Hypr Nibelsnarf Scrap X,Hypr Nibelsnarf Scrap X,mhxx-dex-1.0
+2276,Lagiacrus Scrap,Lagiacrus Scrap,mhxx-dex-1.0
+2277,Lagiacrus Scrap+,Lagiacrus Scrap+,mhxx-dex-1.0
+2278,Heavy Lagiacrus Scrap,Heavy Lagiacrus Scrap,mhxx-dex-1.0
+2279,Hyper Lagiacrus Scrap,Hyper Lagiacrus Scrap,mhxx-dex-1.0
+2280,Hyper Lagiacrus Scrap X,Hyper Lagiacrus Scrap X,mhxx-dex-1.0
+2281,Agnaktor Scrap+,Agnaktor Scrap+,mhxx-dex-1.0
+2282,Heavy Agnaktor Scrap,Heavy Agnaktor Scrap,mhxx-dex-1.0
+2283,Hyper Agnaktor Scrap,Hyper Agnaktor Scrap,mhxx-dex-1.0
+2284,Hyper Agnaktor Scrap X,Hyper Agnaktor Scrap X,mhxx-dex-1.0
+2285,Tetsucabra Scrap,Tetsucabra Scrap,mhxx-dex-1.0
+2286,Tetsucabra Scrap+,Tetsucabra Scrap+,mhxx-dex-1.0
+2287,Heavy Tetsucabra Scrap,Heavy Tetsucabra Scrap,mhxx-dex-1.0
+2288,Hyper Tetsu. Scrap,Hyper Tetsu. Scrap,mhxx-dex-1.0
+2289,Hyper Tetsu. Scrap X,Hyper Tetsu. Scrap X,mhxx-dex-1.0
+2290,Drilltusk Scrap,Drilltusk Scrap,mhxx-dex-1.0
+2291,Prime Drilltusk Scrap,Prime Drilltusk Scrap,mhxx-dex-1.0
+2292,Elite Drilltusk Scrap,Elite Drilltusk Scrap,mhxx-dex-1.0
+2293,Perfect Drilltusk Scrap,Perfect Drilltusk Scrap,mhxx-dex-1.0
+2294,Zamtrios Scrap+,Zamtrios Scrap+,mhxx-dex-1.0
+2295,Heavy Zamtrios Scrap,Heavy Zamtrios Scrap,mhxx-dex-1.0
+2296,Hyper Zamtrios Scrap,Hyper Zamtrios Scrap,mhxx-dex-1.0
+2297,Hyper Zamtrios Scrap X,Hyper Zamtrios Scrap X,mhxx-dex-1.0
+2298,Najarala Scrap,Najarala Scrap,mhxx-dex-1.0
+2299,Najarala Scrap+,Najarala Scrap+,mhxx-dex-1.0
+2300,Heavy Najarala Scrap,Heavy Najarala Scrap,mhxx-dex-1.0
+2301,Hyper Najarala Scrap,Hyper Najarala Scrap,mhxx-dex-1.0
+2302,Hyper Najarala Scrap X,Hyper Najarala Scrap X,mhxx-dex-1.0
+2303,Hermitaur Scrap,Hermitaur Scrap,mhxx-dex-1.0
+2304,Hermitaur Scrap+,Hermitaur Scrap+,mhxx-dex-1.0
+2305,Heavy Hermitaur Scrap,Heavy Hermitaur Scrap,mhxx-dex-1.0
+2306,Hyper Hermitaur Scrap,Hyper Hermitaur Scrap,mhxx-dex-1.0
+2307,Hypr Hermitaur Scrap X,Hypr Hermitaur Scrap X,mhxx-dex-1.0
+2308,Stonefist Scrap,Stonefist Scrap,mhxx-dex-1.0
+2309,Prime Stonefist Scrap,Prime Stonefist Scrap,mhxx-dex-1.0
+2310,Elite Stonefist Scrap,Elite Stonefist Scrap,mhxx-dex-1.0
+2311,Perfect Stonefist Scrap,Perfect Stonefist Scrap,mhxx-dex-1.0
+2312,Shogun Scrap,Shogun Scrap,mhxx-dex-1.0
+2313,Shogun Scrap+,Shogun Scrap+,mhxx-dex-1.0
+2314,Heavy Shogun Scrap,Heavy Shogun Scrap,mhxx-dex-1.0
+2315,Hyper Shogun Scrap,Hyper Shogun Scrap,mhxx-dex-1.0
+2316,Hyper Shogun Scrap X,Hyper Shogun Scrap X,mhxx-dex-1.0
+2317,Elite Rustrazor Scrap,Elite Rustrazor Scrap,mhxx-dex-1.0
+2318,Perfect Rustrazor Scrap,Perfect Rustrazor Scrap,mhxx-dex-1.0
+2319,Nerscylla Scrap+,Nerscylla Scrap+,mhxx-dex-1.0
+2320,Heavy Nerscylla Scrap,Heavy Nerscylla Scrap,mhxx-dex-1.0
+2321,Hyper Nerscylla Scrap X,Hyper Nerscylla Scrap X,mhxx-dex-1.0
+2322,Seltas Queen Scrap+,Seltas Queen Scrap+,mhxx-dex-1.0
+2323,Heavy S.Queen Scrap,Heavy S.Queen Scrap,mhxx-dex-1.0
+2324,Hyper S.Queen Scrap,Hyper S.Queen Scrap,mhxx-dex-1.0
+2325,Hyper S.Queen Scrap X,Hyper S.Queen Scrap X,mhxx-dex-1.0
+2326,Barroth Scrap+,Barroth Scrap+,mhxx-dex-1.0
+2327,Heavy Barroth Scrap,Heavy Barroth Scrap,mhxx-dex-1.0
+2328,Hyper Barroth Scrap X,Hyper Barroth Scrap X,mhxx-dex-1.0
+2329,Uragaan Scrap,Uragaan Scrap,mhxx-dex-1.0
+2330,Uragaan Scrap+,Uragaan Scrap+,mhxx-dex-1.0
+2331,Heavy Uragaan Scrap,Heavy Uragaan Scrap,mhxx-dex-1.0
+2332,Hyper Uragaan Scrap,Hyper Uragaan Scrap,mhxx-dex-1.0
+2333,Hyper Uragaan Scrap X,Hyper Uragaan Scrap X,mhxx-dex-1.0
+2334,Crystalbeard Scrap,Crystalbeard Scrap,mhxx-dex-1.0
+2335,Prime C.beard Scrap,Prime C.beard Scrap,mhxx-dex-1.0
+2336,Elite C.beard Scrap,Elite C.beard Scrap,mhxx-dex-1.0
+2337,Perfect C.beard Scrap,Perfect C.beard Scrap,mhxx-dex-1.0
+2338,Brach Scrap,Brach Scrap,mhxx-dex-1.0
+2339,Brach Scrap+,Brach Scrap+,mhxx-dex-1.0
+2340,Heavy Brach Scrap,Heavy Brach Scrap,mhxx-dex-1.0
+2341,Hyper Brach Scrap,Hyper Brach Scrap,mhxx-dex-1.0
+2342,Hyper Brach Scrap X,Hyper Brach Scrap X,mhxx-dex-1.0
+2343,Duramboros Scrap+,Duramboros Scrap+,mhxx-dex-1.0
+2344,Heavy Duram Scrap,Heavy Duram Scrap,mhxx-dex-1.0
+2345,Hyper Duram Scrap,Hyper Duram Scrap,mhxx-dex-1.0
+2346,Hyper Duram Scrap X,Hyper Duram Scrap X,mhxx-dex-1.0
+2347,Khezu Scrap,Khezu Scrap,mhxx-dex-1.0
+2348,Khezu Scrap+,Khezu Scrap+,mhxx-dex-1.0
+2349,Heavy Khezu Scrap,Heavy Khezu Scrap,mhxx-dex-1.0
+2350,Hyper Khezu Scrap,Hyper Khezu Scrap,mhxx-dex-1.0
+2351,Hyper Khezu Scrap X,Hyper Khezu Scrap X,mhxx-dex-1.0
+2352,Nargacuga Scrap,Nargacuga Scrap,mhxx-dex-1.0
+2353,Nargacuga Scrap+,Nargacuga Scrap+,mhxx-dex-1.0
+2354,Heavy Nargacuga Scrap,Heavy Nargacuga Scrap,mhxx-dex-1.0
+2355,Hyper Nargacuga Scrap,Hyper Nargacuga Scrap,mhxx-dex-1.0
+2356,Hyper Narga Scrap X,Hyper Narga Scrap X,mhxx-dex-1.0
+2357,Silverwind Scrap,Silverwind Scrap,mhxx-dex-1.0
+2358,Prime Silverwind Scrap,Prime Silverwind Scrap,mhxx-dex-1.0
+2359,Elite Silverwind Scrap,Elite Silverwind Scrap,mhxx-dex-1.0
+2360,Perfect Silverwind Scrap,Perfect Silverwind Scrap,mhxx-dex-1.0
+2361,Barioth Scrap+,Barioth Scrap+,mhxx-dex-1.0
+2362,Heavy Barioth Scrap,Heavy Barioth Scrap,mhxx-dex-1.0
+2363,Hyper Barioth Scrap X,Hyper Barioth Scrap X,mhxx-dex-1.0
+2364,Basarios Scrap+,Basarios Scrap+,mhxx-dex-1.0
+2365,Heavy Basarios Scrap,Heavy Basarios Scrap,mhxx-dex-1.0
+2366,Hyper Basarios Scrap X,Hyper Basarios Scrap X,mhxx-dex-1.0
+2367,Gravios Scrap+,Gravios Scrap+,mhxx-dex-1.0
+2368,Heavy Gravios Scrap,Heavy Gravios Scrap,mhxx-dex-1.0
+2369,Hyper Gravios Scrap X,Hyper Gravios Scrap X,mhxx-dex-1.0
+2370,Rathian Scrap,Rathian Scrap,mhxx-dex-1.0
+2371,Rathian Scrap+,Rathian Scrap+,mhxx-dex-1.0
+2372,Heavy Rathian Scrap,Heavy Rathian Scrap,mhxx-dex-1.0
+2373,Hyper Rathian Scrap,Hyper Rathian Scrap,mhxx-dex-1.0
+2374,Hyper Rathian Scrap X,Hyper Rathian Scrap X,mhxx-dex-1.0
+2375,Dreadqueen Scrap,Dreadqueen Scrap,mhxx-dex-1.0
+2376,Prime Dreadqueen Scrap,Prime Dreadqueen Scrap,mhxx-dex-1.0
+2377,Elite Dreadqueen Scrap,Elite Dreadqueen Scrap,mhxx-dex-1.0
+2378,Perfect Drdqueen Scrap,Perfect Drdqueen Scrap,mhxx-dex-1.0
+2379,Rathalos Scrap,Rathalos Scrap,mhxx-dex-1.0
+2380,Rathalos Scrap+,Rathalos Scrap+,mhxx-dex-1.0
+2381,Heavy Rathalos Scrap,Heavy Rathalos Scrap,mhxx-dex-1.0
+2382,Hyper Rathalos Scrap,Hyper Rathalos Scrap,mhxx-dex-1.0
+2383,Hyper Rathalos Scrap X,Hyper Rathalos Scrap X,mhxx-dex-1.0
+2384,Dreadking Scrap,Dreadking Scrap,mhxx-dex-1.0
+2385,Prime Dreadking Scrap,Prime Dreadking Scrap,mhxx-dex-1.0
+2386,Elite Dreadking Scrap,Elite Dreadking Scrap,mhxx-dex-1.0
+2387,Perfect Dreadking Scrap,Perfect Dreadking Scrap,mhxx-dex-1.0
+2388,Zinogre Scrap,Zinogre Scrap,mhxx-dex-1.0
+2389,Zinogre Scrap+,Zinogre Scrap+,mhxx-dex-1.0
+2390,Heavy Zinogre Scrap,Heavy Zinogre Scrap,mhxx-dex-1.0
+2391,Hyper Zinogre Scrap,Hyper Zinogre Scrap,mhxx-dex-1.0
+2392,Hyper Zinogre Scrap X,Hyper Zinogre Scrap X,mhxx-dex-1.0
+2393,Thunderlord Scrap,Thunderlord Scrap,mhxx-dex-1.0
+2394,Prime Thunderlord Scrap,Prime Thunderlord Scrap,mhxx-dex-1.0
+2395,Elite Thunderlord Scrap,Elite Thunderlord Scrap,mhxx-dex-1.0
+2396,Perf. Thunderlord Scrap,Perf. Thunderlord Scrap,mhxx-dex-1.0
+2397,Astalos Scrap,Astalos Scrap,mhxx-dex-1.0
+2398,Astalos Scrap+,Astalos Scrap+,mhxx-dex-1.0
+2399,Heavy Astalos Scrap,Heavy Astalos Scrap,mhxx-dex-1.0
+2400,Hyper Astalos Scrap,Hyper Astalos Scrap,mhxx-dex-1.0
+2401,Hyper Astalos Scrap X,Hyper Astalos Scrap X,mhxx-dex-1.0
+2402,Elite Boltreaver Scrap,Elite Boltreaver Scrap,mhxx-dex-1.0
+2403,Perfect Boltreaver Scrap,Perfect Boltreaver Scrap,mhxx-dex-1.0
+2404,Gammoth Scrap,Gammoth Scrap,mhxx-dex-1.0
+2405,Gammoth Scrap+,Gammoth Scrap+,mhxx-dex-1.0
+2406,Heavy Gammoth Scrap,Heavy Gammoth Scrap,mhxx-dex-1.0
+2407,Hyper Gammoth Scrap,Hyper Gammoth Scrap,mhxx-dex-1.0
+2408,Hypr Gammoth Scrap X,Hypr Gammoth Scrap X,mhxx-dex-1.0
+2409,Elite Elderfrost Scrap,Elite Elderfrost Scrap,mhxx-dex-1.0
+2410,Perfect Elderfrost Scrap,Perfect Elderfrost Scrap,mhxx-dex-1.0
+2411,Mizutsune Scrap,Mizutsune Scrap,mhxx-dex-1.0
+2412,Mizutsune Scrap+,Mizutsune Scrap+,mhxx-dex-1.0
+2413,Heavy Mizutsune Scrap,Heavy Mizutsune Scrap,mhxx-dex-1.0
+2414,Hyper Mizutsune Scrap,Hyper Mizutsune Scrap,mhxx-dex-1.0
+2415,Hyper Mizutsune Scrap X,Hyper Mizutsune Scrap X,mhxx-dex-1.0
+2416,Elite Soulseer Scrap,Elite Soulseer Scrap,mhxx-dex-1.0
+2417,Perfect Soulseer Scrap,Perfect Soulseer Scrap,mhxx-dex-1.0
+2418,Glavenus Scrap,Glavenus Scrap,mhxx-dex-1.0
+2419,Glavenus Scrap+,Glavenus Scrap+,mhxx-dex-1.0
+2420,Heavy Glavenus Scrap,Heavy Glavenus Scrap,mhxx-dex-1.0
+2421,Hyper Glavenus Scrap,Hyper Glavenus Scrap,mhxx-dex-1.0
+2422,Hyper Glavenus Scrap X,Hyper Glavenus Scrap X,mhxx-dex-1.0
+2423,Hellblade Scrap,Hellblade Scrap,mhxx-dex-1.0
+2424,Prime Hellblade Scrap,Prime Hellblade Scrap,mhxx-dex-1.0
+2425,Elite Hellblade Scrap,Elite Hellblade Scrap,mhxx-dex-1.0
+2426,Perfect Hellblade Scrap,Perfect Hellblade Scrap,mhxx-dex-1.0
+2427,Tigrex Scrap,Tigrex Scrap,mhxx-dex-1.0
+2428,Tigrex Scrap+,Tigrex Scrap+,mhxx-dex-1.0
+2429,Heavy Tigrex Scrap,Heavy Tigrex Scrap,mhxx-dex-1.0
+2430,Hyper Tigrex Scrap,Hyper Tigrex Scrap,mhxx-dex-1.0
+2431,Hyper Tigrex Scrap X,Hyper Tigrex Scrap X,mhxx-dex-1.0
+2432,Grimclaw Scrap,Grimclaw Scrap,mhxx-dex-1.0
+2433,Prime Grimclaw Scrap,Prime Grimclaw Scrap,mhxx-dex-1.0
+2434,Elite Grimclaw Scrap,Elite Grimclaw Scrap,mhxx-dex-1.0
+2435,Perfect Grimclaw Scrap,Perfect Grimclaw Scrap,mhxx-dex-1.0
+2436,Seregios Scrap,Seregios Scrap,mhxx-dex-1.0
+2437,Seregios Scrap+,Seregios Scrap+,mhxx-dex-1.0
+2438,Heavy Seregios Scrap,Heavy Seregios Scrap,mhxx-dex-1.0
+2439,Hyper Seregios Scrap,Hyper Seregios Scrap,mhxx-dex-1.0
+2440,Hyper Seregios Scrap X,Hyper Seregios Scrap X,mhxx-dex-1.0
+2441,Diablos Scrap+,Diablos Scrap+,mhxx-dex-1.0
+2442,Heavy Diablos Scrap,Heavy Diablos Scrap,mhxx-dex-1.0
+2443,Hyper Diablos Scrap X,Hyper Diablos Scrap X,mhxx-dex-1.0
+2444,Elite Bloodbath Scrap,Elite Bloodbath Scrap,mhxx-dex-1.0
+2445,Perfect Bloodbath Scrap,Perfect Bloodbath Scrap,mhxx-dex-1.0
+2446,Gore Magala Scrap,Gore Magala Scrap,mhxx-dex-1.0
+2447,Gore Magala Scrap+,Gore Magala Scrap+,mhxx-dex-1.0
+2448,Heavy G.Magala Scrap,Heavy G.Magala Scrap,mhxx-dex-1.0
+2449,Hyper G.Magala Scrap,Hyper G.Magala Scrap,mhxx-dex-1.0
+2450,Hyper G.Magala Scrap X,Hyper G.Magala Scrap X,mhxx-dex-1.0
+2451,Heavy Chaotic Scrap,Heavy Chaotic Scrap,mhxx-dex-1.0
+2452,Shagaru Magala Scrap,Shagaru Magala Scrap,mhxx-dex-1.0
+2453,S.Magala Scrap+,S.Magala Scrap+,mhxx-dex-1.0
+2454,Heavy S.Magala Scrap,Heavy S.Magala Scrap,mhxx-dex-1.0
+2455,Rajang Scrap+,Rajang Scrap+,mhxx-dex-1.0
+2456,Heavy Rajang Scrap,Heavy Rajang Scrap,mhxx-dex-1.0
+2457,Hyper Rajang Scrap,Hyper Rajang Scrap,mhxx-dex-1.0
+2458,Hyper Rajang Scrap X,Hyper Rajang Scrap X,mhxx-dex-1.0
+2459,Deviljho Scrap+,Deviljho Scrap+,mhxx-dex-1.0
+2460,Heavy Deviljho Scrap,Heavy Deviljho Scrap,mhxx-dex-1.0
+2461,Hyper Deviljho Scrap,Hyper Deviljho Scrap,mhxx-dex-1.0
+2462,Hyper Deviljho Scrap X,Hyper Deviljho Scrap X,mhxx-dex-1.0
+2463,Kirin Scrap,Kirin Scrap,mhxx-dex-1.0
+2464,Kirin Scrap+,Kirin Scrap+,mhxx-dex-1.0
+2465,Heavy Kirin Scrap,Heavy Kirin Scrap,mhxx-dex-1.0
+2466,Kushala Daora Scrap,Kushala Daora Scrap,mhxx-dex-1.0
+2467,Kushala Daora Scrap+,Kushala Daora Scrap+,mhxx-dex-1.0
+2468,Heavy K.Daora Scrap,Heavy K.Daora Scrap,mhxx-dex-1.0
+2469,Chameleos Scrap,Chameleos Scrap,mhxx-dex-1.0
+2470,Chameleos Scrap+,Chameleos Scrap+,mhxx-dex-1.0
+2471,Heavy Chameleos Scrap,Heavy Chameleos Scrap,mhxx-dex-1.0
+2472,Teostra Scrap,Teostra Scrap,mhxx-dex-1.0
+2473,Teostra Scrap+,Teostra Scrap+,mhxx-dex-1.0
+2474,Heavy Teostra Scrap,Heavy Teostra Scrap,mhxx-dex-1.0
+2475,Akantor Scrap+,Akantor Scrap+,mhxx-dex-1.0
+2476,Heavy Akantor Scrap,Heavy Akantor Scrap,mhxx-dex-1.0
+2477,Ukanlos Scrap+,Ukanlos Scrap+,mhxx-dex-1.0
+2478,Heavy Ukanlos Scrap,Heavy Ukanlos Scrap,mhxx-dex-1.0
+2479,Alatreon Scrap+,Alatreon Scrap+,mhxx-dex-1.0
+2480,Heavy Alatreon Scrap,Heavy Alatreon Scrap,mhxx-dex-1.0
+2481,Amatsu Scrap+,Amatsu Scrap+,mhxx-dex-1.0
+2482,Heavy Amatsu Scrap,Heavy Amatsu Scrap,mhxx-dex-1.0
+2483,Heavy Lao Shan Scrap,Heavy Lao Shan Scrap,mhxx-dex-1.0
+2484,Heavy Fatalis Scrap,Heavy Fatalis Scrap,mhxx-dex-1.0
+2485,Heavy C.Fatalis Scrap,Heavy C.Fatalis Scrap,mhxx-dex-1.0
+2486,Heavy O.Fatalis Scrap,Heavy O.Fatalis Scrap,mhxx-dex-1.0
+2487,Husk Scrap,Husk Scrap,mhxx-dex-1.0
+2488,Husk Scrap+,Husk Scrap+,mhxx-dex-1.0
+2489,Heavy Husk Scrap,Heavy Husk Scrap,mhxx-dex-1.0
+2490,Nakarkos Scrap+,Nakarkos Scrap+,mhxx-dex-1.0
+2491,Heavy Narkakos Scrap,Heavy Narkakos Scrap,mhxx-dex-1.0
+2492,Valstrax Scrap+,Valstrax Scrap+,mhxx-dex-1.0
+2493,Heavy Valstrax Scrap,Heavy Valstrax Scrap,mhxx-dex-1.0
+2494,Heavy Ahtal-Ka Scrap,Heavy Ahtal-Ka Scrap,mhxx-dex-1.0
+2495,Hyper Scrap,Hyper Scrap,mhxx-dex-1.0
+2496,Hyper Scrap+,Hyper Scrap+,mhxx-dex-1.0
+2497,Hyper Scrap X,Hyper Scrap X,mhxx-dex-1.0
+2498,Hyper Scrap XX,Hyper Scrap XX,mhxx-dex-1.0
+2499,Irregular Scrap,Irregular Scrap,mhxx-dex-1.0
+2500,Prime Irregular Scrap,Prime Irregular Scrap,mhxx-dex-1.0
+2501,Elite Irregular Scrap,Elite Irregular Scrap,mhxx-dex-1.0
+2502,Rathian Item,Rathian Item,mhxx-dex-1.0
+2503,Gold Rathian Item,Gold Rathian Item,mhxx-dex-1.0
+2504,Dreadqueen Item,Dreadqueen Item,mhxx-dex-1.0
+2505,Rathalos Item,Rathalos Item,mhxx-dex-1.0
+2506,Silver Rathalos Item,Silver Rathalos Item,mhxx-dex-1.0
+2507,Dreadking Item,Dreadking Item,mhxx-dex-1.0
+2508,Khezu Item,Khezu Item,mhxx-dex-1.0
+2509,Yian Kut-Ku Item,Yian Kut-Ku Item,mhxx-dex-1.0
+2510,Gypceros Item,Gypceros Item,mhxx-dex-1.0
+2511,Plesioth Item,Plesioth Item,mhxx-dex-1.0
+2512,Kirin Item,Kirin Item,mhxx-dex-1.0
+2513,Velocidrome Item,Velocidrome Item,mhxx-dex-1.0
+2514,Gendrome Item,Gendrome Item,mhxx-dex-1.0
+2515,Iodrome Item,Iodrome Item,mhxx-dex-1.0
+2516,Cephadrome Item,Cephadrome Item,mhxx-dex-1.0
+2517,Yian Garuga Item,Yian Garuga Item,mhxx-dex-1.0
+2518,Deadeye Item,Deadeye Item,mhxx-dex-1.0
+2519,Daimyo Hermitaur Item,Daimyo Hermitaur Item,mhxx-dex-1.0
+2520,Stonefist Item,Stonefist Item,mhxx-dex-1.0
+2521,Shogun Ceanataur Item,Shogun Ceanataur Item,mhxx-dex-1.0
+2522,Blangonga Item,Blangonga Item,mhxx-dex-1.0
+2523,Rajang Item,Rajang Item,mhxx-dex-1.0
+2524,Furious Rajang Item,Furious Rajang Item,mhxx-dex-1.0
+2525,Kushala Daora Item,Kushala Daora Item,mhxx-dex-1.0
+2526,Chameleos Item,Chameleos Item,mhxx-dex-1.0
+2527,Teostra Item,Teostra Item,mhxx-dex-1.0
+2528,Bulldrome Item,Bulldrome Item,mhxx-dex-1.0
+2529,Tigrex Item,Tigrex Item,mhxx-dex-1.0
+2530,Grimclaw Item,Grimclaw Item,mhxx-dex-1.0
+2531,Akantor Item,Akantor Item,mhxx-dex-1.0
+2532,Lavasioth Item,Lavasioth Item,mhxx-dex-1.0
+2533,Nargacuga Item,Nargacuga Item,mhxx-dex-1.0
+2534,Silverwind Item,Silverwind Item,mhxx-dex-1.0
+2535,Ukanlos Item,Ukanlos Item,mhxx-dex-1.0
+2536,Deviljho Item,Deviljho Item,mhxx-dex-1.0
+2537,Savage Deviljho Item,Savage Deviljho Item,mhxx-dex-1.0
+2538,Uragaan Item,Uragaan Item,mhxx-dex-1.0
+2539,Crystalbeard Item,Crystalbeard Item,mhxx-dex-1.0
+2540,Lagiacrus Item,Lagiacrus Item,mhxx-dex-1.0
+2541,Royal Ludroth Item,Royal Ludroth Item,mhxx-dex-1.0
+2542,Agnaktor Item,Agnaktor Item,mhxx-dex-1.0
+2543,Alatreon Item,Alatreon Item,mhxx-dex-1.0
+2544,Duramboros Item,Duramboros Item,mhxx-dex-1.0
+2545,Nibelsnarf Item,Nibelsnarf Item,mhxx-dex-1.0
+2546,Zinogre Item,Zinogre Item,mhxx-dex-1.0
+2547,Thunderlord Item,Thunderlord Item,mhxx-dex-1.0
+2548,Amatsu Item,Amatsu Item,mhxx-dex-1.0
+2549,Arzuros Item,Arzuros Item,mhxx-dex-1.0
+2550,Redhelm Item,Redhelm Item,mhxx-dex-1.0
+2551,Lagombi Item,Lagombi Item,mhxx-dex-1.0
+2552,Snowbaron Item,Snowbaron Item,mhxx-dex-1.0
+2553,Volvidon Item,Volvidon Item,mhxx-dex-1.0
+2554,Brachydios Item,Brachydios Item,mhxx-dex-1.0
+2555,Kecha Wacha Item,Kecha Wacha Item,mhxx-dex-1.0
+2556,Tetsucabra Item,Tetsucabra Item,mhxx-dex-1.0
+2557,Drilltusk Item,Drilltusk Item,mhxx-dex-1.0
+2558,Zamtrios Item,Zamtrios Item,mhxx-dex-1.0
+2559,Najarala Item,Najarala Item,mhxx-dex-1.0
+2560,Seltas Queen Item,Seltas Queen Item,mhxx-dex-1.0
+2561,Gore Magala Item,Gore Magala Item,mhxx-dex-1.0
+2562,Shagaru Magala Item,Shagaru Magala Item,mhxx-dex-1.0
+2563,Seltas Item,Seltas Item,mhxx-dex-1.0
+2564,Seregios Item,Seregios Item,mhxx-dex-1.0
+2565,Malfestio Item,Malfestio Item,mhxx-dex-1.0
+2566,Glavenus Item,Glavenus Item,mhxx-dex-1.0
+2567,Hellblade Item,Hellblade Item,mhxx-dex-1.0
+2568,Astalos Item,Astalos Item,mhxx-dex-1.0
+2569,Mizutsune Item,Mizutsune Item,mhxx-dex-1.0
+2570,Gammoth Item,Gammoth Item,mhxx-dex-1.0
+2571,Nakarkos Item,Nakarkos Item,mhxx-dex-1.0
+2572,Great Maccao Item,Great Maccao Item,mhxx-dex-1.0
+2573,Aptonoth Item,Aptonoth Item,mhxx-dex-1.0
+2574,Apceros Item,Apceros Item,mhxx-dex-1.0
+2575,Kelbi Item,Kelbi Item,mhxx-dex-1.0
+2576,Mosswine Item,Mosswine Item,mhxx-dex-1.0
+2577,Hornetaur Item,Hornetaur Item,mhxx-dex-1.0
+2578,Vespoid Item,Vespoid Item,mhxx-dex-1.0
+2579,Velociprey Item,Velociprey Item,mhxx-dex-1.0
+2580,Genprey Item,Genprey Item,mhxx-dex-1.0
+2581,Ioprey Item,Ioprey Item,mhxx-dex-1.0
+2582,Cephalos Item,Cephalos Item,mhxx-dex-1.0
+2583,Bullfango Item,Bullfango Item,mhxx-dex-1.0
+2584,Popo Item,Popo Item,mhxx-dex-1.0
+2585,Giaprey Item,Giaprey Item,mhxx-dex-1.0
+2586,Anteka Item,Anteka Item,mhxx-dex-1.0
+2587,Remobra Item,Remobra Item,mhxx-dex-1.0
+2588,Hermitaur Item,Hermitaur Item,mhxx-dex-1.0
+2589,Ceanataur Item,Ceanataur Item,mhxx-dex-1.0
+2590,Blango Item,Blango Item,mhxx-dex-1.0
+2591,Rhenoplos Item,Rhenoplos Item,mhxx-dex-1.0
+2592,Bnahabra Item,Bnahabra Item,mhxx-dex-1.0
+2593,Altaroth Item,Altaroth Item,mhxx-dex-1.0
+2594,Jaggi Item,Jaggi Item,mhxx-dex-1.0
+2595,Jaggia Item,Jaggia Item,mhxx-dex-1.0
+2596,Ludroth Item,Ludroth Item,mhxx-dex-1.0
+2597,Uroktor Item,Uroktor Item,mhxx-dex-1.0
+2598,Slagtoth Item,Slagtoth Item,mhxx-dex-1.0
+2599,Gargwa Item,Gargwa Item,mhxx-dex-1.0
+2600,Zamite Item,Zamite Item,mhxx-dex-1.0
+2601,Konchu Item,Konchu Item,mhxx-dex-1.0
+2602,Maccao Item,Maccao Item,mhxx-dex-1.0
+2603,Larinoth Item,Larinoth Item,mhxx-dex-1.0
+2604,Moofah Item,Moofah Item,mhxx-dex-1.0
+2605,Basarios Item,Basarios Item,mhxx-dex-1.0
+2606,Gravios Item,Gravios Item,mhxx-dex-1.0
+2607,Diablos Item,Diablos Item,mhxx-dex-1.0
+2608,Bloodbath Item,Bloodbath Item,mhxx-dex-1.0
+2609,Lao-Shan Lung Item,Lao-Shan Lung Item,mhxx-dex-1.0
+2610,Fatalis Item,Fatalis Item,mhxx-dex-1.0
+2611,Crimson Fatalis Item,Crimson Fatalis Item,mhxx-dex-1.0
+2612,Old Fatalis Item,Old Fatalis Item,mhxx-dex-1.0
+2613,Rustrazor Item,Rustrazor Item,mhxx-dex-1.0
+2614,Congalala Item,Congalala Item,mhxx-dex-1.0
+2615,Giadrome Item,Giadrome Item,mhxx-dex-1.0
+2616,Barioth Item,Barioth Item,mhxx-dex-1.0
+2617,Barroth Item,Barroth Item,mhxx-dex-1.0
+2618,Nerscylla Item,Nerscylla Item,mhxx-dex-1.0
+2619,Chaotic G.Magala Item,Chaotic G.Magala Item,mhxx-dex-1.0
+2620,Raging Brachydios Item,Raging Brachydios Item,mhxx-dex-1.0
+2621,Nightcloak Item,Nightcloak Item,mhxx-dex-1.0
+2622,Boltreaver Item,Boltreaver Item,mhxx-dex-1.0
+2623,Soulseer Item,Soulseer Item,mhxx-dex-1.0
+2624,Elderfrost Item,Elderfrost Item,mhxx-dex-1.0
+2625,Valstrax Item,Valstrax Item,mhxx-dex-1.0
+2626,Ruin Item,Ruin Item,mhxx-dex-1.0
+2627,Empress Item,Empress Item,mhxx-dex-1.0
+2628,Conga Item,Conga Item,mhxx-dex-1.0
+2629,Great Thunderbug Item,Great Thunderbug Item,mhxx-dex-1.0
+2630,Lagniapple,Lagniapple,mhxx-dex-1.0
+2631,Big Lagniapple,Big Lagniapple,mhxx-dex-1.0
+2632,Huge Lagniapple,Huge Lagniapple,mhxx-dex-1.0
+2633,Training Guide,Training Guide,mhxx-dex-1.0
+2634,Training Codex,Training Codex,mhxx-dex-1.0
+2635,Training Compendium,Training Compendium,mhxx-dex-1.0
+2636,Felyne Codex,Felyne Codex,mhxx-dex-1.0
+2637,Timeworn Ballista Shot,Timeworn Ballista Shot,mhxx-dex-1.0
+2638,Antidote Jwl 1,Antidote Jwl 1,mhxx-dex-1.0
+2639,Antidote Jwl 2,Antidote Jwl 2,mhxx-dex-1.0
+2640,Paralysis Jwl 1,Paralysis Jwl 1,mhxx-dex-1.0
+2641,Paralysis Jwl 2,Paralysis Jwl 2,mhxx-dex-1.0
+2642,Pep Jwl 1,Pep Jwl 1,mhxx-dex-1.0
+2643,Pep Jwl 2,Pep Jwl 2,mhxx-dex-1.0
+2644,Steadfast Jwl 1,Steadfast Jwl 1,mhxx-dex-1.0
+2645,Standfast Jwl 1,Standfast Jwl 1,mhxx-dex-1.0
+2646,Earplug Jwl 1,Earplug Jwl 1,mhxx-dex-1.0
+2647,Earplug Jwl 3,Earplug Jwl 3,mhxx-dex-1.0
+2648,Wind Res Jwl 1,Wind Res Jwl 1,mhxx-dex-1.0
+2649,Wind Res Jwl 2,Wind Res Jwl 2,mhxx-dex-1.0
+2650,Footing Jwl 1,Footing Jwl 1,mhxx-dex-1.0
+2651,Tectonic Jwl 1,Tectonic Jwl 1,mhxx-dex-1.0
+2652,Bind Jwl 1,Bind Jwl 1,mhxx-dex-1.0
+2653,Shackle Jwl 1,Shackle Jwl 1,mhxx-dex-1.0
+2654,Heat Res Jwl 1,Heat Res Jwl 1,mhxx-dex-1.0
+2655,Cold Res Jwl 1,Cold Res Jwl 1,mhxx-dex-1.0
+2656,Polar Jwl 1,Polar Jwl 1,mhxx-dex-1.0
+2657,Polar Jwl 3,Polar Jwl 3,mhxx-dex-1.0
+2658,Solar Jwl 1,Solar Jwl 1,mhxx-dex-1.0
+2659,Solar Jwl 3,Solar Jwl 3,mhxx-dex-1.0
+2660,Safe Jwl 1,Safe Jwl 1,mhxx-dex-1.0
+2661,Def Lock Jwl 1,Def Lock Jwl 1,mhxx-dex-1.0
+2662,Sane Jwl 1,Sane Jwl 1,mhxx-dex-1.0
+2663,Sane Jwl 3,Sane Jwl 3,mhxx-dex-1.0
+2664,Biology Jwl 1,Biology Jwl 1,mhxx-dex-1.0
+2665,Microbio Jwl 1,Microbio Jwl 1,mhxx-dex-1.0
+2666,Staunch Jwl 1,Staunch Jwl 1,mhxx-dex-1.0
+2667,Attack Jwl 1,Attack Jwl 1,mhxx-dex-1.0
+2668,Attack Jwl 2,Attack Jwl 2,mhxx-dex-1.0
+2669,Attack Jwl 3,Attack Jwl 3,mhxx-dex-1.0
+2670,Defense Jwl 1,Defense Jwl 1,mhxx-dex-1.0
+2671,Defense Jwl 2,Defense Jwl 2,mhxx-dex-1.0
+2672,Vitality Jwl 1,Vitality Jwl 1,mhxx-dex-1.0
+2673,Fire Res Jwl 1,Fire Res Jwl 1,mhxx-dex-1.0
+2674,Nul-Fire Jwl 1,Nul-Fire Jwl 1,mhxx-dex-1.0
+2675,Water Res Jwl 1,Water Res Jwl 1,mhxx-dex-1.0
+2676,Nul-Water Jwl 1,Nul-Water Jwl 1,mhxx-dex-1.0
+2677,ThunderRes Jwl 1,ThunderRes Jwl 1,mhxx-dex-1.0
+2678,Nul-Thundr Jwl 1,Nul-Thundr Jwl 1,mhxx-dex-1.0
+2679,Ice Res Jwl 1,Ice Res Jwl 1,mhxx-dex-1.0
+2680,Nul-Ice Jwl 1,Nul-Ice Jwl 1,mhxx-dex-1.0
+2681,Dragon Res Jwl 1,Dragon Res Jwl 1,mhxx-dex-1.0
+2682,Nul-Dragon Jwl 1,Nul-Dragon Jwl 1,mhxx-dex-1.0
+2683,Resistor Jwl 1,Resistor Jwl 1,mhxx-dex-1.0
+2684,Resistor Jwl 3,Resistor Jwl 3,mhxx-dex-1.0
+2685,Blaze Jwl 1,Blaze Jwl 1,mhxx-dex-1.0
+2686,Blaze Jwl 2,Blaze Jwl 2,mhxx-dex-1.0
+2687,Stream Jwl 1,Stream Jwl 1,mhxx-dex-1.0
+2688,Stream Jwl 2,Stream Jwl 2,mhxx-dex-1.0
+2689,Bolt Jwl 1,Bolt Jwl 1,mhxx-dex-1.0
+2690,Bolt Jwl 2,Bolt Jwl 2,mhxx-dex-1.0
+2691,Frost Jwl 1,Frost Jwl 1,mhxx-dex-1.0
+2692,Frost Jwl 2,Frost Jwl 2,mhxx-dex-1.0
+2693,Dragon Jwl 1,Dragon Jwl 1,mhxx-dex-1.0
+2694,Dragon Jwl 2,Dragon Jwl 2,mhxx-dex-1.0
+2695,Element Jwl 1,Element Jwl 1,mhxx-dex-1.0
+2696,Element Jwl 3,Element Jwl 3,mhxx-dex-1.0
+2697,Disabler Jwl 1,Disabler Jwl 1,mhxx-dex-1.0
+2698,Disabler Jwl 2,Disabler Jwl 2,mhxx-dex-1.0
+2699,Grinder Jwl 1,Grinder Jwl 1,mhxx-dex-1.0
+2700,Handicraft Jwl 1,Handicraft Jwl 1,mhxx-dex-1.0
+2701,Handicraft Jwl 3,Handicraft Jwl 3,mhxx-dex-1.0
+2702,Razor Jwl 1,Razor Jwl 1,mhxx-dex-1.0
+2703,Razor Jwl 3,Razor Jwl 3,mhxx-dex-1.0
+2704,Fencer Jwl 1,Fencer Jwl 1,mhxx-dex-1.0
+2705,Fencer Jwl 3,Fencer Jwl 3,mhxx-dex-1.0
+2706,Sharp Jwl 1,Sharp Jwl 1,mhxx-dex-1.0
+2707,Sharp Jwl 3,Sharp Jwl 3,mhxx-dex-1.0
+2708,Blunt Jwl 1,Blunt Jwl 1,mhxx-dex-1.0
+2709,Blunt Jwl 2,Blunt Jwl 2,mhxx-dex-1.0
+2710,Draw Jwl 1,Draw Jwl 1,mhxx-dex-1.0
+2711,Draw Jwl 2,Draw Jwl 2,mhxx-dex-1.0
+2712,Gambit Jwl 1,Gambit Jwl 1,mhxx-dex-1.0
+2713,Gambit Jwl 3,Gambit Jwl 3,mhxx-dex-1.0
+2714,Sheath Jwl 1,Sheath Jwl 1,mhxx-dex-1.0
+2715,Sheath Jwl 2,Sheath Jwl 2,mhxx-dex-1.0
+2716,Razor Sheath Jwl 1,Razor Sheath Jwl 1,mhxx-dex-1.0
+2719,Bladescale Jwl 1,Bladescale Jwl 1,mhxx-dex-1.0
+2721,Bladescale Jwl 3,Bladescale Jwl 3,mhxx-dex-1.0
+2722,Quickload Jwl 1,Quickload Jwl 1,mhxx-dex-1.0
+2723,Quickload Jwl 2,Quickload Jwl 2,mhxx-dex-1.0
+2724,Absorber Jwl 1,Absorber Jwl 1,mhxx-dex-1.0
+2725,Absorber Jwl 3,Absorber Jwl 3,mhxx-dex-1.0
+2726,Sniper Jwl 1,Sniper Jwl 1,mhxx-dex-1.0
+2727,Forceshot Jwl 1,Forceshot Jwl 1,mhxx-dex-1.0
+2728,Forceshot Jwl 3,Forceshot Jwl 3,mhxx-dex-1.0
+2729,Pierce Jwl 1,Pierce Jwl 1,mhxx-dex-1.0
+2730,Pierce Jwl 3,Pierce Jwl 3,mhxx-dex-1.0
+2731,Pellet Jwl 1,Pellet Jwl 1,mhxx-dex-1.0
+2732,Pellet Jwl 3,Pellet Jwl 3,mhxx-dex-1.0
+2733,Heavyshot Jwl 1,Heavyshot Jwl 1,mhxx-dex-1.0
+2734,Heavyshot Jwl 3,Heavyshot Jwl 3,mhxx-dex-1.0
+2735,ShotPlus Jwl 1,ShotPlus Jwl 1,mhxx-dex-1.0
+2736,ShotPlus Jwl 2,ShotPlus Jwl 2,mhxx-dex-1.0
+2737,PiercePlus Jwl 1,PiercePlus Jwl 1,mhxx-dex-1.0
+2738,PelletPlus Jwl 1,PelletPlus Jwl 1,mhxx-dex-1.0
+2739,CragPlus Jwl 1,CragPlus Jwl 1,mhxx-dex-1.0
+2740,ClustPlus Jwl 1,ClustPlus Jwl 1,mhxx-dex-1.0
+2741,ClustPlus Jwl 3,ClustPlus Jwl 3,mhxx-dex-1.0
+2742,Poisoncoat Jwl 1,Poisoncoat Jwl 1,mhxx-dex-1.0
+2743,Paracoat Jwl 1,Paracoat Jwl 1,mhxx-dex-1.0
+2744,Paracoat Jwl 2,Paracoat Jwl 2,mhxx-dex-1.0
+2745,Sleep Jwl 1,Sleep Jwl 1,mhxx-dex-1.0
+2746,Powercoat Jwl 1,Powercoat Jwl 1,mhxx-dex-1.0
+2747,Powercoat Jwl 2,Powercoat Jwl 2,mhxx-dex-1.0
+2748,Elemcoat Jwl 1,Elemcoat Jwl 1,mhxx-dex-1.0
+2749,Elemcoat Jwl 2,Elemcoat Jwl 2,mhxx-dex-1.0
+2750,Rangecoat Jwl 1,Rangecoat Jwl 1,mhxx-dex-1.0
+2751,Draincoat Jwl 1,Draincoat Jwl 1,mhxx-dex-1.0
+2752,Blastcoat Jwl 1,Blastcoat Jwl 1,mhxx-dex-1.0
+2753,Salvo Jwl 1,Salvo Jwl 1,mhxx-dex-1.0
+2754,Salvo Jwl 3,Salvo Jwl 3,mhxx-dex-1.0
+2755,Precise Jwl 1,Precise Jwl 1,mhxx-dex-1.0
+2756,Precise Jwl 2,Precise Jwl 2,mhxx-dex-1.0
+2757,Capacity Jwl 1,Capacity Jwl 1,mhxx-dex-1.0
+2758,Capacity Jwl 3,Capacity Jwl 3,mhxx-dex-1.0
+2759,Irregular Jwl 1,Irregular Jwl 1,mhxx-dex-1.0
+2760,Thrift Jwl 1,Thrift Jwl 1,mhxx-dex-1.0
+2761,Thrift Jwl 2,Thrift Jwl 2,mhxx-dex-1.0
+2762,Expert Jwl 1,Expert Jwl 1,mhxx-dex-1.0
+2763,Expert Jwl 2,Expert Jwl 2,mhxx-dex-1.0
+2764,Expert Jwl 3,Expert Jwl 3,mhxx-dex-1.0
+2765,Tenderizer Jwl 1,Tenderizer Jwl 1,mhxx-dex-1.0
+2766,Tenderizer Jwl 3,Tenderizer Jwl 3,mhxx-dex-1.0
+2767,Chain Jwl 1,Chain Jwl 1,mhxx-dex-1.0
+2768,Chain Jwl 3,Chain Jwl 3,mhxx-dex-1.0
+2769,Crit Status Jwl 1,Crit Status Jwl 1,mhxx-dex-1.0
+2770,Crit Status Jwl 2,Crit Status Jwl 2,mhxx-dex-1.0
+2771,CritElementJwl 1,CritElementJwl 1,mhxx-dex-1.0
+2772,CritElementJwl 2,CritElementJwl 2,mhxx-dex-1.0
+2773,Critical Jwl 1,Critical Jwl 1,mhxx-dex-1.0
+2774,Critical Jwl 3,Critical Jwl 3,mhxx-dex-1.0
+2775,Negative Crit Jwl 1,Negative Crit Jwl 1,mhxx-dex-1.0
+2777,Negative Crit Jwl 3,Negative Crit Jwl 3,mhxx-dex-1.0
+2778,Charger Jwl 1,Charger Jwl 1,mhxx-dex-1.0
+2779,Charger Jwl 3,Charger Jwl 3,mhxx-dex-1.0
+2780,Sprinter Jwl 1,Sprinter Jwl 1,mhxx-dex-1.0
+2781,Sprinter Jwl 3,Sprinter Jwl 3,mhxx-dex-1.0
+2782,Physique Jwl 1,Physique Jwl 1,mhxx-dex-1.0
+2783,Physique Jwl 2,Physique Jwl 2,mhxx-dex-1.0
+2784,Refresh Jwl 1,Refresh Jwl 1,mhxx-dex-1.0
+2785,Refresh Jwl 2,Refresh Jwl 2,mhxx-dex-1.0
+2786,Distance Runner Jwl 1,Distance Runner Jwl 1,mhxx-dex-1.0
+2787,Distance Runner Jwl 2,Distance Runner Jwl 2,mhxx-dex-1.0
+2789,Evasion Jwl 1,Evasion Jwl 1,mhxx-dex-1.0
+2790,Evasion Jwl 2,Evasion Jwl 2,mhxx-dex-1.0
+2791,Jumping Jwl 1,Jumping Jwl 1,mhxx-dex-1.0
+2792,Jumping Jwl 3,Jumping Jwl 3,mhxx-dex-1.0
+2793,Bubble Jwl 1,Bubble Jwl 1,mhxx-dex-1.0
+2794,Bubble Jwl 3,Bubble Jwl 3,mhxx-dex-1.0
+2795,Ironwall Jwl 1,Ironwall Jwl 1,mhxx-dex-1.0
+2796,Ironwall Jwl 2,Ironwall Jwl 2,mhxx-dex-1.0
+2797,Shield Jwl 1,Shield Jwl 1,mhxx-dex-1.0
+2798,Shield Jwl 2,Shield Jwl 2,mhxx-dex-1.0
+2799,KO Jwl 1,KO Jwl 1,mhxx-dex-1.0
+2800,KO Jwl 2,KO Jwl 2,mhxx-dex-1.0
+2801,Drain Jwl 1,Drain Jwl 1,mhxx-dex-1.0
+2802,Drain Jwl 2,Drain Jwl 2,mhxx-dex-1.0
+2803,Sonorous Jwl 1,Sonorous Jwl 1,mhxx-dex-1.0
+2804,Artillery Jwl 1,Artillery Jwl 1,mhxx-dex-1.0
+2805,Destroyer Jwl 1,Destroyer Jwl 1,mhxx-dex-1.0
+2806,Destroyer Jwl 3,Destroyer Jwl 3,mhxx-dex-1.0
+2807,Bombardier Jwl 1,Bombardier Jwl 1,mhxx-dex-1.0
+2808,Throttle Jwl 1,Throttle Jwl 1,mhxx-dex-1.0
+2809,Throttle Jwl 2,Throttle Jwl 2,mhxx-dex-1.0
+2810,Spirit Jwl 1,Spirit Jwl 1,mhxx-dex-1.0
+2811,Spirit Jwl 2,Spirit Jwl 2,mhxx-dex-1.0
+2812,Flawless Jwl 1,Flawless Jwl 1,mhxx-dex-1.0
+2813,Flawless Jwl 2,Flawless Jwl 2,mhxx-dex-1.0
+2814,Favor Jwl 1,Favor Jwl 1,mhxx-dex-1.0
+2815,Favor Jwl 3,Favor Jwl 3,mhxx-dex-1.0
+2816,Dragon Spirit Jwl 1,Dragon Spirit Jwl 1,mhxx-dex-1.0
+2818,Dragon Spirit Jwl 3,Dragon Spirit Jwl 3,mhxx-dex-1.0
+2819,Potential Jwl 1,Potential Jwl 1,mhxx-dex-1.0
+2820,Potential Jwl 2,Potential Jwl 2,mhxx-dex-1.0
+2821,Fortitude Jwl 1,Fortitude Jwl 1,mhxx-dex-1.0
+2822,Fortitude Jwl 2,Fortitude Jwl 2,mhxx-dex-1.0
+2823,Furor Jwl 1,Furor Jwl 1,mhxx-dex-1.0
+2824,Furor Jwl 2,Furor Jwl 2,mhxx-dex-1.0
+2825,Crisis Jwl 1,Crisis Jwl 1,mhxx-dex-1.0
+2826,Crisis Jwl 2,Crisis Jwl 2,mhxx-dex-1.0
+2827,Guts Jwl 1,Guts Jwl 1,mhxx-dex-1.0
+2828,Guts Jwl 2,Guts Jwl 2,mhxx-dex-1.0
+2829,Ninja Jwl 1,Ninja Jwl 1,mhxx-dex-1.0
+2830,Player Jwl 1,Player Jwl 1,mhxx-dex-1.0
+2831,Morale Jwl 1,Morale Jwl 1,mhxx-dex-1.0
+2832,Leader Jwl 1,Leader Jwl 1,mhxx-dex-1.0
+2833,Leader Jwl 2,Leader Jwl 2,mhxx-dex-1.0
+2834,Rodeo Jwl 1,Rodeo Jwl 1,mhxx-dex-1.0
+2835,Flight Jwl 1,Flight Jwl 1,mhxx-dex-1.0
+2836,Insight Jwl 1,Insight Jwl 1,mhxx-dex-1.0
+2837,Insight Jwl 3,Insight Jwl 3,mhxx-dex-1.0
+2838,Endurance Jwl 1,Endurance Jwl 1,mhxx-dex-1.0
+2841,Extender Jwl 1,Extender Jwl 1,mhxx-dex-1.0
+2842,Extender Jwl 2,Extender Jwl 2,mhxx-dex-1.0
+2844,Psychic Jwl 1,Psychic Jwl 1,mhxx-dex-1.0
+2845,Perception Jwl 1,Perception Jwl 1,mhxx-dex-1.0
+2846,Ranger Jwl 1,Ranger Jwl 1,mhxx-dex-1.0
+2847,Transportr Jwl 1,Transportr Jwl 1,mhxx-dex-1.0
+2848,Protection Jwl 1,Protection Jwl 1,mhxx-dex-1.0
+2849,Asylum Jwl 1,Asylum Jwl 1,mhxx-dex-1.0
+2850,Hero Jwl 1,Hero Jwl 1,mhxx-dex-1.0
+2851,Hero Jwl 3,Hero Jwl 3,mhxx-dex-1.0
+2852,Medicine Jwl 1,Medicine Jwl 1,mhxx-dex-1.0
+2853,Medicine Jwl 2,Medicine Jwl 2,mhxx-dex-1.0
+2854,Recovery Jwl 1,Recovery Jwl 1,mhxx-dex-1.0
+2855,Recovery Jwl 2,Recovery Jwl 2,mhxx-dex-1.0
+2856,Enduring Jwl 1,Enduring Jwl 1,mhxx-dex-1.0
+2857,Friendship Jwl 1,Friendship Jwl 1,mhxx-dex-1.0
+2858,Friendship Jwl 2,Friendship Jwl 2,mhxx-dex-1.0
+2859,Hungerless Jwl 1,Hungerless Jwl 1,mhxx-dex-1.0
+2860,Metabolism Jwl 1,Metabolism Jwl 1,mhxx-dex-1.0
+2861,Gobbler Jwl 1,Gobbler Jwl 1,mhxx-dex-1.0
+2862,Gobbler Jwl 3,Gobbler Jwl 3,mhxx-dex-1.0
+2863,Satiated Jwl 1,Satiated Jwl 1,mhxx-dex-1.0
+2864,Meateater Jwl 1,Meateater Jwl 1,mhxx-dex-1.0
+2865,Meatlover Jwl 1,Meatlover Jwl 1,mhxx-dex-1.0
+2866,Fungiform Jwl 1,Fungiform Jwl 1,mhxx-dex-1.0
+2867,Grass Jwl 1,Grass Jwl 1,mhxx-dex-1.0
+2868,Professor Jwl 1,Professor Jwl 1,mhxx-dex-1.0
+2869,Factory Jwl 1,Factory Jwl 1,mhxx-dex-1.0
+2870,Trapmaster Jwl 1,Trapmaster Jwl 1,mhxx-dex-1.0
+2871,Gathering Jwl 1,Gathering Jwl 1,mhxx-dex-1.0
+2872,Honeybee Jwl 1,Honeybee Jwl 1,mhxx-dex-1.0
+2873,Queenbee Jwl 1,Queenbee Jwl 1,mhxx-dex-1.0
+2874,Charmer Jwl 1,Charmer Jwl 1,mhxx-dex-1.0
+2875,Charmer Jwl 3,Charmer Jwl 3,mhxx-dex-1.0
+2876,Blessing Jwl 1,Blessing Jwl 1,mhxx-dex-1.0
+2877,Fate Jwl 1,Fate Jwl 1,mhxx-dex-1.0
+2878,Fate Jwl 3,Fate Jwl 3,mhxx-dex-1.0
+2879,Carver Jwl 1,Carver Jwl 1,mhxx-dex-1.0
+2880,Carver Jwl 3,Carver Jwl 3,mhxx-dex-1.0
+2881,Capture Jwl 1,Capture Jwl 1,mhxx-dex-1.0
+2882,Capture Jwl 3,Capture Jwl 3,mhxx-dex-1.0
+2883,Bell Jwl 1,Bell Jwl 1,mhxx-dex-1.0
+2884,Novice Jwl 1,Novice Jwl 1,mhxx-dex-1.0
+2885,Snowflake Jwl 1,Snowflake Jwl 1,mhxx-dex-1.0
+2886,Springs Jwl 1,Springs Jwl 1,mhxx-dex-1.0
+2887,Study Jwl 1,Study Jwl 1,mhxx-dex-1.0
+2888,Skyfeast Jwl 1,Skyfeast Jwl 1,mhxx-dex-1.0
+2900,Tomato Juice,Tomato Juice,mhxx-dex-1.0
+2901,Fairy Tail Mark,Fairy Tail Mark,mhxx-dex-1.0
+2902,F Pirate Coin J,F Pirate Coin J,mhxx-dex-1.0
+2903,Cardboard,Cardboard,mhxx-dex-1.0
+2904,Uniqlo Coin,Uniqlo Coin,mhxx-dex-1.0
+2905,[JP] Studio Pass,[JP] Studio Pass,mhxx-dex-1.0
+2906,[JP] Gudegude Egg,[JP] Gudegude Egg,mhxx-dex-1.0
+2907,[JP] Soulstone,[JP] Soulstone,mhxx-dex-1.0
+2908,Crows Coin,Crows Coin,mhxx-dex-1.0
+2909,Bicycle Club Application,Bicycle Club Application,mhxx-dex-1.0
+2910,Arena Ticket,Arena Ticket,mhxx-dex-1.0
+2911,Grandpaw Coin,Grandpaw Coin,mhxx-dex-1.0
+2912,CoroCoro Ticket,CoroCoro Ticket,mhxx-dex-1.0
+2913,Ushio Coin,Ushio Coin,mhxx-dex-1.0
+2914,Magi Coin,Magi Coin,mhxx-dex-1.0
+2915,Pluto Stardust,Pluto Stardust,mhxx-dex-1.0
+2916,Roll of Fate,Roll of Fate,mhxx-dex-1.0
+2917,Pirate Ticket J,Pirate Ticket J,mhxx-dex-1.0
+2918,Famitsu Ticket,Famitsu Ticket,mhxx-dex-1.0
+2919,Dengeki Ticket,Dengeki Ticket,mhxx-dex-1.0
+2920,Uniqlo Coin S,Uniqlo Coin S,mhxx-dex-1.0
+2921,[JP] Extraordinary Pass,[JP] Extraordinary Pass,mhxx-dex-1.0
+2922,[JP] Gold Studio Pass,[JP] Gold Studio Pass,mhxx-dex-1.0
+2923,[JP] Wonderful Pass,[JP] Wonderful Pass,mhxx-dex-1.0
+2924,[JP] Salmon Fillet,[JP] Salmon Fillet,mhxx-dex-1.0
+2925,[JP] Macross Δ Coins,[JP] Macross Δ Coins,mhxx-dex-1.0
+2926,Wind Waker,Wind Waker,mhxx-dex-1.0
+2927,Arwing Boarding Pass,Arwing Boarding Pass,mhxx-dex-1.0
+2928,Super Mushroom,Super Mushroom,mhxx-dex-1.0
+2929,Design Pattern,Design Pattern,mhxx-dex-1.0
+2930,Triforce,Triforce,mhxx-dex-1.0
+2931,Samus Coin,Samus Coin,mhxx-dex-1.0
+2932,Goddess's Grace,Goddess's Grace,mhxx-dex-1.0
+2933,Goddess's Embrace,Goddess's Embrace,mhxx-dex-1.0
+2934,SF Coin,SF Coin,mhxx-dex-1.0
+2935,Red Orb,Red Orb,mhxx-dex-1.0
+2936,Ceratanium,Ceratanium,mhxx-dex-1.0
+2937,Hero's Seal,Hero's Seal,mhxx-dex-1.0
+2938,Baby Journal,Baby Journal,mhxx-dex-1.0
+2939,Sunsnug Journal,Sunsnug Journal,mhxx-dex-1.0
+2940,Fan Club Newsletter,Fan Club Newsletter,mhxx-dex-1.0
+2941,Fan Club Application,Fan Club Application,mhxx-dex-1.0
+2942,Fan Club Invite,Fan Club Invite,mhxx-dex-1.0
+2943,Puppet Ticket,Puppet Ticket,mhxx-dex-1.0
+2944,Great Stone,Great Stone,mhxx-dex-1.0
+2945,Courier's Letter,Courier's Letter,mhxx-dex-1.0
+2946,Kaioh Certificate,Kaioh Certificate,mhxx-dex-1.0
+2947,WORST Coin,WORST Coin,mhxx-dex-1.0
+2948,Evidence,Evidence,mhxx-dex-1.0
+2949,Salaryman Coin,Salaryman Coin,mhxx-dex-1.0
+2950,Taisha-ryu Codex,Taisha-ryu Codex,mhxx-dex-1.0
+2951,Famitsu Coupon,Famitsu Coupon,mhxx-dex-1.0
+2952,Dengeki Ticket XX,Dengeki Ticket XX,mhxx-dex-1.0
+2953,Flying Xin Mark,Flying Xin Mark,mhxx-dex-1.0
+2954,Buccaneer Ticket J,Buccaneer Ticket J,mhxx-dex-1.0
+2955,Magic Realm Key,Magic Realm Key,mhxx-dex-1.0
+2956,[JP] Ultimate Pass,[JP] Ultimate Pass,mhxx-dex-1.0
+2957,Zaruba Fragment,Zaruba Fragment,mhxx-dex-1.0
+2958,[JP] Super Gudegude Egg,[JP] Super Gudegude Egg,mhxx-dex-1.0
+2959,Turnabout Ticket,Turnabout Ticket,mhxx-dex-1.0
+2960,Navirou Ticket,Navirou Ticket,mhxx-dex-1.0
+2961,F Spirit Stone,F Spirit Stone,mhxx-dex-1.0
+2962,Club Promotion,Club Promotion,mhxx-dex-1.0
+2963,JDL Badge,JDL Badge,mhxx-dex-1.0
+2964,[JP] Hunter Certificate,[JP] Hunter Certificate,mhxx-dex-1.0
+2965,Silver Crystal,Silver Crystal,mhxx-dex-1.0
+2966,Zelda Ticket,Zelda Ticket,mhxx-dex-1.0
+2967,Zelda Ticket G,Zelda Ticket G,mhxx-dex-1.0
+2968,[JP] Live Ticket,[JP] Live Ticket,mhxx-dex-1.0
+2969,[JP] Outstanding Pass,[JP] Outstanding Pass,mhxx-dex-1.0
+2970,[JP] Extreme Extraordinary Pass,[JP] Extreme Extraordinary Pass,mhxx-dex-1.0
+2971,[JP] Notable Pass,[JP] Notable Pass,mhxx-dex-1.0
+2972,Sealing Shield,Sealing Shield,mhxx-dex-1.0
+2973,Option,Option,mhxx-dex-1.0
+2974,Celestial Scroll,Celestial Scroll,mhxx-dex-1.0
+2975,Arthur's Armor,Arthur's Armor,mhxx-dex-1.0
+2976,Zelda Ticket P,Zelda Ticket P,mhxx-dex-1.0

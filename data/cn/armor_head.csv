@@ -1,0 +1,1183 @@
+id,name,english,source,rarity
+0,无,None,mhxx-save-format-community,0
+1,皮制头饰,Leather Headgear,mhxx-dex-1.0,1
+6,锁甲头饰,Chainmail Headgear,mhxx-dex-1.0,1
+11,贝鲁纳头巾,Bherna Turban,mhxx-dex-1.0,1
+16,狩猎头盔,Hunting Helm,mhxx-dex-1.0,1
+21,狩猎帽,Hunting Cap,mhxx-dex-1.0,1
+26,毛皮兜帽,Mafumofu Hood,mhxx-dex-1.0,1
+31,结云之笠,Yukumo Kasa,mhxx-dex-1.0,1
+39,猎人头盔,Hunter's Helm,mhxx-dex-1.0,1
+44,猎人帽,Hunter's Cap,mhxx-dex-1.0,1
+49,骨制头盔,Bone Helm,mhxx-dex-1.0,1
+54,骨制帽,Bone Cap,mhxx-dex-1.0,1
+61,混沌的包,Chaoshroom,mhxx-dex-1.0,1
+63,混沌的簪,Chaos Diadem,mhxx-dex-1.0,1
+77,狗龙头盔,Jaggi Helm,mhxx-dex-1.0,1
+82,狗龙帽,Jaggi Cap,mhxx-dex-1.0,1
+87,跳狗龙头盔,Maccao Helm,mhxx-dex-1.0,1
+92,跳狗龙帽,Maccao Cap,mhxx-dex-1.0,1
+97,蓝速龙头盔,Velociprey Helm,mhxx-dex-1.0,1
+102,蓝速龙帽,Velociprey Cap,mhxx-dex-1.0,1
+107,白速龙头盔,Giaprey Helm,mhxx-dex-1.0,1
+112,白速龙帽,Giaprey Cap,mhxx-dex-1.0,1
+117,黄速龙头盔,Genprey Helm,mhxx-dex-1.0,1
+122,黄速龙帽,Genprey Cap,mhxx-dex-1.0,1
+127,巨蜂头盔,Vespoid Helm,mhxx-dex-1.0,1
+132,巨蜂帽,Vespoid Cap,mhxx-dex-1.0,1
+137,巨甲虫头盔,Hornetaur Helm,mhxx-dex-1.0,1
+142,巨甲虫帽,Hornetaur Cap,mhxx-dex-1.0,1
+147,飞甲虫礼帽,Bnahabra Hat,mhxx-dex-1.0,1
+152,飞甲虫帽,Bnahabra Headpiece,mhxx-dex-1.0,1
+157,盾虫头盔,Konchu Helm,mhxx-dex-1.0,1
+159,盾虫帽,Konchu Cap,mhxx-dex-1.0,1
+161,蘑菇猪伪装,Mosswine Mask,mhxx-dex-1.0,1
+166,硬甲龙头盔,Rhenoplos Helm,mhxx-dex-1.0,1
+171,硬甲龙帽,Rhenoplos Cap,mhxx-dex-1.0,1
+176,野猪头盔,Bulldrome Helm,mhxx-dex-1.0,1
+181,野猪帽,Bulldrome Cap,mhxx-dex-1.0,1
+186,野猪伪装,Bullfango Mask,mhxx-dex-1.0,1
+187,青熊兽头盔,Arzuros Helm,mhxx-dex-1.0,1
+192,青熊兽帽,Arzuros Cap,mhxx-dex-1.0,1
+197,砂龙头盔,Cephalos Helm,mhxx-dex-1.0,1
+202,砂龙帽,Cephalos Cap,mhxx-dex-1.0,1
+207,勇气头饰,Derring Headgear,mhxx-dex-1.0,2
+212,合金头盔,Alloy Helm,mhxx-dex-1.0,2
+217,合金帽,Alloy Cap,mhxx-dex-1.0,2
+222,战斗头盔,Battle Helm,mhxx-dex-1.0,2
+227,战斗帽,Battle Cap,mhxx-dex-1.0,2
+232,铸铁头盔,Ingot Helm,mhxx-dex-1.0,2
+237,铸铁帽,Ingot Cap,mhxx-dex-1.0,2
+242,矿石头盔,High Metal Helm,mhxx-dex-1.0,2
+247,矿石帽,High Metal Cap,mhxx-dex-1.0,2
+254,花瓣绽放,Melahoa Hat,mhxx-dex-1.0,2
+259,花瓣花朵,Melahoa Bloom,mhxx-dex-1.0,2
+264,鱼鳞兜帽,Makluva Hood,mhxx-dex-1.0,2
+269,鱼鳞头套,Makluva Gills,mhxx-dex-1.0,2
+274,厨师高帽,Bistro Toque,mhxx-dex-1.0,2
+277,厨师帽,Bistro Cap,mhxx-dex-1.0,2
+280,独角仙护头,Obituary Vertex,mhxx-dex-1.0,2
+285,独角仙头甲,Obituary Clypeus,mhxx-dex-1.0,2
+290,燕尾蝶护头,Butterfly Vertex,mhxx-dex-1.0,2
+295,燕尾蝶头甲,Butterfly Clypeus,mhxx-dex-1.0,2
+300,死神首脑,Death Stench Brain,mhxx-dex-1.0,2
+305,死神魂魄,Death Stench Soul,mhxx-dex-1.0,2
+310,橡子头盔,Acorn Helm,mhxx-dex-1.0,2
+312,橡子帽,Acorn Cap,mhxx-dex-1.0,2
+314,南瓜绽放,Mosgharl Vizor,mhxx-dex-1.0,2
+319,南瓜花朵,Mosgharl Brim,mhxx-dex-1.0,2
+324,雪绒花绽放,Edel Vizor,mhxx-dex-1.0,2
+329,雪绒花花朵,Edel Bloom,mhxx-dex-1.0,2
+334,毒蝎护头,Skalda Vertex,mhxx-dex-1.0,2
+339,毒蝎头甲,Skalda Clypeus,mhxx-dex-1.0,2
+344,毒蛛护头,Spio Vertex,mhxx-dex-1.0,2
+349,毒蛛头甲,Spio Clypeus,mhxx-dex-1.0,2
+364,首鸣龙伪装,Larinoth Mask,mhxx-dex-1.0,2
+365,丸鸟伪装,Gargwa Mask,mhxx-dex-1.0,2
+366,云羊鹿头饰,Moofah Head,mhxx-dex-1.0,2
+370,云羊鹿飞翼,Moofah Wig,mhxx-dex-1.0,2
+374,艾露猫伪装,False Felyne,mhxx-dex-1.0,2
+375,蓝速龙头饰,Velociprey Head,mhxx-dex-1.0,2
+379,蓝速龙面罩,Velociprey Mask,mhxx-dex-1.0,2
+383,黄速龙头饰,Genprey Head,mhxx-dex-1.0,2
+387,黄速龙面罩,Genprey Mask,mhxx-dex-1.0,2
+391,红速龙头饰,Ioprey Head,mhxx-dex-1.0,2
+395,红速龙面罩,Ioprey Mask,mhxx-dex-1.0,2
+399,蛇龙头饰,Remobra Headgear,mhxx-dex-1.0,2
+404,蛇龙面罩,Remobra Mask,mhxx-dex-1.0,2
+409,红速龙头盔,Ioprey Helm,mhxx-dex-1.0,2
+414,红速龙帽,Ioprey Cap,mhxx-dex-1.0,2
+419,怪鸟头盔,Kut-Ku Helm,mhxx-dex-1.0,2
+424,怪鸟帽,Kut-Ku Cap,mhxx-dex-1.0,2
+429,白兔兽头盔,Lagombi Helm,mhxx-dex-1.0,2
+434,白兔兽帽,Lagombi Cap,mhxx-dex-1.0,2
+439,毒怪鸟头盔,Gypceros Helm,mhxx-dex-1.0,2
+444,毒怪鸟帽,Gypceros Cap,mhxx-dex-1.0,2
+449,鬼蛙头盔,Tetsucabra Helm,mhxx-dex-1.0,2
+454,鬼蛙帽,Tetsucabra Cap,mhxx-dex-1.0,2
+459,大名盾蟹头盔,Hermitaur Helm,mhxx-dex-1.0,2
+464,大名盾蟹帽,Hermitaur Cap,mhxx-dex-1.0,2
+469,赤甲兽头盔,Volvidon Helm,mhxx-dex-1.0,2
+474,赤甲兽帽,Volvidon Cap,mhxx-dex-1.0,2
+479,水兽头盔,Ludroth Helm,mhxx-dex-1.0,2
+484,水兽帽,Ludroth Cap,mhxx-dex-1.0,2
+489,夜鸟头盔,Malfestio Helm,mhxx-dex-1.0,2
+494,夜鸟帽,Malfestio Cap,mhxx-dex-1.0,2
+499,白电头盔,Khezu Helm,mhxx-dex-1.0,2
+504,白电帽,Khezu Cap,mhxx-dex-1.0,2
+509,雌火龙头盔,Rathian Helm,mhxx-dex-1.0,2
+514,雌火龙帽,Rathian Cap,mhxx-dex-1.0,2
+519,潜口龙头盔,Nibelsnarf Helm,mhxx-dex-1.0,2
+524,潜口龙帽,Nibelsnarf Cap,mhxx-dex-1.0,2
+529,雪狮子头盔,Blango Helm,mhxx-dex-1.0,2
+534,雪狮子帽,Blango Cap,mhxx-dex-1.0,2
+539,将军镰蟹头盔,Ceanataur Helm,mhxx-dex-1.0,2
+544,将军镰蟹帽,Ceanataur Cap,mhxx-dex-1.0,2
+549,绞蛇龙头盔,Najarala Helm,mhxx-dex-1.0,2
+554,绞蛇龙帽,Najarala Cap,mhxx-dex-1.0,2
+559,迅龙头盔,Nargacuga Helm,mhxx-dex-1.0,2
+564,迅龙帽,Nargacuga Cap,mhxx-dex-1.0,2
+569,贤者方帽,Scholarly Hood,mhxx-dex-1.0,2
+574,贤者帽,Scholarly Cap,mhxx-dex-1.0,2
+579,海境头盔,Vaik Helm,mhxx-dex-1.0,3
+584,海境帽,Vaik Cap,mhxx-dex-1.0,3
+589,骷髅头饰,Skull Visage,mhxx-dex-1.0,3
+590,骷髅面罩,Skull Mask,mhxx-dex-1.0,3
+591,锹形护头,Aelucanth Vertex,mhxx-dex-1.0,3
+596,锹形头甲,Aelucanth Clypeus,mhxx-dex-1.0,3
+601,凤蝶护头,Rhopessa Vertex,mhxx-dex-1.0,3
+606,凤蝶头甲,Rhopessa Clypeus,mhxx-dex-1.0,3
+617,黑狼鸟头盔,Garuga Helm,mhxx-dex-1.0,3
+622,黑狼鸟帽,Garuga Cap,mhxx-dex-1.0,3
+627,黑狼鸟伪装,Garuga Mask,mhxx-dex-1.0,3
+628,爆锤龙头盔,Uragaan Helm,mhxx-dex-1.0,3
+633,爆锤龙帽,Uragaan Cap,mhxx-dex-1.0,3
+638,火龙头盔,Rathalos Helm,mhxx-dex-1.0,3
+643,火龙帽,Rathalos Cap,mhxx-dex-1.0,3
+648,海龙头盔,Lagiacrus Helm,mhxx-dex-1.0,3
+653,海龙帽,Lagiacrus Cap,mhxx-dex-1.0,3
+658,雷狼龙头盔,Zinogre Helm,mhxx-dex-1.0,3
+663,雷狼龙帽,Zinogre Cap,mhxx-dex-1.0,3
+668,泡狐龙头盔,Mizutsune Helm,mhxx-dex-1.0,3
+673,泡狐龙帽,Mizutsune Mask,mhxx-dex-1.0,3
+678,电龙头盔,Astalos Helm,mhxx-dex-1.0,3
+683,电龙帽,Astalos Cap,mhxx-dex-1.0,3
+688,巨兽头盔,Gammoth Helm,mhxx-dex-1.0,3
+693,巨兽帽,Gammoth Cap,mhxx-dex-1.0,3
+698,斩龙头盔,Glavenus Helm,mhxx-dex-1.0,3
+703,斩龙帽,Glavenus Cap,mhxx-dex-1.0,3
+708,黑蚀龙头盔,Gore Helm,mhxx-dex-1.0,3
+713,黑蚀龙帽,Gore Cap,mhxx-dex-1.0,3
+718,千刃龙头盔,Regios Helm,mhxx-dex-1.0,3
+723,千刃龙帽,Regios Cap,mhxx-dex-1.0,3
+728,轰龙头盔,Tigrex Helm,mhxx-dex-1.0,3
+733,轰龙帽,Tigrex Cap,mhxx-dex-1.0,3
+738,麒麟角,Kirin Horn,mhxx-dex-1.0,3
+743,麒麟尖角,Kirin Crest,mhxx-dex-1.0,3
+748,碎龙头盔,Brachydios Helm,mhxx-dex-1.0,3
+753,碎龙帽,Brachydios Cap,mhxx-dex-1.0,3
+758,方舟头盔,Arc Helm,mhxx-dex-1.0,3
+763,方舟帽,Arc Cap,mhxx-dex-1.0,3
+768,友爱头盔,Storge Helm,mhxx-dex-1.0,3
+773,友爱帽,Storge Cap,mhxx-dex-1.0,3
+778,钢龙强力,Kushala Glare,mhxx-dex-1.0,3
+783,钢龙围城,Kushala Snarl,mhxx-dex-1.0,3
+788,水行【乌帽子】,Mizuha Cap,mhxx-dex-1.0,3
+793,丰玉【乌帽子】,Cham Hat,mhxx-dex-1.0,3
+798,帝王冠,Kaiser Crown,mhxx-dex-1.0,3
+803,帝王面具,Kaiser Mask,mhxx-dex-1.0,3
+808,骸装甲【头骨】,Skeletal Skull,mhxx-dex-1.0,3
+813,尸装甲【头骨】,Decayed Skull,mhxx-dex-1.0,3
+818,黑色头饰,Black Head,mhxx-dex-1.0,3
+823,黑色面罩,Black Face,mhxx-dex-1.0,3
+828,黑带头盔,Black Belt Helm,mhxx-dex-1.0,3
+833,黑带帽,Black Belt Cap,mhxx-dex-1.0,3
+838,公会诗人宽帽,Guild Bard Lobos,mhxx-dex-1.0,3
+843,公会诗人帽,Guild Bard Hat,mhxx-dex-1.0,3
+848,女仆头饰,Maiden's Hat,mhxx-dex-1.0,3
+853,休闲眼镜,French Maid Glasses,mhxx-dex-1.0,3
+858,支援者兜帽,Helper Hood,mhxx-dex-1.0,3
+863,治疗者眼镜,Healer Glasses,mhxx-dex-1.0,3
+868,抚子【布冠】,Dianthus Cap,mhxx-dex-1.0,3
+873,桔梗【布冠】,Campanile Cap,mhxx-dex-1.0,3
+878,泡澡浴巾,Bath Towel,mhxx-dex-1.0,3
+882,美食喵高帽,Gourmew Toque,mhxx-dex-1.0,3
+887,美食喵帽,Gourmew Cap,mhxx-dex-1.0,3
+892,皮制S头盔,Leather Helm S,mhxx-dex-1.0,4
+897,皮制S帽,Leather Cap S,mhxx-dex-1.0,4
+902,锁甲S头盔,Chainmail Helm S,mhxx-dex-1.0,4
+907,锁甲S帽,Chainmail Cap S,mhxx-dex-1.0,4
+912,贝鲁纳S头巾,Bherna Turban S,mhxx-dex-1.0,4
+917,贝鲁纳S帽,Bherna Cap S,mhxx-dex-1.0,4
+922,狩猎S头盔,Hunting Helm S,mhxx-dex-1.0,4
+927,狩猎S帽,Hunting Cap S,mhxx-dex-1.0,4
+932,毛皮S兜帽,Mafumofu Hood S,mhxx-dex-1.0,4
+937,毛皮S帽,Mafumofu Cap S,mhxx-dex-1.0,4
+942,结云之笠･天,Yukumo Sky Kasa,mhxx-dex-1.0,4
+947,结云之笠･地,Yukumo Land Kasa,mhxx-dex-1.0,4
+955,猎人S头盔,Hunter's Helm S,mhxx-dex-1.0,4
+960,猎人S帽,Hunter's Cap S,mhxx-dex-1.0,4
+965,猎人R头盔,Hunter's Helm R,mhxx-dex-1.0,4
+970,猎人R帽,Hunter's Cap R,mhxx-dex-1.0,4
+975,骨制S头盔,Bone Helm S,mhxx-dex-1.0,4
+980,骨制S帽,Bone Cap S,mhxx-dex-1.0,4
+989,混沌的包･霸,Chaos Archbun,mhxx-dex-1.0,4
+991,混沌的簪･霸,Chaos Archdiadem,mhxx-dex-1.0,4
+993,花瓣S绽放,Melahoa Hat S,mhxx-dex-1.0,4
+998,花瓣S花朵,Melahoa Bloom S,mhxx-dex-1.0,4
+1003,花瓣U绽放,Melahoa Hat U,mhxx-dex-1.0,4
+1008,花瓣U花朵,Melahoa Bloom U,mhxx-dex-1.0,4
+1013,鱼鳞S兜帽,Makluva Hood S,mhxx-dex-1.0,4
+1018,鱼鳞S头套,Makluva Gills S,mhxx-dex-1.0,4
+1023,鱼鳞U兜帽,Makluva Hood U,mhxx-dex-1.0,4
+1028,鱼鳞U头套,Makluva Gills U,mhxx-dex-1.0,4
+1033,厨师S高帽,Bistro Toque S,mhxx-dex-1.0,4
+1036,厨师S帽,Bistro Cap S,mhxx-dex-1.0,4
+1039,橡子S头盔,Acorn Helm S,mhxx-dex-1.0,4
+1041,橡子S帽,Acorn Cap S,mhxx-dex-1.0,4
+1043,南瓜S绽放,Mosgharl Vizor S,mhxx-dex-1.0,4
+1048,南瓜S花朵,Mosgharl Brim S,mhxx-dex-1.0,4
+1053,雪绒花S绽放,Edel Vizor S,mhxx-dex-1.0,4
+1058,雪绒花S花朵,Edel Bloom S,mhxx-dex-1.0,4
+1063,云羊鹿S头饰,Moofah Head S,mhxx-dex-1.0,4
+1067,云羊鹿S飞翼,Moofah Wig S,mhxx-dex-1.0,4
+1071,垂皮龙兜帽,Slagtoth Hood,mhxx-dex-1.0,4
+1073,垂皮龙蓑衣,Slagtoth Cowl,mhxx-dex-1.0,4
+1075,首鸣龙S伪装,Larinoth Mask S,mhxx-dex-1.0,4
+1076,丸鸟S伪装,Gargwa Mask S,mhxx-dex-1.0,4
+1077,艾露猫S伪装,False Felyne S,mhxx-dex-1.0,4
+1078,蓝速龙S头饰,Velociprey Head S,mhxx-dex-1.0,4
+1082,蓝速龙S面罩,Velociprey Mask S,mhxx-dex-1.0,4
+1086,白速龙头饰,Giaprey Head,mhxx-dex-1.0,4
+1090,白速龙面罩,Giaprey Face,mhxx-dex-1.0,4
+1094,黄速龙S头饰,Genprey Head S,mhxx-dex-1.0,4
+1098,黄速龙S面罩,Genprey Mask S,mhxx-dex-1.0,4
+1102,红速龙S头饰,Ioprey Head S,mhxx-dex-1.0,4
+1106,红速龙S面罩,Ioprey Mask S,mhxx-dex-1.0,4
+1110,蛇龙S头饰,Remobra Headgear S,mhxx-dex-1.0,4
+1115,蛇龙S面罩,Remobra Mask S,mhxx-dex-1.0,4
+1132,蘑菇猪S伪装,Mosswine Mask S,mhxx-dex-1.0,4
+1137,硬甲龙S头盔,Rhenoplos Helm S,mhxx-dex-1.0,4
+1142,硬甲龙S帽,Rhenoplos Cap S,mhxx-dex-1.0,4
+1147,狗龙S头盔,Jaggi Helm S,mhxx-dex-1.0,4
+1152,狗龙S帽,Jaggi Cap S,mhxx-dex-1.0,4
+1167,跳狗龙S头盔,Maccao Helm S,mhxx-dex-1.0,4
+1172,跳狗龙S帽,Maccao Cap S,mhxx-dex-1.0,4
+1177,蓝速龙S头盔,Velociprey Helm S,mhxx-dex-1.0,4
+1182,蓝速龙S帽,Velociprey Cap S,mhxx-dex-1.0,4
+1187,白速龙S头盔,Giaprey Helm S,mhxx-dex-1.0,4
+1192,白速龙S帽,Giaprey Cap S,mhxx-dex-1.0,4
+1197,黄速龙S头盔,Genprey Helm S,mhxx-dex-1.0,4
+1202,黄速龙S帽,Genprey Cap S,mhxx-dex-1.0,4
+1207,EX黄速龙头盔,EX Genprey Helm,mhxx-dex-1.0,4
+1212,EX黄速龙帽,EX Genprey Cap,mhxx-dex-1.0,4
+1217,红速龙S头盔,Ioprey Helm S,mhxx-dex-1.0,4
+1222,红速龙S帽,Ioprey Cap S,mhxx-dex-1.0,4
+1227,EX红速龙头盔,EX Ioprey Helm,mhxx-dex-1.0,4
+1232,EX红速龙帽,EX Ioprey Cap,mhxx-dex-1.0,4
+1237,巨蜂S头盔,Vespoid Helm S,mhxx-dex-1.0,4
+1242,巨蜂S帽,Vespoid Cap S,mhxx-dex-1.0,4
+1247,EX巨蜂头盔,EX Vespoid Helm,mhxx-dex-1.0,4
+1252,EX巨蜂帽,EX Vespoid Cap,mhxx-dex-1.0,4
+1257,巨甲虫S头盔,Hornetaur Helm S,mhxx-dex-1.0,4
+1262,巨甲虫S帽,Hornetaur Cap S,mhxx-dex-1.0,4
+1267,EX巨甲虫头盔,EX Hornetaur Helm,mhxx-dex-1.0,4
+1272,EX巨甲虫帽,EX Hornetaur Cap,mhxx-dex-1.0,4
+1277,巨甲虫R头盔,Hornetaur Helm R,mhxx-dex-1.0,4
+1282,巨甲虫R帽,Hornetaur Cap R,mhxx-dex-1.0,4
+1287,飞甲虫S礼帽,Bnahabra Hat S,mhxx-dex-1.0,4
+1292,飞甲虫S帽,Bnahabra Headpiece S,mhxx-dex-1.0,4
+1297,盾虫S头盔,Konchu Helm S,mhxx-dex-1.0,4
+1299,盾虫S帽,Konchu Cap S,mhxx-dex-1.0,4
+1301,野猪S头盔,Bulldrome Helm S,mhxx-dex-1.0,4
+1306,野猪S帽,Bulldrome Cap S,mhxx-dex-1.0,4
+1311,野猪S伪装,Bullfango Mask S,mhxx-dex-1.0,4
+1312,青熊兽S头盔,Arzuros Helm S,mhxx-dex-1.0,4
+1317,青熊兽S帽,Arzuros Cap S,mhxx-dex-1.0,4
+1322,砂龙S头盔,Cephalos Helm S,mhxx-dex-1.0,4
+1327,砂龙S帽,Cephalos Cap S,mhxx-dex-1.0,4
+1332,EX砂龙头盔,EX Cephalos Helm,mhxx-dex-1.0,4
+1337,EX砂龙帽,EX Cephalos Cap,mhxx-dex-1.0,4
+1342,怪鸟S头盔,Kut-Ku Helm S,mhxx-dex-1.0,4
+1347,怪鸟S帽,Kut-Ku Cap S,mhxx-dex-1.0,4
+1352,奇猿狐头盔,Kecha Helm,mhxx-dex-1.0,4
+1357,奇猿狐帽,Kecha Cap,mhxx-dex-1.0,4
+1362,白兔兽S头盔,Lagombi Helm S,mhxx-dex-1.0,4
+1367,白兔兽S帽,Lagombi Cap S,mhxx-dex-1.0,4
+1372,毒怪鸟S头盔,Gypceros Helm S,mhxx-dex-1.0,4
+1377,毒怪鸟S帽,Gypceros Cap S,mhxx-dex-1.0,4
+1382,毒怪鸟R头盔,Gypceros Helm R,mhxx-dex-1.0,4
+1387,毒怪鸟R帽,Gypceros Cap R,mhxx-dex-1.0,4
+1392,鬼蛙S头盔,Tetsucabra Helm S,mhxx-dex-1.0,4
+1397,鬼蛙S帽,Tetsucabra Cap S,mhxx-dex-1.0,4
+1402,大名盾蟹S头盔,Hermitaur Helm S,mhxx-dex-1.0,4
+1407,大名盾蟹S帽,Hermitaur Cap S,mhxx-dex-1.0,4
+1412,EX大名盾蟹头盔,EX Hermitaur Helm,mhxx-dex-1.0,4
+1417,EX大名盾蟹帽,EX Hermitaur Cap,mhxx-dex-1.0,4
+1422,大名盾蟹R头盔,Hermitaur Helm R,mhxx-dex-1.0,4
+1427,大名盾蟹R帽,Hermitaur Cap R,mhxx-dex-1.0,4
+1432,赤甲兽S头盔,Volvidon Helm S,mhxx-dex-1.0,4
+1437,赤甲兽S帽,Volvidon Cap S,mhxx-dex-1.0,4
+1442,桃毛兽王头盔,Conga Helm,mhxx-dex-1.0,4
+1447,桃毛兽王帽,Conga Cap,mhxx-dex-1.0,4
+1452,水兽S头盔,Ludroth Helm S,mhxx-dex-1.0,4
+1457,水兽S帽,Ludroth Cap S,mhxx-dex-1.0,4
+1462,水兽R头盔,Ludroth Helm R,mhxx-dex-1.0,4
+1467,水兽R帽,Ludroth Cap R,mhxx-dex-1.0,4
+1472,土砂龙头盔,Barroth Helm,mhxx-dex-1.0,4
+1477,土砂龙帽,Barroth Cap,mhxx-dex-1.0,4
+1482,求知兜帽,Lecturer's Hood,mhxx-dex-1.0,4
+1487,求知帽,Lecturer's Cap,mhxx-dex-1.0,4
+1492,合金S头盔,Alloy Helm S,mhxx-dex-1.0,5
+1497,合金S帽,Alloy Cap S,mhxx-dex-1.0,5
+1502,合金R头盔,Alloy Helm R,mhxx-dex-1.0,5
+1507,合金R帽,Alloy Cap R,mhxx-dex-1.0,5
+1512,战斗S头盔,Battle Helm S,mhxx-dex-1.0,5
+1517,战斗S帽,Battle Cap S,mhxx-dex-1.0,5
+1522,铸铁S头盔,Ingot Helm S,mhxx-dex-1.0,5
+1527,铸铁S帽,Ingot Cap S,mhxx-dex-1.0,5
+1532,铸铁R头盔,Ingot Helm R,mhxx-dex-1.0,5
+1537,铸铁R帽,Ingot Cap R,mhxx-dex-1.0,5
+1542,矿石S头盔,High Metal Helm S,mhxx-dex-1.0,5
+1547,矿石S帽,High Metal Cap S,mhxx-dex-1.0,5
+1552,矿石U头盔,High Metal Helm U,mhxx-dex-1.0,5
+1557,矿石U帽,High Metal Cap U,mhxx-dex-1.0,5
+1564,龙虾头盔,Lobster Helm,mhxx-dex-1.0,5
+1569,龙虾帽,Lobster Cap,mhxx-dex-1.0,5
+1574,独角仙S护头,Obituary Vertex S,mhxx-dex-1.0,5
+1579,独角仙S头甲,Obituary Clypeus S,mhxx-dex-1.0,5
+1584,燕尾蝶S护头,Butterfly Vertex S,mhxx-dex-1.0,5
+1589,燕尾蝶S头甲,Butterfly Clypeus S,mhxx-dex-1.0,5
+1594,死神S首脑,Death Stench Brain S,mhxx-dex-1.0,5
+1599,死神S魂魄,Death Stench Soul S,mhxx-dex-1.0,5
+1604,死神R首脑,Death Stench Brain R,mhxx-dex-1.0,5
+1609,死神R魂魄,Death Stench Soul R,mhxx-dex-1.0,5
+1614,海境S头盔,Vaik Helm S,mhxx-dex-1.0,5
+1619,海境S帽,Vaik Cap S,mhxx-dex-1.0,5
+1624,锹形S护头,Aelucanth Vertex S,mhxx-dex-1.0,5
+1629,锹形S头甲,Aelucanth Clypeus S,mhxx-dex-1.0,5
+1634,凤蝶S护头,Rhopessa Vertex S,mhxx-dex-1.0,5
+1639,凤蝶S头甲,Rhopessa Clypeus S,mhxx-dex-1.0,5
+1644,糕点师厨帽,Patissier's Toque,mhxx-dex-1.0,5
+1649,糕点师帽,Patissier's Cap,mhxx-dex-1.0,5
+1654,毒蝎S护头,Skalda Vertex S,mhxx-dex-1.0,5
+1659,毒蝎S头甲,Skalda Clypeus S,mhxx-dex-1.0,5
+1664,毒蛛S护头,Spio Vertex S,mhxx-dex-1.0,5
+1669,毒蛛S头甲,Spio Clypeus S,mhxx-dex-1.0,5
+1674,狗龙伪装,Jaggi Mask,mhxx-dex-1.0,5
+1675,岩龙头盔,Basarios Helm,mhxx-dex-1.0,5
+1680,岩龙帽,Basarios Cap,mhxx-dex-1.0,5
+1685,夜鸟S头盔,Malfestio Helm S,mhxx-dex-1.0,5
+1690,夜鸟S帽,Malfestio Cap S,mhxx-dex-1.0,5
+1695,变形冰鲨头盔,Zamtrios Helm,mhxx-dex-1.0,5
+1700,变形冰鲨帽,Zamtrios Cap,mhxx-dex-1.0,5
+1705,白电S头盔,Khezu Helm S,mhxx-dex-1.0,5
+1710,白电S帽,Khezu Cap S,mhxx-dex-1.0,5
+1715,白电R头盔,Khezu Helm R,mhxx-dex-1.0,5
+1720,白电R帽,Khezu Cap R,mhxx-dex-1.0,5
+1725,影蜘蛛头盔,Nerscylla Helm,mhxx-dex-1.0,5
+1730,影蜘蛛帽,Nerscylla Cap,mhxx-dex-1.0,5
+1735,雌火龙S头盔,Rathian Helm S,mhxx-dex-1.0,5
+1740,雌火龙S帽,Rathian Cap S,mhxx-dex-1.0,5
+1745,EX雌火龙头盔,EX Rathian Helm,mhxx-dex-1.0,5
+1750,EX雌火龙帽,EX Rathian Cap,mhxx-dex-1.0,5
+1755,雌火龙R头盔,Rathian Helm R,mhxx-dex-1.0,5
+1760,雌火龙R帽,Rathian Cap R,mhxx-dex-1.0,5
+1765,潜口龙S头盔,Nibelsnarf Helm S,mhxx-dex-1.0,5
+1770,潜口龙S帽,Nibelsnarf Cap S,mhxx-dex-1.0,5
+1775,水龙头盔,Plesioth Helm,mhxx-dex-1.0,5
+1779,水龙帽,Plesioth Cap,mhxx-dex-1.0,5
+1783,雪狮子S头盔,Blango Helm S,mhxx-dex-1.0,5
+1788,雪狮子S帽,Blango Cap S,mhxx-dex-1.0,5
+1793,EX雪狮子头盔,EX Blango Helm,mhxx-dex-1.0,5
+1798,EX雪狮子帽,EX Blango Cap,mhxx-dex-1.0,5
+1803,熔岩龙头盔,Lavasioth Helm,mhxx-dex-1.0,5
+1808,熔岩龙帽,Lavasioth Cap,mhxx-dex-1.0,5
+1813,EX熔岩龙头盔,EX Lavasioth Helm,mhxx-dex-1.0,5
+1818,EX熔岩龙帽,EX Lavasioth Cap,mhxx-dex-1.0,5
+1823,将军镰蟹S头盔,Ceanataur Helm S,mhxx-dex-1.0,5
+1828,将军镰蟹S帽,Ceanataur Cap S,mhxx-dex-1.0,5
+1833,EX将军镰蟹头盔,EX Ceanataur Helm,mhxx-dex-1.0,5
+1838,EX将军镰蟹帽,EX Ceanataur Cap,mhxx-dex-1.0,5
+1843,将军镰蟹R头盔,Ceanataur Helm R,mhxx-dex-1.0,5
+1848,将军镰蟹R帽,Ceanataur Cap R,mhxx-dex-1.0,5
+1853,绞蛇龙S头盔,Najarala Helm S,mhxx-dex-1.0,5
+1858,绞蛇龙S帽,Najarala Cap S,mhxx-dex-1.0,5
+1863,迅龙S头盔,Nargacuga Helm S,mhxx-dex-1.0,5
+1868,迅龙S帽,Nargacuga Cap S,mhxx-dex-1.0,5
+1873,黑狼鸟S头盔,Garuga Helm S,mhxx-dex-1.0,5
+1878,黑狼鸟S帽,Garuga Cap S,mhxx-dex-1.0,5
+1883,黑狼鸟S伪装,Garuga Mask S,mhxx-dex-1.0,5
+1884,爆锤龙S头盔,Uragaan Helm S,mhxx-dex-1.0,5
+1889,爆锤龙S帽,Uragaan Cap S,mhxx-dex-1.0,5
+1894,黑带S头盔,Black Belt Helm S,mhxx-dex-1.0,5
+1899,黑带S帽,Black Belt Cap S,mhxx-dex-1.0,5
+1904,守护者头盔,Guardian Helm,mhxx-dex-1.0,5
+1909,守护者面具,Guardian Mask,mhxx-dex-1.0,5
+1914,守护者U头盔,Guardian Helm U,mhxx-dex-1.0,5
+1919,守护者U面具,Guardian Mask U,mhxx-dex-1.0,5
+1924,学士兜帽,Scholar's Beret,mhxx-dex-1.0,5
+1929,学士军帽,Scholar's Cap,mhxx-dex-1.0,5
+1934,水手兜帽,Sailor Hat,mhxx-dex-1.0,5
+1939,水手帽,Sailor Cap,mhxx-dex-1.0,5
+1944,高级泡澡浴巾,Luxury Bath Towel,mhxx-dex-1.0,5
+1948,北极星【毛发】,Kita Star Headdress,mhxx-dex-1.0,5
+1952,海渊【毛发】,Umi Ocean Headdress,mhxx-dex-1.0,5
+1956,知略眼镜,Cunning Specs,mhxx-dex-1.0,5
+1957,勇气S头盔,Derring Helm S,mhxx-dex-1.0,6
+1962,勇气S帽,Derring Cap S,mhxx-dex-1.0,6
+1967,杜宾头盔,Dober Helm,mhxx-dex-1.0,6
+1972,杜宾帽,Dober Cap,mhxx-dex-1.0,6
+1977,花纹钢头盔,Damascus Helm,mhxx-dex-1.0,6
+1982,花纹钢帽,Damascus Cap,mhxx-dex-1.0,6
+1987,花纹钢R头盔,Damascus Helm R,mhxx-dex-1.0,6
+1992,花纹钢R帽,Damascus Cap R,mhxx-dex-1.0,6
+1997,骷髅S头饰,Skull Visage S,mhxx-dex-1.0,6
+1998,骷髅S面罩,Skull Mask S,mhxx-dex-1.0,6
+2005,机械S头盔,Artian Helm S,mhxx-dex-1.0,6
+2010,机械S帽,Artian Cap S,mhxx-dex-1.0,6
+2015,机械R头盔,Artian Helm R,mhxx-dex-1.0,6
+2020,机械R帽,Artian Cap R,mhxx-dex-1.0,6
+2025,冰牙龙头盔,Barioth Helm,mhxx-dex-1.0,6
+2030,冰牙龙帽,Barioth Cap,mhxx-dex-1.0,6
+2035,重甲虫头盔,Seltas Helm,mhxx-dex-1.0,6
+2040,重甲虫帽,Seltas Cap,mhxx-dex-1.0,6
+2045,火龙S头盔,Rathalos Helm S,mhxx-dex-1.0,6
+2050,火龙S帽,Rathalos Cap S,mhxx-dex-1.0,6
+2055,EX火龙头盔,EX Rathalos Helm,mhxx-dex-1.0,6
+2060,EX火龙帽,EX Rathalos Cap,mhxx-dex-1.0,6
+2065,火龙R头盔,Rathalos Helm R,mhxx-dex-1.0,6
+2070,火龙R帽,Rathalos Cap R,mhxx-dex-1.0,6
+2075,海龙S头盔,Lagiacrus Helm S,mhxx-dex-1.0,6
+2080,海龙S帽,Lagiacrus Cap S,mhxx-dex-1.0,6
+2085,海龙R头盔,Lagiacrus Helm R,mhxx-dex-1.0,6
+2090,海龙R帽,Lagiacrus Cap R,mhxx-dex-1.0,6
+2095,雷狼龙S头盔,Zinogre Helm S,mhxx-dex-1.0,6
+2100,雷狼龙S帽,Zinogre Cap S,mhxx-dex-1.0,6
+2105,EX雷狼龙头盔,EX Zinogre Helm,mhxx-dex-1.0,6
+2110,EX雷狼龙帽,EX Zinogre Cap,mhxx-dex-1.0,6
+2115,铠龙头盔,Gravios Helm,mhxx-dex-1.0,6
+2120,铠龙帽,Gravios Cap,mhxx-dex-1.0,6
+2125,泡狐龙S头盔,Mizutsune Helm S,mhxx-dex-1.0,6
+2130,泡狐龙S帽,Mizutsune Mask S,mhxx-dex-1.0,6
+2135,电龙S头盔,Astalos Helm S,mhxx-dex-1.0,6
+2140,电龙S帽,Astalos Cap S,mhxx-dex-1.0,6
+2145,巨兽S头盔,Gammoth Helm S,mhxx-dex-1.0,6
+2150,巨兽S帽,Gammoth Cap S,mhxx-dex-1.0,6
+2155,斩龙S头盔,Glavenus Helm S,mhxx-dex-1.0,6
+2160,斩龙S帽,Glavenus Cap S,mhxx-dex-1.0,6
+2165,炎戈龙头盔,Agnaktor Helm,mhxx-dex-1.0,6
+2170,炎戈龙帽,Agnaktor Cap,mhxx-dex-1.0,6
+2175,黑蚀龙S头盔,Gore Helm S,mhxx-dex-1.0,6
+2180,黑蚀龙S帽,Gore Cap S,mhxx-dex-1.0,6
+2185,EX黑蚀龙头盔,EX Gore Helm,mhxx-dex-1.0,6
+2190,EX黑蚀龙帽,EX Gore Cap,mhxx-dex-1.0,6
+2195,黑蚀龙R头盔,Gore Helm R,mhxx-dex-1.0,6
+2200,黑蚀龙R帽,Gore Cap R,mhxx-dex-1.0,6
+2205,千刃龙S头盔,Regios Helm S,mhxx-dex-1.0,6
+2210,千刃龙S帽,Regios Cap S,mhxx-dex-1.0,6
+2215,尾锤龙头盔,Duramboros Helm,mhxx-dex-1.0,6
+2220,尾锤龙帽,Duramboros Cap,mhxx-dex-1.0,6
+2225,轰龙S头盔,Tigrex Helm S,mhxx-dex-1.0,6
+2230,轰龙S帽,Tigrex Cap S,mhxx-dex-1.0,6
+2235,EX轰龙头盔,EX Tigrex Helm,mhxx-dex-1.0,6
+2240,EX轰龙帽,EX Tigrex Cap,mhxx-dex-1.0,6
+2245,轰龙R头盔,Tigrex Helm R,mhxx-dex-1.0,6
+2250,轰龙R帽,Tigrex Cap R,mhxx-dex-1.0,6
+2255,麒麟S角,Kirin Horn S,mhxx-dex-1.0,6
+2260,麒麟S尖角,Kirin Crest S,mhxx-dex-1.0,6
+2265,麒麟R角,Kirin Horn R,mhxx-dex-1.0,6
+2270,麒麟R尖角,Kirin Crest R,mhxx-dex-1.0,6
+2275,碎龙S头盔,Brachydios Helm S,mhxx-dex-1.0,6
+2280,碎龙S帽,Brachydios Cap S,mhxx-dex-1.0,6
+2285,EX碎龙头盔,EX Brachydios Helm,mhxx-dex-1.0,6
+2290,EX碎龙帽,EX Brachydios Cap,mhxx-dex-1.0,6
+2295,金色毛发,Golden Headdress,mhxx-dex-1.0,6
+2300,黑衣面罩,Puppeteer Mask,mhxx-dex-1.0,6
+2305,恐暴龙头盔,Vangis Helm,mhxx-dex-1.0,6
+2310,恐暴龙帽,Vangis Cap,mhxx-dex-1.0,6
+2315,公会骑士飞羽,Guild Knight Feather,mhxx-dex-1.0,6
+2320,公会骑士面具,Guild Knight Mask,mhxx-dex-1.0,6
+2325,女仆S头饰,Maiden's Hat S,mhxx-dex-1.0,6
+2330,休闲S眼镜,French Maid Glasses S,mhxx-dex-1.0,6
+2335,公会守卫蓝宽帽,Blue Guild Lobos,mhxx-dex-1.0,6
+2340,公会守卫蓝面具,Blue Guild Mask,mhxx-dex-1.0,6
+2345,公会守卫蓝帽,Blue Guild Tricorne,mhxx-dex-1.0,6
+2350,公会守卫蓝头饰,Blue Guild Piercing,mhxx-dex-1.0,6
+2355,公会守卫红宽帽,Red Guild Lobos,mhxx-dex-1.0,6
+2360,公会守卫红面具,Red Guild Mask,mhxx-dex-1.0,6
+2365,公会守卫红帽,Red Guild Tricorne,mhxx-dex-1.0,6
+2370,公会守卫红头饰,Red Guild Piercing,mhxx-dex-1.0,6
+2375,支援者S兜帽,Helper Hood S,mhxx-dex-1.0,6
+2380,治疗者S眼镜,Healer Glasses S,mhxx-dex-1.0,6
+2385,支援者U兜帽,Helper Hood U,mhxx-dex-1.0,6
+2390,治疗者U军帽,Healer Beret U,mhxx-dex-1.0,6
+2395,公会诗人S宽帽,Guild Bard Lobos S,mhxx-dex-1.0,6
+2400,公会诗人S帽,Guild Bard Hat S,mhxx-dex-1.0,6
+2405,三眼耳环,Chakra Earring,mhxx-dex-1.0,6
+2410,抚子･华【布冠】,Dianthus Wealcap,mhxx-dex-1.0,6
+2415,桔梗･华【布冠】,Campanile Wealcap,mhxx-dex-1.0,6
+2420,王牌头饰,Ace Headgear,mhxx-dex-1.0,6
+2425,王牌面罩,Ace Mask,mhxx-dex-1.0,6
+2430,女王头饰,Sororal Headgear,mhxx-dex-1.0,6
+2435,女王面罩,Sororal Mask,mhxx-dex-1.0,6
+2440,猎鹰皮帽,Hawkhat,mhxx-dex-1.0,6
+2445,猎鹰帽,Hawkcap,mhxx-dex-1.0,6
+2450,美食喵S高帽,Gourmew Toque S,mhxx-dex-1.0,6
+2455,美食喵S帽,Gourmew Cap S,mhxx-dex-1.0,6
+2460,艾露猫发带,Felyne Hairband,mhxx-dex-1.0,6
+2461,贤者S方帽,Scholarly Hood S,mhxx-dex-1.0,6
+2466,贤者S帽,Scholarly Cap S,mhxx-dex-1.0,6
+2471,城塞游击队【刃笠】,Ranger's Headgear,mhxx-dex-1.0,6
+2476,城塞弓击队【面罩】,Archer's Turban,mhxx-dex-1.0,6
+2481,忍者面･天,Shinobi Heaven Mask,mhxx-dex-1.0,7
+2486,忍者面･地,Shinobi Land Mask,mhxx-dex-1.0,7
+2491,忍者面･空,Shinobi Sky Mask,mhxx-dex-1.0,7
+2496,忍者面･海,Shinobi Sea Mask,mhxx-dex-1.0,7
+2501,龙历士头盔,Ancient Helm,mhxx-dex-1.0,7
+2506,龙历士帽,Ancient Cap,mhxx-dex-1.0,7
+2511,大师耳夹,Master's Earcuff,mhxx-dex-1.0,7
+2516,大师耳饰,Master's Earrings,mhxx-dex-1.0,7
+2521,黑色S头饰,Black Head S,mhxx-dex-1.0,7
+2526,黑色S面罩,Black Face S,mhxx-dex-1.0,7
+2531,桐花【武士盔】,Toka Kabuto,mhxx-dex-1.0,7
+2536,三葵【武士盔】,Mitsuaoi Kabuto,mhxx-dex-1.0,7
+2541,聪慧头饰,Wisdom Head,mhxx-dex-1.0,7
+2546,聪慧帽子,Wisdom Hat,mhxx-dex-1.0,7
+2551,活泼头饰,Cheerful Head,mhxx-dex-1.0,7
+2556,活泼帽,Cheerful Cap,mhxx-dex-1.0,7
+2561,海歌兜帽,Mariner Hood,mhxx-dex-1.0,7
+2566,海歌帽,Mariner Cap,mhxx-dex-1.0,7
+2571,EX雌火龙S头盔,EX Rathian Helm S,mhxx-dex-1.0,7
+2576,EX雌火龙S帽,EX Rathian Cap S,mhxx-dex-1.0,7
+2581,EX火龙S头盔,EX Rathalos Helm S,mhxx-dex-1.0,7
+2586,EX火龙S帽,EX Rathalos Cap S,mhxx-dex-1.0,7
+2591,EX轰龙S头盔,EX Tigrex Helm S,mhxx-dex-1.0,7
+2596,EX轰龙S帽,EX Tigrex Cap S,mhxx-dex-1.0,7
+2601,角龙头盔,Diablos Helm,mhxx-dex-1.0,7
+2606,角龙帽,Diablos Cap,mhxx-dex-1.0,7
+2611,角龙R头盔,Diablos Helm R,mhxx-dex-1.0,7
+2616,角龙R帽,Diablos Cap R,mhxx-dex-1.0,7
+2621,方舟S头盔,Arc Helm S,mhxx-dex-1.0,7
+2626,方舟S帽,Arc Cap S,mhxx-dex-1.0,7
+2631,友爱S头盔,Storge Helm S,mhxx-dex-1.0,7
+2636,友爱S帽,Storge Cap S,mhxx-dex-1.0,7
+2641,EX方舟头盔,EX Arc Helm,mhxx-dex-1.0,7
+2646,EX方舟帽,EX Arc Cap,mhxx-dex-1.0,7
+2651,EX友爱头盔,EX Storge Helm,mhxx-dex-1.0,7
+2656,EX友爱帽,EX Storge Cap,mhxx-dex-1.0,7
+2661,方舟R头盔,Arc Helm R,mhxx-dex-1.0,7
+2666,方舟R帽,Arc Cap R,mhxx-dex-1.0,7
+2671,友爱R头盔,Storge Helm R,mhxx-dex-1.0,7
+2676,友爱R帽,Storge Cap R,mhxx-dex-1.0,7
+2681,天彗龙头盔,Valstrax Helm,mhxx-dex-1.0,7
+2686,天彗龙帽,Valstrax Cap,mhxx-dex-1.0,7
+2691,钢龙S强力,Kushala Glare S,mhxx-dex-1.0,7
+2696,钢龙S围城,Kushala Snarl S,mhxx-dex-1.0,7
+2701,EX钢龙强力,EX Kushala Glare,mhxx-dex-1.0,7
+2706,EX钢龙围城,EX Kushala Snarl,mhxx-dex-1.0,7
+2711,钢龙R强力,Kushala Glare R,mhxx-dex-1.0,7
+2716,钢龙R围城,Kushala Snarl R,mhxx-dex-1.0,7
+2721,水行霸【乌帽子】,Mizuha Cap S,mhxx-dex-1.0,7
+2726,丰玉霸【乌帽子】,Cham Hat S,mhxx-dex-1.0,7
+2731,EX水行【乌帽子】,EX Mizuha Cap,mhxx-dex-1.0,7
+2736,EX丰玉【乌帽子】,EX Cham Hat,mhxx-dex-1.0,7
+2741,帝王S冠,Kaiser Crown S,mhxx-dex-1.0,7
+2746,帝王S面具,Kaiser Mask S,mhxx-dex-1.0,7
+2751,EX帝王冠,EX Kaiser Crown,mhxx-dex-1.0,7
+2756,EX帝王面具,EX Kaiser Mask,mhxx-dex-1.0,7
+2761,银白耀日头盔,Silver Solhelm,mhxx-dex-1.0,7
+2766,银白耀日帽,Silver Solcap,mhxx-dex-1.0,7
+2771,EX银白耀日头盔,EX Silver Solhelm,mhxx-dex-1.0,7
+2776,EX银白耀日帽,EX Silver Solcap,mhxx-dex-1.0,7
+2781,银白耀日R头盔,Silver Solhelm R,mhxx-dex-1.0,7
+2786,银白耀日R帽,Silver Solcap R,mhxx-dex-1.0,7
+2791,金黄澄月头盔,Golden Lunehelm,mhxx-dex-1.0,7
+2796,金黄澄月帽,Golden Lunecap,mhxx-dex-1.0,7
+2801,EX金黄澄月头盔,EX Golden Lunehelm,mhxx-dex-1.0,7
+2806,EX金黄澄月帽,EX Golden Lunecap,mhxx-dex-1.0,7
+2811,怒天毛发,Divine Ire Headdress,mhxx-dex-1.0,7
+2816,心灭面罩,Crusher Mask,mhxx-dex-1.0,7
+2821,贪婪头盔,Esurient Helm,mhxx-dex-1.0,7
+2826,贪婪帽,Esurient Cap,mhxx-dex-1.0,7
+2831,贪婪R头盔,Esurient Helm R,mhxx-dex-1.0,7
+2836,贪婪R帽,Esurient Cap R,mhxx-dex-1.0,7
+2841,霸龙削头,Akantor Mask,mhxx-dex-1.0,7
+2846,霸龙利牙,Akantor Fangs,mhxx-dex-1.0,7
+2851,霸龙R削头,Akantor Mask R,mhxx-dex-1.0,7
+2856,霸龙R利牙,Akantor Fangs R,mhxx-dex-1.0,7
+2861,崩龙削头,Ukanlos Mask,mhxx-dex-1.0,7
+2866,崩龙利牙,Ukanlos Fangs,mhxx-dex-1.0,7
+2871,荒天【冠】,Tempest Crown,mhxx-dex-1.0,7
+2876,苍天【冠】,Welkin Crown,mhxx-dex-1.0,7
+2881,荒天亚流【冠】,Tempest Crown R,mhxx-dex-1.0,7
+2886,苍天亚流【冠】,Welkin Crown R,mhxx-dex-1.0,7
+2891,骸装甲･霸【头骨】,Skeletal Skull R,mhxx-dex-1.0,7
+2896,尸装甲･霸【头骨】,Decayed Skull R,mhxx-dex-1.0,7
+2901,苍星头盔,Astral Helm,mhxx-dex-1.0,7
+2906,苍星面具,Astral Mask,mhxx-dex-1.0,7
+2911,煌黑龙智慧,Escadora Wisdom,mhxx-dex-1.0,7
+2916,煌黑龙睿智,Escadora Sagesse,mhxx-dex-1.0,7
+2921,煌黑龙R智慧,Escadora Wisdom R,mhxx-dex-1.0,7
+2926,煌黑龙R睿智,Escadora Sagesse R,mhxx-dex-1.0,7
+2932,龙王独眼,Dragonlord's Gaze,mhxx-dex-1.0,7
+2933,鹰眼羽饰,Takami Feather,mhxx-dex-1.0,7
+2934,隼刃羽饰,Hayabusa Feather,mhxx-dex-1.0,7
+2935,鹤寿羽饰,Kakuju Feather,mhxx-dex-1.0,7
+2936,剑圣耳环,Sword Saint Earring,mhxx-dex-1.0,7
+2937,增弹耳环,Barrage Earring,mhxx-dex-1.0,7
+2938,斩炎耳环,Flame Earring,mhxx-dex-1.0,7
+2939,雷电耳环,Shock Earring,mhxx-dex-1.0,7
+2940,巨冰耳环,Ice Earring,mhxx-dex-1.0,7
+2941,水狐耳环,Water Earring,mhxx-dex-1.0,7
+2942,龙彗耳环,Comet Earring,mhxx-dex-1.0,7
+2943,皮制X头盔,Leather Helm X,mhxx-dex-1.0,8
+2948,皮制X帽,Leather Cap X,mhxx-dex-1.0,8
+2953,锁甲X头盔,Chain Helm X,mhxx-dex-1.0,8
+2958,锁甲X帽,Chainmail Cap X,mhxx-dex-1.0,8
+2963,贝鲁纳X头巾,Bherna Turban X,mhxx-dex-1.0,8
+2968,贝鲁纳X帽,Bherna Cap X,mhxx-dex-1.0,8
+2973,狩猎X头盔,Hunting Helm X,mhxx-dex-1.0,8
+2978,狩猎X帽,Hunting Cap X,mhxx-dex-1.0,8
+2983,毛皮X兜帽,Mafumofu Hood X,mhxx-dex-1.0,8
+2988,毛皮X帽,Mafumofu Cap X,mhxx-dex-1.0,8
+2993,结云之笠･极天,Yukumo Sky Kasa Goku,mhxx-dex-1.0,8
+2998,结云之笠･极地,Yukumo Land Kasa Goku,mhxx-dex-1.0,8
+3003,最高级泡澡浴巾,Posh Bath Towel,mhxx-dex-1.0,8
+3010,猎人X头盔,Hunter's Helm X,mhxx-dex-1.0,8
+3015,猎人X帽,Hunter's Cap X,mhxx-dex-1.0,8
+3020,猎人XR头盔,Hunter's Helm XR,mhxx-dex-1.0,8
+3025,猎人XR帽,Hunter's Cap XR,mhxx-dex-1.0,8
+3030,骨制X头盔,Bone Helm X,mhxx-dex-1.0,8
+3035,骨制X帽,Bone Cap X,mhxx-dex-1.0,8
+3046,混沌的包･真,Grand Chaoshroom,mhxx-dex-1.0,8
+3048,混沌的簪･真,Grand Chaos Diadem,mhxx-dex-1.0,8
+3058,花瓣X绽放,Melahoa Hat X,mhxx-dex-1.0,8
+3063,花瓣X花朵,Melahoa Bloom X,mhxx-dex-1.0,8
+3068,花瓣Z绽放,Melahoa Flower Hat Z,mhxx-dex-1.0,8
+3073,花瓣Z花朵,Melahoa Bloom Z,mhxx-dex-1.0,8
+3078,鱼鳞X兜帽,Makluva Hood X,mhxx-dex-1.0,8
+3083,鱼鳞X头套,Makluva Gills X,mhxx-dex-1.0,8
+3088,鱼鳞Z兜帽,Makluva Hood Z,mhxx-dex-1.0,8
+3093,鱼鳞Z头套,Makluva Gills Z,mhxx-dex-1.0,8
+3098,独角仙X护头,Obituary Vertex X,mhxx-dex-1.0,8
+3103,独角仙X头甲,Obituary Clypeus X,mhxx-dex-1.0,8
+3108,燕尾蝶X护头,Butterfly Vertex X,mhxx-dex-1.0,8
+3113,燕尾蝶X头甲,Butterfly Clypeus X,mhxx-dex-1.0,8
+3118,死神X首脑,Death Stench Brain X,mhxx-dex-1.0,8
+3123,死神X魂魄,Death Stench Soul X,mhxx-dex-1.0,8
+3128,死神XR首脑,Death Stench Brain XR,mhxx-dex-1.0,8
+3133,死神XR魂魄,Death Stench Soul XR,mhxx-dex-1.0,8
+3138,橡子X头盔,Acorn Helm X,mhxx-dex-1.0,8
+3140,橡子X帽,Acorn Cap X,mhxx-dex-1.0,8
+3142,南瓜X绽放,Mosgharl Vizor X,mhxx-dex-1.0,8
+3147,南瓜X花朵,Mosgharl Brim X,mhxx-dex-1.0,8
+3152,雪绒花X绽放,Edel Vizor X,mhxx-dex-1.0,8
+3157,雪绒花X花朵,Edel Bloom X,mhxx-dex-1.0,8
+3162,毒蝎X护头,Skalda Vertex X,mhxx-dex-1.0,8
+3167,毒蝎X头甲,Skalda Clypeus X,mhxx-dex-1.0,8
+3172,毒蛛X护头,Spio Vertex X,mhxx-dex-1.0,8
+3177,毒蛛X头甲,Spio Clypeus X,mhxx-dex-1.0,8
+3182,合金X头盔,Alloy Helm X,mhxx-dex-1.0,8
+3187,合金X帽,Alloy Cap X,mhxx-dex-1.0,8
+3192,合金XR头盔,Alloy Helm XR,mhxx-dex-1.0,8
+3197,合金XR帽,Alloy Cap XR,mhxx-dex-1.0,8
+3202,战斗X头盔,Battle Helm X,mhxx-dex-1.0,8
+3207,战斗X帽,Battle Cap X,mhxx-dex-1.0,8
+3212,铸铁X头盔,Ingot Helm X,mhxx-dex-1.0,8
+3217,铸铁X帽,Ingot Cap X,mhxx-dex-1.0,8
+3222,铸铁XR头盔,Ingot Helm XR,mhxx-dex-1.0,8
+3227,铸铁XR帽,Ingot Cap XR,mhxx-dex-1.0,8
+3232,矿石X头盔,High Metal Helm X,mhxx-dex-1.0,8
+3237,矿石X帽,High Metal Cap X,mhxx-dex-1.0,8
+3242,矿石Z头盔,High Metal Helm Z,mhxx-dex-1.0,8
+3247,矿石Z帽,High Metal Cap Z,mhxx-dex-1.0,8
+3254,龙虾X头盔,Lobster Helm X,mhxx-dex-1.0,8
+3259,龙虾X面具,Lobster Mask X,mhxx-dex-1.0,8
+3264,海境X头盔,Vaik Helm X,mhxx-dex-1.0,8
+3269,海境X帽,Vaik Cap X,mhxx-dex-1.0,8
+3274,厨师X高帽,Bistro Toque X,mhxx-dex-1.0,8
+3277,厨师X帽,Bistro Cap X,mhxx-dex-1.0,8
+3280,糕点师X厨帽,Patissier's Toque X,mhxx-dex-1.0,8
+3285,糕点师X帽,Patissier's Cap X,mhxx-dex-1.0,8
+3290,美食喵X高帽,Gourmew Toque X,mhxx-dex-1.0,8
+3295,美食喵X帽,Gourmew Cap X,mhxx-dex-1.0,8
+3300,锹形X护头,Aelucanth Vertex X,mhxx-dex-1.0,8
+3305,锹形X头甲,Aelucanth Clypeus X,mhxx-dex-1.0,8
+3310,凤蝶X护头,Rhopessa Vertex X,mhxx-dex-1.0,8
+3315,凤蝶X头甲,Rhopessa Clypeus X,mhxx-dex-1.0,8
+3320,求知X兜帽,Lecturer's Hood X,mhxx-dex-1.0,8
+3325,求知X帽,Lecturer's Cap X,mhxx-dex-1.0,8
+3330,勇气X头盔,Derring Helm X,mhxx-dex-1.0,8
+3335,勇气X帽,Derring Cap X,mhxx-dex-1.0,8
+3340,机械X头盔,Artian Helm X,mhxx-dex-1.0,8
+3345,机械X帽,Artian Cap X,mhxx-dex-1.0,8
+3350,机械XR头盔,Artian Helm XR,mhxx-dex-1.0,8
+3355,机械XR帽,Artian Cap XR,mhxx-dex-1.0,8
+3360,女仆X头饰,Maiden's Hat X,mhxx-dex-1.0,8
+3365,休闲X眼镜,French Maid Glasses X,mhxx-dex-1.0,8
+3370,抚子･雅【布冠】,Dianthus Masacap,mhxx-dex-1.0,8
+3375,桔梗･雅【布冠】,Campanile Masacap,mhxx-dex-1.0,8
+3380,猎鹰X皮帽,Hawkhat X,mhxx-dex-1.0,8
+3385,猎鹰X帽,Hawkcap X,mhxx-dex-1.0,8
+3390,贤者X方帽,Scholarly Hood X,mhxx-dex-1.0,8
+3395,贤者X帽,Scholarly Cap X,mhxx-dex-1.0,8
+3400,杜宾X头盔,Dober Helm X,mhxx-dex-1.0,8
+3405,杜宾X帽,Dober Cap X,mhxx-dex-1.0,8
+3410,学士X兜帽,Scholar's Beret X,mhxx-dex-1.0,8
+3415,学士X军帽,Scholar's Cap X,mhxx-dex-1.0,8
+3420,水手X兜帽,Sailor Hat X,mhxx-dex-1.0,8
+3425,水手X帽,Sailor Cap X,mhxx-dex-1.0,8
+3430,海歌X兜帽,Mariner Hood X,mhxx-dex-1.0,8
+3435,海歌X帽,Mariner Cap X,mhxx-dex-1.0,8
+3440,垂皮龙X兜帽,Slagtoth Hood X,mhxx-dex-1.0,8
+3442,垂皮龙X蓑衣,Slagtoth Cowl X,mhxx-dex-1.0,8
+3444,狗龙X头盔,Jaggi Helm X,mhxx-dex-1.0,8
+3449,狗龙X帽,Jaggi Cap X,mhxx-dex-1.0,8
+3454,狗龙X伪装,Jaggi Mask X,mhxx-dex-1.0,8
+3455,跳狗龙X头盔,Maccao Helm X,mhxx-dex-1.0,8
+3460,跳狗龙X帽,Maccao Cap X,mhxx-dex-1.0,8
+3465,蓝速龙X头盔,Velociprey Helm X,mhxx-dex-1.0,8
+3470,蓝速龙X帽,Velociprey Cap X,mhxx-dex-1.0,8
+3475,白速龙X头盔,Giaprey Helm X,mhxx-dex-1.0,8
+3480,白速龙X帽,Giaprey Cap X,mhxx-dex-1.0,8
+3485,黄速龙X头盔,Genprey Helm X,mhxx-dex-1.0,8
+3490,黄速龙X帽,Genprey Cap X,mhxx-dex-1.0,8
+3495,GX黄速龙头盔,Genprey Helm GX,mhxx-dex-1.0,8
+3500,GX黄速龙帽,Genprey Cap GX,mhxx-dex-1.0,8
+3505,巨蜂X头盔,Vespoid Helm X,mhxx-dex-1.0,8
+3510,巨蜂X帽,Vespoid Cap X,mhxx-dex-1.0,8
+3515,GX巨蜂头盔,Vespoid Helm GX,mhxx-dex-1.0,8
+3520,GX巨蜂帽,Vespoid Cap GX,mhxx-dex-1.0,8
+3525,巨甲虫X头盔,Hornetaur Helm X,mhxx-dex-1.0,8
+3530,巨甲虫X帽,Hornetaur Cap X,mhxx-dex-1.0,8
+3535,GX巨甲虫头盔,Hornetaur Helm GX,mhxx-dex-1.0,8
+3540,GX巨甲虫帽,Hornetaur Cap GX,mhxx-dex-1.0,8
+3545,巨甲虫XR头盔,Hornetaur Helm XR,mhxx-dex-1.0,8
+3550,巨甲虫XR帽,Hornetaur Cap XR,mhxx-dex-1.0,8
+3555,飞甲虫X礼帽,Bnahabra Hat X,mhxx-dex-1.0,8
+3560,飞甲虫X帽,Bnahabra Headpiece X,mhxx-dex-1.0,8
+3565,盾虫X头盔,Konchu Helm X,mhxx-dex-1.0,8
+3567,盾虫X帽,Konchu Cap X,mhxx-dex-1.0,8
+3569,蘑菇猪X伪装,Mosswine Mask X,mhxx-dex-1.0,8
+3574,硬甲龙X头盔,Rhenoplos Helm X,mhxx-dex-1.0,8
+3579,硬甲龙X帽,Rhenoplos Cap X,mhxx-dex-1.0,8
+3584,野猪X头盔,Bulldrome Helm X,mhxx-dex-1.0,8
+3589,野猪X帽,Bulldrome Cap X,mhxx-dex-1.0,8
+3594,野猪X伪装,Bullfango Mask X,mhxx-dex-1.0,8
+3595,青熊兽X头盔,Arzuros Helm X,mhxx-dex-1.0,8
+3600,青熊兽X帽,Arzuros Cap X,mhxx-dex-1.0,8
+3605,砂龙X头盔,Cephalos Helm X,mhxx-dex-1.0,8
+3610,砂龙X帽,Cephalos Cap X,mhxx-dex-1.0,8
+3615,GX砂龙头盔,Cephalos Helm GX,mhxx-dex-1.0,8
+3620,GX砂龙帽,Cephalos Cap GX,mhxx-dex-1.0,8
+3635,首鸣龙X伪装,Larinoth Mask X,mhxx-dex-1.0,8
+3636,丸鸟X伪装,Gargwa Mask X,mhxx-dex-1.0,8
+3637,云羊鹿X头饰,Moofah Head X,mhxx-dex-1.0,8
+3641,云羊鹿X飞翼,Moofah Wig X,mhxx-dex-1.0,8
+3645,蓝速龙X头饰,Velociprey Head X,mhxx-dex-1.0,8
+3649,蓝速龙X面罩,Velociprey Mask X,mhxx-dex-1.0,8
+3653,白速龙X头饰,Giaprey Head X,mhxx-dex-1.0,8
+3657,白速龙X面罩,Giaprey Mask X,mhxx-dex-1.0,8
+3661,黄速龙X头饰,Genprey Head X,mhxx-dex-1.0,8
+3665,黄速龙X面罩,Genprey Mask X,mhxx-dex-1.0,8
+3669,红速龙X头饰,Ioprey Head X,mhxx-dex-1.0,8
+3673,红速龙X面罩,Ioprey Mask X,mhxx-dex-1.0,8
+3677,蛇龙X头饰,Remobra Headgear X,mhxx-dex-1.0,8
+3682,蛇龙X面罩,Remobra Mask X,mhxx-dex-1.0,8
+3687,红速龙X头盔,Ioprey Helm X,mhxx-dex-1.0,8
+3692,红速龙X帽,Ioprey Cap X,mhxx-dex-1.0,8
+3697,GX红速龙头盔,Ioprey Helm GX,mhxx-dex-1.0,8
+3702,GX红速龙帽,Ioprey Cap GX,mhxx-dex-1.0,8
+3707,怪鸟X头盔,Kut-Ku Helm X,mhxx-dex-1.0,8
+3712,怪鸟X帽,Kut-Ku Cap X,mhxx-dex-1.0,8
+3717,奇猿狐X头盔,Kecha Helm X,mhxx-dex-1.0,8
+3722,奇猿狐X帽,Kecha Cap X,mhxx-dex-1.0,8
+3727,白兔兽X头盔,Lagombi Helm X,mhxx-dex-1.0,8
+3732,白兔兽X帽,Lagombi Cap X,mhxx-dex-1.0,8
+3737,毒怪鸟X头盔,Gypceros Helm X,mhxx-dex-1.0,8
+3742,毒怪鸟X帽,Gypceros Cap X,mhxx-dex-1.0,8
+3747,毒怪鸟XR头盔,Gypceros Helm XR,mhxx-dex-1.0,8
+3752,毒怪鸟XR帽,Gypceros Cap XR,mhxx-dex-1.0,8
+3757,鬼蛙X头盔,Tetsucabra Helm X,mhxx-dex-1.0,8
+3762,鬼蛙X帽,Tetsucabra Cap X,mhxx-dex-1.0,8
+3767,大名盾蟹X头盔,Hermitaur Helm X,mhxx-dex-1.0,8
+3772,大名盾蟹X帽,Hermitaur Cap X,mhxx-dex-1.0,8
+3777,GX大名盾蟹头盔,Hermitaur Helm GX,mhxx-dex-1.0,8
+3782,GX大名盾蟹帽,Hermitaur Cap GX,mhxx-dex-1.0,8
+3787,大名盾蟹XR头盔,Hermitaur Helm XR,mhxx-dex-1.0,8
+3792,大名盾蟹XR帽,Hermitaur Cap XR,mhxx-dex-1.0,8
+3797,赤甲兽X头盔,Volvidon Helm X,mhxx-dex-1.0,8
+3802,赤甲兽X帽,Volvidon Cap X,mhxx-dex-1.0,8
+3807,桃毛兽王X头盔,Conga Helm X,mhxx-dex-1.0,8
+3812,桃毛兽王X帽,Conga Cap X,mhxx-dex-1.0,8
+3817,GX桃毛兽王头盔,Conga Helm GX,mhxx-dex-1.0,8
+3822,GX桃毛兽王帽,Conga Cap GX,mhxx-dex-1.0,8
+3827,水兽X头盔,Ludroth Helm X,mhxx-dex-1.0,8
+3832,水兽X帽,Ludroth Cap X,mhxx-dex-1.0,8
+3837,水兽XR头盔,Ludroth Helm XR,mhxx-dex-1.0,8
+3842,水兽XR帽,Ludroth Cap XR,mhxx-dex-1.0,8
+3847,土砂龙X头盔,Barroth Helm X,mhxx-dex-1.0,8
+3852,土砂龙X帽,Barroth Cap X,mhxx-dex-1.0,8
+3857,岩龙X头盔,Basarios Helm X,mhxx-dex-1.0,8
+3862,岩龙X帽,Basarios Cap X,mhxx-dex-1.0,8
+3867,夜鸟X头盔,Malfestio Helm X,mhxx-dex-1.0,8
+3872,夜鸟X帽,Malfestio Cap X,mhxx-dex-1.0,8
+3877,变形冰鲨X头盔,Zamtrios Helm X,mhxx-dex-1.0,8
+3882,变形冰鲨X帽,Zamtrios Cap X,mhxx-dex-1.0,8
+3887,白电X头盔,Khezu Helm X,mhxx-dex-1.0,8
+3892,白电X帽,Khezu Cap X,mhxx-dex-1.0,8
+3897,白电XR头盔,Khezu Helm XR,mhxx-dex-1.0,8
+3902,白电XR帽,Khezu Cap XR,mhxx-dex-1.0,8
+3907,影蜘蛛X头盔,Nerscylla Helm X,mhxx-dex-1.0,8
+3912,影蜘蛛X帽,Nerscylla Cap X,mhxx-dex-1.0,8
+3917,雌火龙X头盔,Rathian Helm X,mhxx-dex-1.0,8
+3922,雌火龙X帽,Rathian Cap X,mhxx-dex-1.0,8
+3927,GX雌火龙头盔,Rathian Helm GX,mhxx-dex-1.0,8
+3932,GX雌火龙帽,Rathian Cap GX,mhxx-dex-1.0,8
+3937,雌火龙XR头盔,Rathian Helm XR,mhxx-dex-1.0,8
+3942,雌火龙XR帽,Rathian Cap XR,mhxx-dex-1.0,8
+3947,潜口龙X头盔,Nibelsnarf Helm X,mhxx-dex-1.0,8
+3952,潜口龙X帽,Nibelsnarf Cap X,mhxx-dex-1.0,8
+3957,水龙X头盔,Plesioth Helm X,mhxx-dex-1.0,8
+3961,水龙X帽,Plesioth Cap X,mhxx-dex-1.0,8
+3966,雪狮子X头盔,Blango Helm X,mhxx-dex-1.0,8
+3971,雪狮子X帽,Blango Cap X,mhxx-dex-1.0,8
+3976,GX雪狮子头盔,Blango Helm GX,mhxx-dex-1.0,8
+3981,GX雪狮子帽,Blango Cap GX,mhxx-dex-1.0,8
+3986,熔岩龙X头盔,Lava Helm X,mhxx-dex-1.0,8
+3991,熔岩龙X帽,Lava Cap X,mhxx-dex-1.0,8
+3996,GX熔岩龙头盔,Lavasioth Helm GX,mhxx-dex-1.0,8
+4001,GX熔岩龙帽,Lavasioth Cap GX,mhxx-dex-1.0,8
+4006,将军镰蟹X头盔,Ceanataur Helm X,mhxx-dex-1.0,8
+4011,将军镰蟹X帽,Ceanataur Cap X,mhxx-dex-1.0,8
+4016,GX将军镰蟹头盔,Ceanataur Helm GX,mhxx-dex-1.0,8
+4021,GX将军镰蟹帽,Ceanataur Cap GX,mhxx-dex-1.0,8
+4026,将军镰蟹XR头盔,Ceanataur Helm XR,mhxx-dex-1.0,8
+4031,将军镰蟹XR帽,Ceanataur Cap XR,mhxx-dex-1.0,8
+4036,绞蛇龙X头盔,Najarala Helm X,mhxx-dex-1.0,8
+4041,绞蛇龙X帽,Najarala Cap X,mhxx-dex-1.0,8
+4046,迅龙X头盔,Nargacuga Helm X,mhxx-dex-1.0,8
+4051,迅龙X帽,Nargacuga Cap X,mhxx-dex-1.0,8
+4056,黑狼鸟X头盔,Garuga Helm X,mhxx-dex-1.0,8
+4061,黑狼鸟X帽,Garuga Cap X,mhxx-dex-1.0,8
+4066,黑狼鸟X伪装,Garuga Mask X,mhxx-dex-1.0,8
+4067,爆锤龙X头盔,Uragaan Helm X,mhxx-dex-1.0,8
+4072,爆锤龙X帽,Uragaan Cap X,mhxx-dex-1.0,8
+4077,GX北极星【毛发】,GX Kita Star Headdress,mhxx-dex-1.0,8
+4081,GX海渊【毛发】,GX Umi Ocean Headdress,mhxx-dex-1.0,8
+4085,公会骑士X飞羽,G. Knight Feather X,mhxx-dex-1.0,8
+4090,公会骑士X面具,G. Knight Mask X,mhxx-dex-1.0,8
+4095,公会诗人X宽帽,Guild Bard Lobos X,mhxx-dex-1.0,8
+4100,公会诗人X帽子,Guild Bard Hat X,mhxx-dex-1.0,8
+4111,知略眼镜X,Cunning Specs X,mhxx-dex-1.0,8
+4112,支援者X兜帽,Helper Hood X,mhxx-dex-1.0,9
+4117,治疗者X眼镜,Healer Glasses X,mhxx-dex-1.0,9
+4122,支援者Z兜帽,Helper Hood Z,mhxx-dex-1.0,9
+4127,治疗者Z军帽,Healer Beret Z,mhxx-dex-1.0,9
+4132,龙历士X头盔,Ancient Helm X,mhxx-dex-1.0,9
+4137,龙历士X帽,Ancient Cap X,mhxx-dex-1.0,9
+4142,王牌X头饰,Ace Headgear X,mhxx-dex-1.0,9
+4147,王牌X面罩,Ace Mask X,mhxx-dex-1.0,9
+4152,女王X头饰,Sororal Headgear X,mhxx-dex-1.0,9
+4157,女王X面罩,Sororal Mask X,mhxx-dex-1.0,9
+4162,城塞特攻队【刃笠】,Strider's Headgear,mhxx-dex-1.0,9
+4167,城塞隐蔽队【面罩】,Deadeye's Turban,mhxx-dex-1.0,9
+4172,忍者面･极天,Shinobi Heaven Mask Goku,mhxx-dex-1.0,9
+4177,忍者面･极地,Shinobi Land Mask Goku,mhxx-dex-1.0,9
+4182,大师X耳夹,Master's Earcuff X,mhxx-dex-1.0,9
+4187,大师X耳饰,Master's Earrings X,mhxx-dex-1.0,9
+4192,桐花･真【武士盔】,Grand Toka Kabuto,mhxx-dex-1.0,9
+4197,三葵･真【武士盔】,Grand Mitsuaoi Kabuto,mhxx-dex-1.0,9
+4202,夜叉【刚面】,Yaksha Mask,mhxx-dex-1.0,9
+4207,修罗【刚面】,Carnage Helm,mhxx-dex-1.0,9
+4212,太阳神X头盔,Helios Helm X,mhxx-dex-1.0,9
+4217,太阳神X帽,Helios Cap X,mhxx-dex-1.0,9
+4222,月神X头盔,Selene Helm X,mhxx-dex-1.0,9
+4227,月神X帽,Selene Cap X,mhxx-dex-1.0,9
+4232,聪慧X头饰,Wisdom Headgear X,mhxx-dex-1.0,9
+4237,聪慧X帽子,Wisdom Hat X,mhxx-dex-1.0,9
+4242,探究方帽,Research Hood,mhxx-dex-1.0,9
+4247,探究帽,Research Cap,mhxx-dex-1.0,9
+4252,活泼X头饰,Cheerful Headgear X,mhxx-dex-1.0,9
+4257,活泼X帽,Cheerful Cap X,mhxx-dex-1.0,9
+4262,冰牙龙X头盔,Barioth Helm X,mhxx-dex-1.0,9
+4267,冰牙龙X帽,Barioth Cap X,mhxx-dex-1.0,9
+4272,重甲虫X头盔,Seltas Helm X,mhxx-dex-1.0,9
+4277,重甲虫X帽,Seltas Cap X,mhxx-dex-1.0,9
+4282,火龙X头盔,Rathalos Helm X,mhxx-dex-1.0,9
+4287,火龙X帽,Rathalos Cap X,mhxx-dex-1.0,9
+4292,GX火龙头盔,Rathalos Helm GX,mhxx-dex-1.0,9
+4297,GX火龙帽,Rathalos Cap GX,mhxx-dex-1.0,9
+4302,火龙XR头盔,Rathalos Helm XR,mhxx-dex-1.0,9
+4307,火龙XR帽,Rathalos Cap XR,mhxx-dex-1.0,9
+4312,海龙X头盔,Lagiacrus Helm X,mhxx-dex-1.0,9
+4317,海龙X帽,Lagiacrus Cap X,mhxx-dex-1.0,9
+4322,海龙XR头盔,Lagiacrus Helm XR,mhxx-dex-1.0,9
+4327,海龙XR帽,Lagiacrus Cap XR,mhxx-dex-1.0,9
+4332,雷狼龙X头盔,Zinogre Helm X,mhxx-dex-1.0,9
+4337,雷狼龙X帽,Zinogre Cap X,mhxx-dex-1.0,9
+4342,GX雷狼龙头盔,Zinogre Helm GX,mhxx-dex-1.0,9
+4347,GX雷狼龙帽,Zinogre Cap GX,mhxx-dex-1.0,9
+4352,铠龙X头盔,Gravios Helm X,mhxx-dex-1.0,9
+4357,铠龙X帽,Gravios Cap X,mhxx-dex-1.0,9
+4362,泡狐龙X头盔,Mizutsune Helm X,mhxx-dex-1.0,9
+4367,泡狐龙X帽,Mizutsune Mask X,mhxx-dex-1.0,9
+4372,电龙X头盔,Astalos Helm X,mhxx-dex-1.0,9
+4377,电龙X帽,Astalos Cap X,mhxx-dex-1.0,9
+4382,巨兽X头盔,Gammoth Helm X,mhxx-dex-1.0,9
+4387,巨兽X帽,Gammoth Cap X,mhxx-dex-1.0,9
+4392,斩龙X头盔,Glavenus Helm X,mhxx-dex-1.0,9
+4397,斩龙X帽,Glavenus Cap X,mhxx-dex-1.0,9
+4402,炎戈龙X头盔,Agnaktor Helm X,mhxx-dex-1.0,9
+4407,炎戈龙X帽,Agnaktor Cap X,mhxx-dex-1.0,9
+4412,黑蚀龙X头盔,Gore Helm X,mhxx-dex-1.0,9
+4417,黑蚀龙X帽,Gore Cap X,mhxx-dex-1.0,9
+4422,GX黑蚀龙头盔,Gore Helm GX,mhxx-dex-1.0,9
+4427,GX黑蚀龙帽,Gore Cap GX,mhxx-dex-1.0,9
+4432,黑蚀龙XR头盔,Gore Helm XR,mhxx-dex-1.0,9
+4437,黑蚀龙XR帽,Gore Cap XR,mhxx-dex-1.0,9
+4442,千刃龙X头盔,Regios Helm X,mhxx-dex-1.0,9
+4447,千刃龙X帽,Regios Cap X,mhxx-dex-1.0,9
+4452,尾锤龙X头盔,Duramboros Helm X,mhxx-dex-1.0,9
+4457,尾锤龙X帽,Duramboros Cap X,mhxx-dex-1.0,9
+4462,轰龙X头盔,Tigrex Helm X,mhxx-dex-1.0,9
+4467,轰龙X帽,Tigrex Cap X,mhxx-dex-1.0,9
+4472,GX轰龙头盔,Tigrex Helm GX,mhxx-dex-1.0,9
+4477,GX轰龙帽,Tigrex Cap GX,mhxx-dex-1.0,9
+4482,轰龙XR头盔,Tigrex Helm XR,mhxx-dex-1.0,9
+4487,轰龙XR帽,Tigrex Cap XR,mhxx-dex-1.0,9
+4492,角龙X头盔,Diablos Helm X,mhxx-dex-1.0,9
+4497,角龙X帽,Diablos Cap X,mhxx-dex-1.0,9
+4502,角龙XR头盔,Diablos Helm XR,mhxx-dex-1.0,9
+4507,角龙XR帽,Diablos Cap XR,mhxx-dex-1.0,9
+4512,麒麟X角,Kirin Horn X,mhxx-dex-1.0,9
+4517,麒麟X尖角,Kirin Crest X,mhxx-dex-1.0,9
+4522,麒麟XR角,Kirin Horn XR,mhxx-dex-1.0,9
+4527,麒麟XR尖角,Kirin Crest XR,mhxx-dex-1.0,9
+4532,碎龙X头盔,Brachydios Helm X,mhxx-dex-1.0,9
+4537,碎龙X帽,Brachydios Cap X,mhxx-dex-1.0,9
+4542,GX碎龙头盔,Brachydios Helm GX,mhxx-dex-1.0,9
+4547,GX碎龙帽,Brachydios Cap GX,mhxx-dex-1.0,9
+4552,方舟X头盔,Arc Helm X,mhxx-dex-1.0,9
+4557,方舟X帽,Arc Cap X,mhxx-dex-1.0,9
+4562,友爱X头盔,Storge Helm X,mhxx-dex-1.0,9
+4567,友爱X帽,Storge Cap X,mhxx-dex-1.0,9
+4572,GX方舟头盔,Arc Helm GX,mhxx-dex-1.0,9
+4577,GX方舟帽,Arc Cap GX,mhxx-dex-1.0,9
+4582,GX友爱头盔,Storge Helm GX,mhxx-dex-1.0,9
+4587,GX友爱帽,Storge Cap GX,mhxx-dex-1.0,9
+4592,方舟XR头盔,Arc Helm XR,mhxx-dex-1.0,9
+4597,方舟XR帽,Arc Cap XR,mhxx-dex-1.0,9
+4602,友爱XR头盔,Storge Helm XR,mhxx-dex-1.0,9
+4607,友爱XR帽,Storge Cap XR,mhxx-dex-1.0,9
+4612,天彗龙X头盔,Valstrax Helm X,mhxx-dex-1.0,9
+4617,天彗龙X帽,Valstrax Cap X,mhxx-dex-1.0,9
+4622,齐天毛发･真,Grand God's Peer Mask,mhxx-dex-1.0,9
+4627,仙师毛发･真,Grand Hermit Mask,mhxx-dex-1.0,9
+4632,恐暴龙X头盔,Vangis Helm X,mhxx-dex-1.0,9
+4637,恐暴龙X帽,Vangis Cap X,mhxx-dex-1.0,9
+4642,混沌头盔,Chaos Helm,mhxx-dex-1.0,9
+4647,混沌帽,Chaos Cap,mhxx-dex-1.0,9
+4652,堕天头盔,Nephilim Helm,mhxx-dex-1.0,9
+4657,堕天帽,Nephilim Cap,mhxx-dex-1.0,9
+4662,黑带X头盔,Black Belt Helm X,mhxx-dex-1.0,9
+4667,黑带X帽,Black Belt Cap X,mhxx-dex-1.0,9
+4672,守护者X头盔,Guardian Helm X,mhxx-dex-1.0,9
+4677,守护者X面具,Guardian Mask X,mhxx-dex-1.0,9
+4682,守护者Z头盔,Guardian Helm Z,mhxx-dex-1.0,9
+4687,守护者Z面具,Guardian Mask Z,mhxx-dex-1.0,9
+4692,公会守卫X蓝宽帽,Blue Guild Lobos X,mhxx-dex-1.0,9
+4697,公会守卫X蓝面具,Blue Guild Mask X,mhxx-dex-1.0,9
+4702,公会守卫X蓝帽子,Blue Guild Tricorne X,mhxx-dex-1.0,9
+4707,公会守卫X蓝头饰,Blue Guild Piercing X,mhxx-dex-1.0,9
+4712,公会守卫X红宽帽,Red Guild Lobos X,mhxx-dex-1.0,9
+4717,公会守卫X红面具,Red Guild Mask X,mhxx-dex-1.0,9
+4722,公会守卫X红帽子,Red Guild Tricorne X,mhxx-dex-1.0,9
+4727,公会守卫X红头饰,Red Guild Piercing X,mhxx-dex-1.0,9
+4732,黑色X头饰,Black Head X,mhxx-dex-1.0,9
+4737,黑色X面罩,Black Face X,mhxx-dex-1.0,9
+4742,花纹钢X头盔,Damascus Helm X,mhxx-dex-1.0,9
+4747,花纹钢X帽,Damascus Cap X,mhxx-dex-1.0,9
+4752,花纹钢XR头盔,Damascus Helm XR,mhxx-dex-1.0,9
+4757,花纹钢XR帽,Damascus Cap XR,mhxx-dex-1.0,9
+4762,龙王独眼X,Dragonlord's Gaze X,mhxx-dex-1.0,9
+4764,王后扇形头盔,Kaiserin Crown,mhxx-dex-1.0,9
+4769,王后面具,Kaiserin Mask,mhxx-dex-1.0,9
+4774,酒吧主人耳环,Barmaid's Earrings,mhxx-dex-1.0,9
+4779,酒吧主人耳饰,Barmaid's Earring,mhxx-dex-1.0,9
+4784,酒保墨镜,Barman's Shades,mhxx-dex-1.0,9
+4789,酒保眼镜,Barman's Glasses,mhxx-dex-1.0,9
+4794,贝鲁纳花箍,Blooming Bherna,mhxx-dex-1.0,9
+4795,可可特树冠,Verdant Kokoto,mhxx-dex-1.0,9
+4796,波凯雪心,Snowy Pokke,mhxx-dex-1.0,9
+4797,结云暖意,Thermal Yukumo,mhxx-dex-1.0,9
+4798,虚心耳环,Candid Earring,mhxx-dex-1.0,9
+4799,切望耳环,Desire Earring,mhxx-dex-1.0,9
+4800,钢龙X强力,Kushala Glare X,mhxx-dex-1.0,10
+4805,钢龙X围城,Kushala Snarl X,mhxx-dex-1.0,10
+4810,GX钢龙强力,Kushala Glare GX,mhxx-dex-1.0,10
+4815,GX钢龙围城,Kushala Snarl GX,mhxx-dex-1.0,10
+4820,钢龙XR强力,Kushala Glare XR,mhxx-dex-1.0,10
+4825,钢龙XR围城,Kushala Snarl XR,mhxx-dex-1.0,10
+4830,水行真【乌帽子】,Grand Mizuha Cap,mhxx-dex-1.0,10
+4835,丰玉真【乌帽子】,Grand Cham Hat,mhxx-dex-1.0,10
+4840,GX水行【乌帽子】,Mizuha Cap GX,mhxx-dex-1.0,10
+4845,GX丰玉【乌帽子】,Cham Hat GX,mhxx-dex-1.0,10
+4850,帝王X冠,Kaiser Crown X,mhxx-dex-1.0,10
+4855,帝王X面具,Kaiser Mask X,mhxx-dex-1.0,10
+4860,GX帝王冠,Kaiser Crown GX,mhxx-dex-1.0,10
+4865,GX帝王面具,Kaiser Mask GX,mhxx-dex-1.0,10
+4870,银白耀日Z头盔,Silver Solhelm Z,mhxx-dex-1.0,10
+4875,银白耀日Z帽,Silver Solcap Z,mhxx-dex-1.0,10
+4880,GX银白耀日头盔,GX Silver Solhelm,mhxx-dex-1.0,10
+4885,GX银白耀日帽,GX Silver Solcap,mhxx-dex-1.0,10
+4890,银白耀日XR头盔,Silver Solhelm XR,mhxx-dex-1.0,10
+4895,银白耀日XR帽,Silver Solcap XR,mhxx-dex-1.0,10
+4900,金黄澄月Z头盔,Golden Lunehelm Z,mhxx-dex-1.0,10
+4905,金黄澄月Z帽,Golden Lunecap Z,mhxx-dex-1.0,10
+4910,GX金黄澄月头盔,GX Golden Lunehelm,mhxx-dex-1.0,10
+4915,GX金黄澄月帽,GX Golden Lunecap,mhxx-dex-1.0,10
+4920,怒天毛发･真,Grand Divine Ire Mask,mhxx-dex-1.0,10
+4925,心灭面罩･真,Grand Crusher Mask,mhxx-dex-1.0,10
+4930,贪婪Z头盔,Esurient Helm Z,mhxx-dex-1.0,10
+4935,贪婪Z帽,Esurient Cap Z,mhxx-dex-1.0,10
+4940,贪婪XR头盔,Esurient Helm XR,mhxx-dex-1.0,10
+4945,贪婪XR帽,Esurient Cap XR,mhxx-dex-1.0,10
+4950,铁腕头盔,Brachydium Helm,mhxx-dex-1.0,10
+4955,铁腕帽,Brachydium Cap,mhxx-dex-1.0,10
+4960,晓丸【武士盔】,Auroros Helm,mhxx-dex-1.0,10
+4965,曙丸【乌帽子】,Genesis Headpiece,mhxx-dex-1.0,10
+4970,凛【护额】,Borealis Crown,mhxx-dex-1.0,10
+4975,艳【护额】,Glyph Crown,mhxx-dex-1.0,10
+4980,GX晓丸【武士盔】,Auroros Helm GX,mhxx-dex-1.0,10
+4985,GX曙丸【乌帽子】,Genesis Headpiece GX,mhxx-dex-1.0,10
+4990,GX凛【护额】,Borealis Crown GX,mhxx-dex-1.0,10
+4995,GX艳【护额】,Glyph Crown GX,mhxx-dex-1.0,10
+5000,晓丸战流【武士盔】,Auroros Helm XR,mhxx-dex-1.0,10
+5005,曙丸战流【乌帽子】,Genesis Headpiece XR,mhxx-dex-1.0,10
+5010,凛战流【护额】,Borealis Crown XR,mhxx-dex-1.0,10
+5015,艳战流【护额】,Glyph Crown XR,mhxx-dex-1.0,10
+5020,晓丸亚流【武士盔】,Auroros Helm R,mhxx-dex-1.0,10
+5025,曙丸亚流【乌帽子】,Genesis Headpiece R,mhxx-dex-1.0,10
+5030,凛亚流【护额】,Borealis Crown R,mhxx-dex-1.0,10
+5035,艳亚流【护额】,Glyph Crown R,mhxx-dex-1.0,10
+5040,霸龙X削头,Akantor Mask X,mhxx-dex-1.0,10
+5045,霸龙X利牙,Akantor Fangs X,mhxx-dex-1.0,10
+5050,霸龙XR削头,Akantor Mask XR,mhxx-dex-1.0,10
+5055,霸龙XR利牙,Akantor Fangs XR,mhxx-dex-1.0,10
+5060,崩龙X削头,Ukanlos Mask X,mhxx-dex-1.0,10
+5065,崩龙X利牙,Ukanlos Fangs X,mhxx-dex-1.0,10
+5070,荒天･真【冠】,Grand Tempest Crown,mhxx-dex-1.0,10
+5075,苍天･真【冠】,Grand Welkin Crown,mhxx-dex-1.0,10
+5080,荒天战流【冠】,Tempest Crown XR,mhxx-dex-1.0,10
+5085,苍天战流【冠】,Welkin Crown XR,mhxx-dex-1.0,10
+5090,骸装甲･真【头骨】,Grand Skeletal Skull,mhxx-dex-1.0,10
+5095,尸装甲･真【头骨】,Grand Decayed Skull,mhxx-dex-1.0,10
+5100,苍星X头盔,Astral Helm X,mhxx-dex-1.0,10
+5105,苍星X面具,Astral Mask X,mhxx-dex-1.0,10
+5110,王座宝冠,Neset Helm,mhxx-dex-1.0,10
+5115,王座权威,Neset Hat,mhxx-dex-1.0,10
+5120,黑龙头饰,Dragonhead,mhxx-dex-1.0,10
+5125,黑龙面罩,Dragonface,mhxx-dex-1.0,10
+5130,煌黑龙X智慧,Escadora Wisdom X,mhxx-dex-1.0,10
+5135,煌黑龙X睿智,Escadora Sagesse X,mhxx-dex-1.0,10
+5140,煌黑龙XR智慧,Escadora Wisdom XR,mhxx-dex-1.0,10
+5145,煌黑龙XR睿智,Escadora Sagesse XR,mhxx-dex-1.0,10
+5150,红龙头饰,Fatalis Crimsonhead,mhxx-dex-1.0,10
+5155,红龙面罩,Fatalis Crimsonface,mhxx-dex-1.0,10
+5160,GX红龙头饰,GX Fatalis Crimsonhead,mhxx-dex-1.0,10
+5165,GX红龙面罩,GX Fatalis Crimsonface,mhxx-dex-1.0,10
+5170,红龙XR头饰,Fatalis Crimsonhead XR,mhxx-dex-1.0,10
+5175,红龙XR面罩,Fatalis Crimsonface XR,mhxx-dex-1.0,10
+5180,祖龙头饰,Old Fatalis Head,mhxx-dex-1.0,10
+5185,祖龙面罩,Old Fatalis Face,mhxx-dex-1.0,10
+5190,GX祖龙头饰,GX Old Fatalis Head,mhxx-dex-1.0,10
+5195,GX祖龙面罩,GX Old Fatalis Face,mhxx-dex-1.0,10
+5200,异形头盔,Strange Helm,mhxx-dex-1.0,5
+5205,异形帽,Strange Cap,mhxx-dex-1.0,5
+5210,异形X头盔,Strange Helm X,mhxx-dex-1.0,8
+5215,异形X帽,Strange Cap X,mhxx-dex-1.0,8
+5220,红盔头盔,Redhelm Helm,mhxx-dex-1.0,11
+5225,红盔帽,Redhelm Cap,mhxx-dex-1.0,11
+5230,大雪主头盔,Snowbaron Helm,mhxx-dex-1.0,11
+5235,大雪主帽,Snowbaron Cap,mhxx-dex-1.0,11
+5240,矛碎头盔,Stonefist Helm,mhxx-dex-1.0,11
+5245,矛碎帽,Stonefist Cap,mhxx-dex-1.0,11
+5250,紫毒姬头盔,Dreadqueen Helm,mhxx-dex-1.0,11
+5255,紫毒姬帽,Dreadqueen Cap,mhxx-dex-1.0,11
+5260,岩穿头盔,Drilltusk Helm,mhxx-dex-1.0,11
+5265,岩穿帽,Drilltusk Cap,mhxx-dex-1.0,11
+5270,白疾风头盔,Silverwind Helm,mhxx-dex-1.0,11
+5275,白疾风帽,Silverwind Cap,mhxx-dex-1.0,11
+5280,宝缠头盔,Crystalbeard Helm,mhxx-dex-1.0,11
+5285,宝缠帽,Crystalbeard Cap,mhxx-dex-1.0,11
+5290,独眼头盔,Deadeye Helm,mhxx-dex-1.0,11
+5295,独眼帽,Deadeye Cap,mhxx-dex-1.0,11
+5300,黑炎王头盔,Dreadking Helm,mhxx-dex-1.0,11
+5305,黑炎王帽,Dreadking Cap,mhxx-dex-1.0,11
+5310,金雷公头盔,Thunderlord Helm,mhxx-dex-1.0,11
+5315,金雷公帽,Thunderlord Cap,mhxx-dex-1.0,11
+5320,荒钩爪头盔,Grimclaw Helm,mhxx-dex-1.0,11
+5325,荒钩爪帽,Grimclaw Cap,mhxx-dex-1.0,11
+5330,烬灭刃头盔,Hellblade Helm,mhxx-dex-1.0,11
+5335,烬灭刃帽,Hellblade Cap,mhxx-dex-1.0,11
+5340,胧隐头盔,Nightcloak Helm,mhxx-dex-1.0,11
+5345,胧隐帽,Nightcloak Cap,mhxx-dex-1.0,11
+5350,铠裂头盔,Rustrazor Helm,mhxx-dex-1.0,11
+5355,铠裂帽,Rustrazor Cap,mhxx-dex-1.0,11
+5360,天眼头盔,Soulseer Helm,mhxx-dex-1.0,11
+5365,天眼帽,Soulseer Cap,mhxx-dex-1.0,11
+5370,青电主头盔,Boltreaver Helm,mhxx-dex-1.0,11
+5375,青电主帽,Boltreaver Cap,mhxx-dex-1.0,11
+5380,银峰头盔,Elderfrost Helm,mhxx-dex-1.0,11
+5385,银峰帽,Elderfrost Cap,mhxx-dex-1.0,11
+5390,鏖魔头盔,Bloodbath Helm,mhxx-dex-1.0,11
+5395,鏖魔帽,Bloodbath Cap,mhxx-dex-1.0,11
+5400,【日】瑞星【武士盔】,[JP] Promising Helm,mhxx-dex-1.0,3
+5405,【日】景星【武士盔】,[JP] Halcyon Helm,mhxx-dex-1.0,3
+5410,【日】梦视【冠】,[JP] Lucid Crown,mhxx-dex-1.0,3
+5415,【日】梦言【冠】,[JP] Dreamy Crown,mhxx-dex-1.0,3
+5420,【日】烈火【笠】,[JP] Arcfire Kasa,mhxx-dex-1.0,3
+5425,【日】活火【笠】,[JP] Bonfire Kasa,mhxx-dex-1.0,3
+5430,【日】和歌【笠】,[JP] Waka Kasa,mhxx-dex-1.0,3
+5435,【日】和乐【笠】,[JP] Wagaku Kasa,mhxx-dex-1.0,3
+5440,【日】伪蛋蛋头部袜,[JP] Fake Tama Head,mhxx-dex-1.0,3
+5444,【日】伪蛋蛋紧身头,[JP] Fake Tama Head Suit,mhxx-dex-1.0,3
+5448,海盗J帽,Pirate Hat J,mhxx-dex-1.0,6
+5453,海盗J号令,Pirate Roger J,mhxx-dex-1.0,6
+5458,大海盗J帽,Buccaneer Hat J,mhxx-dex-1.0,6
+5463,大海盗J号令,Buccaneer Roger J,mhxx-dex-1.0,6
+5468,潮与虎头饰,Ushio's Cut,mhxx-dex-1.0,7
+5469,潮与虎发型,Ushio's Hair,mhxx-dex-1.0,7
+5470,星灵头盔,Zodias Helm,mhxx-dex-1.0,7
+5475,星灵帽,Zodias Cap,mhxx-dex-1.0,7
+5488,惊涛怒发,Bristling Mane,mhxx-dex-1.0,7
+5491,威慑逆发,Terrifying Mane,mhxx-dex-1.0,7
+5494,王者的拳击护头,Champion's Hair,mhxx-dex-1.0,7
+5499,强者的拳击护头,Strongman's Hair,mhxx-dex-1.0,7
+5504,电衣库宅帽,Dynaqlo Beanie,mhxx-dex-1.0,6
+5509,电衣库耳机,Dynaqlo Headphones,mhxx-dex-1.0,6
+5514,【日】蓝星花宽帽,[JP] Blue Star Lobos,mhxx-dex-1.0,6
+5519,【日】蓝星花帽,[JP] Blue Star Hat,mhxx-dex-1.0,6
+5524,【日】星骑士头盔,[JP] Star Knight Helm,mhxx-dex-1.0,6
+5529,【日】星骑士帽,[JP] Star Knight Cap,mhxx-dex-1.0,6
+5534,【日】星城头盔,[JP] Star Rook Helm,mhxx-dex-1.0,7
+5539,【日】星城帽,[JP] Star Rook Cap,mhxx-dex-1.0,7
+5544,【日】瑞星･霸【武士盔】,[JP] Promising Archhelm,mhxx-dex-1.0,7
+5549,【日】景星･霸【武士盔】,[JP] Halcyon Archhelm,mhxx-dex-1.0,7
+5554,【日】梦视･霸【冠】,[JP] Lucid Miter,mhxx-dex-1.0,7
+5559,【日】梦言･霸【冠】,[JP] Dreamy Miter,mhxx-dex-1.0,7
+5564,【日】烈火･霸【笠】,[JP] Ruler Arcfire Kasa,mhxx-dex-1.0,7
+5569,【日】活火･霸【笠】,[JP] Ruler Bonfire Kasa,mhxx-dex-1.0,7
+5574,【日】和歌･霸【笠】,[JP] Ruler Waka Kasa,mhxx-dex-1.0,7
+5579,【日】和乐･霸【笠】,[JP] Ruler Wagaku Kasa,mhxx-dex-1.0,7
+5584,【日】伪蛋蛋S头部袜,[JP] Fake Tama Head S,mhxx-dex-1.0,4
+5588,【日】伪蛋蛋S紧身头,[JP] Fake Tama Head Suit S,mhxx-dex-1.0,4
+5592,防护服眼罩,Varia Suit Visor,mhxx-dex-1.0,6
+5596,防护服瞄准镜,Varia Suit Scope,mhxx-dex-1.0,6
+5600,零装甲面罩,Zero Suit Ponytail,mhxx-dex-1.0,6
+5604,零装甲面具,Zero Suit Hairpiece,mhxx-dex-1.0,6
+5608,勇者帽,Hero's Hat,mhxx-dex-1.0,7
+5613,勇者头巾,Hero's Cap,mhxx-dex-1.0,7
+5618,星耀领主头带,Lodestar Band,mhxx-dex-1.0,7
+5623,星耀领主发箍,Lodestar Hoop,mhxx-dex-1.0,7
+5628,狂怒头盔,Helm of Rage,mhxx-dex-1.0,7
+5632,狂怒帽,Cap of Rage,mhxx-dex-1.0,7
+5636,女神头盔,Helm of Anat,mhxx-dex-1.0,7
+5640,女神帽,Cap of Anat,mhxx-dex-1.0,7
+5646,墨镜,Shadow Shades,mhxx-dex-1.0,5
+5657,飞龙覆面･天,Hiryu Sky Mask,mhxx-dex-1.0,7
+5662,飞龙覆面･地,Hiryu Land Mask,mhxx-dex-1.0,7
+5667,【日】小杰头发,[JP] Gon Helm,mhxx-dex-1.0,8
+5671,【日】小杰发型,[JP] Gon Cap,mhxx-dex-1.0,8
+5675,犯人头套,Criminal Head,mhxx-dex-1.0,9
+5679,犯人面罩,Criminal Face,mhxx-dex-1.0,9
+5683,【日】烈火･极【笠】,[JP] Supreme Arcfire Kasa,mhxx-dex-1.0,10
+5688,【日】活火･极【笠】,[JP] Supreme Bonfire Kasa,mhxx-dex-1.0,10
+5693,【日】和歌･极【笠】,[JP] Supreme Wagaku Kasa,mhxx-dex-1.0,10
+5698,【日】和乐･极【笠】,[JP] Supreme Wagaku Kasa,mhxx-dex-1.0,10
+5703,黄金骑士【武士盔】,Garo Helm,mhxx-dex-1.0,10
+5708,黄金骑士【头盔】,Garo Head,mhxx-dex-1.0,10
+5713,海利亚发箍,Hylian Hair Tie,mhxx-dex-1.0,10
+5718,海利亚兜帽,Hylian Hood,mhxx-dex-1.0,10

@@ -1,0 +1,10235 @@
+{
+  "decorations": [
+    {
+      "english": "(None)",
+      "id": 0
+    },
+    {
+      "english": "Antidote Jwl 1",
+      "id": 2638
+    },
+    {
+      "english": "Antidote Jwl 2",
+      "id": 2639
+    },
+    {
+      "english": "Paralysis Jwl 1",
+      "id": 2640
+    },
+    {
+      "english": "Paralysis Jwl 2",
+      "id": 2641
+    },
+    {
+      "english": "Pep Jwl 1",
+      "id": 2642
+    },
+    {
+      "english": "Pep Jwl 2",
+      "id": 2643
+    },
+    {
+      "english": "Steadfast Jwl 1",
+      "id": 2644
+    },
+    {
+      "english": "Standfast Jwl 1",
+      "id": 2645
+    },
+    {
+      "english": "Earplug Jwl 1",
+      "id": 2646
+    },
+    {
+      "english": "Earplug Jwl 3",
+      "id": 2647
+    },
+    {
+      "english": "Wind Res Jwl 1",
+      "id": 2648
+    },
+    {
+      "english": "Wind Res Jwl 2",
+      "id": 2649
+    },
+    {
+      "english": "Footing Jwl 1",
+      "id": 2650
+    },
+    {
+      "english": "Tectonic Jwl 1",
+      "id": 2651
+    },
+    {
+      "english": "Bind Jwl 1",
+      "id": 2652
+    },
+    {
+      "english": "Shackle Jwl 1",
+      "id": 2653
+    },
+    {
+      "english": "Heat Res Jwl 1",
+      "id": 2654
+    },
+    {
+      "english": "Cold Res Jwl 1",
+      "id": 2655
+    },
+    {
+      "english": "Polar Jwl 1",
+      "id": 2656
+    },
+    {
+      "english": "Polar Jwl 3",
+      "id": 2657
+    },
+    {
+      "english": "Solar Jwl 1",
+      "id": 2658
+    },
+    {
+      "english": "Solar Jwl 3",
+      "id": 2659
+    },
+    {
+      "english": "Safe Jwl 1",
+      "id": 2660
+    },
+    {
+      "english": "Def Lock Jwl 1",
+      "id": 2661
+    },
+    {
+      "english": "Sane Jwl 1",
+      "id": 2662
+    },
+    {
+      "english": "Sane Jwl 3",
+      "id": 2663
+    },
+    {
+      "english": "Biology Jwl 1",
+      "id": 2664
+    },
+    {
+      "english": "Microbio Jwl 1",
+      "id": 2665
+    },
+    {
+      "english": "Staunch Jwl 1",
+      "id": 2666
+    },
+    {
+      "english": "Attack Jwl 1",
+      "id": 2667
+    },
+    {
+      "english": "Attack Jwl 2",
+      "id": 2668
+    },
+    {
+      "english": "Attack Jwl 3",
+      "id": 2669
+    },
+    {
+      "english": "Defense Jwl 1",
+      "id": 2670
+    },
+    {
+      "english": "Defense Jwl 2",
+      "id": 2671
+    },
+    {
+      "english": "Vitality Jwl 1",
+      "id": 2672
+    },
+    {
+      "english": "Fire Res Jwl 1",
+      "id": 2673
+    },
+    {
+      "english": "Nul-Fire Jwl 1",
+      "id": 2674
+    },
+    {
+      "english": "Water Res Jwl 1",
+      "id": 2675
+    },
+    {
+      "english": "Nul-Water Jwl 1",
+      "id": 2676
+    },
+    {
+      "english": "ThunderRes Jwl 1",
+      "id": 2677
+    },
+    {
+      "english": "Nul-Thundr Jwl 1",
+      "id": 2678
+    },
+    {
+      "english": "Ice Res Jwl 1",
+      "id": 2679
+    },
+    {
+      "english": "Nul-Ice Jwl 1",
+      "id": 2680
+    },
+    {
+      "english": "Dragon Res Jwl 1",
+      "id": 2681
+    },
+    {
+      "english": "Nul-Dragon Jwl 1",
+      "id": 2682
+    },
+    {
+      "english": "Resistor Jwl 1",
+      "id": 2683
+    },
+    {
+      "english": "Resistor Jwl 3",
+      "id": 2684
+    },
+    {
+      "english": "Blaze Jwl 1",
+      "id": 2685
+    },
+    {
+      "english": "Blaze Jwl 2",
+      "id": 2686
+    },
+    {
+      "english": "Stream Jwl 1",
+      "id": 2687
+    },
+    {
+      "english": "Stream Jwl 2",
+      "id": 2688
+    },
+    {
+      "english": "Bolt Jwl 1",
+      "id": 2689
+    },
+    {
+      "english": "Bolt Jwl 2",
+      "id": 2690
+    },
+    {
+      "english": "Frost Jwl 1",
+      "id": 2691
+    },
+    {
+      "english": "Frost Jwl 2",
+      "id": 2692
+    },
+    {
+      "english": "Dragon Jwl 1",
+      "id": 2693
+    },
+    {
+      "english": "Dragon Jwl 2",
+      "id": 2694
+    },
+    {
+      "english": "Element Jwl 1",
+      "id": 2695
+    },
+    {
+      "english": "Element Jwl 3",
+      "id": 2696
+    },
+    {
+      "english": "Disabler Jwl 1",
+      "id": 2697
+    },
+    {
+      "english": "Disabler Jwl 2",
+      "id": 2698
+    },
+    {
+      "english": "Grinder Jwl 1",
+      "id": 2699
+    },
+    {
+      "english": "Handicraft Jwl 1",
+      "id": 2700
+    },
+    {
+      "english": "Handicraft Jwl 3",
+      "id": 2701
+    },
+    {
+      "english": "Razor Jwl 1",
+      "id": 2702
+    },
+    {
+      "english": "Razor Jwl 3",
+      "id": 2703
+    },
+    {
+      "english": "Fencer Jwl 1",
+      "id": 2704
+    },
+    {
+      "english": "Fencer Jwl 3",
+      "id": 2705
+    },
+    {
+      "english": "Sharp Jwl 1",
+      "id": 2706
+    },
+    {
+      "english": "Sharp Jwl 3",
+      "id": 2707
+    },
+    {
+      "english": "Blunt Jwl 1",
+      "id": 2708
+    },
+    {
+      "english": "Blunt Jwl 2",
+      "id": 2709
+    },
+    {
+      "english": "Draw Jwl 1",
+      "id": 2710
+    },
+    {
+      "english": "Draw Jwl 2",
+      "id": 2711
+    },
+    {
+      "english": "Gambit Jwl 1",
+      "id": 2712
+    },
+    {
+      "english": "Gambit Jwl 3",
+      "id": 2713
+    },
+    {
+      "english": "Sheath Jwl 1",
+      "id": 2714
+    },
+    {
+      "english": "Sheath Jwl 2",
+      "id": 2715
+    },
+    {
+      "english": "Sheath Art Jwl 1",
+      "id": 2716
+    },
+    {
+      "english": "Dummy Jwl 1",
+      "id": 2717
+    },
+    {
+      "english": "Dummy Jwl 2",
+      "id": 2718
+    },
+    {
+      "english": "Scalpel Jwl 1",
+      "id": 2719
+    },
+    {
+      "english": "Dummy Jwl 3",
+      "id": 2720
+    },
+    {
+      "english": "Scalpel Jwl 3",
+      "id": 2721
+    },
+    {
+      "english": "Quickload Jwl 1",
+      "id": 2722
+    },
+    {
+      "english": "Quickload Jwl 2",
+      "id": 2723
+    },
+    {
+      "english": "Absorber Jwl 1",
+      "id": 2724
+    },
+    {
+      "english": "Absorber Jwl 3",
+      "id": 2725
+    },
+    {
+      "english": "Sniper Jwl 1",
+      "id": 2726
+    },
+    {
+      "english": "Forceshot Jwl 1",
+      "id": 2727
+    },
+    {
+      "english": "Forceshot Jwl 3",
+      "id": 2728
+    },
+    {
+      "english": "Pierce Jwl 1",
+      "id": 2729
+    },
+    {
+      "english": "Pierce Jwl 3",
+      "id": 2730
+    },
+    {
+      "english": "Pellet Jwl 1",
+      "id": 2731
+    },
+    {
+      "english": "Pellet Jwl 3",
+      "id": 2732
+    },
+    {
+      "english": "Heavyshot Jwl 1",
+      "id": 2733
+    },
+    {
+      "english": "Heavyshot Jwl 3",
+      "id": 2734
+    },
+    {
+      "english": "ShotPlus Jwl 1",
+      "id": 2735
+    },
+    {
+      "english": "ShotPlus Jwl 2",
+      "id": 2736
+    },
+    {
+      "english": "PiercePlus Jwl 1",
+      "id": 2737
+    },
+    {
+      "english": "PelletPlus Jwl 1",
+      "id": 2738
+    },
+    {
+      "english": "CragPlus Jwl 1",
+      "id": 2739
+    },
+    {
+      "english": "ClustPlus Jwl 1",
+      "id": 2740
+    },
+    {
+      "english": "ClustPlus Jwl 3",
+      "id": 2741
+    },
+    {
+      "english": "Poisoncoat Jwl 1",
+      "id": 2742
+    },
+    {
+      "english": "Paracoat Jwl 1",
+      "id": 2743
+    },
+    {
+      "english": "Paracoat Jwl 2",
+      "id": 2744
+    },
+    {
+      "english": "Sleep Jwl 1",
+      "id": 2745
+    },
+    {
+      "english": "Powercoat Jwl 1",
+      "id": 2746
+    },
+    {
+      "english": "Powercoat Jwl 2",
+      "id": 2747
+    },
+    {
+      "english": "Elemcoat Jwl 1",
+      "id": 2748
+    },
+    {
+      "english": "Elemcoat Jwl 2",
+      "id": 2749
+    },
+    {
+      "english": "Rangecoat Jwl 1",
+      "id": 2750
+    },
+    {
+      "english": "Draincoat Jwl 1",
+      "id": 2751
+    },
+    {
+      "english": "Blastcoat Jwl 1",
+      "id": 2752
+    },
+    {
+      "english": "Salvo Jwl 1",
+      "id": 2753
+    },
+    {
+      "english": "Salvo Jwl 3",
+      "id": 2754
+    },
+    {
+      "english": "Precise Jwl 1",
+      "id": 2755
+    },
+    {
+      "english": "Precise Jwl 2",
+      "id": 2756
+    },
+    {
+      "english": "Capacity Jwl 1",
+      "id": 2757
+    },
+    {
+      "english": "Capacity Jwl 3",
+      "id": 2758
+    },
+    {
+      "english": "Irregular Jwl 1",
+      "id": 2759
+    },
+    {
+      "english": "Thrift Jwl 1",
+      "id": 2760
+    },
+    {
+      "english": "Thrift Jwl 2",
+      "id": 2761
+    },
+    {
+      "english": "Expert Jwl 1",
+      "id": 2762
+    },
+    {
+      "english": "Expert Jwl 2",
+      "id": 2763
+    },
+    {
+      "english": "Expert Jwl 3",
+      "id": 2764
+    },
+    {
+      "english": "Tenderizer Jwl 1",
+      "id": 2765
+    },
+    {
+      "english": "Tenderizer Jwl 3",
+      "id": 2766
+    },
+    {
+      "english": "Chain Jwl 1",
+      "id": 2767
+    },
+    {
+      "english": "Chain Jwl 3",
+      "id": 2768
+    },
+    {
+      "english": "Crit Status Jwl 1",
+      "id": 2769
+    },
+    {
+      "english": "Crit Status Jwl 2",
+      "id": 2770
+    },
+    {
+      "english": "CritElementJwl 1",
+      "id": 2771
+    },
+    {
+      "english": "CritElementJwl 2",
+      "id": 2772
+    },
+    {
+      "english": "Critical Jwl 1",
+      "id": 2773
+    },
+    {
+      "english": "Critical Jwl 3",
+      "id": 2774
+    },
+    {
+      "english": "Neg-Crit Jwl 1",
+      "id": 2775
+    },
+    {
+      "english": "Dummy Jwl 4",
+      "id": 2776
+    },
+    {
+      "english": "Neg-Crit Jwl 3",
+      "id": 2777
+    },
+    {
+      "english": "Charger Jwl 1",
+      "id": 2778
+    },
+    {
+      "english": "Charger Jwl 3",
+      "id": 2779
+    },
+    {
+      "english": "Sprinter Jwl 1",
+      "id": 2780
+    },
+    {
+      "english": "Sprinter Jwl 3",
+      "id": 2781
+    },
+    {
+      "english": "Physique Jwl 1",
+      "id": 2782
+    },
+    {
+      "english": "Physique Jwl 2",
+      "id": 2783
+    },
+    {
+      "english": "Refresh Jwl 1",
+      "id": 2784
+    },
+    {
+      "english": "Refresh Jwl 2",
+      "id": 2785
+    },
+    {
+      "english": "Fleet-Footed Jwl 1",
+      "id": 2786
+    },
+    {
+      "english": "Fleet-Footed Jwl 2",
+      "id": 2787
+    },
+    {
+      "english": "Dummy Jwl 5",
+      "id": 2788
+    },
+    {
+      "english": "Evasion Jwl 1",
+      "id": 2789
+    },
+    {
+      "english": "Evasion Jwl 2",
+      "id": 2790
+    },
+    {
+      "english": "Jumping Jwl 1",
+      "id": 2791
+    },
+    {
+      "english": "Jumping Jwl 3",
+      "id": 2792
+    },
+    {
+      "english": "Bubble Jwl 1",
+      "id": 2793
+    },
+    {
+      "english": "Bubble Jwl 3",
+      "id": 2794
+    },
+    {
+      "english": "Ironwall Jwl 1",
+      "id": 2795
+    },
+    {
+      "english": "Ironwall Jwl 2",
+      "id": 2796
+    },
+    {
+      "english": "Shield Jwl 1",
+      "id": 2797
+    },
+    {
+      "english": "Shield Jwl 2",
+      "id": 2798
+    },
+    {
+      "english": "KO Jwl 1",
+      "id": 2799
+    },
+    {
+      "english": "KO Jwl 2",
+      "id": 2800
+    },
+    {
+      "english": "Drain Jwl 1",
+      "id": 2801
+    },
+    {
+      "english": "Drain Jwl 2",
+      "id": 2802
+    },
+    {
+      "english": "Sonorous Jwl 1",
+      "id": 2803
+    },
+    {
+      "english": "Artillery Jwl 1",
+      "id": 2804
+    },
+    {
+      "english": "Destroyer Jwl 1",
+      "id": 2805
+    },
+    {
+      "english": "Destroyer Jwl 3",
+      "id": 2806
+    },
+    {
+      "english": "Bombardier Jwl 1",
+      "id": 2807
+    },
+    {
+      "english": "Throttle Jwl 1",
+      "id": 2808
+    },
+    {
+      "english": "Throttle Jwl 2",
+      "id": 2809
+    },
+    {
+      "english": "Spirit Jwl 1",
+      "id": 2810
+    },
+    {
+      "english": "Spirit Jwl 2",
+      "id": 2811
+    },
+    {
+      "english": "Flawless Jwl 1",
+      "id": 2812
+    },
+    {
+      "english": "Flawless Jwl 2",
+      "id": 2813
+    },
+    {
+      "english": "Favor Jwl 1",
+      "id": 2814
+    },
+    {
+      "english": "Favor Jwl 3",
+      "id": 2815
+    },
+    {
+      "english": "DRG Trait Jwl 1",
+      "id": 2816
+    },
+    {
+      "english": "Dummy Jwl 6",
+      "id": 2817
+    },
+    {
+      "english": "DRG Trait Jwl 3",
+      "id": 2818
+    },
+    {
+      "english": "Potential Jwl 1",
+      "id": 2819
+    },
+    {
+      "english": "Potential Jwl 2",
+      "id": 2820
+    },
+    {
+      "english": "Fortitude Jwl 1",
+      "id": 2821
+    },
+    {
+      "english": "Fortitude Jwl 2",
+      "id": 2822
+    },
+    {
+      "english": "Furor Jwl 1",
+      "id": 2823
+    },
+    {
+      "english": "Furor Jwl 2",
+      "id": 2824
+    },
+    {
+      "english": "Crisis Jwl 1",
+      "id": 2825
+    },
+    {
+      "english": "Crisis Jwl 2",
+      "id": 2826
+    },
+    {
+      "english": "Guts Jwl 1",
+      "id": 2827
+    },
+    {
+      "english": "Guts Jwl 2",
+      "id": 2828
+    },
+    {
+      "english": "Ninja Jwl 1",
+      "id": 2829
+    },
+    {
+      "english": "Player Jwl 1",
+      "id": 2830
+    },
+    {
+      "english": "Morale Jwl 1",
+      "id": 2831
+    },
+    {
+      "english": "Leader Jwl 1",
+      "id": 2832
+    },
+    {
+      "english": "Leader Jwl 2",
+      "id": 2833
+    },
+    {
+      "english": "Rodeo Jwl 1",
+      "id": 2834
+    },
+    {
+      "english": "Flight Jwl 1",
+      "id": 2835
+    },
+    {
+      "english": "Insight Jwl 1",
+      "id": 2836
+    },
+    {
+      "english": "Insight Jwl 3",
+      "id": 2837
+    },
+    {
+      "english": "Proud Jwl 1",
+      "id": 2838
+    },
+    {
+      "english": "Dummy Jwl 7",
+      "id": 2839
+    },
+    {
+      "english": "Dummy Jwl 8",
+      "id": 2840
+    },
+    {
+      "english": "Tech Ext Jwl 1",
+      "id": 2841
+    },
+    {
+      "english": "Tech Ext Jwl 2",
+      "id": 2842
+    },
+    {
+      "english": "Dummy Jwl 9",
+      "id": 2843
+    },
+    {
+      "english": "Psychic Jwl 1",
+      "id": 2844
+    },
+    {
+      "english": "Perception Jwl 1",
+      "id": 2845
+    },
+    {
+      "english": "Ranger Jwl 1",
+      "id": 2846
+    },
+    {
+      "english": "Transportr Jwl 1",
+      "id": 2847
+    },
+    {
+      "english": "Protection Jwl 1",
+      "id": 2848
+    },
+    {
+      "english": "Asylum Jwl 1",
+      "id": 2849
+    },
+    {
+      "english": "Hero Jwl 1",
+      "id": 2850
+    },
+    {
+      "english": "Hero Jwl 3",
+      "id": 2851
+    },
+    {
+      "english": "Medicine Jwl 1",
+      "id": 2852
+    },
+    {
+      "english": "Medicine Jwl 2",
+      "id": 2853
+    },
+    {
+      "english": "Recovery Jwl 1",
+      "id": 2854
+    },
+    {
+      "english": "Recovery Jwl 2",
+      "id": 2855
+    },
+    {
+      "english": "Enduring Jwl 1",
+      "id": 2856
+    },
+    {
+      "english": "Friendship Jwl 1",
+      "id": 2857
+    },
+    {
+      "english": "Friendship Jwl 2",
+      "id": 2858
+    },
+    {
+      "english": "Hungerless Jwl 1",
+      "id": 2859
+    },
+    {
+      "english": "Metabolism Jwl 1",
+      "id": 2860
+    },
+    {
+      "english": "Gobbler Jwl 1",
+      "id": 2861
+    },
+    {
+      "english": "Gobbler Jwl 3",
+      "id": 2862
+    },
+    {
+      "english": "Satiated Jwl 1",
+      "id": 2863
+    },
+    {
+      "english": "Meateater Jwl 1",
+      "id": 2864
+    },
+    {
+      "english": "Meatlover Jwl 1",
+      "id": 2865
+    },
+    {
+      "english": "Fungiform Jwl 1",
+      "id": 2866
+    },
+    {
+      "english": "Grass Jwl 1",
+      "id": 2867
+    },
+    {
+      "english": "Professor Jwl 1",
+      "id": 2868
+    },
+    {
+      "english": "Factory Jwl 1",
+      "id": 2869
+    },
+    {
+      "english": "Trapmaster Jwl 1",
+      "id": 2870
+    },
+    {
+      "english": "Gathering Jwl 1",
+      "id": 2871
+    },
+    {
+      "english": "Honeybee Jwl 1",
+      "id": 2872
+    },
+    {
+      "english": "Queenbee Jwl 1",
+      "id": 2873
+    },
+    {
+      "english": "Charmer Jwl 1",
+      "id": 2874
+    },
+    {
+      "english": "Charmer Jwl 3",
+      "id": 2875
+    },
+    {
+      "english": "Blessing Jwl 1",
+      "id": 2876
+    },
+    {
+      "english": "Fate Jwl 1",
+      "id": 2877
+    },
+    {
+      "english": "Fate Jwl 3",
+      "id": 2878
+    },
+    {
+      "english": "Carver Jwl 1",
+      "id": 2879
+    },
+    {
+      "english": "Carver Jwl 3",
+      "id": 2880
+    },
+    {
+      "english": "Capture Jwl 1",
+      "id": 2881
+    },
+    {
+      "english": "Capture Jwl 3",
+      "id": 2882
+    },
+    {
+      "english": "Bell Jwl 1",
+      "id": 2883
+    },
+    {
+      "english": "Novice Jwl 1",
+      "id": 2884
+    },
+    {
+      "english": "Snowflake Jwl 1",
+      "id": 2885
+    },
+    {
+      "english": "Springs Jwl 1",
+      "id": 2886
+    },
+    {
+      "english": "Wisdom Jwl 1",
+      "id": 2887
+    },
+    {
+      "english": "Sky Tavern Jwl 1",
+      "id": 2888
+    },
+    {
+      "english": "Dummy Jwl 10",
+      "id": 2889
+    },
+    {
+      "english": "Dummy Jwl 11",
+      "id": 2890
+    },
+    {
+      "english": "Dummy Jwl 12",
+      "id": 2891
+    },
+    {
+      "english": "Dummy Jwl 13",
+      "id": 2892
+    },
+    {
+      "english": "Dummy Jwl 14",
+      "id": 2893
+    },
+    {
+      "english": "Dummy Jwl 15",
+      "id": 2894
+    },
+    {
+      "english": "Dummy Jwl 16",
+      "id": 2895
+    },
+    {
+      "english": "Dummy Jwl 17",
+      "id": 2896
+    },
+    {
+      "english": "Dummy Jwl 18",
+      "id": 2897
+    },
+    {
+      "english": "Dummy Jwl 19",
+      "id": 2898
+    },
+    {
+      "english": "Dummy Jwl 20",
+      "id": 2899
+    }
+  ],
+  "format": "mhxx-save-data-crosswalk-v1",
+  "palico": {
+    "basic_moves": [
+      1,
+      9
+    ],
+    "forte_owned_moves": [
+      [
+        31
+      ],
+      [
+        29,
+        6,
+        26
+      ],
+      [
+        30,
+        7,
+        24
+      ],
+      [
+        20,
+        5,
+        24
+      ],
+      [
+        3,
+        5,
+        7
+      ],
+      [
+        12,
+        6,
+        27
+      ],
+      [
+        37,
+        26,
+        27
+      ],
+      [
+        46,
+        47
+      ]
+    ],
+    "forte_owned_skills": [
+      [
+        45,
+        38
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        16,
+        18
+      ],
+      [
+        41,
+        43
+      ],
+      [
+        5,
+        46
+      ],
+      [
+        24,
+        11
+      ],
+      [
+        44,
+        22
+      ],
+      [
+        77,
+        78
+      ]
+    ],
+    "fortes": [
+      {
+        "english": "Charisma",
+        "id": 0
+      },
+      {
+        "english": "Fighting",
+        "id": 1
+      },
+      {
+        "english": "Protection",
+        "id": 2
+      },
+      {
+        "english": "Assisting",
+        "id": 3
+      },
+      {
+        "english": "Healing",
+        "id": 4
+      },
+      {
+        "english": "Bombing",
+        "id": 5
+      },
+      {
+        "english": "Gathering",
+        "id": 6
+      },
+      {
+        "english": "Beast",
+        "id": 7
+      }
+    ],
+    "limits": {
+      "charisma_fixed_move_slots": 3,
+      "max_learned_moves": 10,
+      "max_learned_skills": 8,
+      "other_forte_fixed_move_slots": 4
+    },
+    "move_patterns": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      [
+        3,
+        2,
+        2,
+        2
+      ]
+    ],
+    "skill_patterns": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        2,
+        2,
+        1
+      ]
+    ],
+    "skills": [
+      {
+        "english": "-----",
+        "generation_tier": 0,
+        "id": 0
+      },
+      {
+        "english": "Health Up (S)",
+        "generation_tier": 1,
+        "id": 1
+      },
+      {
+        "english": "Health Up (L)",
+        "generation_tier": 2,
+        "id": 2
+      },
+      {
+        "english": "Attack Up (S)",
+        "generation_tier": 0,
+        "id": 3
+      },
+      {
+        "english": "Attack Up (L)",
+        "generation_tier": 2,
+        "id": 4
+      },
+      {
+        "english": "Defense Up (S)",
+        "generation_tier": 0,
+        "id": 5
+      },
+      {
+        "english": "Defense Up (L)",
+        "generation_tier": 2,
+        "id": 6
+      },
+      {
+        "english": "Omniresistance",
+        "generation_tier": 3,
+        "id": 7
+      },
+      {
+        "english": "Critical Up (S)",
+        "generation_tier": 1,
+        "id": 8
+      },
+      {
+        "english": "Critical Up (L)",
+        "generation_tier": 2,
+        "id": 9
+      },
+      {
+        "english": "Handicraft",
+        "generation_tier": 0,
+        "id": 10
+      },
+      {
+        "english": "Bombay Boost",
+        "generation_tier": 0,
+        "id": 11
+      },
+      {
+        "english": "Element Attack Up",
+        "generation_tier": 3,
+        "id": 12
+      },
+      {
+        "english": "Status Attack Up",
+        "generation_tier": 3,
+        "id": 13
+      },
+      {
+        "english": "Knockout King",
+        "generation_tier": 2,
+        "id": 14
+      },
+      {
+        "english": "Stamina Drain",
+        "generation_tier": 1,
+        "id": 15
+      },
+      {
+        "english": "Guard (S)",
+        "generation_tier": 0,
+        "id": 16
+      },
+      {
+        "english": "Guard (L)",
+        "generation_tier": 2,
+        "id": 17
+      },
+      {
+        "english": "Guard Boost",
+        "generation_tier": 0,
+        "id": 18
+      },
+      {
+        "english": "Support Priority",
+        "generation_tier": 3,
+        "id": 19
+      },
+      {
+        "english": "Support Boost",
+        "generation_tier": 2,
+        "id": 20
+      },
+      {
+        "english": "Support Move +1",
+        "generation_tier": 3,
+        "id": 21
+      },
+      {
+        "english": "Pilfer Boost",
+        "generation_tier": 0,
+        "id": 22
+      },
+      {
+        "english": "Revival Pro",
+        "generation_tier": 3,
+        "id": 23
+      },
+      {
+        "english": "Heat/Bomb Res",
+        "generation_tier": 0,
+        "id": 24
+      },
+      {
+        "english": "Negate Poison",
+        "generation_tier": 1,
+        "id": 25
+      },
+      {
+        "english": "Negate Wind",
+        "generation_tier": 1,
+        "id": 26
+      },
+      {
+        "english": "Negate Paralysis",
+        "generation_tier": 1,
+        "id": 27
+      },
+      {
+        "english": "Negate Stun",
+        "generation_tier": 2,
+        "id": 28
+      },
+      {
+        "english": "Negate Confusion",
+        "generation_tier": 1,
+        "id": 29
+      },
+      {
+        "english": "Tremor Res",
+        "generation_tier": 1,
+        "id": 30
+      },
+      {
+        "english": "Earplugs",
+        "generation_tier": 2,
+        "id": 31
+      },
+      {
+        "english": "Negate Sleep",
+        "generation_tier": 1,
+        "id": 32
+      },
+      {
+        "english": "Biology",
+        "generation_tier": 1,
+        "id": 33
+      },
+      {
+        "english": "Iron Hide",
+        "generation_tier": 1,
+        "id": 34
+      },
+      {
+        "english": "Non-Stick Fur",
+        "generation_tier": 1,
+        "id": 35
+      },
+      {
+        "english": "Nine Lives (Attack)",
+        "generation_tier": 2,
+        "id": 36
+      },
+      {
+        "english": "Nine Lives (Defense)",
+        "generation_tier": 1,
+        "id": 37
+      },
+      {
+        "english": "Last Stand",
+        "generation_tier": 0,
+        "id": 38
+      },
+      {
+        "english": "Anger Prone",
+        "generation_tier": 3,
+        "id": 39
+      },
+      {
+        "english": "Counter Boost",
+        "generation_tier": 2,
+        "id": 40
+      },
+      {
+        "english": "Monsterdar",
+        "generation_tier": 0,
+        "id": 41
+      },
+      {
+        "english": "Boomerang Pro",
+        "generation_tier": 1,
+        "id": 42
+      },
+      {
+        "english": "Pro Trapper",
+        "generation_tier": 0,
+        "id": 43
+      },
+      {
+        "english": "Gathering Pro",
+        "generation_tier": 0,
+        "id": 44
+      },
+      {
+        "english": "Slacker Slap",
+        "generation_tier": 0,
+        "id": 45
+      },
+      {
+        "english": "Health Harmonics",
+        "generation_tier": 0,
+        "id": 46
+      },
+      {
+        "english": "Goldenfish Catcher",
+        "generation_tier": 1,
+        "id": 47
+      },
+      {
+        "english": "Baddest Cat Ever",
+        "generation_tier": 0,
+        "id": 48
+      },
+      {
+        "english": "High Cadence",
+        "generation_tier": 0,
+        "id": 49
+      },
+      {
+        "english": "World's Strongest",
+        "generation_tier": 0,
+        "id": 50
+      },
+      {
+        "english": "Zombie",
+        "generation_tier": 0,
+        "id": 51
+      },
+      {
+        "english": "Desperation",
+        "generation_tier": 0,
+        "id": 52
+      },
+      {
+        "english": "Nagatobimaru",
+        "generation_tier": 0,
+        "id": 53
+      },
+      {
+        "english": "Fanalis",
+        "generation_tier": 0,
+        "id": 54
+      },
+      {
+        "english": "Aera",
+        "generation_tier": 0,
+        "id": 55
+      },
+      {
+        "english": "Ranged Attack Up",
+        "generation_tier": 0,
+        "id": 56
+      },
+      {
+        "english": "Sonic Mini Bombay",
+        "generation_tier": 0,
+        "id": 57
+      },
+      {
+        "english": "Fashion Sense",
+        "generation_tier": 0,
+        "id": 58
+      },
+      {
+        "english": "Universal",
+        "generation_tier": 0,
+        "id": 59
+      },
+      {
+        "english": "Bento Jutsu",
+        "generation_tier": 0,
+        "id": 60
+      },
+      {
+        "english": "Jugido",
+        "generation_tier": 0,
+        "id": 61
+      },
+      {
+        "english": "Diva",
+        "generation_tier": 0,
+        "id": 62
+      },
+      {
+        "english": "Wind Waker",
+        "generation_tier": 0,
+        "id": 63
+      },
+      {
+        "english": "Landmaster",
+        "generation_tier": 0,
+        "id": 64
+      },
+      {
+        "english": "Super Mushroom",
+        "generation_tier": 0,
+        "id": 65
+      },
+      {
+        "english": "Shopkeeping",
+        "generation_tier": 0,
+        "id": 66
+      },
+      {
+        "english": "Triforce",
+        "generation_tier": 0,
+        "id": 67
+      },
+      {
+        "english": "Morph Ball Bomb",
+        "generation_tier": 0,
+        "id": 68
+      },
+      {
+        "english": "Megaflare",
+        "generation_tier": 0,
+        "id": 69
+      },
+      {
+        "english": "DEF-centric",
+        "generation_tier": 0,
+        "id": 70
+      },
+      {
+        "english": "STAM-centric",
+        "generation_tier": 0,
+        "id": 71
+      },
+      {
+        "english": "Fire Res Up",
+        "generation_tier": 0,
+        "id": 72
+      },
+      {
+        "english": "Water Res Up",
+        "generation_tier": 0,
+        "id": 73
+      },
+      {
+        "english": "Thunder Res Up",
+        "generation_tier": 0,
+        "id": 74
+      },
+      {
+        "english": "Ice Res Up",
+        "generation_tier": 0,
+        "id": 75
+      },
+      {
+        "english": "Dragon Res Up",
+        "generation_tier": 0,
+        "id": 76
+      },
+      {
+        "english": "Crit Boost",
+        "generation_tier": 0,
+        "id": 77
+      },
+      {
+        "english": "Recovery Up",
+        "generation_tier": 0,
+        "id": 78
+      },
+      {
+        "english": "Bombercat",
+        "generation_tier": 1,
+        "id": 79
+      },
+      {
+        "english": "Angery",
+        "generation_tier": 2,
+        "id": 80
+      },
+      {
+        "english": "Evasion Up",
+        "generation_tier": 2,
+        "id": 81
+      },
+      {
+        "english": "Trainer",
+        "generation_tier": 0,
+        "id": 82
+      },
+      {
+        "english": "Water Up",
+        "generation_tier": 0,
+        "id": 83
+      },
+      {
+        "english": "Ice Up",
+        "generation_tier": 0,
+        "id": 84
+      },
+      {
+        "english": "Dragon Up",
+        "generation_tier": 0,
+        "id": 85
+      },
+      {
+        "english": "SP Extender",
+        "generation_tier": 0,
+        "id": 86
+      },
+      {
+        "english": "Weakness Exploit",
+        "generation_tier": 0,
+        "id": 87
+      },
+      {
+        "english": "Ground Diver",
+        "generation_tier": 0,
+        "id": 88
+      },
+      {
+        "english": "Moxie",
+        "generation_tier": 0,
+        "id": 89
+      },
+      {
+        "english": "Beastly Cat",
+        "generation_tier": 0,
+        "id": 90
+      },
+      {
+        "english": "Misty Helper",
+        "generation_tier": 0,
+        "id": 91
+      },
+      {
+        "english": "Lucky Protector",
+        "generation_tier": 0,
+        "id": 92
+      },
+      {
+        "english": "Bomb Transporter",
+        "generation_tier": 0,
+        "id": 93
+      },
+      {
+        "english": "Defense Priority",
+        "generation_tier": 0,
+        "id": 94
+      },
+      {
+        "english": "Rolling Boost",
+        "generation_tier": 0,
+        "id": 95
+      },
+      {
+        "english": "NULL [96]",
+        "generation_tier": 0,
+        "id": 96
+      }
+    ],
+    "support_moves": [
+      {
+        "english": "-----",
+        "generation_tier": 0,
+        "id": 0
+      },
+      {
+        "english": "Herb Horn",
+        "generation_tier": 0,
+        "id": 1
+      },
+      {
+        "english": "Health Horn",
+        "generation_tier": 3,
+        "id": 2
+      },
+      {
+        "english": "True Health Horn",
+        "generation_tier": 0,
+        "id": 3
+      },
+      {
+        "english": "Detox Horn",
+        "generation_tier": 2,
+        "id": 4
+      },
+      {
+        "english": "Cheer Horn",
+        "generation_tier": 0,
+        "id": 5
+      },
+      {
+        "english": "Demon Horn",
+        "generation_tier": 0,
+        "id": 6
+      },
+      {
+        "english": "Armor Horn",
+        "generation_tier": 0,
+        "id": 7
+      },
+      {
+        "english": "Ultrasonic Horn",
+        "generation_tier": 1,
+        "id": 8
+      },
+      {
+        "english": "Mini Barrel Bombay",
+        "generation_tier": 0,
+        "id": 9
+      },
+      {
+        "english": "Barrel Bombay",
+        "generation_tier": 1,
+        "id": 10
+      },
+      {
+        "english": "Big Barrel Bombay",
+        "generation_tier": 2,
+        "id": 11
+      },
+      {
+        "english": "Mega Barrel Bombay",
+        "generation_tier": 0,
+        "id": 12
+      },
+      {
+        "english": "Giga Barrel Bombay",
+        "generation_tier": 3,
+        "id": 13
+      },
+      {
+        "english": "Bounce Bombay",
+        "generation_tier": 1,
+        "id": 14
+      },
+      {
+        "english": "Flash Bombay",
+        "generation_tier": 2,
+        "id": 15
+      },
+      {
+        "english": "Anti-Monster Mine",
+        "generation_tier": 2,
+        "id": 16
+      },
+      {
+        "english": "Anti-Monster Mine+",
+        "generation_tier": 3,
+        "id": 17
+      },
+      {
+        "english": "Pitfall Purr-ison",
+        "generation_tier": 3,
+        "id": 18
+      },
+      {
+        "english": "Shock Purr-ison",
+        "generation_tier": 3,
+        "id": 19
+      },
+      {
+        "english": "Poison Purr-ision",
+        "generation_tier": 0,
+        "id": 20
+      },
+      {
+        "english": "Trampoliner",
+        "generation_tier": 2,
+        "id": 21
+      },
+      {
+        "english": "Vase of Vitality",
+        "generation_tier": 2,
+        "id": 22
+      },
+      {
+        "english": "Parting Gift",
+        "generation_tier": 1,
+        "id": 23
+      },
+      {
+        "english": "Emergency Retreat",
+        "generation_tier": 0,
+        "id": 24
+      },
+      {
+        "english": "Big Boomerangs",
+        "generation_tier": 1,
+        "id": 25
+      },
+      {
+        "english": "Piercing Boomerangs",
+        "generation_tier": 0,
+        "id": 26
+      },
+      {
+        "english": "Camoflage",
+        "generation_tier": 0,
+        "id": 27
+      },
+      {
+        "english": "Weapon Upgrade",
+        "generation_tier": 2,
+        "id": 28
+      },
+      {
+        "english": "Furr-ious",
+        "generation_tier": 0,
+        "id": 29
+      },
+      {
+        "english": "Taunt",
+        "generation_tier": 0,
+        "id": 30
+      },
+      {
+        "english": "Palico Rally",
+        "generation_tier": 0,
+        "id": 31
+      },
+      {
+        "english": "Dung Bombay",
+        "generation_tier": 1,
+        "id": 32
+      },
+      {
+        "english": "Go, Fight, Win",
+        "generation_tier": 2,
+        "id": 33
+      },
+      {
+        "english": "Soothing Roll",
+        "generation_tier": 1,
+        "id": 34
+      },
+      {
+        "english": "Explosive Roll",
+        "generation_tier": 1,
+        "id": 35
+      },
+      {
+        "english": "Pilfer",
+        "generation_tier": 3,
+        "id": 36
+      },
+      {
+        "english": "Plundering",
+        "generation_tier": 0,
+        "id": 37
+      },
+      {
+        "english": "Felyne Comet",
+        "generation_tier": 1,
+        "id": 38
+      },
+      {
+        "english": "Claw Dance",
+        "generation_tier": 2,
+        "id": 39
+      },
+      {
+        "english": "Sumo Stomp",
+        "generation_tier": 1,
+        "id": 40
+      },
+      {
+        "english": "Chestnut Cannon",
+        "generation_tier": 1,
+        "id": 41
+      },
+      {
+        "english": "Shock Tripper",
+        "generation_tier": 1,
+        "id": 42
+      },
+      {
+        "english": "Excavator",
+        "generation_tier": 1,
+        "id": 43
+      },
+      {
+        "english": "Mega Boomerang",
+        "generation_tier": 2,
+        "id": 44
+      },
+      {
+        "english": "Rath-of-Meow",
+        "generation_tier": 3,
+        "id": 45
+      },
+      {
+        "english": "Beast Mode",
+        "generation_tier": 0,
+        "id": 46
+      },
+      {
+        "english": "Power Roar",
+        "generation_tier": 0,
+        "id": 47
+      },
+      {
+        "english": "Vase of Recovery",
+        "generation_tier": 1,
+        "id": 48
+      },
+      {
+        "english": "Purr-Caster",
+        "generation_tier": 2,
+        "id": 49
+      },
+      {
+        "english": "Diving Attack",
+        "generation_tier": 1,
+        "id": 50
+      },
+      {
+        "english": "Felyne Cannon",
+        "generation_tier": 1,
+        "id": 51
+      },
+      {
+        "english": "Wrecking Ball",
+        "generation_tier": 1,
+        "id": 52
+      },
+      {
+        "english": "Bombing Ride",
+        "generation_tier": 1,
+        "id": 53
+      },
+      {
+        "english": "Enhanced Horn",
+        "generation_tier": 1,
+        "id": 54
+      },
+      {
+        "english": "SP Horn",
+        "generation_tier": 2,
+        "id": 55
+      },
+      {
+        "english": "Acorn Sacrifice",
+        "generation_tier": 2,
+        "id": 56
+      },
+      {
+        "english": "NULL [57]",
+        "generation_tier": 0,
+        "id": 57
+      }
+    ],
+    "targets": [
+      {
+        "english": "-----",
+        "id": 0
+      },
+      {
+        "english": "Small Only",
+        "id": 1
+      },
+      {
+        "english": "Small First",
+        "id": 2
+      },
+      {
+        "english": "Balanced",
+        "id": 3
+      },
+      {
+        "english": "Big First",
+        "id": 4
+      },
+      {
+        "english": "Big Only",
+        "id": 5
+      }
+    ]
+  },
+  "sources": {
+    "dex_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
+    "game_data_commit": "3e2f9ba421eb4c811003d418f3d489be7bf64bcb",
+    "game_data_origin": "https://github.com/Gicotto/Cotto-MHGU-Editor",
+    "game_data_sha256": "1963b1e9a1a1f2868bb594ef60eb2178bfc08b6c0f3e6e47b13bd8b3a1283d0b"
+  },
+  "talismans": [
+    {
+      "english": "(None)",
+      "id": 0
+    },
+    {
+      "english": "Pawn Talisman",
+      "id": 1
+    },
+    {
+      "english": "Bishop Talisman",
+      "id": 2
+    },
+    {
+      "english": "Knight Talisman",
+      "id": 3
+    },
+    {
+      "english": "Rook Talisman",
+      "id": 4
+    },
+    {
+      "english": "Queen Talisman",
+      "id": 5
+    },
+    {
+      "english": "King Talisman",
+      "id": 6
+    },
+    {
+      "english": "Dragon Talisman",
+      "id": 7
+    },
+    {
+      "english": "Hero Talisman",
+      "id": 8
+    },
+    {
+      "english": "Legend Talisman",
+      "id": 9
+    },
+    {
+      "english": "Creator Talisman",
+      "id": 10
+    }
+  ],
+  "weapons": {
+    "weapon_bow": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 10177,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 10188,
+        "max_level": 7,
+        "save_id": 2
+      },
+      {
+        "dex_id": 10195,
+        "max_level": 7,
+        "save_id": 3
+      },
+      {
+        "dex_id": 10205,
+        "max_level": 8,
+        "save_id": 4
+      },
+      {
+        "dex_id": 10213,
+        "max_level": 8,
+        "save_id": 5
+      },
+      {
+        "dex_id": 10221,
+        "max_level": 8,
+        "save_id": 6
+      },
+      {
+        "dex_id": 10229,
+        "max_level": 5,
+        "save_id": 7
+      },
+      {
+        "dex_id": 10234,
+        "max_level": 7,
+        "save_id": 8
+      },
+      {
+        "dex_id": 10241,
+        "max_level": 9,
+        "save_id": 9
+      },
+      {
+        "dex_id": 10255,
+        "max_level": 7,
+        "save_id": 10
+      },
+      {
+        "dex_id": 10262,
+        "max_level": 8,
+        "save_id": 11
+      },
+      {
+        "dex_id": 10270,
+        "max_level": 6,
+        "save_id": 12
+      },
+      {
+        "dex_id": 10356,
+        "max_level": 11,
+        "save_id": 13
+      },
+      {
+        "dex_id": 10367,
+        "max_level": 6,
+        "save_id": 14
+      },
+      {
+        "dex_id": 10382,
+        "max_level": 6,
+        "save_id": 15
+      },
+      {
+        "dex_id": 10388,
+        "max_level": 7,
+        "save_id": 16
+      },
+      {
+        "dex_id": 10395,
+        "max_level": 7,
+        "save_id": 17
+      },
+      {
+        "dex_id": 10402,
+        "max_level": 8,
+        "save_id": 18
+      },
+      {
+        "dex_id": 10410,
+        "max_level": 6,
+        "save_id": 19
+      },
+      {
+        "dex_id": 10416,
+        "max_level": 6,
+        "save_id": 20
+      },
+      {
+        "dex_id": 10422,
+        "max_level": 6,
+        "save_id": 21
+      },
+      {
+        "dex_id": 10428,
+        "max_level": 7,
+        "save_id": 22
+      },
+      {
+        "dex_id": 10435,
+        "max_level": 5,
+        "save_id": 23
+      },
+      {
+        "dex_id": 10440,
+        "max_level": 6,
+        "save_id": 24
+      },
+      {
+        "dex_id": 10449,
+        "max_level": 8,
+        "save_id": 25
+      },
+      {
+        "dex_id": 10457,
+        "max_level": 5,
+        "save_id": 26
+      },
+      {
+        "dex_id": 10462,
+        "max_level": 5,
+        "save_id": 27
+      },
+      {
+        "dex_id": 10467,
+        "max_level": 7,
+        "save_id": 28
+      },
+      {
+        "dex_id": 10276,
+        "max_level": 11,
+        "save_id": 29
+      },
+      {
+        "dex_id": 10292,
+        "max_level": 6,
+        "save_id": 30
+      },
+      {
+        "dex_id": 10298,
+        "max_level": 8,
+        "save_id": 31
+      },
+      {
+        "dex_id": 10306,
+        "max_level": 5,
+        "save_id": 32
+      },
+      {
+        "dex_id": 10311,
+        "max_level": 5,
+        "save_id": 33
+      },
+      {
+        "dex_id": 10316,
+        "max_level": 7,
+        "save_id": 34
+      },
+      {
+        "dex_id": 10323,
+        "max_level": 7,
+        "save_id": 35
+      },
+      {
+        "dex_id": 10341,
+        "max_level": 8,
+        "save_id": 36
+      },
+      {
+        "dex_id": 10349,
+        "max_level": 7,
+        "save_id": 37
+      },
+      {
+        "dex_id": 10603,
+        "max_level": 8,
+        "save_id": 38
+      },
+      {
+        "dex_id": 10611,
+        "max_level": 5,
+        "save_id": 39
+      },
+      {
+        "dex_id": 10616,
+        "max_level": 5,
+        "save_id": 40
+      },
+      {
+        "dex_id": 10596,
+        "max_level": 7,
+        "save_id": 41
+      },
+      {
+        "dex_id": 10540,
+        "max_level": 7,
+        "save_id": 42
+      },
+      {
+        "dex_id": 10547,
+        "max_level": 7,
+        "save_id": 43
+      },
+      {
+        "dex_id": 10533,
+        "max_level": 7,
+        "save_id": 44
+      },
+      {
+        "dex_id": 10554,
+        "max_level": 7,
+        "save_id": 45
+      },
+      {
+        "dex_id": 10561,
+        "max_level": 6,
+        "save_id": 46
+      },
+      {
+        "dex_id": 10567,
+        "max_level": 6,
+        "save_id": 47
+      },
+      {
+        "dex_id": 10654,
+        "max_level": 5,
+        "save_id": 48
+      },
+      {
+        "dex_id": 10573,
+        "max_level": 6,
+        "save_id": 49
+      },
+      {
+        "dex_id": 10579,
+        "max_level": 6,
+        "save_id": 50
+      },
+      {
+        "dex_id": 10585,
+        "max_level": 5,
+        "save_id": 51
+      },
+      {
+        "dex_id": 10626,
+        "max_level": 5,
+        "save_id": 52
+      },
+      {
+        "dex_id": 10631,
+        "max_level": 5,
+        "save_id": 53
+      },
+      {
+        "dex_id": 10659,
+        "max_level": 5,
+        "save_id": 54
+      },
+      {
+        "dex_id": 10664,
+        "max_level": 5,
+        "save_id": 55
+      },
+      {
+        "dex_id": 10669,
+        "max_level": 5,
+        "save_id": 56
+      },
+      {
+        "dex_id": 10674,
+        "max_level": 5,
+        "save_id": 57
+      },
+      {
+        "dex_id": 10684,
+        "max_level": 5,
+        "save_id": 58
+      },
+      {
+        "dex_id": 10679,
+        "max_level": 5,
+        "save_id": 59
+      },
+      {
+        "dex_id": 10504,
+        "max_level": 7,
+        "save_id": 60
+      },
+      {
+        "dex_id": 10590,
+        "max_level": 6,
+        "save_id": 61
+      },
+      {
+        "dex_id": 10474,
+        "max_level": 8,
+        "save_id": 62
+      },
+      {
+        "dex_id": 10482,
+        "max_level": 6,
+        "save_id": 63
+      },
+      {
+        "dex_id": 10496,
+        "max_level": 8,
+        "save_id": 64
+      },
+      {
+        "dex_id": 10621,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 10488,
+        "max_level": 8,
+        "save_id": 66
+      },
+      {
+        "dex_id": 10511,
+        "max_level": 7,
+        "save_id": 67
+      },
+      {
+        "dex_id": 10518,
+        "max_level": 8,
+        "save_id": 68
+      },
+      {
+        "dex_id": 10526,
+        "max_level": 7,
+        "save_id": 69
+      },
+      {
+        "dex_id": 10722,
+        "max_level": 15,
+        "save_id": 70
+      },
+      {
+        "dex_id": 10737,
+        "max_level": 15,
+        "save_id": 71
+      },
+      {
+        "dex_id": 10752,
+        "max_level": 15,
+        "save_id": 72
+      },
+      {
+        "dex_id": 10767,
+        "max_level": 15,
+        "save_id": 73
+      },
+      {
+        "dex_id": 10782,
+        "max_level": 15,
+        "save_id": 74
+      },
+      {
+        "dex_id": 10797,
+        "max_level": 15,
+        "save_id": 75
+      },
+      {
+        "dex_id": 10812,
+        "max_level": 15,
+        "save_id": 76
+      },
+      {
+        "dex_id": 10827,
+        "max_level": 15,
+        "save_id": 77
+      },
+      {
+        "dex_id": 10842,
+        "max_level": 15,
+        "save_id": 78
+      },
+      {
+        "dex_id": 10857,
+        "max_level": 15,
+        "save_id": 79
+      },
+      {
+        "dex_id": 10872,
+        "max_level": 15,
+        "save_id": 80
+      },
+      {
+        "dex_id": 10641,
+        "max_level": 5,
+        "save_id": 81
+      },
+      {
+        "dex_id": 10710,
+        "max_level": 3,
+        "save_id": 82
+      },
+      {
+        "dex_id": 10689,
+        "max_level": 6,
+        "save_id": 83
+      },
+      {
+        "dex_id": 10897,
+        "max_level": 5,
+        "save_id": 84
+      },
+      {
+        "dex_id": 10892,
+        "max_level": 5,
+        "save_id": 85
+      },
+      {
+        "dex_id": 10902,
+        "max_level": 5,
+        "save_id": 86
+      },
+      {
+        "dex_id": 10907,
+        "max_level": 5,
+        "save_id": 87
+      },
+      {
+        "dex_id": 10887,
+        "max_level": 5,
+        "save_id": 88
+      },
+      {
+        "dex_id": 10707,
+        "max_level": 3,
+        "save_id": 89
+      },
+      {
+        "dex_id": 10713,
+        "max_level": 3,
+        "save_id": 90
+      },
+      {
+        "dex_id": 10716,
+        "max_level": 3,
+        "save_id": 91
+      },
+      {
+        "dex_id": 10719,
+        "max_level": 3,
+        "save_id": 92
+      },
+      {
+        "dex_id": 10446,
+        "max_level": 3,
+        "save_id": 93
+      },
+      {
+        "dex_id": 10704,
+        "max_level": 3,
+        "save_id": 94
+      },
+      {
+        "dex_id": 10287,
+        "max_level": 5,
+        "save_id": 95
+      },
+      {
+        "dex_id": 10335,
+        "max_level": 6,
+        "save_id": 96
+      },
+      {
+        "dex_id": 10250,
+        "max_level": 5,
+        "save_id": 97
+      },
+      {
+        "dex_id": 10373,
+        "max_level": 6,
+        "save_id": 98
+      },
+      {
+        "dex_id": 10379,
+        "max_level": 3,
+        "save_id": 99
+      },
+      {
+        "dex_id": 10330,
+        "max_level": 5,
+        "save_id": 100
+      },
+      {
+        "dex_id": 10202,
+        "max_level": 3,
+        "save_id": 101
+      },
+      {
+        "dex_id": 10636,
+        "max_level": 5,
+        "save_id": 102
+      },
+      {
+        "dex_id": 10698,
+        "max_level": 3,
+        "save_id": 103
+      },
+      {
+        "dex_id": 10701,
+        "max_level": 3,
+        "save_id": 104
+      },
+      {
+        "dex_id": 10695,
+        "max_level": 3,
+        "save_id": 105
+      },
+      {
+        "dex_id": 10646,
+        "max_level": 4,
+        "save_id": 106
+      },
+      {
+        "dex_id": 10650,
+        "max_level": 4,
+        "save_id": 107
+      }
+    ],
+    "weapon_charge_blade": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 7676,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 7708,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 7687,
+        "max_level": 5,
+        "save_id": 3
+      },
+      {
+        "dex_id": 7692,
+        "max_level": 7,
+        "save_id": 4
+      },
+      {
+        "dex_id": 7699,
+        "max_level": 6,
+        "save_id": 5
+      },
+      {
+        "dex_id": 7716,
+        "max_level": 8,
+        "save_id": 6
+      },
+      {
+        "dex_id": 7724,
+        "max_level": 9,
+        "save_id": 7
+      },
+      {
+        "dex_id": 7733,
+        "max_level": 11,
+        "save_id": 8
+      },
+      {
+        "dex_id": 7744,
+        "max_level": 6,
+        "save_id": 9
+      },
+      {
+        "dex_id": 7750,
+        "max_level": 5,
+        "save_id": 10
+      },
+      {
+        "dex_id": 7768,
+        "max_level": 8,
+        "save_id": 11
+      },
+      {
+        "dex_id": 7776,
+        "max_level": 6,
+        "save_id": 12
+      },
+      {
+        "dex_id": 7782,
+        "max_level": 5,
+        "save_id": 13
+      },
+      {
+        "dex_id": 7787,
+        "max_level": 7,
+        "save_id": 14
+      },
+      {
+        "dex_id": 7755,
+        "max_level": 8,
+        "save_id": 15
+      },
+      {
+        "dex_id": 7763,
+        "max_level": 5,
+        "save_id": 16
+      },
+      {
+        "dex_id": 7794,
+        "max_level": 10,
+        "save_id": 17
+      },
+      {
+        "dex_id": 7804,
+        "max_level": 9,
+        "save_id": 18
+      },
+      {
+        "dex_id": 7819,
+        "max_level": 8,
+        "save_id": 19
+      },
+      {
+        "dex_id": 7827,
+        "max_level": 11,
+        "save_id": 20
+      },
+      {
+        "dex_id": 7838,
+        "max_level": 7,
+        "save_id": 21
+      },
+      {
+        "dex_id": 7845,
+        "max_level": 8,
+        "save_id": 22
+      },
+      {
+        "dex_id": 7853,
+        "max_level": 5,
+        "save_id": 23
+      },
+      {
+        "dex_id": 7861,
+        "max_level": 8,
+        "save_id": 24
+      },
+      {
+        "dex_id": 7875,
+        "max_level": 8,
+        "save_id": 25
+      },
+      {
+        "dex_id": 7883,
+        "max_level": 7,
+        "save_id": 26
+      },
+      {
+        "dex_id": 7890,
+        "max_level": 5,
+        "save_id": 27
+      },
+      {
+        "dex_id": 7900,
+        "max_level": 9,
+        "save_id": 28
+      },
+      {
+        "dex_id": 7909,
+        "max_level": 7,
+        "save_id": 29
+      },
+      {
+        "dex_id": 7916,
+        "max_level": 6,
+        "save_id": 30
+      },
+      {
+        "dex_id": 7950,
+        "max_level": 9,
+        "save_id": 31
+      },
+      {
+        "dex_id": 7959,
+        "max_level": 9,
+        "save_id": 32
+      },
+      {
+        "dex_id": 7941,
+        "max_level": 9,
+        "save_id": 33
+      },
+      {
+        "dex_id": 7968,
+        "max_level": 9,
+        "save_id": 34
+      },
+      {
+        "dex_id": 7977,
+        "max_level": 7,
+        "save_id": 35
+      },
+      {
+        "dex_id": 7984,
+        "max_level": 8,
+        "save_id": 36
+      },
+      {
+        "dex_id": 7992,
+        "max_level": 6,
+        "save_id": 37
+      },
+      {
+        "dex_id": 8046,
+        "max_level": 7,
+        "save_id": 38
+      },
+      {
+        "dex_id": 7998,
+        "max_level": 7,
+        "save_id": 39
+      },
+      {
+        "dex_id": 8005,
+        "max_level": 5,
+        "save_id": 40
+      },
+      {
+        "dex_id": 8079,
+        "max_level": 5,
+        "save_id": 41
+      },
+      {
+        "dex_id": 8084,
+        "max_level": 5,
+        "save_id": 42
+      },
+      {
+        "dex_id": 8029,
+        "max_level": 7,
+        "save_id": 43
+      },
+      {
+        "dex_id": 8036,
+        "max_level": 5,
+        "save_id": 44
+      },
+      {
+        "dex_id": 8041,
+        "max_level": 5,
+        "save_id": 45
+      },
+      {
+        "dex_id": 8022,
+        "max_level": 7,
+        "save_id": 46
+      },
+      {
+        "dex_id": 7928,
+        "max_level": 7,
+        "save_id": 47
+      },
+      {
+        "dex_id": 8053,
+        "max_level": 6,
+        "save_id": 48
+      },
+      {
+        "dex_id": 8010,
+        "max_level": 6,
+        "save_id": 49
+      },
+      {
+        "dex_id": 8016,
+        "max_level": 6,
+        "save_id": 50
+      },
+      {
+        "dex_id": 7922,
+        "max_level": 6,
+        "save_id": 51
+      },
+      {
+        "dex_id": 7935,
+        "max_level": 6,
+        "save_id": 52
+      },
+      {
+        "dex_id": 8119,
+        "max_level": 15,
+        "save_id": 53
+      },
+      {
+        "dex_id": 8134,
+        "max_level": 15,
+        "save_id": 54
+      },
+      {
+        "dex_id": 8149,
+        "max_level": 15,
+        "save_id": 55
+      },
+      {
+        "dex_id": 8164,
+        "max_level": 15,
+        "save_id": 56
+      },
+      {
+        "dex_id": 8064,
+        "max_level": 5,
+        "save_id": 57
+      },
+      {
+        "dex_id": 8069,
+        "max_level": 5,
+        "save_id": 58
+      },
+      {
+        "dex_id": -1,
+        "english": "DUMMY",
+        "max_level": 5,
+        "save_id": 59
+      },
+      {
+        "dex_id": 8107,
+        "max_level": 3,
+        "save_id": 60
+      },
+      {
+        "dex_id": 8089,
+        "max_level": 6,
+        "save_id": 61
+      },
+      {
+        "dex_id": 8194,
+        "max_level": 5,
+        "save_id": 62
+      },
+      {
+        "dex_id": 8189,
+        "max_level": 5,
+        "save_id": 63
+      },
+      {
+        "dex_id": 8199,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 8204,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 8184,
+        "max_level": 5,
+        "save_id": 66
+      },
+      {
+        "dex_id": 8179,
+        "max_level": 5,
+        "save_id": 67
+      },
+      {
+        "dex_id": 8104,
+        "max_level": 3,
+        "save_id": 68
+      },
+      {
+        "dex_id": 8113,
+        "max_level": 3,
+        "save_id": 69
+      },
+      {
+        "dex_id": 8116,
+        "max_level": 3,
+        "save_id": 70
+      },
+      {
+        "dex_id": 7705,
+        "max_level": 3,
+        "save_id": 71
+      },
+      {
+        "dex_id": 8101,
+        "max_level": 3,
+        "save_id": 72
+      },
+      {
+        "dex_id": 7895,
+        "max_level": 5,
+        "save_id": 73
+      },
+      {
+        "dex_id": 7813,
+        "max_level": 6,
+        "save_id": 74
+      },
+      {
+        "dex_id": 7869,
+        "max_level": 6,
+        "save_id": 75
+      },
+      {
+        "dex_id": 8110,
+        "max_level": 3,
+        "save_id": 76
+      },
+      {
+        "dex_id": 7858,
+        "max_level": 3,
+        "save_id": 77
+      },
+      {
+        "dex_id": 8059,
+        "max_level": 5,
+        "save_id": 78
+      },
+      {
+        "dex_id": 8098,
+        "max_level": 3,
+        "save_id": 79
+      },
+      {
+        "dex_id": 8095,
+        "max_level": 3,
+        "save_id": 80
+      }
+    ],
+    "weapon_dual_blades": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 2711,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 2727,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 2722,
+        "max_level": 5,
+        "save_id": 3
+      },
+      {
+        "dex_id": 2735,
+        "max_level": 7,
+        "save_id": 4
+      },
+      {
+        "dex_id": 2742,
+        "max_level": 5,
+        "save_id": 5
+      },
+      {
+        "dex_id": 2747,
+        "max_level": 8,
+        "save_id": 6
+      },
+      {
+        "dex_id": 2755,
+        "max_level": 8,
+        "save_id": 7
+      },
+      {
+        "dex_id": 2763,
+        "max_level": 5,
+        "save_id": 8
+      },
+      {
+        "dex_id": 2768,
+        "max_level": 11,
+        "save_id": 9
+      },
+      {
+        "dex_id": 2779,
+        "max_level": 8,
+        "save_id": 10
+      },
+      {
+        "dex_id": 2787,
+        "max_level": 6,
+        "save_id": 11
+      },
+      {
+        "dex_id": 2793,
+        "max_level": 5,
+        "save_id": 12
+      },
+      {
+        "dex_id": 2798,
+        "max_level": 7,
+        "save_id": 13
+      },
+      {
+        "dex_id": 2805,
+        "max_level": 6,
+        "save_id": 14
+      },
+      {
+        "dex_id": 2814,
+        "max_level": 7,
+        "save_id": 15
+      },
+      {
+        "dex_id": 2821,
+        "max_level": 6,
+        "save_id": 16
+      },
+      {
+        "dex_id": 2827,
+        "max_level": 7,
+        "save_id": 17
+      },
+      {
+        "dex_id": 2834,
+        "max_level": 5,
+        "save_id": 18
+      },
+      {
+        "dex_id": 2839,
+        "max_level": 7,
+        "save_id": 19
+      },
+      {
+        "dex_id": 2846,
+        "max_level": 7,
+        "save_id": 20
+      },
+      {
+        "dex_id": 2853,
+        "max_level": 7,
+        "save_id": 21
+      },
+      {
+        "dex_id": 2860,
+        "max_level": 9,
+        "save_id": 22
+      },
+      {
+        "dex_id": 2869,
+        "max_level": 5,
+        "save_id": 23
+      },
+      {
+        "dex_id": 2877,
+        "max_level": 6,
+        "save_id": 24
+      },
+      {
+        "dex_id": 2883,
+        "max_level": 8,
+        "save_id": 25
+      },
+      {
+        "dex_id": 2891,
+        "max_level": 11,
+        "save_id": 26
+      },
+      {
+        "dex_id": 2907,
+        "max_level": 8,
+        "save_id": 27
+      },
+      {
+        "dex_id": 2915,
+        "max_level": 5,
+        "save_id": 28
+      },
+      {
+        "dex_id": 2920,
+        "max_level": 9,
+        "save_id": 29
+      },
+      {
+        "dex_id": 2929,
+        "max_level": 6,
+        "save_id": 30
+      },
+      {
+        "dex_id": 2938,
+        "max_level": 6,
+        "save_id": 31
+      },
+      {
+        "dex_id": 2944,
+        "max_level": 7,
+        "save_id": 32
+      },
+      {
+        "dex_id": 2951,
+        "max_level": 5,
+        "save_id": 33
+      },
+      {
+        "dex_id": 2956,
+        "max_level": 8,
+        "save_id": 34
+      },
+      {
+        "dex_id": 2964,
+        "max_level": 8,
+        "save_id": 35
+      },
+      {
+        "dex_id": 2972,
+        "max_level": 8,
+        "save_id": 36
+      },
+      {
+        "dex_id": 2980,
+        "max_level": 8,
+        "save_id": 37
+      },
+      {
+        "dex_id": 2988,
+        "max_level": 8,
+        "save_id": 38
+      },
+      {
+        "dex_id": 2996,
+        "max_level": 8,
+        "save_id": 39
+      },
+      {
+        "dex_id": 3004,
+        "max_level": 8,
+        "save_id": 40
+      },
+      {
+        "dex_id": 3012,
+        "max_level": 8,
+        "save_id": 41
+      },
+      {
+        "dex_id": 3025,
+        "max_level": 5,
+        "save_id": 42
+      },
+      {
+        "dex_id": 3030,
+        "max_level": 9,
+        "save_id": 43
+      },
+      {
+        "dex_id": 3039,
+        "max_level": 7,
+        "save_id": 44
+      },
+      {
+        "dex_id": 3064,
+        "max_level": 8,
+        "save_id": 45
+      },
+      {
+        "dex_id": 3046,
+        "max_level": 6,
+        "save_id": 46
+      },
+      {
+        "dex_id": 3052,
+        "max_level": 6,
+        "save_id": 47
+      },
+      {
+        "dex_id": 3072,
+        "max_level": 9,
+        "save_id": 48
+      },
+      {
+        "dex_id": 3087,
+        "max_level": 7,
+        "save_id": 49
+      },
+      {
+        "dex_id": 3094,
+        "max_level": 5,
+        "save_id": 50
+      },
+      {
+        "dex_id": 3146,
+        "max_level": 9,
+        "save_id": 51
+      },
+      {
+        "dex_id": 3155,
+        "max_level": 9,
+        "save_id": 52
+      },
+      {
+        "dex_id": 3137,
+        "max_level": 9,
+        "save_id": 53
+      },
+      {
+        "dex_id": 3164,
+        "max_level": 9,
+        "save_id": 54
+      },
+      {
+        "dex_id": 3173,
+        "max_level": 7,
+        "save_id": 55
+      },
+      {
+        "dex_id": 3180,
+        "max_level": 8,
+        "save_id": 56
+      },
+      {
+        "dex_id": 3188,
+        "max_level": 6,
+        "save_id": 57
+      },
+      {
+        "dex_id": 3288,
+        "max_level": 7,
+        "save_id": 58
+      },
+      {
+        "dex_id": 3295,
+        "max_level": 5,
+        "save_id": 59
+      },
+      {
+        "dex_id": 3300,
+        "max_level": 5,
+        "save_id": 60
+      },
+      {
+        "dex_id": 3194,
+        "max_level": 7,
+        "save_id": 61
+      },
+      {
+        "dex_id": 3201,
+        "max_level": 5,
+        "save_id": 62
+      },
+      {
+        "dex_id": 3344,
+        "max_level": 5,
+        "save_id": 63
+      },
+      {
+        "dex_id": 3349,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 3354,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 3260,
+        "max_level": 7,
+        "save_id": 66
+      },
+      {
+        "dex_id": 3267,
+        "max_level": 5,
+        "save_id": 67
+      },
+      {
+        "dex_id": 3272,
+        "max_level": 5,
+        "save_id": 68
+      },
+      {
+        "dex_id": 3241,
+        "max_level": 7,
+        "save_id": 69
+      },
+      {
+        "dex_id": 3099,
+        "max_level": 8,
+        "save_id": 70
+      },
+      {
+        "dex_id": 3107,
+        "max_level": 6,
+        "save_id": 71
+      },
+      {
+        "dex_id": 3235,
+        "max_level": 6,
+        "save_id": 72
+      },
+      {
+        "dex_id": 3248,
+        "max_level": 7,
+        "save_id": 73
+      },
+      {
+        "dex_id": 3282,
+        "max_level": 6,
+        "save_id": 74
+      },
+      {
+        "dex_id": 3229,
+        "max_level": 6,
+        "save_id": 75
+      },
+      {
+        "dex_id": 3124,
+        "max_level": 6,
+        "save_id": 76
+      },
+      {
+        "dex_id": 3213,
+        "max_level": 6,
+        "save_id": 77
+      },
+      {
+        "dex_id": 3224,
+        "max_level": 5,
+        "save_id": 78
+      },
+      {
+        "dex_id": 3219,
+        "max_level": 5,
+        "save_id": 79
+      },
+      {
+        "dex_id": 3113,
+        "max_level": 6,
+        "save_id": 80
+      },
+      {
+        "dex_id": 3119,
+        "max_level": 5,
+        "save_id": 81
+      },
+      {
+        "dex_id": 3206,
+        "max_level": 7,
+        "save_id": 82
+      },
+      {
+        "dex_id": 3255,
+        "max_level": 5,
+        "save_id": 83
+      },
+      {
+        "dex_id": 3335,
+        "max_level": 5,
+        "save_id": 84
+      },
+      {
+        "dex_id": 3277,
+        "max_level": 5,
+        "save_id": 85
+      },
+      {
+        "dex_id": 3130,
+        "max_level": 7,
+        "save_id": 86
+      },
+      {
+        "dex_id": 3395,
+        "max_level": 15,
+        "save_id": 87
+      },
+      {
+        "dex_id": 3410,
+        "max_level": 15,
+        "save_id": 88
+      },
+      {
+        "dex_id": 3425,
+        "max_level": 15,
+        "save_id": 89
+      },
+      {
+        "dex_id": 3440,
+        "max_level": 15,
+        "save_id": 90
+      },
+      {
+        "dex_id": 3455,
+        "max_level": 15,
+        "save_id": 91
+      },
+      {
+        "dex_id": 3470,
+        "max_level": 15,
+        "save_id": 92
+      },
+      {
+        "dex_id": 3485,
+        "max_level": 15,
+        "save_id": 93
+      },
+      {
+        "dex_id": 3500,
+        "max_level": 15,
+        "save_id": 94
+      },
+      {
+        "dex_id": 3515,
+        "max_level": 15,
+        "save_id": 95
+      },
+      {
+        "dex_id": 3310,
+        "max_level": 5,
+        "save_id": 96
+      },
+      {
+        "dex_id": 3315,
+        "max_level": 5,
+        "save_id": 97
+      },
+      {
+        "dex_id": 3320,
+        "max_level": 5,
+        "save_id": 98
+      },
+      {
+        "dex_id": -1,
+        "english": "DUMMY",
+        "max_level": 5,
+        "save_id": 99
+      },
+      {
+        "dex_id": 3330,
+        "max_level": 5,
+        "save_id": 100
+      },
+      {
+        "dex_id": 3386,
+        "max_level": 3,
+        "save_id": 101
+      },
+      {
+        "dex_id": 3359,
+        "max_level": 6,
+        "save_id": 102
+      },
+      {
+        "dex_id": 3540,
+        "max_level": 5,
+        "save_id": 103
+      },
+      {
+        "dex_id": 3535,
+        "max_level": 5,
+        "save_id": 104
+      },
+      {
+        "dex_id": 3545,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 3550,
+        "max_level": 5,
+        "save_id": 106
+      },
+      {
+        "dex_id": 3530,
+        "max_level": 5,
+        "save_id": 107
+      },
+      {
+        "dex_id": 3383,
+        "max_level": 3,
+        "save_id": 108
+      },
+      {
+        "dex_id": 3389,
+        "max_level": 3,
+        "save_id": 109
+      },
+      {
+        "dex_id": 3392,
+        "max_level": 3,
+        "save_id": 110
+      },
+      {
+        "dex_id": 2811,
+        "max_level": 3,
+        "save_id": 111
+      },
+      {
+        "dex_id": 3380,
+        "max_level": 3,
+        "save_id": 112
+      },
+      {
+        "dex_id": 2902,
+        "max_level": 5,
+        "save_id": 113
+      },
+      {
+        "dex_id": 3081,
+        "max_level": 6,
+        "save_id": 114
+      },
+      {
+        "dex_id": 3058,
+        "max_level": 6,
+        "save_id": 115
+      },
+      {
+        "dex_id": 3020,
+        "max_level": 5,
+        "save_id": 116
+      },
+      {
+        "dex_id": 2874,
+        "max_level": 3,
+        "save_id": 117
+      },
+      {
+        "dex_id": 2935,
+        "max_level": 3,
+        "save_id": 118
+      },
+      {
+        "dex_id": 3305,
+        "max_level": 5,
+        "save_id": 119
+      },
+      {
+        "dex_id": 3371,
+        "max_level": 3,
+        "save_id": 120
+      },
+      {
+        "dex_id": 3374,
+        "max_level": 3,
+        "save_id": 121
+      },
+      {
+        "dex_id": 3368,
+        "max_level": 3,
+        "save_id": 122
+      },
+      {
+        "dex_id": 3365,
+        "max_level": 3,
+        "save_id": 123
+      },
+      {
+        "dex_id": 3377,
+        "max_level": 3,
+        "save_id": 124
+      },
+      {
+        "dex_id": 3340,
+        "max_level": 4,
+        "save_id": 125
+      }
+    ],
+    "weapon_great_sword": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 1,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 12,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 20,
+        "max_level": 8,
+        "save_id": 3
+      },
+      {
+        "dex_id": 28,
+        "max_level": 6,
+        "save_id": 4
+      },
+      {
+        "dex_id": 34,
+        "max_level": 5,
+        "save_id": 5
+      },
+      {
+        "dex_id": 39,
+        "max_level": 8,
+        "save_id": 6
+      },
+      {
+        "dex_id": 47,
+        "max_level": 7,
+        "save_id": 7
+      },
+      {
+        "dex_id": 54,
+        "max_level": 9,
+        "save_id": 8
+      },
+      {
+        "dex_id": 63,
+        "max_level": 7,
+        "save_id": 9
+      },
+      {
+        "dex_id": 70,
+        "max_level": 8,
+        "save_id": 10
+      },
+      {
+        "dex_id": 78,
+        "max_level": 11,
+        "save_id": 11
+      },
+      {
+        "dex_id": 89,
+        "max_level": 7,
+        "save_id": 12
+      },
+      {
+        "dex_id": 96,
+        "max_level": 6,
+        "save_id": 13
+      },
+      {
+        "dex_id": 102,
+        "max_level": 7,
+        "save_id": 14
+      },
+      {
+        "dex_id": 109,
+        "max_level": 5,
+        "save_id": 15
+      },
+      {
+        "dex_id": 120,
+        "max_level": 8,
+        "save_id": 16
+      },
+      {
+        "dex_id": 128,
+        "max_level": 5,
+        "save_id": 17
+      },
+      {
+        "dex_id": 133,
+        "max_level": 7,
+        "save_id": 18
+      },
+      {
+        "dex_id": 140,
+        "max_level": 8,
+        "save_id": 19
+      },
+      {
+        "dex_id": 148,
+        "max_level": 9,
+        "save_id": 20
+      },
+      {
+        "dex_id": 157,
+        "max_level": 7,
+        "save_id": 21
+      },
+      {
+        "dex_id": 170,
+        "max_level": 8,
+        "save_id": 22
+      },
+      {
+        "dex_id": 178,
+        "max_level": 8,
+        "save_id": 23
+      },
+      {
+        "dex_id": 186,
+        "max_level": 8,
+        "save_id": 24
+      },
+      {
+        "dex_id": 194,
+        "max_level": 6,
+        "save_id": 25
+      },
+      {
+        "dex_id": 200,
+        "max_level": 11,
+        "save_id": 26
+      },
+      {
+        "dex_id": 211,
+        "max_level": 8,
+        "save_id": 27
+      },
+      {
+        "dex_id": 219,
+        "max_level": 5,
+        "save_id": 28
+      },
+      {
+        "dex_id": 224,
+        "max_level": 7,
+        "save_id": 29
+      },
+      {
+        "dex_id": 231,
+        "max_level": 6,
+        "save_id": 30
+      },
+      {
+        "dex_id": 237,
+        "max_level": 9,
+        "save_id": 31
+      },
+      {
+        "dex_id": 246,
+        "max_level": 6,
+        "save_id": 32
+      },
+      {
+        "dex_id": 257,
+        "max_level": 6,
+        "save_id": 33
+      },
+      {
+        "dex_id": 263,
+        "max_level": 6,
+        "save_id": 34
+      },
+      {
+        "dex_id": 278,
+        "max_level": 8,
+        "save_id": 35
+      },
+      {
+        "dex_id": 316,
+        "max_level": 8,
+        "save_id": 36
+      },
+      {
+        "dex_id": 324,
+        "max_level": 6,
+        "save_id": 37
+      },
+      {
+        "dex_id": 286,
+        "max_level": 7,
+        "save_id": 38
+      },
+      {
+        "dex_id": 293,
+        "max_level": 7,
+        "save_id": 39
+      },
+      {
+        "dex_id": 300,
+        "max_level": 6,
+        "save_id": 40
+      },
+      {
+        "dex_id": 309,
+        "max_level": 7,
+        "save_id": 41
+      },
+      {
+        "dex_id": 357,
+        "max_level": 7,
+        "save_id": 42
+      },
+      {
+        "dex_id": 364,
+        "max_level": 8,
+        "save_id": 43
+      },
+      {
+        "dex_id": 377,
+        "max_level": 9,
+        "save_id": 44
+      },
+      {
+        "dex_id": 333,
+        "max_level": 8,
+        "save_id": 45
+      },
+      {
+        "dex_id": 341,
+        "max_level": 8,
+        "save_id": 46
+      },
+      {
+        "dex_id": 349,
+        "max_level": 8,
+        "save_id": 47
+      },
+      {
+        "dex_id": 386,
+        "max_level": 9,
+        "save_id": 48
+      },
+      {
+        "dex_id": 425,
+        "max_level": 9,
+        "save_id": 49
+      },
+      {
+        "dex_id": 434,
+        "max_level": 9,
+        "save_id": 50
+      },
+      {
+        "dex_id": 443,
+        "max_level": 8,
+        "save_id": 51
+      },
+      {
+        "dex_id": 451,
+        "max_level": 8,
+        "save_id": 52
+      },
+      {
+        "dex_id": 395,
+        "max_level": 9,
+        "save_id": 53
+      },
+      {
+        "dex_id": 404,
+        "max_level": 7,
+        "save_id": 54
+      },
+      {
+        "dex_id": 411,
+        "max_level": 5,
+        "save_id": 55
+      },
+      {
+        "dex_id": 416,
+        "max_level": 9,
+        "save_id": 56
+      },
+      {
+        "dex_id": 538,
+        "max_level": 9,
+        "save_id": 57
+      },
+      {
+        "dex_id": 547,
+        "max_level": 9,
+        "save_id": 58
+      },
+      {
+        "dex_id": 529,
+        "max_level": 9,
+        "save_id": 59
+      },
+      {
+        "dex_id": 556,
+        "max_level": 9,
+        "save_id": 60
+      },
+      {
+        "dex_id": 565,
+        "max_level": 7,
+        "save_id": 61
+      },
+      {
+        "dex_id": 572,
+        "max_level": 8,
+        "save_id": 62
+      },
+      {
+        "dex_id": 580,
+        "max_level": 8,
+        "save_id": 63
+      },
+      {
+        "dex_id": 588,
+        "max_level": 6,
+        "save_id": 64
+      },
+      {
+        "dex_id": 647,
+        "max_level": 6,
+        "save_id": 65
+      },
+      {
+        "dex_id": 653,
+        "max_level": 5,
+        "save_id": 66
+      },
+      {
+        "dex_id": 658,
+        "max_level": 5,
+        "save_id": 67
+      },
+      {
+        "dex_id": 663,
+        "max_level": 5,
+        "save_id": 68
+      },
+      {
+        "dex_id": 594,
+        "max_level": 7,
+        "save_id": 69
+      },
+      {
+        "dex_id": 601,
+        "max_level": 5,
+        "save_id": 70
+      },
+      {
+        "dex_id": 708,
+        "max_level": 5,
+        "save_id": 71
+      },
+      {
+        "dex_id": 713,
+        "max_level": 5,
+        "save_id": 72
+      },
+      {
+        "dex_id": 723,
+        "max_level": 5,
+        "save_id": 73
+      },
+      {
+        "dex_id": 718,
+        "max_level": 5,
+        "save_id": 74
+      },
+      {
+        "dex_id": 473,
+        "max_level": 3,
+        "save_id": 75
+      },
+      {
+        "dex_id": 476,
+        "max_level": 6,
+        "save_id": 76
+      },
+      {
+        "dex_id": 482,
+        "max_level": 6,
+        "save_id": 77
+      },
+      {
+        "dex_id": 630,
+        "max_level": 7,
+        "save_id": 78
+      },
+      {
+        "dex_id": 637,
+        "max_level": 5,
+        "save_id": 79
+      },
+      {
+        "dex_id": 642,
+        "max_level": 5,
+        "save_id": 80
+      },
+      {
+        "dex_id": 494,
+        "max_level": 8,
+        "save_id": 81
+      },
+      {
+        "dex_id": 618,
+        "max_level": 7,
+        "save_id": 82
+      },
+      {
+        "dex_id": 459,
+        "max_level": 8,
+        "save_id": 83
+      },
+      {
+        "dex_id": 467,
+        "max_level": 6,
+        "save_id": 84
+      },
+      {
+        "dex_id": 488,
+        "max_level": 6,
+        "save_id": 85
+      },
+      {
+        "dex_id": 515,
+        "max_level": 7,
+        "save_id": 86
+      },
+      {
+        "dex_id": 668,
+        "max_level": 5,
+        "save_id": 87
+      },
+      {
+        "dex_id": 502,
+        "max_level": 7,
+        "save_id": 88
+      },
+      {
+        "dex_id": 509,
+        "max_level": 6,
+        "save_id": 89
+      },
+      {
+        "dex_id": 606,
+        "max_level": 6,
+        "save_id": 90
+      },
+      {
+        "dex_id": 625,
+        "max_level": 5,
+        "save_id": 91
+      },
+      {
+        "dex_id": 522,
+        "max_level": 7,
+        "save_id": 92
+      },
+      {
+        "dex_id": 612,
+        "max_level": 6,
+        "save_id": 93
+      },
+      {
+        "dex_id": 673,
+        "max_level": 5,
+        "save_id": 94
+      },
+      {
+        "dex_id": 764,
+        "max_level": 15,
+        "save_id": 95
+      },
+      {
+        "dex_id": 779,
+        "max_level": 15,
+        "save_id": 96
+      },
+      {
+        "dex_id": 794,
+        "max_level": 15,
+        "save_id": 97
+      },
+      {
+        "dex_id": 809,
+        "max_level": 15,
+        "save_id": 98
+      },
+      {
+        "dex_id": 824,
+        "max_level": 15,
+        "save_id": 99
+      },
+      {
+        "dex_id": 839,
+        "max_level": 15,
+        "save_id": 100
+      },
+      {
+        "dex_id": 854,
+        "max_level": 15,
+        "save_id": 101
+      },
+      {
+        "dex_id": 869,
+        "max_level": 15,
+        "save_id": 102
+      },
+      {
+        "dex_id": 884,
+        "max_level": 15,
+        "save_id": 103
+      },
+      {
+        "dex_id": 899,
+        "max_level": 15,
+        "save_id": 104
+      },
+      {
+        "dex_id": 914,
+        "max_level": 15,
+        "save_id": 105
+      },
+      {
+        "dex_id": 683,
+        "max_level": 5,
+        "save_id": 106
+      },
+      {
+        "dex_id": 688,
+        "max_level": 5,
+        "save_id": 107
+      },
+      {
+        "dex_id": 693,
+        "max_level": 5,
+        "save_id": 108
+      },
+      {
+        "dex_id": 698,
+        "max_level": 5,
+        "save_id": 109
+      },
+      {
+        "dex_id": 703,
+        "max_level": 5,
+        "save_id": 110
+      },
+      {
+        "dex_id": 755,
+        "max_level": 3,
+        "save_id": 111
+      },
+      {
+        "dex_id": 728,
+        "max_level": 6,
+        "save_id": 112
+      },
+      {
+        "dex_id": 944,
+        "max_level": 5,
+        "save_id": 113
+      },
+      {
+        "dex_id": 939,
+        "max_level": 5,
+        "save_id": 114
+      },
+      {
+        "dex_id": 949,
+        "max_level": 5,
+        "save_id": 115
+      },
+      {
+        "dex_id": 954,
+        "max_level": 5,
+        "save_id": 116
+      },
+      {
+        "dex_id": 934,
+        "max_level": 5,
+        "save_id": 117
+      },
+      {
+        "dex_id": 929,
+        "max_level": 5,
+        "save_id": 118
+      },
+      {
+        "dex_id": 752,
+        "max_level": 3,
+        "save_id": 119
+      },
+      {
+        "dex_id": 758,
+        "max_level": 3,
+        "save_id": 120
+      },
+      {
+        "dex_id": 761,
+        "max_level": 3,
+        "save_id": 121
+      },
+      {
+        "dex_id": 306,
+        "max_level": 3,
+        "save_id": 122
+      },
+      {
+        "dex_id": 749,
+        "max_level": 3,
+        "save_id": 123
+      },
+      {
+        "dex_id": 252,
+        "max_level": 5,
+        "save_id": 124
+      },
+      {
+        "dex_id": 372,
+        "max_level": 5,
+        "save_id": 125
+      },
+      {
+        "dex_id": 164,
+        "max_level": 6,
+        "save_id": 126
+      },
+      {
+        "dex_id": 269,
+        "max_level": 6,
+        "save_id": 127
+      },
+      {
+        "dex_id": 275,
+        "max_level": 3,
+        "save_id": 128
+      },
+      {
+        "dex_id": 330,
+        "max_level": 3,
+        "save_id": 129
+      },
+      {
+        "dex_id": 678,
+        "max_level": 5,
+        "save_id": 130
+      },
+      {
+        "dex_id": 740,
+        "max_level": 3,
+        "save_id": 131
+      },
+      {
+        "dex_id": 737,
+        "max_level": 3,
+        "save_id": 132
+      },
+      {
+        "dex_id": 734,
+        "max_level": 3,
+        "save_id": 133
+      },
+      {
+        "dex_id": 114,
+        "max_level": 6,
+        "save_id": 134
+      },
+      {
+        "dex_id": 743,
+        "max_level": 3,
+        "save_id": 135
+      },
+      {
+        "dex_id": 746,
+        "max_level": 3,
+        "save_id": 136
+      }
+    ],
+    "weapon_gunlance": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 6098,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 6114,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 6122,
+        "max_level": 9,
+        "save_id": 3
+      },
+      {
+        "dex_id": 6131,
+        "max_level": 8,
+        "save_id": 4
+      },
+      {
+        "dex_id": 6139,
+        "max_level": 7,
+        "save_id": 5
+      },
+      {
+        "dex_id": 6146,
+        "max_level": 8,
+        "save_id": 6
+      },
+      {
+        "dex_id": 6154,
+        "max_level": 5,
+        "save_id": 7
+      },
+      {
+        "dex_id": 6159,
+        "max_level": 6,
+        "save_id": 8
+      },
+      {
+        "dex_id": 6165,
+        "max_level": 5,
+        "save_id": 9
+      },
+      {
+        "dex_id": 6170,
+        "max_level": 8,
+        "save_id": 10
+      },
+      {
+        "dex_id": 6186,
+        "max_level": 6,
+        "save_id": 11
+      },
+      {
+        "dex_id": 6178,
+        "max_level": 5,
+        "save_id": 12
+      },
+      {
+        "dex_id": 6192,
+        "max_level": 11,
+        "save_id": 13
+      },
+      {
+        "dex_id": 6203,
+        "max_level": 6,
+        "save_id": 14
+      },
+      {
+        "dex_id": 6209,
+        "max_level": 5,
+        "save_id": 15
+      },
+      {
+        "dex_id": 6214,
+        "max_level": 7,
+        "save_id": 16
+      },
+      {
+        "dex_id": 6221,
+        "max_level": 6,
+        "save_id": 17
+      },
+      {
+        "dex_id": 6227,
+        "max_level": 8,
+        "save_id": 18
+      },
+      {
+        "dex_id": 6235,
+        "max_level": 7,
+        "save_id": 19
+      },
+      {
+        "dex_id": 6253,
+        "max_level": 8,
+        "save_id": 20
+      },
+      {
+        "dex_id": 6261,
+        "max_level": 5,
+        "save_id": 21
+      },
+      {
+        "dex_id": 6269,
+        "max_level": 8,
+        "save_id": 22
+      },
+      {
+        "dex_id": 6277,
+        "max_level": 7,
+        "save_id": 23
+      },
+      {
+        "dex_id": 6284,
+        "max_level": 6,
+        "save_id": 24
+      },
+      {
+        "dex_id": 6293,
+        "max_level": 7,
+        "save_id": 25
+      },
+      {
+        "dex_id": 6305,
+        "max_level": 8,
+        "save_id": 26
+      },
+      {
+        "dex_id": 6313,
+        "max_level": 10,
+        "save_id": 27
+      },
+      {
+        "dex_id": 6323,
+        "max_level": 7,
+        "save_id": 28
+      },
+      {
+        "dex_id": 6330,
+        "max_level": 9,
+        "save_id": 29
+      },
+      {
+        "dex_id": 6339,
+        "max_level": 11,
+        "save_id": 30
+      },
+      {
+        "dex_id": 6350,
+        "max_level": 6,
+        "save_id": 31
+      },
+      {
+        "dex_id": 6356,
+        "max_level": 5,
+        "save_id": 32
+      },
+      {
+        "dex_id": 6361,
+        "max_level": 7,
+        "save_id": 33
+      },
+      {
+        "dex_id": 6368,
+        "max_level": 8,
+        "save_id": 34
+      },
+      {
+        "dex_id": 6376,
+        "max_level": 5,
+        "save_id": 35
+      },
+      {
+        "dex_id": 6381,
+        "max_level": 7,
+        "save_id": 36
+      },
+      {
+        "dex_id": 6388,
+        "max_level": 7,
+        "save_id": 37
+      },
+      {
+        "dex_id": 6395,
+        "max_level": 8,
+        "save_id": 38
+      },
+      {
+        "dex_id": 6411,
+        "max_level": 8,
+        "save_id": 39
+      },
+      {
+        "dex_id": 6419,
+        "max_level": 7,
+        "save_id": 40
+      },
+      {
+        "dex_id": 6426,
+        "max_level": 5,
+        "save_id": 41
+      },
+      {
+        "dex_id": 6431,
+        "max_level": 8,
+        "save_id": 42
+      },
+      {
+        "dex_id": 6439,
+        "max_level": 8,
+        "save_id": 43
+      },
+      {
+        "dex_id": 6447,
+        "max_level": 9,
+        "save_id": 44
+      },
+      {
+        "dex_id": 6477,
+        "max_level": 8,
+        "save_id": 45
+      },
+      {
+        "dex_id": 6485,
+        "max_level": 8,
+        "save_id": 46
+      },
+      {
+        "dex_id": 6456,
+        "max_level": 6,
+        "save_id": 47
+      },
+      {
+        "dex_id": 6462,
+        "max_level": 6,
+        "save_id": 48
+      },
+      {
+        "dex_id": 6541,
+        "max_level": 9,
+        "save_id": 49
+      },
+      {
+        "dex_id": 6550,
+        "max_level": 9,
+        "save_id": 50
+      },
+      {
+        "dex_id": 6532,
+        "max_level": 9,
+        "save_id": 51
+      },
+      {
+        "dex_id": 6559,
+        "max_level": 9,
+        "save_id": 52
+      },
+      {
+        "dex_id": 6568,
+        "max_level": 7,
+        "save_id": 53
+      },
+      {
+        "dex_id": 6575,
+        "max_level": 8,
+        "save_id": 54
+      },
+      {
+        "dex_id": 6583,
+        "max_level": 6,
+        "save_id": 55
+      },
+      {
+        "dex_id": 6642,
+        "max_level": 5,
+        "save_id": 56
+      },
+      {
+        "dex_id": 6647,
+        "max_level": 5,
+        "save_id": 57
+      },
+      {
+        "dex_id": 6589,
+        "max_level": 7,
+        "save_id": 58
+      },
+      {
+        "dex_id": 6596,
+        "max_level": 5,
+        "save_id": 59
+      },
+      {
+        "dex_id": 6678,
+        "max_level": 5,
+        "save_id": 60
+      },
+      {
+        "dex_id": 6683,
+        "max_level": 5,
+        "save_id": 61
+      },
+      {
+        "dex_id": 6688,
+        "max_level": 5,
+        "save_id": 62
+      },
+      {
+        "dex_id": 6620,
+        "max_level": 7,
+        "save_id": 63
+      },
+      {
+        "dex_id": 6627,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 6632,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 6613,
+        "max_level": 7,
+        "save_id": 66
+      },
+      {
+        "dex_id": 6493,
+        "max_level": 8,
+        "save_id": 67
+      },
+      {
+        "dex_id": 6501,
+        "max_level": 6,
+        "save_id": 68
+      },
+      {
+        "dex_id": 6513,
+        "max_level": 7,
+        "save_id": 69
+      },
+      {
+        "dex_id": 6607,
+        "max_level": 6,
+        "save_id": 70
+      },
+      {
+        "dex_id": 6652,
+        "max_level": 6,
+        "save_id": 71
+      },
+      {
+        "dex_id": 6520,
+        "max_level": 6,
+        "save_id": 72
+      },
+      {
+        "dex_id": 6637,
+        "max_level": 5,
+        "save_id": 73
+      },
+      {
+        "dex_id": 6507,
+        "max_level": 6,
+        "save_id": 74
+      },
+      {
+        "dex_id": 6601,
+        "max_level": 6,
+        "save_id": 75
+      },
+      {
+        "dex_id": 6526,
+        "max_level": 6,
+        "save_id": 76
+      },
+      {
+        "dex_id": 6717,
+        "max_level": 15,
+        "save_id": 77
+      },
+      {
+        "dex_id": 6732,
+        "max_level": 15,
+        "save_id": 78
+      },
+      {
+        "dex_id": 6747,
+        "max_level": 15,
+        "save_id": 79
+      },
+      {
+        "dex_id": 6762,
+        "max_level": 15,
+        "save_id": 80
+      },
+      {
+        "dex_id": 6777,
+        "max_level": 15,
+        "save_id": 81
+      },
+      {
+        "dex_id": 6792,
+        "max_level": 15,
+        "save_id": 82
+      },
+      {
+        "dex_id": 6807,
+        "max_level": 15,
+        "save_id": 83
+      },
+      {
+        "dex_id": 6822,
+        "max_level": 15,
+        "save_id": 84
+      },
+      {
+        "dex_id": 6837,
+        "max_level": 15,
+        "save_id": 85
+      },
+      {
+        "dex_id": 6852,
+        "max_level": 15,
+        "save_id": 86
+      },
+      {
+        "dex_id": 6867,
+        "max_level": 15,
+        "save_id": 87
+      },
+      {
+        "dex_id": 6663,
+        "max_level": 5,
+        "save_id": 88
+      },
+      {
+        "dex_id": 6668,
+        "max_level": 5,
+        "save_id": 89
+      },
+      {
+        "dex_id": 6673,
+        "max_level": 5,
+        "save_id": 90
+      },
+      {
+        "dex_id": 6708,
+        "max_level": 3,
+        "save_id": 91
+      },
+      {
+        "dex_id": 6693,
+        "max_level": 6,
+        "save_id": 92
+      },
+      {
+        "dex_id": 6892,
+        "max_level": 5,
+        "save_id": 93
+      },
+      {
+        "dex_id": 6887,
+        "max_level": 5,
+        "save_id": 94
+      },
+      {
+        "dex_id": 6897,
+        "max_level": 5,
+        "save_id": 95
+      },
+      {
+        "dex_id": 6902,
+        "max_level": 5,
+        "save_id": 96
+      },
+      {
+        "dex_id": 6882,
+        "max_level": 5,
+        "save_id": 97
+      },
+      {
+        "dex_id": 6711,
+        "max_level": 3,
+        "save_id": 98
+      },
+      {
+        "dex_id": 6714,
+        "max_level": 3,
+        "save_id": 99
+      },
+      {
+        "dex_id": 6290,
+        "max_level": 3,
+        "save_id": 100
+      },
+      {
+        "dex_id": 6705,
+        "max_level": 3,
+        "save_id": 101
+      },
+      {
+        "dex_id": 6109,
+        "max_level": 5,
+        "save_id": 102
+      },
+      {
+        "dex_id": 6242,
+        "max_level": 5,
+        "save_id": 103
+      },
+      {
+        "dex_id": 6247,
+        "max_level": 6,
+        "save_id": 104
+      },
+      {
+        "dex_id": 6403,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 6408,
+        "max_level": 3,
+        "save_id": 106
+      },
+      {
+        "dex_id": 6468,
+        "max_level": 6,
+        "save_id": 107
+      },
+      {
+        "dex_id": 6474,
+        "max_level": 3,
+        "save_id": 108
+      },
+      {
+        "dex_id": 6300,
+        "max_level": 5,
+        "save_id": 109
+      },
+      {
+        "dex_id": 6183,
+        "max_level": 3,
+        "save_id": 110
+      },
+      {
+        "dex_id": 6266,
+        "max_level": 3,
+        "save_id": 111
+      },
+      {
+        "dex_id": 6658,
+        "max_level": 5,
+        "save_id": 112
+      },
+      {
+        "dex_id": 6702,
+        "max_level": 3,
+        "save_id": 113
+      },
+      {
+        "dex_id": 6699,
+        "max_level": 3,
+        "save_id": 114
+      }
+    ],
+    "weapon_hammer": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 3555,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 3582,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 3566,
+        "max_level": 6,
+        "save_id": 3
+      },
+      {
+        "dex_id": 3590,
+        "max_level": 7,
+        "save_id": 4
+      },
+      {
+        "dex_id": 3597,
+        "max_level": 8,
+        "save_id": 5
+      },
+      {
+        "dex_id": 3605,
+        "max_level": 7,
+        "save_id": 6
+      },
+      {
+        "dex_id": 3612,
+        "max_level": 7,
+        "save_id": 7
+      },
+      {
+        "dex_id": 3619,
+        "max_level": 11,
+        "save_id": 8
+      },
+      {
+        "dex_id": 3630,
+        "max_level": 7,
+        "save_id": 9
+      },
+      {
+        "dex_id": 3643,
+        "max_level": 8,
+        "save_id": 10
+      },
+      {
+        "dex_id": 3654,
+        "max_level": 7,
+        "save_id": 11
+      },
+      {
+        "dex_id": 3661,
+        "max_level": 5,
+        "save_id": 12
+      },
+      {
+        "dex_id": 3666,
+        "max_level": 8,
+        "save_id": 13
+      },
+      {
+        "dex_id": 3674,
+        "max_level": 9,
+        "save_id": 14
+      },
+      {
+        "dex_id": 3683,
+        "max_level": 5,
+        "save_id": 15
+      },
+      {
+        "dex_id": 3688,
+        "max_level": 6,
+        "save_id": 16
+      },
+      {
+        "dex_id": 3694,
+        "max_level": 6,
+        "save_id": 17
+      },
+      {
+        "dex_id": 3700,
+        "max_level": 5,
+        "save_id": 18
+      },
+      {
+        "dex_id": 3705,
+        "max_level": 8,
+        "save_id": 19
+      },
+      {
+        "dex_id": 3713,
+        "max_level": 5,
+        "save_id": 20
+      },
+      {
+        "dex_id": 3718,
+        "max_level": 10,
+        "save_id": 21
+      },
+      {
+        "dex_id": 3728,
+        "max_level": 7,
+        "save_id": 22
+      },
+      {
+        "dex_id": 3735,
+        "max_level": 6,
+        "save_id": 23
+      },
+      {
+        "dex_id": 3749,
+        "max_level": 7,
+        "save_id": 24
+      },
+      {
+        "dex_id": 3756,
+        "max_level": 11,
+        "save_id": 25
+      },
+      {
+        "dex_id": 3767,
+        "max_level": 7,
+        "save_id": 26
+      },
+      {
+        "dex_id": 3774,
+        "max_level": 8,
+        "save_id": 27
+      },
+      {
+        "dex_id": 3782,
+        "max_level": 7,
+        "save_id": 28
+      },
+      {
+        "dex_id": 3789,
+        "max_level": 6,
+        "save_id": 29
+      },
+      {
+        "dex_id": 3798,
+        "max_level": 9,
+        "save_id": 30
+      },
+      {
+        "dex_id": 3807,
+        "max_level": 7,
+        "save_id": 31
+      },
+      {
+        "dex_id": 3814,
+        "max_level": 6,
+        "save_id": 32
+      },
+      {
+        "dex_id": 3820,
+        "max_level": 8,
+        "save_id": 33
+      },
+      {
+        "dex_id": 3828,
+        "max_level": 5,
+        "save_id": 34
+      },
+      {
+        "dex_id": 3844,
+        "max_level": 8,
+        "save_id": 35
+      },
+      {
+        "dex_id": 3852,
+        "max_level": 7,
+        "save_id": 36
+      },
+      {
+        "dex_id": 3859,
+        "max_level": 7,
+        "save_id": 37
+      },
+      {
+        "dex_id": 3866,
+        "max_level": 9,
+        "save_id": 38
+      },
+      {
+        "dex_id": 3875,
+        "max_level": 6,
+        "save_id": 39
+      },
+      {
+        "dex_id": 3881,
+        "max_level": 6,
+        "save_id": 40
+      },
+      {
+        "dex_id": 3887,
+        "max_level": 8,
+        "save_id": 41
+      },
+      {
+        "dex_id": 3895,
+        "max_level": 7,
+        "save_id": 42
+      },
+      {
+        "dex_id": 3902,
+        "max_level": 8,
+        "save_id": 43
+      },
+      {
+        "dex_id": 3910,
+        "max_level": 8,
+        "save_id": 44
+      },
+      {
+        "dex_id": 3918,
+        "max_level": 9,
+        "save_id": 45
+      },
+      {
+        "dex_id": 3927,
+        "max_level": 7,
+        "save_id": 46
+      },
+      {
+        "dex_id": 3934,
+        "max_level": 7,
+        "save_id": 47
+      },
+      {
+        "dex_id": 3941,
+        "max_level": 7,
+        "save_id": 48
+      },
+      {
+        "dex_id": 3953,
+        "max_level": 8,
+        "save_id": 49
+      },
+      {
+        "dex_id": 3961,
+        "max_level": 5,
+        "save_id": 50
+      },
+      {
+        "dex_id": 3966,
+        "max_level": 8,
+        "save_id": 51
+      },
+      {
+        "dex_id": 3974,
+        "max_level": 9,
+        "save_id": 52
+      },
+      {
+        "dex_id": 3983,
+        "max_level": 7,
+        "save_id": 53
+      },
+      {
+        "dex_id": 3990,
+        "max_level": 6,
+        "save_id": 54
+      },
+      {
+        "dex_id": 3996,
+        "max_level": 8,
+        "save_id": 55
+      },
+      {
+        "dex_id": 4091,
+        "max_level": 9,
+        "save_id": 56
+      },
+      {
+        "dex_id": 4100,
+        "max_level": 9,
+        "save_id": 57
+      },
+      {
+        "dex_id": 4082,
+        "max_level": 9,
+        "save_id": 58
+      },
+      {
+        "dex_id": 4109,
+        "max_level": 9,
+        "save_id": 59
+      },
+      {
+        "dex_id": 4118,
+        "max_level": 7,
+        "save_id": 60
+      },
+      {
+        "dex_id": 4125,
+        "max_level": 8,
+        "save_id": 61
+      },
+      {
+        "dex_id": 4133,
+        "max_level": 6,
+        "save_id": 62
+      },
+      {
+        "dex_id": 4203,
+        "max_level": 5,
+        "save_id": 63
+      },
+      {
+        "dex_id": 4208,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 4139,
+        "max_level": 7,
+        "save_id": 65
+      },
+      {
+        "dex_id": 4146,
+        "max_level": 5,
+        "save_id": 66
+      },
+      {
+        "dex_id": 4258,
+        "max_level": 5,
+        "save_id": 67
+      },
+      {
+        "dex_id": 4268,
+        "max_level": 5,
+        "save_id": 68
+      },
+      {
+        "dex_id": 4263,
+        "max_level": 5,
+        "save_id": 69
+      },
+      {
+        "dex_id": 4018,
+        "max_level": 3,
+        "save_id": 70
+      },
+      {
+        "dex_id": 4021,
+        "max_level": 5,
+        "save_id": 71
+      },
+      {
+        "dex_id": 4026,
+        "max_level": 6,
+        "save_id": 72
+      },
+      {
+        "dex_id": 4181,
+        "max_level": 7,
+        "save_id": 73
+      },
+      {
+        "dex_id": 4188,
+        "max_level": 5,
+        "save_id": 74
+      },
+      {
+        "dex_id": 4193,
+        "max_level": 5,
+        "save_id": 75
+      },
+      {
+        "dex_id": 4063,
+        "max_level": 8,
+        "save_id": 76
+      },
+      {
+        "dex_id": 4174,
+        "max_level": 7,
+        "save_id": 77
+      },
+      {
+        "dex_id": 4004,
+        "max_level": 8,
+        "save_id": 78
+      },
+      {
+        "dex_id": 4012,
+        "max_level": 6,
+        "save_id": 79
+      },
+      {
+        "dex_id": 4057,
+        "max_level": 6,
+        "save_id": 80
+      },
+      {
+        "dex_id": 4151,
+        "max_level": 5,
+        "save_id": 81
+      },
+      {
+        "dex_id": 4198,
+        "max_level": 5,
+        "save_id": 82
+      },
+      {
+        "dex_id": 4032,
+        "max_level": 6,
+        "save_id": 83
+      },
+      {
+        "dex_id": 4038,
+        "max_level": 6,
+        "save_id": 84
+      },
+      {
+        "dex_id": 4044,
+        "max_level": 6,
+        "save_id": 85
+      },
+      {
+        "dex_id": 4050,
+        "max_level": 7,
+        "save_id": 86
+      },
+      {
+        "dex_id": 4253,
+        "max_level": 5,
+        "save_id": 87
+      },
+      {
+        "dex_id": 4213,
+        "max_level": 5,
+        "save_id": 88
+      },
+      {
+        "dex_id": 4218,
+        "max_level": 5,
+        "save_id": 89
+      },
+      {
+        "dex_id": 4223,
+        "max_level": 5,
+        "save_id": 90
+      },
+      {
+        "dex_id": 4071,
+        "max_level": 6,
+        "save_id": 91
+      },
+      {
+        "dex_id": 4077,
+        "max_level": 5,
+        "save_id": 92
+      },
+      {
+        "dex_id": 4156,
+        "max_level": 6,
+        "save_id": 93
+      },
+      {
+        "dex_id": 4162,
+        "max_level": 6,
+        "save_id": 94
+      },
+      {
+        "dex_id": 4168,
+        "max_level": 6,
+        "save_id": 95
+      },
+      {
+        "dex_id": 4228,
+        "max_level": 5,
+        "save_id": 96
+      },
+      {
+        "dex_id": 4300,
+        "max_level": 15,
+        "save_id": 97
+      },
+      {
+        "dex_id": 4315,
+        "max_level": 15,
+        "save_id": 98
+      },
+      {
+        "dex_id": 4330,
+        "max_level": 15,
+        "save_id": 99
+      },
+      {
+        "dex_id": 4345,
+        "max_level": 15,
+        "save_id": 100
+      },
+      {
+        "dex_id": 4360,
+        "max_level": 15,
+        "save_id": 101
+      },
+      {
+        "dex_id": 4375,
+        "max_level": 15,
+        "save_id": 102
+      },
+      {
+        "dex_id": 4390,
+        "max_level": 15,
+        "save_id": 103
+      },
+      {
+        "dex_id": 4405,
+        "max_level": 15,
+        "save_id": 104
+      },
+      {
+        "dex_id": 4243,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 4248,
+        "max_level": 5,
+        "save_id": 106
+      },
+      {
+        "dex_id": 4291,
+        "max_level": 3,
+        "save_id": 107
+      },
+      {
+        "dex_id": 4273,
+        "max_level": 6,
+        "save_id": 108
+      },
+      {
+        "dex_id": 4430,
+        "max_level": 5,
+        "save_id": 109
+      },
+      {
+        "dex_id": 4425,
+        "max_level": 5,
+        "save_id": 110
+      },
+      {
+        "dex_id": 4435,
+        "max_level": 5,
+        "save_id": 111
+      },
+      {
+        "dex_id": 4420,
+        "max_level": 5,
+        "save_id": 112
+      },
+      {
+        "dex_id": 4288,
+        "max_level": 3,
+        "save_id": 113
+      },
+      {
+        "dex_id": 4294,
+        "max_level": 3,
+        "save_id": 114
+      },
+      {
+        "dex_id": 4297,
+        "max_level": 3,
+        "save_id": 115
+      },
+      {
+        "dex_id": 3795,
+        "max_level": 3,
+        "save_id": 116
+      },
+      {
+        "dex_id": 4285,
+        "max_level": 3,
+        "save_id": 117
+      },
+      {
+        "dex_id": 3572,
+        "max_level": 5,
+        "save_id": 118
+      },
+      {
+        "dex_id": 3948,
+        "max_level": 5,
+        "save_id": 119
+      },
+      {
+        "dex_id": 3577,
+        "max_level": 5,
+        "save_id": 120
+      },
+      {
+        "dex_id": 3836,
+        "max_level": 5,
+        "save_id": 121
+      },
+      {
+        "dex_id": 3841,
+        "max_level": 3,
+        "save_id": 122
+      },
+      {
+        "dex_id": 3741,
+        "max_level": 5,
+        "save_id": 123
+      },
+      {
+        "dex_id": 3746,
+        "max_level": 3,
+        "save_id": 124
+      },
+      {
+        "dex_id": 3637,
+        "max_level": 6,
+        "save_id": 125
+      },
+      {
+        "dex_id": 3833,
+        "max_level": 3,
+        "save_id": 126
+      },
+      {
+        "dex_id": 3651,
+        "max_level": 3,
+        "save_id": 127
+      },
+      {
+        "dex_id": 4282,
+        "max_level": 3,
+        "save_id": 128
+      },
+      {
+        "dex_id": 4233,
+        "max_level": 5,
+        "save_id": 129
+      },
+      {
+        "dex_id": 4238,
+        "max_level": 5,
+        "save_id": 130
+      },
+      {
+        "dex_id": 4279,
+        "max_level": 3,
+        "save_id": 131
+      }
+    ],
+    "weapon_heavy_bowgun": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 9459,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 9470,
+        "max_level": 6,
+        "save_id": 2
+      },
+      {
+        "dex_id": 9481,
+        "max_level": 6,
+        "save_id": 3
+      },
+      {
+        "dex_id": 9487,
+        "max_level": 5,
+        "save_id": 4
+      },
+      {
+        "dex_id": 9492,
+        "max_level": 8,
+        "save_id": 5
+      },
+      {
+        "dex_id": 9500,
+        "max_level": 6,
+        "save_id": 6
+      },
+      {
+        "dex_id": 9506,
+        "max_level": 7,
+        "save_id": 7
+      },
+      {
+        "dex_id": 9513,
+        "max_level": 8,
+        "save_id": 8
+      },
+      {
+        "dex_id": 9521,
+        "max_level": 7,
+        "save_id": 9
+      },
+      {
+        "dex_id": 9528,
+        "max_level": 5,
+        "save_id": 10
+      },
+      {
+        "dex_id": 9533,
+        "max_level": 6,
+        "save_id": 11
+      },
+      {
+        "dex_id": 9539,
+        "max_level": 5,
+        "save_id": 12
+      },
+      {
+        "dex_id": 9547,
+        "max_level": 8,
+        "save_id": 13
+      },
+      {
+        "dex_id": 9555,
+        "max_level": 6,
+        "save_id": 14
+      },
+      {
+        "dex_id": 9561,
+        "max_level": 11,
+        "save_id": 15
+      },
+      {
+        "dex_id": 9572,
+        "max_level": 6,
+        "save_id": 16
+      },
+      {
+        "dex_id": 9589,
+        "max_level": 7,
+        "save_id": 17
+      },
+      {
+        "dex_id": 9596,
+        "max_level": 7,
+        "save_id": 18
+      },
+      {
+        "dex_id": 9603,
+        "max_level": 7,
+        "save_id": 19
+      },
+      {
+        "dex_id": 9610,
+        "max_level": 7,
+        "save_id": 20
+      },
+      {
+        "dex_id": 9617,
+        "max_level": 7,
+        "save_id": 21
+      },
+      {
+        "dex_id": 9624,
+        "max_level": 5,
+        "save_id": 22
+      },
+      {
+        "dex_id": 9635,
+        "max_level": 8,
+        "save_id": 23
+      },
+      {
+        "dex_id": 9643,
+        "max_level": 6,
+        "save_id": 24
+      },
+      {
+        "dex_id": 9649,
+        "max_level": 7,
+        "save_id": 25
+      },
+      {
+        "dex_id": 9656,
+        "max_level": 6,
+        "save_id": 26
+      },
+      {
+        "dex_id": 9667,
+        "max_level": 5,
+        "save_id": 27
+      },
+      {
+        "dex_id": 9672,
+        "max_level": 6,
+        "save_id": 28
+      },
+      {
+        "dex_id": 9678,
+        "max_level": 6,
+        "save_id": 29
+      },
+      {
+        "dex_id": 9684,
+        "max_level": 6,
+        "save_id": 30
+      },
+      {
+        "dex_id": 9696,
+        "max_level": 11,
+        "save_id": 31
+      },
+      {
+        "dex_id": 9707,
+        "max_level": 5,
+        "save_id": 32
+      },
+      {
+        "dex_id": 9712,
+        "max_level": 6,
+        "save_id": 33
+      },
+      {
+        "dex_id": 9721,
+        "max_level": 7,
+        "save_id": 34
+      },
+      {
+        "dex_id": 9731,
+        "max_level": 7,
+        "save_id": 35
+      },
+      {
+        "dex_id": 9738,
+        "max_level": 6,
+        "save_id": 36
+      },
+      {
+        "dex_id": 9747,
+        "max_level": 7,
+        "save_id": 37
+      },
+      {
+        "dex_id": 9754,
+        "max_level": 5,
+        "save_id": 38
+      },
+      {
+        "dex_id": 9759,
+        "max_level": 5,
+        "save_id": 39
+      },
+      {
+        "dex_id": 9764,
+        "max_level": 6,
+        "save_id": 40
+      },
+      {
+        "dex_id": 9876,
+        "max_level": 5,
+        "save_id": 41
+      },
+      {
+        "dex_id": 9811,
+        "max_level": 7,
+        "save_id": 42
+      },
+      {
+        "dex_id": 9818,
+        "max_level": 7,
+        "save_id": 43
+      },
+      {
+        "dex_id": 9804,
+        "max_level": 7,
+        "save_id": 44
+      },
+      {
+        "dex_id": 9825,
+        "max_level": 7,
+        "save_id": 45
+      },
+      {
+        "dex_id": 9832,
+        "max_level": 5,
+        "save_id": 46
+      },
+      {
+        "dex_id": 9837,
+        "max_level": 6,
+        "save_id": 47
+      },
+      {
+        "dex_id": 9843,
+        "max_level": 6,
+        "save_id": 48
+      },
+      {
+        "dex_id": 9922,
+        "max_level": 5,
+        "save_id": 49
+      },
+      {
+        "dex_id": 9927,
+        "max_level": 5,
+        "save_id": 50
+      },
+      {
+        "dex_id": 9849,
+        "max_level": 6,
+        "save_id": 51
+      },
+      {
+        "dex_id": 9855,
+        "max_level": 5,
+        "save_id": 52
+      },
+      {
+        "dex_id": 9891,
+        "max_level": 5,
+        "save_id": 53
+      },
+      {
+        "dex_id": 9896,
+        "max_level": 5,
+        "save_id": 54
+      },
+      {
+        "dex_id": 9932,
+        "max_level": 5,
+        "save_id": 55
+      },
+      {
+        "dex_id": 9937,
+        "max_level": 5,
+        "save_id": 56
+      },
+      {
+        "dex_id": 9947,
+        "max_level": 5,
+        "save_id": 57
+      },
+      {
+        "dex_id": 9942,
+        "max_level": 5,
+        "save_id": 58
+      },
+      {
+        "dex_id": 9784,
+        "max_level": 7,
+        "save_id": 59
+      },
+      {
+        "dex_id": 9901,
+        "max_level": 6,
+        "save_id": 60
+      },
+      {
+        "dex_id": 9865,
+        "max_level": 6,
+        "save_id": 61
+      },
+      {
+        "dex_id": 9770,
+        "max_level": 8,
+        "save_id": 62
+      },
+      {
+        "dex_id": 9778,
+        "max_level": 6,
+        "save_id": 63
+      },
+      {
+        "dex_id": 9881,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 9871,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 9860,
+        "max_level": 5,
+        "save_id": 66
+      },
+      {
+        "dex_id": 9797,
+        "max_level": 7,
+        "save_id": 67
+      },
+      {
+        "dex_id": 9791,
+        "max_level": 6,
+        "save_id": 68
+      },
+      {
+        "dex_id": 9982,
+        "max_level": 15,
+        "save_id": 69
+      },
+      {
+        "dex_id": 9997,
+        "max_level": 15,
+        "save_id": 70
+      },
+      {
+        "dex_id": 10012,
+        "max_level": 15,
+        "save_id": 71
+      },
+      {
+        "dex_id": 10027,
+        "max_level": 15,
+        "save_id": 72
+      },
+      {
+        "dex_id": 10042,
+        "max_level": 15,
+        "save_id": 73
+      },
+      {
+        "dex_id": 10057,
+        "max_level": 15,
+        "save_id": 74
+      },
+      {
+        "dex_id": 10072,
+        "max_level": 15,
+        "save_id": 75
+      },
+      {
+        "dex_id": 10087,
+        "max_level": 15,
+        "save_id": 76
+      },
+      {
+        "dex_id": 10102,
+        "max_level": 15,
+        "save_id": 77
+      },
+      {
+        "dex_id": 10117,
+        "max_level": 15,
+        "save_id": 78
+      },
+      {
+        "dex_id": 10132,
+        "max_level": 15,
+        "save_id": 79
+      },
+      {
+        "dex_id": 9917,
+        "max_level": 5,
+        "save_id": 80
+      },
+      {
+        "dex_id": 9970,
+        "max_level": 3,
+        "save_id": 81
+      },
+      {
+        "dex_id": 9952,
+        "max_level": 6,
+        "save_id": 82
+      },
+      {
+        "dex_id": 10162,
+        "max_level": 5,
+        "save_id": 83
+      },
+      {
+        "dex_id": 10157,
+        "max_level": 5,
+        "save_id": 84
+      },
+      {
+        "dex_id": 10167,
+        "max_level": 5,
+        "save_id": 85
+      },
+      {
+        "dex_id": 10172,
+        "max_level": 5,
+        "save_id": 86
+      },
+      {
+        "dex_id": 10152,
+        "max_level": 5,
+        "save_id": 87
+      },
+      {
+        "dex_id": 10147,
+        "max_level": 5,
+        "save_id": 88
+      },
+      {
+        "dex_id": 9967,
+        "max_level": 3,
+        "save_id": 89
+      },
+      {
+        "dex_id": 9973,
+        "max_level": 3,
+        "save_id": 90
+      },
+      {
+        "dex_id": 9976,
+        "max_level": 3,
+        "save_id": 91
+      },
+      {
+        "dex_id": 9979,
+        "max_level": 3,
+        "save_id": 92
+      },
+      {
+        "dex_id": 9718,
+        "max_level": 3,
+        "save_id": 93
+      },
+      {
+        "dex_id": 9964,
+        "max_level": 3,
+        "save_id": 94
+      },
+      {
+        "dex_id": 9662,
+        "max_level": 5,
+        "save_id": 95
+      },
+      {
+        "dex_id": 9578,
+        "max_level": 6,
+        "save_id": 96
+      },
+      {
+        "dex_id": 9584,
+        "max_level": 5,
+        "save_id": 97
+      },
+      {
+        "dex_id": 9629,
+        "max_level": 6,
+        "save_id": 98
+      },
+      {
+        "dex_id": 9476,
+        "max_level": 5,
+        "save_id": 99
+      },
+      {
+        "dex_id": 9690,
+        "max_level": 6,
+        "save_id": 100
+      },
+      {
+        "dex_id": 9744,
+        "max_level": 3,
+        "save_id": 101
+      },
+      {
+        "dex_id": 9544,
+        "max_level": 3,
+        "save_id": 102
+      },
+      {
+        "dex_id": 9907,
+        "max_level": 5,
+        "save_id": 103
+      },
+      {
+        "dex_id": 9961,
+        "max_level": 3,
+        "save_id": 104
+      },
+      {
+        "dex_id": 9912,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 9886,
+        "max_level": 5,
+        "save_id": 106
+      },
+      {
+        "dex_id": 9958,
+        "max_level": 3,
+        "save_id": 107
+      },
+      {
+        "dex_id": 9728,
+        "max_level": 3,
+        "save_id": 108
+      }
+    ],
+    "weapon_hunting_horn": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 4440,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 4464,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 4451,
+        "max_level": 7,
+        "save_id": 3
+      },
+      {
+        "dex_id": 4458,
+        "max_level": 6,
+        "save_id": 4
+      },
+      {
+        "dex_id": 4472,
+        "max_level": 9,
+        "save_id": 5
+      },
+      {
+        "dex_id": 4481,
+        "max_level": 9,
+        "save_id": 6
+      },
+      {
+        "dex_id": 4490,
+        "max_level": 9,
+        "save_id": 7
+      },
+      {
+        "dex_id": 4499,
+        "max_level": 7,
+        "save_id": 8
+      },
+      {
+        "dex_id": 4506,
+        "max_level": 11,
+        "save_id": 9
+      },
+      {
+        "dex_id": 4517,
+        "max_level": 6,
+        "save_id": 10
+      },
+      {
+        "dex_id": 4523,
+        "max_level": 8,
+        "save_id": 11
+      },
+      {
+        "dex_id": 4531,
+        "max_level": 5,
+        "save_id": 12
+      },
+      {
+        "dex_id": 4536,
+        "max_level": 9,
+        "save_id": 13
+      },
+      {
+        "dex_id": 4545,
+        "max_level": 7,
+        "save_id": 14
+      },
+      {
+        "dex_id": 4560,
+        "max_level": 8,
+        "save_id": 15
+      },
+      {
+        "dex_id": 4568,
+        "max_level": 8,
+        "save_id": 16
+      },
+      {
+        "dex_id": 4576,
+        "max_level": 6,
+        "save_id": 17
+      },
+      {
+        "dex_id": 4582,
+        "max_level": 8,
+        "save_id": 18
+      },
+      {
+        "dex_id": 4590,
+        "max_level": 7,
+        "save_id": 19
+      },
+      {
+        "dex_id": 4600,
+        "max_level": 11,
+        "save_id": 20
+      },
+      {
+        "dex_id": 4611,
+        "max_level": 7,
+        "save_id": 21
+      },
+      {
+        "dex_id": 4618,
+        "max_level": 7,
+        "save_id": 22
+      },
+      {
+        "dex_id": 4625,
+        "max_level": 6,
+        "save_id": 23
+      },
+      {
+        "dex_id": 4645,
+        "max_level": 7,
+        "save_id": 24
+      },
+      {
+        "dex_id": 4652,
+        "max_level": 6,
+        "save_id": 25
+      },
+      {
+        "dex_id": 4658,
+        "max_level": 8,
+        "save_id": 26
+      },
+      {
+        "dex_id": 4666,
+        "max_level": 6,
+        "save_id": 27
+      },
+      {
+        "dex_id": 4672,
+        "max_level": 8,
+        "save_id": 28
+      },
+      {
+        "dex_id": 4680,
+        "max_level": 7,
+        "save_id": 29
+      },
+      {
+        "dex_id": 4687,
+        "max_level": 8,
+        "save_id": 30
+      },
+      {
+        "dex_id": 4776,
+        "max_level": 8,
+        "save_id": 31
+      },
+      {
+        "dex_id": 4789,
+        "max_level": 6,
+        "save_id": 32
+      },
+      {
+        "dex_id": 4795,
+        "max_level": 6,
+        "save_id": 33
+      },
+      {
+        "dex_id": 4801,
+        "max_level": 7,
+        "save_id": 34
+      },
+      {
+        "dex_id": 4808,
+        "max_level": 8,
+        "save_id": 35
+      },
+      {
+        "dex_id": 4816,
+        "max_level": 9,
+        "save_id": 36
+      },
+      {
+        "dex_id": 4825,
+        "max_level": 5,
+        "save_id": 37
+      },
+      {
+        "dex_id": 4830,
+        "max_level": 8,
+        "save_id": 38
+      },
+      {
+        "dex_id": 4695,
+        "max_level": 9,
+        "save_id": 39
+      },
+      {
+        "dex_id": 4719,
+        "max_level": 8,
+        "save_id": 40
+      },
+      {
+        "dex_id": 4727,
+        "max_level": 8,
+        "save_id": 41
+      },
+      {
+        "dex_id": 4735,
+        "max_level": 8,
+        "save_id": 42
+      },
+      {
+        "dex_id": 4704,
+        "max_level": 7,
+        "save_id": 43
+      },
+      {
+        "dex_id": 4743,
+        "max_level": 9,
+        "save_id": 44
+      },
+      {
+        "dex_id": 4752,
+        "max_level": 5,
+        "save_id": 45
+      },
+      {
+        "dex_id": 4757,
+        "max_level": 7,
+        "save_id": 46
+      },
+      {
+        "dex_id": 4764,
+        "max_level": 5,
+        "save_id": 47
+      },
+      {
+        "dex_id": 4769,
+        "max_level": 7,
+        "save_id": 48
+      },
+      {
+        "dex_id": 4898,
+        "max_level": 9,
+        "save_id": 49
+      },
+      {
+        "dex_id": 4907,
+        "max_level": 9,
+        "save_id": 50
+      },
+      {
+        "dex_id": 4889,
+        "max_level": 9,
+        "save_id": 51
+      },
+      {
+        "dex_id": 4916,
+        "max_level": 9,
+        "save_id": 52
+      },
+      {
+        "dex_id": 4925,
+        "max_level": 7,
+        "save_id": 53
+      },
+      {
+        "dex_id": 4932,
+        "max_level": 8,
+        "save_id": 54
+      },
+      {
+        "dex_id": 4940,
+        "max_level": 6,
+        "save_id": 55
+      },
+      {
+        "dex_id": 4946,
+        "max_level": 6,
+        "save_id": 56
+      },
+      {
+        "dex_id": 5006,
+        "max_level": 6,
+        "save_id": 57
+      },
+      {
+        "dex_id": 4952,
+        "max_level": 7,
+        "save_id": 58
+      },
+      {
+        "dex_id": 4959,
+        "max_level": 5,
+        "save_id": 59
+      },
+      {
+        "dex_id": 5027,
+        "max_level": 5,
+        "save_id": 60
+      },
+      {
+        "dex_id": 5032,
+        "max_level": 5,
+        "save_id": 61
+      },
+      {
+        "dex_id": 5037,
+        "max_level": 5,
+        "save_id": 62
+      },
+      {
+        "dex_id": 4989,
+        "max_level": 7,
+        "save_id": 63
+      },
+      {
+        "dex_id": 4996,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 5001,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 4977,
+        "max_level": 7,
+        "save_id": 66
+      },
+      {
+        "dex_id": 4838,
+        "max_level": 8,
+        "save_id": 67
+      },
+      {
+        "dex_id": 4846,
+        "max_level": 6,
+        "save_id": 68
+      },
+      {
+        "dex_id": 4877,
+        "max_level": 6,
+        "save_id": 69
+      },
+      {
+        "dex_id": 4883,
+        "max_level": 6,
+        "save_id": 70
+      },
+      {
+        "dex_id": 4852,
+        "max_level": 6,
+        "save_id": 71
+      },
+      {
+        "dex_id": 4858,
+        "max_level": 6,
+        "save_id": 72
+      },
+      {
+        "dex_id": 4864,
+        "max_level": 6,
+        "save_id": 73
+      },
+      {
+        "dex_id": 4964,
+        "max_level": 6,
+        "save_id": 74
+      },
+      {
+        "dex_id": 4870,
+        "max_level": 7,
+        "save_id": 75
+      },
+      {
+        "dex_id": 4970,
+        "max_level": 7,
+        "save_id": 76
+      },
+      {
+        "dex_id": 5066,
+        "max_level": 15,
+        "save_id": 77
+      },
+      {
+        "dex_id": 5081,
+        "max_level": 15,
+        "save_id": 78
+      },
+      {
+        "dex_id": 5096,
+        "max_level": 15,
+        "save_id": 79
+      },
+      {
+        "dex_id": 5111,
+        "max_level": 15,
+        "save_id": 80
+      },
+      {
+        "dex_id": 5126,
+        "max_level": 15,
+        "save_id": 81
+      },
+      {
+        "dex_id": 5141,
+        "max_level": 15,
+        "save_id": 82
+      },
+      {
+        "dex_id": 5156,
+        "max_level": 15,
+        "save_id": 83
+      },
+      {
+        "dex_id": 5171,
+        "max_level": 15,
+        "save_id": 84
+      },
+      {
+        "dex_id": 5186,
+        "max_level": 15,
+        "save_id": 85
+      },
+      {
+        "dex_id": 5201,
+        "max_level": 15,
+        "save_id": 86
+      },
+      {
+        "dex_id": 5017,
+        "max_level": 5,
+        "save_id": 87
+      },
+      {
+        "dex_id": -1,
+        "english": "DUMMY",
+        "max_level": 5,
+        "save_id": 88
+      },
+      {
+        "dex_id": 5022,
+        "max_level": 5,
+        "save_id": 89
+      },
+      {
+        "dex_id": 5057,
+        "max_level": 3,
+        "save_id": 90
+      },
+      {
+        "dex_id": 5042,
+        "max_level": 6,
+        "save_id": 91
+      },
+      {
+        "dex_id": 5231,
+        "max_level": 5,
+        "save_id": 92
+      },
+      {
+        "dex_id": 5226,
+        "max_level": 5,
+        "save_id": 93
+      },
+      {
+        "dex_id": 5236,
+        "max_level": 5,
+        "save_id": 94
+      },
+      {
+        "dex_id": 5221,
+        "max_level": 5,
+        "save_id": 95
+      },
+      {
+        "dex_id": 5216,
+        "max_level": 5,
+        "save_id": 96
+      },
+      {
+        "dex_id": 5060,
+        "max_level": 3,
+        "save_id": 97
+      },
+      {
+        "dex_id": 5063,
+        "max_level": 3,
+        "save_id": 98
+      },
+      {
+        "dex_id": 4631,
+        "max_level": 3,
+        "save_id": 99
+      },
+      {
+        "dex_id": 5054,
+        "max_level": 3,
+        "save_id": 100
+      },
+      {
+        "dex_id": 4711,
+        "max_level": 5,
+        "save_id": 101
+      },
+      {
+        "dex_id": 4716,
+        "max_level": 3,
+        "save_id": 102
+      },
+      {
+        "dex_id": 4639,
+        "max_level": 6,
+        "save_id": 103
+      },
+      {
+        "dex_id": 4784,
+        "max_level": 5,
+        "save_id": 104
+      },
+      {
+        "dex_id": 4552,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 4557,
+        "max_level": 3,
+        "save_id": 106
+      },
+      {
+        "dex_id": 4634,
+        "max_level": 5,
+        "save_id": 107
+      },
+      {
+        "dex_id": 4597,
+        "max_level": 3,
+        "save_id": 108
+      },
+      {
+        "dex_id": 5051,
+        "max_level": 3,
+        "save_id": 109
+      },
+      {
+        "dex_id": 5012,
+        "max_level": 5,
+        "save_id": 110
+      },
+      {
+        "dex_id": 5048,
+        "max_level": 3,
+        "save_id": 111
+      }
+    ],
+    "weapon_insect_glaive": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 8209,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 8220,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 8233,
+        "max_level": 9,
+        "save_id": 3
+      },
+      {
+        "dex_id": 8242,
+        "max_level": 8,
+        "save_id": 4
+      },
+      {
+        "dex_id": 8250,
+        "max_level": 9,
+        "save_id": 5
+      },
+      {
+        "dex_id": 8259,
+        "max_level": 7,
+        "save_id": 6
+      },
+      {
+        "dex_id": 8266,
+        "max_level": 6,
+        "save_id": 7
+      },
+      {
+        "dex_id": 8272,
+        "max_level": 8,
+        "save_id": 8
+      },
+      {
+        "dex_id": 8280,
+        "max_level": 9,
+        "save_id": 9
+      },
+      {
+        "dex_id": 8289,
+        "max_level": 11,
+        "save_id": 10
+      },
+      {
+        "dex_id": 8300,
+        "max_level": 9,
+        "save_id": 11
+      },
+      {
+        "dex_id": 8309,
+        "max_level": 8,
+        "save_id": 12
+      },
+      {
+        "dex_id": 8317,
+        "max_level": 5,
+        "save_id": 13
+      },
+      {
+        "dex_id": 8325,
+        "max_level": 8,
+        "save_id": 14
+      },
+      {
+        "dex_id": 8333,
+        "max_level": 8,
+        "save_id": 15
+      },
+      {
+        "dex_id": 8341,
+        "max_level": 5,
+        "save_id": 16
+      },
+      {
+        "dex_id": 8346,
+        "max_level": 7,
+        "save_id": 17
+      },
+      {
+        "dex_id": 8353,
+        "max_level": 11,
+        "save_id": 18
+      },
+      {
+        "dex_id": 8371,
+        "max_level": 5,
+        "save_id": 19
+      },
+      {
+        "dex_id": 8364,
+        "max_level": 7,
+        "save_id": 20
+      },
+      {
+        "dex_id": 8376,
+        "max_level": 7,
+        "save_id": 21
+      },
+      {
+        "dex_id": 8383,
+        "max_level": 6,
+        "save_id": 22
+      },
+      {
+        "dex_id": 8394,
+        "max_level": 6,
+        "save_id": 23
+      },
+      {
+        "dex_id": 8400,
+        "max_level": 7,
+        "save_id": 24
+      },
+      {
+        "dex_id": 8407,
+        "max_level": 6,
+        "save_id": 25
+      },
+      {
+        "dex_id": 8416,
+        "max_level": 8,
+        "save_id": 26
+      },
+      {
+        "dex_id": 8424,
+        "max_level": 8,
+        "save_id": 27
+      },
+      {
+        "dex_id": 8432,
+        "max_level": 7,
+        "save_id": 28
+      },
+      {
+        "dex_id": 8439,
+        "max_level": 8,
+        "save_id": 29
+      },
+      {
+        "dex_id": 8447,
+        "max_level": 8,
+        "save_id": 30
+      },
+      {
+        "dex_id": 8455,
+        "max_level": 6,
+        "save_id": 31
+      },
+      {
+        "dex_id": 8461,
+        "max_level": 5,
+        "save_id": 32
+      },
+      {
+        "dex_id": 8488,
+        "max_level": 9,
+        "save_id": 33
+      },
+      {
+        "dex_id": 8497,
+        "max_level": 9,
+        "save_id": 34
+      },
+      {
+        "dex_id": 8479,
+        "max_level": 9,
+        "save_id": 35
+      },
+      {
+        "dex_id": 8506,
+        "max_level": 9,
+        "save_id": 36
+      },
+      {
+        "dex_id": 8515,
+        "max_level": 7,
+        "save_id": 37
+      },
+      {
+        "dex_id": 8522,
+        "max_level": 8,
+        "save_id": 38
+      },
+      {
+        "dex_id": 8540,
+        "max_level": 6,
+        "save_id": 39
+      },
+      {
+        "dex_id": 8546,
+        "max_level": 6,
+        "save_id": 40
+      },
+      {
+        "dex_id": 8530,
+        "max_level": 7,
+        "save_id": 41
+      },
+      {
+        "dex_id": 8600,
+        "max_level": 6,
+        "save_id": 42
+      },
+      {
+        "dex_id": 8606,
+        "max_level": 5,
+        "save_id": 43
+      },
+      {
+        "dex_id": 8552,
+        "max_level": 7,
+        "save_id": 44
+      },
+      {
+        "dex_id": 8559,
+        "max_level": 5,
+        "save_id": 45
+      },
+      {
+        "dex_id": 8631,
+        "max_level": 5,
+        "save_id": 46
+      },
+      {
+        "dex_id": 8636,
+        "max_level": 5,
+        "save_id": 47
+      },
+      {
+        "dex_id": 8577,
+        "max_level": 7,
+        "save_id": 48
+      },
+      {
+        "dex_id": 8564,
+        "max_level": 6,
+        "save_id": 49
+      },
+      {
+        "dex_id": 8472,
+        "max_level": 7,
+        "save_id": 50
+      },
+      {
+        "dex_id": 8584,
+        "max_level": 5,
+        "save_id": 51
+      },
+      {
+        "dex_id": 8466,
+        "max_level": 6,
+        "save_id": 52
+      },
+      {
+        "dex_id": 8570,
+        "max_level": 7,
+        "save_id": 53
+      },
+      {
+        "dex_id": 8671,
+        "max_level": 15,
+        "save_id": 54
+      },
+      {
+        "dex_id": 8686,
+        "max_level": 15,
+        "save_id": 55
+      },
+      {
+        "dex_id": 8701,
+        "max_level": 15,
+        "save_id": 56
+      },
+      {
+        "dex_id": 8716,
+        "max_level": 15,
+        "save_id": 57
+      },
+      {
+        "dex_id": 8616,
+        "max_level": 5,
+        "save_id": 58
+      },
+      {
+        "dex_id": 8621,
+        "max_level": 5,
+        "save_id": 59
+      },
+      {
+        "dex_id": 8626,
+        "max_level": 5,
+        "save_id": 60
+      },
+      {
+        "dex_id": 8659,
+        "max_level": 3,
+        "save_id": 61
+      },
+      {
+        "dex_id": 8641,
+        "max_level": 6,
+        "save_id": 62
+      },
+      {
+        "dex_id": 8741,
+        "max_level": 5,
+        "save_id": 63
+      },
+      {
+        "dex_id": 8736,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 8746,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 8751,
+        "max_level": 5,
+        "save_id": 66
+      },
+      {
+        "dex_id": 8731,
+        "max_level": 5,
+        "save_id": 67
+      },
+      {
+        "dex_id": 8662,
+        "max_level": 3,
+        "save_id": 68
+      },
+      {
+        "dex_id": 8665,
+        "max_level": 3,
+        "save_id": 69
+      },
+      {
+        "dex_id": 8668,
+        "max_level": 3,
+        "save_id": 70
+      },
+      {
+        "dex_id": 8413,
+        "max_level": 3,
+        "save_id": 71
+      },
+      {
+        "dex_id": 8653,
+        "max_level": 3,
+        "save_id": 72
+      },
+      {
+        "dex_id": 8228,
+        "max_level": 5,
+        "save_id": 73
+      },
+      {
+        "dex_id": 8389,
+        "max_level": 5,
+        "save_id": 74
+      },
+      {
+        "dex_id": 8589,
+        "max_level": 6,
+        "save_id": 75
+      },
+      {
+        "dex_id": 8650,
+        "max_level": 3,
+        "save_id": 76
+      },
+      {
+        "dex_id": 8656,
+        "max_level": 3,
+        "save_id": 77
+      },
+      {
+        "dex_id": 8322,
+        "max_level": 3,
+        "save_id": 78
+      },
+      {
+        "dex_id": 8537,
+        "max_level": 3,
+        "save_id": 79
+      },
+      {
+        "dex_id": 8611,
+        "max_level": 5,
+        "save_id": 80
+      },
+      {
+        "dex_id": 8595,
+        "max_level": 5,
+        "save_id": 81
+      },
+      {
+        "dex_id": 8647,
+        "max_level": 3,
+        "save_id": 82
+      }
+    ],
+    "weapon_lance": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 5241,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 5252,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 5260,
+        "max_level": 8,
+        "save_id": 3
+      },
+      {
+        "dex_id": 5268,
+        "max_level": 7,
+        "save_id": 4
+      },
+      {
+        "dex_id": 5275,
+        "max_level": 5,
+        "save_id": 5
+      },
+      {
+        "dex_id": 5280,
+        "max_level": 7,
+        "save_id": 6
+      },
+      {
+        "dex_id": 5287,
+        "max_level": 5,
+        "save_id": 7
+      },
+      {
+        "dex_id": 5292,
+        "max_level": 5,
+        "save_id": 8
+      },
+      {
+        "dex_id": 5297,
+        "max_level": 8,
+        "save_id": 9
+      },
+      {
+        "dex_id": 5305,
+        "max_level": 11,
+        "save_id": 10
+      },
+      {
+        "dex_id": 5316,
+        "max_level": 7,
+        "save_id": 11
+      },
+      {
+        "dex_id": 5323,
+        "max_level": 7,
+        "save_id": 12
+      },
+      {
+        "dex_id": 5330,
+        "max_level": 7,
+        "save_id": 13
+      },
+      {
+        "dex_id": 5337,
+        "max_level": 6,
+        "save_id": 14
+      },
+      {
+        "dex_id": 5348,
+        "max_level": 7,
+        "save_id": 15
+      },
+      {
+        "dex_id": 5355,
+        "max_level": 7,
+        "save_id": 16
+      },
+      {
+        "dex_id": 5362,
+        "max_level": 5,
+        "save_id": 17
+      },
+      {
+        "dex_id": 5367,
+        "max_level": 10,
+        "save_id": 18
+      },
+      {
+        "dex_id": 5388,
+        "max_level": 7,
+        "save_id": 19
+      },
+      {
+        "dex_id": 5395,
+        "max_level": 6,
+        "save_id": 20
+      },
+      {
+        "dex_id": 5401,
+        "max_level": 7,
+        "save_id": 21
+      },
+      {
+        "dex_id": 5408,
+        "max_level": 6,
+        "save_id": 22
+      },
+      {
+        "dex_id": 5414,
+        "max_level": 8,
+        "save_id": 23
+      },
+      {
+        "dex_id": 5422,
+        "max_level": 8,
+        "save_id": 24
+      },
+      {
+        "dex_id": 5430,
+        "max_level": 8,
+        "save_id": 25
+      },
+      {
+        "dex_id": 5438,
+        "max_level": 6,
+        "save_id": 26
+      },
+      {
+        "dex_id": 5444,
+        "max_level": 6,
+        "save_id": 27
+      },
+      {
+        "dex_id": 5450,
+        "max_level": 8,
+        "save_id": 28
+      },
+      {
+        "dex_id": 5470,
+        "max_level": 7,
+        "save_id": 29
+      },
+      {
+        "dex_id": 5477,
+        "max_level": 11,
+        "save_id": 30
+      },
+      {
+        "dex_id": 5488,
+        "max_level": 8,
+        "save_id": 31
+      },
+      {
+        "dex_id": 5501,
+        "max_level": 6,
+        "save_id": 32
+      },
+      {
+        "dex_id": 5507,
+        "max_level": 7,
+        "save_id": 33
+      },
+      {
+        "dex_id": 5514,
+        "max_level": 6,
+        "save_id": 34
+      },
+      {
+        "dex_id": 5520,
+        "max_level": 8,
+        "save_id": 35
+      },
+      {
+        "dex_id": 5528,
+        "max_level": 6,
+        "save_id": 36
+      },
+      {
+        "dex_id": 5534,
+        "max_level": 8,
+        "save_id": 37
+      },
+      {
+        "dex_id": 5542,
+        "max_level": 8,
+        "save_id": 38
+      },
+      {
+        "dex_id": 5550,
+        "max_level": 8,
+        "save_id": 39
+      },
+      {
+        "dex_id": 5558,
+        "max_level": 9,
+        "save_id": 40
+      },
+      {
+        "dex_id": 5567,
+        "max_level": 6,
+        "save_id": 41
+      },
+      {
+        "dex_id": 5579,
+        "max_level": 7,
+        "save_id": 42
+      },
+      {
+        "dex_id": 5586,
+        "max_level": 7,
+        "save_id": 43
+      },
+      {
+        "dex_id": 5593,
+        "max_level": 8,
+        "save_id": 44
+      },
+      {
+        "dex_id": 5601,
+        "max_level": 8,
+        "save_id": 45
+      },
+      {
+        "dex_id": 5612,
+        "max_level": 9,
+        "save_id": 46
+      },
+      {
+        "dex_id": 5621,
+        "max_level": 6,
+        "save_id": 47
+      },
+      {
+        "dex_id": 5627,
+        "max_level": 5,
+        "save_id": 48
+      },
+      {
+        "dex_id": 5632,
+        "max_level": 6,
+        "save_id": 49
+      },
+      {
+        "dex_id": 5638,
+        "max_level": 6,
+        "save_id": 50
+      },
+      {
+        "dex_id": 5644,
+        "max_level": 6,
+        "save_id": 51
+      },
+      {
+        "dex_id": 5650,
+        "max_level": 5,
+        "save_id": 52
+      },
+      {
+        "dex_id": 5655,
+        "max_level": 7,
+        "save_id": 53
+      },
+      {
+        "dex_id": 5662,
+        "max_level": 6,
+        "save_id": 54
+      },
+      {
+        "dex_id": 5671,
+        "max_level": 8,
+        "save_id": 55
+      },
+      {
+        "dex_id": 5679,
+        "max_level": 5,
+        "save_id": 56
+      },
+      {
+        "dex_id": 5776,
+        "max_level": 9,
+        "save_id": 57
+      },
+      {
+        "dex_id": 5785,
+        "max_level": 9,
+        "save_id": 58
+      },
+      {
+        "dex_id": 5767,
+        "max_level": 9,
+        "save_id": 59
+      },
+      {
+        "dex_id": 5794,
+        "max_level": 9,
+        "save_id": 60
+      },
+      {
+        "dex_id": 5803,
+        "max_level": 7,
+        "save_id": 61
+      },
+      {
+        "dex_id": 5810,
+        "max_level": 8,
+        "save_id": 62
+      },
+      {
+        "dex_id": 5878,
+        "max_level": 7,
+        "save_id": 63
+      },
+      {
+        "dex_id": 5818,
+        "max_level": 7,
+        "save_id": 64
+      },
+      {
+        "dex_id": 5825,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 5900,
+        "max_level": 5,
+        "save_id": 66
+      },
+      {
+        "dex_id": 5910,
+        "max_level": 5,
+        "save_id": 67
+      },
+      {
+        "dex_id": 5905,
+        "max_level": 5,
+        "save_id": 68
+      },
+      {
+        "dex_id": 5698,
+        "max_level": 3,
+        "save_id": 69
+      },
+      {
+        "dex_id": 5701,
+        "max_level": 6,
+        "save_id": 70
+      },
+      {
+        "dex_id": 5707,
+        "max_level": 6,
+        "save_id": 71
+      },
+      {
+        "dex_id": 5856,
+        "max_level": 7,
+        "save_id": 72
+      },
+      {
+        "dex_id": 5863,
+        "max_level": 5,
+        "save_id": 73
+      },
+      {
+        "dex_id": 5868,
+        "max_level": 5,
+        "save_id": 74
+      },
+      {
+        "dex_id": 5713,
+        "max_level": 8,
+        "save_id": 75
+      },
+      {
+        "dex_id": 5849,
+        "max_level": 7,
+        "save_id": 76
+      },
+      {
+        "dex_id": 5684,
+        "max_level": 8,
+        "save_id": 77
+      },
+      {
+        "dex_id": 5692,
+        "max_level": 6,
+        "save_id": 78
+      },
+      {
+        "dex_id": 5754,
+        "max_level": 7,
+        "save_id": 79
+      },
+      {
+        "dex_id": 5761,
+        "max_level": 6,
+        "save_id": 80
+      },
+      {
+        "dex_id": 5721,
+        "max_level": 6,
+        "save_id": 81
+      },
+      {
+        "dex_id": 5727,
+        "max_level": 6,
+        "save_id": 82
+      },
+      {
+        "dex_id": 5733,
+        "max_level": 6,
+        "save_id": 83
+      },
+      {
+        "dex_id": 5739,
+        "max_level": 6,
+        "save_id": 84
+      },
+      {
+        "dex_id": 5830,
+        "max_level": 6,
+        "save_id": 85
+      },
+      {
+        "dex_id": 5748,
+        "max_level": 6,
+        "save_id": 86
+      },
+      {
+        "dex_id": 5873,
+        "max_level": 5,
+        "save_id": 87
+      },
+      {
+        "dex_id": 5836,
+        "max_level": 7,
+        "save_id": 88
+      },
+      {
+        "dex_id": 5843,
+        "max_level": 6,
+        "save_id": 89
+      },
+      {
+        "dex_id": 5885,
+        "max_level": 5,
+        "save_id": 90
+      },
+      {
+        "dex_id": 5948,
+        "max_level": 15,
+        "save_id": 91
+      },
+      {
+        "dex_id": 5963,
+        "max_level": 15,
+        "save_id": 92
+      },
+      {
+        "dex_id": 5978,
+        "max_level": 15,
+        "save_id": 93
+      },
+      {
+        "dex_id": 5993,
+        "max_level": 15,
+        "save_id": 94
+      },
+      {
+        "dex_id": 6008,
+        "max_level": 15,
+        "save_id": 95
+      },
+      {
+        "dex_id": 6023,
+        "max_level": 15,
+        "save_id": 96
+      },
+      {
+        "dex_id": 6038,
+        "max_level": 15,
+        "save_id": 97
+      },
+      {
+        "dex_id": 6053,
+        "max_level": 15,
+        "save_id": 98
+      },
+      {
+        "dex_id": 5895,
+        "max_level": 5,
+        "save_id": 99
+      },
+      {
+        "dex_id": 5939,
+        "max_level": 3,
+        "save_id": 100
+      },
+      {
+        "dex_id": 5915,
+        "max_level": 6,
+        "save_id": 101
+      },
+      {
+        "dex_id": 6083,
+        "max_level": 5,
+        "save_id": 102
+      },
+      {
+        "dex_id": 6078,
+        "max_level": 5,
+        "save_id": 103
+      },
+      {
+        "dex_id": 6088,
+        "max_level": 5,
+        "save_id": 104
+      },
+      {
+        "dex_id": 6093,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 6073,
+        "max_level": 5,
+        "save_id": 106
+      },
+      {
+        "dex_id": 6068,
+        "max_level": 5,
+        "save_id": 107
+      },
+      {
+        "dex_id": 5936,
+        "max_level": 3,
+        "save_id": 108
+      },
+      {
+        "dex_id": 5942,
+        "max_level": 3,
+        "save_id": 109
+      },
+      {
+        "dex_id": 5945,
+        "max_level": 3,
+        "save_id": 110
+      },
+      {
+        "dex_id": 5668,
+        "max_level": 3,
+        "save_id": 111
+      },
+      {
+        "dex_id": 5933,
+        "max_level": 3,
+        "save_id": 112
+      },
+      {
+        "dex_id": 5377,
+        "max_level": 6,
+        "save_id": 113
+      },
+      {
+        "dex_id": 5383,
+        "max_level": 5,
+        "save_id": 114
+      },
+      {
+        "dex_id": 5496,
+        "max_level": 5,
+        "save_id": 115
+      },
+      {
+        "dex_id": 5343,
+        "max_level": 5,
+        "save_id": 116
+      },
+      {
+        "dex_id": 5573,
+        "max_level": 6,
+        "save_id": 117
+      },
+      {
+        "dex_id": 5464,
+        "max_level": 6,
+        "save_id": 118
+      },
+      {
+        "dex_id": 5458,
+        "max_level": 6,
+        "save_id": 119
+      },
+      {
+        "dex_id": 5609,
+        "max_level": 3,
+        "save_id": 120
+      },
+      {
+        "dex_id": 5745,
+        "max_level": 3,
+        "save_id": 121
+      },
+      {
+        "dex_id": 5924,
+        "max_level": 3,
+        "save_id": 122
+      },
+      {
+        "dex_id": 5890,
+        "max_level": 5,
+        "save_id": 123
+      },
+      {
+        "dex_id": 5930,
+        "max_level": 3,
+        "save_id": 124
+      },
+      {
+        "dex_id": 5927,
+        "max_level": 3,
+        "save_id": 125
+      },
+      {
+        "dex_id": 5921,
+        "max_level": 3,
+        "save_id": 126
+      }
+    ],
+    "weapon_light_bowgun": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 8756,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 8767,
+        "max_level": 6,
+        "save_id": 2
+      },
+      {
+        "dex_id": 8773,
+        "max_level": 6,
+        "save_id": 3
+      },
+      {
+        "dex_id": 8782,
+        "max_level": 6,
+        "save_id": 4
+      },
+      {
+        "dex_id": 8788,
+        "max_level": 6,
+        "save_id": 5
+      },
+      {
+        "dex_id": 8794,
+        "max_level": 6,
+        "save_id": 6
+      },
+      {
+        "dex_id": 8800,
+        "max_level": 11,
+        "save_id": 7
+      },
+      {
+        "dex_id": 8811,
+        "max_level": 5,
+        "save_id": 8
+      },
+      {
+        "dex_id": 8816,
+        "max_level": 7,
+        "save_id": 9
+      },
+      {
+        "dex_id": 8823,
+        "max_level": 5,
+        "save_id": 10
+      },
+      {
+        "dex_id": 8828,
+        "max_level": 6,
+        "save_id": 11
+      },
+      {
+        "dex_id": 8839,
+        "max_level": 8,
+        "save_id": 12
+      },
+      {
+        "dex_id": 8853,
+        "max_level": 7,
+        "save_id": 13
+      },
+      {
+        "dex_id": 8860,
+        "max_level": 6,
+        "save_id": 14
+      },
+      {
+        "dex_id": 8866,
+        "max_level": 11,
+        "save_id": 15
+      },
+      {
+        "dex_id": 8877,
+        "max_level": 6,
+        "save_id": 16
+      },
+      {
+        "dex_id": 8883,
+        "max_level": 5,
+        "save_id": 17
+      },
+      {
+        "dex_id": 8888,
+        "max_level": 8,
+        "save_id": 18
+      },
+      {
+        "dex_id": 8899,
+        "max_level": 6,
+        "save_id": 19
+      },
+      {
+        "dex_id": 8905,
+        "max_level": 6,
+        "save_id": 20
+      },
+      {
+        "dex_id": 8911,
+        "max_level": 6,
+        "save_id": 21
+      },
+      {
+        "dex_id": 8922,
+        "max_level": 7,
+        "save_id": 22
+      },
+      {
+        "dex_id": 8929,
+        "max_level": 9,
+        "save_id": 23
+      },
+      {
+        "dex_id": 8938,
+        "max_level": 8,
+        "save_id": 24
+      },
+      {
+        "dex_id": 8946,
+        "max_level": 5,
+        "save_id": 25
+      },
+      {
+        "dex_id": 8951,
+        "max_level": 6,
+        "save_id": 26
+      },
+      {
+        "dex_id": 8957,
+        "max_level": 5,
+        "save_id": 27
+      },
+      {
+        "dex_id": 8962,
+        "max_level": 6,
+        "save_id": 28
+      },
+      {
+        "dex_id": 8968,
+        "max_level": 11,
+        "save_id": 29
+      },
+      {
+        "dex_id": 8979,
+        "max_level": 5,
+        "save_id": 30
+      },
+      {
+        "dex_id": 8984,
+        "max_level": 6,
+        "save_id": 31
+      },
+      {
+        "dex_id": 8990,
+        "max_level": 6,
+        "save_id": 32
+      },
+      {
+        "dex_id": 9001,
+        "max_level": 5,
+        "save_id": 33
+      },
+      {
+        "dex_id": 9006,
+        "max_level": 6,
+        "save_id": 34
+      },
+      {
+        "dex_id": 9023,
+        "max_level": 7,
+        "save_id": 35
+      },
+      {
+        "dex_id": 9030,
+        "max_level": 9,
+        "save_id": 36
+      },
+      {
+        "dex_id": 9039,
+        "max_level": 6,
+        "save_id": 37
+      },
+      {
+        "dex_id": 9045,
+        "max_level": 8,
+        "save_id": 38
+      },
+      {
+        "dex_id": 9053,
+        "max_level": 8,
+        "save_id": 39
+      },
+      {
+        "dex_id": 9061,
+        "max_level": 7,
+        "save_id": 40
+      },
+      {
+        "dex_id": 9068,
+        "max_level": 6,
+        "save_id": 41
+      },
+      {
+        "dex_id": 9074,
+        "max_level": 6,
+        "save_id": 42
+      },
+      {
+        "dex_id": 9154,
+        "max_level": 8,
+        "save_id": 43
+      },
+      {
+        "dex_id": 9230,
+        "max_level": 5,
+        "save_id": 44
+      },
+      {
+        "dex_id": 9169,
+        "max_level": 7,
+        "save_id": 45
+      },
+      {
+        "dex_id": 9176,
+        "max_level": 7,
+        "save_id": 46
+      },
+      {
+        "dex_id": 9162,
+        "max_level": 7,
+        "save_id": 47
+      },
+      {
+        "dex_id": 9183,
+        "max_level": 7,
+        "save_id": 48
+      },
+      {
+        "dex_id": 9190,
+        "max_level": 6,
+        "save_id": 49
+      },
+      {
+        "dex_id": 9196,
+        "max_level": 6,
+        "save_id": 50
+      },
+      {
+        "dex_id": 9271,
+        "max_level": 5,
+        "save_id": 51
+      },
+      {
+        "dex_id": 9202,
+        "max_level": 6,
+        "save_id": 52
+      },
+      {
+        "dex_id": 9208,
+        "max_level": 6,
+        "save_id": 53
+      },
+      {
+        "dex_id": 9214,
+        "max_level": 5,
+        "save_id": 54
+      },
+      {
+        "dex_id": 9245,
+        "max_level": 5,
+        "save_id": 55
+      },
+      {
+        "dex_id": 9250,
+        "max_level": 5,
+        "save_id": 56
+      },
+      {
+        "dex_id": 9235,
+        "max_level": 5,
+        "save_id": 57
+      },
+      {
+        "dex_id": 9240,
+        "max_level": 5,
+        "save_id": 58
+      },
+      {
+        "dex_id": 9276,
+        "max_level": 5,
+        "save_id": 59
+      },
+      {
+        "dex_id": 9281,
+        "max_level": 5,
+        "save_id": 60
+      },
+      {
+        "dex_id": 9286,
+        "max_level": 5,
+        "save_id": 61
+      },
+      {
+        "dex_id": 9291,
+        "max_level": 5,
+        "save_id": 62
+      },
+      {
+        "dex_id": 9142,
+        "max_level": 6,
+        "save_id": 63
+      },
+      {
+        "dex_id": 9136,
+        "max_level": 6,
+        "save_id": 64
+      },
+      {
+        "dex_id": 9219,
+        "max_level": 6,
+        "save_id": 65
+      },
+      {
+        "dex_id": 9225,
+        "max_level": 5,
+        "save_id": 66
+      },
+      {
+        "dex_id": 9080,
+        "max_level": 8,
+        "save_id": 67
+      },
+      {
+        "dex_id": 9088,
+        "max_level": 5,
+        "save_id": 68
+      },
+      {
+        "dex_id": 9255,
+        "max_level": 6,
+        "save_id": 69
+      },
+      {
+        "dex_id": 9118,
+        "max_level": 6,
+        "save_id": 70
+      },
+      {
+        "dex_id": 9130,
+        "max_level": 6,
+        "save_id": 71
+      },
+      {
+        "dex_id": 9124,
+        "max_level": 6,
+        "save_id": 72
+      },
+      {
+        "dex_id": 9093,
+        "max_level": 7,
+        "save_id": 73
+      },
+      {
+        "dex_id": 9100,
+        "max_level": 7,
+        "save_id": 74
+      },
+      {
+        "dex_id": 9107,
+        "max_level": 5,
+        "save_id": 75
+      },
+      {
+        "dex_id": 9148,
+        "max_level": 6,
+        "save_id": 76
+      },
+      {
+        "dex_id": 9112,
+        "max_level": 6,
+        "save_id": 77
+      },
+      {
+        "dex_id": 9329,
+        "max_level": 15,
+        "save_id": 78
+      },
+      {
+        "dex_id": 9344,
+        "max_level": 15,
+        "save_id": 79
+      },
+      {
+        "dex_id": 9359,
+        "max_level": 15,
+        "save_id": 80
+      },
+      {
+        "dex_id": 9374,
+        "max_level": 15,
+        "save_id": 81
+      },
+      {
+        "dex_id": 9389,
+        "max_level": 15,
+        "save_id": 82
+      },
+      {
+        "dex_id": 9404,
+        "max_level": 15,
+        "save_id": 83
+      },
+      {
+        "dex_id": 9419,
+        "max_level": 15,
+        "save_id": 84
+      },
+      {
+        "dex_id": 9266,
+        "max_level": 5,
+        "save_id": 85
+      },
+      {
+        "dex_id": 9317,
+        "max_level": 3,
+        "save_id": 86
+      },
+      {
+        "dex_id": 9296,
+        "max_level": 6,
+        "save_id": 87
+      },
+      {
+        "dex_id": 9444,
+        "max_level": 5,
+        "save_id": 88
+      },
+      {
+        "dex_id": 9439,
+        "max_level": 5,
+        "save_id": 89
+      },
+      {
+        "dex_id": 9449,
+        "max_level": 5,
+        "save_id": 90
+      },
+      {
+        "dex_id": 9454,
+        "max_level": 5,
+        "save_id": 91
+      },
+      {
+        "dex_id": 9434,
+        "max_level": 5,
+        "save_id": 92
+      },
+      {
+        "dex_id": 9320,
+        "max_level": 3,
+        "save_id": 93
+      },
+      {
+        "dex_id": 9323,
+        "max_level": 3,
+        "save_id": 94
+      },
+      {
+        "dex_id": 9326,
+        "max_level": 3,
+        "save_id": 95
+      },
+      {
+        "dex_id": 8779,
+        "max_level": 3,
+        "save_id": 96
+      },
+      {
+        "dex_id": 9314,
+        "max_level": 3,
+        "save_id": 97
+      },
+      {
+        "dex_id": 9012,
+        "max_level": 5,
+        "save_id": 98
+      },
+      {
+        "dex_id": 9017,
+        "max_level": 6,
+        "save_id": 99
+      },
+      {
+        "dex_id": 8834,
+        "max_level": 5,
+        "save_id": 100
+      },
+      {
+        "dex_id": 8996,
+        "max_level": 5,
+        "save_id": 101
+      },
+      {
+        "dex_id": 8917,
+        "max_level": 5,
+        "save_id": 102
+      },
+      {
+        "dex_id": 8847,
+        "max_level": 6,
+        "save_id": 103
+      },
+      {
+        "dex_id": 8896,
+        "max_level": 3,
+        "save_id": 104
+      },
+      {
+        "dex_id": 9305,
+        "max_level": 3,
+        "save_id": 105
+      },
+      {
+        "dex_id": 9261,
+        "max_level": 5,
+        "save_id": 106
+      },
+      {
+        "dex_id": 9308,
+        "max_level": 3,
+        "save_id": 107
+      },
+      {
+        "dex_id": 9302,
+        "max_level": 3,
+        "save_id": 108
+      },
+      {
+        "dex_id": 9311,
+        "max_level": 3,
+        "save_id": 109
+      }
+    ],
+    "weapon_long_sword": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 959,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 978,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 970,
+        "max_level": 8,
+        "save_id": 3
+      },
+      {
+        "dex_id": 986,
+        "max_level": 7,
+        "save_id": 4
+      },
+      {
+        "dex_id": 993,
+        "max_level": 5,
+        "save_id": 5
+      },
+      {
+        "dex_id": 1004,
+        "max_level": 6,
+        "save_id": 6
+      },
+      {
+        "dex_id": 1010,
+        "max_level": 9,
+        "save_id": 7
+      },
+      {
+        "dex_id": 1019,
+        "max_level": 6,
+        "save_id": 8
+      },
+      {
+        "dex_id": 1025,
+        "max_level": 11,
+        "save_id": 9
+      },
+      {
+        "dex_id": 1036,
+        "max_level": 8,
+        "save_id": 10
+      },
+      {
+        "dex_id": 1044,
+        "max_level": 9,
+        "save_id": 11
+      },
+      {
+        "dex_id": 1053,
+        "max_level": 5,
+        "save_id": 12
+      },
+      {
+        "dex_id": 1065,
+        "max_level": 8,
+        "save_id": 13
+      },
+      {
+        "dex_id": 1058,
+        "max_level": 7,
+        "save_id": 14
+      },
+      {
+        "dex_id": 1073,
+        "max_level": 7,
+        "save_id": 15
+      },
+      {
+        "dex_id": 1080,
+        "max_level": 5,
+        "save_id": 16
+      },
+      {
+        "dex_id": 1085,
+        "max_level": 8,
+        "save_id": 17
+      },
+      {
+        "dex_id": 1093,
+        "max_level": 6,
+        "save_id": 18
+      },
+      {
+        "dex_id": 1099,
+        "max_level": 10,
+        "save_id": 19
+      },
+      {
+        "dex_id": 1112,
+        "max_level": 5,
+        "save_id": 20
+      },
+      {
+        "dex_id": 1117,
+        "max_level": 7,
+        "save_id": 21
+      },
+      {
+        "dex_id": 1124,
+        "max_level": 6,
+        "save_id": 22
+      },
+      {
+        "dex_id": 1130,
+        "max_level": 11,
+        "save_id": 23
+      },
+      {
+        "dex_id": 1141,
+        "max_level": 6,
+        "save_id": 24
+      },
+      {
+        "dex_id": 1147,
+        "max_level": 7,
+        "save_id": 25
+      },
+      {
+        "dex_id": 1154,
+        "max_level": 6,
+        "save_id": 26
+      },
+      {
+        "dex_id": 1165,
+        "max_level": 9,
+        "save_id": 27
+      },
+      {
+        "dex_id": 1174,
+        "max_level": 6,
+        "save_id": 28
+      },
+      {
+        "dex_id": 1183,
+        "max_level": 7,
+        "save_id": 29
+      },
+      {
+        "dex_id": 1190,
+        "max_level": 7,
+        "save_id": 30
+      },
+      {
+        "dex_id": 1197,
+        "max_level": 6,
+        "save_id": 31
+      },
+      {
+        "dex_id": 1206,
+        "max_level": 8,
+        "save_id": 32
+      },
+      {
+        "dex_id": 1214,
+        "max_level": 6,
+        "save_id": 33
+      },
+      {
+        "dex_id": 1220,
+        "max_level": 7,
+        "save_id": 34
+      },
+      {
+        "dex_id": 1227,
+        "max_level": 5,
+        "save_id": 35
+      },
+      {
+        "dex_id": 1232,
+        "max_level": 7,
+        "save_id": 36
+      },
+      {
+        "dex_id": 1239,
+        "max_level": 5,
+        "save_id": 37
+      },
+      {
+        "dex_id": 1244,
+        "max_level": 9,
+        "save_id": 38
+      },
+      {
+        "dex_id": 1262,
+        "max_level": 9,
+        "save_id": 39
+      },
+      {
+        "dex_id": 1271,
+        "max_level": 6,
+        "save_id": 40
+      },
+      {
+        "dex_id": 1277,
+        "max_level": 6,
+        "save_id": 41
+      },
+      {
+        "dex_id": 1283,
+        "max_level": 8,
+        "save_id": 42
+      },
+      {
+        "dex_id": 1291,
+        "max_level": 7,
+        "save_id": 43
+      },
+      {
+        "dex_id": 1298,
+        "max_level": 8,
+        "save_id": 44
+      },
+      {
+        "dex_id": 1306,
+        "max_level": 6,
+        "save_id": 45
+      },
+      {
+        "dex_id": 1312,
+        "max_level": 5,
+        "save_id": 46
+      },
+      {
+        "dex_id": 1317,
+        "max_level": 7,
+        "save_id": 47
+      },
+      {
+        "dex_id": 1324,
+        "max_level": 5,
+        "save_id": 48
+      },
+      {
+        "dex_id": 1329,
+        "max_level": 8,
+        "save_id": 49
+      },
+      {
+        "dex_id": 1337,
+        "max_level": 7,
+        "save_id": 50
+      },
+      {
+        "dex_id": 1344,
+        "max_level": 9,
+        "save_id": 51
+      },
+      {
+        "dex_id": 1358,
+        "max_level": 6,
+        "save_id": 52
+      },
+      {
+        "dex_id": 1353,
+        "max_level": 5,
+        "save_id": 53
+      },
+      {
+        "dex_id": 1364,
+        "max_level": 8,
+        "save_id": 54
+      },
+      {
+        "dex_id": 1372,
+        "max_level": 6,
+        "save_id": 55
+      },
+      {
+        "dex_id": 1378,
+        "max_level": 7,
+        "save_id": 56
+      },
+      {
+        "dex_id": 1385,
+        "max_level": 6,
+        "save_id": 57
+      },
+      {
+        "dex_id": 1443,
+        "max_level": 9,
+        "save_id": 58
+      },
+      {
+        "dex_id": 1452,
+        "max_level": 9,
+        "save_id": 59
+      },
+      {
+        "dex_id": 1434,
+        "max_level": 9,
+        "save_id": 60
+      },
+      {
+        "dex_id": 1461,
+        "max_level": 9,
+        "save_id": 61
+      },
+      {
+        "dex_id": 1470,
+        "max_level": 7,
+        "save_id": 62
+      },
+      {
+        "dex_id": 1477,
+        "max_level": 8,
+        "save_id": 63
+      },
+      {
+        "dex_id": 1539,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 1544,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 1485,
+        "max_level": 7,
+        "save_id": 66
+      },
+      {
+        "dex_id": 1492,
+        "max_level": 5,
+        "save_id": 67
+      },
+      {
+        "dex_id": 1594,
+        "max_level": 5,
+        "save_id": 68
+      },
+      {
+        "dex_id": 1599,
+        "max_level": 5,
+        "save_id": 69
+      },
+      {
+        "dex_id": 1609,
+        "max_level": 5,
+        "save_id": 70
+      },
+      {
+        "dex_id": 1604,
+        "max_level": 5,
+        "save_id": 71
+      },
+      {
+        "dex_id": 1522,
+        "max_level": 7,
+        "save_id": 72
+      },
+      {
+        "dex_id": 1529,
+        "max_level": 5,
+        "save_id": 73
+      },
+      {
+        "dex_id": 1534,
+        "max_level": 5,
+        "save_id": 74
+      },
+      {
+        "dex_id": 1405,
+        "max_level": 7,
+        "save_id": 75
+      },
+      {
+        "dex_id": 1510,
+        "max_level": 7,
+        "save_id": 76
+      },
+      {
+        "dex_id": 1391,
+        "max_level": 8,
+        "save_id": 77
+      },
+      {
+        "dex_id": 1399,
+        "max_level": 6,
+        "save_id": 78
+      },
+      {
+        "dex_id": 1421,
+        "max_level": 7,
+        "save_id": 79
+      },
+      {
+        "dex_id": 1428,
+        "max_level": 6,
+        "save_id": 80
+      },
+      {
+        "dex_id": 1549,
+        "max_level": 5,
+        "save_id": 81
+      },
+      {
+        "dex_id": 1415,
+        "max_level": 6,
+        "save_id": 82
+      },
+      {
+        "dex_id": 1589,
+        "max_level": 5,
+        "save_id": 83
+      },
+      {
+        "dex_id": 1497,
+        "max_level": 6,
+        "save_id": 84
+      },
+      {
+        "dex_id": 1503,
+        "max_level": 7,
+        "save_id": 85
+      },
+      {
+        "dex_id": 1644,
+        "max_level": 15,
+        "save_id": 86
+      },
+      {
+        "dex_id": 1659,
+        "max_level": 15,
+        "save_id": 87
+      },
+      {
+        "dex_id": 1674,
+        "max_level": 15,
+        "save_id": 88
+      },
+      {
+        "dex_id": 1689,
+        "max_level": 15,
+        "save_id": 89
+      },
+      {
+        "dex_id": 1704,
+        "max_level": 15,
+        "save_id": 90
+      },
+      {
+        "dex_id": 1719,
+        "max_level": 15,
+        "save_id": 91
+      },
+      {
+        "dex_id": 1734,
+        "max_level": 15,
+        "save_id": 92
+      },
+      {
+        "dex_id": 1749,
+        "max_level": 15,
+        "save_id": 93
+      },
+      {
+        "dex_id": 1764,
+        "max_level": 15,
+        "save_id": 94
+      },
+      {
+        "dex_id": 1779,
+        "max_level": 15,
+        "save_id": 95
+      },
+      {
+        "dex_id": 1794,
+        "max_level": 15,
+        "save_id": 96
+      },
+      {
+        "dex_id": 1559,
+        "max_level": 5,
+        "save_id": 97
+      },
+      {
+        "dex_id": 1564,
+        "max_level": 5,
+        "save_id": 98
+      },
+      {
+        "dex_id": 1569,
+        "max_level": 5,
+        "save_id": 99
+      },
+      {
+        "dex_id": -1,
+        "english": "DUMMY",
+        "max_level": 5,
+        "save_id": 100
+      },
+      {
+        "dex_id": 1579,
+        "max_level": 5,
+        "save_id": 101
+      },
+      {
+        "dex_id": 1584,
+        "max_level": 5,
+        "save_id": 102
+      },
+      {
+        "dex_id": 1635,
+        "max_level": 3,
+        "save_id": 103
+      },
+      {
+        "dex_id": 1614,
+        "max_level": 6,
+        "save_id": 104
+      },
+      {
+        "dex_id": 1824,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 1819,
+        "max_level": 5,
+        "save_id": 106
+      },
+      {
+        "dex_id": 1829,
+        "max_level": 5,
+        "save_id": 107
+      },
+      {
+        "dex_id": 1814,
+        "max_level": 5,
+        "save_id": 108
+      },
+      {
+        "dex_id": 1809,
+        "max_level": 5,
+        "save_id": 109
+      },
+      {
+        "dex_id": 1632,
+        "max_level": 3,
+        "save_id": 110
+      },
+      {
+        "dex_id": 1638,
+        "max_level": 3,
+        "save_id": 111
+      },
+      {
+        "dex_id": 1641,
+        "max_level": 3,
+        "save_id": 112
+      },
+      {
+        "dex_id": 1203,
+        "max_level": 3,
+        "save_id": 113
+      },
+      {
+        "dex_id": 1629,
+        "max_level": 3,
+        "save_id": 114
+      },
+      {
+        "dex_id": 998,
+        "max_level": 6,
+        "save_id": 115
+      },
+      {
+        "dex_id": 1160,
+        "max_level": 5,
+        "save_id": 116
+      },
+      {
+        "dex_id": 1253,
+        "max_level": 6,
+        "save_id": 117
+      },
+      {
+        "dex_id": 1259,
+        "max_level": 3,
+        "save_id": 118
+      },
+      {
+        "dex_id": 1109,
+        "max_level": 3,
+        "save_id": 119
+      },
+      {
+        "dex_id": 1412,
+        "max_level": 3,
+        "save_id": 120
+      },
+      {
+        "dex_id": 1180,
+        "max_level": 3,
+        "save_id": 121
+      },
+      {
+        "dex_id": 1554,
+        "max_level": 5,
+        "save_id": 122
+      },
+      {
+        "dex_id": 1623,
+        "max_level": 3,
+        "save_id": 123
+      },
+      {
+        "dex_id": 1620,
+        "max_level": 3,
+        "save_id": 124
+      },
+      {
+        "dex_id": 1626,
+        "max_level": 3,
+        "save_id": 125
+      },
+      {
+        "dex_id": -1,
+        "english": "DUMMY",
+        "max_level": 5,
+        "save_id": 126
+      }
+    ],
+    "weapon_switch_axe": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 6907,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 6936,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 6918,
+        "max_level": 5,
+        "save_id": 3
+      },
+      {
+        "dex_id": 6923,
+        "max_level": 7,
+        "save_id": 4
+      },
+      {
+        "dex_id": 6930,
+        "max_level": 6,
+        "save_id": 5
+      },
+      {
+        "dex_id": 6944,
+        "max_level": 8,
+        "save_id": 6
+      },
+      {
+        "dex_id": 6952,
+        "max_level": 8,
+        "save_id": 7
+      },
+      {
+        "dex_id": 6960,
+        "max_level": 7,
+        "save_id": 8
+      },
+      {
+        "dex_id": 6967,
+        "max_level": 6,
+        "save_id": 9
+      },
+      {
+        "dex_id": 6976,
+        "max_level": 7,
+        "save_id": 10
+      },
+      {
+        "dex_id": 6983,
+        "max_level": 11,
+        "save_id": 11
+      },
+      {
+        "dex_id": 6994,
+        "max_level": 8,
+        "save_id": 12
+      },
+      {
+        "dex_id": 7002,
+        "max_level": 6,
+        "save_id": 13
+      },
+      {
+        "dex_id": 7008,
+        "max_level": 5,
+        "save_id": 14
+      },
+      {
+        "dex_id": 7013,
+        "max_level": 5,
+        "save_id": 15
+      },
+      {
+        "dex_id": 7024,
+        "max_level": 7,
+        "save_id": 16
+      },
+      {
+        "dex_id": 7031,
+        "max_level": 6,
+        "save_id": 17
+      },
+      {
+        "dex_id": 7037,
+        "max_level": 7,
+        "save_id": 18
+      },
+      {
+        "dex_id": 7044,
+        "max_level": 5,
+        "save_id": 19
+      },
+      {
+        "dex_id": 7049,
+        "max_level": 7,
+        "save_id": 20
+      },
+      {
+        "dex_id": 7056,
+        "max_level": 9,
+        "save_id": 21
+      },
+      {
+        "dex_id": 7065,
+        "max_level": 8,
+        "save_id": 22
+      },
+      {
+        "dex_id": 7073,
+        "max_level": 7,
+        "save_id": 23
+      },
+      {
+        "dex_id": 7080,
+        "max_level": 11,
+        "save_id": 24
+      },
+      {
+        "dex_id": 7091,
+        "max_level": 7,
+        "save_id": 25
+      },
+      {
+        "dex_id": 7098,
+        "max_level": 7,
+        "save_id": 26
+      },
+      {
+        "dex_id": 7105,
+        "max_level": 7,
+        "save_id": 27
+      },
+      {
+        "dex_id": 7112,
+        "max_level": 5,
+        "save_id": 28
+      },
+      {
+        "dex_id": 7129,
+        "max_level": 8,
+        "save_id": 29
+      },
+      {
+        "dex_id": 7137,
+        "max_level": 5,
+        "save_id": 30
+      },
+      {
+        "dex_id": 7142,
+        "max_level": 8,
+        "save_id": 31
+      },
+      {
+        "dex_id": 7157,
+        "max_level": 8,
+        "save_id": 32
+      },
+      {
+        "dex_id": 7165,
+        "max_level": 6,
+        "save_id": 33
+      },
+      {
+        "dex_id": 7171,
+        "max_level": 7,
+        "save_id": 34
+      },
+      {
+        "dex_id": 7178,
+        "max_level": 8,
+        "save_id": 35
+      },
+      {
+        "dex_id": 7191,
+        "max_level": 7,
+        "save_id": 36
+      },
+      {
+        "dex_id": 7198,
+        "max_level": 6,
+        "save_id": 37
+      },
+      {
+        "dex_id": 7204,
+        "max_level": 7,
+        "save_id": 38
+      },
+      {
+        "dex_id": 7211,
+        "max_level": 5,
+        "save_id": 39
+      },
+      {
+        "dex_id": 7216,
+        "max_level": 8,
+        "save_id": 40
+      },
+      {
+        "dex_id": 7274,
+        "max_level": 9,
+        "save_id": 41
+      },
+      {
+        "dex_id": 7283,
+        "max_level": 9,
+        "save_id": 42
+      },
+      {
+        "dex_id": 7265,
+        "max_level": 9,
+        "save_id": 43
+      },
+      {
+        "dex_id": 7292,
+        "max_level": 9,
+        "save_id": 44
+      },
+      {
+        "dex_id": 7301,
+        "max_level": 7,
+        "save_id": 45
+      },
+      {
+        "dex_id": 7308,
+        "max_level": 8,
+        "save_id": 46
+      },
+      {
+        "dex_id": 7316,
+        "max_level": 8,
+        "save_id": 47
+      },
+      {
+        "dex_id": 7324,
+        "max_level": 6,
+        "save_id": 48
+      },
+      {
+        "dex_id": 7330,
+        "max_level": 6,
+        "save_id": 49
+      },
+      {
+        "dex_id": 7391,
+        "max_level": 6,
+        "save_id": 50
+      },
+      {
+        "dex_id": 7397,
+        "max_level": 5,
+        "save_id": 51
+      },
+      {
+        "dex_id": 7402,
+        "max_level": 5,
+        "save_id": 52
+      },
+      {
+        "dex_id": 7407,
+        "max_level": 5,
+        "save_id": 53
+      },
+      {
+        "dex_id": 7336,
+        "max_level": 7,
+        "save_id": 54
+      },
+      {
+        "dex_id": 7343,
+        "max_level": 5,
+        "save_id": 55
+      },
+      {
+        "dex_id": 7436,
+        "max_level": 5,
+        "save_id": 56
+      },
+      {
+        "dex_id": 7441,
+        "max_level": 5,
+        "save_id": 57
+      },
+      {
+        "dex_id": 7451,
+        "max_level": 5,
+        "save_id": 58
+      },
+      {
+        "dex_id": 7446,
+        "max_level": 5,
+        "save_id": 59
+      },
+      {
+        "dex_id": 7374,
+        "max_level": 7,
+        "save_id": 60
+      },
+      {
+        "dex_id": 7381,
+        "max_level": 5,
+        "save_id": 61
+      },
+      {
+        "dex_id": 7386,
+        "max_level": 5,
+        "save_id": 62
+      },
+      {
+        "dex_id": 7244,
+        "max_level": 8,
+        "save_id": 63
+      },
+      {
+        "dex_id": 7367,
+        "max_level": 7,
+        "save_id": 64
+      },
+      {
+        "dex_id": 7224,
+        "max_level": 8,
+        "save_id": 65
+      },
+      {
+        "dex_id": 7232,
+        "max_level": 6,
+        "save_id": 66
+      },
+      {
+        "dex_id": 7258,
+        "max_level": 7,
+        "save_id": 67
+      },
+      {
+        "dex_id": 7348,
+        "max_level": 6,
+        "save_id": 68
+      },
+      {
+        "dex_id": 7252,
+        "max_level": 6,
+        "save_id": 69
+      },
+      {
+        "dex_id": 7238,
+        "max_level": 6,
+        "save_id": 70
+      },
+      {
+        "dex_id": 7354,
+        "max_level": 7,
+        "save_id": 71
+      },
+      {
+        "dex_id": 7361,
+        "max_level": 6,
+        "save_id": 72
+      },
+      {
+        "dex_id": 7486,
+        "max_level": 15,
+        "save_id": 73
+      },
+      {
+        "dex_id": 7501,
+        "max_level": 15,
+        "save_id": 74
+      },
+      {
+        "dex_id": 7516,
+        "max_level": 15,
+        "save_id": 75
+      },
+      {
+        "dex_id": 7531,
+        "max_level": 15,
+        "save_id": 76
+      },
+      {
+        "dex_id": 7546,
+        "max_level": 15,
+        "save_id": 77
+      },
+      {
+        "dex_id": 7561,
+        "max_level": 15,
+        "save_id": 78
+      },
+      {
+        "dex_id": 7576,
+        "max_level": 15,
+        "save_id": 79
+      },
+      {
+        "dex_id": 7591,
+        "max_level": 15,
+        "save_id": 80
+      },
+      {
+        "dex_id": 7606,
+        "max_level": 15,
+        "save_id": 81
+      },
+      {
+        "dex_id": 7621,
+        "max_level": 15,
+        "save_id": 82
+      },
+      {
+        "dex_id": 7636,
+        "max_level": 15,
+        "save_id": 83
+      },
+      {
+        "dex_id": 7417,
+        "max_level": 5,
+        "save_id": 84
+      },
+      {
+        "dex_id": 7422,
+        "max_level": 5,
+        "save_id": 85
+      },
+      {
+        "dex_id": 7427,
+        "max_level": 5,
+        "save_id": 86
+      },
+      {
+        "dex_id": 7477,
+        "max_level": 3,
+        "save_id": 87
+      },
+      {
+        "dex_id": 7456,
+        "max_level": 6,
+        "save_id": 88
+      },
+      {
+        "dex_id": 7661,
+        "max_level": 5,
+        "save_id": 89
+      },
+      {
+        "dex_id": 7656,
+        "max_level": 5,
+        "save_id": 90
+      },
+      {
+        "dex_id": 7666,
+        "max_level": 5,
+        "save_id": 91
+      },
+      {
+        "dex_id": 7671,
+        "max_level": 5,
+        "save_id": 92
+      },
+      {
+        "dex_id": 7651,
+        "max_level": 5,
+        "save_id": 93
+      },
+      {
+        "dex_id": 7474,
+        "max_level": 3,
+        "save_id": 94
+      },
+      {
+        "dex_id": 7480,
+        "max_level": 3,
+        "save_id": 95
+      },
+      {
+        "dex_id": 7483,
+        "max_level": 3,
+        "save_id": 96
+      },
+      {
+        "dex_id": 6973,
+        "max_level": 3,
+        "save_id": 97
+      },
+      {
+        "dex_id": 7471,
+        "max_level": 3,
+        "save_id": 98
+      },
+      {
+        "dex_id": 7186,
+        "max_level": 5,
+        "save_id": 99
+      },
+      {
+        "dex_id": 7117,
+        "max_level": 6,
+        "save_id": 100
+      },
+      {
+        "dex_id": 7150,
+        "max_level": 4,
+        "save_id": 101
+      },
+      {
+        "dex_id": 7154,
+        "max_level": 3,
+        "save_id": 102
+      },
+      {
+        "dex_id": 7123,
+        "max_level": 6,
+        "save_id": 103
+      },
+      {
+        "dex_id": 7018,
+        "max_level": 6,
+        "save_id": 104
+      },
+      {
+        "dex_id": 7412,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 7468,
+        "max_level": 3,
+        "save_id": 106
+      },
+      {
+        "dex_id": 7465,
+        "max_level": 3,
+        "save_id": 107
+      },
+      {
+        "dex_id": 7462,
+        "max_level": 3,
+        "save_id": 108
+      },
+      {
+        "dex_id": -1,
+        "english": "DUMMY",
+        "max_level": 4,
+        "save_id": 109
+      }
+    ],
+    "weapon_sword_and_shield": [
+      {
+        "dex_id": 0,
+        "english": "None",
+        "max_level": 0,
+        "save_id": 0
+      },
+      {
+        "dex_id": 1834,
+        "max_level": 11,
+        "save_id": 1
+      },
+      {
+        "dex_id": 1861,
+        "max_level": 8,
+        "save_id": 2
+      },
+      {
+        "dex_id": 1845,
+        "max_level": 7,
+        "save_id": 3
+      },
+      {
+        "dex_id": 1852,
+        "max_level": 6,
+        "save_id": 4
+      },
+      {
+        "dex_id": 1875,
+        "max_level": 8,
+        "save_id": 5
+      },
+      {
+        "dex_id": 1883,
+        "max_level": 7,
+        "save_id": 6
+      },
+      {
+        "dex_id": 1890,
+        "max_level": 7,
+        "save_id": 7
+      },
+      {
+        "dex_id": 1900,
+        "max_level": 8,
+        "save_id": 8
+      },
+      {
+        "dex_id": 1908,
+        "max_level": 8,
+        "save_id": 9
+      },
+      {
+        "dex_id": 1916,
+        "max_level": 9,
+        "save_id": 10
+      },
+      {
+        "dex_id": 1925,
+        "max_level": 11,
+        "save_id": 11
+      },
+      {
+        "dex_id": 1936,
+        "max_level": 6,
+        "save_id": 12
+      },
+      {
+        "dex_id": 1942,
+        "max_level": 8,
+        "save_id": 13
+      },
+      {
+        "dex_id": 1957,
+        "max_level": 6,
+        "save_id": 14
+      },
+      {
+        "dex_id": 1963,
+        "max_level": 5,
+        "save_id": 15
+      },
+      {
+        "dex_id": 1968,
+        "max_level": 8,
+        "save_id": 16
+      },
+      {
+        "dex_id": 1976,
+        "max_level": 8,
+        "save_id": 17
+      },
+      {
+        "dex_id": 1984,
+        "max_level": 8,
+        "save_id": 18
+      },
+      {
+        "dex_id": 1992,
+        "max_level": 7,
+        "save_id": 19
+      },
+      {
+        "dex_id": 1999,
+        "max_level": 8,
+        "save_id": 20
+      },
+      {
+        "dex_id": 2007,
+        "max_level": 5,
+        "save_id": 21
+      },
+      {
+        "dex_id": 2012,
+        "max_level": 7,
+        "save_id": 22
+      },
+      {
+        "dex_id": 2019,
+        "max_level": 9,
+        "save_id": 23
+      },
+      {
+        "dex_id": 2041,
+        "max_level": 7,
+        "save_id": 24
+      },
+      {
+        "dex_id": 2048,
+        "max_level": 8,
+        "save_id": 25
+      },
+      {
+        "dex_id": 2056,
+        "max_level": 8,
+        "save_id": 26
+      },
+      {
+        "dex_id": 2028,
+        "max_level": 7,
+        "save_id": 27
+      },
+      {
+        "dex_id": 2035,
+        "max_level": 6,
+        "save_id": 28
+      },
+      {
+        "dex_id": 2064,
+        "max_level": 11,
+        "save_id": 29
+      },
+      {
+        "dex_id": 2078,
+        "max_level": 8,
+        "save_id": 30
+      },
+      {
+        "dex_id": 2086,
+        "max_level": 5,
+        "save_id": 31
+      },
+      {
+        "dex_id": 2091,
+        "max_level": 5,
+        "save_id": 32
+      },
+      {
+        "dex_id": 2104,
+        "max_level": 9,
+        "save_id": 33
+      },
+      {
+        "dex_id": 2118,
+        "max_level": 6,
+        "save_id": 34
+      },
+      {
+        "dex_id": 2124,
+        "max_level": 5,
+        "save_id": 35
+      },
+      {
+        "dex_id": 2129,
+        "max_level": 6,
+        "save_id": 36
+      },
+      {
+        "dex_id": 2135,
+        "max_level": 7,
+        "save_id": 37
+      },
+      {
+        "dex_id": 2142,
+        "max_level": 7,
+        "save_id": 38
+      },
+      {
+        "dex_id": 2164,
+        "max_level": 8,
+        "save_id": 39
+      },
+      {
+        "dex_id": 2149,
+        "max_level": 7,
+        "save_id": 40
+      },
+      {
+        "dex_id": 2156,
+        "max_level": 8,
+        "save_id": 41
+      },
+      {
+        "dex_id": 2172,
+        "max_level": 7,
+        "save_id": 42
+      },
+      {
+        "dex_id": 2179,
+        "max_level": 6,
+        "save_id": 43
+      },
+      {
+        "dex_id": 2185,
+        "max_level": 5,
+        "save_id": 44
+      },
+      {
+        "dex_id": 2190,
+        "max_level": 7,
+        "save_id": 45
+      },
+      {
+        "dex_id": 2197,
+        "max_level": 6,
+        "save_id": 46
+      },
+      {
+        "dex_id": 2203,
+        "max_level": 9,
+        "save_id": 47
+      },
+      {
+        "dex_id": 2212,
+        "max_level": 8,
+        "save_id": 48
+      },
+      {
+        "dex_id": 2220,
+        "max_level": 9,
+        "save_id": 49
+      },
+      {
+        "dex_id": 2250,
+        "max_level": 8,
+        "save_id": 50
+      },
+      {
+        "dex_id": 2258,
+        "max_level": 8,
+        "save_id": 51
+      },
+      {
+        "dex_id": 2229,
+        "max_level": 6,
+        "save_id": 52
+      },
+      {
+        "dex_id": 2235,
+        "max_level": 6,
+        "save_id": 53
+      },
+      {
+        "dex_id": 2348,
+        "max_level": 9,
+        "save_id": 54
+      },
+      {
+        "dex_id": 2357,
+        "max_level": 9,
+        "save_id": 55
+      },
+      {
+        "dex_id": 2339,
+        "max_level": 9,
+        "save_id": 56
+      },
+      {
+        "dex_id": 2366,
+        "max_level": 9,
+        "save_id": 57
+      },
+      {
+        "dex_id": 2375,
+        "max_level": 7,
+        "save_id": 58
+      },
+      {
+        "dex_id": 2382,
+        "max_level": 8,
+        "save_id": 59
+      },
+      {
+        "dex_id": 2390,
+        "max_level": 8,
+        "save_id": 60
+      },
+      {
+        "dex_id": 2398,
+        "max_level": 7,
+        "save_id": 61
+      },
+      {
+        "dex_id": 2405,
+        "max_level": 5,
+        "save_id": 62
+      },
+      {
+        "dex_id": 2499,
+        "max_level": 5,
+        "save_id": 63
+      },
+      {
+        "dex_id": 2504,
+        "max_level": 5,
+        "save_id": 64
+      },
+      {
+        "dex_id": 2514,
+        "max_level": 5,
+        "save_id": 65
+      },
+      {
+        "dex_id": 2509,
+        "max_level": 5,
+        "save_id": 66
+      },
+      {
+        "dex_id": 2280,
+        "max_level": 3,
+        "save_id": 67
+      },
+      {
+        "dex_id": 2283,
+        "max_level": 6,
+        "save_id": 68
+      },
+      {
+        "dex_id": 2289,
+        "max_level": 6,
+        "save_id": 69
+      },
+      {
+        "dex_id": 2437,
+        "max_level": 7,
+        "save_id": 70
+      },
+      {
+        "dex_id": 2444,
+        "max_level": 5,
+        "save_id": 71
+      },
+      {
+        "dex_id": 2449,
+        "max_level": 5,
+        "save_id": 72
+      },
+      {
+        "dex_id": 2295,
+        "max_level": 8,
+        "save_id": 73
+      },
+      {
+        "dex_id": 2422,
+        "max_level": 7,
+        "save_id": 74
+      },
+      {
+        "dex_id": 2266,
+        "max_level": 8,
+        "save_id": 75
+      },
+      {
+        "dex_id": 2274,
+        "max_level": 6,
+        "save_id": 76
+      },
+      {
+        "dex_id": 2326,
+        "max_level": 6,
+        "save_id": 77
+      },
+      {
+        "dex_id": 2429,
+        "max_level": 8,
+        "save_id": 78
+      },
+      {
+        "dex_id": 2460,
+        "max_level": 5,
+        "save_id": 79
+      },
+      {
+        "dex_id": 2314,
+        "max_level": 6,
+        "save_id": 80
+      },
+      {
+        "dex_id": 2320,
+        "max_level": 6,
+        "save_id": 81
+      },
+      {
+        "dex_id": 2410,
+        "max_level": 6,
+        "save_id": 82
+      },
+      {
+        "dex_id": 2465,
+        "max_level": 5,
+        "save_id": 83
+      },
+      {
+        "dex_id": 2454,
+        "max_level": 6,
+        "save_id": 84
+      },
+      {
+        "dex_id": 2303,
+        "max_level": 6,
+        "save_id": 85
+      },
+      {
+        "dex_id": 2309,
+        "max_level": 5,
+        "save_id": 86
+      },
+      {
+        "dex_id": 2332,
+        "max_level": 7,
+        "save_id": 87
+      },
+      {
+        "dex_id": 2416,
+        "max_level": 6,
+        "save_id": 88
+      },
+      {
+        "dex_id": 2546,
+        "max_level": 15,
+        "save_id": 89
+      },
+      {
+        "dex_id": 2561,
+        "max_level": 15,
+        "save_id": 90
+      },
+      {
+        "dex_id": 2576,
+        "max_level": 15,
+        "save_id": 91
+      },
+      {
+        "dex_id": 2591,
+        "max_level": 15,
+        "save_id": 92
+      },
+      {
+        "dex_id": 2606,
+        "max_level": 15,
+        "save_id": 93
+      },
+      {
+        "dex_id": 2621,
+        "max_level": 15,
+        "save_id": 94
+      },
+      {
+        "dex_id": 2636,
+        "max_level": 15,
+        "save_id": 95
+      },
+      {
+        "dex_id": 2651,
+        "max_level": 15,
+        "save_id": 96
+      },
+      {
+        "dex_id": 2666,
+        "max_level": 15,
+        "save_id": 97
+      },
+      {
+        "dex_id": 2475,
+        "max_level": 5,
+        "save_id": 98
+      },
+      {
+        "dex_id": 2480,
+        "max_level": 5,
+        "save_id": 99
+      },
+      {
+        "dex_id": -1,
+        "english": "DUMMY",
+        "max_level": 5,
+        "save_id": 100
+      },
+      {
+        "dex_id": 2490,
+        "max_level": 5,
+        "save_id": 101
+      },
+      {
+        "dex_id": 2537,
+        "max_level": 3,
+        "save_id": 102
+      },
+      {
+        "dex_id": 2519,
+        "max_level": 6,
+        "save_id": 103
+      },
+      {
+        "dex_id": 2696,
+        "max_level": 5,
+        "save_id": 104
+      },
+      {
+        "dex_id": 2691,
+        "max_level": 5,
+        "save_id": 105
+      },
+      {
+        "dex_id": 2701,
+        "max_level": 5,
+        "save_id": 106
+      },
+      {
+        "dex_id": 2706,
+        "max_level": 5,
+        "save_id": 107
+      },
+      {
+        "dex_id": 2686,
+        "max_level": 5,
+        "save_id": 108
+      },
+      {
+        "dex_id": 2681,
+        "max_level": 5,
+        "save_id": 109
+      },
+      {
+        "dex_id": 2540,
+        "max_level": 3,
+        "save_id": 110
+      },
+      {
+        "dex_id": 2543,
+        "max_level": 3,
+        "save_id": 111
+      },
+      {
+        "dex_id": 1858,
+        "max_level": 3,
+        "save_id": 112
+      },
+      {
+        "dex_id": 2534,
+        "max_level": 3,
+        "save_id": 113
+      },
+      {
+        "dex_id": 2099,
+        "max_level": 5,
+        "save_id": 114
+      },
+      {
+        "dex_id": 2113,
+        "max_level": 5,
+        "save_id": 115
+      },
+      {
+        "dex_id": 1950,
+        "max_level": 4,
+        "save_id": 116
+      },
+      {
+        "dex_id": 1954,
+        "max_level": 3,
+        "save_id": 117
+      },
+      {
+        "dex_id": 1869,
+        "max_level": 6,
+        "save_id": 118
+      },
+      {
+        "dex_id": 2241,
+        "max_level": 6,
+        "save_id": 119
+      },
+      {
+        "dex_id": 2247,
+        "max_level": 3,
+        "save_id": 120
+      },
+      {
+        "dex_id": 2096,
+        "max_level": 3,
+        "save_id": 121
+      },
+      {
+        "dex_id": 2075,
+        "max_level": 3,
+        "save_id": 122
+      },
+      {
+        "dex_id": 1897,
+        "max_level": 3,
+        "save_id": 123
+      },
+      {
+        "dex_id": 2470,
+        "max_level": 5,
+        "save_id": 124
+      },
+      {
+        "dex_id": 2528,
+        "max_level": 3,
+        "save_id": 125
+      },
+      {
+        "dex_id": 2525,
+        "max_level": 3,
+        "save_id": 126
+      },
+      {
+        "dex_id": 2531,
+        "max_level": 3,
+        "save_id": 127
+      },
+      {
+        "dex_id": 2495,
+        "max_level": 4,
+        "save_id": 128
+      }
+    ]
+  }
+}

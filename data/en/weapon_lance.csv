@@ -1,0 +1,128 @@
+id,name,english,source,rarity,max_level
+0,None,None,mhxx-save-format-community,0,0
+1,Petrified Lance,Petrified Lance,mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Obsidian Lance,Obsidian Lance,mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,Cross Coloris,Cross Coloris,mhxx-dex-1.0+mhxx-save-format-community,2,8
+4,Incessant Raven,Incessant Raven,mhxx-dex-1.0+mhxx-save-format-community,3,7
+5,Incessant Evil,Incessant Evil,mhxx-dex-1.0+mhxx-save-format-community,6,5
+6,Twistcrawl,Twistcrawl,mhxx-dex-1.0+mhxx-save-format-community,2,7
+7,Twisting Crawler,Twisting Crawler,mhxx-dex-1.0+mhxx-save-format-community,5,5
+8,Boros Spear,Boros Spear,mhxx-dex-1.0+mhxx-save-format-community,6,5
+9,Naag Serpentblade,Naag Serpentblade,mhxx-dex-1.0+mhxx-save-format-community,2,8
+10,Iron Lance,Iron Lance,mhxx-dex-1.0+mhxx-save-format-community,1,11
+11,Squire Spear,Squire Spear,mhxx-dex-1.0+mhxx-save-format-community,4,7
+12,Estoc,Estoc,mhxx-dex-1.0+mhxx-save-format-community,2,7
+13,Paladin Lance,Paladin Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
+14,Babel Spear,Babel Spear,mhxx-dex-1.0+mhxx-save-format-community,5,6
+15,Growling Wyvern,Growling Wyvern,mhxx-dex-1.0+mhxx-save-format-community,4,7
+16,Tiger Stinger,Tiger Stinger,mhxx-dex-1.0+mhxx-save-format-community,3,7
+17,Lava Cone,Lava Cone,mhxx-dex-1.0+mhxx-save-format-community,5,5
+18,Thane Lance,Thane Lance,mhxx-dex-1.0+mhxx-save-format-community,1,10
+19,Acrus Lance,Acrus Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
+20,Doris Spear,Doris Spear,mhxx-dex-1.0+mhxx-save-format-community,6,6
+21,Steel Knight's Pike,Steel Knight's Pike,mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,Dragon Rider Spear,Dragon Rider Spear,mhxx-dex-1.0+mhxx-save-format-community,6,6
+23,Drill Lance,Drill Lance,mhxx-dex-1.0+mhxx-save-format-community,2,8
+24,Hidden Stinger,Hidden Stinger,mhxx-dex-1.0+mhxx-save-format-community,2,8
+25,Spiked Spear,Spiked Spear,mhxx-dex-1.0+mhxx-save-format-community,1,8
+26,Aqua Spear,Aqua Spear,mhxx-dex-1.0+mhxx-save-format-community,4,6
+27,Rockabye Spear,Rockabye Spear,mhxx-dex-1.0+mhxx-save-format-community,5,6
+28,Thunderspear,Thunderspear,mhxx-dex-1.0+mhxx-save-format-community,3,8
+29,Type 43 Dragonlance,Type 43 Dragonlance,mhxx-dex-1.0+mhxx-save-format-community,2,7
+30,Bone Lance,Bone Lance,mhxx-dex-1.0+mhxx-save-format-community,1,11
+31,Longhorn Spear,Longhorn Spear,mhxx-dex-1.0+mhxx-save-format-community,1,8
+32,Giant Tusk,Giant Tusk,mhxx-dex-1.0+mhxx-save-format-community,5,6
+33,Harbah Lance,Harbah Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
+34,Seditious Lance,Seditious Lance,mhxx-dex-1.0+mhxx-save-format-community,6,6
+35,Barbarian Tusk,Barbarian Tusk,mhxx-dex-1.0+mhxx-save-format-community,3,8
+36,Barbaroi Tusk,Barbaroi Tusk,mhxx-dex-1.0+mhxx-save-format-community,4,6
+37,Bone Claw Lance,Bone Claw Lance,mhxx-dex-1.0+mhxx-save-format-community,2,8
+38,Ceanataur Stinger,Ceanataur Stinger,mhxx-dex-1.0+mhxx-save-format-community,2,8
+39,Volvi Stroke,Volvi Stroke,mhxx-dex-1.0+mhxx-save-format-community,2,8
+40,Ploshasta,Ploshasta,mhxx-dex-1.0+mhxx-save-format-community,1,9
+41,Spiral Heat,Spiral Heat,mhxx-dex-1.0+mhxx-save-format-community,6,6
+42,Usurper's Coming,Usurper's Coming,mhxx-dex-1.0+mhxx-save-format-community,3,7
+43,Ludroth Bone Spear,Ludroth Bone Spear,mhxx-dex-1.0+mhxx-save-format-community,1,7
+44,Spiral Lance,Spiral Lance,mhxx-dex-1.0+mhxx-save-format-community,2,8
+45,Dark Lance,Dark Lance,mhxx-dex-1.0+mhxx-save-format-community,2,8
+46,Wild Boar Lance,Wild Boar Lance,mhxx-dex-1.0+mhxx-save-format-community,1,9
+47,Demon Lance,Demon Lance,mhxx-dex-1.0+mhxx-save-format-community,6,6
+48,Demonlord Spear,Demonlord Spear,mhxx-dex-1.0+mhxx-save-format-community,7,5
+49,Expelger,Expelger,mhxx-dex-1.0+mhxx-save-format-community,4,6
+50,Expelgouger,Expelgouger,mhxx-dex-1.0+mhxx-save-format-community,5,6
+51,Carnivicious,Carnivicious,mhxx-dex-1.0+mhxx-save-format-community,4,6
+52,Omnivicious,Omnivicious,mhxx-dex-1.0+mhxx-save-format-community,5,5
+53,Dios Stinger,Dios Stinger,mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,Demolition Lance,Demolition Lance,mhxx-dex-1.0+mhxx-save-format-community,6,6
+55,Red Tail,Red Tail,mhxx-dex-1.0+mhxx-save-format-community,3,8
+56,Silver Prominence,Silver Prominence,mhxx-dex-1.0+mhxx-save-format-community,7,5
+57,Verdant Tail,Verdant Tail,mhxx-dex-1.0+mhxx-save-format-community,3,9
+58,Giant's Jouster,Giant's Jouster,mhxx-dex-1.0+mhxx-save-format-community,3,9
+59,Hana mo Hana Nare,Hana mo Hana Nare,mhxx-dex-1.0+mhxx-save-format-community,3,9
+60,Svarog Blazer,Svarog Blazer,mhxx-dex-1.0+mhxx-save-format-community,3,9
+61,Eiferschild,Eiferschild,mhxx-dex-1.0+mhxx-save-format-community,3,7
+62,L'Égide,L'Égide,mhxx-dex-1.0+mhxx-save-format-community,3,8
+63,Grief Lance,Grief Lance,mhxx-dex-1.0+mhxx-save-format-community,6,7
+64,Skeletal Lance,Skeletal Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
+65,Astral Capricorn,Astral Capricorn,mhxx-dex-1.0+mhxx-save-format-community,7,5
+66,Ukanlos Calamity,Ukanlos Calamity,mhxx-dex-1.0+mhxx-save-format-community,7,5
+67,Alatreon Lance,Alatreon Lance,mhxx-dex-1.0+mhxx-save-format-community,7,5
+68,Ominous Cloud,Ominous Cloud,mhxx-dex-1.0+mhxx-save-format-community,7,5
+69,Rusted Lance,Rusted Lance,mhxx-dex-1.0+mhxx-save-format-community,1,3
+70,Undertaker,Undertaker,mhxx-dex-1.0+mhxx-save-format-community,3,6
+71,Icesteel Spear,Icesteel Spear,mhxx-dex-1.0+mhxx-save-format-community,3,6
+72,Worn Spear,Worn Spear,mhxx-dex-1.0+mhxx-save-format-community,4,7
+73,Skyscraper,Skyscraper,mhxx-dex-1.0+mhxx-save-format-community,6,5
+74,Teostra's Howl,Teostra's Howl,mhxx-dex-1.0+mhxx-save-format-community,7,5
+75,Blue Crater,Blue Crater,mhxx-dex-1.0+mhxx-save-format-community,2,8
+76,Black Lance,Black Lance,mhxx-dex-1.0+mhxx-save-format-community,3,7
+77,Yukumo Lance,Yukumo Lance,mhxx-dex-1.0+mhxx-save-format-community,1,8
+78,Yukumo Purelance,Yukumo Purelance,mhxx-dex-1.0+mhxx-save-format-community,3,6
+79,Fondue Lance,Fondue Lance,mhxx-dex-1.0+mhxx-save-format-community,2,7
+80,Blimp Lance,Blimp Lance,mhxx-dex-1.0+mhxx-save-format-community,2,6
+81,Frontrider Lance,Frontrider Lance,mhxx-dex-1.0+mhxx-save-format-community,2,6
+82,Native Spear,Native Spear,mhxx-dex-1.0+mhxx-save-format-community,2,6
+83,Vacuum Striker,Vacuum Striker,mhxx-dex-1.0+mhxx-save-format-community,2,6
+84,Fragrance,Fragrance,mhxx-dex-1.0+mhxx-save-format-community,2,6
+85,Sharq Byte,Sharq Byte,mhxx-dex-1.0+mhxx-save-format-community,3,6
+86,Plegis Needle,Plegis Needle,mhxx-dex-1.0+mhxx-save-format-community,2,6
+87,Guardian Lance,Guardian Lance,mhxx-dex-1.0+mhxx-save-format-community,5,5
+88,Alacrantze,Alacrantze,mhxx-dex-1.0+mhxx-save-format-community,3,7
+89,Black Belt Lance,Black Belt Lance,mhxx-dex-1.0+mhxx-save-format-community,3,6
+90,Expert Lance,Expert Lance,mhxx-dex-1.0+mhxx-save-format-community,6,5
+91,Stonefist Lance,Stonefist Lance,mhxx-dex-1.0+mhxx-save-format-community,11,15
+92,Dreadqueen Thorn,Dreadqueen Thorn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+93,Gale Stinger,Gale Stinger,mhxx-dex-1.0+mhxx-save-format-community,11,15
+94,Incessant Calamity,Incessant Calamity,mhxx-dex-1.0+mhxx-save-format-community,11,15
+95,Groad Tail,Groad Tail,mhxx-dex-1.0+mhxx-save-format-community,11,15
+96,Thunderlord Tenrai,Thunderlord Tenrai,mhxx-dex-1.0+mhxx-save-format-community,11,15
+97,Rudra Stinger,Rudra Stinger,mhxx-dex-1.0+mhxx-save-format-community,11,15
+98,Svarog Boomer,Svarog Boomer,mhxx-dex-1.0+mhxx-save-format-community,11,15
+99,Brain Fox,Brain Fox,mhxx-dex-1.0+mhxx-save-format-community,6,5
+100,Goldspear,Goldspear,mhxx-dex-1.0+mhxx-save-format-community,10,3
+101,Silverwing Spear,Silverwing Spear,mhxx-dex-1.0+mhxx-save-format-community,7,6
+102,Zephra Tail,Zephra Tail,mhxx-dex-1.0+mhxx-save-format-community,11,5
+103,Hika Rakuyo,Hika Rakuyo,mhxx-dex-1.0+mhxx-save-format-community,11,5
+104,Elderfrost Lance,Elderfrost Lance,mhxx-dex-1.0+mhxx-save-format-community,11,5
+105,Massacre Lance,Massacre Lance,mhxx-dex-1.0+mhxx-save-format-community,11,5
+106,Razor Stinger,Razor Stinger,mhxx-dex-1.0+mhxx-save-format-community,11,5
+107,Cloaked Coloris,Cloaked Coloris,mhxx-dex-1.0+mhxx-save-format-community,11,5
+108,Vermilion Rim,Vermilion Rim,mhxx-dex-1.0+mhxx-save-format-community,10,3
+109,Ruiner Lance,Ruiner Lance,mhxx-dex-1.0+mhxx-save-format-community,10,3
+110,O. Fatalis Lance,O. Fatalis Lance,mhxx-dex-1.0+mhxx-save-format-community,10,3
+111,Lightbreak Lance,Lightbreak Lance,mhxx-dex-1.0+mhxx-save-format-community,10,3
+112,Ehrlich/Faux,Ehrlich/Faux,mhxx-dex-1.0+mhxx-save-format-community,10,3
+113,Venom Lance,Venom Lance,mhxx-dex-1.0+mhxx-save-format-community,4,6
+114,Gravios Spear,Gravios Spear,mhxx-dex-1.0+mhxx-save-format-community,5,5
+115,Diablos Lance,Diablos Lance,mhxx-dex-1.0+mhxx-save-format-community,6,5
+116,Tusk Lance,Tusk Lance,mhxx-dex-1.0+mhxx-save-format-community,5,5
+117,Rugged Lance,Rugged Lance,mhxx-dex-1.0+mhxx-save-format-community,4,6
+118,Spark Plug,Spark Plug,mhxx-dex-1.0+mhxx-save-format-community,5,6
+119,Shock Lance,Shock Lance,mhxx-dex-1.0+mhxx-save-format-community,4,6
+120,Dark,Dark,mhxx-dex-1.0+mhxx-save-format-community,8,3
+121,Noble Fragrance,Noble Fragrance,mhxx-dex-1.0+mhxx-save-format-community,8,3
+122,Memento Baroni,Memento Baroni,mhxx-dex-1.0+mhxx-save-format-community,8,3
+123,Research Lance,Research Lance,mhxx-dex-1.0+mhxx-save-format-community,6,5
+124,Ace Lance,Ace Lance,mhxx-dex-1.0+mhxx-save-format-community,9,3
+125,Gorgonzolance,Gorgonzolance,mhxx-dex-1.0+mhxx-save-format-community,8,3
+126,Elder Lance,Elder Lance,mhxx-dex-1.0+mhxx-save-format-community,8,3

@@ -1,0 +1,113 @@
+id,name,english,source,rarity,max_level
+0,None,None,mhxx-save-format-community,0,0
+1,Petrified Horn,Petrified Horn,mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Obsidian Horn,Obsidian Horn,mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,Vadya Muse,Vadya Muse,mhxx-dex-1.0+mhxx-save-format-community,3,7
+4,Seditious Warhorn,Seditious Warhorn,mhxx-dex-1.0+mhxx-save-format-community,6,6
+5,Droth Drone,Droth Drone,mhxx-dex-1.0+mhxx-save-format-community,2,9
+6,Kut-Ku's Song,Kut-Ku's Song,mhxx-dex-1.0+mhxx-save-format-community,2,9
+7,Poisoned Capri,Poisoned Capri,mhxx-dex-1.0+mhxx-save-format-community,2,9
+8,Larinoth Ocarina,Larinoth Ocarina,mhxx-dex-1.0+mhxx-save-format-community,1,7
+9,Iron Horn,Iron Horn,mhxx-dex-1.0+mhxx-save-format-community,1,11
+10,Agnakdion,Agnakdion,mhxx-dex-1.0+mhxx-save-format-community,6,6
+11,Valkyrie Chordmaker,Valkyrie Chordmaker,mhxx-dex-1.0+mhxx-save-format-community,3,8
+12,Gold Chordmaker,Gold Chordmaker,mhxx-dex-1.0+mhxx-save-format-community,7,5
+13,Metal Bagpipe,Metal Bagpipe,mhxx-dex-1.0+mhxx-save-format-community,2,9
+14,Heavy Bagpipe,Heavy Bagpipe,mhxx-dex-1.0+mhxx-save-format-community,4,7
+15,Lagia Horn,Lagia Horn,mhxx-dex-1.0+mhxx-save-format-community,3,8
+16,Hidden Harmonic,Hidden Harmonic,mhxx-dex-1.0+mhxx-save-format-community,2,8
+17,Poli'ahu Pipe,Poli'ahu Pipe,mhxx-dex-1.0+mhxx-save-format-community,5,6
+18,Type 63 Warmonica,Type 63 Warmonica,mhxx-dex-1.0+mhxx-save-format-community,2,8
+19,Sonic Glass,Sonic Glass,mhxx-dex-1.0+mhxx-save-format-community,1,7
+20,Bone Horn,Bone Horn,mhxx-dex-1.0+mhxx-save-format-community,1,11
+21,Hunter's Horn,Hunter's Horn,mhxx-dex-1.0+mhxx-save-format-community,3,7
+22,Dios Bell,Dios Bell,mhxx-dex-1.0+mhxx-save-format-community,3,7
+23,Demolition Chime,Demolition Chime,mhxx-dex-1.0+mhxx-save-format-community,6,6
+24,Danger Call,Danger Call,mhxx-dex-1.0+mhxx-save-format-community,2,7
+25,Hazardous Call,Hazardous Call,mhxx-dex-1.0+mhxx-save-format-community,5,6
+26,Velociprey Balloon,Velociprey Balloon,mhxx-dex-1.0+mhxx-save-format-community,1,8
+27,Velocidrome Balloon,Velocidrome Balloon,mhxx-dex-1.0+mhxx-save-format-community,4,6
+28,Giaprey Balloon,Giaprey Balloon,mhxx-dex-1.0+mhxx-save-format-community,1,8
+29,Khezu Horn,Khezu Horn,mhxx-dex-1.0+mhxx-save-format-community,2,7
+30,Bull Grunt,Bull Grunt,mhxx-dex-1.0+mhxx-save-format-community,1,8
+31,Zurogong Primo,Zurogong Primo,mhxx-dex-1.0+mhxx-save-format-community,1,8
+32,Kecha Whappa,Kecha Whappa,mhxx-dex-1.0+mhxx-save-format-community,4,6
+33,Kecha Thumpa,Kecha Thumpa,mhxx-dex-1.0+mhxx-save-format-community,5,6
+34,Striped Dragonga,Striped Dragonga,mhxx-dex-1.0+mhxx-save-format-community,3,7
+35,Brazengaita,Brazengaita,mhxx-dex-1.0+mhxx-save-format-community,3,8
+36,Demon Block,Demon Block,mhxx-dex-1.0+mhxx-save-format-community,2,9
+37,Mountain Crusher,Mountain Crusher,mhxx-dex-1.0+mhxx-save-format-community,6,5
+38,Shell Castanet,Shell Castanet,mhxx-dex-1.0+mhxx-save-format-community,2,8
+39,Vicello Nulo,Vicello Nulo,mhxx-dex-1.0+mhxx-save-format-community,1,9
+40,Vicello Nulo (G),Vicello Nulo (G),mhxx-dex-1.0+mhxx-save-format-community,2,8
+41,Vicello Nulo (R),Vicello Nulo (R),mhxx-dex-1.0+mhxx-save-format-community,2,8
+42,Vicello Nulo (W),Vicello Nulo (W),mhxx-dex-1.0+mhxx-save-format-community,2,8
+43,Usurper's Growl,Usurper's Growl,mhxx-dex-1.0+mhxx-save-format-community,3,7
+44,Fool's Harp,Fool's Harp,mhxx-dex-1.0+mhxx-save-format-community,2,9
+45,Lava Alphorn,Lava Alphorn,mhxx-dex-1.0+mhxx-save-format-community,5,5
+46,Raven Shamisen,Raven Shamisen,mhxx-dex-1.0+mhxx-save-format-community,3,7
+47,Vile Shamisen,Vile Shamisen,mhxx-dex-1.0+mhxx-save-format-community,6,5
+48,Dodotto Horn,Dodotto Horn,mhxx-dex-1.0+mhxx-save-format-community,2,7
+49,Emerald Flap,Emerald Flap,mhxx-dex-1.0+mhxx-save-format-community,3,9
+50,Giant's Koto,Giant's Koto,mhxx-dex-1.0+mhxx-save-format-community,3,9
+51,Poetic Bell,Poetic Bell,mhxx-dex-1.0+mhxx-save-format-community,3,9
+52,Hell Horn,Hell Horn,mhxx-dex-1.0+mhxx-save-format-community,3,9
+53,Kummerklang,Kummerklang,mhxx-dex-1.0+mhxx-save-format-community,3,7
+54,La Sépulture,La Sépulture,mhxx-dex-1.0+mhxx-save-format-community,3,8
+55,Blessed Ocarina,Blessed Ocarina,mhxx-dex-1.0+mhxx-save-format-community,3,6
+56,Teostra's Tiple,Teostra's Tiple,mhxx-dex-1.0+mhxx-save-format-community,3,6
+57,Denden Daiko,Denden Daiko,mhxx-dex-1.0+mhxx-save-format-community,6,6
+58,Skeletal Melody,Skeletal Melody,mhxx-dex-1.0+mhxx-save-format-community,3,7
+59,Polaris Wraith,Polaris Wraith,mhxx-dex-1.0+mhxx-save-format-community,7,5
+60,Akantor Horn,Akantor Horn,mhxx-dex-1.0+mhxx-save-format-community,7,5
+61,Ukanlos Horned Flute,Ukanlos Horned Flute,mhxx-dex-1.0+mhxx-save-format-community,7,5
+62,Autumn Lute,Autumn Lute,mhxx-dex-1.0+mhxx-save-format-community,7,5
+63,Worn Horn,Worn Horn,mhxx-dex-1.0+mhxx-save-format-community,4,7
+64,Avenir's Music Box,Avenir's Music Box,mhxx-dex-1.0+mhxx-save-format-community,6,5
+65,Daora's Taus,Daora's Taus,mhxx-dex-1.0+mhxx-save-format-community,7,5
+66,Black Lute,Black Lute,mhxx-dex-1.0+mhxx-save-format-community,3,7
+67,Yukumo Flute,Yukumo Flute,mhxx-dex-1.0+mhxx-save-format-community,1,8
+68,Yukumo Pureflute,Yukumo Pureflute,mhxx-dex-1.0+mhxx-save-format-community,3,6
+69,Bherna Chime,Bherna Chime,mhxx-dex-1.0+mhxx-save-format-community,2,6
+70,Airship Horn,Airship Horn,mhxx-dex-1.0+mhxx-save-format-community,2,6
+71,Handmade Frog,Handmade Frog,mhxx-dex-1.0+mhxx-save-format-community,2,6
+72,Magia Charm,Magia Charm,mhxx-dex-1.0+mhxx-save-format-community,2,6
+73,Swell Shell,Swell Shell,mhxx-dex-1.0+mhxx-save-format-community,2,6
+74,Azumand Wind,Azumand Wind,mhxx-dex-1.0+mhxx-save-format-community,3,6
+75,Poison Fungasax,Poison Fungasax,mhxx-dex-1.0+mhxx-save-format-community,2,7
+76,Cornupion,Cornupion,mhxx-dex-1.0+mhxx-save-format-community,3,7
+77,Crimson Horn,Crimson Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+78,Royal Horn,Royal Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+79,Pierce Horn,Pierce Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+80,Nightfall Horn,Nightfall Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+81,Geode Horn,Geode Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+82,Hardened Horn,Hardened Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+83,Tomb Horn,Tomb Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+84,Raiden Horn,Raiden Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+85,Seize Horn,Seize Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+86,Magma Horn,Magma Horn,mhxx-dex-1.0+mhxx-save-format-community,11,15
+87,Blitz Works,Blitz Works,mhxx-dex-1.0+mhxx-save-format-community,6,5
+88,DUMMY,DUMMY,mhxx-save-format-community,0,5
+89,Megaphone,Megaphone,mhxx-dex-1.0+mhxx-save-format-community,6,5
+90,Goldhorn,Goldhorn,mhxx-dex-1.0+mhxx-save-format-community,10,3
+91,Silverwing Horn,Silverwing Horn,mhxx-dex-1.0+mhxx-save-format-community,7,6
+92,Zephra Glide,Zephra Glide,mhxx-dex-1.0+mhxx-save-format-community,11,5
+93,Vagrant's Itinerary,Vagrant's Itinerary,mhxx-dex-1.0+mhxx-save-format-community,11,5
+94,Elderfrost Lute,Elderfrost Lute,mhxx-dex-1.0+mhxx-save-format-community,11,5
+95,Razor Castanet,Razor Castanet,mhxx-dex-1.0+mhxx-save-format-community,11,5
+96,Cloaked Lyre,Cloaked Lyre,mhxx-dex-1.0+mhxx-save-format-community,11,5
+97,Fatalis Firelied,Fatalis Firelied,mhxx-dex-1.0+mhxx-save-format-community,10,3
+98,Old Fatalis Lied,Old Fatalis Lied,mhxx-dex-1.0+mhxx-save-format-community,10,3
+99,Lightbreak Timbre,Lightbreak Timbre,mhxx-dex-1.0+mhxx-save-format-community,10,3
+100,Lache/Sanglot,Lache/Sanglot,mhxx-dex-1.0+mhxx-save-format-community,10,3
+101,Basarios Rock,Basarios Rock,mhxx-dex-1.0+mhxx-save-format-community,4,5
+102,Volcanic Rock,Volcanic Rock,mhxx-dex-1.0+mhxx-save-format-community,8,3
+103,War Bongo,War Bongo,mhxx-dex-1.0+mhxx-save-format-community,5,6
+104,Bariguiro,Bariguiro,mhxx-dex-1.0+mhxx-save-format-community,5,5
+105,Sandpipe,Sandpipe,mhxx-dex-1.0+mhxx-save-format-community,4,5
+106,Sandsinger,Sandsinger,mhxx-dex-1.0+mhxx-save-format-community,8,3
+107,War Drum,War Drum,mhxx-dex-1.0+mhxx-save-format-community,4,5
+108,Glass Royale,Glass Royale,mhxx-dex-1.0+mhxx-save-format-community,8,3
+109,Memento Mosca,Memento Mosca,mhxx-dex-1.0+mhxx-save-format-community,8,3
+110,Research Horn,Research Horn,mhxx-dex-1.0+mhxx-save-format-community,6,5
+111,Elder Horn,Elder Horn,mhxx-dex-1.0+mhxx-save-format-community,8,3

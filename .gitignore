@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+mhxx-dex-raw/
+*.bak
+build/
+build-windows/
+bin/
+dist/
+tests/build/
+tests/bin/

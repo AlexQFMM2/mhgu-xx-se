@@ -1,0 +1,207 @@
+id,name,english,source
+0,无,None,mhxx-save-format-community
+1,身体系统加倍,Torso Up,mhxx-dex-1.0
+2,毒,Poison,mhxx-dex-1.0
+3,麻痹,Paralysis,mhxx-dex-1.0
+4,睡眠,Sleep,mhxx-dex-1.0
+5,昏厥,Stun,mhxx-dex-1.0
+6,听觉保护,Hearing,mhxx-dex-1.0
+7,风压,Wind Res,mhxx-dex-1.0
+8,耐震,Tremor Res,mhxx-dex-1.0
+9,雪人,Bind Res,mhxx-dex-1.0
+10,耐暑,Heat Res,mhxx-dex-1.0
+11,耐寒,Cold Res,mhxx-dex-1.0
+12,适应寒冷,ColdBlooded,mhxx-dex-1.0
+13,适应炎热,HotBlooded,mhxx-dex-1.0
+14,偷窃无效,Anti-Theft,mhxx-dex-1.0
+15,对防御DOWN,Def Lock,mhxx-dex-1.0
+16,狂击耐性,Frenzy Res,mhxx-dex-1.0
+17,细菌学,Biology,mhxx-dex-1.0
+18,裂伤,Bleeding,mhxx-dex-1.0
+19,攻击,Attack,mhxx-dex-1.0
+20,防御,Defense,mhxx-dex-1.0
+21,体力,Health,mhxx-dex-1.0
+22,火耐性,Fire Res,mhxx-dex-1.0
+23,水耐性,Water Res,mhxx-dex-1.0
+24,雷耐性,Thunder Res,mhxx-dex-1.0
+25,冰耐性,Ice Res,mhxx-dex-1.0
+26,龙耐性,Dragon Res,mhxx-dex-1.0
+27,属性耐性,Blight Res,mhxx-dex-1.0
+28,火属性攻击,Fire Atk,mhxx-dex-1.0
+29,水属性攻击,Water Atk,mhxx-dex-1.0
+30,雷属性攻击,Thunder Atk,mhxx-dex-1.0
+31,冰属性攻击,Ice Atk,mhxx-dex-1.0
+32,龙属性攻击,Dragon Atk,mhxx-dex-1.0
+33,属性攻击,Elemental,mhxx-dex-1.0
+34,特殊攻击,Status,mhxx-dex-1.0
+35,磨刀匠,Sharpener,mhxx-dex-1.0
+36,匠,Handicraft,mhxx-dex-1.0
+37,锋利度,Sharpness,mhxx-dex-1.0
+38,剑术,Fencing,mhxx-dex-1.0
+39,打磨术,Grinder,mhxx-dex-1.0
+40,钝器,Blunt,mhxx-dex-1.0
+41,拔刀会心,Crit Draw,mhxx-dex-1.0
+42,拔刀减气,Punish Draw,mhxx-dex-1.0
+43,收刀,Sheathing,mhxx-dex-1.0
+44,收刀打磨,Sheathe Sharpen,mhxx-dex-1.0
+45,刃鳞,Bladescale,mhxx-dex-1.0
+46,装填速度,Reload Spd,mhxx-dex-1.0
+47,后坐力,Recoil,mhxx-dex-1.0
+48,精确射击,Precision,mhxx-dex-1.0
+49,通常弹强化,Normal Up,mhxx-dex-1.0
+50,贯穿弹强化,Pierce Up,mhxx-dex-1.0
+51,散弹强化,Pellet Up,mhxx-dex-1.0
+52,重击弹强化,Heavy Up,mhxx-dex-1.0
+53,通常弹追加,Normal S+,mhxx-dex-1.0
+54,贯穿弹追加,Pierce S+,mhxx-dex-1.0
+55,散弹追加,Pellet S+,mhxx-dex-1.0
+56,榴弹追加,Crag S+,mhxx-dex-1.0
+57,扩散弹追加,Clust S+,mhxx-dex-1.0
+58,毒瓶追加,Poison C+,mhxx-dex-1.0
+59,麻痹瓶追加,Para C+,mhxx-dex-1.0
+60,睡眠瓶追加,Sleep C+,mhxx-dex-1.0
+61,强击瓶追加,Power C+,mhxx-dex-1.0
+62,属强瓶追加,Elem C+,mhxx-dex-1.0
+63,近战瓶追加,C.Range C+,mhxx-dex-1.0
+64,减气瓶追加,Exhaust C+,mhxx-dex-1.0
+65,爆破瓶追加,Blast C+,mhxx-dex-1.0
+66,速射,Rapid Fire,mhxx-dex-1.0
+67,射法,Dead Eye,mhxx-dex-1.0
+68,装填数,Loading,mhxx-dex-1.0
+69,不规则射击,Haphazard,mhxx-dex-1.0
+70,弹药节约,Ammo Saver,mhxx-dex-1.0
+71,达人,Expert,mhxx-dex-1.0
+72,痛击,Tenderizer,mhxx-dex-1.0
+73,连击,Chain Crit,mhxx-dex-1.0
+74,特殊会心,Crit Status,mhxx-dex-1.0
+75,属性会心,Crit Element,mhxx-dex-1.0
+76,会心强化,Critical Up,mhxx-dex-1.0
+77,意外会心,Negative Crit,mhxx-dex-1.0
+78,快速蓄力,FastCharge,mhxx-dex-1.0
+79,耐力,Stamina,mhxx-dex-1.0
+80,体术,Constitution,mhxx-dex-1.0
+81,耐力回复,Stam Recov,mhxx-dex-1.0
+82,长跑,Distance Runner,mhxx-dex-1.0
+83,闪避性能,Evasion,mhxx-dex-1.0
+84,闪避距离,Evade Dist,mhxx-dex-1.0
+85,泡沫,Bubble,mhxx-dex-1.0
+86,格挡性能,Guard,mhxx-dex-1.0
+87,格挡强化,Guard Up,mhxx-dex-1.0
+88,KO,KO,mhxx-dex-1.0
+89,减气攻击,Stam Drain,mhxx-dex-1.0
+90,笛,Maestro,mhxx-dex-1.0
+91,炮术,Artillery,mhxx-dex-1.0
+92,重击,Destroyer,mhxx-dex-1.0
+93,爆弹强化,Bomb Boost,mhxx-dex-1.0
+94,全力,Gloves Off,mhxx-dex-1.0
+95,斗魂,Spirit,mhxx-dex-1.0
+96,无伤,Unscathed,mhxx-dex-1.0
+97,良机,Chance,mhxx-dex-1.0
+98,龙气,Dragon Spirit,mhxx-dex-1.0
+99,潜力,Potential,mhxx-dex-1.0
+100,逆境,Survivor,mhxx-dex-1.0
+101,暴怒,Furor,mhxx-dex-1.0
+102,绝境,Crisis,mhxx-dex-1.0
+103,毅力,Guts,mhxx-dex-1.0
+104,气息,Sense,mhxx-dex-1.0
+105,指挥,Team Player,mhxx-dex-1.0
+106,号令,TeamLeader,mhxx-dex-1.0
+107,骑乘,Mounting,mhxx-dex-1.0
+108,跳跃,Vault,mhxx-dex-1.0
+109,无念,Insight,mhxx-dex-1.0
+110,忍耐,Endurance,mhxx-dex-1.0
+111,SP持续,Prolong SP,mhxx-dex-1.0
+112,千里眼,Psychic,mhxx-dex-1.0
+113,观察眼,Perception,mhxx-dex-1.0
+114,猎手,Ranger,mhxx-dex-1.0
+115,搬运,Transporter,mhxx-dex-1.0
+116,加护,Protection,mhxx-dex-1.0
+117,英雄之盾,Hero Shield,mhxx-dex-1.0
+118,回复量,Rec Level,mhxx-dex-1.0
+119,回复速度,Rec Speed,mhxx-dex-1.0
+120,效果持续,Lasting Pwr,mhxx-dex-1.0
+121,广域,Wide-Range,mhxx-dex-1.0
+122,饥饿,Hunger,mhxx-dex-1.0
+123,贪吃鬼,Gluttony,mhxx-dex-1.0
+124,吃饭,Eating,mhxx-dex-1.0
+125,节食,Light Eater,mhxx-dex-1.0
+126,肉食,Carnivore,mhxx-dex-1.0
+127,食菇,Mycology,mhxx-dex-1.0
+128,野草知识,Botany,mhxx-dex-1.0
+129,调和成功率,Combo Rate,mhxx-dex-1.0
+130,调和数,Combo Plus,mhxx-dex-1.0
+131,高速设置,Speed Setup,mhxx-dex-1.0
+132,采集,Gathering,mhxx-dex-1.0
+133,蜂蜜,Honey,mhxx-dex-1.0
+134,护石王,Charmer,mhxx-dex-1.0
+135,反复无常,Whim,mhxx-dex-1.0
+136,运气,Fate,mhxx-dex-1.0
+137,剥取,Carving,mhxx-dex-1.0
+138,捕获,Capturer,mhxx-dex-1.0
+139,贝鲁纳,Bherna,mhxx-dex-1.0
+140,可可特,Kokoto,mhxx-dex-1.0
+141,波凯,Pokke,mhxx-dex-1.0
+142,结云,Yukumo,mhxx-dex-1.0
+143,龙识船,Soaratorium,mhxx-dex-1.0
+144,飞行酒吧,Flying Pub,mhxx-dex-1.0
+145,红盔,Redhelm,mhxx-dex-1.0
+146,大雪主,Snowbaron,mhxx-dex-1.0
+147,矛碎,Stonefist,mhxx-dex-1.0
+148,岩穿,Drilltusk,mhxx-dex-1.0
+149,紫毒姬,Dreadqueen,mhxx-dex-1.0
+150,宝缠,C.beard,mhxx-dex-1.0
+151,白疾风,Silverwind,mhxx-dex-1.0
+152,独眼,Deadeye,mhxx-dex-1.0
+153,黑炎王,Dreadking,mhxx-dex-1.0
+154,金雷公,Thunderlord,mhxx-dex-1.0
+155,荒钩爪,Grimclaw,mhxx-dex-1.0
+156,烬灭刃,Hellblade,mhxx-dex-1.0
+157,胧隐,Nightcloak,mhxx-dex-1.0
+158,铠裂,Rustrazor,mhxx-dex-1.0
+159,天眼,Soulseer,mhxx-dex-1.0
+160,青电主,Boltreaver,mhxx-dex-1.0
+161,银峰,Elderfrost,mhxx-dex-1.0
+162,鏖魔,Bloodbath,mhxx-dex-1.0
+163,真･红盔,Redhelm X,mhxx-dex-1.0
+164,真･大雪主,Snowbaron X,mhxx-dex-1.0
+165,真･矛碎,Stonefist X,mhxx-dex-1.0
+166,真･岩穿,Drilltusk X,mhxx-dex-1.0
+167,真･紫毒姬,Dreadqueen X,mhxx-dex-1.0
+168,真･宝缠,Crystalbeard X,mhxx-dex-1.0
+169,真･白疾风,Silverwind X,mhxx-dex-1.0
+170,真･独眼,Deadeye X,mhxx-dex-1.0
+171,真･黑炎王,Dreadking X,mhxx-dex-1.0
+172,真･金雷公,Thunderlord X,mhxx-dex-1.0
+173,真･荒钩爪,Grimclaw X,mhxx-dex-1.0
+174,真･烬灭刃,Hellblade X,mhxx-dex-1.0
+175,真･胧隐,Nightcloak X,mhxx-dex-1.0
+176,真･铠裂,Rustrazor X,mhxx-dex-1.0
+177,真･天眼,Soulseer X,mhxx-dex-1.0
+178,真･青电主,Boltreaver X,mhxx-dex-1.0
+179,真･银峰,Elderfrost X,mhxx-dex-1.0
+180,真･鏖魔,Bloodbath X,mhxx-dex-1.0
+181,北辰纳豆流,D. Fencing,mhxx-dex-1.0
+182,斩术,Edge Lore,mhxx-dex-1.0
+183,食欲,PowerEater,mhxx-dex-1.0
+184,工人,Mechanic,mhxx-dex-1.0
+185,铁臂,Brawn,mhxx-dex-1.0
+186,祈愿,Prayer,mhxx-dex-1.0
+187,掩人耳目,Covert,mhxx-dex-1.0
+188,刀匠,Edgemaster,mhxx-dex-1.0
+189,射手,SteadyHand,mhxx-dex-1.0
+190,状态耐性,Status Res,mhxx-dex-1.0
+191,怒,Fury,mhxx-dex-1.0
+192,闪避术,Nimbleness,mhxx-dex-1.0
+193,居合斩,Readiness,mhxx-dex-1.0
+194,顽强,Resilience,mhxx-dex-1.0
+195,刚击,Brutality,mhxx-dex-1.0
+196,据盾,Stalwart,mhxx-dex-1.0
+197,洁癖,Prudence,mhxx-dex-1.0
+198,增幅,Amplify,mhxx-dex-1.0
+199,护石收集,Hoarding,mhxx-dex-1.0
+200,贪婪,Avarice,mhxx-dex-1.0
+201,抵御钢龙,Anti-Kushala,mhxx-dex-1.0
+202,抵御霞龙,Anti-Chameleos,mhxx-dex-1.0
+203,抵御炎龙,Anti-Teostra,mhxx-dex-1.0
+204,秘术,Secret Arts,mhxx-dex-1.0
+205,护石强化,Talisman Boost,mhxx-dex-1.0

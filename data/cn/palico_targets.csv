@@ -1,0 +1,7 @@
+id,name,english,source
+0,-----,-----,mhxx-save-format-community
+1,只攻击小型,Small Only,mhxx-save-format-community
+2,小型优先,Small First,mhxx-save-format-community
+3,均衡,Balanced,mhxx-save-format-community
+4,大型优先,Big First,mhxx-save-format-community
+5,只攻击大型,Big Only,mhxx-save-format-community

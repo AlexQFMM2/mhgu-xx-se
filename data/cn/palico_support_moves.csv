@@ -1,0 +1,59 @@
+id,name,english,source,generation_tier
+0,-----,-----,mhxx-save-format-community,0
+1,药草笛之技,Herb Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+2,回复笛之技,Health Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,3
+3,真・回复笛之技,True Health Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+4,解毒・消臭笛之技,Detox Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+5,应援笛之技,Cheer Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+6,鬼人笛之技,Demon Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+7,硬化笛之技,Armor Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+8,超音波笛之技,Ultrasonic Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+9,迷你桶爆弹之技,Mini Barrel Bombay,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+10,小桶爆弹之技,Barrel Bombay,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+11,大桶爆弹之技,Big Barrel Bombay,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+12,特大桶爆弹之技,Mega Barrel Bombay,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+13,大桶爆弹G之技,Giga Barrel Bombay,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,3
+14,冲天爆弹之技,Bounce Bombay,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+15,闪光爆弹之技,Flash Bombay,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+16,设置型爆弹之技,Anti-Monster Mine,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+17,设置型爆弹G之技,Anti-Monster Mine+,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,3
+18,落穴陷阱之技,Pitfall Purr-ison,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,3
+19,麻痹陷阱之技,Shock Purr-ison,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,3
+20,剧毒陷阱之技,Poison Purr-ision,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+21,弹跳床设置之技,Trampoliner,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+22,猫式活力壶之技,Vase of Vitality,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+23,回复赠礼之技,Parting Gift,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+24,紧急撤退之技,Emergency Retreat,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+25,巨大回旋镖之技,Big Boomerangs,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+26,贯通回旋镖之技,Piercing Boomerangs,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+27,隐密防御之技,Camoflage,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+28,武器强化之技,Weapon Upgrade,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+29,愤怒之技,Furr-ious,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+30,挑发之技,Taunt,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+31,随从猫鼓舞之技,Palico Rally,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+32,肥料玉之技,Dung Bombay,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+33,应援舞蹈之技,"Go, Fight, Win",bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+34,治・大车轮之技,Soothing Roll,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+35,爆・大车轮之技,Explosive Roll,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+36,偷窃之技,Pilfer,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,3
+37,远程偷窃之技,Plundering,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+38,猫突击之技,Felyne Comet,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+39,猫爪乱舞之技,Claw Dance,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+40,四股踏咚之技,Sumo Stomp,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+41,橡实大炮之技,Chestnut Cannon,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+42,回旋电虫发射之技,Shock Tripper,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+43,挖这里喵之技,Excavator,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+44,超级回旋镖之技,Mega Boomerang,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+45,猫式火龙车之技,Rath-of-Meow,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,3
+46,野兽变化之技,Beast Mode,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+47,强化咆哮之技,Power Roar,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,0
+48,猫式回复壶之技,Vase of Recovery,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+49,回家球之技,Purr-Caster,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+50,地底突击之技,Diving Attack,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+51,设置型炮台之技,Felyne Cannon,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+52,铁・滚滚喵之技,Wrecking Ball,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+53,爆・滚滚喵之技,Bombing Ride,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+54,猫式广域笛之技,Enhanced Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,1
+55,SP笛之技,SP Horn,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+56,禁忌橡子之技,Acorn Sacrifice,bahamut-mhxx-palico-zh-tw+axibug-mhxx-wiki-zh-cn,2
+57,NULL [57],NULL [57],mhxx-save-format-community,0

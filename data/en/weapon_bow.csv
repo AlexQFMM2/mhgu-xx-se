@@ -1,0 +1,109 @@
+id,name,english,source,rarity,max_level
+0,None,None,mhxx-save-format-community,0,0
+1,Petrified Bow,Petrified Bow,mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,Obsidian Bow,Obsidian Bow,mhxx-dex-1.0+mhxx-save-format-community,3,7
+3,Usurper's Rumble,Usurper's Rumble,mhxx-dex-1.0+mhxx-save-format-community,3,7
+4,Arko Nulo (Y),Arko Nulo (Y),mhxx-dex-1.0+mhxx-save-format-community,1,8
+5,Arko Nulo (W),Arko Nulo (W),mhxx-dex-1.0+mhxx-save-format-community,1,8
+6,Sonic Bow,Sonic Bow,mhxx-dex-1.0+mhxx-save-format-community,2,8
+7,Heat Haze,Heat Haze,mhxx-dex-1.0+mhxx-save-format-community,4,5
+8,Feminine Haze,Feminine Haze,mhxx-dex-1.0+mhxx-save-format-community,5,7
+9,Plume Bow,Plume Bow,mhxx-dex-1.0+mhxx-save-format-community,1,9
+10,Hidden Bow,Hidden Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
+11,Daimyo's Warbow,Daimyo's Warbow,mhxx-dex-1.0+mhxx-save-format-community,2,8
+12,Bear Blade Bow,Bear Blade Bow,mhxx-dex-1.0+mhxx-save-format-community,4,6
+13,Hunter's Stoutbow,Hunter's Stoutbow,mhxx-dex-1.0+mhxx-save-format-community,1,11
+14,Yekla Arc,Yekla Arc,mhxx-dex-1.0+mhxx-save-format-community,3,6
+15,Demon Helm Bow,Demon Helm Bow,mhxx-dex-1.0+mhxx-save-format-community,4,6
+16,Prominence Bow,Prominence Bow,mhxx-dex-1.0+mhxx-save-format-community,3,7
+17,Queen Blaster,Queen Blaster,mhxx-dex-1.0+mhxx-save-format-community,2,7
+18,Type 64 Multibow,Type 64 Multibow,mhxx-dex-1.0+mhxx-save-format-community,2,8
+19,Tigrex Archer,Tigrex Archer,mhxx-dex-1.0+mhxx-save-format-community,3,6
+20,Shalya Bow,Shalya Bow,mhxx-dex-1.0+mhxx-save-format-community,3,6
+21,Seditious Arrow,Seditious Arrow,mhxx-dex-1.0+mhxx-save-format-community,6,6
+22,Brazencord,Brazencord,mhxx-dex-1.0+mhxx-save-format-community,3,7
+23,Dios Flier,Dios Flier,mhxx-dex-1.0+mhxx-save-format-community,3,5
+24,Demolition Bow,Demolition Bow,mhxx-dex-1.0+mhxx-save-format-community,6,6
+25,Crystalline Flower,Crystalline Flower,mhxx-dex-1.0+mhxx-save-format-community,2,8
+26,Blue Alighter,Blue Alighter,mhxx-dex-1.0+mhxx-save-format-community,4,5
+27,Ice Cold Alighter,Ice Cold Alighter,mhxx-dex-1.0+mhxx-save-format-community,5,5
+28,Khezu Bow,Khezu Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
+29,Hunter's Bow,Hunter's Bow,mhxx-dex-1.0+mhxx-save-format-community,1,11
+30,Kelbi Stingshot,Kelbi Stingshot,mhxx-dex-1.0+mhxx-save-format-community,4,6
+31,Kut-Ku Stave,Kut-Ku Stave,mhxx-dex-1.0+mhxx-save-format-community,2,8
+32,Crow Bow,Crow Bow,mhxx-dex-1.0+mhxx-save-format-community,3,5
+33,Vile Bow,Vile Bow,mhxx-dex-1.0+mhxx-save-format-community,6,5
+34,Blango Fur Bow,Blango Fur Bow,mhxx-dex-1.0+mhxx-save-format-community,1,7
+35,Abominable Bow,Abominable Bow,mhxx-dex-1.0+mhxx-save-format-community,5,7
+36,Spongia Bow,Spongia Bow,mhxx-dex-1.0+mhxx-save-format-community,2,8
+37,Voltsender,Voltsender,mhxx-dex-1.0+mhxx-save-format-community,3,7
+38,Worn Bow,Worn Bow,mhxx-dex-1.0+mhxx-save-format-community,4,8
+39,Angelbein,Angelbein,mhxx-dex-1.0+mhxx-save-format-community,6,5
+40,Icesteel Bow,Icesteel Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
+41,Arca Raptora,Arca Raptora,mhxx-dex-1.0+mhxx-save-format-community,4,7
+42,Lightning Bow,Lightning Bow,mhxx-dex-1.0+mhxx-save-format-community,3,7
+43,Giant's Bow,Giant's Bow,mhxx-dex-1.0+mhxx-save-format-community,3,7
+44,Blessed Rain,Blessed Rain,mhxx-dex-1.0+mhxx-save-format-community,3,7
+45,Ashen Wrath,Ashen Wrath,mhxx-dex-1.0+mhxx-save-format-community,3,7
+46,Entbehrung,Entbehrung,mhxx-dex-1.0+mhxx-save-format-community,3,6
+47,Le Ravisseur,Le Ravisseur,mhxx-dex-1.0+mhxx-save-format-community,6,6
+48,Genie's Grimoire,Genie's Grimoire,mhxx-dex-1.0+mhxx-save-format-community,7,5
+49,Bow of Hope & Valor,Bow of Hope & Valor,mhxx-dex-1.0+mhxx-save-format-community,3,6
+50,Skeletal Bow,Skeletal Bow,mhxx-dex-1.0+mhxx-save-format-community,3,6
+51,Polar Avian Bow,Polar Avian Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
+52,Beast Thunderbow,Beast Thunderbow,mhxx-dex-1.0+mhxx-save-format-community,6,5
+53,Archbeast Thunderbow,Archbeast Thunderbow,mhxx-dex-1.0+mhxx-save-format-community,7,5
+54,Hyperion,Hyperion,mhxx-dex-1.0+mhxx-save-format-community,7,5
+55,Selene Moonbroken,Selene Moonbroken,mhxx-dex-1.0+mhxx-save-format-community,7,5
+56,Akantor Bow,Akantor Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
+57,Ukanlos Bow,Ukanlos Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
+58,Alatreon Bow,Alatreon Bow,mhxx-dex-1.0+mhxx-save-format-community,7,5
+59,Tempest Nightbow,Tempest Nightbow,mhxx-dex-1.0+mhxx-save-format-community,7,5
+60,Ivory Bow,Ivory Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
+61,Onyx Bow,Onyx Bow,mhxx-dex-1.0+mhxx-save-format-community,3,6
+62,Yukumo Bow,Yukumo Bow,mhxx-dex-1.0+mhxx-save-format-community,1,8
+63,Yukumo Purebow,Yukumo Purebow,mhxx-dex-1.0+mhxx-save-format-community,3,6
+64,Bamboo Taketori,Bamboo Taketori,mhxx-dex-1.0+mhxx-save-format-community,2,8
+65,Seahorse Harp,Seahorse Harp,mhxx-dex-1.0+mhxx-save-format-community,5,5
+66,Morsel Bowfish,Morsel Bowfish,mhxx-dex-1.0+mhxx-save-format-community,1,8
+67,Chaos Bow,Chaos Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
+68,Felyne Bow,Felyne Bow,mhxx-dex-1.0+mhxx-save-format-community,2,8
+69,Arachnid Bow,Arachnid Bow,mhxx-dex-1.0+mhxx-save-format-community,2,7
+70,Crimson Bow,Crimson Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+71,Stonefist Bow,Stonefist Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+72,Royal Blaster,Royal Blaster,mhxx-dex-1.0+mhxx-save-format-community,11,15
+73,Demonic Bow,Demonic Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+74,Silverwind Bow,Silverwind Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+75,Grobo Arc,Grobo Arc,mhxx-dex-1.0+mhxx-save-format-community,11,15
+76,Wicked Bow,Wicked Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+77,Dread Bow,Dread Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+78,Rumble Bow,Rumble Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+79,Rudra Bow,Rudra Bow,mhxx-dex-1.0+mhxx-save-format-community,11,15
+80,Hellish Wrath,Hellish Wrath,mhxx-dex-1.0+mhxx-save-format-community,11,15
+81,Hero's Bow,Hero's Bow,mhxx-dex-1.0+mhxx-save-format-community,6,5
+82,Goldbow,Goldbow,mhxx-dex-1.0+mhxx-save-format-community,10,3
+83,Silverwing Bow,Silverwing Bow,mhxx-dex-1.0+mhxx-save-format-community,7,6
+84,Zephra Bow,Zephra Bow,mhxx-dex-1.0+mhxx-save-format-community,11,5
+85,Perennial Winter,Perennial Winter,mhxx-dex-1.0+mhxx-save-format-community,11,5
+86,Elderfrost Bow,Elderfrost Bow,mhxx-dex-1.0+mhxx-save-format-community,11,5
+87,Massacre Bow,Massacre Bow,mhxx-dex-1.0+mhxx-save-format-community,11,5
+88,Razor Striker,Razor Striker,mhxx-dex-1.0+mhxx-save-format-community,11,5
+89,Kingdomfall,Kingdomfall,mhxx-dex-1.0+mhxx-save-format-community,10,3
+90,Bow of Toil & Turmoil,Bow of Toil & Turmoil,mhxx-dex-1.0+mhxx-save-format-community,10,3
+91,Bow of Ire & Anguish,Bow of Ire & Anguish,mhxx-dex-1.0+mhxx-save-format-community,10,3
+92,Glory and Grandeur,Glory and Grandeur,mhxx-dex-1.0+mhxx-save-format-community,10,3
+93,Lightbreak Bow,Lightbreak Bow,mhxx-dex-1.0+mhxx-save-format-community,10,3
+94,Gewinn/Perte,Gewinn/Perte,mhxx-dex-1.0+mhxx-save-format-community,10,3
+95,Diablos Coilbender,Diablos Coilbender,mhxx-dex-1.0+mhxx-save-format-community,6,5
+96,Savage Wildbow,Savage Wildbow,mhxx-dex-1.0+mhxx-save-format-community,5,6
+97,Ice Crest,Ice Crest,mhxx-dex-1.0+mhxx-save-format-community,5,5
+98,Scylla Fist,Scylla Fist,mhxx-dex-1.0+mhxx-save-format-community,4,6
+99,Scylla Weave,Scylla Weave,mhxx-dex-1.0+mhxx-save-format-community,8,3
+100,Wild Bow,Wild Bow,mhxx-dex-1.0+mhxx-save-format-community,4,5
+101,Despot's Shock,Despot's Shock,mhxx-dex-1.0+mhxx-save-format-community,9,3
+102,Research Bow,Research Bow,mhxx-dex-1.0+mhxx-save-format-community,6,5
+103,Kayamcha Slinger,Kayamcha Slinger,mhxx-dex-1.0+mhxx-save-format-community,9,3
+104,Ala Victoria,Ala Victoria,mhxx-dex-1.0+mhxx-save-format-community,9,3
+105,Elder Bow,Elder Bow,mhxx-dex-1.0+mhxx-save-format-community,8,3
+106,Pirate Bow J,Pirate Bow J,mhxx-dex-1.0+mhxx-save-format-community,6,4
+107,Ancient Bow,Ancient Bow,mhxx-dex-1.0+mhxx-save-format-community,6,4

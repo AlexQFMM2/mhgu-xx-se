@@ -1,0 +1,1137 @@
+id,name,english,source,rarity
+0,无,None,mhxx-save-format-community,0
+3,皮制手套,Leather Gloves,mhxx-dex-1.0,1
+8,锁甲手套,Chainmail Gloves,mhxx-dex-1.0,1
+13,贝鲁纳腕甲,Bherna Braces,mhxx-dex-1.0,1
+18,狩猎腕甲,Hunting Braces,mhxx-dex-1.0,1
+23,狩猎手甲,Hunting Guards,mhxx-dex-1.0,1
+28,毛皮手套,Mafumofu Mittens,mhxx-dex-1.0,1
+33,结云之护臂,Yukumo Kote,mhxx-dex-1.0,1
+41,猎人腕甲,Hunter's Vambraces,mhxx-dex-1.0,1
+46,猎人手甲,Hunter's Guards,mhxx-dex-1.0,1
+51,骨制腕甲,Bone Vambraces,mhxx-dex-1.0,1
+56,骨制手甲,Bone Guards,mhxx-dex-1.0,1
+65,猎手皮臂甲,Trapper's Gauntlets,mhxx-dex-1.0,1
+67,猎手皮手套,Trapper's Gloves,mhxx-dex-1.0,1
+69,跳狗龙王皮臂甲,Maccao Gauntlets,mhxx-dex-1.0,1
+71,跳狗龙王皮手套,Maccao Gloves,mhxx-dex-1.0,1
+73,狗龙王皮臂甲,Jaggi Gauntlets,mhxx-dex-1.0,1
+75,狗龙王皮手套,Jaggi Gloves,mhxx-dex-1.0,1
+79,狗龙腕甲,Jaggi Vambraces,mhxx-dex-1.0,1
+84,狗龙手甲,Jaggi Guards,mhxx-dex-1.0,1
+89,跳狗龙腕甲,Maccao Braces,mhxx-dex-1.0,1
+94,跳狗龙手甲,Maccao Guards,mhxx-dex-1.0,1
+99,蓝速龙腕甲,Velociprey Braces,mhxx-dex-1.0,1
+104,蓝速龙手甲,Velociprey Guards,mhxx-dex-1.0,1
+109,白速龙腕甲,Giaprey Vambraces,mhxx-dex-1.0,1
+114,白速龙手甲,Giaprey Guards,mhxx-dex-1.0,1
+119,黄速龙腕甲,Genprey Vambraces,mhxx-dex-1.0,1
+124,黄速龙手甲,Genprey Guards,mhxx-dex-1.0,1
+129,巨蜂腕甲,Vespoid Vambraces,mhxx-dex-1.0,1
+134,巨蜂手甲,Vespoid Guards,mhxx-dex-1.0,1
+139,巨甲虫腕甲,Hornetaur Braces,mhxx-dex-1.0,1
+144,巨甲虫手甲,Hornetaur Guards,mhxx-dex-1.0,1
+149,飞甲虫护手,Bnahabra Gloves,mhxx-dex-1.0,1
+154,飞甲虫袖扣,Bnahabra Sleeves,mhxx-dex-1.0,1
+158,盾虫腕甲,Konchu Braces,mhxx-dex-1.0,1
+160,盾虫手甲,Konchu Guards,mhxx-dex-1.0,1
+163,蘑菇猪拳,Mosswine Gloves,mhxx-dex-1.0,1
+168,硬甲龙腕甲,Rhenoplos Vambraces,mhxx-dex-1.0,1
+173,硬甲龙手甲,Rhenoplos Guards,mhxx-dex-1.0,1
+178,野猪腕甲,Bulldrome Braces,mhxx-dex-1.0,1
+183,野猪手甲,Bulldrome Guards,mhxx-dex-1.0,1
+189,青熊兽腕甲,Arzuros Vambraces,mhxx-dex-1.0,1
+194,青熊兽手甲,Arzuros Guards,mhxx-dex-1.0,1
+199,砂龙腕甲,Cephalos Braces,mhxx-dex-1.0,1
+204,砂龙手甲,Cephalos Guards,mhxx-dex-1.0,1
+209,勇气手套,Derring Gloves,mhxx-dex-1.0,2
+214,合金腕甲,Alloy Vambraces,mhxx-dex-1.0,2
+219,合金手甲,Alloy Guards,mhxx-dex-1.0,2
+224,战斗腕甲,Battle Vambraces,mhxx-dex-1.0,2
+229,战斗手甲,Battle Guards,mhxx-dex-1.0,2
+234,铸铁腕甲,Ingot Vambraces,mhxx-dex-1.0,2
+239,铸铁手甲,Ingot Guards,mhxx-dex-1.0,2
+244,矿石腕甲,High Metal Braces,mhxx-dex-1.0,2
+249,矿石手甲,High Metal Guards,mhxx-dex-1.0,2
+256,花瓣枝叶,Melahoa Branch,mhxx-dex-1.0,2
+261,花瓣美神,Melahoa Petal,mhxx-dex-1.0,2
+266,鱼鳞袖,Makluva Sleeves,mhxx-dex-1.0,2
+271,鱼鳞护袖,Makluva Sucker,mhxx-dex-1.0,2
+282,独角仙护袖,Obituary Brachia,mhxx-dex-1.0,2
+287,独角仙腕,Obituary Manus,mhxx-dex-1.0,2
+292,燕尾蝶护袖,Butterfly Brachia,mhxx-dex-1.0,2
+297,燕尾蝶腕,Butterfly Manus,mhxx-dex-1.0,2
+302,死神双手,Death Stench Grip,mhxx-dex-1.0,2
+307,死神欲望,Death Stench Grasp,mhxx-dex-1.0,2
+316,南瓜枝叶,Mosgharl Creeper,mhxx-dex-1.0,2
+321,南瓜美神,Mosgharl Tendril,mhxx-dex-1.0,2
+326,雪绒花枝叶,Edel Creeper,mhxx-dex-1.0,2
+331,雪绒花美神,Edel Tendril,mhxx-dex-1.0,2
+336,毒蝎护袖,Skalda Brachia,mhxx-dex-1.0,2
+341,毒蝎腕,Skalda Manus,mhxx-dex-1.0,2
+346,毒蛛护袖,Spio Brachia,mhxx-dex-1.0,2
+351,毒蛛腕,Spio Manus,mhxx-dex-1.0,2
+368,云羊鹿手套,Moofah Claws,mhxx-dex-1.0,2
+372,云羊鹿袖扣,Moofah Sleeves,mhxx-dex-1.0,2
+377,蓝速龙套装手套,Velociprey Claws,mhxx-dex-1.0,2
+381,蓝速龙套装护臂,Velociprey Gloves,mhxx-dex-1.0,2
+385,黄速龙套装手套,Genprey Claws,mhxx-dex-1.0,2
+389,黄速龙套装护臂,Genprey Gloves,mhxx-dex-1.0,2
+393,红速龙套装手套,Ioprey Claws,mhxx-dex-1.0,2
+397,红速龙套装护臂,Ioprey Gloves,mhxx-dex-1.0,2
+401,蛇龙套装手套,Remobra Gloves,mhxx-dex-1.0,2
+406,蛇龙套装护臂,Remobra Hands,mhxx-dex-1.0,2
+411,红速龙腕甲,Ioprey Vambraces,mhxx-dex-1.0,2
+416,红速龙手甲,Ioprey Guards,mhxx-dex-1.0,2
+421,怪鸟腕甲,Kut-Ku Vambraces,mhxx-dex-1.0,2
+426,怪鸟手甲,Kut-Ku Guards,mhxx-dex-1.0,2
+431,白兔兽腕甲,Lagombi Vambraces,mhxx-dex-1.0,2
+436,白兔兽手甲,Lagombi Guards,mhxx-dex-1.0,2
+441,毒怪鸟腕甲,Gypceros Braces,mhxx-dex-1.0,2
+446,毒怪鸟手甲,Gypceros Guards,mhxx-dex-1.0,2
+451,鬼蛙腕甲,Tetsucabra Braces,mhxx-dex-1.0,2
+456,鬼蛙手甲,Tetsucabra Guards,mhxx-dex-1.0,2
+461,大名盾蟹腕甲,Hermitaur Braces,mhxx-dex-1.0,2
+466,大名盾蟹手甲,Hermitaur Guards,mhxx-dex-1.0,2
+471,赤甲兽腕甲,Volvidon Vambraces,mhxx-dex-1.0,2
+476,赤甲兽手甲,Volvidon Guards,mhxx-dex-1.0,2
+481,水兽腕甲,Ludroth Braces,mhxx-dex-1.0,2
+486,水兽手甲,Ludroth Guards,mhxx-dex-1.0,2
+491,夜鸟腕甲,Malfestio Braces,mhxx-dex-1.0,2
+496,夜鸟手甲,Malfestio Guards,mhxx-dex-1.0,2
+501,白电腕甲,Khezu Vambraces,mhxx-dex-1.0,2
+506,白电手甲,Khezu Guards,mhxx-dex-1.0,2
+511,雌火龙腕甲,Rathian Braces,mhxx-dex-1.0,2
+516,雌火龙手甲,Rathian Guards,mhxx-dex-1.0,2
+521,潜口龙腕甲,Nibelsnarf Braces,mhxx-dex-1.0,2
+526,潜口龙手甲,Nibelsnarf Guards,mhxx-dex-1.0,2
+531,雪狮子腕甲,Blango Vambraces,mhxx-dex-1.0,2
+536,雪狮子手甲,Blango Guards,mhxx-dex-1.0,2
+541,将军镰蟹腕甲,Ceanataur Braces,mhxx-dex-1.0,2
+546,将军镰蟹手甲,Ceanataur Guards,mhxx-dex-1.0,2
+551,绞蛇龙腕甲,Najarala Braces,mhxx-dex-1.0,2
+556,绞蛇龙手甲,Najarala Guards,mhxx-dex-1.0,2
+561,迅龙腕甲,Nargacuga Braces,mhxx-dex-1.0,2
+566,迅龙手甲,Nargacuga Guards,mhxx-dex-1.0,2
+571,贤者手套,Scholarly Grips,mhxx-dex-1.0,2
+576,贤者袖扣,Scholarly Cuffs,mhxx-dex-1.0,2
+581,海境腕甲,Vaik Braces,mhxx-dex-1.0,3
+586,海境手甲,Vaik Guards,mhxx-dex-1.0,3
+593,锹形护袖,Aelucanth Brachia,mhxx-dex-1.0,3
+598,锹形腕,Aelucanth Manus,mhxx-dex-1.0,3
+603,凤蝶护袖,Rhopessa Brachia,mhxx-dex-1.0,3
+608,凤蝶腕,Rhopessa Manus,mhxx-dex-1.0,3
+612,机械腕甲,Artian Braces,mhxx-dex-1.0,3
+615,机械手甲,Artian Guards,mhxx-dex-1.0,3
+619,黑狼鸟腕甲,Garuga Vambraces,mhxx-dex-1.0,3
+624,黑狼鸟手甲,Garuga Guards,mhxx-dex-1.0,3
+630,爆锤龙腕甲,Uragaan Vambraces,mhxx-dex-1.0,3
+635,爆锤龙手甲,Uragaan Guards,mhxx-dex-1.0,3
+640,火龙腕甲,Rathalos Braces,mhxx-dex-1.0,3
+645,火龙手甲,Rathalos Guards,mhxx-dex-1.0,3
+650,海龙腕甲,Lagiacrus Braces,mhxx-dex-1.0,3
+655,海龙手甲,Lagiacrus Guards,mhxx-dex-1.0,3
+660,雷狼龙腕甲,Zinogre Braces,mhxx-dex-1.0,3
+665,雷狼龙手甲,Zinogre Guards,mhxx-dex-1.0,3
+670,泡狐龙腕甲,Mizutsune Braces,mhxx-dex-1.0,3
+675,泡狐龙手甲,Mizutsune Guards,mhxx-dex-1.0,3
+680,电龙腕甲,Astalos Braces,mhxx-dex-1.0,3
+685,电龙手甲,Astalos Guards,mhxx-dex-1.0,3
+690,巨兽腕甲,Gammoth Braces,mhxx-dex-1.0,3
+695,巨兽手甲,Gammoth Guards,mhxx-dex-1.0,3
+700,斩龙腕甲,Glavenus Braces,mhxx-dex-1.0,3
+705,斩龙手甲,Glavenus Guards,mhxx-dex-1.0,3
+710,黑蚀龙腕甲,Gore Braces,mhxx-dex-1.0,3
+715,黑蚀龙手甲,Gore Guards,mhxx-dex-1.0,3
+720,千刃龙腕甲,Regios Vambraces,mhxx-dex-1.0,3
+725,千刃龙手甲,Regios Guards,mhxx-dex-1.0,3
+730,轰龙腕甲,Tigrex Braces,mhxx-dex-1.0,3
+735,轰龙手甲,Tigrex Guards,mhxx-dex-1.0,3
+740,麒麟长腕甲,Kirin Longarms,mhxx-dex-1.0,3
+745,麒麟护手,Kirin Gloves,mhxx-dex-1.0,3
+750,碎龙腕甲,Brachydios Braces,mhxx-dex-1.0,3
+755,碎龙手甲,Brachydios Guards,mhxx-dex-1.0,3
+760,方舟腕甲,Arc Vambraces,mhxx-dex-1.0,3
+765,方舟手甲,Arc Guards,mhxx-dex-1.0,3
+770,友爱腕甲,Storge Braces,mhxx-dex-1.0,3
+775,友爱手甲,Storge Guards,mhxx-dex-1.0,3
+780,钢龙刚强,Kushala Grip,mhxx-dex-1.0,3
+785,钢龙劲猛,Kushala Embrace,mhxx-dex-1.0,3
+790,水行【大袖】,Mizuha Sleeves,mhxx-dex-1.0,3
+795,丰玉【大袖】,Cham Sleeves,mhxx-dex-1.0,3
+800,帝王腕甲,Kaiser Vambraces,mhxx-dex-1.0,3
+805,帝王手甲,Kaiser Guards,mhxx-dex-1.0,3
+810,骸装甲【臂骨】,Skeletal Humerus,mhxx-dex-1.0,3
+815,尸装甲【臂骨】,Decayed Humerus,mhxx-dex-1.0,3
+820,黑色护肘,Black Claw,mhxx-dex-1.0,3
+825,黑色拳头,Black Fist,mhxx-dex-1.0,3
+830,黑带腕甲,Black Belt Braces,mhxx-dex-1.0,3
+835,黑带手甲,Black Belt Guards,mhxx-dex-1.0,3
+840,公会诗人腕甲,Guild Bard Braces,mhxx-dex-1.0,3
+845,公会诗人袖扣,Guild Bard Sleeves,mhxx-dex-1.0,3
+850,女仆手套,Maiden's Gloves,mhxx-dex-1.0,3
+855,休闲袖扣,French Maid Sleeves,mhxx-dex-1.0,3
+860,支援者袖扣,Helper Sleeves,mhxx-dex-1.0,3
+865,治疗者袖扣,Healer Sleeves,mhxx-dex-1.0,3
+870,抚子【蕾袖】,Dianthus Sleeves,mhxx-dex-1.0,3
+875,桔梗【蕾袖】,Campanile Sleeves,mhxx-dex-1.0,3
+880,泡澡条巾,Bath Sleeves,mhxx-dex-1.0,3
+884,美食喵袖,Gourmew Gloves,mhxx-dex-1.0,3
+889,美食喵手套,Gourmew Mitts,mhxx-dex-1.0,3
+894,皮制S腕甲,Leather Braces S,mhxx-dex-1.0,4
+899,皮制S手甲,Leather Guards S,mhxx-dex-1.0,4
+904,锁甲S腕甲,Chainmail Braces S,mhxx-dex-1.0,4
+909,锁甲S手甲,Chainmail Guards S,mhxx-dex-1.0,4
+914,贝鲁纳S腕甲,Bherna Braces S,mhxx-dex-1.0,4
+919,贝鲁纳S手甲,Bherna Guards S,mhxx-dex-1.0,4
+924,狩猎S腕甲,Hunting Braces S,mhxx-dex-1.0,4
+929,狩猎S手甲,Hunting Guards S,mhxx-dex-1.0,4
+934,毛皮S手套,Mafumofu Grips S,mhxx-dex-1.0,4
+939,毛皮S连指手套,Mafumofu Mittens S,mhxx-dex-1.0,4
+944,结云之护臂･天,Yukumo Sky Kote,mhxx-dex-1.0,4
+949,结云之护臂･地,Yukumo Land Kote,mhxx-dex-1.0,4
+957,猎人S腕甲,Hunter's Vambraces S,mhxx-dex-1.0,4
+962,猎人S手甲,Hunter's Guards S,mhxx-dex-1.0,4
+967,猎人R腕甲,Hunter's Braces R,mhxx-dex-1.0,4
+972,猎人R手甲,Hunter's Guards R,mhxx-dex-1.0,4
+977,骨制S腕甲,Bone Vambraces S,mhxx-dex-1.0,4
+982,骨制S手甲,Bone Guards S,mhxx-dex-1.0,4
+995,花瓣S枝叶,Melahoa Branch S,mhxx-dex-1.0,4
+1000,花瓣S美神,Melahoa Petal S,mhxx-dex-1.0,4
+1005,花瓣U枝叶,Melahoa Branch U,mhxx-dex-1.0,4
+1010,花瓣U美神,Melahoa Petal U,mhxx-dex-1.0,4
+1015,鱼鳞S袖,Makluva Sleeves S,mhxx-dex-1.0,4
+1020,鱼鳞S护袖,Makluva Sucker S,mhxx-dex-1.0,4
+1025,鱼鳞U袖,Makluva Sleeves U,mhxx-dex-1.0,4
+1030,鱼鳞U护袖,Makluva Sucker U,mhxx-dex-1.0,4
+1045,南瓜S枝叶,Mosgharl Creeper S,mhxx-dex-1.0,4
+1050,南瓜S美神,Mosgharl Tendril S,mhxx-dex-1.0,4
+1055,雪绒花S枝叶,Edel Creeper S,mhxx-dex-1.0,4
+1060,雪绒花S美神,Edel Tendril S,mhxx-dex-1.0,4
+1065,云羊鹿S手套,Moofah Claws S,mhxx-dex-1.0,4
+1069,云羊鹿S袖扣,Moofah Sleeves S,mhxx-dex-1.0,4
+1080,蓝速龙套装S手套,Velociprey Claws S,mhxx-dex-1.0,4
+1084,蓝速龙套装S护臂,Velociprey Gloves S,mhxx-dex-1.0,4
+1088,白速龙套装手套,Giaprey Claws,mhxx-dex-1.0,4
+1092,白速龙套装护臂,Giaprey Gloves,mhxx-dex-1.0,4
+1096,黄速龙套装S手套,Genprey Claws S,mhxx-dex-1.0,4
+1100,黄速龙套装S护臂,Genprey Gloves S,mhxx-dex-1.0,4
+1104,红速龙套装S手套,Ioprey Claws S,mhxx-dex-1.0,4
+1108,红速龙套装S护臂,Ioprey Gloves S,mhxx-dex-1.0,4
+1112,蛇龙套装S手套,Remobra Gloves S,mhxx-dex-1.0,4
+1117,蛇龙套装S护臂,Remobra Hands S,mhxx-dex-1.0,4
+1120,猎手皮臂甲S,Trapper's Gauntlets S,mhxx-dex-1.0,4
+1122,猎手皮手套S,Trapper's Gloves S,mhxx-dex-1.0,4
+1124,跳狗龙王皮臂甲S,Maccao Gauntlets S,mhxx-dex-1.0,4
+1126,跳狗龙王皮手套S,Maccao Gloves S,mhxx-dex-1.0,4
+1128,狗龙王皮臂甲S,Jaggi Gauntlets S,mhxx-dex-1.0,4
+1130,狗龙王皮手套S,Jaggi Gloves S,mhxx-dex-1.0,4
+1134,蘑菇猪S拳,Mosswine Gloves S,mhxx-dex-1.0,4
+1139,硬甲龙S腕甲,Rhenoplos Braces S,mhxx-dex-1.0,4
+1144,硬甲龙S手甲,Rhenoplos Guards S,mhxx-dex-1.0,4
+1149,狗龙S腕甲,Jaggi Vambraces S,mhxx-dex-1.0,4
+1154,狗龙S手甲,Jaggi Guards S,mhxx-dex-1.0,4
+1169,跳狗龙S腕甲,Maccao Braces S,mhxx-dex-1.0,4
+1174,跳狗龙S手甲,Maccao Guards S,mhxx-dex-1.0,4
+1179,蓝速龙S腕甲,Velociprey Braces S,mhxx-dex-1.0,4
+1184,蓝速龙S手甲,Velociprey Guards S,mhxx-dex-1.0,4
+1189,白速龙S腕甲,Giaprey Braces S,mhxx-dex-1.0,4
+1194,白速龙S手甲,Giaprey Guards S,mhxx-dex-1.0,4
+1199,黄速龙S腕甲,Genprey Vambraces S,mhxx-dex-1.0,4
+1204,黄速龙S手甲,Genprey Guards S,mhxx-dex-1.0,4
+1209,EX黄速龙腕甲,EX Genprey Braces,mhxx-dex-1.0,4
+1214,EX黄速龙手甲,EX Genprey Guards,mhxx-dex-1.0,4
+1219,红速龙S腕甲,Ioprey Vambraces S,mhxx-dex-1.0,4
+1224,红速龙S手甲,Ioprey Guards S,mhxx-dex-1.0,4
+1229,EX红速龙腕甲,EX Ioprey Vambraces,mhxx-dex-1.0,4
+1234,EX红速龙手甲,EX Ioprey Guards,mhxx-dex-1.0,4
+1239,巨蜂S腕甲,Vespoid Vambraces S,mhxx-dex-1.0,4
+1244,巨蜂S手甲,Vespoid Guards S,mhxx-dex-1.0,4
+1249,EX巨蜂腕甲,EX Vespoid Vambraces,mhxx-dex-1.0,4
+1254,EX巨蜂手甲,EX Vespoid Guards,mhxx-dex-1.0,4
+1259,巨甲虫S腕甲,Hornetaur Braces S,mhxx-dex-1.0,4
+1264,巨甲虫S手甲,Hornetaur Guards S,mhxx-dex-1.0,4
+1269,EX巨甲虫腕甲,EX Hornetaur Braces,mhxx-dex-1.0,4
+1274,EX巨甲虫手甲,EX Hornetaur Guards,mhxx-dex-1.0,4
+1279,巨甲虫R腕甲,Hornetaur Braces R,mhxx-dex-1.0,4
+1284,巨甲虫R手甲,Hornetaur Guards R,mhxx-dex-1.0,4
+1289,飞甲虫S护手,Bnahabra Gloves S,mhxx-dex-1.0,4
+1294,飞甲虫S袖扣,Bnahabra Sleeves S,mhxx-dex-1.0,4
+1298,盾虫S腕甲,Konchu Braces S,mhxx-dex-1.0,4
+1300,盾虫S手甲,Konchu Guards S,mhxx-dex-1.0,4
+1303,野猪S腕甲,Bulldrome Braces S,mhxx-dex-1.0,4
+1308,野猪S手甲,Bulldrome Guards S,mhxx-dex-1.0,4
+1314,青熊兽S腕甲,Arzuros Vambraces S,mhxx-dex-1.0,4
+1319,青熊兽S手甲,Arzuros Guards S,mhxx-dex-1.0,4
+1324,砂龙S腕甲,Cephalos Vambraces S,mhxx-dex-1.0,4
+1329,砂龙S手甲,Cephalos Guards S,mhxx-dex-1.0,4
+1334,EX砂龙腕甲,EX Cephalos Braces,mhxx-dex-1.0,4
+1339,EX砂龙手甲,EX Cephalos Guards,mhxx-dex-1.0,4
+1344,怪鸟S腕甲,Kut-Ku Vambraces S,mhxx-dex-1.0,4
+1349,怪鸟S手甲,Kut-Ku Guards S,mhxx-dex-1.0,4
+1354,奇猿狐腕甲,Kecha Vambraces,mhxx-dex-1.0,4
+1359,奇猿狐手甲,Kecha Guards,mhxx-dex-1.0,4
+1364,白兔兽S腕甲,Lagombi Vambraces S,mhxx-dex-1.0,4
+1369,白兔兽S手甲,Lagombi Guards S,mhxx-dex-1.0,4
+1374,毒怪鸟S腕甲,Gypceros Braces S,mhxx-dex-1.0,4
+1379,毒怪鸟S手甲,Gypceros Guards S,mhxx-dex-1.0,4
+1384,毒怪鸟R腕甲,Gypceros Braces R,mhxx-dex-1.0,4
+1389,毒怪鸟R手甲,Gypceros Guards R,mhxx-dex-1.0,4
+1394,鬼蛙S腕甲,Tetsucabra Braces S,mhxx-dex-1.0,4
+1399,鬼蛙S手甲,Tetsucabra Guards S,mhxx-dex-1.0,4
+1404,大名盾蟹S腕甲,Hermitaur Braces S,mhxx-dex-1.0,4
+1409,大名盾蟹S手甲,Hermitaur Guards S,mhxx-dex-1.0,4
+1414,EX大名盾蟹腕甲,EX Hermitaur Braces,mhxx-dex-1.0,4
+1419,EX大名盾蟹手甲,EX Hermitaur Guards,mhxx-dex-1.0,4
+1424,大名盾蟹R腕甲,Hermitaur Braces R,mhxx-dex-1.0,4
+1429,大名盾蟹R手甲,Hermitaur Guards R,mhxx-dex-1.0,4
+1434,赤甲兽S腕甲,Volvidon Vambraces S,mhxx-dex-1.0,4
+1439,赤甲兽S手甲,Volvidon Guards S,mhxx-dex-1.0,4
+1444,桃毛兽王腕甲,Conga Vambraces,mhxx-dex-1.0,4
+1449,桃毛兽王手甲,Conga Guards,mhxx-dex-1.0,4
+1454,水兽S腕甲,Ludroth Braces S,mhxx-dex-1.0,4
+1459,水兽S手甲,Ludroth Guards S,mhxx-dex-1.0,4
+1464,水兽R腕甲,Ludroth Braces R,mhxx-dex-1.0,4
+1469,水兽R手甲,Ludroth Guards R,mhxx-dex-1.0,4
+1474,土砂龙腕甲,Barroth Vambraces,mhxx-dex-1.0,4
+1479,土砂龙手甲,Barroth Guards,mhxx-dex-1.0,4
+1484,求知腕甲,Lecturer's Braces,mhxx-dex-1.0,4
+1489,求知手甲,Lecturer's Guards,mhxx-dex-1.0,4
+1494,合金S腕甲,Alloy Vambraces S,mhxx-dex-1.0,5
+1499,合金S手甲,Alloy Guards S,mhxx-dex-1.0,5
+1504,合金R腕甲,Alloy Braces R,mhxx-dex-1.0,5
+1509,合金R手甲,Alloy Guards R,mhxx-dex-1.0,5
+1514,战斗S腕甲,Battle Vambraces S,mhxx-dex-1.0,5
+1519,战斗S手甲,Battle Guards S,mhxx-dex-1.0,5
+1524,铸铁S腕甲,Ingot Vambraces S,mhxx-dex-1.0,5
+1529,铸铁S手甲,Ingot Guards S,mhxx-dex-1.0,5
+1534,铸铁R腕甲,Ingot Vambraces R,mhxx-dex-1.0,5
+1539,铸铁R手甲,Ingot Guards R,mhxx-dex-1.0,5
+1544,矿石S腕甲,High Metal Braces S,mhxx-dex-1.0,5
+1549,矿石S手甲,High Metal Guards S,mhxx-dex-1.0,5
+1554,矿石U腕甲,High Metal Braces U,mhxx-dex-1.0,5
+1559,矿石U手甲,High Metal Guards U,mhxx-dex-1.0,5
+1566,龙虾腕甲,Lobster Vambraces,mhxx-dex-1.0,5
+1571,龙虾手甲,Lobster Guards,mhxx-dex-1.0,5
+1576,独角仙S护袖,Obituary Brachia S,mhxx-dex-1.0,5
+1581,独角仙S腕,Obituary Manus S,mhxx-dex-1.0,5
+1586,燕尾蝶S护袖,Butterfly Brachia S,mhxx-dex-1.0,5
+1591,燕尾蝶S腕,Butterfly Manus S,mhxx-dex-1.0,5
+1596,死神S双手,Death Stench Grip S,mhxx-dex-1.0,5
+1601,死神S欲望,Death Stench Grasp S,mhxx-dex-1.0,5
+1606,死神R双手,Death Stench Grip R,mhxx-dex-1.0,5
+1611,死神R欲望,Death Stench Grasp R,mhxx-dex-1.0,5
+1616,海境S腕甲,Vaik Braces S,mhxx-dex-1.0,5
+1621,海境S手甲,Vaik Guards S,mhxx-dex-1.0,5
+1626,锹形S护袖,Aelucanth Brachia S,mhxx-dex-1.0,5
+1631,锹形S腕,Aelucanth Manus S,mhxx-dex-1.0,5
+1636,凤蝶S护袖,Rhopessa Brachia S,mhxx-dex-1.0,5
+1641,凤蝶S腕,Rhopessa Manus S,mhxx-dex-1.0,5
+1646,糕点师袖,Patissier's Gloves,mhxx-dex-1.0,5
+1651,糕点师手套,Patissier's Mitts,mhxx-dex-1.0,5
+1656,毒蝎S护袖,Skalda Brachia S,mhxx-dex-1.0,5
+1661,毒蝎S腕,Skalda Manus S,mhxx-dex-1.0,5
+1666,毒蛛S护袖,Spio Brachia S,mhxx-dex-1.0,5
+1671,毒蛛S腕,Spio Manus S,mhxx-dex-1.0,5
+1677,岩龙腕甲,Basarios Vambraces,mhxx-dex-1.0,5
+1682,岩龙手甲,Basarios Guards,mhxx-dex-1.0,5
+1687,夜鸟S腕甲,Malfestio Braces S,mhxx-dex-1.0,5
+1692,夜鸟S手甲,Malfestio Guards S,mhxx-dex-1.0,5
+1697,变形冰鲨腕甲,Zamtrios Braces,mhxx-dex-1.0,5
+1702,变形冰鲨手甲,Zamtrios Guards,mhxx-dex-1.0,5
+1707,白电S腕甲,Khezu Vambraces S,mhxx-dex-1.0,5
+1712,白电S手甲,Khezu Guards S,mhxx-dex-1.0,5
+1717,白电R腕甲,Khezu Braces R,mhxx-dex-1.0,5
+1722,白电R手甲,Khezu Guards R,mhxx-dex-1.0,5
+1727,影蜘蛛腕甲,Nerscylla Vambraces,mhxx-dex-1.0,5
+1732,影蜘蛛手甲,Nerscylla Guards,mhxx-dex-1.0,5
+1737,雌火龙S腕甲,Rathian Braces S,mhxx-dex-1.0,5
+1742,雌火龙S手甲,Rathian Guards S,mhxx-dex-1.0,5
+1747,EX雌火龙腕甲,EX Rathian Braces,mhxx-dex-1.0,5
+1752,EX雌火龙手甲,EX Rathian Guards,mhxx-dex-1.0,5
+1757,雌火龙R腕甲,Rathian Braces R,mhxx-dex-1.0,5
+1762,雌火龙R手甲,Rathian Guards R,mhxx-dex-1.0,5
+1767,潜口龙S腕甲,Nibelsnarf Braces S,mhxx-dex-1.0,5
+1772,潜口龙S手甲,Nibelsnarf Guards S,mhxx-dex-1.0,5
+1777,水龙腕甲,Plesioth Vambraces,mhxx-dex-1.0,5
+1781,水龙手甲,Plesioth Guards,mhxx-dex-1.0,5
+1785,雪狮子S腕甲,Blango Vambraces S,mhxx-dex-1.0,5
+1790,雪狮子S手甲,Blango Guards S,mhxx-dex-1.0,5
+1795,EX雪狮子腕甲,EX Blango Braces,mhxx-dex-1.0,5
+1800,EX雪狮子手甲,EX Blango Guards,mhxx-dex-1.0,5
+1805,熔岩龙腕甲,Lavasioth Braces,mhxx-dex-1.0,5
+1810,熔岩龙手甲,Lavasioth Guards,mhxx-dex-1.0,5
+1815,EX熔岩龙腕甲,EX Lavasioth Braces,mhxx-dex-1.0,5
+1820,EX熔岩龙手甲,EX Lavasioth Guards,mhxx-dex-1.0,5
+1825,将军镰蟹S腕甲,Ceanataur Braces S,mhxx-dex-1.0,5
+1830,将军镰蟹S手甲,Ceanataur Guards S,mhxx-dex-1.0,5
+1835,EX将军镰蟹腕甲,EX Ceanataur Braces,mhxx-dex-1.0,5
+1840,EX将军镰蟹手甲,EX Ceanataur Guards,mhxx-dex-1.0,5
+1845,将军镰蟹R腕甲,Ceanataur Braces R,mhxx-dex-1.0,5
+1850,将军镰蟹R手甲,Ceanataur Guards R,mhxx-dex-1.0,5
+1855,绞蛇龙S腕甲,Najarala Braces S,mhxx-dex-1.0,5
+1860,绞蛇龙S手甲,Najarala Guards S,mhxx-dex-1.0,5
+1865,迅龙S腕甲,Nargacuga Braces S,mhxx-dex-1.0,5
+1870,迅龙S手甲,Nargacuga Guards S,mhxx-dex-1.0,5
+1875,黑狼鸟S腕甲,Garuga Vambraces S,mhxx-dex-1.0,5
+1880,黑狼鸟S手甲,Garuga Guards S,mhxx-dex-1.0,5
+1886,爆锤龙S腕甲,Uragaan Vambraces S,mhxx-dex-1.0,5
+1891,爆锤龙S手甲,Uragaan Guards S,mhxx-dex-1.0,5
+1896,黑带S腕甲,Black Belt Braces S,mhxx-dex-1.0,5
+1901,黑带S手甲,Black Belt Guards S,mhxx-dex-1.0,5
+1906,守护者腕甲,Guardian Braces,mhxx-dex-1.0,5
+1911,守护者手甲,Guardian Guards,mhxx-dex-1.0,5
+1916,守护者U腕甲,Guardian Braces U,mhxx-dex-1.0,5
+1921,守护者U手甲,Guardian Guards U,mhxx-dex-1.0,5
+1926,学士手套,Scholar's Gloves,mhxx-dex-1.0,5
+1931,学士袖扣,Scholar's Sleeves,mhxx-dex-1.0,5
+1936,水手手套,Sailor Gloves,mhxx-dex-1.0,5
+1941,水手袖扣,Sailor Sleeves,mhxx-dex-1.0,5
+1946,高级泡澡条巾,Luxury Bath Sleeves,mhxx-dex-1.0,5
+1950,北极星【袖】,Kita Star Sleeves,mhxx-dex-1.0,5
+1954,海渊【袖】,Umi Ocean Sleeves,mhxx-dex-1.0,5
+1959,勇气S腕甲,Derring Vambraces S,mhxx-dex-1.0,6
+1964,勇气S手甲,Derring Guards S,mhxx-dex-1.0,6
+1969,杜宾腕甲,Dober Vambraces,mhxx-dex-1.0,6
+1974,杜宾手甲,Dober Guards,mhxx-dex-1.0,6
+1979,花纹钢腕甲,Damascus Vambraces,mhxx-dex-1.0,6
+1984,花纹钢手甲,Damascus Guards,mhxx-dex-1.0,6
+1989,花纹钢R腕甲,Damascus Braces R,mhxx-dex-1.0,6
+1994,花纹钢R手甲,Damascus Guards R,mhxx-dex-1.0,6
+2007,机械S腕甲,Artian Braces S,mhxx-dex-1.0,6
+2012,机械S手甲,Artian Guards S,mhxx-dex-1.0,6
+2017,机械R腕甲,Artian Braces R,mhxx-dex-1.0,6
+2022,机械R手甲,Artian Guards R,mhxx-dex-1.0,6
+2027,冰牙龙腕甲,Barioth Vambraces,mhxx-dex-1.0,6
+2032,冰牙龙手甲,Barioth Guards,mhxx-dex-1.0,6
+2037,重甲虫腕甲,Seltas Vambraces,mhxx-dex-1.0,6
+2042,重甲虫手甲,Seltas Guards,mhxx-dex-1.0,6
+2047,火龙S腕甲,Rathalos Braces S,mhxx-dex-1.0,6
+2052,火龙S手甲,Rathalos Guards S,mhxx-dex-1.0,6
+2057,EX火龙腕甲,EX Rathalos Braces,mhxx-dex-1.0,6
+2062,EX火龙手甲,EX Rathalos Guards,mhxx-dex-1.0,6
+2067,火龙R腕甲,Rathalos Braces R,mhxx-dex-1.0,6
+2072,火龙R手甲,Rathalos Guards R,mhxx-dex-1.0,6
+2077,海龙S腕甲,Lagiacrus Braces S,mhxx-dex-1.0,6
+2082,海龙S手甲,Lagiacrus Guards S,mhxx-dex-1.0,6
+2087,海龙R腕甲,Lagiacrus Braces R,mhxx-dex-1.0,6
+2092,海龙R手甲,Lagiacrus Guards R,mhxx-dex-1.0,6
+2097,雷狼龙S腕甲,Zinogre Braces S,mhxx-dex-1.0,6
+2102,雷狼龙S手甲,Zinogre Guards S,mhxx-dex-1.0,6
+2107,EX雷狼龙腕甲,EX Zinogre Braces,mhxx-dex-1.0,6
+2112,EX雷狼龙手甲,EX Zinogre Guards,mhxx-dex-1.0,6
+2117,铠龙腕甲,Gravios Vambraces,mhxx-dex-1.0,6
+2122,铠龙手甲,Gravios Guards,mhxx-dex-1.0,6
+2127,泡狐龙S腕甲,Mizutsune Braces S,mhxx-dex-1.0,6
+2132,泡狐龙S手甲,Mizutsune Guards S,mhxx-dex-1.0,6
+2137,电龙S腕甲,Astalos Braces S,mhxx-dex-1.0,6
+2142,电龙S手甲,Astalos Guards S,mhxx-dex-1.0,6
+2147,巨兽S腕甲,Gammoth Braces S,mhxx-dex-1.0,6
+2152,巨兽S手甲,Gammoth Guards S,mhxx-dex-1.0,6
+2157,斩龙S腕甲,Glavenus Braces S,mhxx-dex-1.0,6
+2162,斩龙S手甲,Glavenus Guards S,mhxx-dex-1.0,6
+2167,炎戈龙腕甲,Agnaktor Vambraces,mhxx-dex-1.0,6
+2172,炎戈龙手甲,Agnaktor Guards,mhxx-dex-1.0,6
+2177,黑蚀龙S腕甲,Gore Braces S,mhxx-dex-1.0,6
+2182,黑蚀龙S手甲,Gore Guards S,mhxx-dex-1.0,6
+2187,EX黑蚀龙腕甲,EX Gore Braces,mhxx-dex-1.0,6
+2192,EX黑蚀龙手甲,EX Gore Guards,mhxx-dex-1.0,6
+2197,黑蚀龙R腕甲,Gore Braces R,mhxx-dex-1.0,6
+2202,黑蚀龙R手甲,Gore Guards R,mhxx-dex-1.0,6
+2207,千刃龙S腕甲,Regios Vambraces S,mhxx-dex-1.0,6
+2212,千刃龙S手甲,Regios Guards S,mhxx-dex-1.0,6
+2217,尾锤龙腕甲,Duramboros Braces,mhxx-dex-1.0,6
+2222,尾锤龙手甲,Duramboros Guards,mhxx-dex-1.0,6
+2227,轰龙S腕甲,Tigrex Braces S,mhxx-dex-1.0,6
+2232,轰龙S手甲,Tigrex Guards S,mhxx-dex-1.0,6
+2237,EX轰龙腕甲,EX Tigrex Braces,mhxx-dex-1.0,6
+2242,EX轰龙手甲,EX Tigrex Guards,mhxx-dex-1.0,6
+2247,轰龙R腕甲,Tigrex Braces R,mhxx-dex-1.0,6
+2252,轰龙R手甲,Tigrex Guards R,mhxx-dex-1.0,6
+2257,麒麟S长腕甲,Kirin Longarms S,mhxx-dex-1.0,6
+2262,麒麟S护手,Kirin Gloves S,mhxx-dex-1.0,6
+2267,麒麟R长腕甲,Kirin Longarms R,mhxx-dex-1.0,6
+2272,麒麟R护手,Kirin Gloves R,mhxx-dex-1.0,6
+2277,碎龙S腕甲,Brachydios Braces S,mhxx-dex-1.0,6
+2282,碎龙S手甲,Brachydios Guards S,mhxx-dex-1.0,6
+2287,EX碎龙腕甲,EX Brachydios Braces,mhxx-dex-1.0,6
+2292,EX碎龙手甲,EX Brachydios Guards,mhxx-dex-1.0,6
+2297,金色臂甲,Golden Kote,mhxx-dex-1.0,6
+2302,黑衣臂甲,Puppeteer Gloves,mhxx-dex-1.0,6
+2307,恐暴龙腕甲,Vangis Vambraces,mhxx-dex-1.0,6
+2312,恐暴龙手甲,Vangis Guards,mhxx-dex-1.0,6
+2317,公会骑士手套,Guild Knight Gloves,mhxx-dex-1.0,6
+2322,公会骑士袖扣,Guild Knight Sleeves,mhxx-dex-1.0,6
+2327,女仆S手套,Maiden's Gloves S,mhxx-dex-1.0,6
+2332,休闲S袖扣,French Maid Sleeves S,mhxx-dex-1.0,6
+2337,公会守卫蓝手套,Blue Guild Gloves,mhxx-dex-1.0,6
+2342,公会守卫蓝袖扣,Blue Guild Sleeves,mhxx-dex-1.0,6
+2347,公会守卫蓝手套,Blue Guild Gloves,mhxx-dex-1.0,6
+2352,公会守卫蓝袖扣,Blue Guild Sleeves,mhxx-dex-1.0,6
+2357,公会守卫红手套,Red Guild Gloves,mhxx-dex-1.0,6
+2362,公会守卫红袖扣,Red Guild Sleeves,mhxx-dex-1.0,6
+2367,公会守卫红手套,Red Guild Gloves,mhxx-dex-1.0,6
+2372,公会守卫红袖扣,Red Guild Sleeves,mhxx-dex-1.0,6
+2377,支援者S袖扣,Helper Sleeves S,mhxx-dex-1.0,6
+2382,治疗者S袖扣,Healer Sleeves S,mhxx-dex-1.0,6
+2387,支援者U袖扣,Helper Sleeves U,mhxx-dex-1.0,6
+2392,治疗者U袖扣,Healer Sleeves U,mhxx-dex-1.0,6
+2397,公会诗人S腕甲,Guild Bard Braces S,mhxx-dex-1.0,6
+2402,公会诗人S袖扣,Guild Bard Sleeves S,mhxx-dex-1.0,6
+2407,三眼手环,Chakra Bracelet,mhxx-dex-1.0,6
+2412,抚子･华【蕾袖】,Dianthus Wealsleeves,mhxx-dex-1.0,6
+2417,桔梗･华【蕾袖】,Campanile Wealsleeves,mhxx-dex-1.0,6
+2422,王牌腕甲,Ace Vambraces,mhxx-dex-1.0,6
+2427,王牌手甲,Ace Guards,mhxx-dex-1.0,6
+2432,女王腕甲,Sororal Vambraces,mhxx-dex-1.0,6
+2437,女王手甲,Sororal Guards,mhxx-dex-1.0,6
+2442,猎鹰腕甲,Hawkbraces,mhxx-dex-1.0,6
+2447,猎鹰手甲,Hawkguards,mhxx-dex-1.0,6
+2452,美食喵S袖,Gourmew Gloves S,mhxx-dex-1.0,6
+2457,美食喵S手套,Gourmew Mitts S,mhxx-dex-1.0,6
+2463,贤者S手套,Scholarly Grips S,mhxx-dex-1.0,6
+2468,贤者S袖扣,Scholarly Cuffs S,mhxx-dex-1.0,6
+2473,城塞游击队【手甲】,Ranger's Gauntlets,mhxx-dex-1.0,6
+2478,城塞弓击队【手甲】,Archer's Gauntlets,mhxx-dex-1.0,6
+2483,忍者臂甲･天,Shinobi Heaven Kote,mhxx-dex-1.0,7
+2488,忍者臂甲･地,Shinobi Land Kote,mhxx-dex-1.0,7
+2493,忍者臂甲･空,Shinobi Sky Kote,mhxx-dex-1.0,7
+2498,忍者臂甲･海,Shinobi Sea Kote,mhxx-dex-1.0,7
+2503,龙历士腕甲,Ancient Arms,mhxx-dex-1.0,7
+2508,龙历士手甲,Ancient Guards,mhxx-dex-1.0,7
+2513,大师腕甲,Master's Gauntlets,mhxx-dex-1.0,7
+2518,大师手甲,Master's Guards,mhxx-dex-1.0,7
+2523,黑色S护肘,Black Claw S,mhxx-dex-1.0,7
+2528,黑色S拳头,Black Fist S,mhxx-dex-1.0,7
+2533,桐花【臂甲】,Toka Kote,mhxx-dex-1.0,7
+2538,三葵【臂甲】,Mitsuaoi Kote,mhxx-dex-1.0,7
+2543,聪慧手套,Wisdom Sleeves,mhxx-dex-1.0,7
+2548,聪慧袖扣,Wisdom Cuffs,mhxx-dex-1.0,7
+2553,活泼腕甲,Cheerful Braces,mhxx-dex-1.0,7
+2558,活泼手甲,Cheerful Guards,mhxx-dex-1.0,7
+2563,海歌手套,Mariner Gloves,mhxx-dex-1.0,7
+2568,海歌袖扣,Mariner Sleeves,mhxx-dex-1.0,7
+2573,EX雌火龙S腕甲,EX Rathian Braces S,mhxx-dex-1.0,7
+2578,EX雌火龙S手甲,EX Rathian Guards S,mhxx-dex-1.0,7
+2583,EX火龙S腕甲,EX Rathalos Braces S,mhxx-dex-1.0,7
+2588,EX火龙S手甲,EX Rathalos Guards S,mhxx-dex-1.0,7
+2593,EX轰龙S腕甲,EX Tigrex Braces S,mhxx-dex-1.0,7
+2598,EX轰龙S手甲,EX Tigrex Guards S,mhxx-dex-1.0,7
+2603,角龙腕甲,Diablos Vambraces,mhxx-dex-1.0,7
+2608,角龙手甲,Diablos Guards,mhxx-dex-1.0,7
+2613,角龙R腕甲,Diablos Vambraces R,mhxx-dex-1.0,7
+2618,角龙R手甲,Diablos Guards R,mhxx-dex-1.0,7
+2623,方舟S腕甲,Arc Vambraces S,mhxx-dex-1.0,7
+2628,方舟S手甲,Arc Guards S,mhxx-dex-1.0,7
+2633,友爱S腕甲,Storge Braces S,mhxx-dex-1.0,7
+2638,友爱S手甲,Storge Guards S,mhxx-dex-1.0,7
+2643,EX方舟腕甲,EX Arc Vambraces,mhxx-dex-1.0,7
+2648,EX方舟手甲,EX Arc Guards,mhxx-dex-1.0,7
+2653,EX友爱腕甲,EX Storge Vambraces,mhxx-dex-1.0,7
+2658,EX友爱手甲,EX Storge Guards,mhxx-dex-1.0,7
+2663,方舟R腕甲,Arc Braces R,mhxx-dex-1.0,7
+2668,方舟R手甲,Arc Guards R,mhxx-dex-1.0,7
+2673,友爱R腕甲,Storge Braces R,mhxx-dex-1.0,7
+2678,友爱R手甲,Storge Guards R,mhxx-dex-1.0,7
+2683,天彗龙腕甲,Valstrax Braces,mhxx-dex-1.0,7
+2688,天彗龙手甲,Valstrax Guards,mhxx-dex-1.0,7
+2693,钢龙S刚强,Kushala Grip S,mhxx-dex-1.0,7
+2698,钢龙S劲猛,Kushala Embrace S,mhxx-dex-1.0,7
+2703,EX钢龙刚强,EX Kushala Grip,mhxx-dex-1.0,7
+2708,EX钢龙劲猛,EX Kushala Embrace,mhxx-dex-1.0,7
+2713,钢龙R刚强,Kushala Grip R,mhxx-dex-1.0,7
+2718,钢龙R劲猛,Kushala Embrace R,mhxx-dex-1.0,7
+2723,水行霸【大袖】,Mizuha Sleeves S,mhxx-dex-1.0,7
+2728,丰玉霸【大袖】,Cham Sleeves S,mhxx-dex-1.0,7
+2733,EX水行【大袖】,EX Mizuha Sleeves,mhxx-dex-1.0,7
+2738,EX丰玉【大袖】,EX Cham Sleeves,mhxx-dex-1.0,7
+2743,帝王S腕甲,Kaiser Vambraces S,mhxx-dex-1.0,7
+2748,帝王S手甲,Kaiser Guards S,mhxx-dex-1.0,7
+2753,EX帝王腕甲,EX Kaiser Vambraces,mhxx-dex-1.0,7
+2758,EX帝王手甲,EX Kaiser Guards,mhxx-dex-1.0,7
+2763,银白耀日腕甲,Silver Solbraces,mhxx-dex-1.0,7
+2768,银白耀日手甲,Silver Solguards,mhxx-dex-1.0,7
+2773,EX银白耀日腕甲,EX Silver Solbraces,mhxx-dex-1.0,7
+2778,EX银白耀日手甲,EX Silver Solguards,mhxx-dex-1.0,7
+2783,银白耀日R腕甲,Silver Solbraces R,mhxx-dex-1.0,7
+2788,银白耀日R手甲,Silver Solguards R,mhxx-dex-1.0,7
+2793,金黄澄月腕甲,Golden Lunebraces,mhxx-dex-1.0,7
+2798,金黄澄月手甲,Golden Luneguards,mhxx-dex-1.0,7
+2803,EX金黄澄月腕甲,EX Golden Lunebraces,mhxx-dex-1.0,7
+2808,EX金黄澄月手甲,EX Golden Luneguards,mhxx-dex-1.0,7
+2813,怒天臂甲,Divine Ire Kote,mhxx-dex-1.0,7
+2818,心灭臂甲,Crusher Braces,mhxx-dex-1.0,7
+2823,贪婪腕甲,Esurient Vambraces,mhxx-dex-1.0,7
+2828,贪婪手甲,Esurient Guards,mhxx-dex-1.0,7
+2833,贪婪R腕甲,Esurient Braces R,mhxx-dex-1.0,7
+2838,贪婪R手甲,Esurient Guards R,mhxx-dex-1.0,7
+2843,霸龙健将,Akantor Claws,mhxx-dex-1.0,7
+2848,霸龙勇者,Akantor Gauntlets,mhxx-dex-1.0,7
+2853,霸龙R健将,Akantor Claws R,mhxx-dex-1.0,7
+2858,霸龙R勇者,Akantor Gauntlets R,mhxx-dex-1.0,7
+2863,崩龙健将,Ukanlos Claws,mhxx-dex-1.0,7
+2868,崩龙勇者,Ukanlos Gauntlets,mhxx-dex-1.0,7
+2873,荒天【袖】,Tempest Sleeves,mhxx-dex-1.0,7
+2878,苍天【袖】,Welkin Sleeves,mhxx-dex-1.0,7
+2883,荒天亚流【袖】,Tempest Sleeves R,mhxx-dex-1.0,7
+2888,苍天亚流【袖】,Welkin Sleeves R,mhxx-dex-1.0,7
+2893,骸装甲･霸【臂骨】,Skeletal Humerus R,mhxx-dex-1.0,7
+2898,尸装甲･霸【臂骨】,Decayed Humerus R,mhxx-dex-1.0,7
+2903,苍星腕甲,Astral Vambraces,mhxx-dex-1.0,7
+2908,苍星手甲,Astral Guards,mhxx-dex-1.0,7
+2913,煌黑龙长腕,Escadora Armguards,mhxx-dex-1.0,7
+2918,煌黑龙兵器,Escadora Arma,mhxx-dex-1.0,7
+2923,煌黑龙R长腕,Escadora Armguards R,mhxx-dex-1.0,7
+2928,煌黑龙R兵器,Escadora Arma R,mhxx-dex-1.0,7
+2931,团长手环,Caravaneer's Armlets,mhxx-dex-1.0,7
+2945,皮制X腕甲,Leather Braces X,mhxx-dex-1.0,8
+2950,皮制X手甲,Leather Guards X,mhxx-dex-1.0,8
+2955,锁甲X腕甲,Chain Vambraces X,mhxx-dex-1.0,8
+2960,锁甲X手甲,Chainmail Guards X,mhxx-dex-1.0,8
+2965,贝鲁纳X腕甲,Bherna Braces X,mhxx-dex-1.0,8
+2970,贝鲁纳X手甲,Bherna Guards X,mhxx-dex-1.0,8
+2975,狩猎X腕甲,Hunting Braces X,mhxx-dex-1.0,8
+2980,狩猎X手甲,Hunting Guards X,mhxx-dex-1.0,8
+2985,毛皮X手套,Mafumofu Grips X,mhxx-dex-1.0,8
+2990,毛皮X连指手套,Mafumofu Mittens X,mhxx-dex-1.0,8
+2995,结云之护臂･极天,Yukumo Sky Kote Goku,mhxx-dex-1.0,8
+3000,结云之护臂･极地,Yukumo Land Kote Goku,mhxx-dex-1.0,8
+3005,最高级泡澡条巾,Posh Bath Sleeves,mhxx-dex-1.0,8
+3012,猎人X腕甲,Hunter's Vambraces X,mhxx-dex-1.0,8
+3017,猎人X手甲,Hunter's Guards X,mhxx-dex-1.0,8
+3022,猎人XR腕甲,Hunter's Vambraces XR,mhxx-dex-1.0,8
+3027,猎人XR手甲,Hunter's Guards XR,mhxx-dex-1.0,8
+3032,骨制X腕甲,Bone Vambraces X,mhxx-dex-1.0,8
+3037,骨制X手甲,Bone Guards X,mhxx-dex-1.0,8
+3042,猎手皮臂甲X,Trapper's Gauntlets X,mhxx-dex-1.0,8
+3044,猎手皮手套X,Trapper's Gloves X,mhxx-dex-1.0,8
+3050,跳狗龙王皮臂甲X,Maccao Gauntlets X,mhxx-dex-1.0,8
+3052,跳狗龙王皮手套X,Maccao Gloves X,mhxx-dex-1.0,8
+3054,狗龙王皮臂甲X,Jaggi Gauntlets X,mhxx-dex-1.0,8
+3056,狗龙王皮手套X,Jaggi Gloves X,mhxx-dex-1.0,8
+3060,花瓣X枝叶,Melahoa Branch X,mhxx-dex-1.0,8
+3065,花瓣X美神,Melahoa Petal X,mhxx-dex-1.0,8
+3070,花瓣Z枝叶,Melahoa Branch Z,mhxx-dex-1.0,8
+3075,花瓣Z美神,Melahoa Petal Z,mhxx-dex-1.0,8
+3080,鱼鳞X袖,Makluva Sleeves X,mhxx-dex-1.0,8
+3085,鱼鳞X护袖,Makluva Sucker X,mhxx-dex-1.0,8
+3090,鱼鳞Z袖,Makluva Sleeves Z,mhxx-dex-1.0,8
+3095,鱼鳞Z护袖,Makluva Sucker Z,mhxx-dex-1.0,8
+3100,独角仙X护袖,Obituary Brachia X,mhxx-dex-1.0,8
+3105,独角仙X腕,Obituary Manus X,mhxx-dex-1.0,8
+3110,燕尾蝶X护袖,Butterfly Brachia X,mhxx-dex-1.0,8
+3115,燕尾蝶X腕,Butterfly Manus X,mhxx-dex-1.0,8
+3120,死神X双手,Death Stench Grip X,mhxx-dex-1.0,8
+3125,死神X欲望,Death Stench Grasp X,mhxx-dex-1.0,8
+3130,死神XR双手,Death Stench Grip XR,mhxx-dex-1.0,8
+3135,死神XR欲望,Death Stench Grasp XR,mhxx-dex-1.0,8
+3144,南瓜X枝叶,Mosgharl Creeper X,mhxx-dex-1.0,8
+3149,南瓜X美神,Mosgharl Tendril X,mhxx-dex-1.0,8
+3154,雪绒花X枝叶,Edel Creeper X,mhxx-dex-1.0,8
+3159,雪绒花X美神,Edel Tendril X,mhxx-dex-1.0,8
+3164,毒蝎X护袖,Skalda Brachia X,mhxx-dex-1.0,8
+3169,毒蝎X腕,Skalda Manus X,mhxx-dex-1.0,8
+3174,毒蛛X护袖,Spio Brachia X,mhxx-dex-1.0,8
+3179,毒蛛X腕,Spio Manus X,mhxx-dex-1.0,8
+3184,合金X腕甲,Alloy Vambraces X,mhxx-dex-1.0,8
+3189,合金X手甲,Alloy Guards X,mhxx-dex-1.0,8
+3194,合金XR腕甲,Alloy Vambraces XR,mhxx-dex-1.0,8
+3199,合金XR手甲,Alloy Guards XR,mhxx-dex-1.0,8
+3204,战斗X腕甲,Battle Vambraces X,mhxx-dex-1.0,8
+3209,战斗X手甲,Battle Guards X,mhxx-dex-1.0,8
+3214,铸铁X腕甲,Ingot Vambraces X,mhxx-dex-1.0,8
+3219,铸铁X手甲,Ingot Guards X,mhxx-dex-1.0,8
+3224,铸铁XR腕甲,Ingot Vambraces XR,mhxx-dex-1.0,8
+3229,铸铁XR手甲,Ingot Guards XR,mhxx-dex-1.0,8
+3234,矿石X腕甲,High Metal Braces X,mhxx-dex-1.0,8
+3239,矿石X手甲,High Metal Guards X,mhxx-dex-1.0,8
+3244,矿石Z腕甲,High Metal Braces Z,mhxx-dex-1.0,8
+3249,矿石Z手甲,High Metal Guards Z,mhxx-dex-1.0,8
+3256,龙虾X腕甲,Lobster Vambraces X,mhxx-dex-1.0,8
+3261,龙虾X手甲,Lobster Guards X,mhxx-dex-1.0,8
+3266,海境X腕甲,Vaik Braces X,mhxx-dex-1.0,8
+3271,海境X手甲,Vaik Guards X,mhxx-dex-1.0,8
+3282,糕点师X袖,Patissier's Gloves X,mhxx-dex-1.0,8
+3287,糕点师X手套,Patissier's Mitts X,mhxx-dex-1.0,8
+3292,美食喵X袖,Gourmew Gloves X,mhxx-dex-1.0,8
+3297,美食喵X手套,Gourmew Mitts X,mhxx-dex-1.0,8
+3302,锹形X护袖,Aelucanth Brachia X,mhxx-dex-1.0,8
+3307,锹形X腕,Aelucanth Manus X,mhxx-dex-1.0,8
+3312,凤蝶X护袖,Rhopessa Brachia X,mhxx-dex-1.0,8
+3317,凤蝶X腕,Rhopessa Manus X,mhxx-dex-1.0,8
+3322,求知X腕甲,Lecturer's Braces X,mhxx-dex-1.0,8
+3327,求知X手甲,Lecturer's Guards X,mhxx-dex-1.0,8
+3332,勇气X腕甲,Derring Vambraces X,mhxx-dex-1.0,8
+3337,勇气X手甲,Derring Guards X,mhxx-dex-1.0,8
+3342,机械X腕甲,Artian Vambraces X,mhxx-dex-1.0,8
+3347,机械X手甲,Artian Guards X,mhxx-dex-1.0,8
+3352,机械XR腕甲,Artian Braces XR,mhxx-dex-1.0,8
+3357,机械XR手甲,Artian Guards XR,mhxx-dex-1.0,8
+3362,女仆X手套,Maiden's Gloves X,mhxx-dex-1.0,8
+3367,休闲X袖扣,French Maid Sleeves X,mhxx-dex-1.0,8
+3372,抚子･雅【蕾袖】,Dianthus Masasleeves,mhxx-dex-1.0,8
+3377,桔梗･雅【蕾袖】,Campanile Masasleeves,mhxx-dex-1.0,8
+3382,猎鹰X腕甲,Hawkbraces X,mhxx-dex-1.0,8
+3387,猎鹰X手甲,Hawkguards X,mhxx-dex-1.0,8
+3392,贤者X手套,Scholarly Grips X,mhxx-dex-1.0,8
+3397,贤者X袖扣,Scholarly Cuffs X,mhxx-dex-1.0,8
+3402,杜宾X腕甲,Dober Vambraces X,mhxx-dex-1.0,8
+3407,杜宾X手甲,Dober Guards X,mhxx-dex-1.0,8
+3412,学士X手套,Scholar's Gloves X,mhxx-dex-1.0,8
+3417,学士X袖扣,Scholar's Sleeves X,mhxx-dex-1.0,8
+3422,水手X手套,Sailor Gloves X,mhxx-dex-1.0,8
+3427,水手X袖扣,Sailor Sleeves X,mhxx-dex-1.0,8
+3432,海歌X手套,Mariner Gloves X,mhxx-dex-1.0,8
+3437,海歌X袖扣,Mariner Sleeves X,mhxx-dex-1.0,8
+3446,狗龙X腕甲,Jaggi Vambraces X,mhxx-dex-1.0,8
+3451,狗龙X手甲,Jaggi Guards X,mhxx-dex-1.0,8
+3457,跳狗龙X腕甲,Maccao Braces X,mhxx-dex-1.0,8
+3462,跳狗龙X手甲,Maccao Guards X,mhxx-dex-1.0,8
+3467,蓝速龙X腕甲,Velociprey Braces X,mhxx-dex-1.0,8
+3472,蓝速龙X手甲,Velociprey Guards X,mhxx-dex-1.0,8
+3477,白速龙X腕甲,Giaprey Braces X,mhxx-dex-1.0,8
+3482,白速龙X手甲,Giaprey Guards X,mhxx-dex-1.0,8
+3487,黄速龙X腕甲,Genprey Vambraces X,mhxx-dex-1.0,8
+3492,黄速龙X手甲,Genprey Guards X,mhxx-dex-1.0,8
+3497,GX黄速龙腕甲,Genprey Vambraces GX,mhxx-dex-1.0,8
+3502,GX黄速龙手甲,Genprey Guards GX,mhxx-dex-1.0,8
+3507,巨蜂X腕甲,Vespoid Vambraces X,mhxx-dex-1.0,8
+3512,巨蜂X手甲,Vespoid Guards X,mhxx-dex-1.0,8
+3517,GX巨蜂腕甲,Vespoid Vambraces GX,mhxx-dex-1.0,8
+3522,GX巨蜂手甲,Vespoid Guards GX,mhxx-dex-1.0,8
+3527,巨甲虫X腕甲,Hornetaur Braces X,mhxx-dex-1.0,8
+3532,巨甲虫X手甲,Hornetaur Guards X,mhxx-dex-1.0,8
+3537,GX巨甲虫腕甲,Hornetaur Braces GX,mhxx-dex-1.0,8
+3542,GX巨甲虫手甲,Hornetaur Guards GX,mhxx-dex-1.0,8
+3547,巨甲虫XR腕甲,Hornetaur Braces XR,mhxx-dex-1.0,8
+3552,巨甲虫XR手甲,Hornetaur Guards XR,mhxx-dex-1.0,8
+3557,飞甲虫X护手,Bnahabra Gloves X,mhxx-dex-1.0,8
+3562,飞甲虫X袖扣,Bnahabra Sleeves X,mhxx-dex-1.0,8
+3566,盾虫X腕甲,Konchu Vambraces X,mhxx-dex-1.0,8
+3568,盾虫X手甲,Konchu Guards X,mhxx-dex-1.0,8
+3571,蘑菇猪X拳,Mosswine Gloves X,mhxx-dex-1.0,8
+3576,硬甲龙X腕甲,Rhenoplos Braces X,mhxx-dex-1.0,8
+3581,硬甲龙X手甲,Rhenoplos Guards X,mhxx-dex-1.0,8
+3586,野猪X腕甲,Bulldrome Braces X,mhxx-dex-1.0,8
+3591,野猪X手甲,Bulldrome Guards X,mhxx-dex-1.0,8
+3597,青熊兽X腕甲,Arzuros Vambraces X,mhxx-dex-1.0,8
+3602,青熊兽X手甲,Arzuros Guards X,mhxx-dex-1.0,8
+3607,砂龙X腕甲,Cephalos Vambraces X,mhxx-dex-1.0,8
+3612,砂龙X手甲,Cephalos Guards X,mhxx-dex-1.0,8
+3617,GX砂龙腕甲,Cephalos Braces GX,mhxx-dex-1.0,8
+3622,GX砂龙手甲,Cephalos Guards GX,mhxx-dex-1.0,8
+3639,云羊鹿X手套,Moofah Claws X,mhxx-dex-1.0,8
+3643,云羊鹿X袖扣,Moofah Sleeves X,mhxx-dex-1.0,8
+3647,蓝速龙套装X手套,Velociprey Claws X,mhxx-dex-1.0,8
+3651,蓝速龙套装X护臂,Velociprey Gloves X,mhxx-dex-1.0,8
+3655,白速龙套装X手套,Giaprey Claws X,mhxx-dex-1.0,8
+3659,白速龙套装X护臂,Giaprey Gloves X,mhxx-dex-1.0,8
+3663,黄速龙套装X手套,Genprey Claws X,mhxx-dex-1.0,8
+3667,黄速龙套装X护臂,Genprey Gloves X,mhxx-dex-1.0,8
+3671,红速龙套装X手套,Ioprey Claws X,mhxx-dex-1.0,8
+3675,红速龙套装X护臂,Ioprey Gloves X,mhxx-dex-1.0,8
+3679,蛇龙套装X手套,Remobra Gloves X,mhxx-dex-1.0,8
+3684,蛇龙套装X护臂,Remobra Hands X,mhxx-dex-1.0,8
+3689,红速龙X腕甲,Ioprey Vambraces X,mhxx-dex-1.0,8
+3694,红速龙X手甲,Ioprey Guards X,mhxx-dex-1.0,8
+3699,GX红速龙腕甲,Ioprey Vambraces GX,mhxx-dex-1.0,8
+3704,GX红速龙手甲,Ioprey Guards GX,mhxx-dex-1.0,8
+3709,怪鸟X腕甲,Kut-Ku Vambraces X,mhxx-dex-1.0,8
+3714,怪鸟X手甲,Kut-Ku Guards X,mhxx-dex-1.0,8
+3719,奇猿狐X腕甲,Kecha Braces X,mhxx-dex-1.0,8
+3724,奇猿狐X手甲,Kecha Guards X,mhxx-dex-1.0,8
+3729,白兔兽X腕甲,Lagombi Vambraces X,mhxx-dex-1.0,8
+3734,白兔兽X手甲,Lagombi Guards X,mhxx-dex-1.0,8
+3739,毒怪鸟X腕甲,Gypceros Vambraces X,mhxx-dex-1.0,8
+3744,毒怪鸟X手甲,Gypceros Guards X,mhxx-dex-1.0,8
+3749,毒怪鸟XR腕甲,Gypceros Braces XR,mhxx-dex-1.0,8
+3754,毒怪鸟XR手甲,Gypceros Guards XR,mhxx-dex-1.0,8
+3759,鬼蛙X腕甲,Tetsucabra Braces X,mhxx-dex-1.0,8
+3764,鬼蛙X手甲,Tetsucabra Guards X,mhxx-dex-1.0,8
+3769,大名盾蟹X腕甲,Hermitaur Braces X,mhxx-dex-1.0,8
+3774,大名盾蟹X手甲,Hermitaur Guards X,mhxx-dex-1.0,8
+3779,GX大名盾蟹腕甲,Hermitaur Braces GX,mhxx-dex-1.0,8
+3784,GX大名盾蟹手甲,Hermitaur Guards GX,mhxx-dex-1.0,8
+3789,大名盾蟹XR腕甲,Hermitaur Braces XR,mhxx-dex-1.0,8
+3794,大名盾蟹XR手甲,Hermitaur Guards XR,mhxx-dex-1.0,8
+3799,赤甲兽X腕甲,Volvidon Vambraces X,mhxx-dex-1.0,8
+3804,赤甲兽X手甲,Volvidon Guards X,mhxx-dex-1.0,8
+3809,桃毛兽王X腕甲,Conga Vambraces X,mhxx-dex-1.0,8
+3814,桃毛兽王X手甲,Conga Guards X,mhxx-dex-1.0,8
+3819,GX桃毛兽王腕甲,Conga Vambraces GX,mhxx-dex-1.0,8
+3824,GX桃毛兽王手甲,Conga Guards GX,mhxx-dex-1.0,8
+3829,水兽X腕甲,Ludroth Vambraces X,mhxx-dex-1.0,8
+3834,水兽X手甲,Ludroth Guards X,mhxx-dex-1.0,8
+3839,水兽XR腕甲,Ludroth Braces XR,mhxx-dex-1.0,8
+3844,水兽XR手甲,Ludroth Guards XR,mhxx-dex-1.0,8
+3849,土砂龙X腕甲,Barroth Vambraces X,mhxx-dex-1.0,8
+3854,土砂龙X手甲,Barroth Guards X,mhxx-dex-1.0,8
+3859,岩龙X腕甲,Basarios Vambraces X,mhxx-dex-1.0,8
+3864,岩龙X手甲,Basarios Guards X,mhxx-dex-1.0,8
+3869,夜鸟X腕甲,Malfestio Braces X,mhxx-dex-1.0,8
+3874,夜鸟X手甲,Malfestio Guards X,mhxx-dex-1.0,8
+3879,变形冰鲨X腕甲,Zamtrios Braces X,mhxx-dex-1.0,8
+3884,变形冰鲨X手甲,Zamtrios Guards X,mhxx-dex-1.0,8
+3889,白电X腕甲,Khezu Vambraces X,mhxx-dex-1.0,8
+3894,白电X手甲,Khezu Guards X,mhxx-dex-1.0,8
+3899,白电XR腕甲,Khezu Vambraces XR,mhxx-dex-1.0,8
+3904,白电XR手甲,Khezu Guards XR,mhxx-dex-1.0,8
+3909,影蜘蛛X腕甲,Nerscylla Braces X,mhxx-dex-1.0,8
+3914,影蜘蛛X手甲,Nerscylla Guards X,mhxx-dex-1.0,8
+3919,雌火龙X腕甲,Rathian Vambraces X,mhxx-dex-1.0,8
+3924,雌火龙X手甲,Rathian Guards X,mhxx-dex-1.0,8
+3929,GX雌火龙腕甲,Rathian Braces GX,mhxx-dex-1.0,8
+3934,GX雌火龙手甲,Rathian Guards GX,mhxx-dex-1.0,8
+3939,雌火龙XR腕甲,Rathian Braces XR,mhxx-dex-1.0,8
+3944,雌火龙XR手甲,Rathian Guards XR,mhxx-dex-1.0,8
+3949,潜口龙X腕甲,Nibelsnarf Braces X,mhxx-dex-1.0,8
+3954,潜口龙X手甲,Nibelsnarf Guards X,mhxx-dex-1.0,8
+3959,水龙X腕甲,Plesioth Vambraces X,mhxx-dex-1.0,8
+3963,水龙X手甲,Plesioth Guards X,mhxx-dex-1.0,8
+3968,雪狮子X腕甲,Blango Vambraces X,mhxx-dex-1.0,8
+3973,雪狮子X手甲,Blango Guards X,mhxx-dex-1.0,8
+3978,GX雪狮子腕甲,Blango Vambraces GX,mhxx-dex-1.0,8
+3983,GX雪狮子手甲,Blango Guards GX,mhxx-dex-1.0,8
+3988,熔岩龙X腕甲,Lava Vambraces X,mhxx-dex-1.0,8
+3993,熔岩龙X手甲,Lava Guards X,mhxx-dex-1.0,8
+3998,GX熔岩龙腕甲,Lavasioth Braces GX,mhxx-dex-1.0,8
+4003,GX熔岩龙手甲,Lavasioth Guards GX,mhxx-dex-1.0,8
+4008,将军镰蟹X腕甲,Ceanataur Braces X,mhxx-dex-1.0,8
+4013,将军镰蟹X手甲,Ceanataur Guards X,mhxx-dex-1.0,8
+4018,GX将军镰蟹腕甲,Ceanataur Braces GX,mhxx-dex-1.0,8
+4023,GX将军镰蟹手甲,Ceanataur Guards GX,mhxx-dex-1.0,8
+4028,将军镰蟹XR腕甲,Ceanataur Braces XR,mhxx-dex-1.0,8
+4033,将军镰蟹XR手甲,Ceanataur Guards XR,mhxx-dex-1.0,8
+4038,绞蛇龙X腕甲,Najarala Braces X,mhxx-dex-1.0,8
+4043,绞蛇龙X手甲,Najarala Guards X,mhxx-dex-1.0,8
+4048,迅龙X腕甲,Nargacuga Braces X,mhxx-dex-1.0,8
+4053,迅龙X手甲,Nargacuga Guards X,mhxx-dex-1.0,8
+4058,黑狼鸟X腕甲,Garuga Vambraces X,mhxx-dex-1.0,8
+4063,黑狼鸟X手甲,Garuga Guards X,mhxx-dex-1.0,8
+4069,爆锤龙X腕甲,Uragaan Vambraces X,mhxx-dex-1.0,8
+4074,爆锤龙X手甲,Uragaan Guards X,mhxx-dex-1.0,8
+4079,GX北极星【袖】,GX Kita Star Sleeves,mhxx-dex-1.0,8
+4083,GX海渊【袖】,GX Umi Ocean Sleeves,mhxx-dex-1.0,8
+4087,公会骑士X手套,G. Knight Gloves X,mhxx-dex-1.0,8
+4092,公会骑士X袖扣,G. Knight Sleeves X,mhxx-dex-1.0,8
+4097,公会诗人X腕甲,Guild Bard Braces X,mhxx-dex-1.0,8
+4102,公会诗人X袖扣,Guild Bard Sleeves X,mhxx-dex-1.0,8
+4114,支援者X袖扣,Helper Sleeves X,mhxx-dex-1.0,9
+4119,治疗者X袖扣,Healer Sleeves X,mhxx-dex-1.0,9
+4124,支援者Z袖扣,Helper Sleeves Z,mhxx-dex-1.0,9
+4129,治疗者Z袖扣,Healer Sleeves Z,mhxx-dex-1.0,9
+4134,龙历士X腕甲,Ancient Arms X,mhxx-dex-1.0,9
+4139,龙历士X手甲,Ancient Guards X,mhxx-dex-1.0,9
+4144,王牌X腕甲,Ace Vambraces X,mhxx-dex-1.0,9
+4149,王牌X手甲,Ace Guards X,mhxx-dex-1.0,9
+4154,女王X腕甲,Sororal Vambraces X,mhxx-dex-1.0,9
+4159,女王X手甲,Sororal Guards X,mhxx-dex-1.0,9
+4164,城塞特攻队【手甲】,Strider's Gauntlets,mhxx-dex-1.0,9
+4169,城塞隐蔽队【手甲】,Deadeye's Gauntlets,mhxx-dex-1.0,9
+4174,忍者臂甲･极天,Shinobi Heaven Kote Goku,mhxx-dex-1.0,9
+4179,忍者臂甲･极地,Shinobi Land Kote Goku,mhxx-dex-1.0,9
+4184,大师X腕甲,Master's Gauntlets X,mhxx-dex-1.0,9
+4189,大师X手甲,Master's Guards X,mhxx-dex-1.0,9
+4194,桐花･真【臂甲】,Grand Toka Kote,mhxx-dex-1.0,9
+4199,三葵･真【臂甲】,Grand Mitsuaoi Kote,mhxx-dex-1.0,9
+4204,夜叉【贵手】,Yaksha Braces,mhxx-dex-1.0,9
+4209,修罗【贵手】,Carnage Vambraces,mhxx-dex-1.0,9
+4214,太阳神X腕甲,Helios Vambraces X,mhxx-dex-1.0,9
+4219,太阳神X手甲,Helios Guards X,mhxx-dex-1.0,9
+4224,月神X腕甲,Selene Vambraces X,mhxx-dex-1.0,9
+4229,月神X手甲,Selene Guards X,mhxx-dex-1.0,9
+4234,聪慧X手套,Wisdom Sleeves X,mhxx-dex-1.0,9
+4239,聪慧X袖扣,Wisdom Cuffs X,mhxx-dex-1.0,9
+4244,探究手套,Research Grips,mhxx-dex-1.0,9
+4249,探究袖扣,Research Cuffs,mhxx-dex-1.0,9
+4254,活泼X腕甲,Cheerful Braces X,mhxx-dex-1.0,9
+4259,活泼X手甲,Cheerful Guards X,mhxx-dex-1.0,9
+4264,冰牙龙X腕甲,Barioth Vambraces X,mhxx-dex-1.0,9
+4269,冰牙龙X手甲,Barioth Guards X,mhxx-dex-1.0,9
+4274,重甲虫X腕甲,Seltas Vambraces X,mhxx-dex-1.0,9
+4279,重甲虫X手甲,Seltas Guards X,mhxx-dex-1.0,9
+4284,火龙X腕甲,Rathalos Vambraces X,mhxx-dex-1.0,9
+4289,火龙X手甲,Rathalos Guards X,mhxx-dex-1.0,9
+4294,GX火龙腕甲,Rathalos Braces GX,mhxx-dex-1.0,9
+4299,GX火龙手甲,Rathalos Guards GX,mhxx-dex-1.0,9
+4304,火龙XR腕甲,Rathalos Braces XR,mhxx-dex-1.0,9
+4309,火龙XR手甲,Rathalos Guards XR,mhxx-dex-1.0,9
+4314,海龙X腕甲,Lagiacrus Braces X,mhxx-dex-1.0,9
+4319,海龙X手甲,Lagiacrus Guards X,mhxx-dex-1.0,9
+4324,海龙XR腕甲,Lagiacrus Braces XR,mhxx-dex-1.0,9
+4329,海龙XR手甲,Lagiacrus Guards XR,mhxx-dex-1.0,9
+4334,雷狼龙X腕甲,Zinogre Vambraces X,mhxx-dex-1.0,9
+4339,雷狼龙X手甲,Zinogre Guards X,mhxx-dex-1.0,9
+4344,GX雷狼龙腕甲,Zinogre Braces GX,mhxx-dex-1.0,9
+4349,GX雷狼龙手甲,Zinogre Guards GX,mhxx-dex-1.0,9
+4354,铠龙X腕甲,Gravios Vambraces X,mhxx-dex-1.0,9
+4359,铠龙X手甲,Gravios Guards X,mhxx-dex-1.0,9
+4364,泡狐龙X腕甲,Mizutsune Braces X,mhxx-dex-1.0,9
+4369,泡狐龙X手甲,Mizutsune Guards X,mhxx-dex-1.0,9
+4374,电龙X腕甲,Astalos Braces X,mhxx-dex-1.0,9
+4379,电龙X手甲,Astalos Guards X,mhxx-dex-1.0,9
+4384,巨兽X腕甲,Gammoth Braces X,mhxx-dex-1.0,9
+4389,巨兽X手甲,Gammoth Guards X,mhxx-dex-1.0,9
+4394,斩龙X腕甲,Glavenus Braces X,mhxx-dex-1.0,9
+4399,斩龙X手甲,Glavenus Guards X,mhxx-dex-1.0,9
+4404,炎戈龙X腕甲,Agnaktor Vambraces X,mhxx-dex-1.0,9
+4409,炎戈龙X手甲,Agnaktor Guards X,mhxx-dex-1.0,9
+4414,黑蚀龙X腕甲,Gore Braces X,mhxx-dex-1.0,9
+4419,黑蚀龙X手甲,Gore Guards X,mhxx-dex-1.0,9
+4424,GX黑蚀龙腕甲,Gore Braces GX,mhxx-dex-1.0,9
+4429,GX黑蚀龙手甲,Gore Guards GX,mhxx-dex-1.0,9
+4434,黑蚀龙XR腕甲,Gore Braces XR,mhxx-dex-1.0,9
+4439,黑蚀龙XR手甲,Gore Guards XR,mhxx-dex-1.0,9
+4444,千刃龙X腕甲,Regios Vambraces X,mhxx-dex-1.0,9
+4449,千刃龙X手甲,Regios Guards X,mhxx-dex-1.0,9
+4454,尾锤龙X腕甲,Duramboros Braces X,mhxx-dex-1.0,9
+4459,尾锤龙X手甲,Duramboros Guards X,mhxx-dex-1.0,9
+4464,轰龙X腕甲,Tigrex Vambraces X,mhxx-dex-1.0,9
+4469,轰龙X手甲,Tigrex Guards X,mhxx-dex-1.0,9
+4474,GX轰龙腕甲,Tigrex Braces GX,mhxx-dex-1.0,9
+4479,GX轰龙手甲,Tigrex Guards GX,mhxx-dex-1.0,9
+4484,轰龙XR腕甲,Tigrex Braces XR,mhxx-dex-1.0,9
+4489,轰龙XR手甲,Tigrex Guards XR,mhxx-dex-1.0,9
+4494,角龙X腕甲,Diablos Vambraces X,mhxx-dex-1.0,9
+4499,角龙X手甲,Diablos Guards X,mhxx-dex-1.0,9
+4504,角龙XR腕甲,Diablos Vambraces XR,mhxx-dex-1.0,9
+4509,角龙XR手甲,Diablos Guards XR,mhxx-dex-1.0,9
+4514,麒麟X长腕甲,Kirin Longarms X,mhxx-dex-1.0,9
+4519,麒麟X护手,Kirin Gloves X,mhxx-dex-1.0,9
+4524,麒麟XR长腕甲,Kirin Longarms XR,mhxx-dex-1.0,9
+4529,麒麟XR护手,Kirin Gloves XR,mhxx-dex-1.0,9
+4534,碎龙X腕甲,Brachydios Braces X,mhxx-dex-1.0,9
+4539,碎龙X手甲,Brachydios Guards X,mhxx-dex-1.0,9
+4544,GX碎龙腕甲,Brachydios Braces GX,mhxx-dex-1.0,9
+4549,GX碎龙手甲,Brachydios Guards GX,mhxx-dex-1.0,9
+4554,方舟X腕甲,Arc Vambraces X,mhxx-dex-1.0,9
+4559,方舟X手甲,Arc Guards X,mhxx-dex-1.0,9
+4564,友爱X腕甲,Storge Vambraces X,mhxx-dex-1.0,9
+4569,友爱X手甲,Storge Guards X,mhxx-dex-1.0,9
+4574,GX方舟腕甲,Arc Vambraces GX,mhxx-dex-1.0,9
+4579,GX方舟手甲,Arc Guards GX,mhxx-dex-1.0,9
+4584,GX友爱腕甲,Storge Braces GX,mhxx-dex-1.0,9
+4589,GX友爱手甲,Storge Guards GX,mhxx-dex-1.0,9
+4594,方舟XR腕甲,Arc Vambraces XR,mhxx-dex-1.0,9
+4599,方舟XR手甲,Arc Guards XR,mhxx-dex-1.0,9
+4604,友爱XR腕甲,Storge Braces XR,mhxx-dex-1.0,9
+4609,友爱XR手甲,Storge Guards XR,mhxx-dex-1.0,9
+4614,天彗龙X腕甲,Valstrax Braces X,mhxx-dex-1.0,9
+4619,天彗龙X手甲,Valstrax Guards X,mhxx-dex-1.0,9
+4624,齐天臂甲･真,Grand God's Peer Arms,mhxx-dex-1.0,9
+4629,仙师臂甲･真,Grand Hermit Arms,mhxx-dex-1.0,9
+4634,恐暴龙X腕甲,Vangis Vambraces X,mhxx-dex-1.0,9
+4639,恐暴龙X手甲,Vangis Guards X,mhxx-dex-1.0,9
+4644,混沌腕甲,Chaos Vambraces,mhxx-dex-1.0,9
+4649,混沌手甲,Chaos Guards,mhxx-dex-1.0,9
+4654,堕天腕甲,Nephilim Vambraces,mhxx-dex-1.0,9
+4659,堕天手甲,Nephilim Guards,mhxx-dex-1.0,9
+4664,黑带X腕甲,Black Belt Braces X,mhxx-dex-1.0,9
+4669,黑带X手甲,Black Belt Guards X,mhxx-dex-1.0,9
+4674,守护者X腕甲,Guardian Vambraces X,mhxx-dex-1.0,9
+4679,守护者X手甲,Guardian Guards X,mhxx-dex-1.0,9
+4684,守护者Z腕甲,Guardian Vambraces Z,mhxx-dex-1.0,9
+4689,守护者Z手甲,Guardian Guards Z,mhxx-dex-1.0,9
+4694,公会守卫X蓝手套,Blue Guild Gloves X,mhxx-dex-1.0,9
+4699,公会守卫X蓝袖扣,Blue Guild Sleeves X,mhxx-dex-1.0,9
+4704,公会守卫X蓝手套,Blue Guild Gloves X,mhxx-dex-1.0,9
+4709,公会守卫X蓝袖扣,Blue Guild Sleeves X,mhxx-dex-1.0,9
+4714,公会守卫X红手套,Red Guild Gloves X,mhxx-dex-1.0,9
+4719,公会守卫X红袖扣,Red Guild Sleeves X,mhxx-dex-1.0,9
+4724,公会守卫X红手套,Red Guild Gloves X,mhxx-dex-1.0,9
+4729,公会守卫X红袖扣,Red Guild Sleeves X,mhxx-dex-1.0,9
+4734,黑色X护肘,Black Claw X,mhxx-dex-1.0,9
+4739,黑色X拳头,Black Fist X,mhxx-dex-1.0,9
+4744,花纹钢X腕甲,Damascus Vambraces X,mhxx-dex-1.0,9
+4749,花纹钢X手甲,Damascus Guards X,mhxx-dex-1.0,9
+4754,花纹钢XR腕甲,Damascus VambracesXR,mhxx-dex-1.0,9
+4759,花纹钢XR手甲,Damascus Guards XR,mhxx-dex-1.0,9
+4763,团长手环X,Caravaneer's Armlets X,mhxx-dex-1.0,9
+4766,王后腕甲,Kaiserin Arms,mhxx-dex-1.0,9
+4771,王后手甲,Kaisrein Guards,mhxx-dex-1.0,9
+4776,酒吧主人手套,Barmaid's Gloves,mhxx-dex-1.0,9
+4781,酒吧主人袖扣,Barmaid's Sleeves,mhxx-dex-1.0,9
+4786,酒保手套,Barman's Gloves,mhxx-dex-1.0,9
+4791,酒保袖扣,Barman's Sleeves,mhxx-dex-1.0,9
+4802,钢龙X刚强,Kushala Grip X,mhxx-dex-1.0,10
+4807,钢龙X劲猛,Kushala Embrace X,mhxx-dex-1.0,10
+4812,GX钢龙刚强,Kushala Grip GX,mhxx-dex-1.0,10
+4817,GX钢龙劲猛,Kushala Embrace GX,mhxx-dex-1.0,10
+4822,钢龙XR刚强,Kushala Grip XR,mhxx-dex-1.0,10
+4827,钢龙XR劲猛,Kushala Embrace XR,mhxx-dex-1.0,10
+4832,水行真【大袖】,Grand Mizuha Sleeves,mhxx-dex-1.0,10
+4837,丰玉真【大袖】,Grand Cham Sleeves,mhxx-dex-1.0,10
+4842,GX水行【大袖】,Mizuha Sleeves GX,mhxx-dex-1.0,10
+4847,GX丰玉【大袖】,Cham Sleeves GX,mhxx-dex-1.0,10
+4852,帝王X腕甲,Kaiser Vambraces X,mhxx-dex-1.0,10
+4857,帝王X手甲,Kaiser Guards X,mhxx-dex-1.0,10
+4862,GX帝王腕甲,Kaiser Vambraces GX,mhxx-dex-1.0,10
+4867,GX帝王手甲,Kaiser Guards GX,mhxx-dex-1.0,10
+4872,银白耀日Z腕甲,Silver Solbraces Z,mhxx-dex-1.0,10
+4877,银白耀日Z手甲,Silver Solguards Z,mhxx-dex-1.0,10
+4882,GX银白耀日腕甲,GX Silver Solbraces,mhxx-dex-1.0,10
+4887,GX银白耀日手甲,GX Silver Solguards,mhxx-dex-1.0,10
+4892,银白耀日XR腕甲,Silver Solbraces XR,mhxx-dex-1.0,10
+4897,银白耀日XR手甲,Silver Solguards XR,mhxx-dex-1.0,10
+4902,金黄澄月Z腕甲,Golden Lunebraces Z,mhxx-dex-1.0,10
+4907,金黄澄月Z手甲,Golden Luneguards Z,mhxx-dex-1.0,10
+4912,GX金黄澄月腕甲,GX Golden Lunebraces,mhxx-dex-1.0,10
+4917,GX金黄澄月手甲,GX Golden Luneguards,mhxx-dex-1.0,10
+4922,怒天臂甲･真,Grand Divine Ire Kote,mhxx-dex-1.0,10
+4927,心灭臂甲･真,Grand Crusher Braces,mhxx-dex-1.0,10
+4932,贪婪Z腕甲,Esurient Vambraces Z,mhxx-dex-1.0,10
+4937,贪婪Z手甲,Esurient Guards Z,mhxx-dex-1.0,10
+4942,贪婪XR腕甲,Esurient Vambraces XR,mhxx-dex-1.0,10
+4947,贪婪XR手甲,Esurient Guards XR,mhxx-dex-1.0,10
+4952,铁腕腕甲,Brachydium Vambraces,mhxx-dex-1.0,10
+4957,铁腕手甲,Brachydium Guards,mhxx-dex-1.0,10
+4962,晓丸【臂甲】,Auroros Gauntlets,mhxx-dex-1.0,10
+4967,曙丸【臂甲】,Genesis Gauntlets,mhxx-dex-1.0,10
+4972,凛【臂甲】,Borealis Gauntlets,mhxx-dex-1.0,10
+4977,艳【臂甲】,Glyph Gauntlets,mhxx-dex-1.0,10
+4982,GX晓丸【臂甲】,Auroros Gauntlets GX,mhxx-dex-1.0,10
+4987,GX曙丸【臂甲】,Genesis Gauntlets GX,mhxx-dex-1.0,10
+4992,GX凛【臂甲】,Borealis Gauntlets GX,mhxx-dex-1.0,10
+4997,GX艳【臂甲】,Glyph Gauntlets GX,mhxx-dex-1.0,10
+5002,晓丸战流【臂甲】,Auroros Gauntlets XR,mhxx-dex-1.0,10
+5007,曙丸战流【臂甲】,Genesis Gauntlets XR,mhxx-dex-1.0,10
+5012,凛战流【臂甲】,Borealis Gauntlets XR,mhxx-dex-1.0,10
+5017,艳战流【臂甲】,Glyph Gauntlets XR,mhxx-dex-1.0,10
+5022,晓丸亚流【臂甲】,Auroros Gauntlets R,mhxx-dex-1.0,10
+5027,曙丸亚流【臂甲】,Genesis Gauntlets R,mhxx-dex-1.0,10
+5032,凛亚流【臂甲】,Borealis Gauntlets R,mhxx-dex-1.0,10
+5037,艳亚流【臂甲】,Glyph Gauntlets R,mhxx-dex-1.0,10
+5042,霸龙X健将,Akantor Claws X,mhxx-dex-1.0,10
+5047,霸龙X勇者,Akantor Gauntlets X,mhxx-dex-1.0,10
+5052,霸龙XR健将,Akantor Claws XR,mhxx-dex-1.0,10
+5057,霸龙XR勇者,Akantor Gauntlets XR,mhxx-dex-1.0,10
+5062,崩龙X健将,Ukanlos Claws X,mhxx-dex-1.0,10
+5067,崩龙X勇者,Ukanlos Gauntlets X,mhxx-dex-1.0,10
+5072,荒天･真【袖】,Grand Tempest Sleeves,mhxx-dex-1.0,10
+5077,苍天･真【袖】,Grand Welkin Sleeves,mhxx-dex-1.0,10
+5082,荒天战流【袖】,Tempest Sleeves XR,mhxx-dex-1.0,10
+5087,苍天战流【袖】,Welkin Sleeves XR,mhxx-dex-1.0,10
+5092,骸装甲･真【臂骨】,Grand Skeletal Humerus,mhxx-dex-1.0,10
+5097,尸装甲･真【臂骨】,Grand Decayed Humerus,mhxx-dex-1.0,10
+5102,苍星X腕甲,Astral Vambraces X,mhxx-dex-1.0,10
+5107,苍星X手甲,Astral Guards X,mhxx-dex-1.0,10
+5112,王座挑战,Neset Gloves,mhxx-dex-1.0,10
+5117,王座接纳,Neset Brachia,mhxx-dex-1.0,10
+5122,黑龙护肘,Dragonclaws,mhxx-dex-1.0,10
+5127,黑龙拳头,Dragonfists,mhxx-dex-1.0,10
+5132,煌黑龙X长腕,Escadora Arms X,mhxx-dex-1.0,10
+5137,煌黑龙X兵器,Escadora Arma X,mhxx-dex-1.0,10
+5142,煌黑龙XR长腕,Escadora Armguards XR,mhxx-dex-1.0,10
+5147,煌黑龙XR兵器,Escadora Arma XR,mhxx-dex-1.0,10
+5152,红龙护肘,Fatalis Crimsonclaws,mhxx-dex-1.0,10
+5157,红龙拳头,Fatalis Crimsonfists,mhxx-dex-1.0,10
+5162,GX红龙护肘,GX Fatalis Crimsonclaws,mhxx-dex-1.0,10
+5167,GX红龙拳头,GX Fatalis Crimsonfists,mhxx-dex-1.0,10
+5172,红龙XR护肘,Fatalis Crimsonclaws XR,mhxx-dex-1.0,10
+5177,红龙XR拳头,Fatalis Crimsonfists XR,mhxx-dex-1.0,10
+5182,祖龙护肘,Old Fatalis Claw,mhxx-dex-1.0,10
+5187,祖龙拳头,Old Fatalis Fist,mhxx-dex-1.0,10
+5192,GX祖龙护肘,GX Old Fatalis Claw,mhxx-dex-1.0,10
+5197,GX祖龙拳头,GX Old Fatalis Fist,mhxx-dex-1.0,10
+5202,异形腕甲,Strange Vambraces,mhxx-dex-1.0,5
+5207,异形手甲,Strange Guards,mhxx-dex-1.0,5
+5212,异形X腕甲,Strange Vambraces X,mhxx-dex-1.0,8
+5217,异形X手甲,Strange Guards X,mhxx-dex-1.0,8
+5222,红盔腕甲,Redhelm Vambraces,mhxx-dex-1.0,11
+5227,红盔手甲,Redhelm Guards,mhxx-dex-1.0,11
+5232,大雪主腕甲,Snowbaron Vambraces,mhxx-dex-1.0,11
+5237,大雪主手甲,Snowbaron Guards,mhxx-dex-1.0,11
+5242,矛碎腕甲,Stonefist Vambraces,mhxx-dex-1.0,11
+5247,矛碎手甲,Stonefist Guards,mhxx-dex-1.0,11
+5252,紫毒姬腕甲,Dreadqueen Braces,mhxx-dex-1.0,11
+5257,紫毒姬手甲,Dreadqueen Guards,mhxx-dex-1.0,11
+5262,岩穿腕甲,Drilltusk Braces,mhxx-dex-1.0,11
+5267,岩穿手甲,Drilltusk Guards,mhxx-dex-1.0,11
+5272,白疾风腕甲,Silverwind Braces,mhxx-dex-1.0,11
+5277,白疾风手甲,Silverwind Guards,mhxx-dex-1.0,11
+5282,宝缠腕甲,Crystalbeard Braces,mhxx-dex-1.0,11
+5287,宝缠手甲,Crystalbeard Guards,mhxx-dex-1.0,11
+5292,独眼腕甲,Deadeye Vambraces,mhxx-dex-1.0,11
+5297,独眼手甲,Deadeye Guards,mhxx-dex-1.0,11
+5302,黑炎王腕甲,Dreadking Braces,mhxx-dex-1.0,11
+5307,黑炎王手甲,Dreadking Guards,mhxx-dex-1.0,11
+5312,金雷公腕甲,Thunderlord Braces,mhxx-dex-1.0,11
+5317,金雷公手甲,Thunderlord Guards,mhxx-dex-1.0,11
+5322,荒钩爪腕甲,Grimclaw Braces,mhxx-dex-1.0,11
+5327,荒钩爪手甲,Grimclaw Guards,mhxx-dex-1.0,11
+5332,烬灭刃腕甲,Hellblade Braces,mhxx-dex-1.0,11
+5337,烬灭刃手甲,Hellblade Guards,mhxx-dex-1.0,11
+5342,胧隐腕甲,Nightcloak Vambraces,mhxx-dex-1.0,11
+5347,胧隐手甲,Nightcloak Guards,mhxx-dex-1.0,11
+5352,铠裂腕甲,Rustrazor Vambraces,mhxx-dex-1.0,11
+5357,铠裂手甲,Rustrazor Guards,mhxx-dex-1.0,11
+5362,天眼腕甲,Soulseer Vambraces,mhxx-dex-1.0,11
+5367,天眼手甲,Soulseer Guards,mhxx-dex-1.0,11
+5372,青电主腕甲,Boltreaver Vambraces,mhxx-dex-1.0,11
+5377,青电主手甲,Boltreaver Guards,mhxx-dex-1.0,11
+5382,银峰腕甲,Elderfrost Vambraces,mhxx-dex-1.0,11
+5387,银峰手甲,Elderfrost Guards,mhxx-dex-1.0,11
+5392,鏖魔腕甲,Bloodbath Vambraces,mhxx-dex-1.0,11
+5397,鏖魔手甲,Bloodbath Guards,mhxx-dex-1.0,11
+5402,【日】瑞星【臂甲】,[JP] Promising Braces,mhxx-dex-1.0,3
+5407,【日】景星【臂甲】,[JP] Halcyon Braces,mhxx-dex-1.0,3
+5412,【日】梦视【臂甲】,[JP] Lucid Gauntlets,mhxx-dex-1.0,3
+5417,【日】梦言【臂甲】,[JP] Dreamy Gauntlets,mhxx-dex-1.0,3
+5422,【日】烈火【臂甲】,[JP] Arcfire Kote,mhxx-dex-1.0,3
+5427,【日】活火【臂甲】,[JP] Bonfire Kote,mhxx-dex-1.0,3
+5432,【日】和歌【臂甲】,[JP] Waka Kote,mhxx-dex-1.0,3
+5437,【日】和乐【臂甲】,[JP] Wagaku Kote,mhxx-dex-1.0,3
+5442,【日】伪蛋蛋手臂袜,[JP] Fake Tama Arms,mhxx-dex-1.0,3
+5446,【日】伪蛋蛋紧身臂,[JP] Fake Tama Arms Suit,mhxx-dex-1.0,3
+5450,海盗J手套,Pirate Gloves J,mhxx-dex-1.0,6
+5455,海盗J袖扣,Pirate Cuffs J,mhxx-dex-1.0,6
+5460,大海盗J手套,Buccaneer Gloves J,mhxx-dex-1.0,6
+5465,大海盗J袖扣,Buccaneer Cuffs J,mhxx-dex-1.0,6
+5472,星灵腕甲,Zodias Vambraces,mhxx-dex-1.0,7
+5477,星灵手甲,Zodias Guards,mhxx-dex-1.0,7
+5496,王者的护手带,Champion's Wraps,mhxx-dex-1.0,7
+5501,强者的护手带,Strongman's Wraps,mhxx-dex-1.0,7
+5506,电衣库手套,Dynaqlo Glovelettes,mhxx-dex-1.0,6
+5511,电衣库半指手套,Dynaqlo Gloves,mhxx-dex-1.0,6
+5516,【日】蓝星花腕甲,[JP] Blue Star Braces,mhxx-dex-1.0,6
+5521,【日】蓝星花袖扣,[JP] Blue Star Sleeves,mhxx-dex-1.0,6
+5526,【日】星骑士腕甲,[JP] Star Knight Vambraces,mhxx-dex-1.0,6
+5531,【日】星骑士手甲,[JP] Star Knight Guards,mhxx-dex-1.0,6
+5536,【日】星城腕甲,[JP] Star Rook Vambraces,mhxx-dex-1.0,7
+5541,【日】星城手甲,[JP] Star Rook Guards,mhxx-dex-1.0,7
+5546,【日】瑞星･霸【臂甲】,[JP] Promising Archbraces,mhxx-dex-1.0,7
+5551,【日】景星･霸【臂甲】,[JP] Halcyon Archbraces,mhxx-dex-1.0,7
+5556,【日】梦视･霸【臂甲】,[JP] Lucid Archbraces,mhxx-dex-1.0,7
+5561,【日】梦言･霸【臂甲】,[JP] Dreamy Archbraces,mhxx-dex-1.0,7
+5566,【日】烈火･霸【臂甲】,[JP] Ruler Arcfire Kote,mhxx-dex-1.0,7
+5571,【日】活火･霸【臂甲】,[JP] Ruler Bonfire Kote,mhxx-dex-1.0,7
+5576,【日】和歌･霸【臂甲】,[JP] Ruler Waka Kote,mhxx-dex-1.0,7
+5581,【日】和乐･霸【臂甲】,[JP] Ruler Wagaku Kote,mhxx-dex-1.0,7
+5586,【日】伪蛋蛋S手臂袜,[JP] Fake Tama Arms S,mhxx-dex-1.0,4
+5590,【日】伪蛋蛋S紧身臂,[JP] Fake Tama Arms Suit S,mhxx-dex-1.0,4
+5594,防护服手甲,Varia Suit Guards,mhxx-dex-1.0,6
+5598,防护服护盾,Varia Suit Shield,mhxx-dex-1.0,6
+5602,零装甲手套,Zero Suit Gloves,mhxx-dex-1.0,6
+5606,零装甲护臂,Zero Suit Hands,mhxx-dex-1.0,6
+5610,勇者护臂,Hero's Braces,mhxx-dex-1.0,7
+5615,勇者手套,Hero's Gloves,mhxx-dex-1.0,7
+5620,星耀领主腕甲,Lodestar Armguards,mhxx-dex-1.0,7
+5625,星耀领主袖扣,Lodestar Cuffs,mhxx-dex-1.0,7
+5630,狂怒腕甲,Braces of Rage,mhxx-dex-1.0,7
+5634,狂怒手甲,Guards of Rage,mhxx-dex-1.0,7
+5638,女神腕甲,Braces of Anat,mhxx-dex-1.0,7
+5642,女神手甲,Guards of Anat,mhxx-dex-1.0,7
+5659,飞龙臂甲･天,Hiryu Sky Kote,mhxx-dex-1.0,7
+5664,飞龙臂甲･地,Hiryu Land Kote,mhxx-dex-1.0,7
+5669,【日】小杰手腕,[JP] Gon Braces,mhxx-dex-1.0,8
+5673,【日】小杰手臂,[JP] Gon Guards,mhxx-dex-1.0,8
+5677,犯人手腕,Criminal Braces,mhxx-dex-1.0,9
+5681,犯人手臂,Criminal Hands,mhxx-dex-1.0,9
+5685,【日】烈火･极【臂甲】,[JP] Supreme Arcfire Kote,mhxx-dex-1.0,10
+5690,【日】活火･极【臂甲】,[JP] Supreme Bonfire Kote,mhxx-dex-1.0,10
+5695,【日】和歌･极【臂甲】,[JP] Supreme Wagaku Kote,mhxx-dex-1.0,10
+5700,【日】和乐･极【臂甲】,[JP] Supreme Wagaku Kote,mhxx-dex-1.0,10
+5705,黄金骑士【臂甲】,Garo Gauntlets,mhxx-dex-1.0,10
+5710,黄金骑士【腕甲】,Garo Vambraces,mhxx-dex-1.0,10
+5715,海利亚护臂,Hylian Bracers,mhxx-dex-1.0,10
+5720,海利亚护手,Hylian Gloves,mhxx-dex-1.0,10

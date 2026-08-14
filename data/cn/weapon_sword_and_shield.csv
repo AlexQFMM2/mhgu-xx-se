@@ -1,0 +1,130 @@
+id,name,english,source,rarity,max_level
+0,无,None,mhxx-save-format-community,0,0
+1,贝鲁纳长剑,Petrified Sword,mhxx-dex-1.0+mhxx-save-format-community,1,11
+2,黑曜石之剑,Obsidian Sword,mhxx-dex-1.0+mhxx-save-format-community,3,8
+3,碎龙之刃,Dios Edge,mhxx-dex-1.0+mhxx-save-format-community,3,7
+4,爆碎裂剑,Demolition Cutter,mhxx-dex-1.0+mhxx-save-format-community,6,6
+5,隐秘刀刃,Hidden Edge,mhxx-dex-1.0+mhxx-save-format-community,2,8
+6,千年冰晶刃,Frost Edge,mhxx-dex-1.0+mhxx-save-format-community,2,7
+7,蓝速龙王撕咬短剑,Velocidrome Bite,mhxx-dex-1.0+mhxx-save-format-community,1,7
+8,剑【乌】,Raven Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
+9,锐利轮回刃,Spiked Circle,mhxx-dex-1.0+mhxx-save-format-community,2,8
+10,沉眠,Shura Fan,mhxx-dex-1.0+mhxx-save-format-community,2,9
+11,猎人匕首,Hunter's Knife,mhxx-dex-1.0+mhxx-save-format-community,1,11
+12,奥德赛之刃,Odyssey Blade,mhxx-dex-1.0+mhxx-save-format-community,4,6
+13,猎人弯刀,Hunter's Dagger,mhxx-dex-1.0+mhxx-save-format-community,2,8
+14,沉重剑,Heavy Bang,mhxx-dex-1.0+mhxx-save-format-community,3,6
+15,斩木刀,Baumfäller,mhxx-dex-1.0+mhxx-save-format-community,6,5
+16,二重甲壳,Dual Carapace,mhxx-dex-1.0+mhxx-save-format-community,2,8
+17,熔岩啄木鸟,Lava Pick,mhxx-dex-1.0+mhxx-save-format-community,2,8
+18,士兵短剑,Soldier's Dagger,mhxx-dex-1.0+mhxx-save-format-community,1,8
+19,王剑疾雷,Usurper's Firebolt,mhxx-dex-1.0+mhxx-save-format-community,3,7
+20,公主细剑,Princess Rapier,mhxx-dex-1.0+mhxx-save-format-community,3,8
+21,疯狂蔷薇,Lunatic Rose,mhxx-dex-1.0+mhxx-save-format-community,7,5
+22,白电薙刀,Khezu Razor,mhxx-dex-1.0+mhxx-save-format-community,2,7
+23,海蛇利齿,Serpent Bite,mhxx-dex-1.0+mhxx-save-format-community,1,9
+24,麻痹毒牙,Viper Bite,mhxx-dex-1.0+mhxx-save-format-community,1,7
+25,毒牙,Hydra Bite,mhxx-dex-1.0+mhxx-save-format-community,1,8
+26,白蛇牙,Snake Bite,mhxx-dex-1.0+mhxx-save-format-community,1,8
+27,单手剑星宿一,Naab Sword,mhxx-dex-1.0+mhxx-save-format-community,3,7
+28,叛逆碎牙,Seditious Fang,mhxx-dex-1.0+mhxx-save-format-community,6,6
+29,骨制反曲刀,Bone Kris,mhxx-dex-1.0+mhxx-save-format-community,1,11
+30,灼焰锐剑,Djinn,mhxx-dex-1.0+mhxx-save-format-community,3,8
+31,日冕之炎,Corona,mhxx-dex-1.0+mhxx-save-format-community,6,5
+32,金鳞盾剑【王墓】,Golden Falchion,mhxx-dex-1.0+mhxx-save-format-community,7,5
+33,骨制锐镐,Bone Pick,mhxx-dex-1.0+mhxx-save-format-community,2,9
+34,金兽棍,Rajang Club,mhxx-dex-1.0+mhxx-save-format-community,6,6
+35,鬼神棍古兰伽,Demonlord Mace,mhxx-dex-1.0+mhxx-save-format-community,7,5
+36,睡梦弯月刀,Weary Finsword,mhxx-dex-1.0+mhxx-save-format-community,5,6
+37,雷霆灾星,Thunderbane,mhxx-dex-1.0+mhxx-save-format-community,2,7
+38,水兽尖刺,Ludroth's Nail,mhxx-dex-1.0+mhxx-save-format-community,1,7
+39,水兽之爪,Royal Claw,mhxx-dex-1.0+mhxx-save-format-community,2,8
+40,轰龙爪,Rex Talon,mhxx-dex-1.0+mhxx-save-format-community,3,7
+41,巨神狼牙棒,Gigas Club,mhxx-dex-1.0+mhxx-save-format-community,3,8
+42,骨之战斧,Bone Tabar,mhxx-dex-1.0+mhxx-save-format-community,1,7
+43,破鲨刀,Sharkutter,mhxx-dex-1.0+mhxx-save-format-community,4,6
+44,破鳍剑,Sharfin Sword,mhxx-dex-1.0+mhxx-save-format-community,5,5
+45,海龙剑,Lagia Sword,mhxx-dex-1.0+mhxx-save-format-community,3,7
+46,雷剑风暴,Storm Sword,mhxx-dex-1.0+mhxx-save-format-community,6,6
+47,毒药战斧,Poison Axe,mhxx-dex-1.0+mhxx-save-format-community,2,9
+48,突进盾剑,Brash Buddies,mhxx-dex-1.0+mhxx-save-format-community,1,8
+49,斩杀零式,Secta Nulo,mhxx-dex-1.0+mhxx-save-format-community,1,9
+50,碧绿斩杀零式,Secta Nulo (G),mhxx-dex-1.0+mhxx-save-format-community,2,8
+51,深红斩杀零式,Secta Nulo (R),mhxx-dex-1.0+mhxx-save-format-community,2,8
+52,星纹剑盾,Celestial Sword,mhxx-dex-1.0+mhxx-save-format-community,4,6
+53,十字纹剑盾,Cross Sword,mhxx-dex-1.0+mhxx-save-format-community,6,6
+54,绿宝石细剑,Verdant Rapier,mhxx-dex-1.0+mhxx-save-format-community,3,9
+55,巨兽剑,Giant's Tusk,mhxx-dex-1.0+mhxx-save-format-community,3,9
+56,狐扇【飞花实可叹】,Hana no Nagoriwo,mhxx-dex-1.0+mhxx-save-format-community,3,9
+57,灼炎长剑,Burning Prominar,mhxx-dex-1.0+mhxx-save-format-community,3,9
+58,生命of检验者,Sucher-Ankh,mhxx-dex-1.0+mhxx-save-format-community,3,7
+59,THE发现者,Le Détecteur,mhxx-dex-1.0+mhxx-save-format-community,3,8
+60,雷神麒麟剑,Kirin Bolt Ultimus,mhxx-dex-1.0+mhxx-save-format-community,3,8
+61,名为金牛的白骸,Skeletal Blade,mhxx-dex-1.0+mhxx-save-format-community,3,7
+62,极星刃【金牛】,Astral Taurus,mhxx-dex-1.0+mhxx-save-format-community,7,5
+63,霸小剑匕神,Akantor Duo,mhxx-dex-1.0+mhxx-save-format-community,7,5
+64,崩刀堕日,Ukanlos Soul Hatchet,mhxx-dex-1.0+mhxx-save-format-community,7,5
+65,煌黑剑,Alatreon Sword,mhxx-dex-1.0+mhxx-save-format-community,7,5
+66,凶宝【翠岚】,Ominous Treasure,mhxx-dex-1.0+mhxx-save-format-community,7,5
+67,严重锈蚀的单手剑,Rusted Sword,mhxx-dex-1.0+mhxx-save-format-community,1,3
+68,封龙剑【绝一门】,Eternal Strife,mhxx-dex-1.0+mhxx-save-format-community,3,6
+69,钢冰剑,Icesteel Dagger,mhxx-dex-1.0+mhxx-save-format-community,3,6
+70,严重风化的单手剑,Worn Sword,mhxx-dex-1.0+mhxx-save-format-community,4,7
+71,祀导器【一门外】,Divine Exodus,mhxx-dex-1.0+mhxx-save-format-community,6,5
+72,炎王斯帕达,Teostra's Spada,mhxx-dex-1.0+mhxx-save-format-community,7,5
+73,獠牙核心,Tusk Gear,mhxx-dex-1.0+mhxx-save-format-community,2,8
+74,黑剑,Black Sword,mhxx-dex-1.0+mhxx-save-format-community,3,7
+75,结云之柴刀,Yukumo Cutter,mhxx-dex-1.0+mhxx-save-format-community,1,8
+76,真结云柴刀,Yukumo Pure Cutter,mhxx-dex-1.0+mhxx-save-format-community,3,6
+77,云羊鹿之剑,Moofah Sword,mhxx-dex-1.0+mhxx-save-format-community,2,6
+78,英雄神剑,Hero's Blade,mhxx-dex-1.0+mhxx-save-format-community,3,8
+79,封龙宝剑,Dragonseal Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+80,厨刀,Kitchen Knife,mhxx-dex-1.0+mhxx-save-format-community,2,6
+81,啾咕啾咕,Chak Chak,mhxx-dex-1.0+mhxx-save-format-community,2,6
+82,花蕾剑,Floral Seif,mhxx-dex-1.0+mhxx-save-format-community,3,6
+83,忍者刀,Ninja Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+84,煌龙剑,Shining Wyvern Blade,mhxx-dex-1.0+mhxx-save-format-community,5,6
+85,猫？拳,Catspaw,mhxx-dex-1.0+mhxx-save-format-community,2,6
+86,梅拉露棒,Melynx Tool,mhxx-dex-1.0+mhxx-save-format-community,5,5
+87,黄金乡之终结,Eldora Closure,mhxx-dex-1.0+mhxx-save-format-community,2,7
+88,黑带剑,Black Belt Sword,mhxx-dex-1.0+mhxx-save-format-community,3,6
+89,紫毒姬刺剑,Dreadqueen Rapier,mhxx-dex-1.0+mhxx-save-format-community,11,15
+90,鬼涛十手,Drilltusk Truncheon,mhxx-dex-1.0+mhxx-save-format-community,11,15
+91,疾风之刃,Nightfall Edge,mhxx-dex-1.0+mhxx-save-format-community,11,15
+92,宝缠盾剑,Geode Mace,mhxx-dex-1.0+mhxx-save-format-community,11,15
+93,剑【祸】,Hardened Edge,mhxx-dex-1.0+mhxx-save-format-community,11,15
+94,黑炎王之刃,Tomb Edge,mhxx-dex-1.0+mhxx-save-format-community,11,15
+95,金狼剑疾雷,Thunderlord Firebolt,mhxx-dex-1.0+mhxx-save-format-community,11,15
+96,暴风神爪刃,Grimclaw Barb,mhxx-dex-1.0+mhxx-save-format-community,11,15
+97,爆焰长剑,Fiery Prominar,mhxx-dex-1.0+mhxx-save-format-community,11,15
+98,落雷之力,Inazuma Works,mhxx-dex-1.0+mhxx-save-format-community,6,5
+99,雷剑可乐,Levindicator,mhxx-dex-1.0+mhxx-save-format-community,6,5
+100,DUMMY,DUMMY,mhxx-save-format-community-en-fallback,0,5
+101,勇者之剑,Hero's Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+102,宝剑与宝盾之金属器,Goldsword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+103,银翼速剑,Silverwing Swiftblade,mhxx-dex-1.0+mhxx-save-format-community,7,6
+104,青电主盾剑,Zephra Rapier,mhxx-dex-1.0+mhxx-save-format-community,11,5
+105,天眼扇･镜花风月,Kyoka Fugetsu,mhxx-dex-1.0+mhxx-save-format-community,11,5
+106,银峰剑,Elderfrost Sword,mhxx-dex-1.0+mhxx-save-format-community,11,5
+107,屠杀盾剑,Massacre Club,mhxx-dex-1.0+mhxx-save-format-community,11,5
+108,铠裂盾剑,Razor Render,mhxx-dex-1.0+mhxx-save-format-community,11,5
+109,胧隐盾剑,Cloaked Fan,mhxx-dex-1.0+mhxx-save-format-community,11,5
+110,黑灭龙剑,Ruiner Sword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+111,祖龙灵剑,O. Fatalis Sword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+112,碎光恒剑,Lightbreak Sword,mhxx-dex-1.0+mhxx-save-format-community,10,3
+113,隐藏or搜索,Verstecken/Chercher,mhxx-dex-1.0+mhxx-save-format-community,10,3
+114,黑焰剑,Flame Syphos,mhxx-dex-1.0+mhxx-save-format-community,5,5
+115,角龙棒,Studded Club,mhxx-dex-1.0+mhxx-save-format-community,6,5
+116,冰凌利刃,Icicle Spike,mhxx-dex-1.0+mhxx-save-format-community,5,4
+117,交错霜牙刃,Cryo Cross,mhxx-dex-1.0+mhxx-save-format-community,9,3
+118,土砂短锤,Carapace Mace,mhxx-dex-1.0+mhxx-save-format-community,4,6
+119,影蜘蛛盾剑,Scaly Sword,mhxx-dex-1.0+mhxx-save-format-community,4,6
+120,猩红盾剑,Bloodscale Sword,mhxx-dex-1.0+mhxx-save-format-community,8,3
+121,白金黎明,Platinum Dawn,mhxx-dex-1.0+mhxx-save-format-community,10,3
+122,反曲刀,Binding Blade,mhxx-dex-1.0+mhxx-save-format-community,8,3
+123,蓝速龙王斩刺短剑,Drome Rush Dagger,mhxx-dex-1.0+mhxx-save-format-community,8,3
+124,显示未解之剑,Research Sword,mhxx-dex-1.0+mhxx-save-format-community,6,5
+125,龙历院正式短剑,Wycademy Dagger,mhxx-dex-1.0+mhxx-save-format-community,9,3
+126,长者盾剑,Elder Sword,mhxx-dex-1.0+mhxx-save-format-community,8,3
+127,信之剑,Xin's Trust,mhxx-dex-1.0+mhxx-save-format-community,9,3
+128,法尔西昂,Falchion,mhxx-dex-1.0+mhxx-save-format-community,6,4

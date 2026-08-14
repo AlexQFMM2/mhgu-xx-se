@@ -1,0 +1,1156 @@
+id,name,english,source,rarity
+0,None,None,mhxx-save-format-community,0
+5,Leather Trousers,Leather Trousers,mhxx-dex-1.0,1
+10,Chainmail Trousers,Chainmail Trousers,mhxx-dex-1.0,1
+15,Bherna Greaves,Bherna Greaves,mhxx-dex-1.0,1
+20,Hunting Greaves,Hunting Greaves,mhxx-dex-1.0,1
+25,Hunting Leggings,Hunting Leggings,mhxx-dex-1.0,1
+30,Mafumofu Boots,Mafumofu Boots,mhxx-dex-1.0,1
+35,Yukumo Hakama,Yukumo Hakama,mhxx-dex-1.0,1
+38,Loc Lac Boots,Loc Lac Boots,mhxx-dex-1.0,1
+43,Hunter's Greaves,Hunter's Greaves,mhxx-dex-1.0,1
+48,Hunter's Leggings,Hunter's Leggings,mhxx-dex-1.0,1
+53,Bone Greaves,Bone Greaves,mhxx-dex-1.0,1
+58,Bone Leggings,Bone Leggings,mhxx-dex-1.0,1
+66,Trapper's Greaves,Trapper's Greaves,mhxx-dex-1.0,1
+68,Trapper's Boots,Trapper's Boots,mhxx-dex-1.0,1
+70,Maccao Shinguards,Maccao Shinguards,mhxx-dex-1.0,1
+72,Maccao Boots,Maccao Boots,mhxx-dex-1.0,1
+74,Jaggi Shinguards,Jaggi Shinguards,mhxx-dex-1.0,1
+76,Jaggi Boots,Jaggi Boots,mhxx-dex-1.0,1
+81,Jaggi Greaves,Jaggi Greaves,mhxx-dex-1.0,1
+86,Jaggi Leggings,Jaggi Leggings,mhxx-dex-1.0,1
+91,Maccao Greaves,Maccao Greaves,mhxx-dex-1.0,1
+96,Maccao Leggings,Maccao Leggings,mhxx-dex-1.0,1
+101,Velociprey Greaves,Velociprey Greaves,mhxx-dex-1.0,1
+106,Velociprey Leggings,Velociprey Leggings,mhxx-dex-1.0,1
+111,Giaprey Greaves,Giaprey Greaves,mhxx-dex-1.0,1
+116,Giaprey Leggings,Giaprey Leggings,mhxx-dex-1.0,1
+121,Genprey Greaves,Genprey Greaves,mhxx-dex-1.0,1
+126,Genprey Leggings,Genprey Leggings,mhxx-dex-1.0,1
+131,Vespoid Greaves,Vespoid Greaves,mhxx-dex-1.0,1
+136,Vespoid Leggings,Vespoid Leggings,mhxx-dex-1.0,1
+141,Hornetaur Greaves,Hornetaur Greaves,mhxx-dex-1.0,1
+146,Hornetaur Leggings,Hornetaur Leggings,mhxx-dex-1.0,1
+151,Bnahabra Boots,Bnahabra Boots,mhxx-dex-1.0,1
+156,Bnahabra Pants,Bnahabra Pants,mhxx-dex-1.0,1
+165,Mosswine Feet,Mosswine Feet,mhxx-dex-1.0,1
+170,Rhenoplos Greaves,Rhenoplos Greaves,mhxx-dex-1.0,1
+175,Rhenoplos Leggings,Rhenoplos Leggings,mhxx-dex-1.0,1
+180,Bulldrome Greaves,Bulldrome Greaves,mhxx-dex-1.0,1
+185,Bulldrome Leggings,Bulldrome Leggings,mhxx-dex-1.0,1
+191,Arzuros Greaves,Arzuros Greaves,mhxx-dex-1.0,1
+196,Arzuros Leggings,Arzuros Leggings,mhxx-dex-1.0,1
+201,Cephalos Greaves,Cephalos Greaves,mhxx-dex-1.0,1
+206,Cephalos Leggings,Cephalos Leggings,mhxx-dex-1.0,1
+211,Derring Trousers,Derring Trousers,mhxx-dex-1.0,2
+216,Alloy Greaves,Alloy Greaves,mhxx-dex-1.0,2
+221,Alloy Leggings,Alloy Leggings,mhxx-dex-1.0,2
+226,Battle Greaves,Battle Greaves,mhxx-dex-1.0,2
+231,Battle Leggings,Battle Leggings,mhxx-dex-1.0,2
+236,Ingot Greaves,Ingot Greaves,mhxx-dex-1.0,2
+241,Ingot Leggings,Ingot Leggings,mhxx-dex-1.0,2
+246,High Metal Greaves,High Metal Greaves,mhxx-dex-1.0,2
+251,High Metal Leggings,High Metal Leggings,mhxx-dex-1.0,2
+252,Metal Boots,Metal Boots,mhxx-dex-1.0,2
+253,Metal Feet,Metal Feet,mhxx-dex-1.0,2
+258,Melahoa Roots,Melahoa Roots,mhxx-dex-1.0,2
+263,Melahoa Taproot,Melahoa Taproot,mhxx-dex-1.0,2
+268,Makluva Pants,Makluva Pants,mhxx-dex-1.0,2
+273,Makluva Leggings,Makluva Leggings,mhxx-dex-1.0,2
+284,Obituary Crura,Obituary Crura,mhxx-dex-1.0,2
+289,Obituary Tarsi,Obituary Tarsi,mhxx-dex-1.0,2
+294,Butterfly Crura,Butterfly Crura,mhxx-dex-1.0,2
+299,Butterfly Tarsi,Butterfly Tarsi,mhxx-dex-1.0,2
+304,Death Stench Heel,Death Stench Heel,mhxx-dex-1.0,2
+309,Death Stench March,Death Stench March,mhxx-dex-1.0,2
+318,Mosgharl Roots,Mosgharl Roots,mhxx-dex-1.0,2
+323,Mosgharl Radicles,Mosgharl Radicles,mhxx-dex-1.0,2
+328,Edel Roots,Edel Roots,mhxx-dex-1.0,2
+333,Edel Radicles,Edel Radicles,mhxx-dex-1.0,2
+338,Skalda Crura,Skalda Crura,mhxx-dex-1.0,2
+343,Skalda Tarsi,Skalda Tarsi,mhxx-dex-1.0,2
+348,Spio Crura,Spio Crura,mhxx-dex-1.0,2
+353,Spio Tarsi,Spio Tarsi,mhxx-dex-1.0,2
+356,Droth Greaves,Droth Greaves,mhxx-dex-1.0,2
+359,Droth Leggings,Droth Leggings,mhxx-dex-1.0,2
+378,Velociprey Feet,Velociprey Feet,mhxx-dex-1.0,2
+382,Velociprey Tights,Velociprey Tights,mhxx-dex-1.0,2
+386,Genprey Feet,Genprey Feet,mhxx-dex-1.0,2
+390,Genprey Tights,Genprey Tights,mhxx-dex-1.0,2
+394,Ioprey Feet,Ioprey Feet,mhxx-dex-1.0,2
+398,Ioprey Tights,Ioprey Tights,mhxx-dex-1.0,2
+403,Remobra Feet,Remobra Feet,mhxx-dex-1.0,2
+408,Remobra Tights,Remobra Tights,mhxx-dex-1.0,2
+413,Ioprey Greaves,Ioprey Greaves,mhxx-dex-1.0,2
+418,Ioprey Leggings,Ioprey Leggings,mhxx-dex-1.0,2
+423,Kut-Ku Greaves,Kut-Ku Greaves,mhxx-dex-1.0,2
+428,Kut-Ku Leggings,Kut-Ku Leggings,mhxx-dex-1.0,2
+433,Lagombi Greaves,Lagombi Greaves,mhxx-dex-1.0,2
+438,Lagombi Leggings,Lagombi Leggings,mhxx-dex-1.0,2
+443,Gypceros Greaves,Gypceros Greaves,mhxx-dex-1.0,2
+448,Gypceros Leggings,Gypceros Leggings,mhxx-dex-1.0,2
+453,Tetsucabra Greaves,Tetsucabra Greaves,mhxx-dex-1.0,2
+458,Tetsucabra Leggings,Tetsucabra Leggings,mhxx-dex-1.0,2
+463,Hermitaur Greaves,Hermitaur Greaves,mhxx-dex-1.0,2
+468,Hermitaur Leggings,Hermitaur Leggings,mhxx-dex-1.0,2
+473,Volvidon Greaves,Volvidon Greaves,mhxx-dex-1.0,2
+478,Volvidon Leggings,Volvidon Leggings,mhxx-dex-1.0,2
+483,Ludroth Greaves,Ludroth Greaves,mhxx-dex-1.0,2
+488,Ludroth Leggings,Ludroth Leggings,mhxx-dex-1.0,2
+493,Malfestio Greaves,Malfestio Greaves,mhxx-dex-1.0,2
+498,Malfestio Leggings,Malfestio Leggings,mhxx-dex-1.0,2
+503,Khezu Greaves,Khezu Greaves,mhxx-dex-1.0,2
+508,Khezu Leggings,Khezu Leggings,mhxx-dex-1.0,2
+513,Rathian Greaves,Rathian Greaves,mhxx-dex-1.0,2
+518,Rathian Leggings,Rathian Leggings,mhxx-dex-1.0,2
+523,Nibelsnarf Greaves,Nibelsnarf Greaves,mhxx-dex-1.0,2
+528,Nibelsnarf Leggings,Nibelsnarf Leggings,mhxx-dex-1.0,2
+533,Blango Greaves,Blango Greaves,mhxx-dex-1.0,2
+538,Blango Leggings,Blango Leggings,mhxx-dex-1.0,2
+543,Ceanataur Greaves,Ceanataur Greaves,mhxx-dex-1.0,2
+548,Ceanataur Leggings,Ceanataur Leggings,mhxx-dex-1.0,2
+553,Najarala Greaves,Najarala Greaves,mhxx-dex-1.0,2
+558,Najarala Leggings,Najarala Leggings,mhxx-dex-1.0,2
+563,Nargacuga Greaves,Nargacuga Greaves,mhxx-dex-1.0,2
+568,Nargacuga Leggings,Nargacuga Leggings,mhxx-dex-1.0,2
+573,Scholarly Boots,Scholarly Boots,mhxx-dex-1.0,2
+578,Scholarly Tights,Scholarly Tights,mhxx-dex-1.0,2
+583,Vaik Greaves,Vaik Greaves,mhxx-dex-1.0,3
+588,Vaik Leggings,Vaik Leggings,mhxx-dex-1.0,3
+595,Aelucanth Crura,Aelucanth Crura,mhxx-dex-1.0,3
+600,Aelucanth Tarsi,Aelucanth Tarsi,mhxx-dex-1.0,3
+605,Rhopessa Crura,Rhopessa Crura,mhxx-dex-1.0,3
+610,Rhopessa Tarsi,Rhopessa Tarsi,mhxx-dex-1.0,3
+613,Artian Greaves,Artian Greaves,mhxx-dex-1.0,3
+616,Artian Leggings,Artian Leggings,mhxx-dex-1.0,3
+621,Garuga Greaves,Garuga Greaves,mhxx-dex-1.0,3
+626,Garuga Leggings,Garuga Leggings,mhxx-dex-1.0,3
+632,Uragaan Greaves,Uragaan Greaves,mhxx-dex-1.0,3
+637,Uragaan Leggings,Uragaan Leggings,mhxx-dex-1.0,3
+642,Rathalos Greaves,Rathalos Greaves,mhxx-dex-1.0,3
+647,Rathalos Leggings,Rathalos Leggings,mhxx-dex-1.0,3
+652,Lagiacrus Greaves,Lagiacrus Greaves,mhxx-dex-1.0,3
+657,Lagiacrus Leggings,Lagiacrus Leggings,mhxx-dex-1.0,3
+662,Zinogre Greaves,Zinogre Greaves,mhxx-dex-1.0,3
+667,Zinogre Leggings,Zinogre Leggings,mhxx-dex-1.0,3
+672,Mizutsune Greaves,Mizutsune Greaves,mhxx-dex-1.0,3
+677,Mizutsune Leggings,Mizutsune Leggings,mhxx-dex-1.0,3
+682,Astalos Greaves,Astalos Greaves,mhxx-dex-1.0,3
+687,Astalos Leggings,Astalos Leggings,mhxx-dex-1.0,3
+692,Gammoth Greaves,Gammoth Greaves,mhxx-dex-1.0,3
+697,Gammoth Leggings,Gammoth Leggings,mhxx-dex-1.0,3
+702,Glavenus Greaves,Glavenus Greaves,mhxx-dex-1.0,3
+707,Glavenus Leggings,Glavenus Leggings,mhxx-dex-1.0,3
+712,Gore Greaves,Gore Greaves,mhxx-dex-1.0,3
+717,Gore Leggings,Gore Leggings,mhxx-dex-1.0,3
+722,Regios Greaves,Regios Greaves,mhxx-dex-1.0,3
+727,Regios Leggings,Regios Leggings,mhxx-dex-1.0,3
+732,Tigrex Greaves,Tigrex Greaves,mhxx-dex-1.0,3
+737,Tigrex Leggings,Tigrex Leggings,mhxx-dex-1.0,3
+742,Kirin Leg Guards,Kirin Leg Guards,mhxx-dex-1.0,3
+747,Kirin Boots,Kirin Boots,mhxx-dex-1.0,3
+752,Brachydios Greaves,Brachydios Greaves,mhxx-dex-1.0,3
+757,Brachydios Leggings,Brachydios Leggings,mhxx-dex-1.0,3
+762,Arc Greaves,Arc Greaves,mhxx-dex-1.0,3
+767,Arc Leggings,Arc Leggings,mhxx-dex-1.0,3
+772,Storge Greaves,Storge Greaves,mhxx-dex-1.0,3
+777,Storge Leggings,Storge Leggings,mhxx-dex-1.0,3
+782,Kushala Crus,Kushala Crus,mhxx-dex-1.0,3
+787,Kushala Shank,Kushala Shank,mhxx-dex-1.0,3
+792,Mizuha Gaiters,Mizuha Gaiters,mhxx-dex-1.0,3
+797,Cham Trousers,Cham Trousers,mhxx-dex-1.0,3
+802,Kaiser Greaves,Kaiser Greaves,mhxx-dex-1.0,3
+807,Kaiser Leggings,Kaiser Leggings,mhxx-dex-1.0,3
+812,Skeletal Femur,Skeletal Femur,mhxx-dex-1.0,3
+817,Decayed Femur,Decayed Femur,mhxx-dex-1.0,3
+822,Black Feet,Black Feet,mhxx-dex-1.0,3
+827,Black Legs,Black Legs,mhxx-dex-1.0,3
+832,Black Belt Greaves,Black Belt Greaves,mhxx-dex-1.0,3
+837,Black Belt Leggings,Black Belt Leggings,mhxx-dex-1.0,3
+842,Guild Bard Boots,Guild Bard Boots,mhxx-dex-1.0,3
+847,Guild Bard Gaiters,Guild Bard Gaiters,mhxx-dex-1.0,3
+852,Maiden's Socks,Maiden's Socks,mhxx-dex-1.0,3
+857,French Maid Tights,French Maid Tights,mhxx-dex-1.0,3
+862,Helper Socks,Helper Socks,mhxx-dex-1.0,3
+867,Healer Socks,Healer Socks,mhxx-dex-1.0,3
+872,Dianthus Pants,Dianthus Pants,mhxx-dex-1.0,3
+877,Campanile Pants,Campanile Pants,mhxx-dex-1.0,3
+881,Bath Sandals,Bath Sandals,mhxx-dex-1.0,3
+886,Gourmew Boots,Gourmew Boots,mhxx-dex-1.0,3
+891,Gourmew Paws,Gourmew Paws,mhxx-dex-1.0,3
+896,Leather Greaves S,Leather Greaves S,mhxx-dex-1.0,4
+901,Leather Leggings S,Leather Leggings S,mhxx-dex-1.0,4
+906,Chainmail Greaves S,Chainmail Greaves S,mhxx-dex-1.0,4
+911,Chainmail Leggings S,Chainmail Leggings S,mhxx-dex-1.0,4
+916,Bherna Greaves S,Bherna Greaves S,mhxx-dex-1.0,4
+921,Bherna Leggings S,Bherna Leggings S,mhxx-dex-1.0,4
+926,Hunting Greaves S,Hunting Greaves S,mhxx-dex-1.0,4
+931,Hunting Leggings S,Hunting Leggings S,mhxx-dex-1.0,4
+936,Mafumofu Boots S,Mafumofu Boots S,mhxx-dex-1.0,4
+941,Mafumofu Tights S,Mafumofu Tights S,mhxx-dex-1.0,4
+946,Yukumo Sky Hakama,Yukumo Sky Hakama,mhxx-dex-1.0,4
+951,Yukumo Land Hakama,Yukumo Land Hakama,mhxx-dex-1.0,4
+954,Loc Lac Boots S,Loc Lac Boots S,mhxx-dex-1.0,4
+959,Hunter's Greaves S,Hunter's Greaves S,mhxx-dex-1.0,4
+964,Hunter's Leggings S,Hunter's Leggings S,mhxx-dex-1.0,4
+969,Hunter's Greaves R,Hunter's Greaves R,mhxx-dex-1.0,4
+974,Hunter's Leggings R,Hunter's Leggings R,mhxx-dex-1.0,4
+979,Bone Greaves S,Bone Greaves S,mhxx-dex-1.0,4
+984,Bone Leggings S,Bone Leggings S,mhxx-dex-1.0,4
+987,Silver Metal Boots,Silver Metal Boots,mhxx-dex-1.0,4
+988,Silver Feet,Silver Feet,mhxx-dex-1.0,4
+997,Melahoa Roots S,Melahoa Roots S,mhxx-dex-1.0,4
+1002,Melahoa Taproot S,Melahoa Taproot S,mhxx-dex-1.0,4
+1007,Melahoa Roots U,Melahoa Roots U,mhxx-dex-1.0,4
+1012,Melahoa Taproot U,Melahoa Taproot U,mhxx-dex-1.0,4
+1017,Makluva Pants S,Makluva Pants S,mhxx-dex-1.0,4
+1022,Makluva Leggings S,Makluva Leggings S,mhxx-dex-1.0,4
+1027,Makluva Pants U,Makluva Pants U,mhxx-dex-1.0,4
+1032,Makluva Leggings U,Makluva Leggings U,mhxx-dex-1.0,4
+1047,Mosgharl Roots S,Mosgharl Roots S,mhxx-dex-1.0,4
+1052,Mosgharl Radicles S,Mosgharl Radicles S,mhxx-dex-1.0,4
+1057,Edel Roots S,Edel Roots S,mhxx-dex-1.0,4
+1062,Edel Radicles S,Edel Radicles S,mhxx-dex-1.0,4
+1081,Velociprey Feet S,Velociprey Feet S,mhxx-dex-1.0,4
+1085,Velociprey Tights S,Velociprey Tights S,mhxx-dex-1.0,4
+1089,Giaprey Feet,Giaprey Feet,mhxx-dex-1.0,4
+1093,Giaprey Tights,Giaprey Tights,mhxx-dex-1.0,4
+1097,Genprey Feet S,Genprey Feet S,mhxx-dex-1.0,4
+1101,Genprey Tights S,Genprey Tights S,mhxx-dex-1.0,4
+1105,Ioprey Feet S,Ioprey Feet S,mhxx-dex-1.0,4
+1109,Ioprey Tights S,Ioprey Tights S,mhxx-dex-1.0,4
+1114,Remobra Feet S,Remobra Feet S,mhxx-dex-1.0,4
+1119,Remobra Tights S,Remobra Tights S,mhxx-dex-1.0,4
+1121,Trapper's Shinguards S,Trapper's Shinguards S,mhxx-dex-1.0,4
+1123,Trapper's Boots S,Trapper's Boots S,mhxx-dex-1.0,4
+1125,Maccao Shinguards S,Maccao Shinguards S,mhxx-dex-1.0,4
+1127,Maccao Boots S,Maccao Boots S,mhxx-dex-1.0,4
+1129,Jaggi Shinguards S,Jaggi Shinguards S,mhxx-dex-1.0,4
+1131,Jaggi Boots S,Jaggi Boots S,mhxx-dex-1.0,4
+1136,Mosswine Feet S,Mosswine Feet S,mhxx-dex-1.0,4
+1141,Rhenoplos Greaves S,Rhenoplos Greaves S,mhxx-dex-1.0,4
+1146,Rhenoplos Leggings S,Rhenoplos Leggings S,mhxx-dex-1.0,4
+1151,Jaggi Greaves S,Jaggi Greaves S,mhxx-dex-1.0,4
+1156,Jaggi Leggings S,Jaggi Leggings S,mhxx-dex-1.0,4
+1159,Droth Greaves S,Droth Greaves S,mhxx-dex-1.0,4
+1162,Droth Leggings S,Droth Leggings S,mhxx-dex-1.0,4
+1171,Maccao Greaves S,Maccao Greaves S,mhxx-dex-1.0,4
+1176,Maccao Leggings S,Maccao Leggings S,mhxx-dex-1.0,4
+1181,Velociprey Greaves S,Velociprey Greaves S,mhxx-dex-1.0,4
+1186,Velociprey Leggings S,Velociprey Leggings S,mhxx-dex-1.0,4
+1191,Giaprey Greaves S,Giaprey Greaves S,mhxx-dex-1.0,4
+1196,Giaprey Leggings S,Giaprey Leggings S,mhxx-dex-1.0,4
+1201,Genprey Greaves S,Genprey Greaves S,mhxx-dex-1.0,4
+1206,Genprey Leggings S,Genprey Leggings S,mhxx-dex-1.0,4
+1211,EX Genprey Greaves,EX Genprey Greaves,mhxx-dex-1.0,4
+1216,EX Genprey Leggings,EX Genprey Leggings,mhxx-dex-1.0,4
+1221,Ioprey Greaves S,Ioprey Greaves S,mhxx-dex-1.0,4
+1226,Ioprey Leggings S,Ioprey Leggings S,mhxx-dex-1.0,4
+1231,EX Ioprey Greaves,EX Ioprey Greaves,mhxx-dex-1.0,4
+1236,EX Ioprey Leggings,EX Ioprey Leggings,mhxx-dex-1.0,4
+1241,Vespoid Greaves S,Vespoid Greaves S,mhxx-dex-1.0,4
+1246,Vespoid Leggings S,Vespoid Leggings S,mhxx-dex-1.0,4
+1251,EX Vespoid Greaves,EX Vespoid Greaves,mhxx-dex-1.0,4
+1256,EX Vespoid Leggings,EX Vespoid Leggings,mhxx-dex-1.0,4
+1261,Hornetaur Greaves S,Hornetaur Greaves S,mhxx-dex-1.0,4
+1266,Hornetaur Leggings S,Hornetaur Leggings S,mhxx-dex-1.0,4
+1271,EX Hornetaur Greaves,EX Hornetaur Greaves,mhxx-dex-1.0,4
+1276,EX Hornetaur Leggings,EX Hornetaur Leggings,mhxx-dex-1.0,4
+1281,Hornetaur Greaves R,Hornetaur Greaves R,mhxx-dex-1.0,4
+1286,Hornetaur Leggings R,Hornetaur Leggings R,mhxx-dex-1.0,4
+1291,Bnahabra Boots S,Bnahabra Boots S,mhxx-dex-1.0,4
+1296,Bnahabra Pants S,Bnahabra Pants S,mhxx-dex-1.0,4
+1305,Bulldrome Greaves S,Bulldrome Greaves S,mhxx-dex-1.0,4
+1310,Bulldrome Leggings S,Bulldrome Leggings S,mhxx-dex-1.0,4
+1316,Arzuros Greaves S,Arzuros Greaves S,mhxx-dex-1.0,4
+1321,Arzuros Leggings S,Arzuros Leggings S,mhxx-dex-1.0,4
+1326,Cephalos Greaves S,Cephalos Greaves S,mhxx-dex-1.0,4
+1331,Cephalos Leggings S,Cephalos Leggings S,mhxx-dex-1.0,4
+1336,EX Cephalos Greaves,EX Cephalos Greaves,mhxx-dex-1.0,4
+1341,EX Cephalos Leggings,EX Cephalos Leggings,mhxx-dex-1.0,4
+1346,Kut-Ku Greaves S,Kut-Ku Greaves S,mhxx-dex-1.0,4
+1351,Kut-Ku Leggings S,Kut-Ku Leggings S,mhxx-dex-1.0,4
+1356,Kecha Greaves,Kecha Greaves,mhxx-dex-1.0,4
+1361,Kecha Leggings,Kecha Leggings,mhxx-dex-1.0,4
+1366,Lagombi Greaves S,Lagombi Greaves S,mhxx-dex-1.0,4
+1371,Lagombi Leggings S,Lagombi Leggings S,mhxx-dex-1.0,4
+1376,Gypceros Greaves S,Gypceros Greaves S,mhxx-dex-1.0,4
+1381,Gypceros Leggings S,Gypceros Leggings S,mhxx-dex-1.0,4
+1386,Gypceros Greaves R,Gypceros Greaves R,mhxx-dex-1.0,4
+1391,Gypceros Leggings R,Gypceros Leggings R,mhxx-dex-1.0,4
+1396,Tetsucabra Greaves S,Tetsucabra Greaves S,mhxx-dex-1.0,4
+1401,Tetsucabra Leggings S,Tetsucabra Leggings S,mhxx-dex-1.0,4
+1406,Hermitaur Greaves S,Hermitaur Greaves S,mhxx-dex-1.0,4
+1411,Hermitaur Leggings S,Hermitaur Leggings S,mhxx-dex-1.0,4
+1416,EX Hermitaur Greaves,EX Hermitaur Greaves,mhxx-dex-1.0,4
+1421,EX Hermitaur Leggings,EX Hermitaur Leggings,mhxx-dex-1.0,4
+1426,Hermitaur Greaves R,Hermitaur Greaves R,mhxx-dex-1.0,4
+1431,Hermitaur Leggings R,Hermitaur Leggings R,mhxx-dex-1.0,4
+1436,Volvidon Greaves S,Volvidon Greaves S,mhxx-dex-1.0,4
+1441,Volvidon Leggings S,Volvidon Leggings S,mhxx-dex-1.0,4
+1446,Conga Greaves,Conga Greaves,mhxx-dex-1.0,4
+1451,Conga Leggings,Conga Leggings,mhxx-dex-1.0,4
+1456,Ludroth Greaves S,Ludroth Greaves S,mhxx-dex-1.0,4
+1461,Ludroth Leggings S,Ludroth Leggings S,mhxx-dex-1.0,4
+1466,Ludroth Greaves R,Ludroth Greaves R,mhxx-dex-1.0,4
+1471,Ludroth Leggings R,Ludroth Leggings R,mhxx-dex-1.0,4
+1476,Barroth Greaves,Barroth Greaves,mhxx-dex-1.0,4
+1481,Barroth Leggings,Barroth Leggings,mhxx-dex-1.0,4
+1486,Lecturer's Boots,Lecturer's Boots,mhxx-dex-1.0,4
+1491,Lecturer's Footwear,Lecturer's Footwear,mhxx-dex-1.0,4
+1496,Alloy Greaves S,Alloy Greaves S,mhxx-dex-1.0,5
+1501,Alloy Leggings S,Alloy Leggings S,mhxx-dex-1.0,5
+1506,Alloy Greaves R,Alloy Greaves R,mhxx-dex-1.0,5
+1511,Alloy Leggings R,Alloy Leggings R,mhxx-dex-1.0,5
+1516,Battle Greaves S,Battle Greaves S,mhxx-dex-1.0,5
+1521,Battle Leggings S,Battle Leggings S,mhxx-dex-1.0,5
+1526,Ingot Greaves S,Ingot Greaves S,mhxx-dex-1.0,5
+1531,Ingot Leggings S,Ingot Leggings S,mhxx-dex-1.0,5
+1536,Ingot Greaves R,Ingot Greaves R,mhxx-dex-1.0,5
+1541,Ingot Leggings R,Ingot Leggings R,mhxx-dex-1.0,5
+1546,High Metal Greaves S,High Metal Greaves S,mhxx-dex-1.0,5
+1551,High Metal Leggings S,High Metal Leggings S,mhxx-dex-1.0,5
+1556,High Metal Greaves U,High Metal Greaves U,mhxx-dex-1.0,5
+1561,High Metal Leggings U,High Metal Leggings U,mhxx-dex-1.0,5
+1562,Pink Metal Boots,Pink Metal Boots,mhxx-dex-1.0,5
+1563,Pink Metal Feet,Pink Metal Feet,mhxx-dex-1.0,5
+1568,Lobster Greaves,Lobster Greaves,mhxx-dex-1.0,5
+1573,Lobster Leggings,Lobster Leggings,mhxx-dex-1.0,5
+1578,Obituary Crura S,Obituary Crura S,mhxx-dex-1.0,5
+1583,Obituary Tarsi S,Obituary Tarsi S,mhxx-dex-1.0,5
+1588,Butterfly Crura S,Butterfly Crura S,mhxx-dex-1.0,5
+1593,Butterfly Tarsi S,Butterfly Tarsi S,mhxx-dex-1.0,5
+1598,Death Stench Heel S,Death Stench Heel S,mhxx-dex-1.0,5
+1603,Death Stench March S,Death Stench March S,mhxx-dex-1.0,5
+1608,Death Stench Heel R,Death Stench Heel R,mhxx-dex-1.0,5
+1613,Death Stench March R,Death Stench March R,mhxx-dex-1.0,5
+1618,Vaik Greaves S,Vaik Greaves S,mhxx-dex-1.0,5
+1623,Vaik Leggings S,Vaik Leggings S,mhxx-dex-1.0,5
+1628,Aelucanth Crura S,Aelucanth Crura S,mhxx-dex-1.0,5
+1633,Aelucanth Tarsi S,Aelucanth Tarsi S,mhxx-dex-1.0,5
+1638,Rhopessa Crura S,Rhopessa Crura S,mhxx-dex-1.0,5
+1643,Rhopessa Tarsi S,Rhopessa Tarsi S,mhxx-dex-1.0,5
+1648,Patissier's Boots,Patissier's Boots,mhxx-dex-1.0,5
+1653,Patissier's Footwear,Patissier's Footwear,mhxx-dex-1.0,5
+1658,Skalda Crura S,Skalda Crura S,mhxx-dex-1.0,5
+1663,Skalda Tarsi S,Skalda Tarsi S,mhxx-dex-1.0,5
+1668,Spio Crura S,Spio Crura S,mhxx-dex-1.0,5
+1673,Spio Tarsi S,Spio Tarsi S,mhxx-dex-1.0,5
+1679,Basarios Greaves,Basarios Greaves,mhxx-dex-1.0,5
+1684,Basarios Leggings,Basarios Leggings,mhxx-dex-1.0,5
+1689,Malfestio Greaves S,Malfestio Greaves S,mhxx-dex-1.0,5
+1694,Malfestio Leggings S,Malfestio Leggings S,mhxx-dex-1.0,5
+1699,Zamtrios Greaves,Zamtrios Greaves,mhxx-dex-1.0,5
+1704,Zamtrios Leggings,Zamtrios Leggings,mhxx-dex-1.0,5
+1709,Khezu Greaves S,Khezu Greaves S,mhxx-dex-1.0,5
+1714,Khezu Leggings S,Khezu Leggings S,mhxx-dex-1.0,5
+1719,Khezu Greaves R,Khezu Greaves R,mhxx-dex-1.0,5
+1724,Khezu Leggings R,Khezu Leggings R,mhxx-dex-1.0,5
+1729,Nerscylla Greaves,Nerscylla Greaves,mhxx-dex-1.0,5
+1734,Nerscylla Leggings,Nerscylla Leggings,mhxx-dex-1.0,5
+1739,Rathian Greaves S,Rathian Greaves S,mhxx-dex-1.0,5
+1744,Rathian Leggings S,Rathian Leggings S,mhxx-dex-1.0,5
+1749,EX Rathian Greaves,EX Rathian Greaves,mhxx-dex-1.0,5
+1754,EX Rathian Leggings,EX Rathian Leggings,mhxx-dex-1.0,5
+1759,Rathian Greaves R,Rathian Greaves R,mhxx-dex-1.0,5
+1764,Rathian Leggings R,Rathian Leggings R,mhxx-dex-1.0,5
+1769,Nibelsnarf Greaves S,Nibelsnarf Greaves S,mhxx-dex-1.0,5
+1774,Nibelsnarf Leggings S,Nibelsnarf Leggings S,mhxx-dex-1.0,5
+1778,Plesioth Greaves,Plesioth Greaves,mhxx-dex-1.0,5
+1782,Plesioth Leggings,Plesioth Leggings,mhxx-dex-1.0,5
+1787,Blango Greaves S,Blango Greaves S,mhxx-dex-1.0,5
+1792,Blango Leggings S,Blango Leggings S,mhxx-dex-1.0,5
+1797,EX Blango Greaves,EX Blango Greaves,mhxx-dex-1.0,5
+1802,EX Blango Leggings,EX Blango Leggings,mhxx-dex-1.0,5
+1807,Lavasioth Greaves,Lavasioth Greaves,mhxx-dex-1.0,5
+1812,Lavasioth Leggings,Lavasioth Leggings,mhxx-dex-1.0,5
+1817,EX Lavasioth Greaves,EX Lavasioth Greaves,mhxx-dex-1.0,5
+1822,EX Lavasioth Leggings,EX Lavasioth Leggings,mhxx-dex-1.0,5
+1827,Ceanataur Greaves S,Ceanataur Greaves S,mhxx-dex-1.0,5
+1832,Ceanataur Leggings S,Ceanataur Leggings S,mhxx-dex-1.0,5
+1837,EX Ceanataur Greaves,EX Ceanataur Greaves,mhxx-dex-1.0,5
+1842,EX Ceanataur Leggings,EX Ceanataur Leggings,mhxx-dex-1.0,5
+1847,Ceanataur Greaves R,Ceanataur Greaves R,mhxx-dex-1.0,5
+1852,Ceanataur Leggings R,Ceanataur Leggings R,mhxx-dex-1.0,5
+1857,Najarala Greaves S,Najarala Greaves S,mhxx-dex-1.0,5
+1862,Najarala Leggings S,Najarala Leggings S,mhxx-dex-1.0,5
+1867,Nargacuga Greaves S,Nargacuga Greaves S,mhxx-dex-1.0,5
+1872,Nargacuga Leggings S,Nargacuga Leggings S,mhxx-dex-1.0,5
+1877,Garuga Greaves S,Garuga Greaves S,mhxx-dex-1.0,5
+1882,Garuga Leggings S,Garuga Leggings S,mhxx-dex-1.0,5
+1888,Uragaan Greaves S,Uragaan Greaves S,mhxx-dex-1.0,5
+1893,Uragaan Leggings S,Uragaan Leggings S,mhxx-dex-1.0,5
+1898,Black Belt Greaves S,Black Belt Greaves S,mhxx-dex-1.0,5
+1903,Black Belt Leggings S,Black Belt Leggings S,mhxx-dex-1.0,5
+1908,Guardian Boots,Guardian Boots,mhxx-dex-1.0,5
+1913,Guardian Pants,Guardian Pants,mhxx-dex-1.0,5
+1918,Guardian Boots U,Guardian Boots U,mhxx-dex-1.0,5
+1923,Guardian Pants U,Guardian Pants U,mhxx-dex-1.0,5
+1928,Scholar's Socks,Scholar's Socks,mhxx-dex-1.0,5
+1933,Scholar's Sandals,Scholar's Sandals,mhxx-dex-1.0,5
+1938,Sailor Socks,Sailor Socks,mhxx-dex-1.0,5
+1943,Sailor Sandals,Sailor Sandals,mhxx-dex-1.0,5
+1947,Luxury Bath Sandals,Luxury Bath Sandals,mhxx-dex-1.0,5
+1951,Kita Star Hakama,Kita Star Hakama,mhxx-dex-1.0,5
+1955,Umi Ocean Hakama,Umi Ocean Hakama,mhxx-dex-1.0,5
+1961,Derring Greaves S,Derring Greaves S,mhxx-dex-1.0,6
+1966,Derring Leggings S,Derring Leggings S,mhxx-dex-1.0,6
+1971,Dober Greaves,Dober Greaves,mhxx-dex-1.0,6
+1976,Dober Leggings,Dober Leggings,mhxx-dex-1.0,6
+1981,Damascus Greaves,Damascus Greaves,mhxx-dex-1.0,6
+1986,Damascus Leggings,Damascus Leggings,mhxx-dex-1.0,6
+1991,Damascus Greaves R,Damascus Greaves R,mhxx-dex-1.0,6
+1996,Damascus Leggings R,Damascus Leggings R,mhxx-dex-1.0,6
+1999,Dark Metal Boots,Dark Metal Boots,mhxx-dex-1.0,6
+2000,Dark Metal Feet,Dark Metal Feet,mhxx-dex-1.0,6
+2002,Chrome Metal Boots,Chrome Metal Boots,mhxx-dex-1.0,6
+2004,Chrome Metal Feet,Chrome Metal Feet,mhxx-dex-1.0,6
+2009,Artian Greaves S,Artian Greaves S,mhxx-dex-1.0,6
+2014,Artian Leggings S,Artian Leggings S,mhxx-dex-1.0,6
+2019,Artian Greaves R,Artian Greaves R,mhxx-dex-1.0,6
+2024,Artian Leggings R,Artian Leggings R,mhxx-dex-1.0,6
+2029,Barioth Greaves,Barioth Greaves,mhxx-dex-1.0,6
+2034,Barioth Leggings,Barioth Leggings,mhxx-dex-1.0,6
+2039,Seltas Greaves,Seltas Greaves,mhxx-dex-1.0,6
+2044,Seltas Leggings,Seltas Leggings,mhxx-dex-1.0,6
+2049,Rathalos Greaves S,Rathalos Greaves S,mhxx-dex-1.0,6
+2054,Rathalos Leggings S,Rathalos Leggings S,mhxx-dex-1.0,6
+2059,EX Rathalos Greaves,EX Rathalos Greaves,mhxx-dex-1.0,6
+2064,EX Rathalos Leggings,EX Rathalos Leggings,mhxx-dex-1.0,6
+2069,Rathalos Greaves R,Rathalos Greaves R,mhxx-dex-1.0,6
+2074,Rathalos Leggings R,Rathalos Leggings R,mhxx-dex-1.0,6
+2079,Lagiacrus Greaves S,Lagiacrus Greaves S,mhxx-dex-1.0,6
+2084,Lagiacrus Leggings S,Lagiacrus Leggings S,mhxx-dex-1.0,6
+2089,Lagiacrus Greaves R,Lagiacrus Greaves R,mhxx-dex-1.0,6
+2094,Lagiacrus Leggings R,Lagiacrus Leggings R,mhxx-dex-1.0,6
+2099,Zinogre Greaves S,Zinogre Greaves S,mhxx-dex-1.0,6
+2104,Zinogre Leggings S,Zinogre Leggings S,mhxx-dex-1.0,6
+2109,EX Zinogre Greaves,EX Zinogre Greaves,mhxx-dex-1.0,6
+2114,EX Zinogre Leggings,EX Zinogre Leggings,mhxx-dex-1.0,6
+2119,Gravios Greaves,Gravios Greaves,mhxx-dex-1.0,6
+2124,Gravios Leggings,Gravios Leggings,mhxx-dex-1.0,6
+2129,Mizutsune Greaves S,Mizutsune Greaves S,mhxx-dex-1.0,6
+2134,Mizutsune Leggings S,Mizutsune Leggings S,mhxx-dex-1.0,6
+2139,Astalos Greaves S,Astalos Greaves S,mhxx-dex-1.0,6
+2144,Astalos Leggings S,Astalos Leggings S,mhxx-dex-1.0,6
+2149,Gammoth Greaves S,Gammoth Greaves S,mhxx-dex-1.0,6
+2154,Gammoth Leggings S,Gammoth Leggings S,mhxx-dex-1.0,6
+2159,Glavenus Greaves S,Glavenus Greaves S,mhxx-dex-1.0,6
+2164,Glavenus Leggings S,Glavenus Leggings S,mhxx-dex-1.0,6
+2169,Agnaktor Greaves,Agnaktor Greaves,mhxx-dex-1.0,6
+2174,Agnaktor Leggings,Agnaktor Leggings,mhxx-dex-1.0,6
+2179,Gore Greaves S,Gore Greaves S,mhxx-dex-1.0,6
+2184,Gore Leggings S,Gore Leggings S,mhxx-dex-1.0,6
+2189,EX Gore Greaves,EX Gore Greaves,mhxx-dex-1.0,6
+2194,EX Gore Leggings,EX Gore Leggings,mhxx-dex-1.0,6
+2199,Gore Greaves R,Gore Greaves R,mhxx-dex-1.0,6
+2204,Gore Leggings R,Gore Leggings R,mhxx-dex-1.0,6
+2209,Regios Greaves S,Regios Greaves S,mhxx-dex-1.0,6
+2214,Regios Leggings S,Regios Leggings S,mhxx-dex-1.0,6
+2219,Duramboros Greaves,Duramboros Greaves,mhxx-dex-1.0,6
+2224,Duramboros Leggings,Duramboros Leggings,mhxx-dex-1.0,6
+2229,Tigrex Greaves S,Tigrex Greaves S,mhxx-dex-1.0,6
+2234,Tigrex Leggings S,Tigrex Leggings S,mhxx-dex-1.0,6
+2239,EX Tigrex Greaves,EX Tigrex Greaves,mhxx-dex-1.0,6
+2244,EX Tigrex Leggings,EX Tigrex Leggings,mhxx-dex-1.0,6
+2249,Tigrex Greaves R,Tigrex Greaves R,mhxx-dex-1.0,6
+2254,Tigrex Leggings R,Tigrex Leggings R,mhxx-dex-1.0,6
+2259,Kirin Leg Guards S,Kirin Leg Guards S,mhxx-dex-1.0,6
+2264,Kirin Boots S,Kirin Boots S,mhxx-dex-1.0,6
+2269,Kirin Leg Guards R,Kirin Leg Guards R,mhxx-dex-1.0,6
+2274,Kirin Boots R,Kirin Boots R,mhxx-dex-1.0,6
+2279,Brachydios Greaves S,Brachydios Greaves S,mhxx-dex-1.0,6
+2284,Brachy Leggings S,Brachy Leggings S,mhxx-dex-1.0,6
+2289,EX Brachydios Greaves,EX Brachydios Greaves,mhxx-dex-1.0,6
+2294,EX Brachydios Leggings,EX Brachydios Leggings,mhxx-dex-1.0,6
+2299,Golden Hakama,Golden Hakama,mhxx-dex-1.0,6
+2304,Puppeteer Tabi,Puppeteer Tabi,mhxx-dex-1.0,6
+2309,Vangis Greaves,Vangis Greaves,mhxx-dex-1.0,6
+2314,Vangis Leggings,Vangis Leggings,mhxx-dex-1.0,6
+2319,Guild Knight Boots,Guild Knight Boots,mhxx-dex-1.0,6
+2324,Guild Knight Tights,Guild Knight Tights,mhxx-dex-1.0,6
+2329,Maiden's Socks S,Maiden's Socks S,mhxx-dex-1.0,6
+2334,French Maid Tights S,French Maid Tights S,mhxx-dex-1.0,6
+2339,Blue Guild Boots,Blue Guild Boots,mhxx-dex-1.0,6
+2344,Blue Guild Tights,Blue Guild Tights,mhxx-dex-1.0,6
+2349,Blue Guild Boots,Blue Guild Boots,mhxx-dex-1.0,6
+2354,Blue Guild Tights,Blue Guild Tights,mhxx-dex-1.0,6
+2359,Red Guild Boots,Red Guild Boots,mhxx-dex-1.0,6
+2364,Red Guild Tights,Red Guild Tights,mhxx-dex-1.0,6
+2369,Red Guild Boots,Red Guild Boots,mhxx-dex-1.0,6
+2374,Red Guild Tights,Red Guild Tights,mhxx-dex-1.0,6
+2379,Helper Socks S,Helper Socks S,mhxx-dex-1.0,6
+2384,Healer Socks S,Healer Socks S,mhxx-dex-1.0,6
+2389,Helper Socks U,Helper Socks U,mhxx-dex-1.0,6
+2394,Healer Socks U,Healer Socks U,mhxx-dex-1.0,6
+2399,Guild Bard Boots S,Guild Bard Boots S,mhxx-dex-1.0,6
+2404,Guild Bard Gaiters S,Guild Bard Gaiters S,mhxx-dex-1.0,6
+2409,Chakra Anklet,Chakra Anklet,mhxx-dex-1.0,6
+2414,Dianthus Wealpants,Dianthus Wealpants,mhxx-dex-1.0,6
+2419,Campanile Wealpants,Campanile Wealpants,mhxx-dex-1.0,6
+2424,Ace Greaves,Ace Greaves,mhxx-dex-1.0,6
+2429,Ace Leggings,Ace Leggings,mhxx-dex-1.0,6
+2434,Sororal Greaves,Sororal Greaves,mhxx-dex-1.0,6
+2439,Sororal Leggings,Sororal Leggings,mhxx-dex-1.0,6
+2444,Hawkboots,Hawkboots,mhxx-dex-1.0,6
+2449,Hawkfeet,Hawkfeet,mhxx-dex-1.0,6
+2454,Gourmew Boots S,Gourmew Boots S,mhxx-dex-1.0,6
+2459,Gourmew Paws S,Gourmew Paws S,mhxx-dex-1.0,6
+2465,Scholarly Boots S,Scholarly Boots S,mhxx-dex-1.0,6
+2470,Scholarly Tights S,Scholarly Tights S,mhxx-dex-1.0,6
+2475,Ranger's Espadrilles,Ranger's Espadrilles,mhxx-dex-1.0,6
+2480,Archer's Espadrilles,Archer's Espadrilles,mhxx-dex-1.0,6
+2485,Shinobi Heaven Boots,Shinobi Heaven Boots,mhxx-dex-1.0,7
+2490,Shinobi Land Boots,Shinobi Land Boots,mhxx-dex-1.0,7
+2495,Shinobi Sky Boots,Shinobi Sky Boots,mhxx-dex-1.0,7
+2500,Shinobi Sea Boots,Shinobi Sea Boots,mhxx-dex-1.0,7
+2505,Ancient Boots,Ancient Boots,mhxx-dex-1.0,7
+2510,Ancient Feet,Ancient Feet,mhxx-dex-1.0,7
+2515,Master's Greaves,Master's Greaves,mhxx-dex-1.0,7
+2520,Master's Leggings,Master's Leggings,mhxx-dex-1.0,7
+2525,Black Feet S,Black Feet S,mhxx-dex-1.0,7
+2530,Black Legs S,Black Legs S,mhxx-dex-1.0,7
+2535,Toka Gusoku,Toka Gusoku,mhxx-dex-1.0,7
+2540,Mitsuaoi Gusoku,Mitsuaoi Gusoku,mhxx-dex-1.0,7
+2545,Wisdom Boots,Wisdom Boots,mhxx-dex-1.0,7
+2550,Wisdom Feet,Wisdom Feet,mhxx-dex-1.0,7
+2555,Cheerful Boots,Cheerful Boots,mhxx-dex-1.0,7
+2560,Cheerful Feet,Cheerful Feet,mhxx-dex-1.0,7
+2565,Mariner Socks,Mariner Socks,mhxx-dex-1.0,7
+2570,Mariner Sandals,Mariner Sandals,mhxx-dex-1.0,7
+2575,EX Rathian Greaves S,EX Rathian Greaves S,mhxx-dex-1.0,7
+2580,EX Rathian Leggings S,EX Rathian Leggings S,mhxx-dex-1.0,7
+2585,EX Rathalos Greaves S,EX Rathalos Greaves S,mhxx-dex-1.0,7
+2590,EX Rathalos Leggings S,EX Rathalos Leggings S,mhxx-dex-1.0,7
+2595,EX Tigrex Greaves S,EX Tigrex Greaves S,mhxx-dex-1.0,7
+2600,EX Tigrex Leggings S,EX Tigrex Leggings S,mhxx-dex-1.0,7
+2605,Diablos Greaves,Diablos Greaves,mhxx-dex-1.0,7
+2610,Diablos Leggings,Diablos Leggings,mhxx-dex-1.0,7
+2615,Diablos Greaves R,Diablos Greaves R,mhxx-dex-1.0,7
+2620,Diablos Leggings R,Diablos Leggings R,mhxx-dex-1.0,7
+2625,Arc Greaves S,Arc Greaves S,mhxx-dex-1.0,7
+2630,Arc Leggings S,Arc Leggings S,mhxx-dex-1.0,7
+2635,Storge Greaves S,Storge Greaves S,mhxx-dex-1.0,7
+2640,Storge Leggings S,Storge Leggings S,mhxx-dex-1.0,7
+2645,EX Arc Greaves,EX Arc Greaves,mhxx-dex-1.0,7
+2650,EX Arc Leggings,EX Arc Leggings,mhxx-dex-1.0,7
+2655,EX Storge Greaves,EX Storge Greaves,mhxx-dex-1.0,7
+2660,EX Storge Leggings,EX Storge Leggings,mhxx-dex-1.0,7
+2665,Arc Greaves R,Arc Greaves R,mhxx-dex-1.0,7
+2670,Arc Leggings R,Arc Leggings R,mhxx-dex-1.0,7
+2675,Storge Greaves R,Storge Greaves R,mhxx-dex-1.0,7
+2680,Storge Leggings R,Storge Leggings R,mhxx-dex-1.0,7
+2685,Valstrax Greaves,Valstrax Greaves,mhxx-dex-1.0,7
+2690,Valstrax Leggings,Valstrax Leggings,mhxx-dex-1.0,7
+2695,Kushala Crus S,Kushala Crus S,mhxx-dex-1.0,7
+2700,Kushala Shank S,Kushala Shank S,mhxx-dex-1.0,7
+2705,EX Kushala Crus,EX Kushala Crus,mhxx-dex-1.0,7
+2710,EX Kushala Shank,EX Kushala Shank,mhxx-dex-1.0,7
+2715,Kushala Crus R,Kushala Crus R,mhxx-dex-1.0,7
+2720,Kushala Shank R,Kushala Shank R,mhxx-dex-1.0,7
+2725,Mizuha Gaiters S,Mizuha Gaiters S,mhxx-dex-1.0,7
+2730,Cham Trousers S,Cham Trousers S,mhxx-dex-1.0,7
+2735,EX Mizuha Gaiters,EX Mizuha Gaiters,mhxx-dex-1.0,7
+2740,EX Cham Trousers,EX Cham Trousers,mhxx-dex-1.0,7
+2745,Kaiser Greaves S,Kaiser Greaves S,mhxx-dex-1.0,7
+2750,Kaiser Leggings S,Kaiser Leggings S,mhxx-dex-1.0,7
+2755,EX Kaiser Greaves,EX Kaiser Greaves,mhxx-dex-1.0,7
+2760,EX Kaiser Leggings,EX Kaiser Leggings,mhxx-dex-1.0,7
+2765,Silver Solgreaves,Silver Solgreaves,mhxx-dex-1.0,7
+2770,Silver Solleggings,Silver Solleggings,mhxx-dex-1.0,7
+2775,EX Silver Solgreaves,EX Silver Solgreaves,mhxx-dex-1.0,7
+2780,EX Silver Solleggings,EX Silver Solleggings,mhxx-dex-1.0,7
+2785,Silver Solgreaves R,Silver Solgreaves R,mhxx-dex-1.0,7
+2790,Silver Solleggings R,Silver Solleggings R,mhxx-dex-1.0,7
+2795,Golden Lunegreaves,Golden Lunegreaves,mhxx-dex-1.0,7
+2800,Golden Luneleggings,Golden Luneleggings,mhxx-dex-1.0,7
+2805,EX Golden Lunegreaves,EX Golden Lunegreaves,mhxx-dex-1.0,7
+2810,EX Golden Luneleggings,EX Golden Luneleggings,mhxx-dex-1.0,7
+2815,Divine Ire Hakama,Divine Ire Hakama,mhxx-dex-1.0,7
+2820,Mind Crusher Tabi,Mind Crusher Tabi,mhxx-dex-1.0,7
+2825,Esurient Greaves,Esurient Greaves,mhxx-dex-1.0,7
+2830,Esurient Leggings,Esurient Leggings,mhxx-dex-1.0,7
+2835,Esurient Greaves R,Esurient Greaves R,mhxx-dex-1.0,7
+2840,Esurient Leggings R,Esurient Leggings R,mhxx-dex-1.0,7
+2845,Akantor Hessian,Akantor Hessian,mhxx-dex-1.0,7
+2850,Akantor Boots,Akantor Boots,mhxx-dex-1.0,7
+2855,Akantor Hessian R,Akantor Hessian R,mhxx-dex-1.0,7
+2860,Akantor Boots R,Akantor Boots R,mhxx-dex-1.0,7
+2865,Ukanlos Hessian,Ukanlos Hessian,mhxx-dex-1.0,7
+2870,Ukanlos Boots,Ukanlos Boots,mhxx-dex-1.0,7
+2875,Tempest Hakama,Tempest Hakama,mhxx-dex-1.0,7
+2880,Welkin Hakama,Welkin Hakama,mhxx-dex-1.0,7
+2885,Tempest Hakama R,Tempest Hakama R,mhxx-dex-1.0,7
+2890,Welkin Hakama R,Welkin Hakama R,mhxx-dex-1.0,7
+2895,Skeletal Femur R,Skeletal Femur R,mhxx-dex-1.0,7
+2900,Decayed Femur R,Decayed Femur R,mhxx-dex-1.0,7
+2905,Astral Boots,Astral Boots,mhxx-dex-1.0,7
+2910,Astral Feet,Astral Feet,mhxx-dex-1.0,7
+2915,Escadora Sheath,Escadora Sheath,mhxx-dex-1.0,7
+2920,Escadora Scala,Escadora Scala,mhxx-dex-1.0,7
+2925,Escadora Sheath R,Escadora Sheath R,mhxx-dex-1.0,7
+2930,Escadora Scala R,Escadora Scala R,mhxx-dex-1.0,7
+2947,Leather Greaves X,Leather Greaves X,mhxx-dex-1.0,8
+2952,Leather Leggings X,Leather Leggings X,mhxx-dex-1.0,8
+2957,Chainmail Greaves X,Chainmail Greaves X,mhxx-dex-1.0,8
+2962,Chainmail Leggings X,Chainmail Leggings X,mhxx-dex-1.0,8
+2967,Bherna Greaves X,Bherna Greaves X,mhxx-dex-1.0,8
+2972,Bherna Leggings X,Bherna Leggings X,mhxx-dex-1.0,8
+2977,Hunting Greaves X,Hunting Greaves X,mhxx-dex-1.0,8
+2982,Hunting Leggings X,Hunting Leggings X,mhxx-dex-1.0,8
+2987,Mafumofu Boots X,Mafumofu Boots X,mhxx-dex-1.0,8
+2992,Mafumofu Tights X,Mafumofu Tights X,mhxx-dex-1.0,8
+2997,Yukumo Sky Hakama Goku,Yukumo Sky Hakama Goku,mhxx-dex-1.0,8
+3002,Yukumo Land Hakama Goku,Yukumo Land Hakama Goku,mhxx-dex-1.0,8
+3006,Posh Bath Sandals,Posh Bath Sandals,mhxx-dex-1.0,8
+3009,Loc Lac Boots X,Loc Lac Boots X,mhxx-dex-1.0,8
+3014,Hunter's Greaves X,Hunter's Greaves X,mhxx-dex-1.0,8
+3019,Hunter's Leggings X,Hunter's Leggings X,mhxx-dex-1.0,8
+3024,Hunter's Greaves XR,Hunter's Greaves XR,mhxx-dex-1.0,8
+3029,Hunter's Leggings XR,Hunter's Leggings XR,mhxx-dex-1.0,8
+3034,Bone Greaves X,Bone Greaves X,mhxx-dex-1.0,8
+3039,Bone Leggings X,Bone Leggings X,mhxx-dex-1.0,8
+3040,Silver Boots X,Silver Boots X,mhxx-dex-1.0,8
+3041,Metal Feet X,Metal Feet X,mhxx-dex-1.0,8
+3043,Trapper's Greaves X,Trapper's Greaves X,mhxx-dex-1.0,8
+3045,Trapper's Boots X,Trapper's Boots X,mhxx-dex-1.0,8
+3051,Maccao Shinguards X,Maccao Shinguards X,mhxx-dex-1.0,8
+3053,Maccao Boots X,Maccao Boots X,mhxx-dex-1.0,8
+3055,Jaggi Shinguards X,Jaggi Shinguards X,mhxx-dex-1.0,8
+3057,Jaggi Boots X,Jaggi Boots X,mhxx-dex-1.0,8
+3062,Melahoa Roots X,Melahoa Roots X,mhxx-dex-1.0,8
+3067,Melahoa Taproot X,Melahoa Taproot X,mhxx-dex-1.0,8
+3072,Melahoa Roots Z,Melahoa Roots Z,mhxx-dex-1.0,8
+3077,Melahoa Taproot Z,Melahoa Taproot Z,mhxx-dex-1.0,8
+3082,Makluva Pants X,Makluva Pants X,mhxx-dex-1.0,8
+3087,Makluva Leggings X,Makluva Leggings X,mhxx-dex-1.0,8
+3092,Makluva Pants Z,Makluva Pants Z,mhxx-dex-1.0,8
+3097,Makluva Leggings Z,Makluva Leggings Z,mhxx-dex-1.0,8
+3102,Obituary Crura X,Obituary Crura X,mhxx-dex-1.0,8
+3107,Obituary Tarsi X,Obituary Tarsi X,mhxx-dex-1.0,8
+3112,Butterfly Crura X,Butterfly Crura X,mhxx-dex-1.0,8
+3117,Butterfly Tarsi X,Butterfly Tarsi X,mhxx-dex-1.0,8
+3122,Death Stench Heel X,Death Stench Heel X,mhxx-dex-1.0,8
+3127,Death Stench March X,Death Stench March X,mhxx-dex-1.0,8
+3132,Death Stench Heel XR,Death Stench Heel XR,mhxx-dex-1.0,8
+3137,Death Stench March XR,Death Stench March XR,mhxx-dex-1.0,8
+3146,Mosgharl Roots X,Mosgharl Roots X,mhxx-dex-1.0,8
+3151,Mosgharl Radicles X,Mosgharl Radicles X,mhxx-dex-1.0,8
+3156,Edel Roots X,Edel Roots X,mhxx-dex-1.0,8
+3161,Edel Radicles X,Edel Radicles X,mhxx-dex-1.0,8
+3166,Skalda Crura X,Skalda Crura X,mhxx-dex-1.0,8
+3171,Skalda Tarsi X,Skalda Tarsi X,mhxx-dex-1.0,8
+3176,Spio Crura X,Spio Crura X,mhxx-dex-1.0,8
+3181,Spio Tarsi X,Spio Tarsi X,mhxx-dex-1.0,8
+3186,Alloy Greaves X,Alloy Greaves X,mhxx-dex-1.0,8
+3191,Alloy Leggings X,Alloy Leggings X,mhxx-dex-1.0,8
+3196,Alloy Greaves XR,Alloy Greaves XR,mhxx-dex-1.0,8
+3201,Alloy Leggings XR,Alloy Leggings XR,mhxx-dex-1.0,8
+3206,Battle Greaves X,Battle Greaves X,mhxx-dex-1.0,8
+3211,Battle Leggings X,Battle Leggings X,mhxx-dex-1.0,8
+3216,Ingot Greaves X,Ingot Greaves X,mhxx-dex-1.0,8
+3221,Ingot Leggings X,Ingot Leggings X,mhxx-dex-1.0,8
+3226,Ingot Greaves XR,Ingot Greaves XR,mhxx-dex-1.0,8
+3231,Ingot Leggings XR,Ingot Leggings XR,mhxx-dex-1.0,8
+3236,High Metal Greaves X,High Metal Greaves X,mhxx-dex-1.0,8
+3241,Hi Metal Leggings X,Hi Metal Leggings X,mhxx-dex-1.0,8
+3246,High Metal Greaves Z,High Metal Greaves Z,mhxx-dex-1.0,8
+3251,Hi Metal Leggings Z,Hi Metal Leggings Z,mhxx-dex-1.0,8
+3252,Pink Metal Boots X,Pink Metal Boots X,mhxx-dex-1.0,8
+3253,Pink Metal Feet X,Pink Metal Feet X,mhxx-dex-1.0,8
+3258,Lobster Boots X,Lobster Boots X,mhxx-dex-1.0,8
+3263,Lobster Feet X,Lobster Feet X,mhxx-dex-1.0,8
+3268,Vaik Greaves X,Vaik Greaves X,mhxx-dex-1.0,8
+3273,Vaik Leggings X,Vaik Leggings X,mhxx-dex-1.0,8
+3284,Patissier's Boots X,Patissier's Boots X,mhxx-dex-1.0,8
+3289,Patissier's Footwear X,Patissier's Footwear X,mhxx-dex-1.0,8
+3294,Gourmew Boots X,Gourmew Boots X,mhxx-dex-1.0,8
+3299,Gourmew Paws X,Gourmew Paws X,mhxx-dex-1.0,8
+3304,Aelucanth Crura X,Aelucanth Crura X,mhxx-dex-1.0,8
+3309,Aelucanth Tarsi X,Aelucanth Tarsi X,mhxx-dex-1.0,8
+3314,Rhopessa Crura X,Rhopessa Crura X,mhxx-dex-1.0,8
+3319,Rhopessa Tarsi X,Rhopessa Tarsi X,mhxx-dex-1.0,8
+3324,Lecturer's Boots X,Lecturer's Boots X,mhxx-dex-1.0,8
+3329,Lecturer's Footwear X,Lecturer's Footwear X,mhxx-dex-1.0,8
+3334,Derring Greaves X,Derring Greaves X,mhxx-dex-1.0,8
+3339,Derring Leggings X,Derring Leggings X,mhxx-dex-1.0,8
+3344,Artian Greaves X,Artian Greaves X,mhxx-dex-1.0,8
+3349,Artian Leggings X,Artian Leggings X,mhxx-dex-1.0,8
+3354,Artian Greaves XR,Artian Greaves XR,mhxx-dex-1.0,8
+3359,Artian Leggings XR,Artian Leggings XR,mhxx-dex-1.0,8
+3364,Maiden's Socks X,Maiden's Socks X,mhxx-dex-1.0,8
+3369,French Maid Tights X,French Maid Tights X,mhxx-dex-1.0,8
+3374,Dianthus Masapants,Dianthus Masapants,mhxx-dex-1.0,8
+3379,Campanile Masapants,Campanile Masapants,mhxx-dex-1.0,8
+3384,Hawkboots X,Hawkboots X,mhxx-dex-1.0,8
+3389,Hawkfeet X,Hawkfeet X,mhxx-dex-1.0,8
+3394,Scholarly Boots X,Scholarly Boots X,mhxx-dex-1.0,8
+3399,Scholarly Tights X,Scholarly Tights X,mhxx-dex-1.0,8
+3404,Dober Greaves X,Dober Greaves X,mhxx-dex-1.0,8
+3409,Dober Leggings X,Dober Leggings X,mhxx-dex-1.0,8
+3414,Scholar's Socks X,Scholar's Socks X,mhxx-dex-1.0,8
+3419,Scholar's Sandals X,Scholar's Sandals X,mhxx-dex-1.0,8
+3424,Sailor Socks X,Sailor Socks X,mhxx-dex-1.0,8
+3429,Sailor Sandals X,Sailor Sandals X,mhxx-dex-1.0,8
+3434,Mariner Socks X,Mariner Socks X,mhxx-dex-1.0,8
+3439,Mariner Sandals X,Mariner Sandals X,mhxx-dex-1.0,8
+3448,Jaggi Greaves X,Jaggi Greaves X,mhxx-dex-1.0,8
+3453,Jaggi Leggings X,Jaggi Leggings X,mhxx-dex-1.0,8
+3459,Maccao Greaves X,Maccao Greaves X,mhxx-dex-1.0,8
+3464,Maccao Leggings X,Maccao Leggings X,mhxx-dex-1.0,8
+3469,Velociprey Greaves X,Velociprey Greaves X,mhxx-dex-1.0,8
+3474,Velociprey Leggings X,Velociprey Leggings X,mhxx-dex-1.0,8
+3479,Giaprey Greaves X,Giaprey Greaves X,mhxx-dex-1.0,8
+3484,Giaprey Leggings X,Giaprey Leggings X,mhxx-dex-1.0,8
+3489,Genprey Greaves X,Genprey Greaves X,mhxx-dex-1.0,8
+3494,Genprey Leggings X,Genprey Leggings X,mhxx-dex-1.0,8
+3499,Genprey Greaves GX,Genprey Greaves GX,mhxx-dex-1.0,8
+3504,Genprey Leggings GX,Genprey Leggings GX,mhxx-dex-1.0,8
+3509,Vespoid Greaves X,Vespoid Greaves X,mhxx-dex-1.0,8
+3514,Vespoid Leggings X,Vespoid Leggings X,mhxx-dex-1.0,8
+3519,Vespoid Greaves GX,Vespoid Greaves GX,mhxx-dex-1.0,8
+3524,Vespoid Leggings GX,Vespoid Leggings GX,mhxx-dex-1.0,8
+3529,Hornetaur Greaves X,Hornetaur Greaves X,mhxx-dex-1.0,8
+3534,Hornetaur Leggings X,Hornetaur Leggings X,mhxx-dex-1.0,8
+3539,Hornetaur Greaves GX,Hornetaur Greaves GX,mhxx-dex-1.0,8
+3544,Hornetaur Leggings GX,Hornetaur Leggings GX,mhxx-dex-1.0,8
+3549,Hornetaur Greaves XR,Hornetaur Greaves XR,mhxx-dex-1.0,8
+3554,Hornetaur Leggings XR,Hornetaur Leggings XR,mhxx-dex-1.0,8
+3559,Bnahabra Boots X,Bnahabra Boots X,mhxx-dex-1.0,8
+3564,Bnahabra Pants X,Bnahabra Pants X,mhxx-dex-1.0,8
+3573,Mosswine Feet X,Mosswine Feet X,mhxx-dex-1.0,8
+3578,Rhenoplos Greaves X,Rhenoplos Greaves X,mhxx-dex-1.0,8
+3583,Rhenoplos Leggings X,Rhenoplos Leggings X,mhxx-dex-1.0,8
+3588,Bulldrome Greaves X,Bulldrome Greaves X,mhxx-dex-1.0,8
+3593,Bulldrome Leggings X,Bulldrome Leggings X,mhxx-dex-1.0,8
+3599,Arzuros Greaves X,Arzuros Greaves X,mhxx-dex-1.0,8
+3604,Arzuros Leggings X,Arzuros Leggings X,mhxx-dex-1.0,8
+3609,Cephalos Greaves X,Cephalos Greaves X,mhxx-dex-1.0,8
+3614,Cephalos Leggings X,Cephalos Leggings X,mhxx-dex-1.0,8
+3619,Cephalos Greaves GX,Cephalos Greaves GX,mhxx-dex-1.0,8
+3624,Cephalos Leggings GX,Cephalos Leggings GX,mhxx-dex-1.0,8
+3627,Droth Greaves X,Droth Greaves X,mhxx-dex-1.0,8
+3630,Droth Leggings X,Droth Leggings X,mhxx-dex-1.0,8
+3648,Velociprey Feet X,Velociprey Feet X,mhxx-dex-1.0,8
+3652,Velociprey Tights X,Velociprey Tights X,mhxx-dex-1.0,8
+3656,Giaprey Feet X,Giaprey Feet X,mhxx-dex-1.0,8
+3660,Giaprey Tights X,Giaprey Tights X,mhxx-dex-1.0,8
+3664,Genprey Feet X,Genprey Feet X,mhxx-dex-1.0,8
+3668,Genprey Tights X,Genprey Tights X,mhxx-dex-1.0,8
+3672,Ioprey Feet X,Ioprey Feet X,mhxx-dex-1.0,8
+3676,Ioprey Tights X,Ioprey Tights X,mhxx-dex-1.0,8
+3681,Remobra Feet X,Remobra Feet X,mhxx-dex-1.0,8
+3686,Remobra Tights X,Remobra Tights X,mhxx-dex-1.0,8
+3691,Ioprey Greaves X,Ioprey Greaves X,mhxx-dex-1.0,8
+3696,Ioprey Leggings X,Ioprey Leggings X,mhxx-dex-1.0,8
+3701,Ioprey Greaves GX,Ioprey Greaves GX,mhxx-dex-1.0,8
+3706,Ioprey Leggings GX,Ioprey Leggings GX,mhxx-dex-1.0,8
+3711,Kut-Ku Greaves X,Kut-Ku Greaves X,mhxx-dex-1.0,8
+3716,Kut-Ku Leggings X,Kut-Ku Leggings X,mhxx-dex-1.0,8
+3721,Kecha Greaves X,Kecha Greaves X,mhxx-dex-1.0,8
+3726,Kecha Leggings X,Kecha Leggings X,mhxx-dex-1.0,8
+3731,Lagombi Greaves X,Lagombi Greaves X,mhxx-dex-1.0,8
+3736,Lagombi Leggings X,Lagombi Leggings X,mhxx-dex-1.0,8
+3741,Gypceros Greaves X,Gypceros Greaves X,mhxx-dex-1.0,8
+3746,Gypceros Leggings X,Gypceros Leggings X,mhxx-dex-1.0,8
+3751,Gypceros Greaves XR,Gypceros Greaves XR,mhxx-dex-1.0,8
+3756,Gypceros Leggings XR,Gypceros Leggings XR,mhxx-dex-1.0,8
+3761,Tetsucabra Greaves X,Tetsucabra Greaves X,mhxx-dex-1.0,8
+3766,Tetsucabra Leggings X,Tetsucabra Leggings X,mhxx-dex-1.0,8
+3771,Hermitaur Greaves X,Hermitaur Greaves X,mhxx-dex-1.0,8
+3776,Hermitaur Leggings X,Hermitaur Leggings X,mhxx-dex-1.0,8
+3781,Hermitaur Greaves GX,Hermitaur Greaves GX,mhxx-dex-1.0,8
+3786,Hermitaur Leggings GX,Hermitaur Leggings GX,mhxx-dex-1.0,8
+3791,Hermitaur Greaves XR,Hermitaur Greaves XR,mhxx-dex-1.0,8
+3796,Hermitaur Leggings XR,Hermitaur Leggings XR,mhxx-dex-1.0,8
+3801,Volvidon Greaves X,Volvidon Greaves X,mhxx-dex-1.0,8
+3806,Volvidon Leggings X,Volvidon Leggings X,mhxx-dex-1.0,8
+3811,Conga Greaves X,Conga Greaves X,mhxx-dex-1.0,8
+3816,Conga Leggings X,Conga Leggings X,mhxx-dex-1.0,8
+3821,Conga Greaves GX,Conga Greaves GX,mhxx-dex-1.0,8
+3826,Conga Leggings GX,Conga Leggings GX,mhxx-dex-1.0,8
+3831,Ludroth Greaves X,Ludroth Greaves X,mhxx-dex-1.0,8
+3836,Ludroth Leggings X,Ludroth Leggings X,mhxx-dex-1.0,8
+3841,Ludroth Greaves XR,Ludroth Greaves XR,mhxx-dex-1.0,8
+3846,Ludroth Leggings XR,Ludroth Leggings XR,mhxx-dex-1.0,8
+3851,Barroth Greaves X,Barroth Greaves X,mhxx-dex-1.0,8
+3856,Barroth Leggings X,Barroth Leggings X,mhxx-dex-1.0,8
+3861,Basarios Greaves X,Basarios Greaves X,mhxx-dex-1.0,8
+3866,Basarios Leggings X,Basarios Leggings X,mhxx-dex-1.0,8
+3871,Malfestio Greaves X,Malfestio Greaves X,mhxx-dex-1.0,8
+3876,Malfestio Leggings X,Malfestio Leggings X,mhxx-dex-1.0,8
+3881,Zamtrios Greaves X,Zamtrios Greaves X,mhxx-dex-1.0,8
+3886,Zamtrios Leggings X,Zamtrios Leggings X,mhxx-dex-1.0,8
+3891,Khezu Greaves X,Khezu Greaves X,mhxx-dex-1.0,8
+3896,Khezu Leggings X,Khezu Leggings X,mhxx-dex-1.0,8
+3901,Khezu Greaves XR,Khezu Greaves XR,mhxx-dex-1.0,8
+3906,Khezu Leggings XR,Khezu Leggings XR,mhxx-dex-1.0,8
+3911,Nerscylla Greaves X,Nerscylla Greaves X,mhxx-dex-1.0,8
+3916,Nerscylla Leggings X,Nerscylla Leggings X,mhxx-dex-1.0,8
+3921,Rathian Greaves X,Rathian Greaves X,mhxx-dex-1.0,8
+3926,Rathian Leggings X,Rathian Leggings X,mhxx-dex-1.0,8
+3931,Rathian Greaves GX,Rathian Greaves GX,mhxx-dex-1.0,8
+3936,Rathian Leggings GX,Rathian Leggings GX,mhxx-dex-1.0,8
+3941,Rathian Greaves XR,Rathian Greaves XR,mhxx-dex-1.0,8
+3946,Rathian Leggings XR,Rathian Leggings XR,mhxx-dex-1.0,8
+3951,Nibelsnarf Greaves X,Nibelsnarf Greaves X,mhxx-dex-1.0,8
+3956,Nibelsnarf Leggings X,Nibelsnarf Leggings X,mhxx-dex-1.0,8
+3960,Plesioth Greaves X,Plesioth Greaves X,mhxx-dex-1.0,8
+3965,Plesioth Leggings X,Plesioth Leggings X,mhxx-dex-1.0,8
+3970,Blango Greaves X,Blango Greaves X,mhxx-dex-1.0,8
+3975,Blango Leggings X,Blango Leggings X,mhxx-dex-1.0,8
+3980,Blango Greaves GX,Blango Greaves GX,mhxx-dex-1.0,8
+3985,Blango Leggings GX,Blango Leggings GX,mhxx-dex-1.0,8
+3990,Lava Greaves X,Lava Greaves X,mhxx-dex-1.0,8
+3995,Lava Leggings X,Lava Leggings X,mhxx-dex-1.0,8
+4000,Lavasioth Greaves GX,Lavasioth Greaves GX,mhxx-dex-1.0,8
+4005,Lavasioth Leggings GX,Lavasioth Leggings GX,mhxx-dex-1.0,8
+4010,Ceanataur Greaves X,Ceanataur Greaves X,mhxx-dex-1.0,8
+4015,Ceanataur Leggings X,Ceanataur Leggings X,mhxx-dex-1.0,8
+4020,Ceanataur Greaves GX,Ceanataur Greaves GX,mhxx-dex-1.0,8
+4025,Ceanataur Leggings GX,Ceanataur Leggings GX,mhxx-dex-1.0,8
+4030,Ceanataur Greaves XR,Ceanataur Greaves XR,mhxx-dex-1.0,8
+4035,Ceanataur Leggings XR,Ceanataur Leggings XR,mhxx-dex-1.0,8
+4040,Najarala Greaves X,Najarala Greaves X,mhxx-dex-1.0,8
+4045,Najarala Leggings X,Najarala Leggings X,mhxx-dex-1.0,8
+4050,Nargacuga Greaves X,Nargacuga Greaves X,mhxx-dex-1.0,8
+4055,Nargacuga Leggings X,Nargacuga Leggings X,mhxx-dex-1.0,8
+4060,Garuga Greaves X,Garuga Greaves X,mhxx-dex-1.0,8
+4065,Garuga Leggings X,Garuga Leggings X,mhxx-dex-1.0,8
+4071,Uragaan Greaves X,Uragaan Greaves X,mhxx-dex-1.0,8
+4076,Uragaan Leggings X,Uragaan Leggings X,mhxx-dex-1.0,8
+4080,GX Kita Star Hakama,GX Kita Star Hakama,mhxx-dex-1.0,8
+4084,GX Umi Ocean Hakama,GX Umi Ocean Hakama,mhxx-dex-1.0,8
+4089,G. Knight Boots X,G. Knight Boots X,mhxx-dex-1.0,8
+4094,G. Knight Tights X,G. Knight Tights X,mhxx-dex-1.0,8
+4099,Guild Bard Boots X,Guild Bard Boots X,mhxx-dex-1.0,8
+4104,Guild Bard Gaiters X,Guild Bard Gaiters X,mhxx-dex-1.0,8
+4105,Dark Metal Boots X,Dark Metal Boots X,mhxx-dex-1.0,8
+4106,Dark Metal Feet X,Dark Metal Feet X,mhxx-dex-1.0,8
+4108,Chrome Metal Boots X,Chrome Metal Boots X,mhxx-dex-1.0,8
+4110,Chrome Metal Feet X,Chrome Metal Feet X,mhxx-dex-1.0,8
+4116,Helper Socks X,Helper Socks X,mhxx-dex-1.0,9
+4121,Healer Socks X,Healer Socks X,mhxx-dex-1.0,9
+4126,Helper Socks Z,Helper Socks Z,mhxx-dex-1.0,9
+4131,Healer Socks Z,Healer Socks Z,mhxx-dex-1.0,9
+4136,Ancient Boots X,Ancient Boots X,mhxx-dex-1.0,9
+4141,Ancient Feet X,Ancient Feet X,mhxx-dex-1.0,9
+4146,Ace Greaves X,Ace Greaves X,mhxx-dex-1.0,9
+4151,Ace Leggings X,Ace Leggings X,mhxx-dex-1.0,9
+4156,Sororal Greaves X,Sororal Greaves X,mhxx-dex-1.0,9
+4161,Sororal Leggings X,Sororal Leggings X,mhxx-dex-1.0,9
+4166,Strider's Espadrilles,Strider's Espadrilles,mhxx-dex-1.0,9
+4171,Deadeye's Espadrilles,Deadeye's Espadrilles,mhxx-dex-1.0,9
+4176,Shinobi Heaven Boots Goku,Shinobi Heaven Boots Goku,mhxx-dex-1.0,9
+4181,Shinobi Land Boots Goku,Shinobi Land Boots Goku,mhxx-dex-1.0,9
+4186,Master's Greaves X,Master's Greaves X,mhxx-dex-1.0,9
+4191,Master's Leggings X,Master's Leggings X,mhxx-dex-1.0,9
+4196,Grand Toka Gusoku,Grand Toka Gusoku,mhxx-dex-1.0,9
+4201,Grand Mitsuaoi Gusoku,Grand Mitsuaoi Gusoku,mhxx-dex-1.0,9
+4206,Yaksha Boots,Yaksha Boots,mhxx-dex-1.0,9
+4211,Carnage Boots,Carnage Boots,mhxx-dex-1.0,9
+4216,Helios Greaves X,Helios Greaves X,mhxx-dex-1.0,9
+4221,Helios Leggings X,Helios Leggings X,mhxx-dex-1.0,9
+4226,Selene Greaves X,Selene Greaves X,mhxx-dex-1.0,9
+4231,Selene Leggings X,Selene Leggings X,mhxx-dex-1.0,9
+4236,Wisdom Boots X,Wisdom Boots X,mhxx-dex-1.0,9
+4241,Wisdom Feet X,Wisdom Feet X,mhxx-dex-1.0,9
+4246,Research Boots,Research Boots,mhxx-dex-1.0,9
+4251,Research Tights,Research Tights,mhxx-dex-1.0,9
+4256,Cheerful Boots X,Cheerful Boots X,mhxx-dex-1.0,9
+4261,Cheerful Feet X,Cheerful Feet X,mhxx-dex-1.0,9
+4266,Barioth Greaves X,Barioth Greaves X,mhxx-dex-1.0,9
+4271,Barioth Leggings X,Barioth Leggings X,mhxx-dex-1.0,9
+4276,Seltas Greaves X,Seltas Greaves X,mhxx-dex-1.0,9
+4281,Seltas Leggings X,Seltas Leggings X,mhxx-dex-1.0,9
+4286,Rathalos Greaves X,Rathalos Greaves X,mhxx-dex-1.0,9
+4291,Rathalos Leggings X,Rathalos Leggings X,mhxx-dex-1.0,9
+4296,Rathalos Greaves GX,Rathalos Greaves GX,mhxx-dex-1.0,9
+4301,Rathalos Leggings GX,Rathalos Leggings GX,mhxx-dex-1.0,9
+4306,Rathalos Greaves XR,Rathalos Greaves XR,mhxx-dex-1.0,9
+4311,Rathalos Leggings XR,Rathalos Leggings XR,mhxx-dex-1.0,9
+4316,Lagiacrus Greaves X,Lagiacrus Greaves X,mhxx-dex-1.0,9
+4321,Lagiacrus Leggings X,Lagiacrus Leggings X,mhxx-dex-1.0,9
+4326,Lagiacrus Greaves XR,Lagiacrus Greaves XR,mhxx-dex-1.0,9
+4331,Lagiacrus Leggings XR,Lagiacrus Leggings XR,mhxx-dex-1.0,9
+4336,Zinogre Greaves X,Zinogre Greaves X,mhxx-dex-1.0,9
+4341,Zinogre Leggings X,Zinogre Leggings X,mhxx-dex-1.0,9
+4346,Zinogre Greaves GX,Zinogre Greaves GX,mhxx-dex-1.0,9
+4351,Zinogre Leggings GX,Zinogre Leggings GX,mhxx-dex-1.0,9
+4356,Gravios Greaves X,Gravios Greaves X,mhxx-dex-1.0,9
+4361,Gravios Leggings X,Gravios Leggings X,mhxx-dex-1.0,9
+4366,Mizutsune Greaves X,Mizutsune Greaves X,mhxx-dex-1.0,9
+4371,Mizutsune Leggings X,Mizutsune Leggings X,mhxx-dex-1.0,9
+4376,Astalos Greaves X,Astalos Greaves X,mhxx-dex-1.0,9
+4381,Astalos Leggings X,Astalos Leggings X,mhxx-dex-1.0,9
+4386,Gammoth Greaves X,Gammoth Greaves X,mhxx-dex-1.0,9
+4391,Gammoth Leggings X,Gammoth Leggings X,mhxx-dex-1.0,9
+4396,Glavenus Greaves X,Glavenus Greaves X,mhxx-dex-1.0,9
+4401,Glavenus Leggings X,Glavenus Leggings X,mhxx-dex-1.0,9
+4406,Agnaktor Greaves X,Agnaktor Greaves X,mhxx-dex-1.0,9
+4411,Agnaktor Leggings X,Agnaktor Leggings X,mhxx-dex-1.0,9
+4416,Gore Greaves X,Gore Greaves X,mhxx-dex-1.0,9
+4421,Gore Leggings X,Gore Leggings X,mhxx-dex-1.0,9
+4426,Gore Greaves GX,Gore Greaves GX,mhxx-dex-1.0,9
+4431,Gore Leggings GX,Gore Leggings GX,mhxx-dex-1.0,9
+4436,Gore Greaves XR,Gore Greaves XR,mhxx-dex-1.0,9
+4441,Gore Leggings XR,Gore Leggings XR,mhxx-dex-1.0,9
+4446,Regios Greaves X,Regios Greaves X,mhxx-dex-1.0,9
+4451,Regios Leggings X,Regios Leggings X,mhxx-dex-1.0,9
+4456,Duramboros Greaves X,Duramboros Greaves X,mhxx-dex-1.0,9
+4461,Duramboros Leggings X,Duramboros Leggings X,mhxx-dex-1.0,9
+4466,Tigrex Greaves X,Tigrex Greaves X,mhxx-dex-1.0,9
+4471,Tigrex Leggings X,Tigrex Leggings X,mhxx-dex-1.0,9
+4476,Tigrex Greaves GX,Tigrex Greaves GX,mhxx-dex-1.0,9
+4481,Tigrex Leggings GX,Tigrex Leggings GX,mhxx-dex-1.0,9
+4486,Tigrex Greaves XR,Tigrex Greaves XR,mhxx-dex-1.0,9
+4491,Tigrex Leggings XR,Tigrex Leggings XR,mhxx-dex-1.0,9
+4496,Diablos Greaves X,Diablos Greaves X,mhxx-dex-1.0,9
+4501,Diablos Leggings X,Diablos Leggings X,mhxx-dex-1.0,9
+4506,Diablos Greaves XR,Diablos Greaves XR,mhxx-dex-1.0,9
+4511,Diablos Leggings XR,Diablos Leggings XR,mhxx-dex-1.0,9
+4516,Kirin Leg Guards X,Kirin Leg Guards X,mhxx-dex-1.0,9
+4521,Kirin Boots X,Kirin Boots X,mhxx-dex-1.0,9
+4526,Kirin Leg Guards XR,Kirin Leg Guards XR,mhxx-dex-1.0,9
+4531,Kirin Boots XR,Kirin Boots XR,mhxx-dex-1.0,9
+4536,Brachydios Greaves X,Brachydios Greaves X,mhxx-dex-1.0,9
+4541,Brachydios Leggings X,Brachydios Leggings X,mhxx-dex-1.0,9
+4546,Brachydios Greaves GX,Brachydios Greaves GX,mhxx-dex-1.0,9
+4551,Brachydios Leggings GX,Brachydios Leggings GX,mhxx-dex-1.0,9
+4556,Arc Greaves X,Arc Greaves X,mhxx-dex-1.0,9
+4561,Arc Leggings X,Arc Leggings X,mhxx-dex-1.0,9
+4566,Storge Greaves X,Storge Greaves X,mhxx-dex-1.0,9
+4571,Storge Leggings X,Storge Leggings X,mhxx-dex-1.0,9
+4576,Arc Greaves GX,Arc Greaves GX,mhxx-dex-1.0,9
+4581,Arc Leggings GX,Arc Leggings GX,mhxx-dex-1.0,9
+4586,Storge Greaves GX,Storge Greaves GX,mhxx-dex-1.0,9
+4591,Storge Leggings GX,Storge Leggings GX,mhxx-dex-1.0,9
+4596,Arc Greaves XR,Arc Greaves XR,mhxx-dex-1.0,9
+4601,Arc Leggings XR,Arc Leggings XR,mhxx-dex-1.0,9
+4606,Storge Greaves XR,Storge Greaves XR,mhxx-dex-1.0,9
+4611,Storge Leggings XR,Storge Leggings XR,mhxx-dex-1.0,9
+4616,Valstrax Greaves X,Valstrax Greaves X,mhxx-dex-1.0,9
+4621,Valstrax Leggings X,Valstrax Leggings X,mhxx-dex-1.0,9
+4626,Grand God's Peer Feet,Grand God's Peer Feet,mhxx-dex-1.0,9
+4631,Grand Hermit Feet,Grand Hermit Feet,mhxx-dex-1.0,9
+4636,Vangis Greaves X,Vangis Greaves X,mhxx-dex-1.0,9
+4641,Vangis Leggings X,Vangis Leggings X,mhxx-dex-1.0,9
+4646,Chaos Greaves,Chaos Greaves,mhxx-dex-1.0,9
+4651,Chaos Leggings,Chaos Leggings,mhxx-dex-1.0,9
+4656,Nephilim Greaves,Nephilim Greaves,mhxx-dex-1.0,9
+4661,Nephilim Leggings,Nephilim Leggings,mhxx-dex-1.0,9
+4666,Black Belt Greaves X,Black Belt Greaves X,mhxx-dex-1.0,9
+4671,Black Belt Leggings X,Black Belt Leggings X,mhxx-dex-1.0,9
+4676,Guardian Boots X,Guardian Boots X,mhxx-dex-1.0,9
+4681,Guardian Pants X,Guardian Pants X,mhxx-dex-1.0,9
+4686,Guardian Boots Z,Guardian Boots Z,mhxx-dex-1.0,9
+4691,Guardian Pants Z,Guardian Pants Z,mhxx-dex-1.0,9
+4696,Blue Guild Boots X,Blue Guild Boots X,mhxx-dex-1.0,9
+4701,Blue Guild Tights X,Blue Guild Tights X,mhxx-dex-1.0,9
+4706,Blue Guild Boots X,Blue Guild Boots X,mhxx-dex-1.0,9
+4711,Blue Guild Tights X,Blue Guild Tights X,mhxx-dex-1.0,9
+4716,Red Guild Boots X,Red Guild Boots X,mhxx-dex-1.0,9
+4721,Red Guild Tights X,Red Guild Tights X,mhxx-dex-1.0,9
+4726,Red Guild Boots X,Red Guild Boots X,mhxx-dex-1.0,9
+4731,Red Guild Tights X,Red Guild Tights X,mhxx-dex-1.0,9
+4736,Black Feet X,Black Feet X,mhxx-dex-1.0,9
+4741,Black Legs X,Black Legs X,mhxx-dex-1.0,9
+4746,Damascus Greaves X,Damascus Greaves X,mhxx-dex-1.0,9
+4751,Damascus Leggings X,Damascus Leggings X,mhxx-dex-1.0,9
+4756,Damascus Greaves XR,Damascus Greaves XR,mhxx-dex-1.0,9
+4761,Damascus Leggings XR,Damascus Leggings XR,mhxx-dex-1.0,9
+4768,Kaiserin Greaves,Kaiserin Greaves,mhxx-dex-1.0,9
+4773,Kaiserin Leggings,Kaiserin Leggings,mhxx-dex-1.0,9
+4778,Barmaid's Boots,Barmaid's Boots,mhxx-dex-1.0,9
+4783,Barmaid's Tights,Barmaid's Tights,mhxx-dex-1.0,9
+4788,Barman's Boots,Barman's Boots,mhxx-dex-1.0,9
+4793,Barman's Pants,Barman's Pants,mhxx-dex-1.0,9
+4804,Kushala Crus X,Kushala Crus X,mhxx-dex-1.0,10
+4809,Kushala Shank X,Kushala Shank X,mhxx-dex-1.0,10
+4814,Kushala Crus GX,Kushala Crus GX,mhxx-dex-1.0,10
+4819,Kushala Shank GX,Kushala Shank GX,mhxx-dex-1.0,10
+4824,Kushala Crus XR,Kushala Crus XR,mhxx-dex-1.0,10
+4829,Kushala Shank XR,Kushala Shank XR,mhxx-dex-1.0,10
+4834,Grand Mizuha Leg Wrap,Grand Mizuha Leg Wrap,mhxx-dex-1.0,10
+4839,Grand Cham Trousers,Grand Cham Trousers,mhxx-dex-1.0,10
+4844,Mizuha Gaiters GX,Mizuha Gaiters GX,mhxx-dex-1.0,10
+4849,Cham Trousers GX,Cham Trousers GX,mhxx-dex-1.0,10
+4854,Kaiser Greaves X,Kaiser Greaves X,mhxx-dex-1.0,10
+4859,Kaiser Leggings X,Kaiser Leggings X,mhxx-dex-1.0,10
+4864,Kaiser Greaves GX,Kaiser Greaves GX,mhxx-dex-1.0,10
+4869,Kaiser Leggings GX,Kaiser Leggings GX,mhxx-dex-1.0,10
+4874,Silver Solgreaves Z,Silver Solgreaves Z,mhxx-dex-1.0,10
+4879,Silver Solleggings Z,Silver Solleggings Z,mhxx-dex-1.0,10
+4884,GX Silver Solgreaves,GX Silver Solgreaves,mhxx-dex-1.0,10
+4889,GX Silver Solleggings,GX Silver Solleggings,mhxx-dex-1.0,10
+4894,Silver Solgreaves XR,Silver Solgreaves XR,mhxx-dex-1.0,10
+4899,Silver Solleggings XR,Silver Solleggings XR,mhxx-dex-1.0,10
+4904,Golden Lunegreaves Z,Golden Lunegreaves Z,mhxx-dex-1.0,10
+4909,Golden Luneleggings Z,Golden Luneleggings Z,mhxx-dex-1.0,10
+4914,GX Gold Lunegreaves,GX Gold Lunegreaves,mhxx-dex-1.0,10
+4919,GX Gold Luneleggings,GX Gold Luneleggings,mhxx-dex-1.0,10
+4924,Grand Divine Ire Hakama,Grand Divine Ire Hakama,mhxx-dex-1.0,10
+4929,Grand Mind Crusher Tabi,Grand Mind Crusher Tabi,mhxx-dex-1.0,10
+4934,Esurient Greaves Z,Esurient Greaves Z,mhxx-dex-1.0,10
+4939,Esurient Leggings Z,Esurient Leggings Z,mhxx-dex-1.0,10
+4944,Esurient Greaves XR,Esurient Greaves XR,mhxx-dex-1.0,10
+4949,Esurient Leggings XR,Esurient Leggings XR,mhxx-dex-1.0,10
+4954,Brachydium Greaves,Brachydium Greaves,mhxx-dex-1.0,10
+4959,Brachydium Leggings,Brachydium Leggings,mhxx-dex-1.0,10
+4964,Auroros Pants,Auroros Pants,mhxx-dex-1.0,10
+4969,Genesis Pants,Genesis Pants,mhxx-dex-1.0,10
+4974,Borealis Hakama,Borealis Hakama,mhxx-dex-1.0,10
+4979,Glyph Hakama,Glyph Hakama,mhxx-dex-1.0,10
+4984,Auroros Pants GX,Auroros Pants GX,mhxx-dex-1.0,10
+4989,Genesis Pants GX,Genesis Pants GX,mhxx-dex-1.0,10
+4994,Borealis Hakama GX,Borealis Hakama GX,mhxx-dex-1.0,10
+4999,Glyph Hakama GX,Glyph Hakama GX,mhxx-dex-1.0,10
+5004,Auroros Pants XR,Auroros Pants XR,mhxx-dex-1.0,10
+5009,Genesis Pants XR,Genesis Pants XR,mhxx-dex-1.0,10
+5014,Borealis Hakama XR,Borealis Hakama XR,mhxx-dex-1.0,10
+5019,Glyph Hakama XR,Glyph Hakama XR,mhxx-dex-1.0,10
+5024,Auroros Pants R,Auroros Pants R,mhxx-dex-1.0,10
+5029,Genesis Pants R,Genesis Pants R,mhxx-dex-1.0,10
+5034,Borealis Hakama R,Borealis Hakama R,mhxx-dex-1.0,10
+5039,Glyph Hakama R,Glyph Hakama R,mhxx-dex-1.0,10
+5044,Akantor Hessian X,Akantor Hessian X,mhxx-dex-1.0,10
+5049,Akantor Boots X,Akantor Boots X,mhxx-dex-1.0,10
+5054,Akantor Hessian XR,Akantor Hessian XR,mhxx-dex-1.0,10
+5059,Akantor Boots XR,Akantor Boots XR,mhxx-dex-1.0,10
+5064,Ukanlos Hessian X,Ukanlos Hessian X,mhxx-dex-1.0,10
+5069,Ukanlos Boots X,Ukanlos Boots X,mhxx-dex-1.0,10
+5074,Grand Tempest Hakama,Grand Tempest Hakama,mhxx-dex-1.0,10
+5079,Grand Welkin Hakama,Grand Welkin Hakama,mhxx-dex-1.0,10
+5084,Tempest Hakama XR,Tempest Hakama XR,mhxx-dex-1.0,10
+5089,Welkin Hakama XR,Welkin Hakama XR,mhxx-dex-1.0,10
+5094,Grand Skeletal Femur,Grand Skeletal Femur,mhxx-dex-1.0,10
+5099,Grand Decayed Femur,Grand Decayed Femur,mhxx-dex-1.0,10
+5104,Astral Boots X,Astral Boots X,mhxx-dex-1.0,10
+5109,Astral Feet X,Astral Feet X,mhxx-dex-1.0,10
+5114,Neset Boots,Neset Boots,mhxx-dex-1.0,10
+5119,Neset Feet,Neset Feet,mhxx-dex-1.0,10
+5124,Dragonfeet,Dragonfeet,mhxx-dex-1.0,10
+5129,Dragonlegs,Dragonlegs,mhxx-dex-1.0,10
+5134,Escadora Sheath X,Escadora Sheath X,mhxx-dex-1.0,10
+5139,Escadora Scala X,Escadora Scala X,mhxx-dex-1.0,10
+5144,Escadora Sheath XR,Escadora Sheath XR,mhxx-dex-1.0,10
+5149,Escadora Scala XR,Escadora Scala XR,mhxx-dex-1.0,10
+5154,Fatalis Crimsonfeet,Fatalis Crimsonfeet,mhxx-dex-1.0,10
+5159,Fatalis Crimsonlegs,Fatalis Crimsonlegs,mhxx-dex-1.0,10
+5164,GX Fatalis Crimsonfeet,GX Fatalis Crimsonfeet,mhxx-dex-1.0,10
+5169,GX Fatalis Crimsonlegs,GX Fatalis Crimsonlegs,mhxx-dex-1.0,10
+5174,Fatalis Crimsonfeet XR,Fatalis Crimsonfeet XR,mhxx-dex-1.0,10
+5179,Fatalis Crimsonlegs XR,Fatalis Crimsonlegs XR,mhxx-dex-1.0,10
+5184,Old Fatalis Feet,Old Fatalis Feet,mhxx-dex-1.0,10
+5189,Old Fatalis Legs,Old Fatalis Legs,mhxx-dex-1.0,10
+5194,GX Old Fatalis Feet,GX Old Fatalis Feet,mhxx-dex-1.0,10
+5199,GX Old Fatalis Legs,GX Old Fatalis Legs,mhxx-dex-1.0,10
+5204,Strange Greaves,Strange Greaves,mhxx-dex-1.0,5
+5209,Strange Leggings,Strange Leggings,mhxx-dex-1.0,5
+5214,Strange Greaves X,Strange Greaves X,mhxx-dex-1.0,8
+5219,Strange Leggings X,Strange Leggings X,mhxx-dex-1.0,8
+5224,Redhelm Greaves,Redhelm Greaves,mhxx-dex-1.0,11
+5229,Redhelm Leggings,Redhelm Leggings,mhxx-dex-1.0,11
+5234,Snowbaron Greaves,Snowbaron Greaves,mhxx-dex-1.0,11
+5239,Snowbaron Leggings,Snowbaron Leggings,mhxx-dex-1.0,11
+5244,Stonefist Greaves,Stonefist Greaves,mhxx-dex-1.0,11
+5249,Stonefist Leggings,Stonefist Leggings,mhxx-dex-1.0,11
+5254,Dreadqueen Greaves,Dreadqueen Greaves,mhxx-dex-1.0,11
+5259,Dreadqueen Leggings,Dreadqueen Leggings,mhxx-dex-1.0,11
+5264,Drilltusk Greaves,Drilltusk Greaves,mhxx-dex-1.0,11
+5269,Drilltusk Leggings,Drilltusk Leggings,mhxx-dex-1.0,11
+5274,Silverwind Greaves,Silverwind Greaves,mhxx-dex-1.0,11
+5279,Silverwind Leggings,Silverwind Leggings,mhxx-dex-1.0,11
+5284,Crystalbeard Greaves,Crystalbeard Greaves,mhxx-dex-1.0,11
+5289,Crystalbeard Leggings,Crystalbeard Leggings,mhxx-dex-1.0,11
+5294,Deadeye Greaves,Deadeye Greaves,mhxx-dex-1.0,11
+5299,Deadeye Leggings,Deadeye Leggings,mhxx-dex-1.0,11
+5304,Dreadking Greaves,Dreadking Greaves,mhxx-dex-1.0,11
+5309,Dreadking Leggings,Dreadking Leggings,mhxx-dex-1.0,11
+5314,Thunderlord Greaves,Thunderlord Greaves,mhxx-dex-1.0,11
+5319,Thunderlord Leggings,Thunderlord Leggings,mhxx-dex-1.0,11
+5324,Grimclaw Greaves,Grimclaw Greaves,mhxx-dex-1.0,11
+5329,Grimclaw Leggings,Grimclaw Leggings,mhxx-dex-1.0,11
+5334,Hellblade Greaves,Hellblade Greaves,mhxx-dex-1.0,11
+5339,Hellblade Leggings,Hellblade Leggings,mhxx-dex-1.0,11
+5344,Nightcloak Greaves,Nightcloak Greaves,mhxx-dex-1.0,11
+5349,Nightcloak Leggings,Nightcloak Leggings,mhxx-dex-1.0,11
+5354,Rustrazor Greaves,Rustrazor Greaves,mhxx-dex-1.0,11
+5359,Rustrazor Leggings,Rustrazor Leggings,mhxx-dex-1.0,11
+5364,Soulseer Greaves,Soulseer Greaves,mhxx-dex-1.0,11
+5369,Soulseer Leggings,Soulseer Leggings,mhxx-dex-1.0,11
+5374,Boltreaver Greaves,Boltreaver Greaves,mhxx-dex-1.0,11
+5379,Boltreaver Leggings,Boltreaver Leggings,mhxx-dex-1.0,11
+5384,Elderfrost Greaves,Elderfrost Greaves,mhxx-dex-1.0,11
+5389,Elderfrost Leggings,Elderfrost Leggings,mhxx-dex-1.0,11
+5394,Bloodbath Greaves,Bloodbath Greaves,mhxx-dex-1.0,11
+5399,Bloodbath Leggings,Bloodbath Leggings,mhxx-dex-1.0,11
+5404,[JP] Promising Sabatons,[JP] Promising Sabatons,mhxx-dex-1.0,3
+5409,[JP] Halcyon Sabatons,[JP] Halcyon Sabatons,mhxx-dex-1.0,3
+5414,[JP] Lucid Pleats,[JP] Lucid Pleats,mhxx-dex-1.0,3
+5419,[JP] Dreamy Pleats,[JP] Dreamy Pleats,mhxx-dex-1.0,3
+5424,[JP] Arcfire Hakama,[JP] Arcfire Hakama,mhxx-dex-1.0,3
+5429,[JP] Bonfire Hakama,[JP] Bonfire Hakama,mhxx-dex-1.0,3
+5434,[JP] Waka Hakama,[JP] Waka Hakama,mhxx-dex-1.0,3
+5439,[JP] Wagaku Hakama,[JP] Wagaku Hakama,mhxx-dex-1.0,3
+5443,[JP] Fake Tama Legs,[JP] Fake Tama Legs,mhxx-dex-1.0,3
+5447,[JP] Fake Tama Legs Suit,[JP] Fake Tama Legs Suit,mhxx-dex-1.0,3
+5452,Pirate Boots J,Pirate Boots J,mhxx-dex-1.0,6
+5457,Pirate Pants J,Pirate Pants J,mhxx-dex-1.0,6
+5462,Buccaneer Boots J,Buccaneer Boots J,mhxx-dex-1.0,6
+5467,Buccaneer Pants J,Buccaneer Pants J,mhxx-dex-1.0,6
+5474,Zodias Greaves,Zodias Greaves,mhxx-dex-1.0,7
+5479,Zodias Leggings,Zodias Leggings,mhxx-dex-1.0,7
+5482,Booyah Jeans,Booyah Jeans,mhxx-dex-1.0,5
+5485,Booyah Denim,Booyah Denim,mhxx-dex-1.0,5
+5490,Ultimate Pleats,Ultimate Pleats,mhxx-dex-1.0,7
+5493,Ultimate Walkers,Ultimate Walkers,mhxx-dex-1.0,7
+5498,Champion's Shorts,Champion's Shorts,mhxx-dex-1.0,7
+5503,Strongman's Shorts,Strongman's Shorts,mhxx-dex-1.0,7
+5508,Dynaqlo Cargo Pants,Dynaqlo Cargo Pants,mhxx-dex-1.0,6
+5513,Dynaqlo Combats,Dynaqlo Combats,mhxx-dex-1.0,6
+5518,[JP] Blue Star Boots,[JP] Blue Star Boots,mhxx-dex-1.0,6
+5523,[JP] Blue Star Footwear,[JP] Blue Star Footwear,mhxx-dex-1.0,6
+5528,[JP] Star Knight Greaves,[JP] Star Knight Greaves,mhxx-dex-1.0,6
+5533,[JP] Star Knight Leggings,[JP] Star Knight Leggings,mhxx-dex-1.0,6
+5538,[JP] Star Rook Greaves,[JP] Star Rook Greaves,mhxx-dex-1.0,7
+5543,[JP] Star Rook Leggings,[JP] Star Rook Leggings,mhxx-dex-1.0,7
+5548,[JP] Promising Archpleats,[JP] Promising Archpleats,mhxx-dex-1.0,7
+5553,[JP] Halcyon Archpleats,[JP] Halcyon Archpleats,mhxx-dex-1.0,7
+5558,[JP] Lucid Archpleats,[JP] Lucid Archpleats,mhxx-dex-1.0,7
+5563,[JP] Dreamy Archpleats,[JP] Dreamy Archpleats,mhxx-dex-1.0,7
+5568,[JP] Ruler Arcfire Hakama,[JP] Ruler Arcfire Hakama,mhxx-dex-1.0,7
+5573,[JP] Ruler Bonfire Hakama,[JP] Ruler Bonfire Hakama,mhxx-dex-1.0,7
+5578,[JP] Ruler Waka Hakama,[JP] Ruler Waka Hakama,mhxx-dex-1.0,7
+5583,[JP] Ruler Wagaku Hakama,[JP] Ruler Wagaku Hakama,mhxx-dex-1.0,7
+5587,[JP] Fake Tama Legs S,[JP] Fake Tama Legs S,mhxx-dex-1.0,4
+5591,[JP] Fake Tama Legs Suit S,[JP] Fake Tama Legs Suit S,mhxx-dex-1.0,4
+5595,Varia Suit Leg Guards,Varia Suit Leg Guards,mhxx-dex-1.0,6
+5599,Varia Suit Legs,Varia Suit Legs,mhxx-dex-1.0,6
+5603,Zero Suit Boots,Zero Suit Boots,mhxx-dex-1.0,6
+5607,Zero Suit Tights,Zero Suit Tights,mhxx-dex-1.0,6
+5612,Hero's Boots,Hero's Boots,mhxx-dex-1.0,7
+5617,Hero's Leggings,Hero's Leggings,mhxx-dex-1.0,7
+5622,Lodestar Boots,Lodestar Boots,mhxx-dex-1.0,7
+5627,Lodestar Greaves,Lodestar Greaves,mhxx-dex-1.0,7
+5631,Greaves of Rage,Greaves of Rage,mhxx-dex-1.0,7
+5635,Leggings of Rage,Leggings of Rage,mhxx-dex-1.0,7
+5639,Greaves of Anat,Greaves of Anat,mhxx-dex-1.0,7
+5643,Leggings of Anat,Leggings of Anat,mhxx-dex-1.0,7
+5647,Black Leather Chaps,Black Leather Chaps,mhxx-dex-1.0,5
+5648,Black Leather Pants,Black Leather Pants,mhxx-dex-1.0,5
+5661,Hiryu Sky Boots,Hiryu Sky Boots,mhxx-dex-1.0,7
+5666,Hiryu Land Boots,Hiryu Land Boots,mhxx-dex-1.0,7
+5670,[JP] Gon Greaves,[JP] Gon Greaves,mhxx-dex-1.0,8
+5674,[JP] Gon Leggings,[JP] Gon Leggings,mhxx-dex-1.0,8
+5678,Criminal Legs,Criminal Legs,mhxx-dex-1.0,9
+5682,Criminal Feet,Criminal Feet,mhxx-dex-1.0,9
+5687,[JP] Supreme Arcfire Hakama,[JP] Supreme Arcfire Hakama,mhxx-dex-1.0,10
+5692,[JP] Supreme Bonfire Hakama,[JP] Supreme Bonfire Hakama,mhxx-dex-1.0,10
+5697,[JP] Supreme Wagaku Hakama,[JP] Supreme Wagaku Hakama,mhxx-dex-1.0,10
+5702,[JP] Supreme Wagaku Hakama,[JP] Supreme Wagaku Hakama,mhxx-dex-1.0,10
+5707,Garo Guards,Garo Guards,mhxx-dex-1.0,10
+5712,Garo Greaves,Garo Greaves,mhxx-dex-1.0,10
+5717,Hylian Footwear,Hylian Footwear,mhxx-dex-1.0,10
+5722,Hylian Boots,Hylian Boots,mhxx-dex-1.0,10
