@@ -37,26 +37,27 @@ jobs:
         run: python .\tools\validate_data.py .\data
 
       - name: Build portable package
-        shell: pwsh
-        env:
-          MSYS2_LOCATION: ${{ steps.msys2.outputs.msys2-location }}
+        shell: msys2 {0}
         run: |
-          .\build-windows.ps1 -QtDir "$env:MSYS2_LOCATION\mingw64"
+          set -euo pipefail
+          mkdir -p build-windows
+          qmake MHGUSaveEditor.pro -o build-windows/Makefile
+          mingw32-make -C build-windows -j2
+          rm -rf dist
+          mkdir -p dist
+          cp bin/MHGUSaveEditor.exe dist/
+          cp -R data dist/data
+          cp README.md LICENSE ATTRIBUTION.md dist/
+          windeployqt --release --no-translations dist/MHGUSaveEditor.exe
 
       - name: Build and run core tests
-        shell: pwsh
-        env:
-          MSYS2_LOCATION: ${{ steps.msys2.outputs.msys2-location }}
+        shell: msys2 {0}
         run: |
-          $QtBin = "$env:MSYS2_LOCATION\mingw64\bin"
-          $env:PATH = "$QtBin;$env:PATH"
-          New-Item -ItemType Directory -Force -Path .\tests\build | Out-Null
-          & "$QtBin\qmake.exe" .\tests\CoreTests.pro -o .\tests\build\Makefile
-          if ($LASTEXITCODE -ne 0) { throw 'test qmake failed' }
-          & "$QtBin\mingw32-make.exe" -C .\tests\build -j2
-          if ($LASTEXITCODE -ne 0) { throw 'test build failed' }
-          .\tests\bin\mhgu_core_tests.exe
-          if ($LASTEXITCODE -ne 0) { throw 'core tests failed' }
+          set -euo pipefail
+          mkdir -p tests/build
+          qmake tests/CoreTests.pro -o tests/build/Makefile
+          mingw32-make -C tests/build -j2
+          ./tests/bin/mhgu_core_tests.exe
 
       - name: Create zip
         shell: pwsh
