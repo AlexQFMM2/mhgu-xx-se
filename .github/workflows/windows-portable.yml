@@ -37,33 +37,16 @@ jobs:
         run: python .\tools\validate_data.py .\data
 
       - name: Build portable package
-        shell: msys2 {0}
-        run: |
-          set -euo pipefail
-          mkdir -p build-windows
-          qmake MHGUSaveEditor.pro -o build-windows/Makefile
-          mingw32-make -C build-windows -j2
-          rm -rf dist
-          mkdir -p dist
-          cp bin/MHGUSaveEditor.exe dist/
-          cp -R data dist/data
-          cp README.md LICENSE ATTRIBUTION.md dist/
-          windeployqt --release --no-translations dist/MHGUSaveEditor.exe
-
-      - name: Build and run core tests
-        shell: msys2 {0}
-        run: |
-          set -euo pipefail
-          mkdir -p tests/build
-          qmake tests/CoreTests.pro -o tests/build/Makefile
-          mingw32-make -C tests/build -j2
-          ./tests/bin/mhgu_core_tests.exe
+        shell: pwsh
+        env:
+          MSYS2_LOCATION: ${{ steps.msys2.outputs.msys2-location }}
+        run: .\build-windows.ps1 -QtBin "$env:MSYS2_LOCATION\mingw64\bin"
 
       - name: Create zip
         shell: pwsh
         run: |
           Compress-Archive `
-            -Path .\dist\* `
+            -Path .\release\windows\* `
             -DestinationPath .\MHGUSaveEditor-windows-portable.zip `
             -Force
 

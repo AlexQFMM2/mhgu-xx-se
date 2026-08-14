@@ -1,47 +1,151 @@
 param(
-    [string]$QtDir = 'C:\Qt\5.15.2\mingw81_64'
+    [string]$QtBin = "",
+    [ValidateSet("release", "debug")]
+    [string]$Configuration = "release",
+    [string]$OutDir = ".\release\windows"
 )
 
-$ErrorActionPreference = 'Stop'
-$ProjectRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
-$QMake = Join-Path $QtDir 'bin\qmake.exe'
-$Make = Join-Path $QtDir 'bin\mingw32-make.exe'
-$Deploy = Join-Path $QtDir 'bin\windeployqt.exe'
+$ErrorActionPreference = "Stop"
+$Root = Split-Path -Parent $MyInvocation.MyCommand.Path
+$Project = Join-Path $Root "MHGUSaveEditor.pro"
+$Target = "MHGUSaveEditor"
 
-foreach ($Tool in @($QMake, $Make, $Deploy)) {
-    if (-not (Test-Path -LiteralPath $Tool)) {
-        throw "Qt tool not found: $Tool"
+if (-not $QtBin) {
+    if ($env:QTDIR) {
+        $QtBin = Join-Path $env:QTDIR "bin"
+    } elseif (Test-Path "C:\msys64\mingw64\bin") {
+        $QtBin = "C:\msys64\mingw64\bin"
+    } else {
+        throw "Qt MinGW bin directory not found. Pass -QtBin."
     }
 }
 
-$BuildDir = Join-Path $ProjectRoot 'build-windows'
-$DistDir = Join-Path $ProjectRoot 'dist'
-New-Item -ItemType Directory -Force -Path $BuildDir | Out-Null
-if (Test-Path -LiteralPath $DistDir) {
-    Remove-Item -LiteralPath $DistDir -Recurse -Force
-}
-New-Item -ItemType Directory -Force -Path $DistDir | Out-Null
+$QtBin = (Resolve-Path $QtBin).Path
+$Qmake = @("qmake.exe", "qmake-qt5.exe") |
+    ForEach-Object { Join-Path $QtBin $_ } |
+    Where-Object { Test-Path $_ } |
+    Select-Object -First 1
+$Make = Join-Path $QtBin "mingw32-make.exe"
+$Deploy = @("windeployqt.exe", "windeployqt-qt5.exe") |
+    ForEach-Object { Join-Path $QtBin $_ } |
+    Where-Object { Test-Path $_ } |
+    Select-Object -First 1
 
-Push-Location $BuildDir
-try {
-    & $QMake (Join-Path $ProjectRoot 'MHGUSaveEditor.pro')
-    if ($LASTEXITCODE -ne 0) { throw 'qmake failed' }
-    & $Make -j2
-    if ($LASTEXITCODE -ne 0) { throw 'mingw32-make failed' }
-} finally {
-    Pop-Location
+if (-not $Qmake) { throw "qmake was not found in $QtBin" }
+if (-not (Test-Path $Make)) { throw "mingw32-make.exe was not found in $QtBin" }
+if (-not $Deploy) { throw "windeployqt was not found in $QtBin" }
+
+function Copy-ImportedDlls {
+    param([string]$PackageDir, [string]$DependencyDir, [string]$Objdump)
+
+    $systemDlls = @{
+        "advapi32.dll"=$true; "bcrypt.dll"=$true; "comdlg32.dll"=$true
+        "crypt32.dll"=$true; "dwmapi.dll"=$true; "gdi32.dll"=$true
+        "imm32.dll"=$true; "iphlpapi.dll"=$true; "kernel32.dll"=$true
+        "mpr.dll"=$true; "netapi32.dll"=$true; "ole32.dll"=$true
+        "oleaut32.dll"=$true; "opengl32.dll"=$true; "rpcrt4.dll"=$true
+        "secur32.dll"=$true; "setupapi.dll"=$true; "shell32.dll"=$true
+        "shlwapi.dll"=$true; "user32.dll"=$true; "userenv.dll"=$true
+        "uxtheme.dll"=$true; "version.dll"=$true; "winmm.dll"=$true
+        "winspool.drv"=$true; "ws2_32.dll"=$true
+    }
+    $queue = [System.Collections.Queue]::new()
+    Get-ChildItem $PackageDir -Recurse -File -Include "*.exe", "*.dll" |
+        ForEach-Object { $queue.Enqueue($_.FullName) }
+    $scanned = @{}
+    while ($queue.Count -gt 0) {
+        $binary = $queue.Dequeue()
+        if ($scanned.ContainsKey($binary)) { continue }
+        $scanned[$binary] = $true
+        $imports = & $Objdump -p $binary 2>$null |
+            Select-String "DLL Name:" |
+            ForEach-Object { ($_.Line -replace ".*DLL Name:\s*", "").Trim() } |
+            Where-Object { $_ }
+        foreach ($dll in $imports) {
+            if ($systemDlls.ContainsKey($dll.ToLowerInvariant())) { continue }
+            $target = Join-Path $PackageDir $dll
+            if (Test-Path $target) { continue }
+            $source = Join-Path $DependencyDir $dll
+            if (Test-Path $source) {
+                Copy-Item $source $target
+                $queue.Enqueue($target)
+            }
+        }
+    }
 }
 
-$Executable = Join-Path $ProjectRoot 'bin\MHGUSaveEditor.exe'
-if (-not (Test-Path -LiteralPath $Executable)) {
-    throw "Executable not found after build: $Executable"
-}
-Copy-Item -LiteralPath $Executable -Destination $DistDir -Force
-Copy-Item -LiteralPath (Join-Path $ProjectRoot 'data') -Destination $DistDir -Recurse -Force
-Copy-Item -LiteralPath (Join-Path $ProjectRoot 'LICENSE') -Destination $DistDir -Force
-Copy-Item -LiteralPath (Join-Path $ProjectRoot 'README.md') -Destination $DistDir -Force
-Copy-Item -LiteralPath (Join-Path $ProjectRoot 'ATTRIBUTION.md') -Destination $DistDir -Force
-& $Deploy --release --no-translations (Join-Path $DistDir 'MHGUSaveEditor.exe')
-if ($LASTEXITCODE -ne 0) { throw 'windeployqt failed' }
+Set-Location $Root
+$env:PATH = "$QtBin;$env:PATH"
 
-Write-Host "Portable build created at $DistDir"
+foreach ($path in @("Makefile", "Makefile.Debug", "Makefile.Release", "build", "bin")) {
+    $full = Join-Path $Root $path
+    if (Test-Path $full) { Remove-Item $full -Recurse -Force }
+}
+
+& $Qmake $Project "CONFIG+=$Configuration" "CONFIG-=debug_and_release"
+& $Make "-j$([Environment]::ProcessorCount)"
+
+$BuiltExe = Join-Path $Root "bin\$Target.exe"
+if (-not (Test-Path $BuiltExe)) { throw "Executable not found: $BuiltExe" }
+
+$Package = Join-Path $Root $OutDir
+if (Test-Path $Package) { Remove-Item $Package -Recurse -Force }
+New-Item -ItemType Directory -Force -Path $Package | Out-Null
+Copy-Item $BuiltExe (Join-Path $Package "$Target.exe")
+Copy-Item (Join-Path $Root "data") (Join-Path $Package "data") -Recurse
+foreach ($doc in @("README.md", "LICENSE", "ATTRIBUTION.md")) {
+    Copy-Item (Join-Path $Root $doc) (Join-Path $Package $doc) -Force
+}
+
+& $Deploy (Join-Path $Package "$Target.exe") "--$Configuration"
+if ($LASTEXITCODE -ne 0) {
+    Write-Warning "windeployqt reported an error; required files will be checked explicitly."
+    $global:LASTEXITCODE = 0
+}
+
+$runtimeDlls = @(
+    "libcrypto-3-x64.dll",
+    "libcrypto-3.dll",
+    "libgcc_s_seh-1.dll",
+    "libstdc++-6.dll",
+    "libwinpthread-1.dll"
+)
+foreach ($dll in $runtimeDlls) {
+    $source = Join-Path $QtBin $dll
+    if (Test-Path $source) { Copy-Item $source (Join-Path $Package $dll) -Force }
+}
+
+$QtRoot = Split-Path -Parent $QtBin
+$platformDir = Join-Path $Package "platforms"
+New-Item -ItemType Directory -Force -Path $platformDir | Out-Null
+$qwindowsCandidates = @(
+    (Join-Path $QtRoot "share\qt5\plugins\platforms\qwindows.dll"),
+    (Join-Path $QtRoot "plugins\platforms\qwindows.dll")
+)
+$qwindows = $qwindowsCandidates | Where-Object { Test-Path $_ } | Select-Object -First 1
+if (-not $qwindows) { throw "qwindows.dll was not found." }
+Copy-Item $qwindows (Join-Path $platformDir "qwindows.dll") -Force
+
+$Objdump = Join-Path $QtBin "objdump.exe"
+if (-not (Test-Path $Objdump)) { throw "objdump.exe was not found in $QtBin" }
+Copy-ImportedDlls $Package $QtBin $Objdump
+
+$required = @(
+    (Join-Path $Package "$Target.exe"),
+    (Join-Path $Package "Qt5Core.dll"),
+    (Join-Path $Package "Qt5Gui.dll"),
+    (Join-Path $Package "Qt5Widgets.dll"),
+    (Join-Path $Package "platforms\qwindows.dll")
+)
+foreach ($file in $required) {
+    if (-not (Test-Path $file)) { throw "Required portable file is missing: $file" }
+}
+
+Set-Content -Path (Join-Path $Package "run-windows.bat") -Encoding ASCII -Value @"
+@echo off
+cd /d "%~dp0"
+start "" "$Target.exe"
+"@
+
+Write-Host "Windows package created: $Package"
+$global:LASTEXITCODE = 0

@@ -26,11 +26,11 @@ Windows：
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\build-windows.ps1 `
-  -QtDir C:\Qt\5.15.2\mingw81_64
+  -QtBin C:\Qt\5.15.2\mingw81_64\bin
 ```
 
 程序从可执行文件旁边的 `data/` 或源码根目录的 `data/` 加载 CSV。Windows 打包脚本
-会生成包含 Qt 运行库和 data 的 `dist/`。
+会生成包含 Qt/MinGW 运行库和 data 的 `release/windows/`。
 
 ## 使用流程
 
