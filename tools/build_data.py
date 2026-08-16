@@ -713,7 +713,7 @@ files by hand.
   `-1` marks extra DUMMY IDs absent from `decoData`.
 - `talisman_skill_limits.csv` records the legal first/second skill-point ranges
   for all ten talisman grades. The ranges are keyed by explicit save skill ID;
-  unavailable skill/position combinations remain `0..0` and are rejected. The
+  unavailable skill/position combinations remain `0..0` and are reported. The
   pinned facts are attributed to the
   [Kiranico MHGU charm table](https://mhgu.kiranico.com/charms) and
   cross-checked against two editors.

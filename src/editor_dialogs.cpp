@@ -307,6 +307,7 @@ public:
         m_warning->setMaximumHeight(46);
         m_slotStatus = new QLabel(this);
         m_slotStatus->setWordWrap(true);
+        m_slotStatus->setToolTip(QStringLiteral("红色仅表示可能不符合游戏生成规则，不会阻止应用或保存。"));
         auto *form = new QFormLayout;
         form->addRow(QStringLiteral("装备类型"), m_type);
         form->addRow(QStringLiteral("实际装备"), m_id);
@@ -315,7 +316,7 @@ public:
         form->addRow(QStringLiteral("装饰珠 1"), m_decorations[0]);
         form->addRow(QStringLiteral("装饰珠 2"), m_decorations[1]);
         form->addRow(QStringLiteral("装饰珠 3"), m_decorations[2]);
-        form->addRow(QStringLiteral("合法性校验"), m_slotStatus);
+        form->addRow(QStringLiteral("合法性提示"), m_slotStatus);
         m_talisman = new QGroupBox(QStringLiteral("护石属性"), this);
         auto *talismanForm = new QFormLayout(m_talisman);
         talismanForm->addRow(QStringLiteral("技能 1"), m_skill1);
@@ -325,14 +326,7 @@ public:
         talismanForm->addRow(QStringLiteral("孔数"), m_slots);
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Ok | QDialogButtonBox::Cancel, this);
         localizeButtons(buttons, QStringLiteral("应用修改"));
-        connect(buttons, &QDialogButtonBox::accepted, this, [this] {
-            QString error;
-            if (!validateHunterEquipment(m_data, value(), &error)) {
-                QMessageBox::warning(this, QStringLiteral("装备组合不合法"), error);
-                return;
-            }
-            accept();
-        });
+        connect(buttons, &QDialogButtonBox::accepted, this, &QDialog::accept);
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         connect(m_type, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateType(); });
         connect(m_id, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateEquipmentRules(); });
@@ -466,14 +460,7 @@ public:
         form->addRow(QStringLiteral("幻化"), m_appearance);
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Ok | QDialogButtonBox::Cancel, this);
         localizeButtons(buttons, QStringLiteral("应用修改"));
-        connect(buttons, &QDialogButtonBox::accepted, this, [this] {
-            QString error;
-            if (!validatePalicoEquipment(m_data, value(), &error)) {
-                QMessageBox::warning(this, QStringLiteral("猫装备组合不合法"), error);
-                return;
-            }
-            accept();
-        });
+        connect(buttons, &QDialogButtonBox::accepted, this, &QDialog::accept);
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         connect(m_type, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateType(); });
         auto *layout = new QVBoxLayout(this);
@@ -1097,25 +1084,10 @@ EquipmentBoxDialog::EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *
 void EquipmentBoxDialog::loadFromModel() { populateHunter(); populatePalico(); }
 bool EquipmentBoxDialog::commitToModel(QString *error)
 {
-    if (!m_save || m_save->selectedSlot() < 0) return false;
-    for (int index = 0; index < MhguSave::EquipmentCount; ++index) {
-        const MhguEquipment entry = m_save->equipment(index);
-        QString entryError;
-        if (!validateHunterEquipment(m_data, entry, &entryError)) {
-            if (error) *error = QStringLiteral("装备箱第 %1 格：%2").arg(index + 1).arg(entryError);
-            return false;
-        }
-    }
-    for (int index = 0; index < MhguSave::PalicoEquipmentCount; ++index) {
-        const MhguPalicoEquipment entry = m_save->palicoEquipment(index);
-        if (entry.rawType == 0) continue;
-        QString entryError;
-        if (!validatePalicoEquipment(m_data, entry, &entryError)) {
-            if (error) *error = QStringLiteral("猫装备箱第 %1 格：%2").arg(index + 1).arg(entryError);
-            return false;
-        }
-    }
-    return true;
+    Q_UNUSED(error);
+    // Game-side legality is deliberately advisory. Saving still relies on
+    // MhguSave for file size, slot base, write bounds and field-width safety.
+    return m_save && m_save->selectedSlot() >= 0;
 }
 
 void EquipmentBoxDialog::populateHunter()
@@ -1246,6 +1218,7 @@ void EquipmentBoxDialog::importForm()
     }
     struct ParsedEntry { bool palico = false; int slot = 0; MhguEquipment hunter; MhguPalicoEquipment cat; };
     QVector<ParsedEntry> parsed;
+    QStringList legalityWarnings;
     QSet<QString> seen;
     for (int lineNumber = 1; lineNumber < lines.size(); ++lineNumber) {
         const QByteArray line = lines[lineNumber].trimmed();
@@ -1299,20 +1272,26 @@ void EquipmentBoxDialog::importForm()
         const bool entryValid = palico
             ? validatePalicoEquipment(m_data, entry.cat, &validationError)
             : validateHunterEquipment(m_data, entry.hunter, &validationError);
-        if (!entryValid) {
-            QMessageBox::warning(this, windowTitle(), QStringLiteral(
-                "第 %1 行装备组合不合法：%2\n\n未修改存档。"
-            ).arg(lineNumber + 1).arg(validationError));
-            return;
-        }
+        if (!entryValid)
+            legalityWarnings.push_back(QStringLiteral("第 %1 行：%2").arg(lineNumber + 1).arg(validationError));
         parsed.push_back(entry);
     }
     if (parsed.isEmpty()) {
         QMessageBox::information(this, windowTitle(), QStringLiteral("表单中没有可导入的装备格。"));
         return;
     }
-    if (!confirmImport(this, QStringLiteral("确认导入装备箱"),
-            QStringLiteral("表单包含 %1 个装备格。\n\n导入会覆盖表单中列出的格子，未列出的格子保持不变。").arg(parsed.size()))) return;
+    QString confirmation = QStringLiteral(
+        "表单包含 %1 个装备格。\n\n导入会覆盖表单中列出的格子，未列出的格子保持不变。"
+    ).arg(parsed.size());
+    if (!legalityWarnings.isEmpty()) {
+        confirmation += QStringLiteral(
+            "\n\n检测到 %1 个可能不合法的组合，但程序不会阻止导入。请自行承担游戏重置、显示异常或崩溃风险。"
+        ).arg(legalityWarnings.size());
+        const int previewCount = std::min(3, legalityWarnings.size());
+        for (int i = 0; i < previewCount; ++i) confirmation += QStringLiteral("\n• %1").arg(legalityWarnings[i]);
+        if (legalityWarnings.size() > previewCount) confirmation += QStringLiteral("\n• ……");
+    }
+    if (!confirmImport(this, QStringLiteral("确认导入装备箱"), confirmation)) return;
     for (const ParsedEntry &entry : parsed) {
         const bool ok = entry.palico ? m_save->setPalicoEquipment(entry.slot, entry.cat)
                                      : m_save->setEquipment(entry.slot, entry.hunter);
