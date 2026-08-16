@@ -14,8 +14,8 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "2.3.0"
-GAME_EXPORT_FORMAT = "mhxx-game-resource-export-v3"
+GENERATOR_VERSION = "2.4.0"
+GAME_EXPORT_FORMAT = "mhxx-game-resource-export-v4"
 GAME_SOURCE = "mhxx-romfs-game-array"
 GAME_RULE_SOURCE = "mhxx-romfs-native-table"
 GAME_ONLY_TRANSLATION_SOURCE = "mhxx-reviewed-game-only-translation"
@@ -23,7 +23,7 @@ DEX_SOURCE = "mhxx-dex-1.0"
 DEX_FALLBACK_SOURCE = "mhxx-dex-1.0-en-fallback"
 SAVE_SOURCE = "mhxx-save-format-community"
 SAVE_FALLBACK_SOURCE = "mhxx-save-format-community-en-fallback"
-TALISMAN_RULE_SOURCE = "kiranico-mhgu-charm-table-crosschecked-by-mhxx-save-editors"
+TALISMAN_RULE_SOURCE = "mhxx-romfs-native-amulet-skill-table"
 MARKER = "<!-- generated-by: tools/build_data.py -->"
 
 BASE_COLUMNS = ("id", "name", "english", "source")
@@ -106,6 +106,8 @@ TALISMAN_CN = (
     "国王护石", "龙之护石", "英雄护石", "传说护石", "天之护石",
 )
 
+TALISMAN_RARITY = (0, 97, 97, 98, 98, 99, 99, 99, 100, 100, 100)
+
 
 def read_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
@@ -140,26 +142,13 @@ def index_palico_translations(translation: dict, crosswalk: dict) -> dict[str, d
     return result
 
 
-def index_talisman_limits(reference: dict) -> tuple[list[int], dict[int, dict[str, object]]]:
-    if reference.get("format") != "mhxx-talisman-skill-limits-v1":
-        raise ValueError("unsupported talisman skill-limit reference")
-    columns = reference.get("columns")
-    if not isinstance(columns, list) or len(columns) != 20:
-        raise ValueError("talisman skill-limit columns differ")
-    rows = reference.get("skills")
+def index_talisman_limits(rows: object) -> dict[int, dict[str, object]]:
     if not isinstance(rows, list):
-        raise ValueError("talisman skill-limit rows are missing")
-    if reference.get("source") != TALISMAN_RULE_SOURCE:
-        raise ValueError("talisman skill-limit source differs")
-    if any(not isinstance(row, list) or len(row) != len(columns) for row in rows):
-        raise ValueError("talisman skill-limit row width differs")
-    indexed = {int(row[0]): dict(zip(columns, row)) for row in rows}
+        raise ValueError("native talisman skill-limit rows are missing")
+    indexed = {int(row["save_skill_id"]): row for row in rows if isinstance(row, dict)}
     if len(indexed) != len(rows) or set(indexed) != set(range(206)):
-        raise ValueError("talisman skill-limit IDs must be exactly 0..205")
-    rarity = [int(value) for value in reference.get("talisman_rarity", [])]
-    if len(rarity) != 11 or rarity[0] != 0 or set(rarity[1:]) != {97, 98, 99, 100}:
-        raise ValueError("talisman rarity mapping differs")
-    return rarity, indexed
+        raise ValueError("native talisman skill-limit IDs must be exactly 0..205")
+    return indexed
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -288,7 +277,6 @@ def build_language(
     game_tables: dict[str, list[str]],
     game_rules: dict[str, object],
     palico_translations: dict[str, dict[int, dict]],
-    talisman_rarity: list[int],
     talisman_limits: dict[int, dict[str, object]],
     language: str,
     output: Path,
@@ -318,21 +306,35 @@ def build_language(
         item_by_save_id[save_id] = built
     counts["items.csv"] = write_csv(output / "items.csv", BASE_COLUMNS, items)
 
-    skill_rows = [none_row(language)]
-    for row in read_csv(sql_dir / "ID_SklTree_Name.csv"):
-        identifier = int(row["SklTree_ID"])
-        if identifier <= 0:
+    dex_skill_rows = read_csv(sql_dir / "ID_SklTree_Name.csv")
+    dex_skill_by_japanese: dict[str, list[dict[str, str]]] = {}
+    for row in dex_skill_rows:
+        if int(row["SklTree_ID"]) > 0:
+            dex_skill_by_japanese.setdefault(row["SklTree_Name_3"].strip(), []).append(row)
+    skill_rows = []
+    for save_id, japanese in enumerate(game_tables["skills"]):
+        if save_id == 0:
+            if japanese != "なし":
+                raise ValueError("save skill ID 0 is not the native None entry")
+            skill_rows.append({**none_row(language), "source": GAME_SOURCE})
             continue
-        name, english, source = localized(row, "SklTree_Name_", language)
-        skill_rows.append({"id": identifier, "name": name, "english": english, "source": source})
+        matches = dex_skill_by_japanese.get(japanese, [])
+        if len(matches) != 1:
+            raise ValueError(
+                f"save skill ID {save_id} {japanese!r}: expected one Dex match, found {len(matches)}"
+            )
+        name, english, source = localized(matches[0], "SklTree_Name_", language)
+        skill_rows.append({
+            "id": save_id,
+            "name": name,
+            "english": english,
+            "source": GAME_SOURCE + "+" + source,
+        })
     counts["skills.csv"] = write_csv(output / "skills.csv", BASE_COLUMNS, skill_rows)
 
     skill_by_id = {int(row["id"]): row for row in skill_rows}
     if set(skill_by_id) != set(talisman_limits):
         raise ValueError("talisman skill-limit IDs differ from generated skills")
-    for identifier, limit in talisman_limits.items():
-        if skill_by_id[identifier]["english"] != limit["english"]:
-            raise ValueError(f"talisman skill-limit English mismatch at ID {identifier}")
 
     decoration_costs = {
         int(row["item_id"]): int(row["slots"])
@@ -502,8 +504,8 @@ def build_language(
 
     rarity_prefix = {97: "mystery", 98: "shining", 99: "timeworn", 100: "enduring"}
     talisman_limit_rows = []
-    for talisman_id in range(1, len(talisman_rarity)):
-        prefix = rarity_prefix[talisman_rarity[talisman_id]]
+    for talisman_id in range(1, len(TALISMAN_RARITY)):
+        prefix = rarity_prefix[TALISMAN_RARITY[talisman_id]]
         for skill_id in sorted(talisman_limits):
             limit = talisman_limits[skill_id]
             values = [int(limit[f"{prefix}_{field}"]) for field in (
@@ -714,9 +716,9 @@ files by hand.
 - `talisman_skill_limits.csv` records the legal first/second skill-point ranges
   for all ten talisman grades. The ranges are keyed by explicit save skill ID;
   unavailable skill/position combinations remain `0..0` and are reported. The
-  pinned facts are attributed to the
-  [Kiranico MHGU charm table](https://mhgu.kiranico.com/charms) and
-  cross-checked against two editors.
+  skill order comes from `skillTypeData` and the ranges come directly from the
+  eight native `amuletSkillData00..07` tables. Dex IDs are never used as save
+  skill IDs.
 - MHGU has no MH4G-style relic equipment, so no relic-only fields are emitted.
 - Palico weapons/head/body armor come from Dex. Support-move names are reviewed
   against the linked Bahamut MHXX article and Axibug wiki; passive-skill names
@@ -765,11 +767,6 @@ def main() -> int:
         type=Path,
         default=Path(__file__).resolve().parent / "reference" / "palico_cn_translation.json",
     )
-    parser.add_argument(
-        "--talisman-limits",
-        type=Path,
-        default=Path(__file__).resolve().parent / "reference" / "talisman_skill_limits.json",
-    )
     args = parser.parse_args()
 
     raw_manifest = read_json(args.input / "manifest.json")
@@ -784,20 +781,19 @@ def main() -> int:
     if crosswalk.get("format") != "mhxx-save-data-crosswalk-v1":
         raise ValueError("unsupported save-data crosswalk")
     palico_translations = index_palico_translations(read_json(args.palico_cn), crosswalk)
-    talisman_rarity, talisman_limits = index_talisman_limits(read_json(args.talisman_limits))
     game_export = read_json(args.game_names)
     if game_export.get("format") != GAME_EXPORT_FORMAT or game_export.get("language") != "jp":
         raise ValueError("unsupported or invalid MHXX game name export")
     game_tables = game_export.get("tables")
     game_rules = game_export.get("rules")
     required_game_tables = {
-        "items", *(Path(file_name).stem for file_name, _part in ARMOR),
+        "items", "skills", *(Path(file_name).stem for file_name, _part in ARMOR),
         *crosswalk["weapons"].keys(), "palico_weapons", "palico_head", "palico_armor",
     }
     if not isinstance(game_tables, dict) or set(game_tables) != required_game_tables:
         raise ValueError("game name export table set differs from the required save-ID tables")
     if not isinstance(game_rules, dict) or set(game_rules) != {
-        "armor_slots", "weapon_level_slots", "decoration_slot_costs"
+        "armor_slots", "weapon_level_slots", "decoration_slot_costs", "talisman_skill_limits"
     }:
         raise ValueError("game resource export rule set differs from the required native rules")
     if set(game_rules["armor_slots"]) != {
@@ -806,6 +802,7 @@ def main() -> int:
         raise ValueError("armor slot rule tables differ from the armor tables")
     if set(game_rules["weapon_level_slots"]) != set(crosswalk["weapons"]):
         raise ValueError("weapon level rule tables differ from the weapon crosswalk")
+    talisman_limits = index_talisman_limits(game_rules["talisman_skill_limits"])
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     temp_root = Path(tempfile.mkdtemp(prefix="mhxx-data-", dir=str(args.output.parent)))
@@ -813,12 +810,14 @@ def main() -> int:
         counts = {
             language: build_language(
                 args.input / "direct_sql", crosswalk, game_tables, game_rules,
-                palico_translations, talisman_rarity, talisman_limits,
+                palico_translations, talisman_limits,
                 language, temp_root / language
             )
             for language in ("cn", "en")
         }
-        (temp_root / "README.md").write_text(readme_text(), encoding="utf-8")
+        (temp_root / "README.md").write_text(
+            readme_text(), encoding="utf-8", newline="\n"
+        )
         files = []
         for path in sorted(temp_root.rglob("*.csv")):
             relative = path.relative_to(temp_root).as_posix()
@@ -831,7 +830,6 @@ def main() -> int:
                 "mhxx_dex_exe_sha256": expected,
                 "save_data_crosswalk_sha256": sha256(args.crosswalk),
                 "palico_cn_translation_sha256": sha256(args.palico_cn),
-                "talisman_skill_limits_sha256": sha256(args.talisman_limits),
             },
             "game_resource": {
                 "format": game_export["format"],
@@ -847,12 +845,15 @@ def main() -> int:
                         len(rows) for rows in game_rules["weapon_level_slots"].values()
                     ),
                     "decoration_slot_costs": len(game_rules["decoration_slot_costs"]),
+                    "talisman_skill_limits": len(game_rules["talisman_skill_limits"]),
                 },
             },
             "files": files,
         }
         (temp_root / "manifest.json").write_text(
-            json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8"
+            json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+            encoding="utf-8",
+            newline="\n",
         )
 
         if args.output.exists():

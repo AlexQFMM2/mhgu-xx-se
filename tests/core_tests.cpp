@@ -109,13 +109,21 @@ int main(int argc, char **argv)
     require(!decorationFound, "extra DUMMY decoration is not a native legal jewel");
     int skillMinimum = 0;
     int skillMaximum = 0;
-    require(data.talismanSkillRange(10, 71, 1, &skillMinimum, &skillMaximum)
+    require(data.name(QStringLiteral("skills"), 70) == QStringLiteral("达人"),
+            "save skill ID 70 is Expert, not the Dex ID");
+    require(data.name(QStringLiteral("skills"), 71) == QStringLiteral("痛击"),
+            "save skill ID 71 is Tenderizer");
+    require(data.name(QStringLiteral("skills"), 72) == QStringLiteral("连击"),
+            "save skill ID 72 is Chain Crit");
+    require(data.name(QStringLiteral("skills"), 203) == QStringLiteral("身体系统加倍"),
+            "Torso Up is moved to native save skill ID 203");
+    require(data.talismanSkillRange(10, 70, 1, &skillMinimum, &skillMaximum)
             && skillMinimum == 0 && skillMaximum == 0,
             "Creator Talisman cannot generate Expert in skill position one");
-    require(data.talismanSkillRange(10, 71, 2, &skillMinimum, &skillMaximum)
+    require(data.talismanSkillRange(10, 70, 2, &skillMinimum, &skillMaximum)
             && skillMinimum == -7 && skillMaximum == 10,
             "Creator Talisman Expert position-two range");
-    require(data.talismanSkillRange(10, 73, 1, &skillMinimum, &skillMaximum)
+    require(data.talismanSkillRange(10, 72, 1, &skillMinimum, &skillMaximum)
             && skillMinimum == 1 && skillMaximum == 5,
             "Creator Talisman Chain Crit position-one range");
     require(!data.talismanSkillRange(10, 999, 1, &skillMinimum, &skillMaximum),

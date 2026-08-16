@@ -45,6 +45,7 @@ EXPECTED_GAME_COUNTS = {
     "palico_weapons": 509,
     "palico_head": 527,
     "palico_armor": 527,
+    "skills": 206,
 }
 
 EXPECTED_WEAPON_TYPES = {
@@ -109,31 +110,22 @@ def main() -> int:
 
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     require(manifest.get("format") == "mhxx-save-editor-data-v1", "unsupported manifest format")
-    require(manifest.get("generator_version") == "2.3.0", "unsupported generator version")
+    require(manifest.get("generator_version") == "2.4.0", "unsupported generator version")
     require(
         bool(manifest.get("sources", {}).get("palico_cn_translation_sha256")),
         "manifest is missing the Palico Chinese translation hash",
     )
-    require(
-        bool(manifest.get("sources", {}).get("talisman_skill_limits_sha256")),
-        "manifest is missing the talisman skill-limit hash",
-    )
-    talisman_reference = Path(__file__).resolve().parent / "reference" / "talisman_skill_limits.json"
-    require(
-        talisman_reference.is_file()
-        and manifest["sources"]["talisman_skill_limits_sha256"] == sha256(talisman_reference),
-        "manifest talisman skill-limit hash differs from the pinned reference",
-    )
     game_resource = manifest.get("game_resource", {})
-    require(game_resource.get("format") == "mhxx-game-resource-export-v3", "missing game-resource export metadata")
+    require(game_resource.get("format") == "mhxx-game-resource-export-v4", "missing game-resource export metadata")
     require(game_resource.get("language") == "jp", "game-resource language must be jp")
     require(game_resource.get("tables") == EXPECTED_GAME_COUNTS, "game-resource table counts differ")
     require(game_resource.get("rules") == {
         "armor_slots": EXPECTED_ARMOR_SLOT_ROWS,
         "weapon_level_slots": EXPECTED_WEAPON_LEVEL_ROWS,
         "decoration_slot_costs": 251,
+        "talisman_skill_limits": 206,
     }, "game-resource native rule counts differ")
-    require(len(game_resource.get("sources", [])) == 51, "expected 51 hashed game-resource source files")
+    require(len(game_resource.get("sources", [])) == 61, "expected 61 hashed game-resource source files")
     for entry in game_resource.get("sources", []):
         digest = entry.get("sha256", "")
         require(
@@ -265,9 +257,17 @@ def main() -> int:
             (talisman_id, skill_id)
             for talisman_id in range(1, 11) for skill_id in range(206)
         }, f"{language}: talisman skill-limit coverage differs")
-        require(limits_by_key[(10, 71)] == (0, 0, -7, 10),
+        require(indexes[f"{language}/skills.csv"][70]["english"] == "Expert",
+                f"{language}: save skill ID 70 must be Expert")
+        require(indexes[f"{language}/skills.csv"][71]["english"] == "Tenderizer",
+                f"{language}: save skill ID 71 must be Tenderizer")
+        require(indexes[f"{language}/skills.csv"][72]["english"] == "Chain Crit",
+                f"{language}: save skill ID 72 must be Chain Crit")
+        require(indexes[f"{language}/skills.csv"][203]["english"] == "Torso Up",
+                f"{language}: save skill ID 203 must be Torso Up")
+        require(limits_by_key[(10, 70)] == (0, 0, -7, 10),
                 f"{language}: Creator Talisman Expert ranges differ")
-        require(limits_by_key[(10, 73)] == (1, 5, -1, 3),
+        require(limits_by_key[(10, 72)] == (1, 5, -1, 3),
                 f"{language}: Creator Talisman Chain Crit ranges differ")
 
         for armor_name in ("armor_head", "armor_chest", "armor_arms", "armor_waist", "armor_legs"):
@@ -323,7 +323,7 @@ def main() -> int:
 
     if args.game_names is not None:
         game_export = json.loads(args.game_names.read_text(encoding="utf-8"))
-        require(game_export.get("format") == "mhxx-game-resource-export-v3", "unsupported game resource export")
+        require(game_export.get("format") == "mhxx-game-resource-export-v4", "unsupported game resource export")
         require(game_export.get("language") == "jp", "game name export language must be jp")
         require(sha256(args.game_names) == game_resource.get("export_sha256"), "game name export hash differs from manifest")
         tables_from_game = game_export.get("tables", {})
@@ -338,6 +338,8 @@ def main() -> int:
                 == EXPECTED_ARMOR_SLOT_ROWS, "supplied armor slot rule count differs")
         require(len(rules_from_game.get("decoration_slot_costs", [])) == 251,
                 "supplied decoration slot rule count differs")
+        require(len(rules_from_game.get("talisman_skill_limits", [])) == 206,
+                "supplied talisman skill-limit rule count differs")
         for language in ("cn", "en"):
             require(
                 set(indexes[f"{language}/items.csv"]) == set(range(len(tables_from_game["items"]))),

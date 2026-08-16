@@ -15,7 +15,7 @@ import struct
 from pathlib import Path
 
 
-FORMAT = "mhxx-game-resource-export-v3"
+FORMAT = "mhxx-game-resource-export-v4"
 GMD_MAGIC = b"GMD\0"
 
 ARMOR_RECORD_SIZE = 127
@@ -107,6 +107,61 @@ def read_counted_binary(path: Path) -> int:
     if count == 0 or (len(data) - 8) % count:
         raise ValueError(f"{path}: invalid record count/size")
     return count
+
+
+def read_skill_names(gmd_path: Path, binary_path: Path) -> list[str]:
+    """Read the save-ID skill-tree array used by equipment and charms."""
+    messages = read_gmd(gmd_path)
+    count = read_counted_binary(binary_path)
+    if len(messages) != count * 2:
+        raise ValueError(
+            f"{gmd_path}: expected two messages for each of {count} skill trees"
+        )
+    return grouped_names(messages, 2, 0, gmd_path.name)
+
+
+def read_talisman_skill_limits(root: Path, skill_count: int) -> list[dict[str, int]]:
+    """Read the game's eight positional charm-skill range tables.
+
+    Files 00/01 are mystery first/second skill, 02/03 shining,
+    04/05 timeworn and 06/07 enduring. Missing IDs have a native 0..0
+    range. The skill IDs in these records index skillTypeData directly.
+    """
+    result = [
+        {
+            "save_skill_id": skill_id,
+            **{
+                f"{rarity}_s{position}_{bound}": 0
+                for rarity in ("mystery", "shining", "timeworn", "enduring")
+                for position in (1, 2)
+                for bound in ("min", "max")
+            },
+        }
+        for skill_id in range(skill_count)
+    ]
+    for table_index in range(8):
+        path = root / f"amuletSkillData{table_index:02d}.amskl"
+        data = path.read_bytes()
+        if len(data) < 8:
+            raise ValueError(f"{path}: truncated talisman skill table")
+        count = struct.unpack_from("<I", data, 4)[0]
+        if len(data) != 8 + count * 4:
+            raise ValueError(f"{path}: talisman skill table size mismatch")
+        rarity = ("mystery", "shining", "timeworn", "enduring")[table_index // 2]
+        position = table_index % 2 + 1
+        seen: set[int] = set()
+        for index in range(count):
+            skill_id, minimum, maximum = struct.unpack_from("<Hbb", data, 8 + index * 4)
+            if not 0 < skill_id < skill_count:
+                raise ValueError(f"{path}: invalid skill ID {skill_id} at record {index}")
+            if skill_id in seen:
+                raise ValueError(f"{path}: duplicate skill ID {skill_id}")
+            if minimum > maximum:
+                raise ValueError(f"{path}: reversed range for skill ID {skill_id}")
+            seen.add(skill_id)
+            result[skill_id][f"{rarity}_s{position}_min"] = minimum
+            result[skill_id][f"{rarity}_s{position}_max"] = maximum
+    return result
 
 
 def read_weapon_map(path: Path) -> int:
@@ -252,6 +307,15 @@ def main() -> int:
     decoration_slot_costs = read_decoration_slot_costs(decoration_binary)
     used.append(decoration_binary)
 
+    skill_gmd = root / "skillTypeData_jpn.gmd"
+    skill_binary = root / "skillTypeData.skt"
+    skills = read_skill_names(skill_gmd, skill_binary)
+    if len(skills) != 206 or skills[0] != "なし":
+        raise ValueError("skillTypeData is not the expected 206-entry save-ID array")
+    talisman_skill_limits = read_talisman_skill_limits(root, len(skills))
+    used.extend((skill_gmd, skill_binary))
+    used.extend(root / f"amuletSkillData{index:02d}.amskl" for index in range(8))
+
     palico_weapon_gmd = root / "otWeaponData_jpn.gmd"
     palico_weapon_binary = root / "otWeaponData.owp"
     palico_weapons = grouped_names(read_gmd(palico_weapon_gmd), 2, 0, palico_weapon_gmd.name)
@@ -280,11 +344,13 @@ def main() -> int:
             "palico_weapons": palico_weapons,
             "palico_head": palico_head,
             "palico_armor": palico_armor,
+            "skills": skills,
         },
         "rules": {
             "armor_slots": armor_slots,
             "weapon_level_slots": weapon_level_slots,
             "decoration_slot_costs": decoration_slot_costs,
+            "talisman_skill_limits": talisman_skill_limits,
         },
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)

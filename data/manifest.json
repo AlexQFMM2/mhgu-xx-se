@@ -98,12 +98,12 @@
     {
       "path": "cn/skills.csv",
       "rows": 206,
-      "sha256": "930a8fbd6902ec77c65fd875b8108061a7667bf71c2b9525974e7c9a1212ea34"
+      "sha256": "c781104a86bf8f3c95771a0a3dd262754938ab008b1b904fa7404989da313db7"
     },
     {
       "path": "cn/talisman_skill_limits.csv",
       "rows": 2060,
-      "sha256": "58c332f00793a3efba8b27169edbafa81b60979fccc8c3a371cc009277c507ba"
+      "sha256": "9aa94beae461e38d03d937573788a48192e45435eec05b75863dbf0d0c3f1f75"
     },
     {
       "path": "cn/talismans.csv",
@@ -283,12 +283,12 @@
     {
       "path": "en/skills.csv",
       "rows": 206,
-      "sha256": "2eb1e93cad1418217c1c20cc92dac2345702475490db2aa63df4ae06de895d7a"
+      "sha256": "675671c882f7ea2e75872e05f5e1ec868b587fd609d3aade30175c9c69b06420"
     },
     {
       "path": "en/talisman_skill_limits.csv",
       "rows": 2060,
-      "sha256": "58c332f00793a3efba8b27169edbafa81b60979fccc8c3a371cc009277c507ba"
+      "sha256": "9aa94beae461e38d03d937573788a48192e45435eec05b75863dbf0d0c3f1f75"
     },
     {
       "path": "en/talismans.csv",
@@ -373,15 +373,56 @@
   ],
   "format": "mhxx-save-editor-data-v1",
   "game_resource": {
-    "export_sha256": "e845be55b2912df67f11435b1128cbe749482ca9d5f38cb61d0d742623b50e7c",
-    "format": "mhxx-game-resource-export-v3",
+    "export_sha256": "b587070a2f954e776f26f509b61327d9ef6d8735123020692a6f4d9f91fc2356",
+    "format": "mhxx-game-resource-export-v4",
     "language": "jp",
     "rules": {
       "armor_slots": 6435,
       "decoration_slot_costs": 251,
+      "talisman_skill_limits": 206,
       "weapon_level_slots": 10925
     },
     "sources": [
+      {
+        "file": "amuletSkillData00.amskl",
+        "sha256": "1870709581ca2c78f250da2150409bc041b78f4e7c1c73f3d2c3c7d9a49b3253",
+        "size": 244
+      },
+      {
+        "file": "amuletSkillData01.amskl",
+        "sha256": "562ee8a422968dda146303d669c8440d793f5268b7656bf38555cbbed1b34ddf",
+        "size": 8
+      },
+      {
+        "file": "amuletSkillData02.amskl",
+        "sha256": "bfaffd09db82125bbb10fec5b3f192b9caa0cd55d9dbbb15febc9a9947f79473",
+        "size": 292
+      },
+      {
+        "file": "amuletSkillData03.amskl",
+        "sha256": "ee14725ff27d0dab9f2308673fb26019ebe63696004e33f12aa8d2b660a65567",
+        "size": 304
+      },
+      {
+        "file": "amuletSkillData04.amskl",
+        "sha256": "c41cb1991b2250d133074548df420b27addb8d01bd0d3e804aaed3009594fce5",
+        "size": 232
+      },
+      {
+        "file": "amuletSkillData05.amskl",
+        "sha256": "a4ad7c87dd30bb685dd198687a5e7ccdb5b09a02ad6bb90e8cd57a0be45b51d4",
+        "size": 428
+      },
+      {
+        "file": "amuletSkillData06.amskl",
+        "sha256": "cb1088b49391c0c30700a71054ee75c4594bb804083571d3d55de6e6c202dcb9",
+        "size": 256
+      },
+      {
+        "file": "amuletSkillData07.amskl",
+        "sha256": "b475ae153fcc0f63861d308f3fcb1c8805c042f2e330c189f831e360dec6a5a5",
+        "size": 384
+      },
       {
         "file": "armorSeriesData.asd",
         "sha256": "599c82723c5b176674235fc3e17e2d36d4d7da565f41fd7c405e3c32259ac8ee",
@@ -426,6 +467,16 @@
         "file": "otWeaponData_jpn.gmd",
         "sha256": "e3a1996c57eced038df4c32bcb7721ac4effa68d691ef78ae12631efbd5c2989",
         "size": 77804
+      },
+      {
+        "file": "skillTypeData.skt",
+        "sha256": "0b46da21bf059b6c79e86a22bf25d6089665388ec8fe1c329c6aaeccf289cc47",
+        "size": 3922
+      },
+      {
+        "file": "skillTypeData_jpn.gmd",
+        "sha256": "f91ad7bdfc25423f3d2394dc9c9c0f6d448dececa12dfbe9ecb5a0d93b9fe781",
+        "size": 19009
       },
       {
         "file": "weapon00LevelData.w00d",
@@ -648,6 +699,7 @@
       "palico_armor": 527,
       "palico_head": 527,
       "palico_weapons": 509,
+      "skills": 206,
       "weapon_bow": 108,
       "weapon_charge_blade": 81,
       "weapon_dual_blades": 126,
@@ -664,12 +716,11 @@
       "weapon_sword_and_shield": 129
     }
   },
-  "generator_version": "2.3.0",
+  "generator_version": "2.4.0",
   "sources": {
     "dex_dump_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
     "mhxx_dex_exe_sha256": "5e0508b80b02565c5c7217861c315911878896567b07659631c34b7f7dae46c7",
     "palico_cn_translation_sha256": "e83abe3813020389a0591dde40bb4a853d77a962b9346c58066532fa0e9820b9",
-    "save_data_crosswalk_sha256": "02ded1a771ec07234fb06b91d153b1013275d9a33968130d5f775b3fd9a10705",
-    "talisman_skill_limits_sha256": "4d3e85695eeb39342366040d1960320a9fca8215b8870b445f5e03286aa1445c"
+    "save_data_crosswalk_sha256": "02ded1a771ec07234fb06b91d153b1013275d9a33968130d5f775b3fd9a10705"
   }
 }
