@@ -32,6 +32,7 @@
 
 #include <algorithm>
 #include <array>
+#include <functional>
 
 namespace {
 void localizeButtons(QDialogButtonBox *buttons, const QString &acceptText = QStringLiteral("确定"))
@@ -109,8 +110,12 @@ public:
         m_item = new QComboBox(this);
         configureCombo(m_item);
         QVector<GameDataEntry> entries = data->entries(QStringLiteral("items"));
-        if (entries.isEmpty() || entries.first().id != 0)
-            entries.prepend(GameDataEntry{0, QStringLiteral("无"), QStringLiteral("None"), {}});
+        if (entries.isEmpty() || entries.first().id != 0) {
+            GameDataEntry none;
+            none.name = QStringLiteral("无");
+            none.english = QStringLiteral("None");
+            entries.prepend(none);
+        }
         fillCombo(m_item, entries, item.id);
         m_count = new QSpinBox(this);
         m_count->setRange(0, 99);
@@ -502,45 +507,24 @@ private:
     QLabel *m_warning;
 };
 
-class IdArrayEditor : public QWidget {
+class RawByteArrayEditor : public QWidget {
 public:
-    IdArrayEditor(const QString &title, const QVector<GameDataEntry> &entries, int storageCount,
-                  int normalCount, const quint8 *values, QWidget *parent = nullptr) : QWidget(parent)
+    RawByteArrayEditor(const QString &title, int count, const quint8 *values,
+                       QWidget *parent = nullptr) : QWidget(parent)
     {
         auto *group = new QGroupBox(title, this);
-        auto *groupLayout = new QVBoxLayout(group);
         auto *grid = new QGridLayout;
-        bool extraSlotsContainData = false;
-        for (int i = 0; i < storageCount; ++i) {
-            auto *combo = new QComboBox(group);
-            configureCombo(combo);
-            fillCombo(combo, entries, values[i]);
-            auto *number = new QLabel(QString::number(i + 1), group);
-            grid->addWidget(number, i / 2, (i % 2) * 2);
-            grid->addWidget(combo, i / 2, (i % 2) * 2 + 1);
-            m_combos.push_back(combo);
-            if (i >= normalCount) {
-                number->hide();
-                combo->hide();
-                m_extraWidgets.push_back(number);
-                m_extraWidgets.push_back(combo);
-                extraSlotsContainData = extraSlotsContainData || values[i] != 0;
-            }
+        for (int i = 0; i < count; ++i) {
+            auto *spin = new QSpinBox(group);
+            spin->setRange(0, 255);
+            spin->setValue(values[i]);
+            spin->setToolTip(QStringLiteral("物理槽 %1；0 是有效区域空槽，57/96 可能是尾部哨兵。")
+                                 .arg(i + 1));
+            grid->addWidget(new QLabel(QString::number(i + 1), group), i / 8 * 2, i % 8);
+            grid->addWidget(spin, i / 8 * 2 + 1, i % 8);
+            m_spins.push_back(spin);
         }
-        groupLayout->addLayout(grid);
-        if (normalCount < storageCount) {
-            QString toggleText = QStringLiteral("显示存档额外槽 %1–%2【高级】")
-                                     .arg(normalCount + 1).arg(storageCount);
-            if (extraSlotsContainData)
-                toggleText += QStringLiteral("（当前有数据）");
-            auto *toggle = new QCheckBox(toggleText, group);
-            toggle->setToolTip(QStringLiteral("游戏常规上限为 %1 个，但存档预留了 %2 个位置。隐藏位置会原样保留。")
-                                   .arg(normalCount).arg(storageCount));
-            connect(toggle, &QCheckBox::toggled, this, [this](bool shown) {
-                for (QWidget *widget : m_extraWidgets) widget->setVisible(shown);
-            });
-            groupLayout->addWidget(toggle);
-        }
+        group->setLayout(grid);
         auto *layout = new QVBoxLayout(this);
         layout->setContentsMargins(0, 0, 0, 0);
         layout->addWidget(group);
@@ -548,12 +532,189 @@ public:
     QVector<quint8> values() const
     {
         QVector<quint8> result;
+        for (QSpinBox *spin : m_spins) result.push_back(quint8(spin->value()));
+        return result;
+    }
+    void onChanged(const std::function<void()> &callback)
+    {
+        for (QSpinBox *spin : m_spins)
+            connect(spin, qOverload<int>(&QSpinBox::valueChanged), spin, [callback] { callback(); });
+    }
+private:
+    QVector<QSpinBox *> m_spins;
+};
+
+QVector<GameDataEntry> selectableEntries(const QVector<GameDataEntry> &all, const QString &group = {},
+                                         bool teachableOnly = false, int preserve = -1)
+{
+    QVector<GameDataEntry> result;
+    for (const GameDataEntry &entry : all) {
+        if (entry.role == QStringLiteral("sentinel")) continue;
+        if (!group.isEmpty() && entry.generationGroup != group && entry.id != preserve) continue;
+        if (teachableOnly && entry.id != 0 && entry.teachable != 1 && entry.id != preserve) continue;
+        result.push_back(entry);
+    }
+    return result;
+}
+
+class CompactIdListEditor : public QWidget {
+public:
+    CompactIdListEditor(const QString &title, const QVector<GameDataEntry> &entries,
+                        const quint8 *values, int capacity, QWidget *parent = nullptr)
+        : QWidget(parent), m_entries(entries), m_capacity(capacity)
+    {
+        auto *group = new QGroupBox(title, this);
+        m_rows = new QVBoxLayout;
+        int used = 0;
+        while (used < capacity && values[used] != 0) ++used;
+        for (int i = 0; i < used; ++i) addRow(values[i]);
+        auto *buttons = new QHBoxLayout;
+        auto *add = new QPushButton(QStringLiteral("＋ 添加"), group);
+        auto *remove = new QPushButton(QStringLiteral("－ 移除末项"), group);
+        buttons->addWidget(add);
+        buttons->addWidget(remove);
+        buttons->addStretch();
+        connect(add, &QPushButton::clicked, this, [this] { if (m_combos.size() < m_capacity) { addRow(0); changed(); } });
+        connect(remove, &QPushButton::clicked, this, [this] {
+            if (m_combos.isEmpty()) return;
+            QComboBox *combo = m_combos.takeLast();
+            QWidget *row = combo->parentWidget();
+            delete row;
+            changed();
+        });
+        auto *box = new QVBoxLayout(group);
+        box->addLayout(m_rows);
+        box->addLayout(buttons);
+        auto *layout = new QVBoxLayout(this);
+        layout->setContentsMargins(0, 0, 0, 0);
+        layout->addWidget(group);
+    }
+    QVector<quint8> values() const
+    {
+        QVector<quint8> result(m_capacity, 0);
+        for (int i = 0; i < m_combos.size(); ++i) result[i] = quint8(m_combos[i]->currentData().toUInt());
+        return result;
+    }
+    void setValues(const QVector<quint8> &values)
+    {
+        while (QLayoutItem *item = m_rows->takeAt(0)) {
+            if (item->widget()) delete item->widget();
+            delete item;
+        }
+        m_combos.clear();
+        int used = 0;
+        while (used < values.size() && used < m_capacity && values[used] != 0) ++used;
+        for (int i = 0; i < used; ++i) addRow(values[i]);
+    }
+    void setEntries(const QVector<GameDataEntry> &entries)
+    {
+        m_entries = entries;
+        for (QComboBox *combo : m_combos) {
+            const int current = combo->currentData().toInt();
+            fillCombo(combo, selectableEntries(m_entries, {}, false, current), current);
+        }
+    }
+    void onChanged(const std::function<void()> &callback) { m_changed = callback; }
+private:
+    void addRow(int value)
+    {
+        auto *row = new QWidget(this);
+        auto *layout = new QHBoxLayout(row);
+        layout->setContentsMargins(0, 0, 0, 0);
+        auto *combo = new QComboBox(row);
+        configureCombo(combo);
+        fillCombo(combo, selectableEntries(m_entries, {}, false, value), value);
+        layout->addWidget(new QLabel(QString::number(m_combos.size() + 1), row));
+        layout->addWidget(combo, 1);
+        m_rows->addWidget(row);
+        m_combos.push_back(combo);
+        connect(combo, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { changed(); });
+    }
+    void changed() { if (m_changed) m_changed(); }
+    QVector<GameDataEntry> m_entries;
+    int m_capacity;
+    QVBoxLayout *m_rows;
+    QVector<QComboBox *> m_combos;
+    std::function<void()> m_changed;
+};
+
+class GroupedSlotEditor : public QWidget {
+public:
+    GroupedSlotEditor(const QString &title, const QVector<GameDataEntry> &entries,
+                      QWidget *parent = nullptr) : QWidget(parent), m_entries(entries)
+    {
+        m_group = new QGroupBox(title, this);
+        m_grid = new QGridLayout(m_group);
+        auto *layout = new QVBoxLayout(this);
+        layout->setContentsMargins(0, 0, 0, 0);
+        layout->addWidget(m_group);
+    }
+    void rebuild(const QString &sequence, const QVector<quint8> &values)
+    {
+        while (QLayoutItem *item = m_grid->takeAt(0)) {
+            if (item->widget()) delete item->widget();
+            delete item;
+        }
+        m_combos.clear();
+        m_free.clear();
+        m_sequence = sequence;
+        for (int i = 0; i < sequence.size(); ++i) {
+            const QString group = sequence.mid(i, 1);
+            const int current = i < values.size() ? values[i] : 0;
+            auto *label = new QLabel(QStringLiteral("%1槽 %2").arg(group).arg(i + 1), m_group);
+            auto *combo = new QComboBox(m_group);
+            configureCombo(combo);
+            fillCombo(combo, selectableEntries(m_entries, group, false, current), current);
+            auto *free = new QCheckBox(QStringLiteral("自由选择"), m_group);
+            const bool mismatch = current != 0 && m_entryGroup(current) != group;
+            free->setChecked(mismatch);
+            if (mismatch) refill(combo, current, true, group);
+            m_grid->addWidget(label, i, 0);
+            m_grid->addWidget(combo, i, 1);
+            m_grid->addWidget(free, i, 2);
+            m_combos.push_back(combo);
+            m_free.push_back(free);
+            connect(free, &QCheckBox::toggled, this, [this, combo, group](bool enabled) {
+                refill(combo, combo->currentData().toInt(), enabled, group);
+                changed();
+            });
+            connect(combo, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { changed(); });
+        }
+        changed();
+    }
+    QVector<quint8> values() const
+    {
+        QVector<quint8> result;
         for (QComboBox *combo : m_combos) result.push_back(quint8(combo->currentData().toUInt()));
         return result;
     }
+    void onChanged(const std::function<void()> &callback) { m_changed = callback; }
 private:
+    QString m_entryGroup(int id) const
+    {
+        for (const GameDataEntry &entry : m_entries) if (entry.id == id) return entry.generationGroup;
+        return {};
+    }
+    void refill(QComboBox *combo, int current, bool free, const QString &group)
+    {
+        fillCombo(combo, selectableEntries(m_entries, free ? QString() : group, false, current), current);
+    }
+    void changed()
+    {
+        for (int i = 0; i < m_combos.size(); ++i) {
+            const bool invalid = m_entryGroup(m_combos[i]->currentData().toInt()) != m_sequence.mid(i, 1);
+            m_combos[i]->setStyleSheet(invalid
+                ? QStringLiteral("QComboBox{border:2px solid #C62828;color:#A61B1B;}") : QString());
+        }
+        if (m_changed) m_changed();
+    }
+    QVector<GameDataEntry> m_entries;
+    QString m_sequence;
+    QGroupBox *m_group;
+    QGridLayout *m_grid;
     QVector<QComboBox *> m_combos;
-    QVector<QWidget *> m_extraWidgets;
+    QVector<QCheckBox *> m_free;
+    std::function<void()> m_changed;
 };
 
 class PalicoEditDialog : public QDialog {
@@ -625,12 +786,45 @@ public:
         }
         tabs->addTab(appearance, QStringLiteral("外观"));
 
+        m_moveEntries = data->entries(QStringLiteral("palico_support_moves"));
+        m_skillEntries = data->entries(QStringLiteral("palico_skills"));
+        const MhguPalicoStructure originalStructure = MhguSave::decodePalicoStructure(m_value);
+        m_ruleActive = originalStructure.recognized && !m_value.received;
+
         auto *actions = new QWidget(tabs);
         auto *actionsLayout = new QVBoxLayout(actions);
-        m_learnedActions = new IdArrayEditor(QStringLiteral("已学支援行动（常规最多 10 个）"), data->entries(QStringLiteral("palico_support_moves")), 16, 10, m_value.learnedActions.data(), actions);
-        m_equippedActions = new IdArrayEditor(QStringLiteral("已装备支援行动（随等级开放，最多 6 个）"), data->entries(QStringLiteral("palico_support_moves")), 8, 6, m_value.equippedActions.data(), actions);
-        actionsLayout->addWidget(m_learnedActions);
+        m_actionState = new QLabel(actions);
+        m_actionState->setWordWrap(true);
+        m_actionState->setObjectName(QStringLiteral("warningLabel"));
+        auto *rebuild = new QPushButton(QStringLiteral("按当前倾向重建普通结构"), actions);
+        auto *actionPatternRow = new QHBoxLayout;
+        m_actionPattern = new QComboBox(actions);
+        actionPatternRow->addWidget(new QLabel(QStringLiteral("A/B/C 构成"), actions));
+        actionPatternRow->addWidget(m_actionPattern, 1);
+        actionPatternRow->addWidget(rebuild);
+        m_actionFixed = new QLabel(actions);
+        m_actionFixed->setWordWrap(true);
+        m_secondary = new QComboBox(actions);
+        configureCombo(m_secondary);
+        auto *secondaryRow = new QHBoxLayout;
+        secondaryRow->addWidget(new QLabel(QStringLiteral("准固有行动"), actions));
+        secondaryRow->addWidget(m_secondary, 1);
+        m_actionGenerated = new GroupedSlotEditor(QStringLiteral("按组生成的行动槽"), m_moveEntries, actions);
+        quint8 emptyMoves[3]{};
+        m_actionTransfers = new CompactIdListEditor(QStringLiteral("传授行动槽"),
+            selectableEntries(m_moveEntries, {}, true), emptyMoves, 3, actions);
+        m_equippedActions = new CompactIdListEditor(QStringLiteral("已装备行动（从已学池选择）"),
+            m_moveEntries, m_value.equippedActions.data(), 8, actions);
+        m_actionDiagnostics = new QLabel(actions);
+        m_actionDiagnostics->setWordWrap(true);
+        actionsLayout->addWidget(m_actionState);
+        actionsLayout->addLayout(actionPatternRow);
+        actionsLayout->addWidget(m_actionFixed);
+        actionsLayout->addLayout(secondaryRow);
+        actionsLayout->addWidget(m_actionGenerated);
+        actionsLayout->addWidget(m_actionTransfers);
         actionsLayout->addWidget(m_equippedActions);
+        actionsLayout->addWidget(m_actionDiagnostics);
         actionsLayout->addStretch();
         auto *actionsScroll = new QScrollArea(tabs);
         actionsScroll->setWidgetResizable(true);
@@ -639,10 +833,28 @@ public:
 
         auto *skills = new QWidget(tabs);
         auto *skillsLayout = new QVBoxLayout(skills);
-        m_learnedSkills = new IdArrayEditor(QStringLiteral("已学被动技能（常规最多 8 个）"), data->entries(QStringLiteral("palico_skills")), 12, 8, m_value.learnedSkills.data(), skills);
-        m_equippedSkills = new IdArrayEditor(QStringLiteral("已装备被动技能（最多 4 个）"), data->entries(QStringLiteral("palico_skills")), 8, 4, m_value.equippedSkills.data(), skills);
-        skillsLayout->addWidget(m_learnedSkills);
+        auto *skillPatternRow = new QHBoxLayout;
+        m_skillPattern = new QComboBox(skills);
+        skillPatternRow->addWidget(new QLabel(QStringLiteral("A/B/C 构成"), skills));
+        skillPatternRow->addWidget(m_skillPattern, 1);
+        m_skillFixed = new QLabel(skills);
+        m_skillFixed->setWordWrap(true);
+        m_skillGenerated = new GroupedSlotEditor(QStringLiteral("按组生成的技能槽"), m_skillEntries, skills);
+        quint8 emptySkills[2]{};
+        m_skillTransfers = new CompactIdListEditor(QStringLiteral("传授技能槽"),
+            selectableEntries(m_skillEntries, {}, true), emptySkills, 2, skills);
+        m_equippedSkills = new CompactIdListEditor(QStringLiteral("已装备技能（从已学池选择）"),
+            m_skillEntries, m_value.equippedSkills.data(), 8, skills);
+        m_memoryUsage = new QLabel(QStringLiteral("记忆槽：成本表尚未确认；未知成本不判定为非法。"), skills);
+        m_skillDiagnostics = new QLabel(skills);
+        m_skillDiagnostics->setWordWrap(true);
+        skillsLayout->addLayout(skillPatternRow);
+        skillsLayout->addWidget(m_skillFixed);
+        skillsLayout->addWidget(m_skillGenerated);
+        skillsLayout->addWidget(m_skillTransfers);
         skillsLayout->addWidget(m_equippedSkills);
+        skillsLayout->addWidget(m_memoryUsage);
+        skillsLayout->addWidget(m_skillDiagnostics);
         skillsLayout->addStretch();
         auto *skillsScroll = new QScrollArea(tabs);
         skillsScroll->setWidgetResizable(true);
@@ -650,34 +862,38 @@ public:
         tabs->addTab(skillsScroll, QStringLiteral("被动技能"));
 
         auto *advanced = new QWidget(tabs);
-        auto *advancedForm = new QFormLayout(advanced);
-        m_actionPattern = new QComboBox(advanced);
-        for (const PalicoPattern &pattern : data->patterns(QStringLiteral("move")))
-            m_actionPattern->addItem(QStringLiteral("模式 %1 · %2").arg(pattern.id).arg(pattern.sequence), pattern.id);
-        m_actionPattern->setCurrentIndex(m_actionPattern->findData(m_value.actionPattern));
-        if (m_actionPattern->currentIndex() < 0) {
-            m_actionPattern->addItem(QStringLiteral("未知模式 %1").arg(m_value.actionPattern), m_value.actionPattern);
-            m_actionPattern->setCurrentIndex(m_actionPattern->count() - 1);
-        }
-        m_skillPattern = new QComboBox(advanced);
-        for (const PalicoPattern &pattern : data->patterns(QStringLiteral("skill")))
-            m_skillPattern->addItem(QStringLiteral("模式 %1 · %2").arg(pattern.id).arg(pattern.sequence), pattern.id);
-        m_skillPattern->setCurrentIndex(m_skillPattern->findData(m_value.skillPattern));
-        if (m_skillPattern->currentIndex() < 0) {
-            m_skillPattern->addItem(QStringLiteral("未知模式 %1").arg(m_value.skillPattern), m_value.skillPattern);
-            m_skillPattern->setCurrentIndex(m_skillPattern->count() - 1);
-        }
-        m_grants = new QLabel(advanced);
-        m_grants->setWordWrap(true);
-        advancedForm->addRow(QStringLiteral("倾向固有项"), m_grants);
-        advancedForm->addRow(QStringLiteral("行动生成规律"), m_actionPattern);
-        advancedForm->addRow(QStringLiteral("行动种子（保留）"), new QLabel(QStringLiteral("0x%1").arg(m_value.actionSeed, 2, 16, QLatin1Char('0')).toUpper(), advanced));
-        advancedForm->addRow(QStringLiteral("技能生成规律"), m_skillPattern);
-        advancedForm->addRow(QStringLiteral("技能种子（保留）"), new QLabel(QStringLiteral("0x%1").arg(m_value.skillSeed, 2, 16, QLatin1Char('0')).toUpper(), advanced));
-        auto *advancedWarning = new QLabel(QStringLiteral("高级设置会改变猫猫的生成结构。规则仅供参考，程序不会阻止自定义组合写入。"), advanced);
+        auto *advancedLayout = new QVBoxLayout(advanced);
+        m_advanced = new QGroupBox(QStringLiteral("启用高级原始编辑（0..255）"), advanced);
+        m_advanced->setCheckable(true);
+        m_advanced->setChecked(false);
+        auto *advancedBox = new QVBoxLayout(m_advanced);
+        m_rawEquippedActions = new RawByteArrayEditor(QStringLiteral("已装备行动原始数组"), 8, m_value.equippedActions.data(), m_advanced);
+        m_rawEquippedSkills = new RawByteArrayEditor(QStringLiteral("已装备技能原始数组"), 8, m_value.equippedSkills.data(), m_advanced);
+        m_rawLearnedActions = new RawByteArrayEditor(QStringLiteral("已学行动原始数组（尾部哨兵 57）"), 16, m_value.learnedActions.data(), m_advanced);
+        m_rawLearnedSkills = new RawByteArrayEditor(QStringLiteral("已学技能原始数组（尾部哨兵 96）"), 12, m_value.learnedSkills.data(), m_advanced);
+        auto *rawCodes = new QFormLayout;
+        m_rawActionPattern = byteSpin(m_value.actionPattern, m_advanced);
+        m_rawActionLength = byteSpin(m_value.actionValidLength, m_advanced);
+        m_rawSkillPattern = byteSpin(m_value.skillPattern, m_advanced);
+        m_rawSkillLength = byteSpin(m_value.skillValidLength, m_advanced);
+        rawCodes->addRow(QStringLiteral("0x54 行动模式编号"), m_rawActionPattern);
+        rawCodes->addRow(QStringLiteral("0x55 行动有效区域长度"), m_rawActionLength);
+        rawCodes->addRow(QStringLiteral("0x56 技能模式编号"), m_rawSkillPattern);
+        rawCodes->addRow(QStringLiteral("0x57 技能有效区域长度"), m_rawSkillLength);
+        auto *advancedWarning = new QLabel(QStringLiteral("高级值会逐字节写入。非法只会标红提示，不会被自动修正、清除或阻止保存。"), m_advanced);
         advancedWarning->setObjectName(QStringLiteral("warningLabel"));
         advancedWarning->setWordWrap(true);
-        advancedForm->addRow(advancedWarning);
+        advancedBox->addWidget(advancedWarning);
+        advancedBox->addWidget(m_rawEquippedActions);
+        advancedBox->addWidget(m_rawEquippedSkills);
+        advancedBox->addWidget(m_rawLearnedActions);
+        advancedBox->addWidget(m_rawLearnedSkills);
+        advancedBox->addLayout(rawCodes);
+        m_advancedDiagnostics = new QLabel(m_advanced);
+        m_advancedDiagnostics->setWordWrap(true);
+        advancedBox->addWidget(m_advancedDiagnostics);
+        advancedLayout->addWidget(m_advanced);
+        advancedLayout->addStretch();
         tabs->addTab(advanced, QStringLiteral("高级设置"));
 
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Save | QDialogButtonBox::Cancel, this);
@@ -687,9 +903,30 @@ public:
         connect(m_level, qOverload<int>(&QSpinBox::valueChanged), this, [this](int level) {
             m_exp->setText(QString::number(MhguSave::experienceForLevel(level)));
         });
-        connect(m_forte, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateGrants(); });
+        connect(m_forte, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] {
+            populatePatterns(); updateFixedItems(); updateDiagnostics();
+        });
+        connect(rebuild, &QPushButton::clicked, this, [this] { activateRules(false); });
+        connect(m_actionPattern, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { rebuildGenerated(false); });
+        connect(m_skillPattern, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { rebuildGenerated(false); });
+        connect(m_secondary, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateDiagnostics(); });
+        m_actionGenerated->onChanged([this] { refreshEquippedPools(); updateDiagnostics(); });
+        m_skillGenerated->onChanged([this] { refreshEquippedPools(); updateDiagnostics(); });
+        m_actionTransfers->onChanged([this] { refreshEquippedPools(); updateDiagnostics(); });
+        m_skillTransfers->onChanged([this] { refreshEquippedPools(); updateDiagnostics(); });
+        m_equippedActions->onChanged([this] { updateDiagnostics(); });
+        m_equippedSkills->onChanged([this] { updateDiagnostics(); });
+        connect(m_advanced, &QGroupBox::toggled, this, [this] { updateDiagnostics(); });
+        auto rawChanged = [this] { updateDiagnostics(); };
+        m_rawEquippedActions->onChanged(rawChanged); m_rawEquippedSkills->onChanged(rawChanged);
+        m_rawLearnedActions->onChanged(rawChanged); m_rawLearnedSkills->onChanged(rawChanged);
+        for (QSpinBox *spin : {m_rawActionPattern, m_rawActionLength, m_rawSkillPattern, m_rawSkillLength})
+            connect(spin, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateDiagnostics(); });
         m_exp->setText(QString::number(MhguSave::experienceForLevel(m_value.level)));
-        updateGrants();
+        populatePatterns();
+        if (m_ruleActive) activateRules(true); else setRuleWidgetsEnabled(false);
+        updateFixedItems();
+        updateDiagnostics();
 
         auto *layout = new QVBoxLayout(this);
         layout->addWidget(tabs);
@@ -697,52 +934,209 @@ public:
         resize(880, 700);
     }
 private:
-    void updateGrants()
+    static QSpinBox *byteSpin(int value, QWidget *parent)
     {
-        const int forte = m_forte->currentData().toInt();
-        QStringList moves, skills;
-        for (const PalicoForteGrant &grant : m_data->forteGrants(forte, QStringLiteral("move")))
-            moves << m_data->name(QStringLiteral("palico_support_moves"), grant.entryId);
-        for (const PalicoForteGrant &grant : m_data->forteGrants(forte, QStringLiteral("skill")))
-            skills << m_data->name(QStringLiteral("palico_skills"), grant.entryId);
-        m_grants->setText(QStringLiteral("固有行动：%1\n固有技能：%2").arg(moves.join(QStringLiteral("、")), skills.join(QStringLiteral("、"))));
+        auto *spin = new QSpinBox(parent); spin->setRange(0, 255); spin->setValue(value); return spin;
+    }
+    QVector<int> grantIds(const QString &kind, const QString &role) const
+    {
+        QVector<int> result;
+        for (const PalicoForteGrant &grant : m_data->forteGrants(m_forte->currentData().toInt(), kind, role))
+            result.push_back(grant.entryId);
+        return result;
+    }
+    void populatePatterns()
+    {
+        const int oldAction = m_actionPattern->currentIndex() >= 0 ? m_actionPattern->currentData().toInt() : m_value.actionPattern;
+        const int oldSkill = m_skillPattern->currentIndex() >= 0 ? m_skillPattern->currentData().toInt() : m_value.skillPattern;
+        m_updating = true;
+        m_actionPattern->clear();
+        const QString scope = m_forte->currentData().toInt() == 0 ? QStringLiteral("charisma_move") : QStringLiteral("normal_move");
+        for (const PalicoPattern &pattern : m_data->patterns(scope))
+            m_actionPattern->addItem(QStringLiteral("%1 · 模式 %2 · 权重 %3").arg(pattern.sequence).arg(pattern.id).arg(pattern.weight), pattern.id);
+        m_skillPattern->clear();
+        for (const PalicoPattern &pattern : m_data->patterns(QStringLiteral("skill")))
+            m_skillPattern->addItem(QStringLiteral("%1 · 模式 %2 · 权重 %3").arg(pattern.sequence).arg(pattern.id).arg(pattern.weight), pattern.id);
+        m_actionPattern->setCurrentIndex(std::max(0, m_actionPattern->findData(oldAction)));
+        m_skillPattern->setCurrentIndex(std::max(0, m_skillPattern->findData(oldSkill)));
+        m_updating = false;
+    }
+    void setRuleWidgetsEnabled(bool enabled)
+    {
+        m_actionPattern->setEnabled(enabled); m_skillPattern->setEnabled(enabled);
+        m_secondary->setEnabled(enabled && m_forte->currentData().toInt() != 0);
+        m_actionGenerated->setEnabled(enabled); m_skillGenerated->setEnabled(enabled);
+        m_actionTransfers->setEnabled(enabled); m_skillTransfers->setEnabled(enabled);
+        m_equippedActions->setEnabled(enabled); m_equippedSkills->setEnabled(enabled);
+    }
+    void updateFixedItems()
+    {
+        QStringList moveText;
+        for (int id : grantIds(QStringLiteral("move"), QStringLiteral("primary")))
+            moveText << QStringLiteral("固有：%1").arg(m_data->name(QStringLiteral("palico_support_moves"), id));
+        for (int id : grantIds(QStringLiteral("move"), QStringLiteral("common")))
+            moveText << QStringLiteral("共通：%1").arg(m_data->name(QStringLiteral("palico_support_moves"), id));
+        m_actionFixed->setText(moveText.join(QStringLiteral("　")));
+        const QString secondaryRole = m_forte->currentData().toInt() == 7 ? QStringLiteral("secondary_fixed") : QStringLiteral("secondary");
+        QVector<GameDataEntry> choices;
+        for (int id : grantIds(QStringLiteral("move"), secondaryRole))
+            choices.push_back(m_data->entry(QStringLiteral("palico_support_moves"), id));
+        const int current = m_secondary->currentIndex() >= 0 ? m_secondary->currentData().toInt() : m_value.learnedActions[1];
+        fillCombo(m_secondary, choices, current);
+        m_secondary->setVisible(m_forte->currentData().toInt() != 0);
+        QStringList skills;
+        for (int id : grantIds(QStringLiteral("skill"), QStringLiteral("innate")))
+            skills << m_data->name(QStringLiteral("palico_skills"), id);
+        m_skillFixed->setText(QStringLiteral("倾向固有技能（可传授）：%1").arg(skills.join(QStringLiteral("、"))));
+    }
+    void activateRules(bool preserveStored)
+    {
+        m_ruleActive = true; setRuleWidgetsEnabled(true); updateFixedItems();
+        if (!preserveStored && m_secondary->count() > 0) m_secondary->setCurrentIndex(0);
+        const QString scope = m_forte->currentData().toInt() == 0 ? QStringLiteral("charisma_move") : QStringLiteral("normal_move");
+        const PalicoPattern action = m_data->pattern(scope, m_actionPattern->currentData().toInt());
+        const PalicoPattern skill = m_data->pattern(QStringLiteral("skill"), m_skillPattern->currentData().toInt());
+        if (preserveStored) rebuildGenerated(true);
+        else {
+            m_actionGenerated->rebuild(action.sequence, {});
+            m_skillGenerated->rebuild(skill.sequence, {});
+        }
+        const int actionStart = (m_forte->currentData().toInt() == 0 ? 3 : 4) + action.sequence.size();
+        QVector<quint8> actionTransfers, skillTransfers;
+        const int transferCount = m_forte->currentData().toInt() == 0 ? 3 : 2;
+        if (preserveStored) {
+            for (int i = 0; i < transferCount; ++i) actionTransfers.push_back(m_value.learnedActions[size_t(actionStart + i)]);
+            for (int i = 0; i < 2; ++i) skillTransfers.push_back(m_value.learnedSkills[size_t(2 + skill.sequence.size() + i)]);
+        }
+        m_actionTransfers->setValues(actionTransfers); m_skillTransfers->setValues(skillTransfers);
+        if (!preserveStored) {
+            m_equippedActions->setValues({});
+            m_equippedSkills->setValues({});
+        }
+        refreshEquippedPools();
+        updateDiagnostics();
+    }
+    void rebuildGenerated(bool fromStored)
+    {
+        if (m_updating || !m_ruleActive) return;
+        const QString scope = m_forte->currentData().toInt() == 0 ? QStringLiteral("charisma_move") : QStringLiteral("normal_move");
+        const PalicoPattern action = m_data->pattern(scope, m_actionPattern->currentData().toInt());
+        const PalicoPattern skill = m_data->pattern(QStringLiteral("skill"), m_skillPattern->currentData().toInt());
+        QVector<quint8> actionValues = fromStored ? QVector<quint8>() : m_actionGenerated->values();
+        QVector<quint8> skillValues = fromStored ? QVector<quint8>() : m_skillGenerated->values();
+        if (fromStored) {
+            const int fixed = m_forte->currentData().toInt() == 0 ? 3 : 4;
+            for (int i = 0; i < action.sequence.size(); ++i) actionValues.push_back(m_value.learnedActions[size_t(fixed + i)]);
+            for (int i = 0; i < skill.sequence.size(); ++i) skillValues.push_back(m_value.learnedSkills[size_t(2 + i)]);
+        }
+        m_actionGenerated->rebuild(action.sequence, actionValues);
+        m_skillGenerated->rebuild(skill.sequence, skillValues);
+        updateDiagnostics();
+    }
+    template <size_t N> static void copyBytes(const QVector<quint8> &source, std::array<quint8, N> &target)
+    {
+        for (int i = 0; i < int(N) && i < source.size(); ++i) target[size_t(i)] = source[i];
+    }
+    MhguPalico candidate() const
+    {
+        MhguPalico out = m_value;
+        out.forte = quint8(m_forte->currentData().toUInt()); out.level = quint8(m_level->value());
+        out.target = quint8(m_target->currentData().toUInt());
+        if (m_advanced->isChecked()) {
+            copyBytes(m_rawEquippedActions->values(), out.equippedActions); copyBytes(m_rawEquippedSkills->values(), out.equippedSkills);
+            copyBytes(m_rawLearnedActions->values(), out.learnedActions); copyBytes(m_rawLearnedSkills->values(), out.learnedSkills);
+            out.actionPattern = quint8(m_rawActionPattern->value()); out.actionValidLength = quint8(m_rawActionLength->value());
+            out.skillPattern = quint8(m_rawSkillPattern->value()); out.skillValidLength = quint8(m_rawSkillLength->value());
+        } else if (m_ruleActive) {
+            out.learnedActions.fill(57); out.learnedSkills.fill(96); out.equippedActions.fill(0); out.equippedSkills.fill(0);
+            int pos = 0;
+            const QVector<int> primary = grantIds(QStringLiteral("move"), QStringLiteral("primary"));
+            if (!primary.isEmpty()) out.learnedActions[size_t(pos++)] = quint8(primary[0]);
+            if (out.forte != 0) out.learnedActions[size_t(pos++)] = quint8(m_secondary->currentData().toUInt());
+            for (int id : grantIds(QStringLiteral("move"), QStringLiteral("common"))) out.learnedActions[size_t(pos++)] = quint8(id);
+            for (quint8 id : m_actionGenerated->values()) if (pos < 16) out.learnedActions[size_t(pos++)] = id;
+            const int actionTransferCount = out.forte == 0 ? 3 : 2;
+            const QVector<quint8> actionTransfers = m_actionTransfers->values();
+            for (int i = 0; i < actionTransferCount && pos < 16; ++i) out.learnedActions[size_t(pos++)] = actionTransfers[i];
+            out.actionPattern = quint8(m_actionPattern->currentData().toUInt());
+            const QString scope = out.forte == 0 ? QStringLiteral("charisma_move") : QStringLiteral("normal_move");
+            out.actionValidLength = quint8(m_data->pattern(scope, out.actionPattern).validLength);
+            pos = 0;
+            for (int id : grantIds(QStringLiteral("skill"), QStringLiteral("innate"))) out.learnedSkills[size_t(pos++)] = quint8(id);
+            for (quint8 id : m_skillGenerated->values()) if (pos < 12) out.learnedSkills[size_t(pos++)] = id;
+            for (quint8 id : m_skillTransfers->values()) if (pos < 12) out.learnedSkills[size_t(pos++)] = id;
+            out.skillPattern = quint8(m_skillPattern->currentData().toUInt());
+            out.skillValidLength = quint8(m_data->pattern(QStringLiteral("skill"), out.skillPattern).validLength);
+            copyBytes(m_equippedActions->values(), out.equippedActions); copyBytes(m_equippedSkills->values(), out.equippedSkills);
+        }
+        return out;
+    }
+    void refreshEquippedPools()
+    {
+        if (!m_ruleActive || m_updating || m_advanced->isChecked()) return;
+        const MhguPalico current = candidate();
+        QSet<int> actionIds, skillIds;
+        for (quint8 id : current.learnedActions) if (id != 0 && id != 57) actionIds.insert(id);
+        for (quint8 id : current.learnedSkills) if (id != 0 && id != 96) skillIds.insert(id);
+        for (quint8 id : current.equippedActions) if (id != 0) actionIds.insert(id);
+        for (quint8 id : current.equippedSkills) if (id != 0) skillIds.insert(id);
+        QVector<GameDataEntry> actions, skills;
+        for (const GameDataEntry &entry : m_moveEntries) if (entry.id == 0 || actionIds.contains(entry.id)) actions.push_back(entry);
+        for (const GameDataEntry &entry : m_skillEntries) if (entry.id == 0 || skillIds.contains(entry.id)) skills.push_back(entry);
+        m_updating = true;
+        m_equippedActions->setEntries(actions); m_equippedSkills->setEntries(skills);
+        m_updating = false;
+    }
+    void updateDiagnostics()
+    {
+        if (!m_actionDiagnostics || m_updating) return;
+        m_actionState->setText(!m_ruleActive && !m_advanced->isChecked()
+            ? QStringLiteral("当前猫是外来/配信猫或结构无法识别。数组保持原样；点击“按当前倾向重建”才套用普通布局。")
+            : QStringLiteral("规则只用于提示。红色配置仍可应用并保存，程序不会替换或清除。"));
+        const MhguPalico current = candidate();
+        int equippedSkillCount = 0;
+        for (quint8 id : current.equippedSkills) if (id != 0) ++equippedSkillCount;
+        m_memoryUsage->setText(QStringLiteral("已装备 %1 项；记忆槽成本尚未从原生表确认，未知成本不判定为非法。")
+                                   .arg(equippedSkillCount));
+        QStringList action, skill, all;
+        bool actionError = false, skillError = false, anyError = false;
+        for (const PalicoValidationIssue &issue : MhguSave::validatePalico(current)) {
+            const bool error = issue.severity == PalicoIssueSeverity::Error;
+            const QString line = QStringLiteral("%1 [%2] %3")
+                .arg(error ? QStringLiteral("●") : QStringLiteral("⚠"), issue.code, issue.message);
+            all << line; anyError = anyError || error;
+            if (issue.field.contains(QStringLiteral("skill"), Qt::CaseInsensitive)) {
+                skill << line; skillError = skillError || error;
+            } else {
+                action << line; actionError = actionError || error;
+            }
+        }
+        auto show = [](QLabel *label, const QStringList &messages, bool hasError) {
+            label->setText(messages.isEmpty() ? QStringLiteral("✓ 当前未发现规则问题") : messages.join(QLatin1Char('\n')));
+            label->setStyleSheet(messages.isEmpty() ? QStringLiteral("color:#287A3D;") : hasError
+                ? QStringLiteral("color:#C62828;font-weight:600;")
+                : QStringLiteral("color:#9A5A00;font-weight:600;"));
+        };
+        show(m_actionDiagnostics, action, actionError); show(m_skillDiagnostics, skill, skillError);
+        show(m_advancedDiagnostics, all, anyError);
     }
     void apply()
     {
-        m_value.name = m_name->text();
-        m_value.level = quint8(m_level->value());
-        m_value.forte = quint8(m_forte->currentData().toUInt());
-        m_value.enthusiasm = quint8(m_enthusiasm->value());
-        m_value.target = quint8(m_target->currentData().toUInt());
-        m_value.greeting = m_greeting->toPlainText();
-        m_value.nameGiver = m_nameGiver->text();
-        m_value.previousOwner = m_previousOwner->text();
-        const QVector<quint8> ea = m_equippedActions->values(), es = m_equippedSkills->values();
-        const QVector<quint8> la = m_learnedActions->values(), ls = m_learnedSkills->values();
-        std::copy(ea.begin(), ea.end(), m_value.equippedActions.begin());
-        std::copy(es.begin(), es.end(), m_value.equippedSkills.begin());
-        std::copy(la.begin(), la.end(), m_value.learnedActions.begin());
-        std::copy(ls.begin(), ls.end(), m_value.learnedSkills.begin());
-        m_value.actionPattern = quint8(m_actionPattern->currentData().toUInt());
-        m_value.skillPattern = quint8(m_skillPattern->currentData().toUInt());
-        m_value.voice = quint8(m_appearance[0]->value());
-        m_value.eyes = quint8(m_appearance[1]->value());
-        m_value.clothing = quint8(m_appearance[2]->value());
-        m_value.coat = quint8(m_appearance[3]->value());
-        m_value.ears = quint8(m_appearance[4]->value());
-        m_value.tail = quint8(m_appearance[5]->value());
+        MhguPalico edited = candidate(); edited.name = m_name->text();
+        edited.enthusiasm = quint8(m_enthusiasm->value()); edited.greeting = m_greeting->toPlainText();
+        edited.nameGiver = m_nameGiver->text(); edited.previousOwner = m_previousOwner->text();
+        edited.voice = quint8(m_appearance[0]->value()); edited.eyes = quint8(m_appearance[1]->value());
+        edited.clothing = quint8(m_appearance[2]->value()); edited.coat = quint8(m_appearance[3]->value());
+        edited.ears = quint8(m_appearance[4]->value()); edited.tail = quint8(m_appearance[5]->value());
         for (QLineEdit *color : m_colors) {
             if (!color->hasAcceptableInput()) {
                 QMessageBox::warning(this, windowTitle(), QStringLiteral("RGBA 必须是 8 个十六进制字符。"));
                 return;
             }
         }
-        m_value.coatColor = parseRgba(m_colors[0]->text());
-        m_value.rightEyeColor = parseRgba(m_colors[1]->text());
-        m_value.leftEyeColor = parseRgba(m_colors[2]->text());
-        m_value.vestColor = parseRgba(m_colors[3]->text());
-        QString advisory;
-        if (!m_save->setPalico(m_index, m_value, &advisory)) {
+        edited.coatColor = parseRgba(m_colors[0]->text()); edited.rightEyeColor = parseRgba(m_colors[1]->text());
+        edited.leftEyeColor = parseRgba(m_colors[2]->text()); edited.vestColor = parseRgba(m_colors[3]->text());
+        if (!m_save->setPalico(m_index, edited)) {
             QMessageBox::critical(this, windowTitle(), QStringLiteral("猫猫记录写入越界或索引无效。"));
             return;
         }
@@ -763,13 +1157,21 @@ private:
     QLineEdit *m_previousOwner;
     QSpinBox *m_appearance[6];
     QLineEdit *m_colors[4];
-    IdArrayEditor *m_equippedActions;
-    IdArrayEditor *m_equippedSkills;
-    IdArrayEditor *m_learnedActions;
-    IdArrayEditor *m_learnedSkills;
+    QVector<GameDataEntry> m_moveEntries, m_skillEntries;
+    CompactIdListEditor *m_equippedActions; CompactIdListEditor *m_equippedSkills;
+    CompactIdListEditor *m_actionTransfers; CompactIdListEditor *m_skillTransfers;
+    GroupedSlotEditor *m_actionGenerated; GroupedSlotEditor *m_skillGenerated;
     QComboBox *m_actionPattern;
     QComboBox *m_skillPattern;
-    QLabel *m_grants;
+    QComboBox *m_secondary;
+    QLabel *m_actionFixed; QLabel *m_skillFixed; QLabel *m_actionState;
+    QLabel *m_actionDiagnostics; QLabel *m_skillDiagnostics; QLabel *m_memoryUsage;
+    QGroupBox *m_advanced;
+    RawByteArrayEditor *m_rawEquippedActions; RawByteArrayEditor *m_rawEquippedSkills;
+    RawByteArrayEditor *m_rawLearnedActions; RawByteArrayEditor *m_rawLearnedSkills;
+    QSpinBox *m_rawActionPattern; QSpinBox *m_rawActionLength; QSpinBox *m_rawSkillPattern; QSpinBox *m_rawSkillLength;
+    QLabel *m_advancedDiagnostics;
+    bool m_ruleActive = false; bool m_updating = false;
 };
 }
 

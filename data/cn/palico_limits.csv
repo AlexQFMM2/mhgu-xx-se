@@ -1,7 +1,5 @@
 key,value,source
 charisma_fixed_move_slots,3,mhxx-save-format-community
-max_learned_moves,10,mhxx-save-format-community
-max_learned_skills,8,mhxx-save-format-community
 other_forte_fixed_move_slots,4,mhxx-save-format-community
 basic_move_0,1,mhxx-save-format-community
 basic_move_1,9,mhxx-save-format-community

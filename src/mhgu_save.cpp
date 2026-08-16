@@ -21,12 +21,6 @@ constexpr quint32 PalicoOffset = 0x23BB6;
 constexpr int PalicoSize = 324;
 
 template <size_t N>
-int nonZeroCount(const std::array<quint8, N> &values)
-{
-    return int(std::count_if(values.begin(), values.end(), [](quint8 value) { return value != 0; }));
-}
-
-template <size_t N>
 bool compact(const std::array<quint8, N> &values)
 {
     bool seenZero = false;
@@ -41,9 +35,46 @@ template <size_t A, size_t B>
 bool subset(const std::array<quint8, A> &selected, const std::array<quint8, B> &learned)
 {
     QSet<quint8> pool;
-    for (quint8 id : learned) if (id != 0) pool.insert(id);
+    for (quint8 id : learned) if (id != 0 && id != 57 && id != 96) pool.insert(id);
     for (quint8 id : selected) if (id != 0 && !pool.contains(id)) return false;
     return true;
+}
+
+QString patternSequence(const QString &scope, int id)
+{
+    static const std::array<const char *, 7> normal{{
+        "CCCCCCCC", "BBCCCC", "BBBCC", "BBBB", "ACCCCC", "ABCCC", "ABBC"
+    }};
+    static const std::array<const char *, 8> charisma{{
+        "CCCCCCCCC", "BBCCCCC", "BBBCCC", "BBBBC", "ACCCCCC", "ABCCCC", "ABBCC", "ABBB"
+    }};
+    if (scope == QStringLiteral("charisma_move"))
+        return id >= 0 && id < int(charisma.size()) ? QString::fromLatin1(charisma[size_t(id)]) : QString();
+    return id >= 0 && id < int(normal.size()) ? QString::fromLatin1(normal[size_t(id)]) : QString();
+}
+
+QString generationGroup(bool skill, int id)
+{
+    static const QSet<int> moveA{2, 13, 17, 18, 19, 36, 45};
+    static const QSet<int> moveB{4, 11, 15, 16, 21, 22, 28, 33, 39, 44, 49, 55, 56};
+    static const QSet<int> moveC{8, 10, 14, 23, 25, 32, 34, 35, 38, 40, 41, 42, 43, 48, 50, 51, 52, 53, 54};
+    static const QSet<int> skillA{7, 12, 13, 19, 21, 23, 39};
+    static const QSet<int> skillB{2, 4, 6, 9, 14, 17, 20, 28, 31, 36, 40, 80, 81};
+    static const QSet<int> skillC{1, 8, 15, 25, 26, 27, 29, 30, 32, 33, 34, 35, 37, 42, 47, 79};
+    const QSet<int> &a = skill ? skillA : moveA;
+    const QSet<int> &b = skill ? skillB : moveB;
+    const QSet<int> &c = skill ? skillC : moveC;
+    if (a.contains(id)) return QStringLiteral("A");
+    if (b.contains(id)) return QStringLiteral("B");
+    if (c.contains(id)) return QStringLiteral("C");
+    return {};
+}
+
+void addIssue(QVector<PalicoValidationIssue> &issues, const QString &field,
+              const QString &code, const QString &message,
+              PalicoIssueSeverity severity = PalicoIssueSeverity::Error)
+{
+    issues.push_back({severity, field, code, message});
 }
 }
 
@@ -382,9 +413,9 @@ MhguPalico MhguSave::palico(int index) const
     for (int i = 0; i < 16; ++i) out.learnedActions[i] = quint8(m_raw[int(p + 0x38 + i)]);
     for (int i = 0; i < 12; ++i) out.learnedSkills[i] = quint8(m_raw[int(p + 0x48 + i)]);
     out.actionPattern = quint8(m_raw[int(p + 0x54)]);
-    out.actionSeed = quint8(m_raw[int(p + 0x55)]);
+    out.actionValidLength = quint8(m_raw[int(p + 0x55)]);
     out.skillPattern = quint8(m_raw[int(p + 0x56)]);
-    out.skillSeed = quint8(m_raw[int(p + 0x57)]);
+    out.skillValidLength = quint8(m_raw[int(p + 0x57)]);
     out.received = false;
     for (int i = 0; i < 7; ++i) out.received |= quint8(m_raw[int(p + 0x58 + i)]) != 0;
     out.greeting = readUtf8(p + 0x60, 60);
@@ -408,15 +439,12 @@ MhguPalico MhguSave::palico(int index) const
     return out;
 }
 
-bool MhguSave::setPalico(int index, const MhguPalico &value, QString *validationError)
+bool MhguSave::setPalico(int index, const MhguPalico &value)
 {
-    const quint64 p = quint64(selectedBase()) + PalicoOffset + quint64(index) * PalicoSize;
+    const quint32 base = selectedBase();
+    if (base == 0) return false;
+    const quint64 p = quint64(base) + PalicoOffset + quint64(index) * PalicoSize;
     if (index < 0 || index >= PalicoCount || !rangeOk(p, PalicoSize)) return false;
-    // Legality is advisory. GU may reset unusual combinations, but this editor
-    // deliberately lets experienced users test them after the UI warning.
-    validatePalico(value, validationError);
-    const quint8 oldActionSeed = quint8(m_raw[int(p + 0x55)]);
-    const quint8 oldSkillSeed = quint8(m_raw[int(p + 0x57)]);
     writeUtf8(p, 32, value.name);
     const quint8 previousLevel = quint8(m_raw[int(p + 0x24)]) + 1;
     write32(p + 0x20, previousLevel == value.level ? value.experience : experienceForLevel(value.level));
@@ -437,9 +465,9 @@ bool MhguSave::setPalico(int index, const MhguPalico &value, QString *validation
     markIfChanged(p + 0x48, learnedSkills);
     QByteArray patterns(4, char(0));
     patterns[0] = char(value.actionPattern);
-    patterns[1] = char(oldActionSeed);
+    patterns[1] = char(value.actionValidLength);
     patterns[2] = char(value.skillPattern);
-    patterns[3] = char(oldSkillSeed);
+    patterns[3] = char(value.skillValidLength);
     markIfChanged(p + 0x54, patterns);
     writeUtf8(p + 0x60, 60, value.greeting);
     writeUtf8(p + 0x9C, 32, value.nameGiver);
@@ -476,24 +504,198 @@ quint32 MhguSave::experienceForLevel(int displayedLevel)
     return anchors[std::size(anchors) - 1].exp;
 }
 
-bool MhguSave::validatePalico(const MhguPalico &value, QString *error)
+MhguPalicoStructure MhguSave::decodePalicoStructure(const MhguPalico &value)
 {
-    auto fail = [error](const QString &message) { if (error) *error = message; return false; };
-    if (value.level < 1 || value.level > 60) return fail(QStringLiteral("猫猫等级必须在 1 到 60 之间。"));
-    if (value.forte > 7 || value.target > 5) return fail(QStringLiteral("猫猫倾向或目标值无效。"));
-    if (!compact(value.equippedActions) || !compact(value.equippedSkills) ||
-        !compact(value.learnedActions) || !compact(value.learnedSkills))
-        return fail(QStringLiteral("行动和技能必须从第一个槽开始连续排列，空位应放在末尾。"));
-    const int actionLimit = std::min(6, 1 + int(value.level) / 10);
-    if (nonZeroCount(value.equippedActions) > actionLimit)
-        return fail(QStringLiteral("当前等级最多装备 %1 个支援行动。").arg(actionLimit));
-    if (nonZeroCount(value.equippedSkills) > 4) return fail(QStringLiteral("最多装备 4 个被动技能。"));
-    if (nonZeroCount(value.learnedActions) > 10) return fail(QStringLiteral("最多保留 10 个已学支援行动。"));
-    if (nonZeroCount(value.learnedSkills) > 8) return fail(QStringLiteral("最多保留 8 个已学被动技能。"));
-    if (!subset(value.equippedActions, value.learnedActions)) return fail(QStringLiteral("装备的支援行动必须存在于已学行动中。"));
-    if (!subset(value.equippedSkills, value.learnedSkills)) return fail(QStringLiteral("装备的被动技能必须存在于已学技能中。"));
-    if (error) error->clear();
-    return true;
+    MhguPalicoStructure out;
+    out.actionScope = value.forte == 0 ? QStringLiteral("charisma_move") : QStringLiteral("normal_move");
+    out.actionFixedCount = value.forte == 0 ? 3 : 4;
+    out.actionTransferCount = value.forte == 0 ? 3 : 2;
+    out.actionSequence = patternSequence(out.actionScope, value.actionPattern);
+    out.skillSequence = patternSequence(QStringLiteral("skill"), value.skillPattern);
+    const int expectedActionLength = out.actionFixedCount + out.actionSequence.size() + out.actionTransferCount;
+    const int expectedSkillLength = out.skillFixedCount + out.skillSequence.size() + out.skillTransferCount;
+    bool boundaries = value.actionValidLength <= value.learnedActions.size() &&
+                      value.skillValidLength <= value.learnedSkills.size();
+    for (int i = value.actionValidLength; boundaries && i < int(value.learnedActions.size()); ++i)
+        boundaries = value.learnedActions[size_t(i)] == 57;
+    for (int i = value.skillValidLength; boundaries && i < int(value.learnedSkills.size()); ++i)
+        boundaries = value.learnedSkills[size_t(i)] == 96;
+    bool groups = true;
+    for (int i = 0; groups && i < out.actionSequence.size(); ++i)
+        groups = generationGroup(false, value.learnedActions[size_t(out.actionFixedCount + i)]) == out.actionSequence.mid(i, 1);
+    for (int i = 0; groups && i < out.skillSequence.size(); ++i)
+        groups = generationGroup(true, value.learnedSkills[size_t(out.skillFixedCount + i)]) == out.skillSequence.mid(i, 1);
+    auto compactRegion = [](const auto &array, int begin, int end) {
+        bool empty = false;
+        for (int i = begin; i < end; ++i) {
+            if (array[size_t(i)] == 0) empty = true;
+            else if (empty) return false;
+        }
+        return true;
+    };
+    groups = groups && compact(value.equippedActions) && compact(value.equippedSkills) &&
+        compactRegion(value.learnedActions, out.actionFixedCount + out.actionSequence.size(), expectedActionLength) &&
+        compactRegion(value.learnedSkills, out.skillFixedCount + out.skillSequence.size(), expectedSkillLength);
+    bool fixed = value.forte <= 7;
+    if (fixed) {
+        static const std::array<int, 8> primary{{31, 29, 30, 20, 3, 12, 37, 46}};
+        static const std::array<std::array<int, 2>, 8> secondary{{
+            {{-1, -1}}, {{6, 26}}, {{7, 24}}, {{5, 24}},
+            {{5, 7}}, {{6, 27}}, {{26, 27}}, {{47, -1}}
+        }};
+        static const std::array<std::array<int, 2>, 8> innateSkills{{
+            {{45, 38}}, {{3, 10}}, {{16, 18}}, {{41, 43}},
+            {{5, 46}}, {{24, 11}}, {{44, 22}}, {{77, 78}}
+        }};
+        const int forte = value.forte;
+        fixed = value.learnedActions[0] == primary[size_t(forte)];
+        if (forte == 0) fixed = fixed && value.learnedActions[1] == 9 && value.learnedActions[2] == 1;
+        else fixed = fixed && (value.learnedActions[1] == secondary[size_t(forte)][0] ||
+                               value.learnedActions[1] == secondary[size_t(forte)][1]) &&
+                     value.learnedActions[2] == 9 && value.learnedActions[3] == 1;
+        fixed = fixed && value.learnedSkills[0] == innateSkills[size_t(forte)][0] &&
+                value.learnedSkills[1] == innateSkills[size_t(forte)][1];
+    }
+    out.recognized = fixed && groups && boundaries && !out.actionSequence.isEmpty() &&
+        !out.skillSequence.isEmpty() && value.actionValidLength == expectedActionLength &&
+        value.skillValidLength == expectedSkillLength;
+    return out;
+}
+
+QVector<PalicoValidationIssue> MhguSave::validatePalico(const MhguPalico &value)
+{
+    QVector<PalicoValidationIssue> issues;
+    if (value.level < 1 || value.level > 60)
+        addIssue(issues, QStringLiteral("level"), QStringLiteral("level.range"),
+                 QStringLiteral("猫猫等级不在 1 到 60 之间。"));
+    if (value.forte > 7)
+        addIssue(issues, QStringLiteral("forte"), QStringLiteral("forte.unknown"),
+                 QStringLiteral("猫猫倾向无法识别。"));
+    if (value.target > 5)
+        addIssue(issues, QStringLiteral("target"), QStringLiteral("target.unknown"),
+                 QStringLiteral("目标偏好无法识别。"));
+
+    const MhguPalicoStructure structure = decodePalicoStructure(value);
+    if (structure.actionSequence.isEmpty())
+        addIssue(issues, QStringLiteral("actionPattern"), QStringLiteral("action.pattern.unknown"),
+                 QStringLiteral("行动模式编号不属于当前倾向的原生 A/B/C 组合。"));
+    if (structure.skillSequence.isEmpty())
+        addIssue(issues, QStringLiteral("skillPattern"), QStringLiteral("skill.pattern.unknown"),
+                 QStringLiteral("技能模式编号不属于普通猫的七种原生组合。"));
+
+    const int expectedActionLength = structure.actionFixedCount + structure.actionSequence.size() + structure.actionTransferCount;
+    const int expectedSkillLength = structure.skillFixedCount + structure.skillSequence.size() + structure.skillTransferCount;
+    if (!structure.actionSequence.isEmpty() && value.actionValidLength != expectedActionLength)
+        addIssue(issues, QStringLiteral("actionValidLength"), QStringLiteral("action.length.mismatch"),
+                 QStringLiteral("行动有效长度为 %1，当前组合应为 %2。")
+                    .arg(value.actionValidLength).arg(expectedActionLength));
+    if (!structure.skillSequence.isEmpty() && value.skillValidLength != expectedSkillLength)
+        addIssue(issues, QStringLiteral("skillValidLength"), QStringLiteral("skill.length.mismatch"),
+                 QStringLiteral("技能有效长度为 %1，当前组合应为 %2。")
+                    .arg(value.skillValidLength).arg(expectedSkillLength));
+
+    auto checkBoundary = [&issues](const auto &array, int length, int sentinel,
+                                   const QString &field, const QString &label) {
+        if (length < 0 || length > int(array.size())) {
+            addIssue(issues, field, field + QStringLiteral(".range"),
+                     QStringLiteral("%1有效长度超过物理数组边界。 ").arg(label));
+            return;
+        }
+        for (int i = length; i < int(array.size()); ++i) {
+            if (array[size_t(i)] != sentinel) {
+                addIssue(issues, field, field + QStringLiteral(".sentinel"),
+                         QStringLiteral("%1第 %2 格位于有效区域外，应为尾部哨兵 %3。")
+                            .arg(label).arg(i + 1).arg(sentinel));
+                break;
+            }
+        }
+    };
+    checkBoundary(value.learnedActions, value.actionValidLength, 57,
+                  QStringLiteral("learnedActions"), QStringLiteral("已学行动"));
+    checkBoundary(value.learnedSkills, value.skillValidLength, 96,
+                  QStringLiteral("learnedSkills"), QStringLiteral("已学技能"));
+
+    if (value.forte <= 7) {
+        static const std::array<int, 8> primary{{31, 29, 30, 20, 3, 12, 37, 46}};
+        static const std::array<std::array<int, 2>, 8> secondary{{
+            {{-1, -1}}, {{6, 26}}, {{7, 24}}, {{5, 24}},
+            {{5, 7}}, {{6, 27}}, {{26, 27}}, {{47, -1}}
+        }};
+        static const std::array<std::array<int, 2>, 8> innateSkills{{
+            {{45, 38}}, {{3, 10}}, {{16, 18}}, {{41, 43}},
+            {{5, 46}}, {{24, 11}}, {{44, 22}}, {{77, 78}}
+        }};
+        const int forte = value.forte;
+        if (value.learnedActions[0] != primary[size_t(forte)])
+            addIssue(issues, QStringLiteral("learnedActions"), QStringLiteral("action.primary.mismatch"),
+                     QStringLiteral("固有行动 ID %1 与当前倾向不一致，应为 ID %2。")
+                        .arg(value.learnedActions[0]).arg(primary[size_t(forte)]));
+        if (forte == 0) {
+            if (value.learnedActions[1] != 9 || value.learnedActions[2] != 1)
+                addIssue(issues, QStringLiteral("learnedActions"), QStringLiteral("action.common.mismatch"),
+                         QStringLiteral("领袖猫的共通行动应为小桶爆弹与药草笛。"));
+        } else {
+            const int secondaryId = value.learnedActions[1];
+            const auto allowed = secondary[size_t(forte)];
+            if (secondaryId != allowed[0] && secondaryId != allowed[1])
+                addIssue(issues, QStringLiteral("learnedActions"), QStringLiteral("action.secondary.mismatch"),
+                         QStringLiteral("准固有行动 ID %1 不属于当前倾向候选。").arg(secondaryId));
+            if (value.learnedActions[2] != 9 || value.learnedActions[3] != 1)
+                addIssue(issues, QStringLiteral("learnedActions"), QStringLiteral("action.common.mismatch"),
+                         QStringLiteral("共通行动应为小桶爆弹与药草笛。"));
+        }
+        for (int i = 0; i < 2; ++i) {
+            if (value.learnedSkills[size_t(i)] != innateSkills[size_t(forte)][size_t(i)])
+                addIssue(issues, QStringLiteral("learnedSkills"), QStringLiteral("skill.innate.mismatch"),
+                         QStringLiteral("第 %1 个固有技能 ID %2 与当前倾向不一致，应为 ID %3。")
+                            .arg(i + 1).arg(value.learnedSkills[size_t(i)])
+                            .arg(innateSkills[size_t(forte)][size_t(i)]));
+        }
+    }
+
+    if (!structure.actionSequence.isEmpty()) {
+        for (int i = 0; i < structure.actionSequence.size(); ++i) {
+            const int position = structure.actionFixedCount + i;
+            if (position >= int(value.learnedActions.size())) break;
+            const int id = value.learnedActions[size_t(position)];
+            const QString expected = structure.actionSequence.mid(i, 1);
+            const QString actual = generationGroup(false, id);
+            if (actual != expected)
+                addIssue(issues, QStringLiteral("learnedActions"), QStringLiteral("action.group.mismatch"),
+                         QStringLiteral("行动 %1 槽放入了 ID %2（%3组），应为%1组。")
+                            .arg(expected).arg(id).arg(actual.isEmpty() ? QStringLiteral("非生成") : actual));
+        }
+    }
+    if (!structure.skillSequence.isEmpty()) {
+        for (int i = 0; i < structure.skillSequence.size(); ++i) {
+            const int position = structure.skillFixedCount + i;
+            if (position >= int(value.learnedSkills.size())) break;
+            const int id = value.learnedSkills[size_t(position)];
+            const QString expected = structure.skillSequence.mid(i, 1);
+            const QString actual = generationGroup(true, id);
+            if (actual != expected)
+                addIssue(issues, QStringLiteral("learnedSkills"), QStringLiteral("skill.group.mismatch"),
+                         QStringLiteral("技能 %1 槽放入了 ID %2（%3组），应为%1组。")
+                            .arg(expected).arg(id).arg(actual.isEmpty() ? QStringLiteral("非生成") : actual));
+        }
+    }
+    if (!compact(value.equippedActions))
+        addIssue(issues, QStringLiteral("equippedActions"), QStringLiteral("action.equipped.gap"),
+                 QStringLiteral("已装备行动中间存在空槽；游戏通常要求前置紧凑。"));
+    if (!compact(value.equippedSkills))
+        addIssue(issues, QStringLiteral("equippedSkills"), QStringLiteral("skill.equipped.gap"),
+                 QStringLiteral("已装备技能中间存在空槽；游戏通常要求前置紧凑。"));
+    if (!subset(value.equippedActions, value.learnedActions))
+        addIssue(issues, QStringLiteral("equippedActions"), QStringLiteral("action.equipped.not_learned"),
+                 QStringLiteral("已装备行动包含不在已学行动池中的项目。"));
+    if (!subset(value.equippedSkills, value.learnedSkills))
+        addIssue(issues, QStringLiteral("equippedSkills"), QStringLiteral("skill.equipped.not_learned"),
+                 QStringLiteral("已装备技能包含不在已学技能池中的项目。"));
+    if (value.received)
+        addIssue(issues, QStringLiteral("origin"), QStringLiteral("origin.received"),
+                 QStringLiteral("外来、配信或联动猫可能被游戏重置行动和技能。"),
+                 PalicoIssueSeverity::Warning);
+    return issues;
 }
 
 bool MhguSave::validate(QString *error) const

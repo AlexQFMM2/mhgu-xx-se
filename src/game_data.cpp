@@ -95,9 +95,11 @@ bool GameData::loadTable(const QString &path, const QString &table)
             const QStringList fields = parseCsvLine(stream.readLine());
             if (fields.size() < header.size()) continue;
             PalicoPattern pattern;
-            pattern.kind = fields.value(columns.value(QStringLiteral("kind"), -1));
+            pattern.scope = fields.value(columns.value(QStringLiteral("scope"), -1));
             pattern.id = fields.value(columns.value(QStringLiteral("pattern_id"), -1)).toInt();
             pattern.sequence = fields.value(columns.value(QStringLiteral("sequence"), -1));
+            pattern.validLength = fields.value(columns.value(QStringLiteral("valid_length"), -1)).toInt();
+            pattern.weight = fields.value(columns.value(QStringLiteral("weight"), -1)).toInt();
             m_patterns.push_back(pattern);
         }
         return true;
@@ -109,6 +111,7 @@ bool GameData::loadTable(const QString &path, const QString &table)
             PalicoForteGrant grant;
             grant.forteId = fields.value(columns.value(QStringLiteral("forte_id"), -1)).toInt();
             grant.kind = fields.value(columns.value(QStringLiteral("kind"), -1));
+            grant.role = fields.value(columns.value(QStringLiteral("role"), -1));
             grant.entryId = fields.value(columns.value(QStringLiteral("entry_id"), -1)).toInt();
             m_forteGrants.push_back(grant);
         }
@@ -161,6 +164,13 @@ bool GameData::loadTable(const QString &path, const QString &table)
         entry.rarity = value(QStringLiteral("rarity")).toInt();
         entry.maxLevel = value(QStringLiteral("max_level")).toInt();
         entry.generationTier = value(QStringLiteral("generation_tier")).toInt();
+        entry.generationGroup = value(QStringLiteral("generation_group"));
+        entry.role = value(QStringLiteral("role"));
+        const QString teachable = value(QStringLiteral("teachable"));
+        entry.teachable = teachable == QStringLiteral("1") ? 1 : teachable == QStringLiteral("0") ? 0 : -1;
+        const QString memoryCost = value(QStringLiteral("memory_cost"));
+        entry.memoryCost = memoryCost.isEmpty() ? -1 : memoryCost.toInt();
+        entry.generationWeights = value(QStringLiteral("generation_weights"));
         if (columns.contains(QStringLiteral("slot_cost")))
             entry.slotCost = value(QStringLiteral("slot_cost")).toInt();
         if (columns.contains(QStringLiteral("slots")))
@@ -182,7 +192,10 @@ QVector<GameDataEntry> GameData::entries(const QString &table) const
 
 GameDataEntry GameData::entry(const QString &table, int id) const
 {
-    return m_tables.value(table).value(id, GameDataEntry{id, QStringLiteral("未知 #%1").arg(id), {}, {}});
+    GameDataEntry fallback;
+    fallback.id = id;
+    fallback.name = QStringLiteral("未知 #%1").arg(id);
+    return m_tables.value(table).value(id, fallback);
 }
 
 QString GameData::name(const QString &table, int id) const
@@ -274,17 +287,26 @@ QString GameData::palicoEquipmentTable(int rawType) const
     return {};
 }
 
-QVector<PalicoPattern> GameData::patterns(const QString &kind) const
+QVector<PalicoPattern> GameData::patterns(const QString &scope) const
 {
     QVector<PalicoPattern> result;
-    for (const PalicoPattern &pattern : m_patterns) if (pattern.kind == kind) result.push_back(pattern);
+    for (const PalicoPattern &pattern : m_patterns) if (pattern.scope == scope) result.push_back(pattern);
     return result;
 }
 
-QVector<PalicoForteGrant> GameData::forteGrants(int forteId, const QString &kind) const
+PalicoPattern GameData::pattern(const QString &scope, int id) const
+{
+    for (const PalicoPattern &pattern : m_patterns)
+        if (pattern.scope == scope && pattern.id == id) return pattern;
+    return {};
+}
+
+QVector<PalicoForteGrant> GameData::forteGrants(int forteId, const QString &kind,
+                                                const QString &role) const
 {
     QVector<PalicoForteGrant> result;
     for (const PalicoForteGrant &grant : m_forteGrants)
-        if (grant.forteId == forteId && grant.kind == kind) result.push_back(grant);
+        if ((grant.forteId == forteId || grant.forteId == -1) && grant.kind == kind &&
+            (role.isEmpty() || grant.role == role)) result.push_back(grant);
     return result;
 }

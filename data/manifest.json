@@ -52,8 +52,8 @@
     },
     {
       "path": "cn/palico_forte_grants.csv",
-      "rows": 37,
-      "sha256": "15d96ee56accd25d9a81bf487b1fa7b48c5dda6991b37da5df618dd522582d7f"
+      "rows": 39,
+      "sha256": "87a344323a18baf11dc950ab90f890cdffc2052b972ae0e68f4abb3783675478"
     },
     {
       "path": "cn/palico_fortes.csv",
@@ -62,8 +62,8 @@
     },
     {
       "path": "cn/palico_generation_patterns.csv",
-      "rows": 15,
-      "sha256": "b4f2f8bde2de191745d10e957e47df068620f58b00cce8015e05f4e4c930ee7b"
+      "rows": 22,
+      "sha256": "fff5117f91ae77033e09c7bbe537df9b31cca224e3b23b2395033f4b1a9ca551"
     },
     {
       "path": "cn/palico_head.csv",
@@ -72,18 +72,18 @@
     },
     {
       "path": "cn/palico_limits.csv",
-      "rows": 6,
-      "sha256": "80bfa770f80e9465c6bac3f909469a0a93ce7cd5a56ee79071552a7eb23acf90"
+      "rows": 4,
+      "sha256": "4309b3b097275495319acbeecac8ef1225671d0c0c6ed0d1ec0120ef78d81115"
     },
     {
       "path": "cn/palico_skills.csv",
       "rows": 97,
-      "sha256": "18462d6b13f71530d91a02dc61d1676506e4c55422f77616b258727d2d828cd1"
+      "sha256": "5f94c439569cc8b601a5e7c11fa896f88207f62580387f291318910ffa8713f8"
     },
     {
       "path": "cn/palico_support_moves.csv",
       "rows": 58,
-      "sha256": "e8a54d1ca8129b6f9d74a5675134bb0baf8c969922e5ad0b7a215f2d3ebb77cd"
+      "sha256": "73e466f4726c9a63064854819f651737d00ed6dbaa23713c11fd693ed5507002"
     },
     {
       "path": "cn/palico_targets.csv",
@@ -237,8 +237,8 @@
     },
     {
       "path": "en/palico_forte_grants.csv",
-      "rows": 37,
-      "sha256": "15d96ee56accd25d9a81bf487b1fa7b48c5dda6991b37da5df618dd522582d7f"
+      "rows": 39,
+      "sha256": "87a344323a18baf11dc950ab90f890cdffc2052b972ae0e68f4abb3783675478"
     },
     {
       "path": "en/palico_fortes.csv",
@@ -247,8 +247,8 @@
     },
     {
       "path": "en/palico_generation_patterns.csv",
-      "rows": 15,
-      "sha256": "b4f2f8bde2de191745d10e957e47df068620f58b00cce8015e05f4e4c930ee7b"
+      "rows": 22,
+      "sha256": "fff5117f91ae77033e09c7bbe537df9b31cca224e3b23b2395033f4b1a9ca551"
     },
     {
       "path": "en/palico_head.csv",
@@ -257,18 +257,18 @@
     },
     {
       "path": "en/palico_limits.csv",
-      "rows": 6,
-      "sha256": "80bfa770f80e9465c6bac3f909469a0a93ce7cd5a56ee79071552a7eb23acf90"
+      "rows": 4,
+      "sha256": "4309b3b097275495319acbeecac8ef1225671d0c0c6ed0d1ec0120ef78d81115"
     },
     {
       "path": "en/palico_skills.csv",
       "rows": 97,
-      "sha256": "aa9b19bac18d9ac938d3e74a32f5836fad19d2e390707f6a1864e6673992f5cf"
+      "sha256": "da07d2b8a69a3e7aa28680f4dfba4d851907d5012db94d9a68ca4e819f504c03"
     },
     {
       "path": "en/palico_support_moves.csv",
       "rows": 58,
-      "sha256": "034220cc45e207c215b45ebc2f974ae1e7e7a7f413d2a51064cfc28aa726bf1a"
+      "sha256": "36c3525d0fe0f257aeef3945a5875fba1cb6573a7d95ce67d3c023e1661b3e16"
     },
     {
       "path": "en/palico_targets.csv",
@@ -716,11 +716,12 @@
       "weapon_sword_and_shield": 129
     }
   },
-  "generator_version": "2.4.0",
+  "generator_version": "2.5.0",
   "sources": {
     "dex_dump_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
     "mhxx_dex_exe_sha256": "5e0508b80b02565c5c7217861c315911878896567b07659631c34b7f7dae46c7",
     "palico_cn_translation_sha256": "e83abe3813020389a0591dde40bb4a853d77a962b9346c58066532fa0e9820b9",
+    "palico_native_rules_sha256": "64a42cab0e2a4742a8142104fe56435e0bd516740f328885694e313c1a41810a",
     "save_data_crosswalk_sha256": "02ded1a771ec07234fb06b91d153b1013275d9a33968130d5f775b3fd9a10705"
   }
 }

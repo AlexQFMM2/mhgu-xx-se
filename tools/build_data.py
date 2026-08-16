@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "2.4.0"
+GENERATOR_VERSION = "2.5.0"
 GAME_EXPORT_FORMAT = "mhxx-game-resource-export-v4"
 GAME_SOURCE = "mhxx-romfs-game-array"
 GAME_RULE_SOURCE = "mhxx-romfs-native-table"
@@ -277,6 +277,7 @@ def build_language(
     game_tables: dict[str, list[str]],
     game_rules: dict[str, object],
     palico_translations: dict[str, dict[int, dict]],
+    palico_rules: dict,
     talisman_limits: dict[int, dict[str, object]],
     language: str,
     output: Path,
@@ -637,51 +638,111 @@ def build_language(
             )
         counts[file_name] = write_csv(output / file_name, BASE_COLUMNS, rows)
 
-    action_columns = BASE_COLUMNS + ("generation_tier",)
+    action_columns = BASE_COLUMNS + (
+        "generation_tier", "generation_group", "role", "teachable",
+        "memory_cost", "generation_weights",
+    )
     for file_name, key in (("palico_support_moves.csv", "support_moves"), ("palico_skills.csv", "skills")):
+        is_move = key == "support_moves"
+        group_rows = palico_rules["support_groups" if is_move else "skill_groups"]
+        groups = {
+            int(identifier): (group, weights)
+            for group, rows in group_rows.items()
+            for identifier, weights in rows
+        }
+        fixed = palico_rules["fixed"]
+        primary = set(fixed["primary_support"])
+        secondary = {identifier for row in fixed["secondary_support"] for identifier in row}
+        common = set(fixed["common_support"])
+        innate_skills = {identifier for row in fixed["fixed_skills"] for identifier in row}
         rows = []
         for entry in palico[key]:
             english = str(entry["english"])
             translation = palico_translations[key][int(entry["id"])]
+            identifier = int(entry["id"])
+            group, weights = groups.get(identifier, ("", []))
+            if identifier == 0:
+                role, teachable = "empty", "0"
+            elif (is_move and identifier == palico_rules["sentinels"]["support"]) or (
+                not is_move and identifier == palico_rules["sentinels"]["skill"]
+            ):
+                role, teachable = "sentinel", "0"
+            elif is_move and identifier in primary:
+                role, teachable = "primary", "0"
+            elif is_move and identifier in common:
+                role, teachable = "common", "0"
+            elif is_move and identifier in secondary:
+                role = "secondary_fixed" if identifier == 47 else "secondary"
+                teachable = "1"
+            elif not is_move and identifier in innate_skills:
+                role, teachable = "innate", "1"
+            elif group:
+                role, teachable = "generated", "1"
+            elif not is_move:
+                # The native skill rules and in-game dojo allow learned,
+                # innate and distribution skills to be taught to another cat.
+                role, teachable = "special", "1"
+            else:
+                role, teachable = "special", "unknown"
             rows.append(
                 {
-                    "id": entry["id"],
+                    "id": identifier,
                     "name": translation["chinese"] if language == "cn" else english,
                     "english": english,
                     "source": translation["source"] if language == "cn" else SAVE_SOURCE,
                     "generation_tier": entry["generation_tier"],
+                    "generation_group": group,
+                    "role": role,
+                    "teachable": teachable,
+                    # catSkillData does not contain a confirmed memory-cost field.
+                    "memory_cost": "",
+                    "generation_weights": "/".join(map(str, weights)),
                 }
             )
         counts[file_name] = write_csv(output / file_name, action_columns, rows)
 
     grants = []
-    for forte_id, entry_ids in enumerate(palico["forte_owned_moves"]):
+    for forte_id, primary_id in enumerate(palico_rules["fixed"]["primary_support"]):
+        grants.append({"forte_id": forte_id, "kind": "move", "role": "primary",
+                       "entry_id": primary_id, "source": GAME_RULE_SOURCE})
+        for entry_id in palico_rules["fixed"]["secondary_support"][forte_id]:
+            grants.append({"forte_id": forte_id, "kind": "move",
+                           "role": "secondary_fixed" if forte_id == 7 else "secondary",
+                           "entry_id": entry_id, "source": GAME_RULE_SOURCE})
+    for forte_id, entry_ids in enumerate(palico_rules["fixed"]["fixed_skills"]):
         grants.extend(
-            {"forte_id": forte_id, "kind": "move", "entry_id": entry_id, "source": SAVE_SOURCE}
+            {"forte_id": forte_id, "kind": "skill", "role": "innate",
+             "entry_id": entry_id, "source": GAME_RULE_SOURCE}
             for entry_id in entry_ids
         )
-    for forte_id, entry_ids in enumerate(palico["forte_owned_skills"]):
-        grants.extend(
-            {"forte_id": forte_id, "kind": "skill", "entry_id": entry_id, "source": SAVE_SOURCE}
-            for entry_id in entry_ids
-        )
+    grants.extend(
+        {"forte_id": -1, "kind": "move", "role": "common", "entry_id": entry_id,
+         "source": GAME_RULE_SOURCE}
+        for entry_id in palico_rules["fixed"]["common_support"]
+    )
     counts["palico_forte_grants.csv"] = write_csv(
-        output / "palico_forte_grants.csv", ("forte_id", "kind", "entry_id", "source"), grants
+        output / "palico_forte_grants.csv", ("forte_id", "kind", "role", "entry_id", "source"), grants
     )
 
     patterns = []
-    for kind, key in (("move", "move_patterns"), ("skill", "skill_patterns")):
-        patterns.extend(
-            {"kind": kind, "pattern_id": pattern_id, "sequence": "".join(map(str, sequence)), "source": SAVE_SOURCE}
-            for pattern_id, sequence in enumerate(palico[key])
-        )
+    valid = palico_rules["valid_length"]
+    for scope, source_rows in palico_rules["patterns"].items():
+        fixed = valid[f"{scope}_fixed"]
+        transfer = valid[f"{scope}_transfer"]
+        patterns.extend({
+            "scope": scope, "pattern_id": pattern_id, "sequence": sequence,
+            "valid_length": fixed + len(sequence) + transfer,
+            "weight": weight, "source": GAME_RULE_SOURCE,
+        } for pattern_id, weight, sequence in source_rows)
     counts["palico_generation_patterns.csv"] = write_csv(
-        output / "palico_generation_patterns.csv", ("kind", "pattern_id", "sequence", "source"), patterns
+        output / "palico_generation_patterns.csv",
+        ("scope", "pattern_id", "sequence", "valid_length", "weight", "source"), patterns
     )
 
     limits = [
         {"key": key, "value": value, "source": SAVE_SOURCE}
         for key, value in sorted(palico["limits"].items())
+        if key not in {"max_learned_moves", "max_learned_skills"}
     ]
     limits.extend(
         {"key": f"basic_move_{index}", "value": value, "source": SAVE_SOURCE}
@@ -724,9 +785,14 @@ files by hand.
   against the linked Bahamut MHXX article and Axibug wiki; passive-skill names
   come from the Axibug wiki. The reviewed ID/Japanese/English/Chinese mapping is
   `tools/reference/palico_cn_translation.json`.
-- Palico fortes, RNG generation tiers and patterns, innate grants, and limits
-  are save-format facts. They remain data-driven advanced editor options even
-  though Dex does not contain those tables.
+- Palico A/B/C members and weights, normal/Charisma generation patterns,
+  effective-array lengths, innate/semi-innate/common grants and sentinels come
+  from the native `ot*` RomFS tables. `0` is an empty slot inside the effective
+  region; learned-action and learned-skill tails use 57 and 96 respectively.
+  The second pattern byte is the effective-region length, not an RNG seed.
+- Passive-skill memory costs remain empty because `catSkillData.cskd` has not
+  yielded a confirmed cost field. The editor reports those costs as unknown
+  instead of guessing from A/B/C generation points.
 - Translation references:
   [Bahamut MHXX Palico article](https://forum.gamer.com.tw/Co.php?bsn=5786&sn=829755),
   [Axibug support moves](https://mhwiki.axibug.com/mhxx-wiki/data/2832.html),
@@ -767,6 +833,11 @@ def main() -> int:
         type=Path,
         default=Path(__file__).resolve().parent / "reference" / "palico_cn_translation.json",
     )
+    parser.add_argument(
+        "--palico-rules",
+        type=Path,
+        default=Path(__file__).resolve().parent / "reference" / "palico_native_rules.json",
+    )
     args = parser.parse_args()
 
     raw_manifest = read_json(args.input / "manifest.json")
@@ -781,6 +852,9 @@ def main() -> int:
     if crosswalk.get("format") != "mhxx-save-data-crosswalk-v1":
         raise ValueError("unsupported save-data crosswalk")
     palico_translations = index_palico_translations(read_json(args.palico_cn), crosswalk)
+    palico_rules = read_json(args.palico_rules)
+    if palico_rules.get("format") != "mhxx-palico-native-rules-v1":
+        raise ValueError("unsupported Palico native rules")
     game_export = read_json(args.game_names)
     if game_export.get("format") != GAME_EXPORT_FORMAT or game_export.get("language") != "jp":
         raise ValueError("unsupported or invalid MHXX game name export")
@@ -810,7 +884,7 @@ def main() -> int:
         counts = {
             language: build_language(
                 args.input / "direct_sql", crosswalk, game_tables, game_rules,
-                palico_translations, talisman_limits,
+                palico_translations, palico_rules, talisman_limits,
                 language, temp_root / language
             )
             for language in ("cn", "en")
@@ -830,6 +904,7 @@ def main() -> int:
                 "mhxx_dex_exe_sha256": expected,
                 "save_data_crosswalk_sha256": sha256(args.crosswalk),
                 "palico_cn_translation_sha256": sha256(args.palico_cn),
+                "palico_native_rules_sha256": sha256(args.palico_rules),
             },
             "game_resource": {
                 "format": game_export["format"],

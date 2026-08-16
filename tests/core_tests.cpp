@@ -71,6 +71,56 @@ QByteArray syntheticSystem()
     for (int i = 0; i < 12; ++i) bytes[equippedHead + i] = bytes[boxEntry + i];
     return bytes;
 }
+
+MhguPalico regularCat(bool charisma, int actionPattern, int skillPattern)
+{
+    static const char *normal[] = {"CCCCCCCC", "BBCCCC", "BBBCC", "BBBB", "ACCCCC", "ABCCC", "ABBC"};
+    static const char *leader[] = {"CCCCCCCCC", "BBCCCCC", "BBBCCC", "BBBBC", "ACCCCCC", "ABCCCC", "ABBCC", "ABBB"};
+    MhguPalico cat;
+    cat.level = 60;
+    cat.forte = charisma ? 0 : 1;
+    cat.target = 3;
+    cat.learnedActions.fill(57);
+    cat.learnedSkills.fill(96);
+    int pos = 0;
+    if (charisma) {
+        cat.learnedActions[size_t(pos++)] = 31;
+        cat.learnedActions[size_t(pos++)] = 9;
+        cat.learnedActions[size_t(pos++)] = 1;
+    } else {
+        cat.learnedActions[size_t(pos++)] = 29;
+        cat.learnedActions[size_t(pos++)] = 6;
+        cat.learnedActions[size_t(pos++)] = 9;
+        cat.learnedActions[size_t(pos++)] = 1;
+    }
+    const QByteArray actionSequence(charisma ? leader[actionPattern] : normal[actionPattern]);
+    for (char group : actionSequence)
+        cat.learnedActions[size_t(pos++)] = group == 'A' ? 2 : group == 'B' ? 4 : 8;
+    cat.learnedActions[size_t(pos++)] = 0;
+    cat.learnedActions[size_t(pos++)] = 0;
+    if (charisma) cat.learnedActions[size_t(pos++)] = 0;
+    cat.actionPattern = quint8(actionPattern);
+    cat.actionValidLength = quint8(pos);
+    pos = 0;
+    cat.learnedSkills[size_t(pos++)] = charisma ? 45 : 3;
+    cat.learnedSkills[size_t(pos++)] = charisma ? 38 : 10;
+    const QByteArray skillSequence(normal[skillPattern]);
+    for (char group : skillSequence)
+        cat.learnedSkills[size_t(pos++)] = group == 'A' ? 7 : group == 'B' ? 2 : 1;
+    cat.learnedSkills[size_t(pos++)] = 0;
+    cat.learnedSkills[size_t(pos++)] = 0;
+    cat.skillPattern = quint8(skillPattern);
+    cat.skillValidLength = quint8(pos);
+    cat.equippedActions[0] = cat.learnedActions[0];
+    cat.equippedSkills[0] = cat.learnedSkills[0];
+    return cat;
+}
+
+bool hasIssue(const QVector<PalicoValidationIssue> &issues, const QString &code)
+{
+    for (const PalicoValidationIssue &issue : issues) if (issue.code == code) return true;
+    return false;
+}
 }
 
 int main(int argc, char **argv)
@@ -138,7 +188,15 @@ int main(int argc, char **argv)
     require(!data.contains(QStringLiteral("palico_head"), 503) && data.contains(QStringLiteral("palico_head"), 504)
             && !data.contains(QStringLiteral("palico_armor"), 524) && data.contains(QStringLiteral("palico_armor"), 525),
             "non-contiguous Palico equipment IDs");
-    require(!data.patterns(QStringLiteral("move")).isEmpty() && !data.forteGrants(1, QStringLiteral("move")).isEmpty(), "Palico patterns and forte grants");
+    require(data.patterns(QStringLiteral("normal_move")).size() == 7 &&
+            data.patterns(QStringLiteral("charisma_move")).size() == 8 &&
+            data.patterns(QStringLiteral("skill")).size() == 7, "Palico native pattern sets");
+    require(data.entry(QStringLiteral("palico_support_moves"), 2).generationGroup == QStringLiteral("A") &&
+            data.entry(QStringLiteral("palico_support_moves"), 4).generationGroup == QStringLiteral("B") &&
+            data.entry(QStringLiteral("palico_support_moves"), 8).generationGroup == QStringLiteral("C"),
+            "Palico support A/B/C groups");
+    require(data.entry(QStringLiteral("palico_skills"), 7).memoryCost == -1,
+            "unconfirmed Palico memory cost stays unknown");
 
     MhguSave save;
     const QString wrong = temp.filePath(QStringLiteral("wrong"));
@@ -148,6 +206,7 @@ int main(int argc, char **argv)
     const QByteArray original = syntheticSystem();
     require(writeFile(path, original), "write synthetic system");
     require(save.open(path), "open synthetic system");
+    require(!save.setPalico(0, regularCat(false, 6, 6)), "Palico write requires a selected slot");
     const QVector<MhguSlotInfo> slotList = save.slotInfos();
     require(slotList.size() == 3 && slotList[0].name == QStringLiteral("Slot One"), "parse slot one");
     require(slotList[1].name == QStringLiteral("存档二") && slotList[2].hunterRank == 12, "parse all three slots");
@@ -228,25 +287,89 @@ int main(int argc, char **argv)
     require(save.setPalicoEquipment(0, palicoEquipment), "set Palico equipment");
     require(save.palicoEquipment(0).id == 501, "round-trip Palico equipment");
 
-    MhguPalico cat = save.palico(0);
+    for (int pattern = 0; pattern < 7; ++pattern) {
+        const MhguPalico patternCat = regularCat(false, pattern, pattern);
+        require(MhguSave::decodePalicoStructure(patternCat).recognized &&
+                MhguSave::validatePalico(patternCat).isEmpty(), "all normal Palico patterns validate");
+    }
+    for (int pattern = 0; pattern < 8; ++pattern) {
+        const MhguPalico patternCat = regularCat(true, pattern, pattern % 7);
+        require(MhguSave::decodePalicoStructure(patternCat).recognized &&
+                MhguSave::validatePalico(patternCat).isEmpty(), "all Charisma Palico patterns validate");
+    }
+    const MhguPalico leader020c = regularCat(true, 2, 3);
+    require(leader020c.actionPattern == 0x02 && leader020c.actionValidLength == 0x0C &&
+            leader020c.skillPattern == 0x03 && leader020c.skillValidLength == 0x08,
+            "real Charisma 020C/0308 pattern-byte semantics");
+    const int primaryByForte[] = {31, 29, 30, 20, 3, 12, 37, 46};
+    const int secondaryByForte[] = {0, 6, 7, 5, 5, 6, 26, 47};
+    const int innateByForte[][2] = {{45,38}, {3,10}, {16,18}, {41,43}, {5,46}, {24,11}, {44,22}, {77,78}};
+    for (int forte = 1; forte < 8; ++forte) {
+        MhguPalico forteCat = regularCat(false, 6, 6);
+        forteCat.forte = quint8(forte);
+        forteCat.learnedActions[0] = quint8(primaryByForte[forte]);
+        forteCat.learnedActions[1] = quint8(secondaryByForte[forte]);
+        forteCat.learnedSkills[0] = quint8(innateByForte[forte][0]);
+        forteCat.learnedSkills[1] = quint8(innateByForte[forte][1]);
+        forteCat.equippedActions[0] = forteCat.learnedActions[0];
+        forteCat.equippedSkills[0] = forteCat.learnedSkills[0];
+        require(MhguSave::decodePalicoStructure(forteCat).recognized &&
+                MhguSave::validatePalico(forteCat).isEmpty(), "all eight Palico fortes validate");
+    }
+
+    MhguPalico cat = regularCat(false, 6, 6);
     cat.name = QStringLiteral("Test Cat");
     cat.level = 20;
-    cat.forte = 1;
     cat.target = 4;
-    cat.learnedActions[0] = 1;
-    cat.equippedActions[0] = 1;
-    cat.learnedSkills[0] = 3;
-    cat.equippedSkills[0] = 3;
-    QString validationError;
-    require(save.setPalico(0, cat, &validationError), "set legal Palico");
+    require(save.setPalico(0, cat), "set legal Palico");
     const MhguPalico decodedCat = save.palico(0);
-    require(decodedCat.name == QStringLiteral("Test Cat") && decodedCat.experience == 18645, "Palico level synchronizes EXP");
-    cat.equippedActions[1] = 2;
-    require(save.setPalico(1, cat, &validationError), "allow user-defined Palico configuration");
-    require(!validationError.isEmpty(), "report Palico legality as advisory status");
+    require(decodedCat.name == QStringLiteral("Test Cat") && decodedCat.experience == 18645 &&
+            decodedCat.actionValidLength == cat.actionValidLength &&
+            decodedCat.skillValidLength == cat.skillValidLength, "Palico level and all pattern bytes round-trip");
+    cat.learnedActions[4] = 4;
+    cat.actionValidLength = 1;
+    cat.skillPattern = 8;
+    cat.equippedActions[1] = 56;
+    const QVector<PalicoValidationIssue> illegal = MhguSave::validatePalico(cat);
+    require(hasIssue(illegal, QStringLiteral("action.length.mismatch")) &&
+            hasIssue(illegal, QStringLiteral("skill.pattern.unknown")) &&
+            hasIssue(illegal, QStringLiteral("action.equipped.not_learned")),
+            "illegal Palico structure reports concrete advisory reasons");
+    require(save.setPalico(1, cat), "illegal Palico configuration still writes");
+    const MhguPalico illegalRoundTrip = save.palico(1);
+    require(illegalRoundTrip.actionValidLength == 1 && illegalRoundTrip.skillPattern == 8 &&
+            illegalRoundTrip.learnedActions[4] == 4, "advanced illegal bytes round-trip unchanged");
+
+    MhguPalico special = regularCat(false, 6, 6);
+    special.skillPattern = 8;
+    special.skillValidLength = 11;
+    special.learnedSkills[10] = 95;
+    special.learnedSkills[11] = 96;
+    special.received = true;
+    require(save.setPalico(2, special), "write special Palico fixture");
+    MhguPalico renamedSpecial = save.palico(2);
+    const auto specialActions = renamedSpecial.learnedActions;
+    const auto specialSkills = renamedSpecial.learnedSkills;
+    const quint8 specialActionPattern = renamedSpecial.actionPattern;
+    const quint8 specialActionLength = renamedSpecial.actionValidLength;
+    const quint8 specialSkillPattern = renamedSpecial.skillPattern;
+    const quint8 specialSkillLength = renamedSpecial.skillValidLength;
+    renamedSpecial.name = QStringLiteral("Only Name Changed");
+    require(save.setPalico(2, renamedSpecial), "rename special Palico without rebuilding");
+    const MhguPalico specialAfterRename = save.palico(2);
+    require(specialAfterRename.learnedActions == specialActions && specialAfterRename.learnedSkills == specialSkills &&
+            specialAfterRename.actionPattern == specialActionPattern && specialAfterRename.actionValidLength == specialActionLength &&
+            specialAfterRename.skillPattern == specialSkillPattern && specialAfterRename.skillValidLength == specialSkillLength,
+            "special Palico action/skill bytes stay unchanged on unrelated edit");
 
     require(save.save(), "save edited system");
     require(readFile(path).size() == MhguSave::FileSize, "saved size remains fixed");
+    MhguSave persistedPalicos;
+    require(persistedPalicos.open(path) && persistedPalicos.selectSlot(1), "reopen saved Palico fixture");
+    const MhguPalico persistedIllegal = persistedPalicos.palico(1);
+    require(persistedIllegal.actionValidLength == 1, "illegal Palico effective length persists to disk");
+    require(persistedIllegal.skillPattern == 8, "illegal Palico pattern persists to disk");
+    require(persistedIllegal.learnedActions[4] == 4, "illegal Palico array byte persists to disk");
     require(!save.isDirty(), "clean after save");
     require(!QFileInfo::exists(temp.filePath(QStringLiteral("system_backup"))) &&
             !QFileInfo::exists(path + QStringLiteral(".bak")), "saving creates no backup files");

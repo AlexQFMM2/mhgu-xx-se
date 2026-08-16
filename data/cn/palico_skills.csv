@@ -1,98 +1,98 @@
-id,name,english,source,generation_tier
-0,-----,-----,mhxx-save-format-community,0
-1,体力强化之术【小】,Health Up (S),axibug-mhxx-wiki-zh-cn,1
-2,体力强化之术【大】,Health Up (L),axibug-mhxx-wiki-zh-cn,2
-3,攻击强化之术【小】,Attack Up (S),axibug-mhxx-wiki-zh-cn,0
-4,攻击强化之术【大】,Attack Up (L),axibug-mhxx-wiki-zh-cn,2
-5,防御强化之术【小】,Defense Up (S),axibug-mhxx-wiki-zh-cn,0
-6,防御强化之术【大】,Defense Up (L),axibug-mhxx-wiki-zh-cn,2
-7,全耐性强化之术,Omniresistance,axibug-mhxx-wiki-zh-cn,3
-8,会心强化之术【小】,Critical Up (S),axibug-mhxx-wiki-zh-cn,1
-9,会心强化之术【大】,Critical Up (L),axibug-mhxx-wiki-zh-cn,2
-10,匠之术,Handicraft,axibug-mhxx-wiki-zh-cn,0
-11,爆弹强化之术,Bombay Boost,axibug-mhxx-wiki-zh-cn,0
-12,属性攻击强化之术,Element Attack Up,axibug-mhxx-wiki-zh-cn,3
-13,状态异常攻击强化之术,Status Attack Up,axibug-mhxx-wiki-zh-cn,3
-14,KO之术,Knockout King,axibug-mhxx-wiki-zh-cn,2
-15,减气攻击强化之术,Stamina Drain,axibug-mhxx-wiki-zh-cn,1
-16,防御性能之术【小】,Guard (S),axibug-mhxx-wiki-zh-cn,0
-17,防御性能之术【大】,Guard (L),axibug-mhxx-wiki-zh-cn,2
-18,防御强化之术,Guard Boost,axibug-mhxx-wiki-zh-cn,0
-19,支援优先之术,Support Priority,axibug-mhxx-wiki-zh-cn,3
-20,支援增加之术,Support Boost,axibug-mhxx-wiki-zh-cn,2
-21,支援行动追加之术,Support Move +1,axibug-mhxx-wiki-zh-cn,3
-22,偷窃强化之术,Pilfer Boost,axibug-mhxx-wiki-zh-cn,0
-23,复活上手之术,Revival Pro,axibug-mhxx-wiki-zh-cn,3
-24,热・爆弹耐性之术,Heat/Bomb Res,axibug-mhxx-wiki-zh-cn,0
-25,毒耐性之术,Negate Poison,axibug-mhxx-wiki-zh-cn,1
-26,风压无效之术,Negate Wind,axibug-mhxx-wiki-zh-cn,1
-27,麻痹无效之术,Negate Paralysis,axibug-mhxx-wiki-zh-cn,1
-28,气绝无效之术,Negate Stun,axibug-mhxx-wiki-zh-cn,2
-29,混乱无效之术,Negate Confusion,axibug-mhxx-wiki-zh-cn,1
-30,耐震之术,Tremor Res,axibug-mhxx-wiki-zh-cn,1
-31,防音之术,Earplugs,axibug-mhxx-wiki-zh-cn,2
-32,睡眠无效之术,Negate Sleep,axibug-mhxx-wiki-zh-cn,1
-33,细菌学之术,Biology,axibug-mhxx-wiki-zh-cn,1
-34,防御力DOWN无效之术,Iron Hide,axibug-mhxx-wiki-zh-cn,1
-35,雪人早回复之术,Non-Stick Fur,axibug-mhxx-wiki-zh-cn,1
-36,七转八起之术【攻】,Nine Lives (Attack),axibug-mhxx-wiki-zh-cn,2
-37,七转八起之术【防】,Nine Lives (Defense),axibug-mhxx-wiki-zh-cn,1
-38,背水之阵之术,Last Stand,axibug-mhxx-wiki-zh-cn,0
-39,怒意发动强化之术,Anger Prone,axibug-mhxx-wiki-zh-cn,3
-40,反击支援上升之术,Counter Boost,axibug-mhxx-wiki-zh-cn,2
-41,怪物探知之术,Monsterdar,axibug-mhxx-wiki-zh-cn,0
-42,回旋镖上手之术,Boomerang Pro,axibug-mhxx-wiki-zh-cn,1
-43,陷阱设置上手之术,Pro Trapper,axibug-mhxx-wiki-zh-cn,0
-44,采集专门之术,Gathering Pro,axibug-mhxx-wiki-zh-cn,0
-45,偷懒触发之术,Slacker Slap,axibug-mhxx-wiki-zh-cn,0
-46,笛上手之术,Health Harmonics,axibug-mhxx-wiki-zh-cn,0
-47,黄金鱼狙击之术,Goldenfish Catcher,axibug-mhxx-wiki-zh-cn,1
-48,最棒的猫！之术,Baddest Cat Ever,axibug-mhxx-wiki-zh-cn+community-normalized,0
-49,高踏频之术,High Cadence,axibug-mhxx-wiki-zh-cn+community-normalized,0
-50,地上最强之术,World's Strongest,axibug-mhxx-wiki-zh-cn,0
-51,僵尸之术,Zombie,axibug-mhxx-wiki-zh-cn+community-normalized,0
-52,绝体绝命之术,Desperation,axibug-mhxx-wiki-zh-cn,0
-53,长飞丸之术,Nagatobimaru,axibug-mhxx-wiki-zh-cn,0
-54,法纳利斯之术,Fanalis,axibug-mhxx-wiki-zh-cn+community-normalized,0
-55,艾拉之术,Aera,axibug-mhxx-wiki-zh-cn+community-normalized,0
-56,远程攻击强化之术,Ranged Attack Up,axibug-mhxx-wiki-zh-cn,0
-57,迷你桶爆弹改造之术,Sonic Mini Bombay,axibug-mhxx-wiki-zh-cn+community-normalized,0
-58,穿搭上手之术,Fashion Sense,axibug-mhxx-wiki-zh-cn+community-normalized,0
-59,环球之术,Universal,axibug-mhxx-wiki-zh-cn+community-normalized,0
-60,鱼切身便当之术,Bento Jutsu,axibug-mhxx-wiki-zh-cn+community-normalized,0
-61,懒懒散散之术,Jugido,axibug-mhxx-wiki-zh-cn+community-normalized,0
-62,歌姬之术,Diva,axibug-mhxx-wiki-zh-cn,0
-63,风之杖之术,Wind Waker,axibug-mhxx-wiki-zh-cn,0
-64,陆地大师之术,Landmaster,axibug-mhxx-wiki-zh-cn+community-normalized,0
-65,超级蘑菇之术,Super Mushroom,axibug-mhxx-wiki-zh-cn,0
-66,商人之术,Shopkeeping,axibug-mhxx-wiki-zh-cn+community-normalized,0
-67,三角神力之术,Triforce,axibug-mhxx-wiki-zh-cn+community-normalized,0
-68,变形球炸弹之术,Morph Ball Bomb,axibug-mhxx-wiki-zh-cn,0
-69,百万核爆之术,Megaflare,axibug-mhxx-wiki-zh-cn+community-normalized,0
-70,防御超优先之术,DEF-centric,axibug-mhxx-wiki-zh-cn,0
-71,体力强化优先之术,STAM-centric,axibug-mhxx-wiki-zh-cn,0
-72,火耐性强化之术,Fire Res Up,axibug-mhxx-wiki-zh-cn,0
-73,水耐性强化之术,Water Res Up,axibug-mhxx-wiki-zh-cn,0
-74,雷耐性强化之术,Thunder Res Up,axibug-mhxx-wiki-zh-cn,0
-75,冰耐性强化之术,Ice Res Up,axibug-mhxx-wiki-zh-cn,0
-76,龙耐性强化之术,Dragon Res Up,axibug-mhxx-wiki-zh-cn,0
-77,超会心之术,Crit Boost,axibug-mhxx-wiki-zh-cn,0
-78,回复速度＋之术,Recovery Up,axibug-mhxx-wiki-zh-cn,0
-79,爆弹爆破追加之术,Bombercat,axibug-mhxx-wiki-zh-cn,1
-80,怒意延长之术,Angery,axibug-mhxx-wiki-zh-cn,2
-81,回避上手之术,Evasion Up,axibug-mhxx-wiki-zh-cn,2
-82,经验上手之术,Trainer,axibug-mhxx-wiki-zh-cn,0
-83,水属性强化之术,Water Up,axibug-mhxx-wiki-zh-cn,0
-84,冰属性强化之术,Ice Up,axibug-mhxx-wiki-zh-cn,0
-85,龙属性强化之术,Dragon Up,axibug-mhxx-wiki-zh-cn,0
-86,SP状态延长之术,SP Extender,axibug-mhxx-wiki-zh-cn,0
-87,弱点特效之术,Weakness Exploit,axibug-mhxx-wiki-zh-cn,0
-88,潜地上手之术,Ground Diver,axibug-mhxx-wiki-zh-cn+community-normalized,0
-89,根性之术,Moxie,axibug-mhxx-wiki-zh-cn,0
-90,野兽延长之术,Beastly Cat,axibug-mhxx-wiki-zh-cn+community-normalized,0
-91,装扮上手之术,Misty Helper,axibug-mhxx-wiki-zh-cn+community-normalized,0
-92,猫之加护之术,Lucky Protector,axibug-mhxx-wiki-zh-cn,0
-93,运搬上手之术,Bomb Transporter,axibug-mhxx-wiki-zh-cn,0
-94,防御优先之术,Defense Priority,axibug-mhxx-wiki-zh-cn,0
-95,翻滚上手之术,Rolling Boost,axibug-mhxx-wiki-zh-cn+community-normalized,0
-96,NULL [96],NULL [96],mhxx-save-format-community,0
+id,name,english,source,generation_tier,generation_group,role,teachable,memory_cost,generation_weights
+0,-----,-----,mhxx-save-format-community,0,,empty,0,,
+1,体力强化之术【小】,Health Up (S),axibug-mhxx-wiki-zh-cn,1,C,generated,1,,5/3/8/10
+2,体力强化之术【大】,Health Up (L),axibug-mhxx-wiki-zh-cn,2,B,generated,1,,6/3/10/5
+3,攻击强化之术【小】,Attack Up (S),axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+4,攻击强化之术【大】,Attack Up (L),axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/15/3/5
+5,防御强化之术【小】,Defense Up (S),axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+6,防御强化之术【大】,Defense Up (L),axibug-mhxx-wiki-zh-cn,2,B,generated,1,,6/3/15/5
+7,全耐性强化之术,Omniresistance,axibug-mhxx-wiki-zh-cn,3,A,generated,1,,15/5/25/5
+8,会心强化之术【小】,Critical Up (S),axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/20/2/4
+9,会心强化之术【大】,Critical Up (L),axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/15/3/5
+10,匠之术,Handicraft,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+11,爆弹强化之术,Bombay Boost,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+12,属性攻击强化之术,Element Attack Up,axibug-mhxx-wiki-zh-cn,3,A,generated,1,,15/25/5/5
+13,状态异常攻击强化之术,Status Attack Up,axibug-mhxx-wiki-zh-cn,3,A,generated,1,,10/25/5/10
+14,KO之术,Knockout King,axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/3/3/15
+15,减气攻击强化之术,Stamina Drain,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,5/15/2/10
+16,防御性能之术【小】,Guard (S),axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+17,防御性能之术【大】,Guard (L),axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/3/5/15
+18,防御强化之术,Guard Boost,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+19,支援优先之术,Support Priority,axibug-mhxx-wiki-zh-cn,3,A,generated,1,,15/5/15/35
+20,支援增加之术,Support Boost,axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/3/5/10
+21,支援行动追加之术,Support Move +1,axibug-mhxx-wiki-zh-cn,3,A,generated,1,,15/10/15/25
+22,偷窃强化之术,Pilfer Boost,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+23,复活上手之术,Revival Pro,axibug-mhxx-wiki-zh-cn,3,A,generated,1,,15/5/30/15
+24,热・爆弹耐性之术,Heat/Bomb Res,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+25,毒耐性之术,Negate Poison,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/4/8/4
+26,风压无效之术,Negate Wind,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/4/8/4
+27,麻痹无效之术,Negate Paralysis,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/3/8/4
+28,气绝无效之术,Negate Stun,axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/3/15/5
+29,混乱无效之术,Negate Confusion,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/4/8/4
+30,耐震之术,Tremor Res,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/4/8/4
+31,防音之术,Earplugs,axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/3/15/5
+32,睡眠无效之术,Negate Sleep,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/3/8/4
+33,细菌学之术,Biology,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,5/3/8/4
+34,防御力DOWN无效之术,Iron Hide,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,5/3/8/4
+35,雪人早回复之术,Non-Stick Fur,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,5/3/8/15
+36,七转八起之术【攻】,Nine Lives (Attack),axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/15/3/5
+37,七转八起之术【防】,Nine Lives (Defense),axibug-mhxx-wiki-zh-cn,1,C,generated,1,,5/3/8/10
+38,背水之阵之术,Last Stand,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+39,怒意发动强化之术,Anger Prone,axibug-mhxx-wiki-zh-cn,3,A,generated,1,,15/25/5/5
+40,反击支援上升之术,Counter Boost,axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/15/5/10
+41,怪物探知之术,Monsterdar,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+42,回旋镖上手之术,Boomerang Pro,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/15/3/5
+43,陷阱设置上手之术,Pro Trapper,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+44,采集专门之术,Gathering Pro,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+45,偷懒触发之术,Slacker Slap,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+46,笛上手之术,Health Harmonics,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+47,黄金鱼狙击之术,Goldenfish Catcher,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/3/2/10
+48,最棒的猫！之术,Baddest Cat Ever,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+49,高踏频之术,High Cadence,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+50,地上最强之术,World's Strongest,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+51,僵尸之术,Zombie,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+52,绝体绝命之术,Desperation,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+53,长飞丸之术,Nagatobimaru,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+54,法纳利斯之术,Fanalis,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+55,艾拉之术,Aera,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+56,远程攻击强化之术,Ranged Attack Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+57,迷你桶爆弹改造之术,Sonic Mini Bombay,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+58,穿搭上手之术,Fashion Sense,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+59,环球之术,Universal,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+60,鱼切身便当之术,Bento Jutsu,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+61,懒懒散散之术,Jugido,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+62,歌姬之术,Diva,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+63,风之杖之术,Wind Waker,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+64,陆地大师之术,Landmaster,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+65,超级蘑菇之术,Super Mushroom,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+66,商人之术,Shopkeeping,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+67,三角神力之术,Triforce,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+68,变形球炸弹之术,Morph Ball Bomb,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+69,百万核爆之术,Megaflare,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+70,防御超优先之术,DEF-centric,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+71,体力强化优先之术,STAM-centric,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+72,火耐性强化之术,Fire Res Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+73,水耐性强化之术,Water Res Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+74,雷耐性强化之术,Thunder Res Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+75,冰耐性强化之术,Ice Res Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+76,龙耐性强化之术,Dragon Res Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+77,超会心之术,Crit Boost,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+78,回复速度＋之术,Recovery Up,axibug-mhxx-wiki-zh-cn,0,,innate,1,,
+79,爆弹爆破追加之术,Bombercat,axibug-mhxx-wiki-zh-cn,1,C,generated,1,,7/10/3/4
+80,怒意延长之术,Angery,axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/15/3/10
+81,回避上手之术,Evasion Up,axibug-mhxx-wiki-zh-cn,2,B,generated,1,,8/4/15/5
+82,经验上手之术,Trainer,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+83,水属性强化之术,Water Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+84,冰属性强化之术,Ice Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+85,龙属性强化之术,Dragon Up,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+86,SP状态延长之术,SP Extender,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+87,弱点特效之术,Weakness Exploit,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+88,潜地上手之术,Ground Diver,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+89,根性之术,Moxie,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+90,野兽延长之术,Beastly Cat,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+91,装扮上手之术,Misty Helper,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+92,猫之加护之术,Lucky Protector,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+93,运搬上手之术,Bomb Transporter,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+94,防御优先之术,Defense Priority,axibug-mhxx-wiki-zh-cn,0,,special,1,,
+95,翻滚上手之术,Rolling Boost,axibug-mhxx-wiki-zh-cn+community-normalized,0,,special,1,,
+96,NULL [96],NULL [96],mhxx-save-format-community,0,,sentinel,0,,

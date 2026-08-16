@@ -14,6 +14,19 @@ crosswalk records its exact input hashes so it can be audited and regenerated.
 Regeneration is a research/maintenance operation; ordinary data builds consume
 the committed crosswalk directly.
 
+`palico_native_rules.json` is a compact, reviewable export of the game's
+`otLotOwn*`, `ot*Ini*pt`, `ot*Point` and `otSupportPointSp` tables. It records
+the A/B/C members and native weights, normal/Charisma patterns, fixed grants,
+effective lengths and the 57/96 tail sentinels. Raw RomFS tables are not
+committed. `catSkillData.cskd` has not yielded a confirmed passive-skill memory
+cost field, so those costs deliberately remain unknown rather than inferred.
+The compact crosswalk can be audited with:
+
+```bash
+python3 tools/export_palico_rules.py /path/to/romfs/table \
+  --verify tools/reference/palico_native_rules.json
+```
+
 Charm skill IDs and legal ranges no longer come from a hand-maintained
 reference table. `tools/export_game_names.py` reads the 206-entry save array
 from the native `skillTypeData.skt` / `skillTypeData_jpn.gmd` pair and both

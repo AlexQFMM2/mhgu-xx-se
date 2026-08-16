@@ -30,9 +30,14 @@ files by hand.
   against the linked Bahamut MHXX article and Axibug wiki; passive-skill names
   come from the Axibug wiki. The reviewed ID/Japanese/English/Chinese mapping is
   `tools/reference/palico_cn_translation.json`.
-- Palico fortes, RNG generation tiers and patterns, innate grants, and limits
-  are save-format facts. They remain data-driven advanced editor options even
-  though Dex does not contain those tables.
+- Palico A/B/C members and weights, normal/Charisma generation patterns,
+  effective-array lengths, innate/semi-innate/common grants and sentinels come
+  from the native `ot*` RomFS tables. `0` is an empty slot inside the effective
+  region; learned-action and learned-skill tails use 57 and 96 respectively.
+  The second pattern byte is the effective-region length, not an RNG seed.
+- Passive-skill memory costs remain empty because `catSkillData.cskd` has not
+  yielded a confirmed cost field. The editor reports those costs as unknown
+  instead of guessing from A/B/C generation points.
 - Translation references:
   [Bahamut MHXX Palico article](https://forum.gamer.com.tw/Co.php?bsn=5786&sn=829755),
   [Axibug support moves](https://mhwiki.axibug.com/mhxx-wiki/data/2832.html),

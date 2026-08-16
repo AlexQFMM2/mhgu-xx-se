@@ -64,9 +64,9 @@ struct MhguPalico {
     std::array<quint8, 16> learnedActions{};
     std::array<quint8, 12> learnedSkills{};
     quint8 actionPattern = 0;
-    quint8 actionSeed = 0;
+    quint8 actionValidLength = 0;
     quint8 skillPattern = 0;
-    quint8 skillSeed = 0;
+    quint8 skillValidLength = 0;
     bool received = false;
     QString greeting;
     QString nameGiver;
@@ -86,6 +86,26 @@ struct MhguPalico {
     QByteArray rightEyeColor;
     QByteArray leftEyeColor;
     QByteArray vestColor;
+};
+
+enum class PalicoIssueSeverity { Info, Warning, Error };
+
+struct PalicoValidationIssue {
+    PalicoIssueSeverity severity = PalicoIssueSeverity::Error;
+    QString field;
+    QString code;
+    QString message;
+};
+
+struct MhguPalicoStructure {
+    bool recognized = false;
+    QString actionScope;
+    QString actionSequence;
+    QString skillSequence;
+    int actionFixedCount = 0;
+    int actionTransferCount = 0;
+    int skillFixedCount = 2;
+    int skillTransferCount = 2;
 };
 
 class MhguSave {
@@ -123,9 +143,10 @@ public:
     bool setPalicoEquipment(int index, const MhguPalicoEquipment &value);
 
     MhguPalico palico(int index) const;
-    bool setPalico(int index, const MhguPalico &value, QString *validationError = nullptr);
+    bool setPalico(int index, const MhguPalico &value);
     static quint32 experienceForLevel(int displayedLevel);
-    static bool validatePalico(const MhguPalico &value, QString *error = nullptr);
+    static MhguPalicoStructure decodePalicoStructure(const MhguPalico &value);
+    static QVector<PalicoValidationIssue> validatePalico(const MhguPalico &value);
 
     bool validate(QString *error = nullptr) const;
     QByteArray bytes() const { return m_raw; }

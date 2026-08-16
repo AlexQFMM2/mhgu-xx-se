@@ -18,7 +18,7 @@ EXPECTED_PALICO_COUNTS = {
     "palico_skills.csv": 97,
     "palico_fortes.csv": 8,
     "palico_targets.csv": 6,
-    "palico_generation_patterns.csv": 15,
+    "palico_generation_patterns.csv": 22,
 }
 
 EXPECTED_GAME_COUNTS = {
@@ -110,10 +110,14 @@ def main() -> int:
 
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     require(manifest.get("format") == "mhxx-save-editor-data-v1", "unsupported manifest format")
-    require(manifest.get("generator_version") == "2.4.0", "unsupported generator version")
+    require(manifest.get("generator_version") == "2.5.0", "unsupported generator version")
     require(
         bool(manifest.get("sources", {}).get("palico_cn_translation_sha256")),
         "manifest is missing the Palico Chinese translation hash",
+    )
+    require(
+        bool(manifest.get("sources", {}).get("palico_native_rules_sha256")),
+        "manifest is missing the Palico native-rule hash",
     )
     game_resource = manifest.get("game_resource", {})
     require(game_resource.get("format") == "mhxx-game-resource-export-v4", "missing game-resource export metadata")
@@ -284,24 +288,53 @@ def main() -> int:
             for identifier, row in entries.items():
                 tier = int(row["generation_tier"])
                 require(0 <= tier <= 3, f"{language}: {label} {identifier} has invalid tier {tier}")
+                require(row["generation_group"] in {"", "A", "B", "C"},
+                        f"{language}: {label} {identifier} has invalid generation group")
+                require(row["teachable"] in {"0", "1", "unknown"},
+                        f"{language}: {label} {identifier} has invalid teachable flag")
+                require(row["memory_cost"] == "",
+                        f"{language}: unconfirmed Palico memory cost must stay empty")
+        require([sum(row["generation_group"] == group for row in moves.values()) for group in ("A", "B", "C")] ==
+                [7, 13, 19], f"{language}: support A/B/C member counts differ")
+        require([sum(row["generation_group"] == group for row in skills.values()) for group in ("A", "B", "C")] ==
+                [7, 13, 16], f"{language}: skill A/B/C member counts differ")
 
         grants = tables[f"{language}/palico_forte_grants.csv"]
         for row in grants:
             forte_id, entry_id = int(row["forte_id"]), int(row["entry_id"])
-            require(forte_id in fortes, f"{language}: grant references unknown forte {forte_id}")
+            require(forte_id == -1 or forte_id in fortes, f"{language}: grant references unknown forte {forte_id}")
             target = moves if row["kind"] == "move" else skills if row["kind"] == "skill" else None
             require(target is not None, f"{language}: invalid grant kind {row['kind']}")
             require(entry_id in target, f"{language}: grant references unknown {row['kind']} {entry_id}")
+            require(row["role"] in {"primary", "secondary", "secondary_fixed", "common", "innate"},
+                    f"{language}: invalid Palico grant role {row['role']}")
+            require((row["role"] == "common") == (forte_id == -1),
+                    f"{language}: common Palico grants must use forte -1")
 
         patterns = tables[f"{language}/palico_generation_patterns.csv"]
-        require(sum(row["kind"] == "move" for row in patterns) == 8, f"{language}: move pattern count differs")
-        require(sum(row["kind"] == "skill" for row in patterns) == 7, f"{language}: skill pattern count differs")
+        require(sum(row["scope"] == "normal_move" for row in patterns) == 7,
+                f"{language}: normal move pattern count differs")
+        require(sum(row["scope"] == "charisma_move" for row in patterns) == 8,
+                f"{language}: Charisma move pattern count differs")
+        require(sum(row["scope"] == "skill" for row in patterns) == 7,
+                f"{language}: skill pattern count differs")
         for row in patterns:
-            require(row["sequence"] and set(row["sequence"]) <= {"1", "2", "3"}, f"{language}: invalid pattern")
+            require(row["sequence"] and set(row["sequence"]) <= {"A", "B", "C"}, f"{language}: invalid pattern")
+            fixed, transfer = ((3, 3) if row["scope"] == "charisma_move" else
+                               (4, 2) if row["scope"] == "normal_move" else (2, 2))
+            require(int(row["valid_length"]) == fixed + len(row["sequence"]) + transfer,
+                    f"{language}: invalid pattern valid length")
+            require(int(row["weight"]) > 0, f"{language}: invalid pattern weight")
+        require({row["sequence"] for row in patterns if row["scope"] == "normal_move"} ==
+                {"ABBC", "ABCCC", "ACCCCC", "BBBB", "BBBCC", "BBCCCC", "CCCCCCCC"},
+                f"{language}: normal move A/B/C sequence set differs")
+        require({row["sequence"] for row in patterns if row["scope"] == "charisma_move"} ==
+                {"ABBB", "ABBCC", "ABCCCC", "ACCCCCC", "BBBBC", "BBBCCC", "BBCCCCC", "CCCCCCCCC"},
+                f"{language}: Charisma move A/B/C sequence set differs")
 
         limits = {row["key"]: int(row["value"]) for row in tables[f"{language}/palico_limits.csv"]}
-        require(limits.get("max_learned_moves") == 10, f"{language}: learned move limit differs")
-        require(limits.get("max_learned_skills") == 8, f"{language}: learned skill limit differs")
+        require("max_learned_moves" not in limits and "max_learned_skills" not in limits,
+                f"{language}: obsolete learned-array limits must not be generated")
 
         for gear in ("palico_head.csv", "palico_armor.csv"):
             ids = sorted(indexes[f"{language}/{gear}"])

@@ -1,59 +1,59 @@
-id,name,english,source,generation_tier
-0,-----,-----,mhxx-save-format-community,0
-1,Herb Horn,Herb Horn,mhxx-save-format-community,0
-2,Health Horn,Health Horn,mhxx-save-format-community,3
-3,True Health Horn,True Health Horn,mhxx-save-format-community,0
-4,Detox Horn,Detox Horn,mhxx-save-format-community,2
-5,Cheer Horn,Cheer Horn,mhxx-save-format-community,0
-6,Demon Horn,Demon Horn,mhxx-save-format-community,0
-7,Armor Horn,Armor Horn,mhxx-save-format-community,0
-8,Ultrasonic Horn,Ultrasonic Horn,mhxx-save-format-community,1
-9,Mini Barrel Bombay,Mini Barrel Bombay,mhxx-save-format-community,0
-10,Barrel Bombay,Barrel Bombay,mhxx-save-format-community,1
-11,Big Barrel Bombay,Big Barrel Bombay,mhxx-save-format-community,2
-12,Mega Barrel Bombay,Mega Barrel Bombay,mhxx-save-format-community,0
-13,Giga Barrel Bombay,Giga Barrel Bombay,mhxx-save-format-community,3
-14,Bounce Bombay,Bounce Bombay,mhxx-save-format-community,1
-15,Flash Bombay,Flash Bombay,mhxx-save-format-community,2
-16,Anti-Monster Mine,Anti-Monster Mine,mhxx-save-format-community,2
-17,Anti-Monster Mine+,Anti-Monster Mine+,mhxx-save-format-community,3
-18,Pitfall Purr-ison,Pitfall Purr-ison,mhxx-save-format-community,3
-19,Shock Purr-ison,Shock Purr-ison,mhxx-save-format-community,3
-20,Poison Purr-ision,Poison Purr-ision,mhxx-save-format-community,0
-21,Trampoliner,Trampoliner,mhxx-save-format-community,2
-22,Vase of Vitality,Vase of Vitality,mhxx-save-format-community,2
-23,Parting Gift,Parting Gift,mhxx-save-format-community,1
-24,Emergency Retreat,Emergency Retreat,mhxx-save-format-community,0
-25,Big Boomerangs,Big Boomerangs,mhxx-save-format-community,1
-26,Piercing Boomerangs,Piercing Boomerangs,mhxx-save-format-community,0
-27,Camoflage,Camoflage,mhxx-save-format-community,0
-28,Weapon Upgrade,Weapon Upgrade,mhxx-save-format-community,2
-29,Furr-ious,Furr-ious,mhxx-save-format-community,0
-30,Taunt,Taunt,mhxx-save-format-community,0
-31,Palico Rally,Palico Rally,mhxx-save-format-community,0
-32,Dung Bombay,Dung Bombay,mhxx-save-format-community,1
-33,"Go, Fight, Win","Go, Fight, Win",mhxx-save-format-community,2
-34,Soothing Roll,Soothing Roll,mhxx-save-format-community,1
-35,Explosive Roll,Explosive Roll,mhxx-save-format-community,1
-36,Pilfer,Pilfer,mhxx-save-format-community,3
-37,Plundering,Plundering,mhxx-save-format-community,0
-38,Felyne Comet,Felyne Comet,mhxx-save-format-community,1
-39,Claw Dance,Claw Dance,mhxx-save-format-community,2
-40,Sumo Stomp,Sumo Stomp,mhxx-save-format-community,1
-41,Chestnut Cannon,Chestnut Cannon,mhxx-save-format-community,1
-42,Shock Tripper,Shock Tripper,mhxx-save-format-community,1
-43,Excavator,Excavator,mhxx-save-format-community,1
-44,Mega Boomerang,Mega Boomerang,mhxx-save-format-community,2
-45,Rath-of-Meow,Rath-of-Meow,mhxx-save-format-community,3
-46,Beast Mode,Beast Mode,mhxx-save-format-community,0
-47,Power Roar,Power Roar,mhxx-save-format-community,0
-48,Vase of Recovery,Vase of Recovery,mhxx-save-format-community,1
-49,Purr-Caster,Purr-Caster,mhxx-save-format-community,2
-50,Diving Attack,Diving Attack,mhxx-save-format-community,1
-51,Felyne Cannon,Felyne Cannon,mhxx-save-format-community,1
-52,Wrecking Ball,Wrecking Ball,mhxx-save-format-community,1
-53,Bombing Ride,Bombing Ride,mhxx-save-format-community,1
-54,Enhanced Horn,Enhanced Horn,mhxx-save-format-community,1
-55,SP Horn,SP Horn,mhxx-save-format-community,2
-56,Acorn Sacrifice,Acorn Sacrifice,mhxx-save-format-community,2
-57,NULL [57],NULL [57],mhxx-save-format-community,0
+id,name,english,source,generation_tier,generation_group,role,teachable,memory_cost,generation_weights
+0,-----,-----,mhxx-save-format-community,0,,empty,0,,
+1,Herb Horn,Herb Horn,mhxx-save-format-community,0,,common,0,,
+2,Health Horn,Health Horn,mhxx-save-format-community,3,A,generated,1,,15/10/50/15
+3,True Health Horn,True Health Horn,mhxx-save-format-community,0,,primary,0,,
+4,Detox Horn,Detox Horn,mhxx-save-format-community,2,B,generated,1,,7/3/20/10
+5,Cheer Horn,Cheer Horn,mhxx-save-format-community,0,,secondary,1,,
+6,Demon Horn,Demon Horn,mhxx-save-format-community,0,,secondary,1,,
+7,Armor Horn,Armor Horn,mhxx-save-format-community,0,,secondary,1,,
+8,Ultrasonic Horn,Ultrasonic Horn,mhxx-save-format-community,1,C,generated,1,,5/2/2/15
+9,Mini Barrel Bombay,Mini Barrel Bombay,mhxx-save-format-community,0,,common,0,,
+10,Barrel Bombay,Barrel Bombay,mhxx-save-format-community,1,C,generated,1,,5/7/2/3
+11,Big Barrel Bombay,Big Barrel Bombay,mhxx-save-format-community,2,B,generated,1,,8/15/3/3
+12,Mega Barrel Bombay,Mega Barrel Bombay,mhxx-save-format-community,0,,primary,0,,
+13,Giga Barrel Bombay,Giga Barrel Bombay,mhxx-save-format-community,3,A,generated,1,,15/25/5/5
+14,Bounce Bombay,Bounce Bombay,mhxx-save-format-community,1,C,generated,1,,5/7/2/3
+15,Flash Bombay,Flash Bombay,mhxx-save-format-community,2,B,generated,1,,8/3/3/10
+16,Anti-Monster Mine,Anti-Monster Mine,mhxx-save-format-community,2,B,generated,1,,8/15/3/3
+17,Anti-Monster Mine+,Anti-Monster Mine+,mhxx-save-format-community,3,A,generated,1,,15/25/5/5
+18,Pitfall Purr-ison,Pitfall Purr-ison,mhxx-save-format-community,3,A,generated,1,,15/5/15/25
+19,Shock Purr-ison,Shock Purr-ison,mhxx-save-format-community,3,A,generated,1,,15/5/15/25
+20,Poison Purr-ision,Poison Purr-ision,mhxx-save-format-community,0,,primary,0,,
+21,Trampoliner,Trampoliner,mhxx-save-format-community,2,B,generated,1,,7/3/8/10
+22,Vase of Vitality,Vase of Vitality,mhxx-save-format-community,2,B,generated,1,,7/3/20/10
+23,Parting Gift,Parting Gift,mhxx-save-format-community,1,C,generated,1,,5/2/14/3
+24,Emergency Retreat,Emergency Retreat,mhxx-save-format-community,0,,secondary,1,,
+25,Big Boomerangs,Big Boomerangs,mhxx-save-format-community,1,C,generated,1,,5/8/2/3
+26,Piercing Boomerangs,Piercing Boomerangs,mhxx-save-format-community,0,,secondary,1,,
+27,Camoflage,Camoflage,mhxx-save-format-community,0,,secondary,1,,
+28,Weapon Upgrade,Weapon Upgrade,mhxx-save-format-community,2,B,generated,1,,8/15/3/3
+29,Furr-ious,Furr-ious,mhxx-save-format-community,0,,primary,0,,
+30,Taunt,Taunt,mhxx-save-format-community,0,,primary,0,,
+31,Palico Rally,Palico Rally,mhxx-save-format-community,0,,primary,0,,
+32,Dung Bombay,Dung Bombay,mhxx-save-format-community,1,C,generated,1,,5/2/14/15
+33,"Go, Fight, Win","Go, Fight, Win",mhxx-save-format-community,2,B,generated,1,,8/3/10/15
+34,Soothing Roll,Soothing Roll,mhxx-save-format-community,1,C,generated,1,,5/2/15/3
+35,Explosive Roll,Explosive Roll,mhxx-save-format-community,1,C,generated,1,,5/7/2/3
+36,Pilfer,Pilfer,mhxx-save-format-community,3,A,generated,1,,10/5/5/20
+37,Plundering,Plundering,mhxx-save-format-community,0,,primary,0,,
+38,Felyne Comet,Felyne Comet,mhxx-save-format-community,1,C,generated,1,,5/7/2/3
+39,Claw Dance,Claw Dance,mhxx-save-format-community,2,B,generated,1,,8/15/3/3
+40,Sumo Stomp,Sumo Stomp,mhxx-save-format-community,1,C,generated,1,,5/7/2/3
+41,Chestnut Cannon,Chestnut Cannon,mhxx-save-format-community,1,C,generated,1,,5/7/2/3
+42,Shock Tripper,Shock Tripper,mhxx-save-format-community,1,C,generated,1,,5/2/2/15
+43,Excavator,Excavator,mhxx-save-format-community,1,C,generated,1,,5/7/2/3
+44,Mega Boomerang,Mega Boomerang,mhxx-save-format-community,2,B,generated,1,,8/15/3/3
+45,Rath-of-Meow,Rath-of-Meow,mhxx-save-format-community,3,A,generated,1,,15/25/5/5
+46,Beast Mode,Beast Mode,mhxx-save-format-community,0,,primary,0,,
+47,Power Roar,Power Roar,mhxx-save-format-community,0,,secondary_fixed,1,,
+48,Vase of Recovery,Vase of Recovery,mhxx-save-format-community,1,C,generated,1,,6/2/15/3
+49,Purr-Caster,Purr-Caster,mhxx-save-format-community,2,B,generated,1,,8/3/8/10
+50,Diving Attack,Diving Attack,mhxx-save-format-community,1,C,generated,1,,6/8/2/3
+51,Felyne Cannon,Felyne Cannon,mhxx-save-format-community,1,C,generated,1,,6/7/2/3
+52,Wrecking Ball,Wrecking Ball,mhxx-save-format-community,1,C,generated,1,,6/7/2/3
+53,Bombing Ride,Bombing Ride,mhxx-save-format-community,1,C,generated,1,,5/7/2/3
+54,Enhanced Horn,Enhanced Horn,mhxx-save-format-community,1,C,generated,1,,6/2/14/10
+55,SP Horn,SP Horn,mhxx-save-format-community,2,B,generated,1,,7/3/8/10
+56,Acorn Sacrifice,Acorn Sacrifice,mhxx-save-format-community,2,B,generated,1,,8/4/8/10
+57,NULL [57],NULL [57],mhxx-save-format-community,0,,sentinel,0,,

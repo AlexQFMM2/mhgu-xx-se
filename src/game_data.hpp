@@ -12,19 +12,27 @@ struct GameDataEntry {
     int rarity = 0;
     int maxLevel = 0;
     int generationTier = 0;
+    QString generationGroup;
+    QString role;
+    int teachable = -1;
+    int memoryCost = -1;
+    QString generationWeights;
     int slotCost = -1;
     int nativeSlots = -1;
 };
 
 struct PalicoPattern {
-    QString kind;
+    QString scope;
     int id = 0;
     QString sequence;
+    int validLength = 0;
+    int weight = 0;
 };
 
 struct PalicoForteGrant {
     int forteId = 0;
     QString kind;
+    QString role;
     int entryId = 0;
 };
 
@@ -53,8 +61,10 @@ public:
     int decorationSlotCost(int itemId, bool *found = nullptr) const;
     bool talismanSkillRange(int talismanId, int skillId, int position,
                             int *minimum, int *maximum) const;
-    QVector<PalicoPattern> patterns(const QString &kind) const;
-    QVector<PalicoForteGrant> forteGrants(int forteId, const QString &kind) const;
+    QVector<PalicoPattern> patterns(const QString &scope) const;
+    PalicoPattern pattern(const QString &scope, int id) const;
+    QVector<PalicoForteGrant> forteGrants(int forteId, const QString &kind,
+                                          const QString &role = {}) const;
 
 private:
     static QStringList parseCsvLine(const QString &line);
