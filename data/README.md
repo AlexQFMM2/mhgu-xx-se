@@ -13,6 +13,8 @@ files by hand.
 - `en/` uses English names in both `name` and `english`.
 - Equipment crosswalks no longer assign IDs: they attach Dex metadata to the
   game array index and fail generation on any Japanese-name mismatch.
+- Each armor CSV records native slot counts from bytes 108 through 112 of the
+  127-byte `armorSeriesData.asd` record (head/chest/arms/waist/legs).
 - `weapon_level_slots.csv` comes directly from all fourteen native
   `weaponXXLevelData` tables. It records both the zero-based save level and the
   one-based displayed level. `decorations.csv` records native jewel slot cost;

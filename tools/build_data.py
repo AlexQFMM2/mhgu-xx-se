@@ -14,8 +14,8 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "2.1.0"
-GAME_EXPORT_FORMAT = "mhxx-game-resource-export-v2"
+GENERATOR_VERSION = "2.2.0"
+GAME_EXPORT_FORMAT = "mhxx-game-resource-export-v3"
 GAME_SOURCE = "mhxx-romfs-game-array"
 GAME_RULE_SOURCE = "mhxx-romfs-native-table"
 GAME_ONLY_TRANSLATION_SOURCE = "mhxx-reviewed-game-only-translation"
@@ -27,6 +27,7 @@ MARKER = "<!-- generated-by: tools/build_data.py -->"
 
 BASE_COLUMNS = ("id", "name", "english", "source")
 EQUIPMENT_COLUMNS = BASE_COLUMNS + ("rarity",)
+ARMOR_COLUMNS = EQUIPMENT_COLUMNS + ("slots",)
 DECORATION_COLUMNS = BASE_COLUMNS + ("slot_cost",)
 
 ARMOR = (
@@ -335,6 +336,12 @@ def build_language(
     for file_name, _part in ARMOR:
         table_key = Path(file_name).stem
         game_names = game_tables[table_key]
+        native_slots = {
+            int(row["armor_id"]): int(row["slots"])
+            for row in game_rules["armor_slots"][table_key]
+        }
+        if set(native_slots) != set(range(len(game_names))):
+            raise ValueError(f"{table_key}: native slot table does not cover every save ID")
         entries = {int(entry["save_id"]): entry for entry in crosswalk["armor"][table_key]}
         valid_ids = {
             identifier for identifier, japanese in enumerate(game_names)
@@ -352,29 +359,39 @@ def build_language(
             entry = entries[save_id]
             dex_id = int(entry["dex_id"])
             if save_id == 0:
-                rows.append({**none_row(language, equipment=True), "source": GAME_SOURCE})
+                rows.append({
+                    **none_row(language, equipment=True),
+                    "source": GAME_SOURCE + "+" + GAME_RULE_SOURCE,
+                    "slots": native_slots[save_id],
+                })
             elif dex_id < 0:
                 english = str(entry["english"])
                 rows.append({
                     "id": save_id,
                     "name": english,
                     "english": english,
-                    "source": GAME_SOURCE + "+" + SAVE_SOURCE,
+                    "source": GAME_SOURCE + "+" + SAVE_SOURCE + "+" + GAME_RULE_SOURCE,
                     "rarity": 0,
+                    "slots": native_slots[save_id],
                 })
             else:
                 require_game_match(
                     f"{table_key} ID {save_id}", japanese, armor_names[dex_id]["Amr_Name_3"]
                 )
+                if int(armor_data[dex_id]["Slot"]) != native_slots[save_id]:
+                    raise ValueError(
+                        f"{table_key} ID {save_id}: native slot count differs from Dex crosswalk"
+                    )
                 name, english, source = localized(armor_names[dex_id], "Amr_Name_", language)
                 rows.append({
                     "id": save_id,
                     "name": name,
                     "english": english,
-                    "source": GAME_SOURCE + "+" + source + "+" + SAVE_SOURCE,
+                    "source": GAME_SOURCE + "+" + source + "+" + SAVE_SOURCE + "+" + GAME_RULE_SOURCE,
                     "rarity": int(armor_data[dex_id]["Rare"]),
+                    "slots": native_slots[save_id],
                 })
-        counts[file_name] = write_csv(output / file_name, EQUIPMENT_COLUMNS, rows)
+        counts[file_name] = write_csv(output / file_name, ARMOR_COLUMNS, rows)
 
     weapon_data = {int(row["Wpn_ID"]): row for row in read_csv(sql_dir / "DB_Wpn.csv")}
     weapon_names = {int(row["Wpn_ID"]): row for row in read_csv(sql_dir / "ID_Wpn_Name.csv")}
@@ -629,6 +646,8 @@ files by hand.
 - `en/` uses English names in both `name` and `english`.
 - Equipment crosswalks no longer assign IDs: they attach Dex metadata to the
   game array index and fail generation on any Japanese-name mismatch.
+- Each armor CSV records native slot counts from bytes 108 through 112 of the
+  127-byte `armorSeriesData.asd` record (head/chest/arms/waist/legs).
 - `weapon_level_slots.csv` comes directly from all fourteen native
   `weaponXXLevelData` tables. It records both the zero-based save level and the
   one-based displayed level. `decorations.csv` records native jewel slot cost;
@@ -707,9 +726,13 @@ def main() -> int:
     if not isinstance(game_tables, dict) or set(game_tables) != required_game_tables:
         raise ValueError("game name export table set differs from the required save-ID tables")
     if not isinstance(game_rules, dict) or set(game_rules) != {
-        "weapon_level_slots", "decoration_slot_costs"
+        "armor_slots", "weapon_level_slots", "decoration_slot_costs"
     }:
         raise ValueError("game resource export rule set differs from the required native rules")
+    if set(game_rules["armor_slots"]) != {
+        Path(file_name).stem for file_name, _part in ARMOR
+    }:
+        raise ValueError("armor slot rule tables differ from the armor tables")
     if set(game_rules["weapon_level_slots"]) != set(crosswalk["weapons"]):
         raise ValueError("weapon level rule tables differ from the weapon crosswalk")
 
@@ -744,6 +767,9 @@ def main() -> int:
                 "sources": game_export.get("sources", []),
                 "tables": {key: len(game_tables[key]) for key in sorted(game_tables)},
                 "rules": {
+                    "armor_slots": sum(
+                        len(rows) for rows in game_rules["armor_slots"].values()
+                    ),
                     "weapon_level_slots": sum(
                         len(rows) for rows in game_rules["weapon_level_slots"].values()
                     ),

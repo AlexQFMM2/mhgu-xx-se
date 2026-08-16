@@ -15,8 +15,17 @@ import struct
 from pathlib import Path
 
 
-FORMAT = "mhxx-game-resource-export-v2"
+FORMAT = "mhxx-game-resource-export-v3"
 GMD_MAGIC = b"GMD\0"
+
+ARMOR_RECORD_SIZE = 127
+ARMOR_SLOT_OFFSETS = {
+    "armor_head": 108,
+    "armor_chest": 109,
+    "armor_arms": 110,
+    "armor_waist": 111,
+    "armor_legs": 112,
+}
 
 WEAPONS = {
     "weapon_great_sword": 0,
@@ -165,6 +174,27 @@ def read_decoration_slot_costs(path: Path) -> list[dict[str, int]]:
     return rows
 
 
+def read_armor_slots(path: Path) -> dict[str, list[dict[str, int]]]:
+    data = path.read_bytes()
+    if len(data) < 8:
+        raise ValueError(f"{path}: truncated armor series table")
+    count = struct.unpack_from("<I", data, 4)[0]
+    if len(data) != 8 + count * ARMOR_RECORD_SIZE:
+        raise ValueError(f"{path}: armor series table size mismatch")
+    result: dict[str, list[dict[str, int]]] = {}
+    for table, slot_offset in ARMOR_SLOT_OFFSETS.items():
+        rows = []
+        for armor_id in range(count):
+            slots = data[8 + armor_id * ARMOR_RECORD_SIZE + slot_offset]
+            if not 0 <= slots <= 3:
+                raise ValueError(
+                    f"{path}: invalid {table} slot count {slots} at save ID {armor_id}"
+                )
+            rows.append({"armor_id": armor_id, "slots": slots})
+        result[table] = rows
+    return result
+
+
 def grouped_names(values: list[str], block: int, name_index: int, label: str) -> list[str]:
     if len(values) % block:
         raise ValueError(f"{label}: {len(values)} messages is not divisible by {block}")
@@ -190,7 +220,8 @@ def main() -> int:
     armor_gmd = root / "armorSeriesData_jpn.gmd"
     armor_binary = root / "armorSeriesData.asd"
     armor_messages = read_gmd(armor_gmd)
-    armor_count = read_counted_binary(armor_binary)
+    armor_slots = read_armor_slots(armor_binary)
+    armor_count = len(armor_slots["armor_head"])
     if len(armor_messages) != armor_count * 10:
         raise ValueError("armor message count is not ten messages per save ID")
     armor_keys = ("armor_head", "armor_chest", "armor_arms", "armor_waist", "armor_legs")
@@ -251,6 +282,7 @@ def main() -> int:
             "palico_armor": palico_armor,
         },
         "rules": {
+            "armor_slots": armor_slots,
             "weapon_level_slots": weapon_level_slots,
             "decoration_slot_costs": decoration_slot_costs,
         },

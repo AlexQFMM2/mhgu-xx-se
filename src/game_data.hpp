@@ -13,6 +13,7 @@ struct GameDataEntry {
     int maxLevel = 0;
     int generationTier = 0;
     int slotCost = -1;
+    int nativeSlots = -1;
 };
 
 struct PalicoPattern {
@@ -41,6 +42,7 @@ public:
     QString equipmentTable(int type) const;
     QString palicoEquipmentTable(int rawType) const;
     int weaponSlots(int type, int weaponId, int saveLevel, bool *found = nullptr) const;
+    int armorSlots(int type, int armorId, bool *found = nullptr) const;
     int decorationSlotCost(int itemId, bool *found = nullptr) const;
     QVector<PalicoPattern> patterns(const QString &kind) const;
     QVector<PalicoForteGrant> forteGrants(int forteId, const QString &kind) const;

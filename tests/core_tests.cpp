@@ -95,6 +95,11 @@ int main(int argc, char **argv)
             "Long Sword native level slot count");
     data.weaponSlots(7, 1, 11, &weaponSlotsFound);
     require(!weaponSlotsFound, "weapon level above native maximum is absent");
+    bool armorSlotsFound = false;
+    require(data.armorSlots(1, 1066, &armorSlotsFound) == 2 && armorSlotsFound,
+            "Royal Crown native armor slot count");
+    data.armorSlots(1, 65535, &armorSlotsFound);
+    require(!armorSlotsFound, "unknown armor ID has no native slot rule");
     bool decorationFound = false;
     require(data.decorationSlotCost(2638, &decorationFound) == 1 && decorationFound,
             "one-slot decoration cost comes from native decoData");

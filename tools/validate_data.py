@@ -64,6 +64,7 @@ EXPECTED_WEAPON_TYPES = {
     21: "weapon_charge_blade",
 }
 EXPECTED_WEAPON_LEVEL_ROWS = 10925
+EXPECTED_ARMOR_SLOT_ROWS = 1287 * 5
 
 
 def sha256(path: Path) -> str:
@@ -107,16 +108,17 @@ def main() -> int:
 
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     require(manifest.get("format") == "mhxx-save-editor-data-v1", "unsupported manifest format")
-    require(manifest.get("generator_version") == "2.1.0", "unsupported generator version")
+    require(manifest.get("generator_version") == "2.2.0", "unsupported generator version")
     require(
         bool(manifest.get("sources", {}).get("palico_cn_translation_sha256")),
         "manifest is missing the Palico Chinese translation hash",
     )
     game_resource = manifest.get("game_resource", {})
-    require(game_resource.get("format") == "mhxx-game-resource-export-v2", "missing game-resource export metadata")
+    require(game_resource.get("format") == "mhxx-game-resource-export-v3", "missing game-resource export metadata")
     require(game_resource.get("language") == "jp", "game-resource language must be jp")
     require(game_resource.get("tables") == EXPECTED_GAME_COUNTS, "game-resource table counts differ")
     require(game_resource.get("rules") == {
+        "armor_slots": EXPECTED_ARMOR_SLOT_ROWS,
         "weapon_level_slots": EXPECTED_WEAPON_LEVEL_ROWS,
         "decoration_slot_costs": 251,
     }, "game-resource native rule counts differ")
@@ -229,6 +231,13 @@ def main() -> int:
             require(int(decorations[identifier]["slot_cost"]) == -1,
                     f"{language}: extra DUMMY decoration {identifier} must be unsupported")
 
+        for armor_name in ("armor_head", "armor_chest", "armor_arms", "armor_waist", "armor_legs"):
+            for identifier, row in indexes[f"{language}/{armor_name}.csv"].items():
+                require(0 <= int(row["slots"]) <= 3,
+                        f"{language}/{armor_name}: invalid native slot count at ID {identifier}")
+        require(int(indexes[f"{language}/armor_head.csv"][1066]["slots"]) == 2,
+                f"{language}: Royal Crown save ID 1066 must have two native slots")
+
         moves = indexes[f"{language}/palico_support_moves.csv"]
         skills = indexes[f"{language}/palico_skills.csv"]
         fortes = indexes[f"{language}/palico_fortes.csv"]
@@ -275,7 +284,7 @@ def main() -> int:
 
     if args.game_names is not None:
         game_export = json.loads(args.game_names.read_text(encoding="utf-8"))
-        require(game_export.get("format") == "mhxx-game-resource-export-v2", "unsupported game resource export")
+        require(game_export.get("format") == "mhxx-game-resource-export-v3", "unsupported game resource export")
         require(game_export.get("language") == "jp", "game name export language must be jp")
         require(sha256(args.game_names) == game_resource.get("export_sha256"), "game name export hash differs from manifest")
         tables_from_game = game_export.get("tables", {})
@@ -286,6 +295,8 @@ def main() -> int:
         )
         require(sum(len(rows) for rows in rules_from_game.get("weapon_level_slots", {}).values())
                 == EXPECTED_WEAPON_LEVEL_ROWS, "supplied weapon level rule count differs")
+        require(sum(len(rows) for rows in rules_from_game.get("armor_slots", {}).values())
+                == EXPECTED_ARMOR_SLOT_ROWS, "supplied armor slot rule count differs")
         require(len(rules_from_game.get("decoration_slot_costs", [])) == 251,
                 "supplied decoration slot rule count differs")
         for language in ("cn", "en"):
@@ -299,6 +310,14 @@ def main() -> int:
                     if identifier == 0 or japanese not in {"装備なし", "装備無し"}
                 }
                 require(set(indexes[f"{language}/{key}.csv"]) == expected, f"{language}/{key}.csv differs from game ID set")
+                native_slots = {
+                    int(row["armor_id"]): int(row["slots"])
+                    for row in rules_from_game["armor_slots"][key]
+                }
+                for identifier in expected:
+                    require(int(indexes[f"{language}/{key}.csv"][identifier]["slots"])
+                            == native_slots[identifier],
+                            f"{language}/{key}: native slot mismatch at ID {identifier}")
             for key in (name for name in EXPECTED_GAME_COUNTS if name.startswith("weapon_")):
                 require(
                     set(indexes[f"{language}/{key}.csv"]) == set(range(len(tables_from_game[key]))),

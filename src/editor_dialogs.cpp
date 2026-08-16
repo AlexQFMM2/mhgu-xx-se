@@ -139,6 +139,96 @@ private:
     QSpinBox *m_count;
 };
 
+static bool isArmorType(int type) { return type >= 1 && type <= 5; }
+static bool isWeaponType(int type) { return type >= 7 && type <= 21 && type != 12; }
+
+static bool validateHunterEquipment(GameData *data, const MhguEquipment &entry, QString *error)
+{
+    if (entry.type == 0) return true;
+    const QString table = data->equipmentTable(entry.type);
+    if (table.isEmpty() || !data->contains(table, entry.id)) {
+        if (error) *error = QStringLiteral("装备类型 %1 与实际 ID %2 不匹配。").arg(entry.type).arg(entry.id);
+        return false;
+    }
+    if (isArmorType(entry.type) && entry.appearanceId && !data->contains(table, entry.appearanceId)) {
+        if (error) *error = QStringLiteral("防具幻化 ID %1 不属于相同部位。").arg(entry.appearanceId);
+        return false;
+    }
+    if (isWeaponType(entry.type) && entry.appearanceId) {
+        if (error) *error = QStringLiteral("MHGU 原版不支持武器幻化，请将武器幻化设为无。");
+        return false;
+    }
+
+    bool slotsFound = false;
+    int available = 0;
+    QString slotSource;
+    if (isArmorType(entry.type)) {
+        available = data->armorSlots(entry.type, entry.id, &slotsFound);
+        slotSource = QStringLiteral("该防具");
+    } else if (isWeaponType(entry.type)) {
+        available = data->weaponSlots(entry.type, entry.id, entry.level, &slotsFound);
+        slotSource = QStringLiteral("该武器当前等级");
+        if (!slotsFound) {
+            if (error) *error = QStringLiteral(
+                "游戏原生 weaponXXLevelData 中不存在此武器与等级组合。存档等级 %1 对应游戏显示等级 %2。"
+            ).arg(entry.level).arg(entry.level + 1);
+            return false;
+        }
+    } else if (entry.type == 6) {
+        slotsFound = entry.talismanSlots <= 3;
+        available = entry.talismanSlots;
+        slotSource = QStringLiteral("该护石");
+        if ((entry.skill1 && !data->contains(QStringLiteral("skills"), entry.skill1))
+                || (entry.skill2 && !data->contains(QStringLiteral("skills"), entry.skill2))) {
+            if (error) *error = QStringLiteral("护石包含不存在的技能 ID。");
+            return false;
+        }
+    }
+    if (!slotsFound) {
+        if (error) *error = QStringLiteral("游戏原生数据中不存在此装备的孔位记录。");
+        return false;
+    }
+
+    int used = 0;
+    for (quint16 decorationId : entry.decorations) {
+        bool costFound = false;
+        used += data->decorationSlotCost(decorationId, &costFound);
+        if (!costFound) {
+            if (error) *error = QStringLiteral(
+                "装饰珠 ID %1 不在游戏原生 decoData 中。"
+            ).arg(decorationId);
+            return false;
+        }
+    }
+    if (used > available) {
+        if (error) *error = QStringLiteral(
+            "装饰珠共占 %1 孔，但%2只有 %3 孔。"
+        ).arg(used).arg(slotSource).arg(available);
+        return false;
+    }
+    return true;
+}
+
+static bool validatePalicoEquipment(GameData *data, const MhguPalicoEquipment &entry, QString *error)
+{
+    if (entry.rawType == 0) return true;
+    const QString table = data->palicoEquipmentTable(entry.rawType);
+    if (table.isEmpty() || !data->contains(table, entry.id)) {
+        if (error) *error = QStringLiteral("猫装备类型与实际 ID 不匹配。");
+        return false;
+    }
+    if (entry.rawType == 22 && entry.appearanceId) {
+        if (error) *error = QStringLiteral("MHGU 原版武器幻化不生效，请将猫武器幻化设为无。");
+        return false;
+    }
+    if ((entry.rawType == 23 || entry.rawType == 24) && entry.appearanceId
+            && !data->contains(table, entry.appearanceId)) {
+        if (error) *error = QStringLiteral("猫防具幻化 ID 不属于相同部位。");
+        return false;
+    }
+    return true;
+}
+
 class HunterEquipmentEditDialog : public QDialog {
 public:
     HunterEquipmentEditDialog(GameData *data, const MhguEquipment &entry, QWidget *parent = nullptr)
@@ -188,7 +278,7 @@ public:
         form->addRow(QStringLiteral("装备类型"), m_type);
         form->addRow(QStringLiteral("实际装备"), m_id);
         form->addRow(QStringLiteral("等级（存档值）"), m_level);
-        form->addRow(QStringLiteral("幻化【测试】"), m_appearance);
+        form->addRow(QStringLiteral("幻化"), m_appearance);
         form->addRow(QStringLiteral("装饰珠 1"), m_decorations[0]);
         form->addRow(QStringLiteral("装饰珠 2"), m_decorations[1]);
         form->addRow(QStringLiteral("装饰珠 3"), m_decorations[2]);
@@ -204,7 +294,7 @@ public:
         localizeButtons(buttons, QStringLiteral("应用修改"));
         connect(buttons, &QDialogButtonBox::accepted, this, [this] {
             QString error;
-            if (!validateWeapon(&error)) {
+            if (!validateHunterEquipment(m_data, value(), &error)) {
                 QMessageBox::warning(this, QStringLiteral("装备组合不合法"), error);
                 return;
             }
@@ -212,10 +302,11 @@ public:
         });
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         connect(m_type, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateType(); });
-        connect(m_id, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateWeaponRules(); });
-        connect(m_level, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateWeaponRules(); });
+        connect(m_id, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateEquipmentRules(); });
+        connect(m_level, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateEquipmentRules(); });
+        connect(m_slots, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateEquipmentRules(); });
         for (QComboBox *decoration : m_decorations)
-            connect(decoration, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateWeaponRules(); });
+            connect(decoration, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateEquipmentRules(); });
         auto *layout = new QVBoxLayout(this);
         layout->addWidget(m_warning);
         layout->addLayout(form);
@@ -240,70 +331,35 @@ public:
         return result;
     }
 private:
-    static bool isWeaponType(int type) { return type >= 7 && type <= 21 && type != 12; }
-
-    bool validateWeapon(QString *error) const
+    void updateEquipmentRules()
     {
         const int type = m_type->currentData().toInt();
-        if (!isWeaponType(type)) return true;
-        const int weaponId = m_id->currentData().toInt();
-        bool slotsFound = false;
-        const int available = m_data->weaponSlots(type, weaponId, m_level->value(), &slotsFound);
-        if (!slotsFound) {
-            if (error) *error = QStringLiteral(
-                "游戏原生 weaponXXLevelData 中不存在此武器与等级组合。存档等级 %1 对应游戏显示等级 %2。"
-            ).arg(m_level->value()).arg(m_level->value() + 1);
-            return false;
-        }
-        int used = 0;
-        for (QComboBox *decoration : m_decorations) {
-            const int decorationId = decoration->currentData().toInt();
-            bool costFound = false;
-            used += m_data->decorationSlotCost(decorationId, &costFound);
-            if (!costFound) {
-                if (error) *error = QStringLiteral(
-                    "装饰珠 ID %1 不在游戏原生 decoData 中，不能写入合法武器。"
-                ).arg(decorationId);
-                return false;
-            }
-        }
-        if (used > available) {
-            if (error) *error = QStringLiteral(
-                "装饰珠共占 %1 孔，但该武器在当前等级只有 %2 孔。"
-            ).arg(used).arg(available);
-            return false;
-        }
-        return true;
-    }
-
-    void updateWeaponRules()
-    {
-        const int type = m_type->currentData().toInt();
-        if (!isWeaponType(type)) {
-            m_slotStatus->setText(QStringLiteral("仅武器使用等级孔位规则。"));
+        if (type == 0) {
+            m_slotStatus->setText(QStringLiteral("空装备格。"));
             return;
         }
+        const MhguEquipment current = value();
+        QString error;
+        const bool valid = validateHunterEquipment(m_data, current, &error);
         bool found = false;
-        const int available = m_data->weaponSlots(
-            type, m_id->currentData().toInt(), m_level->value(), &found
-        );
-        int used = 0;
-        bool decorationsValid = true;
-        for (QComboBox *decoration : m_decorations) {
-            bool costFound = false;
-            used += m_data->decorationSlotCost(decoration->currentData().toInt(), &costFound);
-            decorationsValid = decorationsValid && costFound;
+        int available = 0;
+        if (isArmorType(type))
+            available = m_data->armorSlots(type, current.id, &found);
+        else if (isWeaponType(type))
+            available = m_data->weaponSlots(type, current.id, current.level, &found);
+        else if (type == 6) {
+            available = current.talismanSlots;
+            found = true;
         }
-        if (!found) {
-            m_slotStatus->setText(QStringLiteral(
-                "不合法：原生等级表中没有此组合（存档等级 %1 / 显示等级 %2）。"
-            ).arg(m_level->value()).arg(m_level->value() + 1));
-        } else if (!decorationsValid) {
-            m_slotStatus->setText(QStringLiteral("不合法：包含游戏 decoData 中不存在的 DUMMY 装饰珠。"));
-        } else {
+        int used = 0;
+        for (quint16 decorationId : current.decorations) {
+            bool costFound = false;
+            used += m_data->decorationSlotCost(decorationId, &costFound);
+        }
+        if (valid && found) {
             m_slotStatus->setText(QStringLiteral("原生孔数 %1，装饰珠占用 %2：%3")
                 .arg(available).arg(used).arg(used <= available ? QStringLiteral("合法") : QStringLiteral("超出孔位")));
-        }
+        } else m_slotStatus->setText(QStringLiteral("不合法：%1").arg(error));
     }
 
     void updateType()
@@ -311,17 +367,16 @@ private:
         const int type = m_type->currentData().toInt();
         const QString table = m_data->equipmentTable(type);
         fillCombo(m_id, m_data->entries(table), type == m_original.type ? m_original.id : 0);
-        const bool testAppearance = (type >= 1 && type <= 5) || isWeaponType(type);
         fillCombo(m_appearance, m_data->entries(table), type == m_original.type ? m_original.appearanceId : 0);
-        m_appearance->setEnabled(testAppearance);
+        m_appearance->setEnabled(isArmorType(type));
         m_talisman->setVisible(type == 6);
         if (isWeaponType(type))
-            m_warning->setText(QStringLiteral("⚠ 武器幻化【测试】：游戏可能不会读取此外观。"));
-        else if (type >= 1 && type <= 5)
-            m_warning->setText(QStringLiteral("防具幻化【测试】：请选择相同部位的外观。"));
+            m_warning->setText(QStringLiteral("MHGU 原版武器幻化不生效，已停用武器外观编辑。"));
+        else if (isArmorType(type))
+            m_warning->setText(QStringLiteral("防具幻化已实机验证可用，请选择相同部位的外观。"));
         else m_warning->setText(QStringLiteral("此装备类型不使用幻化。"));
-        m_warning->setToolTip(QStringLiteral("武器幻化尚未经过充分实机验证，游戏可能忽略、还原或错误显示该字段。防具外观应选择相同部位。"));
-        updateWeaponRules();
+        m_warning->setToolTip(QStringLiteral("游戏原版只会实际显示防具幻化；武器外观字段不会改变武器模型。"));
+        updateEquipmentRules();
     }
     GameData *m_data;
     MhguEquipment m_original;
@@ -364,10 +419,17 @@ public:
         auto *form = new QFormLayout;
         form->addRow(QStringLiteral("类型"), m_type);
         form->addRow(QStringLiteral("实际装备"), m_id);
-        form->addRow(QStringLiteral("幻化【测试】"), m_appearance);
+        form->addRow(QStringLiteral("幻化"), m_appearance);
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Ok | QDialogButtonBox::Cancel, this);
         localizeButtons(buttons, QStringLiteral("应用修改"));
-        connect(buttons, &QDialogButtonBox::accepted, this, &QDialog::accept);
+        connect(buttons, &QDialogButtonBox::accepted, this, [this] {
+            QString error;
+            if (!validatePalicoEquipment(m_data, value(), &error)) {
+                QMessageBox::warning(this, QStringLiteral("猫装备组合不合法"), error);
+                return;
+            }
+            accept();
+        });
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         connect(m_type, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateType(); });
         auto *layout = new QVBoxLayout(this);
@@ -382,7 +444,7 @@ public:
         MhguPalicoEquipment result;
         result.rawType = quint8(m_type->currentData().toUInt());
         result.id = result.rawType ? quint16(m_id->currentData().toUInt()) : 0;
-        result.appearanceId = result.rawType ? quint16(m_appearance->currentData().toUInt()) : 0;
+        result.appearanceId = m_appearance->isEnabled() ? quint16(m_appearance->currentData().toUInt()) : 0;
         return result;
     }
 private:
@@ -393,13 +455,13 @@ private:
         fillCombo(m_id, m_data->entries(table), type == m_original.rawType ? m_original.id : 0);
         fillCombo(m_appearance, m_data->entries(table), type == m_original.rawType ? m_original.appearanceId : 0);
         m_id->setEnabled(type != 0);
-        m_appearance->setEnabled(type != 0);
+        m_appearance->setEnabled(type == 23 || type == 24);
         if (type == 22)
-            m_warning->setText(QStringLiteral("⚠ 猫武器幻化【测试】：游戏可能不会读取此外观。"));
+            m_warning->setText(QStringLiteral("原版武器幻化不生效，已停用猫武器外观编辑。"));
         else if (type == 23 || type == 24)
-            m_warning->setText(QStringLiteral("猫防具幻化【测试】：请选择相同部位的外观。"));
+            m_warning->setText(QStringLiteral("猫防具幻化可用，请选择相同部位的外观。"));
         else m_warning->setText(QStringLiteral("空装备格。"));
-        m_warning->setToolTip(QStringLiteral("猫武器幻化尚未经过充分实机验证，游戏可能忽略、还原或错误显示该字段。"));
+        m_warning->setToolTip(QStringLiteral("武器外观字段不会改变游戏中的武器模型。"));
     }
     GameData *m_data;
     MhguPalicoEquipment m_original;
@@ -920,7 +982,7 @@ EquipmentBoxDialog::EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *
     auto *hunter = new QWidget(tabs);
     m_hunterTable = createTable(hunter);
     m_hunterTable->setColumnCount(7);
-    m_hunterTable->setHorizontalHeaderLabels({QStringLiteral("格"), QStringLiteral("类型"), QStringLiteral("装备"), QStringLiteral("等级"), QStringLiteral("幻化【测试】"), QStringLiteral("装饰珠"), QStringLiteral("ID")});
+    m_hunterTable->setHorizontalHeaderLabels({QStringLiteral("格"), QStringLiteral("类型"), QStringLiteral("装备"), QStringLiteral("等级"), QStringLiteral("幻化"), QStringLiteral("装饰珠"), QStringLiteral("ID")});
     m_hunterTable->horizontalHeader()->setSectionResizeMode(2, QHeaderView::Stretch);
     m_hunterTable->horizontalHeader()->setSectionResizeMode(4, QHeaderView::Stretch);
     m_hunterSearch = new QLineEdit(hunter);
@@ -940,7 +1002,7 @@ EquipmentBoxDialog::EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *
     auto *palico = new QWidget(tabs);
     m_palicoTable = createTable(palico);
     m_palicoTable->setColumnCount(5);
-    m_palicoTable->setHorizontalHeaderLabels({QStringLiteral("格"), QStringLiteral("类型"), QStringLiteral("装备"), QStringLiteral("幻化【测试】"), QStringLiteral("ID")});
+    m_palicoTable->setHorizontalHeaderLabels({QStringLiteral("格"), QStringLiteral("类型"), QStringLiteral("装备"), QStringLiteral("幻化"), QStringLiteral("ID")});
     m_palicoTable->horizontalHeader()->setSectionResizeMode(2, QHeaderView::Stretch);
     m_palicoTable->horizontalHeader()->setSectionResizeMode(3, QHeaderView::Stretch);
     m_palicoSearch = new QLineEdit(palico);
@@ -958,12 +1020,12 @@ EquipmentBoxDialog::EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *
     palicoLayout->addLayout(palicoFilters); palicoLayout->addWidget(m_palicoTable);
     tabs->addTab(palico, QStringLiteral("猫装备"));
 
-    auto *warning = new QLabel(QStringLiteral("幻化【测试】 · 武器外观可能被游戏忽略或显示异常"), this);
+    auto *warning = new QLabel(QStringLiteral("防具幻化已验证可用 · MHGU 原版武器幻化不生效"), this);
     warning->setObjectName(QStringLiteral("warningLabel"));
     warning->setWordWrap(false);
     warning->setSizePolicy(QSizePolicy::Preferred, QSizePolicy::Fixed);
     warning->setMaximumHeight(34);
-    warning->setToolTip(QStringLiteral("所有幻化功能均为测试功能。武器幻化尤其可能被游戏忽略、还原或显示异常。"));
+    warning->setToolTip(QStringLiteral("防具仅允许同部位幻化；武器外观编辑已停用。"));
     auto *exportButton = new QPushButton(QStringLiteral("导出装备箱表单"), this);
     auto *importButton = new QPushButton(QStringLiteral("导入装备箱表单"), this);
     connect(exportButton, &QPushButton::clicked, this, &EquipmentBoxDialog::exportForm);
@@ -994,31 +1056,18 @@ bool EquipmentBoxDialog::commitToModel(QString *error)
     if (!m_save || m_save->selectedSlot() < 0) return false;
     for (int index = 0; index < MhguSave::EquipmentCount; ++index) {
         const MhguEquipment entry = m_save->equipment(index);
-        const bool weapon = entry.type >= 7 && entry.type <= 21 && entry.type != 12;
-        if (!weapon) continue;
-        bool slotsFound = false;
-        const int available = m_data->weaponSlots(entry.type, entry.id, entry.level, &slotsFound);
-        if (!slotsFound) {
-            if (error) *error = QStringLiteral(
-                "装备箱第 %1 格：原生等级表中不存在类型 %2、武器 ID %3、存档等级 %4。"
-            ).arg(index + 1).arg(entry.type).arg(entry.id).arg(entry.level);
+        QString entryError;
+        if (!validateHunterEquipment(m_data, entry, &entryError)) {
+            if (error) *error = QStringLiteral("装备箱第 %1 格：%2").arg(index + 1).arg(entryError);
             return false;
         }
-        int used = 0;
-        for (quint16 decorationId : entry.decorations) {
-            bool costFound = false;
-            used += m_data->decorationSlotCost(decorationId, &costFound);
-            if (!costFound) {
-                if (error) *error = QStringLiteral(
-                    "装备箱第 %1 格：装饰珠 ID %2 不在游戏原生 decoData 中。"
-                ).arg(index + 1).arg(decorationId);
-                return false;
-            }
-        }
-        if (used > available) {
-            if (error) *error = QStringLiteral(
-                "装备箱第 %1 格：装饰珠占用 %2 孔，但当前武器等级只有 %3 孔。"
-            ).arg(index + 1).arg(used).arg(available);
+    }
+    for (int index = 0; index < MhguSave::PalicoEquipmentCount; ++index) {
+        const MhguPalicoEquipment entry = m_save->palicoEquipment(index);
+        if (entry.rawType == 0) continue;
+        QString entryError;
+        if (!validatePalicoEquipment(m_data, entry, &entryError)) {
+            if (error) *error = QStringLiteral("猫装备箱第 %1 格：%2").arg(index + 1).arg(entryError);
             return false;
         }
     }
@@ -1043,7 +1092,10 @@ void EquipmentBoxDialog::populateHunter()
         m_hunterTable->setItem(row, 1, new QTableWidgetItem(m_data->name(QStringLiteral("equipment_types"), entry.type)));
         m_hunterTable->setItem(row, 2, new QTableWidgetItem(name));
         m_hunterTable->setItem(row, 3, new QTableWidgetItem(QString::number(entry.level)));
-        m_hunterTable->setItem(row, 4, new QTableWidgetItem(entry.appearanceId ? m_data->name(table, entry.appearanceId) : QStringLiteral("无")));
+        const QString appearance = isWeaponType(entry.type) && entry.appearanceId
+            ? QStringLiteral("不支持（ID %1）").arg(entry.appearanceId)
+            : entry.appearanceId ? m_data->name(table, entry.appearanceId) : QStringLiteral("无");
+        m_hunterTable->setItem(row, 4, new QTableWidgetItem(appearance));
         QStringList decorations; for (quint16 id : entry.decorations) if (id) decorations << m_data->name(QStringLiteral("decorations"), id);
         m_hunterTable->setItem(row, 5, new QTableWidgetItem(decorations.join(QStringLiteral(" / "))));
         m_hunterTable->setItem(row, 6, new QTableWidgetItem(QString::number(entry.id)));
@@ -1068,7 +1120,10 @@ void EquipmentBoxDialog::populatePalico()
         const QString type = entry.rawType == 22 ? QStringLiteral("猫武器") : entry.rawType == 23 ? QStringLiteral("猫头部") : entry.rawType == 24 ? QStringLiteral("猫身体") : QStringLiteral("空");
         m_palicoTable->setItem(row, 1, new QTableWidgetItem(type));
         m_palicoTable->setItem(row, 2, new QTableWidgetItem(name));
-        m_palicoTable->setItem(row, 3, new QTableWidgetItem(entry.appearanceId ? m_data->name(table, entry.appearanceId) : QStringLiteral("无")));
+        const QString appearance = entry.rawType == 22 && entry.appearanceId
+            ? QStringLiteral("不支持（ID %1）").arg(entry.appearanceId)
+            : entry.appearanceId ? m_data->name(table, entry.appearanceId) : QStringLiteral("无");
+        m_palicoTable->setItem(row, 3, new QTableWidgetItem(appearance));
         m_palicoTable->setItem(row, 4, new QTableWidgetItem(QString::number(entry.id)));
     }
 }
@@ -1195,6 +1250,16 @@ void EquipmentBoxDialog::importForm()
             entry.hunter.level = quint8(values[4]); entry.hunter.decorations = {{quint16(values[5]), quint16(values[6]), quint16(values[7])}};
             entry.hunter.skill1 = quint8(values[8]); entry.hunter.skill1Points = qint8(values[9]);
             entry.hunter.skill2 = quint8(values[10]); entry.hunter.skill2Points = qint8(values[11]); entry.hunter.talismanSlots = quint8(values[12]);
+        }
+        QString validationError;
+        const bool entryValid = palico
+            ? validatePalicoEquipment(m_data, entry.cat, &validationError)
+            : validateHunterEquipment(m_data, entry.hunter, &validationError);
+        if (!entryValid) {
+            QMessageBox::warning(this, windowTitle(), QStringLiteral(
+                "第 %1 行装备组合不合法：%2\n\n未修改存档。"
+            ).arg(lineNumber + 1).arg(validationError));
+            return;
         }
         parsed.push_back(entry);
     }

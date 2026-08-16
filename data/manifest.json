@@ -3,27 +3,27 @@
     {
       "path": "cn/armor_arms.csv",
       "rows": 1158,
-      "sha256": "b55581bd13874db5c38ecb04f9b89561f97007e4094c3f1ca6a5ceb611a72d44"
+      "sha256": "ab4d85572ecd5a7796d28df0912851005bb2965aeaecaaa353cf651d7c589ea1"
     },
     {
       "path": "cn/armor_chest.csv",
       "rows": 1189,
-      "sha256": "6e12121c1d229b2d51ae6612267661e57e372b91367f61be5c34e4e6ac385f59"
+      "sha256": "0030ad32750a2257fb5d147177d5b65ca253734f9735e76d9066cbaad5faefb4"
     },
     {
       "path": "cn/armor_head.csv",
       "rows": 1204,
-      "sha256": "adbf8e512a436b539c2a322238c32cf850fcb88435f4958a9a615b0a6efb6c0e"
+      "sha256": "ce9995c128289bfd53715a482897dd13c9c3f87dafc577f68e5d68ee795b2193"
     },
     {
       "path": "cn/armor_legs.csv",
       "rows": 1177,
-      "sha256": "b48418265588d8d9aed11fb44027bbc191f7be8c8b268c9fb1bfbc75864cdbf0"
+      "sha256": "662e71cf2914286db2443e4b9eb6281d521cf594da4bd2545a1c886b7d41ad4e"
     },
     {
       "path": "cn/armor_waist.csv",
       "rows": 1108,
-      "sha256": "49c9493f95368ab68abe74071a9c4c9c2d7990e477e65cef7a7c8bd9fed95e36"
+      "sha256": "1faf5f74550cc84c065cafc1afb429431b77120ab8bfad128b3ce999c26e207d"
     },
     {
       "path": "cn/decorations.csv",
@@ -183,27 +183,27 @@
     {
       "path": "en/armor_arms.csv",
       "rows": 1158,
-      "sha256": "ef68a3b36fbbc6d13b82684f80c1e8a8c53593b8968d8c86ac3596fc4f00928c"
+      "sha256": "92f477e834a25df8e8f40dadade375d2404c2545ea5b141be78dd622a8a00a7c"
     },
     {
       "path": "en/armor_chest.csv",
       "rows": 1189,
-      "sha256": "1ba7e449d8866a3e9f2ff38b85f1d96de9d0c100a21da197c6e861b825dbf6e0"
+      "sha256": "e9dd8cece95cc865ec509802f7a48f4c5c25a3e7fd4d8dcdc5788264da5a323f"
     },
     {
       "path": "en/armor_head.csv",
       "rows": 1204,
-      "sha256": "015edfd57cc72159c03062c50889434a1993160581836e0eb0c9a0b42ee644fc"
+      "sha256": "b22ae0073f2efd2fe4d64f6b1ebec3b59f019f7a3d491379edf70c39bbbeeb02"
     },
     {
       "path": "en/armor_legs.csv",
       "rows": 1177,
-      "sha256": "e79da658e5df8e0827bf06ef1f901ed8b1cb4a0824c09067458cf72e66535373"
+      "sha256": "88d166e5f970bfb51ddf47869bc74d4fc3652b30e889968ff767ba9b418467a8"
     },
     {
       "path": "en/armor_waist.csv",
       "rows": 1108,
-      "sha256": "f4789c4c2f1963e6af935ef4142066a02c400b172774a0e69766ef1e92868a1a"
+      "sha256": "0a097bc7eaacb1a6be575af8215f0d1f21eeec89047b398261e3f0f97f53c602"
     },
     {
       "path": "en/decorations.csv",
@@ -363,10 +363,11 @@
   ],
   "format": "mhxx-save-editor-data-v1",
   "game_resource": {
-    "export_sha256": "a4bc9d0a92365a2442fdd8dc9b6242d6b52eb686ddf0418ee8fa5134957dbccb",
-    "format": "mhxx-game-resource-export-v2",
+    "export_sha256": "e845be55b2912df67f11435b1128cbe749482ca9d5f38cb61d0d742623b50e7c",
+    "format": "mhxx-game-resource-export-v3",
     "language": "jp",
     "rules": {
+      "armor_slots": 6435,
       "decoration_slot_costs": 251,
       "weapon_level_slots": 10925
     },
@@ -653,7 +654,7 @@
       "weapon_sword_and_shield": 129
     }
   },
-  "generator_version": "2.1.0",
+  "generator_version": "2.2.0",
   "sources": {
     "dex_dump_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
     "mhxx_dex_exe_sha256": "5e0508b80b02565c5c7217861c315911878896567b07659631c34b7f7dae46c7",

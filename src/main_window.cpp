@@ -316,7 +316,7 @@ void MainWindow::setCurrentPage(QWidget *page, QPushButton *button, const QStrin
 }
 void MainWindow::showCharacter() { setCurrentPage(m_characterPage, m_characterButton, QStringLiteral("角色")); }
 void MainWindow::showItems() { setCurrentPage(m_itemsPage, m_itemsButton, QStringLiteral("道具箱")); }
-void MainWindow::showEquipment() { setCurrentPage(m_equipmentPage, m_equipmentButton, QStringLiteral("装备箱 · 幻化【测试】")); }
+void MainWindow::showEquipment() { setCurrentPage(m_equipmentPage, m_equipmentButton, QStringLiteral("装备箱")); }
 void MainWindow::showPalicos() { setCurrentPage(m_palicosPage, m_palicosButton, QStringLiteral("猫猫")); }
 
 void MainWindow::refresh()

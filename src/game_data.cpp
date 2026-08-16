@@ -146,6 +146,8 @@ bool GameData::loadTable(const QString &path, const QString &table)
         entry.generationTier = value(QStringLiteral("generation_tier")).toInt();
         if (columns.contains(QStringLiteral("slot_cost")))
             entry.slotCost = value(QStringLiteral("slot_cost")).toInt();
+        if (columns.contains(QStringLiteral("slots")))
+            entry.nativeSlots = value(QStringLiteral("slots")).toInt();
         rows.insert(entry.id, entry);
     }
     m_tables.insert(table, rows);
@@ -201,6 +203,20 @@ int GameData::weaponSlots(int type, int weaponId, int saveLevel, bool *found) co
     const auto it = m_weaponLevelSlots.constFind(key);
     if (found) *found = it != m_weaponLevelSlots.constEnd();
     return it == m_weaponLevelSlots.constEnd() ? 0 : it.value();
+}
+
+int GameData::armorSlots(int type, int armorId, bool *found) const
+{
+    const QString tableName = equipmentTable(type);
+    const auto table = m_tables.constFind(tableName);
+    if (type < 1 || type > 5 || table == m_tables.constEnd()) {
+        if (found) *found = false;
+        return 0;
+    }
+    const auto it = table.value().constFind(armorId);
+    const bool valid = it != table.value().constEnd() && it.value().nativeSlots >= 0;
+    if (found) *found = valid;
+    return valid ? it.value().nativeSlots : 0;
 }
 
 int GameData::decorationSlotCost(int itemId, bool *found) const
