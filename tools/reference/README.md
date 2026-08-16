@@ -13,3 +13,10 @@ crosswalk records its exact input hashes so it can be audited and regenerated.
 
 Regeneration is a research/maintenance operation; ordinary data builds consume
 the committed crosswalk directly.
+
+`talisman_skill_limits.json` is the explicit save-skill-ID crosswalk for the
+MHGU charm tables attributed to Kiranico. It records all four charm rarity
+tables, distinguishes the first and second skill positions, and is
+cross-checked against both reference editors without copying their program
+code. `tools/build_data.py` expands it deterministically for the ten talisman
+grades and records its SHA-256 in the data manifest.

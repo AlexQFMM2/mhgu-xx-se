@@ -101,6 +101,11 @@
       "sha256": "930a8fbd6902ec77c65fd875b8108061a7667bf71c2b9525974e7c9a1212ea34"
     },
     {
+      "path": "cn/talisman_skill_limits.csv",
+      "rows": 2060,
+      "sha256": "58c332f00793a3efba8b27169edbafa81b60979fccc8c3a371cc009277c507ba"
+    },
+    {
       "path": "cn/talismans.csv",
       "rows": 11,
       "sha256": "aadac342d5ea2ab315c05562bcb6fa31e499c2b8e8b9e2cd48105eed20a98358"
@@ -279,6 +284,11 @@
       "path": "en/skills.csv",
       "rows": 206,
       "sha256": "2eb1e93cad1418217c1c20cc92dac2345702475490db2aa63df4ae06de895d7a"
+    },
+    {
+      "path": "en/talisman_skill_limits.csv",
+      "rows": 2060,
+      "sha256": "58c332f00793a3efba8b27169edbafa81b60979fccc8c3a371cc009277c507ba"
     },
     {
       "path": "en/talismans.csv",
@@ -654,11 +664,12 @@
       "weapon_sword_and_shield": 129
     }
   },
-  "generator_version": "2.2.0",
+  "generator_version": "2.3.0",
   "sources": {
     "dex_dump_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
     "mhxx_dex_exe_sha256": "5e0508b80b02565c5c7217861c315911878896567b07659631c34b7f7dae46c7",
     "palico_cn_translation_sha256": "e83abe3813020389a0591dde40bb4a853d77a962b9346c58066532fa0e9820b9",
-    "save_data_crosswalk_sha256": "02ded1a771ec07234fb06b91d153b1013275d9a33968130d5f775b3fd9a10705"
+    "save_data_crosswalk_sha256": "02ded1a771ec07234fb06b91d153b1013275d9a33968130d5f775b3fd9a10705",
+    "talisman_skill_limits_sha256": "4d3e85695eeb39342366040d1960320a9fca8215b8870b445f5e03286aa1445c"
   }
 }

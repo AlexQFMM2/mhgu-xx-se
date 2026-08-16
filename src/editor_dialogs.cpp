@@ -183,6 +183,39 @@ static bool validateHunterEquipment(GameData *data, const MhguEquipment &entry, 
             if (error) *error = QStringLiteral("护石包含不存在的技能 ID。");
             return false;
         }
+        const auto validateSkill = [&](int position, int skillId, int points) {
+            if (skillId == 0) {
+                if (points == 0) return true;
+                if (error) *error = QStringLiteral("护石技能 %1 为“无”时，技能点必须为 0。")
+                    .arg(position);
+                return false;
+            }
+            int minimum = 0;
+            int maximum = 0;
+            if (!data->talismanSkillRange(entry.id, skillId, position, &minimum, &maximum)) {
+                if (error) *error = QStringLiteral("没有护石 ID %1、技能 ID %2 的合法范围记录。")
+                    .arg(entry.id).arg(skillId);
+                return false;
+            }
+            const QString skillName = data->name(QStringLiteral("skills"), skillId);
+            if (minimum == 0 && maximum == 0) {
+                if (error) *error = QStringLiteral("%1不能作为%2的第 %3 技能。")
+                    .arg(skillName, data->name(QStringLiteral("talismans"), entry.id))
+                    .arg(position);
+                return false;
+            }
+            if (points < minimum || points > maximum) {
+                if (error) *error = QStringLiteral(
+                    "%1作为%2的第 %3 技能时，合法点数为 %4～%5，当前为 %6。"
+                ).arg(skillName, data->name(QStringLiteral("talismans"), entry.id))
+                 .arg(position).arg(minimum).arg(maximum).arg(points);
+                return false;
+            }
+            return true;
+        };
+        if (!validateSkill(1, entry.skill1, entry.skill1Points)
+                || !validateSkill(2, entry.skill2, entry.skill2Points))
+            return false;
     }
     if (!slotsFound) {
         if (error) *error = QStringLiteral("游戏原生数据中不存在此装备的孔位记录。");
@@ -282,7 +315,7 @@ public:
         form->addRow(QStringLiteral("装饰珠 1"), m_decorations[0]);
         form->addRow(QStringLiteral("装饰珠 2"), m_decorations[1]);
         form->addRow(QStringLiteral("装饰珠 3"), m_decorations[2]);
-        form->addRow(QStringLiteral("孔位校验"), m_slotStatus);
+        form->addRow(QStringLiteral("合法性校验"), m_slotStatus);
         m_talisman = new QGroupBox(QStringLiteral("护石属性"), this);
         auto *talismanForm = new QFormLayout(m_talisman);
         talismanForm->addRow(QStringLiteral("技能 1"), m_skill1);
@@ -305,6 +338,10 @@ public:
         connect(m_id, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateEquipmentRules(); });
         connect(m_level, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateEquipmentRules(); });
         connect(m_slots, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateEquipmentRules(); });
+        connect(m_skill1, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateEquipmentRules(); });
+        connect(m_skill2, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateEquipmentRules(); });
+        connect(m_skill1Points, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateEquipmentRules(); });
+        connect(m_skill2Points, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateEquipmentRules(); });
         for (QComboBox *decoration : m_decorations)
             connect(decoration, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateEquipmentRules(); });
         auto *layout = new QVBoxLayout(this);
@@ -359,8 +396,10 @@ private:
         }
         if (valid && found) {
             m_slotStatus->setStyleSheet(QString());
-            m_slotStatus->setText(QStringLiteral("原生孔数 %1，装饰珠占用 %2：%3")
-                .arg(available).arg(used).arg(used <= available ? QStringLiteral("合法") : QStringLiteral("超出孔位")));
+            m_slotStatus->setText(current.type == 6
+                ? QStringLiteral("护石技能点与孔位：合法（%1 孔，装饰珠占用 %2）").arg(available).arg(used)
+                : QStringLiteral("原生孔数 %1，装饰珠占用 %2：%3")
+                    .arg(available).arg(used).arg(used <= available ? QStringLiteral("合法") : QStringLiteral("超出孔位")));
         } else {
             m_slotStatus->setStyleSheet(QStringLiteral("color: #c62828; font-weight: 600;"));
             m_slotStatus->setText(QStringLiteral("不合法：%1").arg(error));

@@ -65,6 +65,7 @@ EXPECTED_WEAPON_TYPES = {
 }
 EXPECTED_WEAPON_LEVEL_ROWS = 10925
 EXPECTED_ARMOR_SLOT_ROWS = 1287 * 5
+EXPECTED_TALISMAN_LIMIT_ROWS = 10 * 206
 
 
 def sha256(path: Path) -> str:
@@ -108,10 +109,20 @@ def main() -> int:
 
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     require(manifest.get("format") == "mhxx-save-editor-data-v1", "unsupported manifest format")
-    require(manifest.get("generator_version") == "2.2.0", "unsupported generator version")
+    require(manifest.get("generator_version") == "2.3.0", "unsupported generator version")
     require(
         bool(manifest.get("sources", {}).get("palico_cn_translation_sha256")),
         "manifest is missing the Palico Chinese translation hash",
+    )
+    require(
+        bool(manifest.get("sources", {}).get("talisman_skill_limits_sha256")),
+        "manifest is missing the talisman skill-limit hash",
+    )
+    talisman_reference = Path(__file__).resolve().parent / "reference" / "talisman_skill_limits.json"
+    require(
+        talisman_reference.is_file()
+        and manifest["sources"]["talisman_skill_limits_sha256"] == sha256(talisman_reference),
+        "manifest talisman skill-limit hash differs from the pinned reference",
     )
     game_resource = manifest.get("game_resource", {})
     require(game_resource.get("format") == "mhxx-game-resource-export-v3", "missing game-resource export metadata")
@@ -135,7 +146,7 @@ def main() -> int:
         for path in root.rglob("*.csv")
     }
     require(set(manifest_files) == disk_files, "manifest CSV set does not match data directory")
-    require(len(disk_files) == 72, f"expected 72 CSV files, found {len(disk_files)}")
+    require(len(disk_files) == 74, f"expected 74 CSV files, found {len(disk_files)}")
 
     tables: dict[str, list[dict[str, str]]] = {}
     indexes: dict[str, dict[int, dict[str, str]]] = {}
@@ -230,6 +241,34 @@ def main() -> int:
         for identifier in range(2889, 2900):
             require(int(decorations[identifier]["slot_cost"]) == -1,
                     f"{language}: extra DUMMY decoration {identifier} must be unsupported")
+
+        talisman_limits = tables[f"{language}/talisman_skill_limits.csv"]
+        require(len(talisman_limits) == EXPECTED_TALISMAN_LIMIT_ROWS,
+                f"{language}: talisman skill-limit row count differs")
+        limits_by_key: dict[tuple[int, int], tuple[int, int, int, int]] = {}
+        for row in talisman_limits:
+            talisman_id, skill_id = int(row["talisman_id"]), int(row["skill_id"])
+            values = tuple(int(row[key]) for key in (
+                "skill1_min", "skill1_max", "skill2_min", "skill2_max"
+            ))
+            require(1 <= talisman_id <= 10, f"{language}: invalid talisman ID {talisman_id}")
+            require(skill_id in indexes[f"{language}/skills.csv"],
+                    f"{language}: talisman limit references unknown skill {skill_id}")
+            require(values[0] <= values[1] and values[2] <= values[3],
+                    f"{language}: reversed talisman skill range for {talisman_id}/{skill_id}")
+            require(row.get("source", "").strip() != "",
+                    f"{language}: missing talisman limit source for {talisman_id}/{skill_id}")
+            key = (talisman_id, skill_id)
+            require(key not in limits_by_key, f"{language}: duplicate talisman limit {key}")
+            limits_by_key[key] = values
+        require(set(limits_by_key) == {
+            (talisman_id, skill_id)
+            for talisman_id in range(1, 11) for skill_id in range(206)
+        }, f"{language}: talisman skill-limit coverage differs")
+        require(limits_by_key[(10, 71)] == (0, 0, -7, 10),
+                f"{language}: Creator Talisman Expert ranges differ")
+        require(limits_by_key[(10, 73)] == (1, 5, -1, 3),
+                f"{language}: Creator Talisman Chain Crit ranges differ")
 
         for armor_name in ("armor_head", "armor_chest", "armor_arms", "armor_waist", "armor_legs"):
             for identifier, row in indexes[f"{language}/{armor_name}.csv"].items():

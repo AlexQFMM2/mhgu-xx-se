@@ -19,6 +19,12 @@ files by hand.
   `weaponXXLevelData` tables. It records both the zero-based save level and the
   one-based displayed level. `decorations.csv` records native jewel slot cost;
   `-1` marks extra DUMMY IDs absent from `decoData`.
+- `talisman_skill_limits.csv` records the legal first/second skill-point ranges
+  for all ten talisman grades. The ranges are keyed by explicit save skill ID;
+  unavailable skill/position combinations remain `0..0` and are rejected. The
+  pinned facts are attributed to the
+  [Kiranico MHGU charm table](https://mhgu.kiranico.com/charms) and
+  cross-checked against two editors.
 - MHGU has no MH4G-style relic equipment, so no relic-only fields are emitted.
 - Palico weapons/head/body armor come from Dex. Support-move names are reviewed
   against the linked Bahamut MHXX article and Axibug wiki; passive-skill names

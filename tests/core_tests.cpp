@@ -107,6 +107,19 @@ int main(int argc, char **argv)
             "two-slot decoration cost comes from native decoData");
     data.decorationSlotCost(2889, &decorationFound);
     require(!decorationFound, "extra DUMMY decoration is not a native legal jewel");
+    int skillMinimum = 0;
+    int skillMaximum = 0;
+    require(data.talismanSkillRange(10, 71, 1, &skillMinimum, &skillMaximum)
+            && skillMinimum == 0 && skillMaximum == 0,
+            "Creator Talisman cannot generate Expert in skill position one");
+    require(data.talismanSkillRange(10, 71, 2, &skillMinimum, &skillMaximum)
+            && skillMinimum == -7 && skillMaximum == 10,
+            "Creator Talisman Expert position-two range");
+    require(data.talismanSkillRange(10, 73, 1, &skillMinimum, &skillMaximum)
+            && skillMinimum == 1 && skillMaximum == 5,
+            "Creator Talisman Chain Crit position-one range");
+    require(!data.talismanSkillRange(10, 999, 1, &skillMinimum, &skillMaximum),
+            "unknown talisman skill has no legal range");
     require(data.name(QStringLiteral("armor_chest"), 1281) == QStringLiteral("飞龙装束･天"), "armor uses real chest save ID");
     require(data.name(QStringLiteral("armor_arms"), 1080) == QStringLiteral("祖龙护肘"), "armor save ID is mapped per part");
     require(data.entries(QStringLiteral("palico_weapons")).size() == 509, "Palico weapon count");

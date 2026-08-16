@@ -28,6 +28,13 @@ struct PalicoForteGrant {
     int entryId = 0;
 };
 
+struct TalismanSkillLimit {
+    int skill1Min = 0;
+    int skill1Max = 0;
+    int skill2Min = 0;
+    int skill2Max = 0;
+};
+
 class GameData {
 public:
     bool load(const QString &language = QStringLiteral("cn"));
@@ -44,6 +51,8 @@ public:
     int weaponSlots(int type, int weaponId, int saveLevel, bool *found = nullptr) const;
     int armorSlots(int type, int armorId, bool *found = nullptr) const;
     int decorationSlotCost(int itemId, bool *found = nullptr) const;
+    bool talismanSkillRange(int talismanId, int skillId, int position,
+                            int *minimum, int *maximum) const;
     QVector<PalicoPattern> patterns(const QString &kind) const;
     QVector<PalicoForteGrant> forteGrants(int forteId, const QString &kind) const;
 
@@ -54,6 +63,7 @@ private:
 
     QMap<QString, QMap<int, GameDataEntry>> m_tables;
     QMap<quint32, int> m_weaponLevelSlots;
+    QMap<quint32, TalismanSkillLimit> m_talismanSkillLimits;
     QVector<PalicoPattern> m_patterns;
     QVector<PalicoForteGrant> m_forteGrants;
     QString m_rootPath;

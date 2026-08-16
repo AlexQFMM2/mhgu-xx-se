@@ -52,6 +52,7 @@ bool GameData::load(const QString &language)
 {
     m_tables.clear();
     m_weaponLevelSlots.clear();
+    m_talismanSkillLimits.clear();
     m_patterns.clear();
     m_forteGrants.clear();
     m_language = language == QStringLiteral("en") ? QStringLiteral("en") : QStringLiteral("cn");
@@ -123,6 +124,22 @@ bool GameData::loadTable(const QString &path, const QString &table)
             const int slotCount = fields.value(columns.value(QStringLiteral("slots"), -1)).toInt();
             const quint32 key = (quint32(type) << 24) | (quint32(weaponId) << 8) | quint32(saveLevel);
             m_weaponLevelSlots.insert(key, slotCount);
+        }
+        return true;
+    }
+    if (table == QStringLiteral("talisman_skill_limits")) {
+        while (!stream.atEnd()) {
+            const QStringList fields = parseCsvLine(stream.readLine());
+            if (fields.size() < header.size()) continue;
+            const int talismanId = fields.value(columns.value(QStringLiteral("talisman_id"), -1)).toInt();
+            const int skillId = fields.value(columns.value(QStringLiteral("skill_id"), -1)).toInt();
+            TalismanSkillLimit limit;
+            limit.skill1Min = fields.value(columns.value(QStringLiteral("skill1_min"), -1)).toInt();
+            limit.skill1Max = fields.value(columns.value(QStringLiteral("skill1_max"), -1)).toInt();
+            limit.skill2Min = fields.value(columns.value(QStringLiteral("skill2_min"), -1)).toInt();
+            limit.skill2Max = fields.value(columns.value(QStringLiteral("skill2_max"), -1)).toInt();
+            const quint32 key = (quint32(talismanId) << 16) | quint32(skillId);
+            m_talismanSkillLimits.insert(key, limit);
         }
         return true;
     }
@@ -235,6 +252,18 @@ int GameData::decorationSlotCost(int itemId, bool *found) const
     const bool valid = it != rows.constEnd() && it.value().slotCost >= 0;
     if (found) *found = valid;
     return valid ? it.value().slotCost : 0;
+}
+
+bool GameData::talismanSkillRange(int talismanId, int skillId, int position,
+                                  int *minimum, int *maximum) const
+{
+    if (position != 1 && position != 2) return false;
+    const quint32 key = (quint32(talismanId) << 16) | quint32(skillId);
+    const auto it = m_talismanSkillLimits.constFind(key);
+    if (it == m_talismanSkillLimits.constEnd()) return false;
+    if (minimum) *minimum = position == 1 ? it.value().skill1Min : it.value().skill2Min;
+    if (maximum) *maximum = position == 1 ? it.value().skill1Max : it.value().skill2Max;
+    return true;
 }
 
 QString GameData::palicoEquipmentTable(int rawType) const
