@@ -335,6 +335,7 @@ private:
     {
         const int type = m_type->currentData().toInt();
         if (type == 0) {
+            m_slotStatus->setStyleSheet(QString());
             m_slotStatus->setText(QStringLiteral("空装备格。"));
             return;
         }
@@ -357,9 +358,13 @@ private:
             used += m_data->decorationSlotCost(decorationId, &costFound);
         }
         if (valid && found) {
+            m_slotStatus->setStyleSheet(QString());
             m_slotStatus->setText(QStringLiteral("原生孔数 %1，装饰珠占用 %2：%3")
                 .arg(available).arg(used).arg(used <= available ? QStringLiteral("合法") : QStringLiteral("超出孔位")));
-        } else m_slotStatus->setText(QStringLiteral("不合法：%1").arg(error));
+        } else {
+            m_slotStatus->setStyleSheet(QStringLiteral("color: #c62828; font-weight: 600;"));
+            m_slotStatus->setText(QStringLiteral("不合法：%1").arg(error));
+        }
     }
 
     void updateType()
