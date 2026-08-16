@@ -301,6 +301,10 @@ int main(int argc, char **argv)
     require(leader020c.actionPattern == 0x02 && leader020c.actionValidLength == 0x0C &&
             leader020c.skillPattern == 0x03 && leader020c.skillValidLength == 0x08,
             "real Charisma 020C/0308 pattern-byte semantics");
+    MhguPalico receivedLeader = leader020c;
+    receivedLeader.received = true;
+    require(MhguSave::decodePalicoStructure(receivedLeader).recognized,
+            "origin flags do not hide a recognizable Palico structure");
     const int primaryByForte[] = {31, 29, 30, 20, 3, 12, 37, 46};
     const int secondaryByForte[] = {0, 6, 7, 5, 5, 6, 26, 47};
     const int innateByForte[][2] = {{45,38}, {3,10}, {16,18}, {41,43}, {5,46}, {24,11}, {44,22}, {77,78}};

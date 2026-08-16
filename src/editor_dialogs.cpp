@@ -789,7 +789,10 @@ public:
         m_moveEntries = data->entries(QStringLiteral("palico_support_moves"));
         m_skillEntries = data->entries(QStringLiteral("palico_skills"));
         const MhguPalicoStructure originalStructure = MhguSave::decodePalicoStructure(m_value);
-        m_ruleActive = originalStructure.recognized && !m_value.received;
+        // Origin/distribution flags are advisory. A structurally recognizable
+        // cat must still be decoded and shown; otherwise applying a valid edit
+        // succeeds in the model but appears empty when the dialog is reopened.
+        m_ruleActive = originalStructure.recognized;
 
         auto *actions = new QWidget(tabs);
         auto *actionsLayout = new QVBoxLayout(actions);
