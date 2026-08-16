@@ -49,7 +49,9 @@ powershell -ExecutionPolicy Bypass -File .\build-windows.ps1 `
 
 - 角色：名字、游玩时间、金钱、HR、HR Points 和各村点数。
 - 道具箱：搜索、非空筛选、单格编辑、添加至首个空位；使用 GU 的 19 bit 编码。
-- 猎人装备：20 种类型、等级、实际 ID、3 个装饰珠、护石技能和孔数。
+- 猎人装备：20 种可编辑类别、等级、实际 ID、3 个装饰珠、护石技能和孔数。武器孔数
+  来自游戏原生 `weaponXXLevelData`，珠子占孔来自 `decoData`；不存在的等级组合、
+  DUMMY 珠和占孔超限会阻止保存，避免游戏显示 `---` 或崩溃。
 - 猎人穿戴缓存：只在装备箱来源记录能唯一确认时同步，否则警告并保持缓存不变。
 - 猎人防具、猫防具及实验性猎人/猫武器幻化：选择限制在相同部位或武器种类，全部
   显示 `【测试】`。
@@ -67,15 +69,17 @@ powershell -ExecutionPolicy Bypass -File .\build-windows.ps1 `
 猫装备 ID 由 MHXX 游戏 `RomFS/table` 的 GMD 数组和配套计数表确定；Dex 只补
 中英文名称及属性。
 
-当前装备类型存档映射为：1 头、2 胸、3 腕、4 腰、5 腿、6 护石、7–20 十四种
-武器。GU 不生成 MH4G 的发掘装备数据。
+当前装备类型存档映射为：1 头、2 胸、3 腕、4 腰、5 腿、6 护石；7 大剑、8 片手、
+9 锤、10 长枪、11 重弩、12 保留、13 轻弩、14 太刀、15 斩斧、16 铳枪、17 弓、
+18 双剑、19 狩猎笛、20 操虫棍、21 盾斧。保留类型 12 不会出现在编辑下拉框中。
+GU 不生成 MH4G 的发掘装备数据。
 
 ## 验证
 
 ```bash
 python3 tools/validate_data.py data
 # 本地保留游戏资源导出时可执行逐表 ID 集合复核：
-python3 tools/validate_data.py data --game-names /tmp/mhxx-game-names.json
+python3 tools/validate_data.py data --game-names /tmp/mhxx-game-resources.json
 qmake tests/CoreTests.pro -o tests/build/Makefile
 make -C tests/build -j2
 ./tests/bin/mhgu_core_tests

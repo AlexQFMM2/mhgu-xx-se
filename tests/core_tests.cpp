@@ -83,6 +83,25 @@ int main(int argc, char **argv)
     require(data.load(QStringLiteral("cn")), "load generated Chinese game data");
     require(data.name(QStringLiteral("equipment_types"), 1) == QStringLiteral("头甲"), "equipment type 1 is head");
     require(data.name(QStringLiteral("equipment_types"), 5) == QStringLiteral("腿甲"), "equipment type 5 is legs");
+    require(data.name(QStringLiteral("equipment_types"), 11) == QStringLiteral("重弩"), "save type 11 is HBG");
+    require(data.name(QStringLiteral("equipment_types"), 13) == QStringLiteral("轻弩"), "save type 13 is LBG");
+    require(data.name(QStringLiteral("equipment_types"), 14) == QStringLiteral("太刀"), "save type 14 is Long Sword");
+    require(data.name(QStringLiteral("equipment_types"), 21) == QStringLiteral("盾斧"), "save type 21 is Charge Blade");
+    require(data.equipmentTable(12).isEmpty(), "save type 12 remains reserved");
+    bool weaponSlotsFound = false;
+    require(data.weaponSlots(7, 1, 0, &weaponSlotsFound) == 0 && weaponSlotsFound,
+            "weapon save level zero maps to native displayed level one");
+    require(data.weaponSlots(14, 1, 5, &weaponSlotsFound) == 1 && weaponSlotsFound,
+            "Long Sword native level slot count");
+    data.weaponSlots(7, 1, 11, &weaponSlotsFound);
+    require(!weaponSlotsFound, "weapon level above native maximum is absent");
+    bool decorationFound = false;
+    require(data.decorationSlotCost(2638, &decorationFound) == 1 && decorationFound,
+            "one-slot decoration cost comes from native decoData");
+    require(data.decorationSlotCost(2639, &decorationFound) == 2 && decorationFound,
+            "two-slot decoration cost comes from native decoData");
+    data.decorationSlotCost(2889, &decorationFound);
+    require(!decorationFound, "extra DUMMY decoration is not a native legal jewel");
     require(data.name(QStringLiteral("armor_chest"), 1281) == QStringLiteral("飞龙装束･天"), "armor uses real chest save ID");
     require(data.name(QStringLiteral("armor_arms"), 1080) == QStringLiteral("祖龙护肘"), "armor save ID is mapped per part");
     require(data.entries(QStringLiteral("palico_weapons")).size() == 509, "Palico weapon count");
@@ -161,6 +180,11 @@ int main(int argc, char **argv)
     require(save.setEquipment(0, equipment), "set hunter equipment");
     const MhguEquipment decoded = save.equipment(0);
     require(decoded.type == 1 && decoded.id == 123 && decoded.appearanceId == 456, "round-trip hunter equipment");
+    equipment.type = 12;
+    require(!save.setEquipment(1, equipment), "reject reserved hunter equipment type 12");
+    equipment.type = 21;
+    require(save.setEquipment(1, equipment) && save.equipment(1).type == 21,
+            "round-trip Charge Blade save type 21");
 
     MhguEquipment equippedSource = save.equipment(5);
     equippedSource.appearanceId = 99;
@@ -214,7 +238,7 @@ int main(int argc, char **argv)
         int unknownEquipment = 0;
         for (int i = 0; i < MhguSave::EquipmentCount; ++i) {
             const MhguEquipment entry = privateSample.equipment(i);
-            if (entry.type > 0 && entry.type <= 20) {
+            if (entry.type > 0 && entry.type <= 21 && entry.type != 12) {
                 const QString table = data.equipmentTable(entry.type);
                 if (!data.contains(table, entry.id) || (entry.appearanceId && !data.contains(table, entry.appearanceId)))
                     ++unknownEquipment;

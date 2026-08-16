@@ -182,6 +182,8 @@ public:
         m_warning->setWordWrap(false);
         m_warning->setSizePolicy(QSizePolicy::Preferred, QSizePolicy::Fixed);
         m_warning->setMaximumHeight(46);
+        m_slotStatus = new QLabel(this);
+        m_slotStatus->setWordWrap(true);
         auto *form = new QFormLayout;
         form->addRow(QStringLiteral("装备类型"), m_type);
         form->addRow(QStringLiteral("实际装备"), m_id);
@@ -190,6 +192,7 @@ public:
         form->addRow(QStringLiteral("装饰珠 1"), m_decorations[0]);
         form->addRow(QStringLiteral("装饰珠 2"), m_decorations[1]);
         form->addRow(QStringLiteral("装饰珠 3"), m_decorations[2]);
+        form->addRow(QStringLiteral("孔位校验"), m_slotStatus);
         m_talisman = new QGroupBox(QStringLiteral("护石属性"), this);
         auto *talismanForm = new QFormLayout(m_talisman);
         talismanForm->addRow(QStringLiteral("技能 1"), m_skill1);
@@ -199,9 +202,20 @@ public:
         talismanForm->addRow(QStringLiteral("孔数"), m_slots);
         auto *buttons = new QDialogButtonBox(QDialogButtonBox::Ok | QDialogButtonBox::Cancel, this);
         localizeButtons(buttons, QStringLiteral("应用修改"));
-        connect(buttons, &QDialogButtonBox::accepted, this, &QDialog::accept);
+        connect(buttons, &QDialogButtonBox::accepted, this, [this] {
+            QString error;
+            if (!validateWeapon(&error)) {
+                QMessageBox::warning(this, QStringLiteral("装备组合不合法"), error);
+                return;
+            }
+            accept();
+        });
         connect(buttons, &QDialogButtonBox::rejected, this, &QDialog::reject);
         connect(m_type, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateType(); });
+        connect(m_id, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateWeaponRules(); });
+        connect(m_level, qOverload<int>(&QSpinBox::valueChanged), this, [this] { updateWeaponRules(); });
+        for (QComboBox *decoration : m_decorations)
+            connect(decoration, qOverload<int>(&QComboBox::currentIndexChanged), this, [this] { updateWeaponRules(); });
         auto *layout = new QVBoxLayout(this);
         layout->addWidget(m_warning);
         layout->addLayout(form);
@@ -226,21 +240,88 @@ public:
         return result;
     }
 private:
+    static bool isWeaponType(int type) { return type >= 7 && type <= 21 && type != 12; }
+
+    bool validateWeapon(QString *error) const
+    {
+        const int type = m_type->currentData().toInt();
+        if (!isWeaponType(type)) return true;
+        const int weaponId = m_id->currentData().toInt();
+        bool slotsFound = false;
+        const int available = m_data->weaponSlots(type, weaponId, m_level->value(), &slotsFound);
+        if (!slotsFound) {
+            if (error) *error = QStringLiteral(
+                "游戏原生 weaponXXLevelData 中不存在此武器与等级组合。存档等级 %1 对应游戏显示等级 %2。"
+            ).arg(m_level->value()).arg(m_level->value() + 1);
+            return false;
+        }
+        int used = 0;
+        for (QComboBox *decoration : m_decorations) {
+            const int decorationId = decoration->currentData().toInt();
+            bool costFound = false;
+            used += m_data->decorationSlotCost(decorationId, &costFound);
+            if (!costFound) {
+                if (error) *error = QStringLiteral(
+                    "装饰珠 ID %1 不在游戏原生 decoData 中，不能写入合法武器。"
+                ).arg(decorationId);
+                return false;
+            }
+        }
+        if (used > available) {
+            if (error) *error = QStringLiteral(
+                "装饰珠共占 %1 孔，但该武器在当前等级只有 %2 孔。"
+            ).arg(used).arg(available);
+            return false;
+        }
+        return true;
+    }
+
+    void updateWeaponRules()
+    {
+        const int type = m_type->currentData().toInt();
+        if (!isWeaponType(type)) {
+            m_slotStatus->setText(QStringLiteral("仅武器使用等级孔位规则。"));
+            return;
+        }
+        bool found = false;
+        const int available = m_data->weaponSlots(
+            type, m_id->currentData().toInt(), m_level->value(), &found
+        );
+        int used = 0;
+        bool decorationsValid = true;
+        for (QComboBox *decoration : m_decorations) {
+            bool costFound = false;
+            used += m_data->decorationSlotCost(decoration->currentData().toInt(), &costFound);
+            decorationsValid = decorationsValid && costFound;
+        }
+        if (!found) {
+            m_slotStatus->setText(QStringLiteral(
+                "不合法：原生等级表中没有此组合（存档等级 %1 / 显示等级 %2）。"
+            ).arg(m_level->value()).arg(m_level->value() + 1));
+        } else if (!decorationsValid) {
+            m_slotStatus->setText(QStringLiteral("不合法：包含游戏 decoData 中不存在的 DUMMY 装饰珠。"));
+        } else {
+            m_slotStatus->setText(QStringLiteral("原生孔数 %1，装饰珠占用 %2：%3")
+                .arg(available).arg(used).arg(used <= available ? QStringLiteral("合法") : QStringLiteral("超出孔位")));
+        }
+    }
+
     void updateType()
     {
         const int type = m_type->currentData().toInt();
         const QString table = m_data->equipmentTable(type);
         fillCombo(m_id, m_data->entries(table), type == m_original.type ? m_original.id : 0);
-        const bool testAppearance = (type >= 1 && type <= 5) || (type >= 7 && type <= 20);
+        const bool testAppearance = (type >= 1 && type <= 5) || isWeaponType(type);
         fillCombo(m_appearance, m_data->entries(table), type == m_original.type ? m_original.appearanceId : 0);
         m_appearance->setEnabled(testAppearance);
         m_talisman->setVisible(type == 6);
-        if (type >= 7 && type <= 20)
+        if (isWeaponType(type))
             m_warning->setText(QStringLiteral("⚠ 武器幻化【测试】：游戏可能不会读取此外观。"));
         else if (type >= 1 && type <= 5)
             m_warning->setText(QStringLiteral("防具幻化【测试】：请选择相同部位的外观。"));
         else m_warning->setText(QStringLiteral("此装备类型不使用幻化。"));
         m_warning->setToolTip(QStringLiteral("武器幻化尚未经过充分实机验证，游戏可能忽略、还原或错误显示该字段。防具外观应选择相同部位。"));
+        updateWeaponRules();
     }
     GameData *m_data;
     MhguEquipment m_original;
@@ -256,6 +337,7 @@ private:
     QSpinBox *m_slots;
     QGroupBox *m_talisman;
     QLabel *m_warning;
+    QLabel *m_slotStatus;
 };
 
 class PalicoEquipmentEditDialog : public QDialog {
@@ -907,7 +989,41 @@ EquipmentBoxDialog::EquipmentBoxDialog(MhguSave *save, GameData *data, QWidget *
 }
 
 void EquipmentBoxDialog::loadFromModel() { populateHunter(); populatePalico(); }
-bool EquipmentBoxDialog::commitToModel(QString *) { return m_save && m_save->selectedSlot() >= 0; }
+bool EquipmentBoxDialog::commitToModel(QString *error)
+{
+    if (!m_save || m_save->selectedSlot() < 0) return false;
+    for (int index = 0; index < MhguSave::EquipmentCount; ++index) {
+        const MhguEquipment entry = m_save->equipment(index);
+        const bool weapon = entry.type >= 7 && entry.type <= 21 && entry.type != 12;
+        if (!weapon) continue;
+        bool slotsFound = false;
+        const int available = m_data->weaponSlots(entry.type, entry.id, entry.level, &slotsFound);
+        if (!slotsFound) {
+            if (error) *error = QStringLiteral(
+                "装备箱第 %1 格：原生等级表中不存在类型 %2、武器 ID %3、存档等级 %4。"
+            ).arg(index + 1).arg(entry.type).arg(entry.id).arg(entry.level);
+            return false;
+        }
+        int used = 0;
+        for (quint16 decorationId : entry.decorations) {
+            bool costFound = false;
+            used += m_data->decorationSlotCost(decorationId, &costFound);
+            if (!costFound) {
+                if (error) *error = QStringLiteral(
+                    "装备箱第 %1 格：装饰珠 ID %2 不在游戏原生 decoData 中。"
+                ).arg(index + 1).arg(decorationId);
+                return false;
+            }
+        }
+        if (used > available) {
+            if (error) *error = QStringLiteral(
+                "装备箱第 %1 格：装饰珠占用 %2 孔，但当前武器等级只有 %3 孔。"
+            ).arg(index + 1).arg(used).arg(available);
+            return false;
+        }
+    }
+    return true;
+}
 
 void EquipmentBoxDialog::populateHunter()
 {
@@ -1058,7 +1174,8 @@ void EquipmentBoxDialog::importForm()
         const bool commonOk = values[0] >= 1 && values[0] <= maxSlots && values[2] >= 0 && values[2] <= 0xFFFF
             && values[3] >= 0 && values[3] <= 0xFFFF;
         const bool palicoTypeOk = values[1] == 0 || values[1] == 22 || values[1] == 23 || values[1] == 24;
-        const bool hunterOk = values[1] >= 0 && values[1] <= 20 && values[4] >= 0 && values[4] <= 31
+        const bool hunterTypeOk = (values[1] >= 0 && values[1] <= 11) || (values[1] >= 13 && values[1] <= 21);
+        const bool hunterOk = hunterTypeOk && values[4] >= 0 && values[4] <= 31
             && values[5] >= 0 && values[5] <= 0xFFFF && values[6] >= 0 && values[6] <= 0xFFFF
             && values[7] >= 0 && values[7] <= 0xFFFF && values[8] >= 0 && values[8] <= 0xFF
             && values[9] >= -128 && values[9] <= 127 && values[10] >= 0 && values[10] <= 0xFF

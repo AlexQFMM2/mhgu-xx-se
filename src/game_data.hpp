@@ -12,6 +12,7 @@ struct GameDataEntry {
     int rarity = 0;
     int maxLevel = 0;
     int generationTier = 0;
+    int slotCost = -1;
 };
 
 struct PalicoPattern {
@@ -39,6 +40,8 @@ public:
     bool contains(const QString &table, int id) const;
     QString equipmentTable(int type) const;
     QString palicoEquipmentTable(int rawType) const;
+    int weaponSlots(int type, int weaponId, int saveLevel, bool *found = nullptr) const;
+    int decorationSlotCost(int itemId, bool *found = nullptr) const;
     QVector<PalicoPattern> patterns(const QString &kind) const;
     QVector<PalicoForteGrant> forteGrants(int forteId, const QString &kind) const;
 
@@ -48,6 +51,7 @@ private:
     QString findDataRoot() const;
 
     QMap<QString, QMap<int, GameDataEntry>> m_tables;
+    QMap<quint32, int> m_weaponLevelSlots;
     QVector<PalicoPattern> m_patterns;
     QVector<PalicoForteGrant> m_forteGrants;
     QString m_rootPath;

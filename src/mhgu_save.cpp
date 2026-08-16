@@ -292,7 +292,8 @@ bool MhguSave::setEquipment(int index, const MhguEquipment &value, QString *warn
 {
     const quint32 base = selectedBase();
     const quint64 offset = quint64(base) + EquipmentOffset + quint64(index) * EquipmentSize;
-    if (!base || index < 0 || index >= EquipmentCount || value.type > 20 || value.level > 31 || !rangeOk(offset, EquipmentSize)) return false;
+    const bool validType = value.type <= 11 || (value.type >= 13 && value.type <= 21);
+    if (!base || index < 0 || index >= EquipmentCount || !validType || value.level > 31 || !rangeOk(offset, EquipmentSize)) return false;
 
     const QByteArray oldKey = m_raw.mid(int(offset), 12);
     QVector<quint64> matchingLoadouts;

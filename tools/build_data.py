@@ -14,9 +14,10 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "2.0.0"
-GAME_EXPORT_FORMAT = "mhxx-game-name-export-v1"
+GENERATOR_VERSION = "2.1.0"
+GAME_EXPORT_FORMAT = "mhxx-game-resource-export-v2"
 GAME_SOURCE = "mhxx-romfs-game-array"
+GAME_RULE_SOURCE = "mhxx-romfs-native-table"
 GAME_ONLY_TRANSLATION_SOURCE = "mhxx-reviewed-game-only-translation"
 DEX_SOURCE = "mhxx-dex-1.0"
 DEX_FALLBACK_SOURCE = "mhxx-dex-1.0-en-fallback"
@@ -26,6 +27,7 @@ MARKER = "<!-- generated-by: tools/build_data.py -->"
 
 BASE_COLUMNS = ("id", "name", "english", "source")
 EQUIPMENT_COLUMNS = BASE_COLUMNS + ("rarity",)
+DECORATION_COLUMNS = BASE_COLUMNS + ("slot_cost",)
 
 ARMOR = (
     ("armor_head.csv", 1),
@@ -47,16 +49,17 @@ EQUIPMENT_TYPES = (
     (8, "片手剑", "Sword and Shield"),
     (9, "锤", "Hammer"),
     (10, "长枪", "Lance"),
-    (11, "轻弩", "Light Bowgun"),
-    (12, "重弩", "Heavy Bowgun"),
-    (13, "太刀", "Long Sword"),
-    (14, "斩击斧", "Switch Axe"),
-    (15, "铳枪", "Gunlance"),
-    (16, "弓", "Bow"),
-    (17, "双剑", "Dual Blades"),
-    (18, "狩猎笛", "Hunting Horn"),
-    (19, "操虫棍", "Insect Glaive"),
-    (20, "盾斧", "Charge Blade"),
+    (11, "重弩", "Heavy Bowgun"),
+    # 12 is an unused/ignored equipment code in the save format.
+    (13, "轻弩", "Light Bowgun"),
+    (14, "太刀", "Long Sword"),
+    (15, "斩击斧", "Switch Axe"),
+    (16, "铳枪", "Gunlance"),
+    (17, "弓", "Bow"),
+    (18, "双剑", "Dual Blades"),
+    (19, "狩猎笛", "Hunting Horn"),
+    (20, "操虫棍", "Insect Glaive"),
+    (21, "盾斧", "Charge Blade"),
 )
 
 WEAPON_SAVE_TYPES = {
@@ -64,30 +67,30 @@ WEAPON_SAVE_TYPES = {
     "weapon_sword_and_shield": 8,
     "weapon_hammer": 9,
     "weapon_lance": 10,
-    "weapon_light_bowgun": 11,
-    "weapon_heavy_bowgun": 12,
-    "weapon_long_sword": 13,
-    "weapon_switch_axe": 14,
-    "weapon_gunlance": 15,
-    "weapon_bow": 16,
-    "weapon_dual_blades": 17,
-    "weapon_hunting_horn": 18,
-    "weapon_insect_glaive": 19,
-    "weapon_charge_blade": 20,
+    "weapon_heavy_bowgun": 11,
+    "weapon_light_bowgun": 13,
+    "weapon_long_sword": 14,
+    "weapon_switch_axe": 15,
+    "weapon_gunlance": 16,
+    "weapon_bow": 17,
+    "weapon_dual_blades": 18,
+    "weapon_hunting_horn": 19,
+    "weapon_insect_glaive": 20,
+    "weapon_charge_blade": 21,
 }
 
 LOOKUPS = (
-    ("ID_Wpn_AxePhial.csv", "Wpn_AxePhial_ID", "Wpn_AxePhial_", "weapon_special", "14,20", "phial"),
-    ("ID_Wpn_BowShot.csv", "Wpn_BowShot_ID", "Wpn_BowShot_", "weapon_special", "16", "arc_type"),
-    ("ID_Wpn_GunRecoil.csv", "Wpn_GunRecoil_ID", "Wpn_GunRecoil_", "weapon_special", "11,12", "recoil"),
-    ("ID_Wpn_GunReloadSpd.csv", "Wpn_GunReloadSpd_ID", "Wpn_GunReloadSpd_", "weapon_special", "11,12", "reload_speed"),
-    ("ID_Wpn_GunSteadiness.csv", "Wpn_GunSteadiness_ID", "Wpn_GunSteadiness_", "weapon_special", "11,12", "deviation"),
-    ("ID_Wpn_HHSongCategory.csv", "Wpn_HHSongCategory_ID", "Wpn_HHSongCategory_", "weapon_special", "18", "song_category"),
-    ("ID_Wpn_ISKinsectType.csv", "Wpn_ISKinsectType_ID", "Wpn_ISKinsectType_", "kinsect", "19", "damage_type"),
-    ("ID_Wpn_RapidFireGap.csv", "Wpn_RapidFireGap_ID", "Wpn_RapidFireGap_", "weapon_special", "11", "rapid_fire_gap"),
-    ("ID_Wpn_RecitalEffect.csv", "Wpn_RecitalEffect_ID", "Wpn_RecitalEffect_", "weapon_special", "18", "recital_effect"),
-    ("ID_Wpn_ShotType.csv", "Wpn_ShotType_ID", "Wpn_ShotType_", "weapon_special", "15,16", "shot_type"),
-    ("ID_Wpn_SpAtk.csv", "Wpn_SpAtk_ID", "Wpn_SpAtk_", "attribute_type", "7-20", "dex"),
+    ("ID_Wpn_AxePhial.csv", "Wpn_AxePhial_ID", "Wpn_AxePhial_", "weapon_special", "15,21", "phial"),
+    ("ID_Wpn_BowShot.csv", "Wpn_BowShot_ID", "Wpn_BowShot_", "weapon_special", "17", "arc_type"),
+    ("ID_Wpn_GunRecoil.csv", "Wpn_GunRecoil_ID", "Wpn_GunRecoil_", "weapon_special", "11,13", "recoil"),
+    ("ID_Wpn_GunReloadSpd.csv", "Wpn_GunReloadSpd_ID", "Wpn_GunReloadSpd_", "weapon_special", "11,13", "reload_speed"),
+    ("ID_Wpn_GunSteadiness.csv", "Wpn_GunSteadiness_ID", "Wpn_GunSteadiness_", "weapon_special", "11,13", "deviation"),
+    ("ID_Wpn_HHSongCategory.csv", "Wpn_HHSongCategory_ID", "Wpn_HHSongCategory_", "weapon_special", "19", "song_category"),
+    ("ID_Wpn_ISKinsectType.csv", "Wpn_ISKinsectType_ID", "Wpn_ISKinsectType_", "kinsect", "20", "damage_type"),
+    ("ID_Wpn_RapidFireGap.csv", "Wpn_RapidFireGap_ID", "Wpn_RapidFireGap_", "weapon_special", "13", "rapid_fire_gap"),
+    ("ID_Wpn_RecitalEffect.csv", "Wpn_RecitalEffect_ID", "Wpn_RecitalEffect_", "weapon_special", "19", "recital_effect"),
+    ("ID_Wpn_ShotType.csv", "Wpn_ShotType_ID", "Wpn_ShotType_", "weapon_special", "16,17", "shot_type"),
+    ("ID_Wpn_SpAtk.csv", "Wpn_SpAtk_ID", "Wpn_SpAtk_", "attribute_type", "7-21", "dex"),
     ("ID_PeliWpn_Type.csv", "PeliWpn_Type_ID", "PeliWpn_Type_", "palico_weapon", "1", "balance"),
 )
 
@@ -259,6 +262,7 @@ def build_language(
     sql_dir: Path,
     crosswalk: dict,
     game_tables: dict[str, list[str]],
+    game_rules: dict[str, object],
     palico_translations: dict[str, dict[int, dict]],
     language: str,
     output: Path,
@@ -297,7 +301,11 @@ def build_language(
         skill_rows.append({"id": identifier, "name": name, "english": english, "source": source})
     counts["skills.csv"] = write_csv(output / "skills.csv", BASE_COLUMNS, skill_rows)
 
-    decorations = [none_row(language)]
+    decoration_costs = {
+        int(row["item_id"]): int(row["slots"])
+        for row in game_rules["decoration_slot_costs"]
+    }
+    decorations = [{**none_row(language), "slot_cost": 0}]
     for entry in crosswalk["decorations"][1:]:
         identifier = int(entry["id"])
         row = item_by_save_id.get(identifier)
@@ -309,11 +317,18 @@ def build_language(
                     "name": english,
                     "english": english,
                     "source": SAVE_FALLBACK_SOURCE if language == "cn" else SAVE_SOURCE,
+                    "slot_cost": decoration_costs.get(identifier, -1),
                 }
             )
             continue
-        decorations.append({**row, "source": row["source"] + "+" + SAVE_SOURCE})
-    counts["decorations.csv"] = write_csv(output / "decorations.csv", BASE_COLUMNS, decorations)
+        decorations.append({
+            **row,
+            "source": row["source"] + "+" + SAVE_SOURCE + "+" + GAME_RULE_SOURCE,
+            "slot_cost": decoration_costs.get(identifier, -1),
+        })
+    counts["decorations.csv"] = write_csv(
+        output / "decorations.csv", DECORATION_COLUMNS, decorations
+    )
 
     armor_data = {int(row["Amr_ID"]): row for row in read_csv(sql_dir / "DB_Amr.csv")}
     armor_names = {int(row["Amr_ID"]): row for row in read_csv(sql_dir / "ID_Amr_Name.csv")}
@@ -407,6 +422,25 @@ def build_language(
             )
         file_name = base_name + ".csv"
         counts[file_name] = write_csv(output / file_name, weapon_columns, rows)
+
+    weapon_level_rows = []
+    weapon_level_rules = game_rules["weapon_level_slots"]
+    for table_name, equipment_type in sorted(WEAPON_SAVE_TYPES.items(), key=lambda row: row[1]):
+        for row in weapon_level_rules[table_name]:
+            display_level = int(row["display_level"])
+            weapon_level_rows.append({
+                "equipment_type": equipment_type,
+                "weapon_id": int(row["weapon_id"]),
+                "save_level": display_level - 1,
+                "display_level": display_level,
+                "slots": int(row["slots"]),
+                "source": GAME_RULE_SOURCE,
+            })
+    counts["weapon_level_slots.csv"] = write_csv(
+        output / "weapon_level_slots.csv",
+        ("equipment_type", "weapon_id", "save_level", "display_level", "slots", "source"),
+        weapon_level_rows,
+    )
 
     talismans = []
     for entry in crosswalk["talismans"]:
@@ -595,6 +629,10 @@ files by hand.
 - `en/` uses English names in both `name` and `english`.
 - Equipment crosswalks no longer assign IDs: they attach Dex metadata to the
   game array index and fail generation on any Japanese-name mismatch.
+- `weapon_level_slots.csv` comes directly from all fourteen native
+  `weaponXXLevelData` tables. It records both the zero-based save level and the
+  one-based displayed level. `decorations.csv` records native jewel slot cost;
+  `-1` marks extra DUMMY IDs absent from `decoData`.
 - MHGU has no MH4G-style relic equipment, so no relic-only fields are emitted.
 - Palico weapons/head/body armor come from Dex. Support-move names are reviewed
   against the linked Bahamut MHXX article and Axibug wiki; passive-skill names
@@ -613,9 +651,9 @@ files by hand.
 Rebuild and validate:
 
 ```bash
-python3 tools/export_game_names.py /path/to/extracted/romfs/table /tmp/mhxx-game-names.json
-python3 tools/build_data.py --input /path/to/mhxx-dex-raw --game-names /tmp/mhxx-game-names.json --output data
-python3 tools/validate_data.py data --game-names /tmp/mhxx-game-names.json
+python3 tools/export_game_names.py /path/to/extracted/romfs/table /tmp/mhxx-game-resources.json
+python3 tools/build_data.py --input /path/to/mhxx-dex-raw --game-names /tmp/mhxx-game-resources.json --output data
+python3 tools/validate_data.py data --game-names /tmp/mhxx-game-resources.json
 ```
 
 Create the raw dump on 32-bit-capable Windows first:
@@ -661,19 +699,26 @@ def main() -> int:
     if game_export.get("format") != GAME_EXPORT_FORMAT or game_export.get("language") != "jp":
         raise ValueError("unsupported or invalid MHXX game name export")
     game_tables = game_export.get("tables")
+    game_rules = game_export.get("rules")
     required_game_tables = {
         "items", *(Path(file_name).stem for file_name, _part in ARMOR),
         *crosswalk["weapons"].keys(), "palico_weapons", "palico_head", "palico_armor",
     }
     if not isinstance(game_tables, dict) or set(game_tables) != required_game_tables:
         raise ValueError("game name export table set differs from the required save-ID tables")
+    if not isinstance(game_rules, dict) or set(game_rules) != {
+        "weapon_level_slots", "decoration_slot_costs"
+    }:
+        raise ValueError("game resource export rule set differs from the required native rules")
+    if set(game_rules["weapon_level_slots"]) != set(crosswalk["weapons"]):
+        raise ValueError("weapon level rule tables differ from the weapon crosswalk")
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     temp_root = Path(tempfile.mkdtemp(prefix="mhxx-data-", dir=str(args.output.parent)))
     try:
         counts = {
             language: build_language(
-                args.input / "direct_sql", crosswalk, game_tables,
+                args.input / "direct_sql", crosswalk, game_tables, game_rules,
                 palico_translations, language, temp_root / language
             )
             for language in ("cn", "en")
@@ -698,6 +743,12 @@ def main() -> int:
                 "export_sha256": sha256(args.game_names),
                 "sources": game_export.get("sources", []),
                 "tables": {key: len(game_tables[key]) for key in sorted(game_tables)},
+                "rules": {
+                    "weapon_level_slots": sum(
+                        len(rows) for rows in game_rules["weapon_level_slots"].values()
+                    ),
+                    "decoration_slot_costs": len(game_rules["decoration_slot_costs"]),
+                },
             },
             "files": files,
         }

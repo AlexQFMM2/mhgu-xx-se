@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Export authoritative MHXX save-ID name arrays from an extracted RomFS table.
+"""Export authoritative MHXX save-ID arrays and native rules from RomFS/table.
 
 The input directory is kept outside the repository. The deterministic JSON
-contains only canonical Japanese labels, reviewed table counts, and hashes of
-the small source tables used to derive them.
+contains only canonical Japanese labels, normalized weapon/decorations rules,
+reviewed table counts, and hashes of the small source tables used to derive them.
 """
 
 from __future__ import annotations
@@ -15,7 +15,7 @@ import struct
 from pathlib import Path
 
 
-FORMAT = "mhxx-game-name-export-v1"
+FORMAT = "mhxx-game-resource-export-v2"
 GMD_MAGIC = b"GMD\0"
 
 WEAPONS = {
@@ -33,6 +33,26 @@ WEAPONS = {
     "weapon_hunting_horn": 12,
     "weapon_insect_glaive": 13,
     "weapon_charge_blade": 14,
+}
+
+# weaponXXLevelData has a common 8-byte header, but its record layout depends
+# on the weapon class. The save stores level zero-based; this table stores the
+# displayed level one-based.
+WEAPON_LEVEL_LAYOUTS = {
+    0: (15, 14),   # Great Sword
+    1: (15, 14),   # Sword and Shield
+    2: (15, 14),   # Hammer
+    3: (15, 14),   # Lance
+    4: (100, 10),  # Heavy Bowgun
+    6: (100, 10),  # Light Bowgun
+    7: (15, 14),   # Long Sword
+    8: (17, 16),   # Switch Axe
+    9: (16, 15),   # Gunlance
+    10: (31, 12),  # Bow
+    11: (17, 16),  # Dual Blades
+    12: (16, 15),  # Hunting Horn
+    13: (15, 14),  # Insect Glaive
+    14: (17, 16),  # Charge Blade
 }
 
 
@@ -93,6 +113,58 @@ def read_weapon_map(path: Path) -> int:
     return count
 
 
+def read_weapon_level_slots(path: Path, record_size: int, slot_offset: int,
+                            weapon_count: int) -> list[dict[str, int]]:
+    data = path.read_bytes()
+    if len(data) < 8:
+        raise ValueError(f"{path}: truncated weapon level table")
+    count = struct.unpack_from("<I", data, 4)[0]
+    if len(data) != 8 + count * record_size:
+        raise ValueError(f"{path}: weapon level table size mismatch")
+    rows: list[dict[str, int]] = []
+    seen: set[tuple[int, int]] = set()
+    levels_by_weapon: dict[int, list[int]] = {}
+    for index in range(count):
+        offset = 8 + index * record_size
+        weapon_id = data[offset + 4]
+        display_level = data[offset + 5]
+        slots = data[offset + slot_offset]
+        key = (weapon_id, display_level)
+        if weapon_id >= weapon_count:
+            raise ValueError(f"{path}: weapon ID {weapon_id} is outside the name table")
+        if not 1 <= display_level <= 15:
+            raise ValueError(f"{path}: invalid displayed level {display_level} at record {index}")
+        if not 0 <= slots <= 3:
+            raise ValueError(f"{path}: invalid slot count {slots} at record {index}")
+        if key in seen:
+            raise ValueError(f"{path}: duplicate weapon/level pair {key}")
+        seen.add(key)
+        levels_by_weapon.setdefault(weapon_id, []).append(display_level)
+        rows.append({"weapon_id": weapon_id, "display_level": display_level, "slots": slots})
+    if set(levels_by_weapon) != set(range(weapon_count)):
+        raise ValueError(f"{path}: level table does not cover every weapon save ID")
+    for weapon_id, levels in levels_by_weapon.items():
+        if sorted(levels) != list(range(1, max(levels) + 1)):
+            raise ValueError(f"{path}: weapon ID {weapon_id} has non-contiguous levels")
+    return rows
+
+
+def read_decoration_slot_costs(path: Path) -> list[dict[str, int]]:
+    data = path.read_bytes()
+    if len(data) < 8:
+        raise ValueError(f"{path}: truncated decoration table")
+    count = struct.unpack_from("<I", data, 4)[0]
+    if len(data) != 8 + count * 5:
+        raise ValueError(f"{path}: decoration table size mismatch")
+    rows = []
+    for index in range(count):
+        slots = data[8 + index * 5]
+        if not 1 <= slots <= 3:
+            raise ValueError(f"{path}: invalid decoration slot cost {slots} at record {index}")
+        rows.append({"item_id": 2638 + index, "slots": slots})
+    return rows
+
+
 def grouped_names(values: list[str], block: int, name_index: int, label: str) -> list[str]:
     if len(values) % block:
         raise ValueError(f"{label}: {len(values)} messages is not divisible by {block}")
@@ -102,7 +174,7 @@ def grouped_names(values: list[str], block: int, name_index: int, label: str) ->
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("table_dir", type=Path, help="extracted MHXX RomFS/table directory")
-    parser.add_argument("output", type=Path, help="deterministic JSON output outside the repository")
+    parser.add_argument("output", type=Path, help="deterministic resource JSON outside the repository")
     args = parser.parse_args()
 
     root = args.table_dir.resolve()
@@ -129,6 +201,7 @@ def main() -> int:
     used.extend((armor_gmd, armor_binary))
 
     weapons: dict[str, list[str]] = {}
+    weapon_level_slots: dict[str, list[dict[str, int]]] = {}
     for key, code in WEAPONS.items():
         gmd = root / f"weapon{code:02d}MsgData_jpn.gmd"
         message_map = root / f"weapon{code:02d}MsgData.w{code:02d}m"
@@ -137,6 +210,16 @@ def main() -> int:
             raise ValueError(f"{key}: message-map count differs from GMD")
         weapons[key] = names
         used.extend((gmd, message_map))
+        level_data = root / f"weapon{code:02d}LevelData.w{code:02d}d"
+        record_size, slot_offset = WEAPON_LEVEL_LAYOUTS[code]
+        weapon_level_slots[key] = read_weapon_level_slots(
+            level_data, record_size, slot_offset, len(names)
+        )
+        used.append(level_data)
+
+    decoration_binary = root / "decoData.deco"
+    decoration_slot_costs = read_decoration_slot_costs(decoration_binary)
+    used.append(decoration_binary)
 
     palico_weapon_gmd = root / "otWeaponData_jpn.gmd"
     palico_weapon_binary = root / "otWeaponData.owp"
@@ -167,6 +250,10 @@ def main() -> int:
             "palico_head": palico_head,
             "palico_armor": palico_armor,
         },
+        "rules": {
+            "weapon_level_slots": weapon_level_slots,
+            "decoration_slot_costs": decoration_slot_costs,
+        },
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(
@@ -176,7 +263,8 @@ def main() -> int:
     )
     print(
         f"exported {len(item_names)} items, {armor_count} armor IDs, "
-        f"{sum(len(rows) for rows in weapons.values())} weapon IDs"
+        f"{sum(len(rows) for rows in weapons.values())} weapon IDs, "
+        f"{sum(len(rows) for rows in weapon_level_slots.values())} weapon levels"
     )
     return 0
 

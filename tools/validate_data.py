@@ -47,6 +47,24 @@ EXPECTED_GAME_COUNTS = {
     "palico_armor": 527,
 }
 
+EXPECTED_WEAPON_TYPES = {
+    7: "weapon_great_sword",
+    8: "weapon_sword_and_shield",
+    9: "weapon_hammer",
+    10: "weapon_lance",
+    11: "weapon_heavy_bowgun",
+    13: "weapon_light_bowgun",
+    14: "weapon_long_sword",
+    15: "weapon_switch_axe",
+    16: "weapon_gunlance",
+    17: "weapon_bow",
+    18: "weapon_dual_blades",
+    19: "weapon_hunting_horn",
+    20: "weapon_insect_glaive",
+    21: "weapon_charge_blade",
+}
+EXPECTED_WEAPON_LEVEL_ROWS = 10925
+
 
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
@@ -89,16 +107,20 @@ def main() -> int:
 
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     require(manifest.get("format") == "mhxx-save-editor-data-v1", "unsupported manifest format")
-    require(manifest.get("generator_version") == "2.0.0", "unsupported generator version")
+    require(manifest.get("generator_version") == "2.1.0", "unsupported generator version")
     require(
         bool(manifest.get("sources", {}).get("palico_cn_translation_sha256")),
         "manifest is missing the Palico Chinese translation hash",
     )
     game_resource = manifest.get("game_resource", {})
-    require(game_resource.get("format") == "mhxx-game-name-export-v1", "missing game-resource export metadata")
+    require(game_resource.get("format") == "mhxx-game-resource-export-v2", "missing game-resource export metadata")
     require(game_resource.get("language") == "jp", "game-resource language must be jp")
     require(game_resource.get("tables") == EXPECTED_GAME_COUNTS, "game-resource table counts differ")
-    require(len(game_resource.get("sources", [])) == 36, "expected 36 hashed game-resource source files")
+    require(game_resource.get("rules") == {
+        "weapon_level_slots": EXPECTED_WEAPON_LEVEL_ROWS,
+        "decoration_slot_costs": 251,
+    }, "game-resource native rule counts differ")
+    require(len(game_resource.get("sources", [])) == 51, "expected 51 hashed game-resource source files")
     for entry in game_resource.get("sources", []):
         digest = entry.get("sha256", "")
         require(
@@ -111,7 +133,7 @@ def main() -> int:
         for path in root.rglob("*.csv")
     }
     require(set(manifest_files) == disk_files, "manifest CSV set does not match data directory")
-    require(len(disk_files) == 70, f"expected 70 CSV files, found {len(disk_files)}")
+    require(len(disk_files) == 72, f"expected 72 CSV files, found {len(disk_files)}")
 
     tables: dict[str, list[dict[str, str]]] = {}
     indexes: dict[str, dict[int, dict[str, str]]] = {}
@@ -168,6 +190,45 @@ def main() -> int:
             actual = len(tables[f"{language}/{name}"])
             require(actual == expected, f"{language}/{name}: expected {expected} rows, found {actual}")
 
+        equipment_type_ids = set(indexes[f"{language}/equipment_types.csv"])
+        require(12 not in equipment_type_ids, f"{language}: reserved equipment type 12 must not be selectable")
+        require(set(EXPECTED_WEAPON_TYPES) <= equipment_type_ids, f"{language}: weapon equipment types differ")
+
+        level_rows = tables[f"{language}/weapon_level_slots.csv"]
+        require(len(level_rows) == EXPECTED_WEAPON_LEVEL_ROWS, f"{language}: weapon level row count differs")
+        seen_levels: set[tuple[int, int, int]] = set()
+        levels_by_weapon: dict[tuple[int, int], list[int]] = {}
+        for row in level_rows:
+            equipment_type = int(row["equipment_type"])
+            weapon_id = int(row["weapon_id"])
+            save_level = int(row["save_level"])
+            display_level = int(row["display_level"])
+            slots = int(row["slots"])
+            require(equipment_type in EXPECTED_WEAPON_TYPES, f"{language}: invalid weapon type {equipment_type}")
+            require(display_level == save_level + 1, f"{language}: save/display level mismatch")
+            require(0 <= slots <= 3, f"{language}: invalid weapon slot count {slots}")
+            weapon_table = indexes[f"{language}/{EXPECTED_WEAPON_TYPES[equipment_type]}.csv"]
+            require(weapon_id in weapon_table, f"{language}: weapon level references unknown ID {weapon_id}")
+            key = (equipment_type, weapon_id, save_level)
+            require(key not in seen_levels, f"{language}: duplicate weapon level {key}")
+            seen_levels.add(key)
+            levels_by_weapon.setdefault((equipment_type, weapon_id), []).append(save_level)
+        for (equipment_type, weapon_id), levels in levels_by_weapon.items():
+            table = indexes[f"{language}/{EXPECTED_WEAPON_TYPES[equipment_type]}.csv"]
+            max_level = int(table[weapon_id]["max_level"])
+            expected_levels = [0] if weapon_id == 0 else list(range(max_level))
+            require(sorted(levels) == expected_levels,
+                    f"{language}: weapon {equipment_type}/{weapon_id} level coverage differs")
+
+        decorations = indexes[f"{language}/decorations.csv"]
+        require(int(decorations[0]["slot_cost"]) == 0, f"{language}: empty decoration must cost zero")
+        for identifier in range(2638, 2889):
+            require(1 <= int(decorations[identifier]["slot_cost"]) <= 3,
+                    f"{language}: decoration {identifier} has invalid native slot cost")
+        for identifier in range(2889, 2900):
+            require(int(decorations[identifier]["slot_cost"]) == -1,
+                    f"{language}: extra DUMMY decoration {identifier} must be unsupported")
+
         moves = indexes[f"{language}/palico_support_moves.csv"]
         skills = indexes[f"{language}/palico_skills.csv"]
         fortes = indexes[f"{language}/palico_fortes.csv"]
@@ -214,14 +275,19 @@ def main() -> int:
 
     if args.game_names is not None:
         game_export = json.loads(args.game_names.read_text(encoding="utf-8"))
-        require(game_export.get("format") == "mhxx-game-name-export-v1", "unsupported game name export")
+        require(game_export.get("format") == "mhxx-game-resource-export-v2", "unsupported game resource export")
         require(game_export.get("language") == "jp", "game name export language must be jp")
         require(sha256(args.game_names) == game_resource.get("export_sha256"), "game name export hash differs from manifest")
         tables_from_game = game_export.get("tables", {})
+        rules_from_game = game_export.get("rules", {})
         require(
             {key: len(value) for key, value in tables_from_game.items()} == EXPECTED_GAME_COUNTS,
             "supplied game name export counts differ",
         )
+        require(sum(len(rows) for rows in rules_from_game.get("weapon_level_slots", {}).values())
+                == EXPECTED_WEAPON_LEVEL_ROWS, "supplied weapon level rule count differs")
+        require(len(rules_from_game.get("decoration_slot_costs", [])) == 251,
+                "supplied decoration slot rule count differs")
         for language in ("cn", "en"):
             require(
                 set(indexes[f"{language}/items.csv"]) == set(range(len(tables_from_game["items"]))),

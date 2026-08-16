@@ -1,158 +1,158 @@
 domain,equipment_type,variant,value,name,english,source
-weapon_special,"14,20",phial,1,强击瓶,Power,mhxx-dex-1.0
-weapon_special,"14,20",phial,2,麻痹瓶,Para,mhxx-dex-1.0
-weapon_special,"14,20",phial,3,毒瓶,Poison,mhxx-dex-1.0
-weapon_special,"14,20",phial,4,灭龙瓶,Dragon,mhxx-dex-1.0
-weapon_special,"14,20",phial,5,强属性瓶,Element,mhxx-dex-1.0
-weapon_special,"14,20",phial,6,减气瓶,Exhaust,mhxx-dex-1.0
-weapon_special,"14,20",phial,7,榴弹瓶,Impact,mhxx-dex-1.0
-weapon_special,16,arc_type,1,放射型,Wide,mhxx-dex-1.0
-weapon_special,16,arc_type,2,集中型,Focus,mhxx-dex-1.0
-weapon_special,16,arc_type,3,爆裂型,Blast,mhxx-dex-1.0
-weapon_special,16,arc_type,4,刚射型,Power,mhxx-dex-1.0
-weapon_special,"11,12",recoil,1,小,Low,mhxx-dex-1.0
-weapon_special,"11,12",recoil,2,较小,Some,mhxx-dex-1.0
-weapon_special,"11,12",recoil,3,中,Avg.,mhxx-dex-1.0
-weapon_special,"11,12",recoil,4,大,High,mhxx-dex-1.0
-weapon_special,"11,12",reload_speed,1,极快,V. Fast,mhxx-dex-1.0
-weapon_special,"11,12",reload_speed,2,较快,Abv.Avg,mhxx-dex-1.0
-weapon_special,"11,12",reload_speed,3,普通,Average,mhxx-dex-1.0
-weapon_special,"11,12",reload_speed,4,较慢,Bel.Avg,mhxx-dex-1.0
-weapon_special,"11,12",reload_speed,5,极慢,V. Slow,mhxx-dex-1.0
-weapon_special,"11,12",deviation,0,无,-,mhxx-dex-1.0
-weapon_special,"11,12",deviation,1,左右/小,LR Mild,mhxx-dex-1.0
-weapon_special,"11,12",deviation,2,左右/大,LR Severe,mhxx-dex-1.0
-weapon_special,"11,12",deviation,3,左/小,L Mild,mhxx-dex-1.0
-weapon_special,"11,12",deviation,4,左/大,L Severe,mhxx-dex-1.0
-weapon_special,"11,12",deviation,5,右/小,R Mild,mhxx-dex-1.0
-weapon_special,"11,12",deviation,6,右/大,R Severe,mhxx-dex-1.0
-weapon_special,18,song_category,1,攻击类,Offensive,mhxx-dex-1.0
-weapon_special,18,song_category,2,防御类,Defensive,mhxx-dex-1.0
-weapon_special,18,song_category,3,保护类,Protection,mhxx-dex-1.0
-weapon_special,18,song_category,4,回复类,Healing,mhxx-dex-1.0
-weapon_special,18,song_category,5,自身类,User-only,mhxx-dex-1.0
-weapon_special,18,song_category,6,其他类,Other,mhxx-dex-1.0
-kinsect,19,damage_type,1,切断,Cutting,mhxx-dex-1.0
-kinsect,19,damage_type,2,打击,Blunt,mhxx-dex-1.0
-weapon_special,11,rapid_fire_gap,1,小,Low,mhxx-dex-1.0
-weapon_special,11,rapid_fire_gap,2,中,Avg.,mhxx-dex-1.0
-weapon_special,11,rapid_fire_gap,3,大,High,mhxx-dex-1.0
-weapon_special,11,rapid_fire_gap,4,特大,V.High,mhxx-dex-1.0
-weapon_special,18,recital_effect,1,自身移动速度强化,Movement Speed Up,mhxx-dex-1.0
-weapon_special,18,recital_effect,2,攻击不再弹开,Attack Deflection Prevention,mhxx-dex-1.0
-weapon_special,18,recital_effect,3,攻击力强化【小】,Attack +10%,mhxx-dex-1.0
-weapon_special,18,recital_effect,4,攻击力强化【大】,Attack +15%,mhxx-dex-1.0
-weapon_special,18,recital_effect,5,攻击力进一步强化,Attack +5%,mhxx-dex-1.0
-weapon_special,18,recital_effect,6,防御力强化【小】,Defense +10%,mhxx-dex-1.0
-weapon_special,18,recital_effect,7,防御力强化【大】,Defense +15%,mhxx-dex-1.0
-weapon_special,18,recital_effect,8,防御力进一步强化,Defense +5%,mhxx-dex-1.0
-weapon_special,18,recital_effect,9,攻击力&防御力强化【小】,Att. & Def. +10%,mhxx-dex-1.0
-weapon_special,18,recital_effect,10,攻击力&防御力进一步强化,Att. & Def. +5%,mhxx-dex-1.0
-weapon_special,18,recital_effect,11,体力增加【小】,Max Health +30,mhxx-dex-1.0
-weapon_special,18,recital_effect,12,体力增加【大】,Max Health +50,mhxx-dex-1.0
-weapon_special,18,recital_effect,13,回复速度【小】,Recovery Speed Up (S),mhxx-dex-1.0
-weapon_special,18,recital_effect,14,回复速度【大】,Recovery Speed Up (L),mhxx-dex-1.0
-weapon_special,18,recital_effect,15,体力回复【小】,Health Recovery (S),mhxx-dex-1.0
-weapon_special,18,recital_effect,16,体力回复【小】&解毒,Health Rec. (S) + Ant.,mhxx-dex-1.0
-weapon_special,18,recital_effect,17,体力回复【中】&解毒,Health Rec. (M) + Ant.,mhxx-dex-1.0
-weapon_special,18,recital_effect,18,体力回复【中】&除臭,Health Rec. (M) + Deod.,mhxx-dex-1.0
-weapon_special,18,recital_effect,19,体力回复【大】,Health Recovery (L),mhxx-dex-1.0
-weapon_special,18,recital_effect,20,火耐性强化【小】&火异常【小】无效,Fire Res +5 + Fireblight Reduced,mhxx-dex-1.0
-weapon_special,18,recital_effect,21,火耐性强化【大】&火异常完全无效,Fire Res +7 + Fireblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,22,火耐性进一步强化&火异常完全无效,Fire Res +7 + Fireblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,23,水耐性强化【小】&水异常【小】无效,Water Res +5 + Waterblight Reduced,mhxx-dex-1.0
-weapon_special,18,recital_effect,24,水耐性强化【大】&水异常完全无效,Water Res +7 + Waterblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,25,水耐性进一步强化&水异常完全无效,Water Res +7 + Waterblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,26,雷耐性强化【小】&雷异常【小】无效,Thunder Res +5 + Thunderblight Reduced,mhxx-dex-1.0
-weapon_special,18,recital_effect,27,雷耐性强化【大】&雷异常完全无效,Thunder Res +7 + Thunderblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,28,雷耐性进一步强化&雷异常完全无效,Thunder Res +7 + Thunderblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,29,冰耐性强化【小】&冰异常【小】无效,Ice Res +5 + Iceblight Reduced,mhxx-dex-1.0
-weapon_special,18,recital_effect,30,冰耐性强化【大】&冰异常完全无效,Ice Res +7 + Iceblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,31,冰耐性进一步强化&冰异常完全无效,Ice Res +7 + Iceblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,32,龙耐性强化【小】&龙异常【小】无效,Dragon Res +5 + Dragonblight Reduced,mhxx-dex-1.0
-weapon_special,18,recital_effect,33,龙耐性强化【大】&龙异常完全无效,Dragon Res +7 + Dragonblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,34,龙耐性进一步强化&龙异常完全无效,Dragon Res +7 + Dragonblight Immune,mhxx-dex-1.0
-weapon_special,18,recital_effect,35,麻痹无效,Negate Paralysis,mhxx-dex-1.0
-weapon_special,18,recital_effect,36,昏厥无效,Negate Stun,mhxx-dex-1.0
-weapon_special,18,recital_effect,37,耐雪人状态,Bind Res,mhxx-dex-1.0
-weapon_special,18,recital_effect,38,精灵王的加护,Divine Protection,mhxx-dex-1.0
-weapon_special,18,recital_effect,39,耐震,Tremor Res,mhxx-dex-1.0
-weapon_special,18,recital_effect,40,炎热无效,Negate Heat,mhxx-dex-1.0
-weapon_special,18,recital_effect,41,寒冷无效,Negate Cold,mhxx-dex-1.0
-weapon_special,18,recital_effect,42,听觉保护【小】,Hearing Protection (S),mhxx-dex-1.0
-weapon_special,18,recital_effect,43,听觉保护【大】,HG Earplugs Effect Activated,mhxx-dex-1.0
-weapon_special,18,recital_effect,44,风压减轻,Wind Pressure Reduced,mhxx-dex-1.0
-weapon_special,18,recital_effect,45,风压无效,Wind Pressure Negated,mhxx-dex-1.0
-weapon_special,18,recital_effect,46,听觉保护【小】&风压减轻,Hearing Protection (S) + Wind Pressure Reduced,mhxx-dex-1.0
-weapon_special,18,recital_effect,47,听觉保护【大】&风压无效,HG Earplugs Effect Activated + Wind Pressure Negated,mhxx-dex-1.0
-weapon_special,18,recital_effect,48,全属性耐性强化,All Elemental Res +5,mhxx-dex-1.0
-weapon_special,18,recital_effect,49,全属性耐性进一步强化,All Elemental Res +10,mhxx-dex-1.0
-weapon_special,18,recital_effect,50,属性异常无效,Blightproof,mhxx-dex-1.0
-weapon_special,18,recital_effect,51,全状态异常无效,Negate Abnormal Stat.,mhxx-dex-1.0
-weapon_special,18,recital_effect,52,属性攻击力强化,Elemental Attack +8%,mhxx-dex-1.0
-weapon_special,18,recital_effect,53,属性攻击力进一步强化,Elemental Attack +10%,mhxx-dex-1.0
-weapon_special,18,recital_effect,54,状态异常攻击强化,Abnormal Status Attack +10%,mhxx-dex-1.0
-weapon_special,18,recital_effect,55,状态异常攻击进一步强化,Abnormal Status Attack +15%,mhxx-dex-1.0
-weapon_special,18,recital_effect,56,会心率UP&体力回复【小】,Affinity +15 + Health Rec. (S),mhxx-dex-1.0
-weapon_special,18,recital_effect,57,会心率进一步UP&体力回复【小】,Affinity +20 + Health Rec. (S),mhxx-dex-1.0
-weapon_special,18,recital_effect,58,耐力减少无效【小】,Negate Stamina Use (S),mhxx-dex-1.0
-weapon_special,18,recital_effect,59,耐力减少无效【大】,Negate Stamina Use (L),mhxx-dex-1.0
-weapon_special,18,recital_effect,60,耐力减少无效延长,Negate Stamina Use (S) Extended,mhxx-dex-1.0
-weapon_special,18,recital_effect,61,千里眼,Psychic,mhxx-dex-1.0
-weapon_special,18,recital_effect,62,高频发生,High-Frequency Waves Emitted,mhxx-dex-1.0
-weapon_special,18,recital_effect,63,硬直无效,Negate Knockback,mhxx-dex-1.0
-weapon_special,18,recital_effect,64,全旋律效果延长,Finale,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,1,通常1,Normal Lv1,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,2,通常2,Normal Lv2,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,3,通常3,Normal Lv3,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,4,通常4,Normal Lv4,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,5,通常5,Normal Lv5,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,6,扩散1,Wide Lv1,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,7,扩散2,Wide Lv2,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,8,扩散3,Wide Lv3,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,9,扩散4,Wide Lv4,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,10,扩散5,Wide Lv5,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,11,放射1,Long Lv1,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,12,放射2,Long Lv2,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,13,放射3,Long Lv3,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,14,放射4,Long Lv4,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,15,放射5,Long Lv5,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,16,贯穿1,Pierce Lv1,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,17,贯穿2,Pierce Lv2,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,18,贯穿3,Pierce Lv3,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,19,贯穿4,Pierce Lv4,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,20,贯穿5,Pierce Lv5,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,21,连射1,Rapid Lv1,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,22,连射2,Rapid Lv2,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,23,连射3,Rapid Lv3,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,24,连射4,Rapid Lv4,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,25,连射5,Rapid Lv5,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,26,扩散1,Spread Lv1,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,27,扩散2,Spread Lv2,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,28,扩散3,Spread Lv3,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,29,扩散4,Spread Lv4,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,30,扩散5,Spread Lv5,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,31,重射1,Heavy Lv1,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,32,重射2,Heavy Lv2,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,33,重射3,Heavy Lv3,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,34,重射4,Heavy Lv4,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,35,重射5,Heavy Lv5,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,36,通常,Normal,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,37,扩散,Wide,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,38,放射,Long,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,39,贯穿,Pierce,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,40,连射,Rapid,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,41,扩散,Spread,mhxx-dex-1.0
-weapon_special,"15,16",shot_type,42,重射,Heavy,mhxx-dex-1.0
-attribute_type,7-20,dex,1,火,Fire,mhxx-dex-1.0
-attribute_type,7-20,dex,2,水,Wat,mhxx-dex-1.0
-attribute_type,7-20,dex,3,雷,Thun,mhxx-dex-1.0
-attribute_type,7-20,dex,4,冰,Ice,mhxx-dex-1.0
-attribute_type,7-20,dex,5,龙,Dra,mhxx-dex-1.0
-attribute_type,7-20,dex,6,毒,Pois,mhxx-dex-1.0
-attribute_type,7-20,dex,7,麻,Para,mhxx-dex-1.0
-attribute_type,7-20,dex,8,眠,Sleep,mhxx-dex-1.0
-attribute_type,7-20,dex,9,爆破,Blast,mhxx-dex-1.0
+weapon_special,"15,21",phial,1,强击瓶,Power,mhxx-dex-1.0
+weapon_special,"15,21",phial,2,麻痹瓶,Para,mhxx-dex-1.0
+weapon_special,"15,21",phial,3,毒瓶,Poison,mhxx-dex-1.0
+weapon_special,"15,21",phial,4,灭龙瓶,Dragon,mhxx-dex-1.0
+weapon_special,"15,21",phial,5,强属性瓶,Element,mhxx-dex-1.0
+weapon_special,"15,21",phial,6,减气瓶,Exhaust,mhxx-dex-1.0
+weapon_special,"15,21",phial,7,榴弹瓶,Impact,mhxx-dex-1.0
+weapon_special,17,arc_type,1,放射型,Wide,mhxx-dex-1.0
+weapon_special,17,arc_type,2,集中型,Focus,mhxx-dex-1.0
+weapon_special,17,arc_type,3,爆裂型,Blast,mhxx-dex-1.0
+weapon_special,17,arc_type,4,刚射型,Power,mhxx-dex-1.0
+weapon_special,"11,13",recoil,1,小,Low,mhxx-dex-1.0
+weapon_special,"11,13",recoil,2,较小,Some,mhxx-dex-1.0
+weapon_special,"11,13",recoil,3,中,Avg.,mhxx-dex-1.0
+weapon_special,"11,13",recoil,4,大,High,mhxx-dex-1.0
+weapon_special,"11,13",reload_speed,1,极快,V. Fast,mhxx-dex-1.0
+weapon_special,"11,13",reload_speed,2,较快,Abv.Avg,mhxx-dex-1.0
+weapon_special,"11,13",reload_speed,3,普通,Average,mhxx-dex-1.0
+weapon_special,"11,13",reload_speed,4,较慢,Bel.Avg,mhxx-dex-1.0
+weapon_special,"11,13",reload_speed,5,极慢,V. Slow,mhxx-dex-1.0
+weapon_special,"11,13",deviation,0,无,-,mhxx-dex-1.0
+weapon_special,"11,13",deviation,1,左右/小,LR Mild,mhxx-dex-1.0
+weapon_special,"11,13",deviation,2,左右/大,LR Severe,mhxx-dex-1.0
+weapon_special,"11,13",deviation,3,左/小,L Mild,mhxx-dex-1.0
+weapon_special,"11,13",deviation,4,左/大,L Severe,mhxx-dex-1.0
+weapon_special,"11,13",deviation,5,右/小,R Mild,mhxx-dex-1.0
+weapon_special,"11,13",deviation,6,右/大,R Severe,mhxx-dex-1.0
+weapon_special,19,song_category,1,攻击类,Offensive,mhxx-dex-1.0
+weapon_special,19,song_category,2,防御类,Defensive,mhxx-dex-1.0
+weapon_special,19,song_category,3,保护类,Protection,mhxx-dex-1.0
+weapon_special,19,song_category,4,回复类,Healing,mhxx-dex-1.0
+weapon_special,19,song_category,5,自身类,User-only,mhxx-dex-1.0
+weapon_special,19,song_category,6,其他类,Other,mhxx-dex-1.0
+kinsect,20,damage_type,1,切断,Cutting,mhxx-dex-1.0
+kinsect,20,damage_type,2,打击,Blunt,mhxx-dex-1.0
+weapon_special,13,rapid_fire_gap,1,小,Low,mhxx-dex-1.0
+weapon_special,13,rapid_fire_gap,2,中,Avg.,mhxx-dex-1.0
+weapon_special,13,rapid_fire_gap,3,大,High,mhxx-dex-1.0
+weapon_special,13,rapid_fire_gap,4,特大,V.High,mhxx-dex-1.0
+weapon_special,19,recital_effect,1,自身移动速度强化,Movement Speed Up,mhxx-dex-1.0
+weapon_special,19,recital_effect,2,攻击不再弹开,Attack Deflection Prevention,mhxx-dex-1.0
+weapon_special,19,recital_effect,3,攻击力强化【小】,Attack +10%,mhxx-dex-1.0
+weapon_special,19,recital_effect,4,攻击力强化【大】,Attack +15%,mhxx-dex-1.0
+weapon_special,19,recital_effect,5,攻击力进一步强化,Attack +5%,mhxx-dex-1.0
+weapon_special,19,recital_effect,6,防御力强化【小】,Defense +10%,mhxx-dex-1.0
+weapon_special,19,recital_effect,7,防御力强化【大】,Defense +15%,mhxx-dex-1.0
+weapon_special,19,recital_effect,8,防御力进一步强化,Defense +5%,mhxx-dex-1.0
+weapon_special,19,recital_effect,9,攻击力&防御力强化【小】,Att. & Def. +10%,mhxx-dex-1.0
+weapon_special,19,recital_effect,10,攻击力&防御力进一步强化,Att. & Def. +5%,mhxx-dex-1.0
+weapon_special,19,recital_effect,11,体力增加【小】,Max Health +30,mhxx-dex-1.0
+weapon_special,19,recital_effect,12,体力增加【大】,Max Health +50,mhxx-dex-1.0
+weapon_special,19,recital_effect,13,回复速度【小】,Recovery Speed Up (S),mhxx-dex-1.0
+weapon_special,19,recital_effect,14,回复速度【大】,Recovery Speed Up (L),mhxx-dex-1.0
+weapon_special,19,recital_effect,15,体力回复【小】,Health Recovery (S),mhxx-dex-1.0
+weapon_special,19,recital_effect,16,体力回复【小】&解毒,Health Rec. (S) + Ant.,mhxx-dex-1.0
+weapon_special,19,recital_effect,17,体力回复【中】&解毒,Health Rec. (M) + Ant.,mhxx-dex-1.0
+weapon_special,19,recital_effect,18,体力回复【中】&除臭,Health Rec. (M) + Deod.,mhxx-dex-1.0
+weapon_special,19,recital_effect,19,体力回复【大】,Health Recovery (L),mhxx-dex-1.0
+weapon_special,19,recital_effect,20,火耐性强化【小】&火异常【小】无效,Fire Res +5 + Fireblight Reduced,mhxx-dex-1.0
+weapon_special,19,recital_effect,21,火耐性强化【大】&火异常完全无效,Fire Res +7 + Fireblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,22,火耐性进一步强化&火异常完全无效,Fire Res +7 + Fireblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,23,水耐性强化【小】&水异常【小】无效,Water Res +5 + Waterblight Reduced,mhxx-dex-1.0
+weapon_special,19,recital_effect,24,水耐性强化【大】&水异常完全无效,Water Res +7 + Waterblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,25,水耐性进一步强化&水异常完全无效,Water Res +7 + Waterblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,26,雷耐性强化【小】&雷异常【小】无效,Thunder Res +5 + Thunderblight Reduced,mhxx-dex-1.0
+weapon_special,19,recital_effect,27,雷耐性强化【大】&雷异常完全无效,Thunder Res +7 + Thunderblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,28,雷耐性进一步强化&雷异常完全无效,Thunder Res +7 + Thunderblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,29,冰耐性强化【小】&冰异常【小】无效,Ice Res +5 + Iceblight Reduced,mhxx-dex-1.0
+weapon_special,19,recital_effect,30,冰耐性强化【大】&冰异常完全无效,Ice Res +7 + Iceblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,31,冰耐性进一步强化&冰异常完全无效,Ice Res +7 + Iceblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,32,龙耐性强化【小】&龙异常【小】无效,Dragon Res +5 + Dragonblight Reduced,mhxx-dex-1.0
+weapon_special,19,recital_effect,33,龙耐性强化【大】&龙异常完全无效,Dragon Res +7 + Dragonblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,34,龙耐性进一步强化&龙异常完全无效,Dragon Res +7 + Dragonblight Immune,mhxx-dex-1.0
+weapon_special,19,recital_effect,35,麻痹无效,Negate Paralysis,mhxx-dex-1.0
+weapon_special,19,recital_effect,36,昏厥无效,Negate Stun,mhxx-dex-1.0
+weapon_special,19,recital_effect,37,耐雪人状态,Bind Res,mhxx-dex-1.0
+weapon_special,19,recital_effect,38,精灵王的加护,Divine Protection,mhxx-dex-1.0
+weapon_special,19,recital_effect,39,耐震,Tremor Res,mhxx-dex-1.0
+weapon_special,19,recital_effect,40,炎热无效,Negate Heat,mhxx-dex-1.0
+weapon_special,19,recital_effect,41,寒冷无效,Negate Cold,mhxx-dex-1.0
+weapon_special,19,recital_effect,42,听觉保护【小】,Hearing Protection (S),mhxx-dex-1.0
+weapon_special,19,recital_effect,43,听觉保护【大】,HG Earplugs Effect Activated,mhxx-dex-1.0
+weapon_special,19,recital_effect,44,风压减轻,Wind Pressure Reduced,mhxx-dex-1.0
+weapon_special,19,recital_effect,45,风压无效,Wind Pressure Negated,mhxx-dex-1.0
+weapon_special,19,recital_effect,46,听觉保护【小】&风压减轻,Hearing Protection (S) + Wind Pressure Reduced,mhxx-dex-1.0
+weapon_special,19,recital_effect,47,听觉保护【大】&风压无效,HG Earplugs Effect Activated + Wind Pressure Negated,mhxx-dex-1.0
+weapon_special,19,recital_effect,48,全属性耐性强化,All Elemental Res +5,mhxx-dex-1.0
+weapon_special,19,recital_effect,49,全属性耐性进一步强化,All Elemental Res +10,mhxx-dex-1.0
+weapon_special,19,recital_effect,50,属性异常无效,Blightproof,mhxx-dex-1.0
+weapon_special,19,recital_effect,51,全状态异常无效,Negate Abnormal Stat.,mhxx-dex-1.0
+weapon_special,19,recital_effect,52,属性攻击力强化,Elemental Attack +8%,mhxx-dex-1.0
+weapon_special,19,recital_effect,53,属性攻击力进一步强化,Elemental Attack +10%,mhxx-dex-1.0
+weapon_special,19,recital_effect,54,状态异常攻击强化,Abnormal Status Attack +10%,mhxx-dex-1.0
+weapon_special,19,recital_effect,55,状态异常攻击进一步强化,Abnormal Status Attack +15%,mhxx-dex-1.0
+weapon_special,19,recital_effect,56,会心率UP&体力回复【小】,Affinity +15 + Health Rec. (S),mhxx-dex-1.0
+weapon_special,19,recital_effect,57,会心率进一步UP&体力回复【小】,Affinity +20 + Health Rec. (S),mhxx-dex-1.0
+weapon_special,19,recital_effect,58,耐力减少无效【小】,Negate Stamina Use (S),mhxx-dex-1.0
+weapon_special,19,recital_effect,59,耐力减少无效【大】,Negate Stamina Use (L),mhxx-dex-1.0
+weapon_special,19,recital_effect,60,耐力减少无效延长,Negate Stamina Use (S) Extended,mhxx-dex-1.0
+weapon_special,19,recital_effect,61,千里眼,Psychic,mhxx-dex-1.0
+weapon_special,19,recital_effect,62,高频发生,High-Frequency Waves Emitted,mhxx-dex-1.0
+weapon_special,19,recital_effect,63,硬直无效,Negate Knockback,mhxx-dex-1.0
+weapon_special,19,recital_effect,64,全旋律效果延长,Finale,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,1,通常1,Normal Lv1,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,2,通常2,Normal Lv2,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,3,通常3,Normal Lv3,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,4,通常4,Normal Lv4,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,5,通常5,Normal Lv5,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,6,扩散1,Wide Lv1,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,7,扩散2,Wide Lv2,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,8,扩散3,Wide Lv3,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,9,扩散4,Wide Lv4,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,10,扩散5,Wide Lv5,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,11,放射1,Long Lv1,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,12,放射2,Long Lv2,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,13,放射3,Long Lv3,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,14,放射4,Long Lv4,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,15,放射5,Long Lv5,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,16,贯穿1,Pierce Lv1,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,17,贯穿2,Pierce Lv2,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,18,贯穿3,Pierce Lv3,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,19,贯穿4,Pierce Lv4,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,20,贯穿5,Pierce Lv5,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,21,连射1,Rapid Lv1,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,22,连射2,Rapid Lv2,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,23,连射3,Rapid Lv3,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,24,连射4,Rapid Lv4,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,25,连射5,Rapid Lv5,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,26,扩散1,Spread Lv1,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,27,扩散2,Spread Lv2,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,28,扩散3,Spread Lv3,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,29,扩散4,Spread Lv4,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,30,扩散5,Spread Lv5,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,31,重射1,Heavy Lv1,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,32,重射2,Heavy Lv2,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,33,重射3,Heavy Lv3,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,34,重射4,Heavy Lv4,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,35,重射5,Heavy Lv5,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,36,通常,Normal,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,37,扩散,Wide,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,38,放射,Long,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,39,贯穿,Pierce,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,40,连射,Rapid,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,41,扩散,Spread,mhxx-dex-1.0
+weapon_special,"16,17",shot_type,42,重射,Heavy,mhxx-dex-1.0
+attribute_type,7-21,dex,1,火,Fire,mhxx-dex-1.0
+attribute_type,7-21,dex,2,水,Wat,mhxx-dex-1.0
+attribute_type,7-21,dex,3,雷,Thun,mhxx-dex-1.0
+attribute_type,7-21,dex,4,冰,Ice,mhxx-dex-1.0
+attribute_type,7-21,dex,5,龙,Dra,mhxx-dex-1.0
+attribute_type,7-21,dex,6,毒,Pois,mhxx-dex-1.0
+attribute_type,7-21,dex,7,麻,Para,mhxx-dex-1.0
+attribute_type,7-21,dex,8,眠,Sleep,mhxx-dex-1.0
+attribute_type,7-21,dex,9,爆破,Blast,mhxx-dex-1.0
 palico_weapon,1,balance,1,平衡,Balanced,mhxx-dex-1.0
 palico_weapon,1,balance,2,近战特化,Close Range,mhxx-dex-1.0
 palico_weapon,1,balance,3,回力标特化,Boomerang,mhxx-dex-1.0

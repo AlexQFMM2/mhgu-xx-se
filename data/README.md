@@ -13,6 +13,10 @@ files by hand.
 - `en/` uses English names in both `name` and `english`.
 - Equipment crosswalks no longer assign IDs: they attach Dex metadata to the
   game array index and fail generation on any Japanese-name mismatch.
+- `weapon_level_slots.csv` comes directly from all fourteen native
+  `weaponXXLevelData` tables. It records both the zero-based save level and the
+  one-based displayed level. `decorations.csv` records native jewel slot cost;
+  `-1` marks extra DUMMY IDs absent from `decoData`.
 - MHGU has no MH4G-style relic equipment, so no relic-only fields are emitted.
 - Palico weapons/head/body armor come from Dex. Support-move names are reviewed
   against the linked Bahamut MHXX article and Axibug wiki; passive-skill names
@@ -31,9 +35,9 @@ files by hand.
 Rebuild and validate:
 
 ```bash
-python3 tools/export_game_names.py /path/to/extracted/romfs/table /tmp/mhxx-game-names.json
-python3 tools/build_data.py --input /path/to/mhxx-dex-raw --game-names /tmp/mhxx-game-names.json --output data
-python3 tools/validate_data.py data --game-names /tmp/mhxx-game-names.json
+python3 tools/export_game_names.py /path/to/extracted/romfs/table /tmp/mhxx-game-resources.json
+python3 tools/build_data.py --input /path/to/mhxx-dex-raw --game-names /tmp/mhxx-game-resources.json --output data
+python3 tools/validate_data.py data --game-names /tmp/mhxx-game-resources.json
 ```
 
 Create the raw dump on 32-bit-capable Windows first:

@@ -51,6 +51,7 @@ QString GameData::findDataRoot() const
 bool GameData::load(const QString &language)
 {
     m_tables.clear();
+    m_weaponLevelSlots.clear();
     m_patterns.clear();
     m_forteGrants.clear();
     m_language = language == QStringLiteral("en") ? QStringLiteral("en") : QStringLiteral("cn");
@@ -112,6 +113,19 @@ bool GameData::loadTable(const QString &path, const QString &table)
         }
         return true;
     }
+    if (table == QStringLiteral("weapon_level_slots")) {
+        while (!stream.atEnd()) {
+            const QStringList fields = parseCsvLine(stream.readLine());
+            if (fields.size() < header.size()) continue;
+            const int type = fields.value(columns.value(QStringLiteral("equipment_type"), -1)).toInt();
+            const int weaponId = fields.value(columns.value(QStringLiteral("weapon_id"), -1)).toInt();
+            const int saveLevel = fields.value(columns.value(QStringLiteral("save_level"), -1)).toInt();
+            const int slotCount = fields.value(columns.value(QStringLiteral("slots"), -1)).toInt();
+            const quint32 key = (quint32(type) << 24) | (quint32(weaponId) << 8) | quint32(saveLevel);
+            m_weaponLevelSlots.insert(key, slotCount);
+        }
+        return true;
+    }
     if (!columns.contains(QStringLiteral("id"))) return true;
     QMap<int, GameDataEntry> rows;
     while (!stream.atEnd()) {
@@ -130,6 +144,8 @@ bool GameData::loadTable(const QString &path, const QString &table)
         entry.rarity = value(QStringLiteral("rarity")).toInt();
         entry.maxLevel = value(QStringLiteral("max_level")).toInt();
         entry.generationTier = value(QStringLiteral("generation_tier")).toInt();
+        if (columns.contains(QStringLiteral("slot_cost")))
+            entry.slotCost = value(QStringLiteral("slot_cost")).toInt();
         rows.insert(entry.id, entry);
     }
     m_tables.insert(table, rows);
@@ -170,13 +186,39 @@ QString GameData::equipmentTable(int type) const
         {5, QStringLiteral("armor_legs")}, {6, QStringLiteral("talismans")},
         {7, QStringLiteral("weapon_great_sword")}, {8, QStringLiteral("weapon_sword_and_shield")},
         {9, QStringLiteral("weapon_hammer")}, {10, QStringLiteral("weapon_lance")},
-        {11, QStringLiteral("weapon_light_bowgun")}, {12, QStringLiteral("weapon_heavy_bowgun")},
-        {13, QStringLiteral("weapon_long_sword")}, {14, QStringLiteral("weapon_switch_axe")},
-        {15, QStringLiteral("weapon_gunlance")}, {16, QStringLiteral("weapon_bow")},
-        {17, QStringLiteral("weapon_dual_blades")}, {18, QStringLiteral("weapon_hunting_horn")},
-        {19, QStringLiteral("weapon_insect_glaive")}, {20, QStringLiteral("weapon_charge_blade")}
+        {11, QStringLiteral("weapon_heavy_bowgun")}, {13, QStringLiteral("weapon_light_bowgun")},
+        {14, QStringLiteral("weapon_long_sword")}, {15, QStringLiteral("weapon_switch_axe")},
+        {16, QStringLiteral("weapon_gunlance")}, {17, QStringLiteral("weapon_bow")},
+        {18, QStringLiteral("weapon_dual_blades")}, {19, QStringLiteral("weapon_hunting_horn")},
+        {20, QStringLiteral("weapon_insect_glaive")}, {21, QStringLiteral("weapon_charge_blade")}
     };
     return tables.value(type);
+}
+
+int GameData::weaponSlots(int type, int weaponId, int saveLevel, bool *found) const
+{
+    const quint32 key = (quint32(type) << 24) | (quint32(weaponId) << 8) | quint32(saveLevel);
+    const auto it = m_weaponLevelSlots.constFind(key);
+    if (found) *found = it != m_weaponLevelSlots.constEnd();
+    return it == m_weaponLevelSlots.constEnd() ? 0 : it.value();
+}
+
+int GameData::decorationSlotCost(int itemId, bool *found) const
+{
+    if (itemId == 0) {
+        if (found) *found = true;
+        return 0;
+    }
+    const auto table = m_tables.constFind(QStringLiteral("decorations"));
+    if (table == m_tables.constEnd()) {
+        if (found) *found = false;
+        return 0;
+    }
+    const QMap<int, GameDataEntry> &rows = table.value();
+    const auto it = rows.constFind(itemId);
+    const bool valid = it != rows.constEnd() && it.value().slotCost >= 0;
+    if (found) *found = valid;
+    return valid ? it.value().slotCost : 0;
 }
 
 QString GameData::palicoEquipmentTable(int rawType) const

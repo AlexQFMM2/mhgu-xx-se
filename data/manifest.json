@@ -28,17 +28,17 @@
     {
       "path": "cn/decorations.csv",
       "rows": 263,
-      "sha256": "03d4466b14ca22cfa2fb070f03a45407ac04c8c6a61e234f8a908dfd9277285f"
+      "sha256": "a0c31cd05fb6c7b6a09b261fe81c67130825a186ae3de110d8e13066eddcb7f9"
     },
     {
       "path": "cn/equipment_lookups.csv",
       "rows": 157,
-      "sha256": "6d7a827b45fc52a4f6f9f940df46b38c9d07dc45001af8008f82b382fa60364c"
+      "sha256": "c6d0de1723f4c6d35a0095fc5a74b955bbfb2032f3f18659280684f654a73646"
     },
     {
       "path": "cn/equipment_types.csv",
       "rows": 21,
-      "sha256": "99d07c0151e88a8a3bb7add821e47c12031993c6bc663c6141e3bd2e630157bd"
+      "sha256": "20628ea3f6022db026c6266482546cfaf8630cb167dcfcf9e332944e3f512e38"
     },
     {
       "path": "cn/items.csv",
@@ -156,6 +156,11 @@
       "sha256": "15e0acbb424138f50632e32eb4ee619e81a5a8f5d018d6ff27d6d7876381f7e2"
     },
     {
+      "path": "cn/weapon_level_slots.csv",
+      "rows": 10925,
+      "sha256": "9a83b40b2554939c77ca1f3a3a64f184b89e3b613bbdc24148679585f468e048"
+    },
+    {
       "path": "cn/weapon_light_bowgun.csv",
       "rows": 110,
       "sha256": "7f3329bce64e8142adac449a694211279c47053a51e14e3c2a1e508a3cc9532d"
@@ -203,17 +208,17 @@
     {
       "path": "en/decorations.csv",
       "rows": 263,
-      "sha256": "4b0887cbe11b872fc464fd0b09ae177fd0a3a9ccaedbcdce609ee110cc65ad4e"
+      "sha256": "5592ba6ee771f4a64ea58d2253421fa067ba3b2b7b970d70a72af5340419178a"
     },
     {
       "path": "en/equipment_lookups.csv",
       "rows": 157,
-      "sha256": "009134c253547460fde49cec82dcfb4548f6e8a61d9cb2b4d5cd1676912493e4"
+      "sha256": "557588a17f1f045063c18ed134695981e60ca7d4e35c4dab9f10ec8563d33a8c"
     },
     {
       "path": "en/equipment_types.csv",
       "rows": 21,
-      "sha256": "99ddefb31a2274f11572942ff1f890723a4eb8911f7bcb779dddfc9c72847f90"
+      "sha256": "07db8fa3bfc62c3e200faee29387b49cd77d8570e31e8dd1f535df49dd170fa0"
     },
     {
       "path": "en/items.csv",
@@ -331,6 +336,11 @@
       "sha256": "822e8a826419ba087a420d201bdfe9cf5c6b707f9af665d03adf2c0f3945aff3"
     },
     {
+      "path": "en/weapon_level_slots.csv",
+      "rows": 10925,
+      "sha256": "9a83b40b2554939c77ca1f3a3a64f184b89e3b613bbdc24148679585f468e048"
+    },
+    {
       "path": "en/weapon_light_bowgun.csv",
       "rows": 110,
       "sha256": "bfb8a830074e9fb187a5ed9630c2bb798cac23c5e4e25eae3a9574d57d592a4a"
@@ -353,9 +363,13 @@
   ],
   "format": "mhxx-save-editor-data-v1",
   "game_resource": {
-    "export_sha256": "ec0f873a59cef0dbc307c8befafb3b6e2c9c94b3c80f0924c0f8a89dc9310e0d",
-    "format": "mhxx-game-name-export-v1",
+    "export_sha256": "a4bc9d0a92365a2442fdd8dc9b6242d6b52eb686ddf0418ee8fa5134957dbccb",
+    "format": "mhxx-game-resource-export-v2",
     "language": "jp",
+    "rules": {
+      "decoration_slot_costs": 251,
+      "weapon_level_slots": 10925
+    },
     "sources": [
       {
         "file": "armorSeriesData.asd",
@@ -366,6 +380,11 @@
         "file": "armorSeriesData_jpn.gmd",
         "sha256": "744589d8d8588d96c339f64c92894dd1d2118e4eabe8e1648deec131215a2b6b",
         "size": 852442
+      },
+      {
+        "file": "decoData.deco",
+        "sha256": "536ade71394a5cbd2310d80f4405b1c546f3734e14843c60e20ceccb9cecef23",
+        "size": 1263
       },
       {
         "file": "itemData.itm",
@@ -398,6 +417,11 @@
         "size": 77804
       },
       {
+        "file": "weapon00LevelData.w00d",
+        "sha256": "6c7661e785481ed167fa024864810f58b950d9e9fb466082694e5b2f368d2cce",
+        "size": 14393
+      },
+      {
         "file": "weapon00MsgData.w00m",
         "sha256": "523094adfe954ea87baace280634275daf907d269f34643c9b6b577be3cca8a9",
         "size": 556
@@ -406,6 +430,11 @@
         "file": "weapon00MsgData_jpn.gmd",
         "sha256": "d2970d05b7c3af21834e4133d44f741fa824d5bf87602efdcf72e5e6a4ad35f4",
         "size": 64446
+      },
+      {
+        "file": "weapon01LevelData.w01d",
+        "sha256": "c6f23d6c607b13daea27c58e6c22346191f6d1484d5c79eee2cc54f7e58ae2e1",
+        "size": 13178
       },
       {
         "file": "weapon01MsgData.w01m",
@@ -418,6 +447,11 @@
         "size": 60373
       },
       {
+        "file": "weapon02LevelData.w02d",
+        "sha256": "a3a920841a0687650427657162b83bac0d78abb1778ede7c4862bf66d8c45f10",
+        "size": 13298
+      },
+      {
         "file": "weapon02MsgData.w02m",
         "sha256": "72aa195a2b357e1fd0a981d753e09713fa4ea9a9c52bd048dffbdb7e32a29950",
         "size": 536
@@ -426,6 +460,11 @@
         "file": "weapon02MsgData_jpn.gmd",
         "sha256": "2b03153fdef89eeed4bebe728cf8d02799407bf706aeb7bb5b8ee0334d6f8b2d",
         "size": 61731
+      },
+      {
+        "file": "weapon03LevelData.w03d",
+        "sha256": "d04cde7810691119544125e176a9e2c43b66c89250a56c3cb88089c22eb0da8e",
+        "size": 12878
       },
       {
         "file": "weapon03MsgData.w03m",
@@ -438,6 +477,11 @@
         "size": 59228
       },
       {
+        "file": "weapon04LevelData.w04d",
+        "sha256": "da122bfec767eba9cef12fac7c8e9f250f18075c9d07ac57289105569e811451",
+        "size": 71908
+      },
+      {
         "file": "weapon04MsgData.w04m",
         "sha256": "864d92e6213cfe0dcdbed76587708794c167ffcbc47e17abcbea48af0b99aada",
         "size": 444
@@ -446,6 +490,11 @@
         "file": "weapon04MsgData_jpn.gmd",
         "sha256": "1c2eb250ef3d6abdd2812761069c6bbcc0ef3ed6f28ab2c9d639e6990258a1fc",
         "size": 51523
+      },
+      {
+        "file": "weapon06LevelData.w06d",
+        "sha256": "060844eebe1071a1e4b4a71df3a02f692290fd31b5400edf1858340de2807a4a",
+        "size": 70408
       },
       {
         "file": "weapon06MsgData.w06m",
@@ -458,6 +507,11 @@
         "size": 51653
       },
       {
+        "file": "weapon07LevelData.w07d",
+        "sha256": "d8d958559feb2d134b218308f3989541bf166c96ed4662d61418d34ac030dac6",
+        "size": 13148
+      },
+      {
         "file": "weapon07MsgData.w07m",
         "sha256": "01af7f0eaf365fbc41f98637218e5b9a15603619efcca94d92c029f216898339",
         "size": 516
@@ -466,6 +520,11 @@
         "file": "weapon07MsgData_jpn.gmd",
         "sha256": "efbeebd17f65692bac723042912d15a752776e3ae6fa1fe69c7ed200613c420a",
         "size": 58928
+      },
+      {
+        "file": "weapon08LevelData.w08d",
+        "sha256": "41e0163015576f2987d2e450e52e6e686083341b58fd773e809311852774cf81",
+        "size": 13098
       },
       {
         "file": "weapon08MsgData.w08m",
@@ -478,6 +537,11 @@
         "size": 52343
       },
       {
+        "file": "weapon09LevelData.w09d",
+        "sha256": "480d577822c1d498cce392fc80acfe14d8e8b97feabcbf6617bba12df6fb268e",
+        "size": 12968
+      },
+      {
         "file": "weapon09MsgData.w09m",
         "sha256": "21fc163925277f0f157b14a8f09ccf0c9aad1122d6424fa87ac68bde198d9322",
         "size": 468
@@ -486,6 +550,11 @@
         "file": "weapon09MsgData_jpn.gmd",
         "sha256": "5a2e386177bb9b51b084fe77d4da25b9dbfb940ff5be590829f62e2263c9e3df",
         "size": 54520
+      },
+      {
+        "file": "weapon10LevelData.w10d",
+        "sha256": "952fd35353680721b9ff9733e92fdbfe61a1f04bffe045945c59603ff46db6fb",
+        "size": 22824
       },
       {
         "file": "weapon10MsgData.w10m",
@@ -498,6 +567,11 @@
         "size": 50073
       },
       {
+        "file": "weapon11LevelData.w11d",
+        "sha256": "1ef3169bbbf47f8ec9994b143852ee6c0b247a7b735d1de0ee3e182b35ea782b",
+        "size": 14373
+      },
+      {
         "file": "weapon11MsgData.w11m",
         "sha256": "878ca35ca14d1c8b70a2e5f79e00c00955a3eddd7ef24749f186b36e62c0227e",
         "size": 512
@@ -506,6 +580,11 @@
         "file": "weapon11MsgData_jpn.gmd",
         "sha256": "a828f3490d4b7509951c8b8f23c639189d5a544e67c4d88e2b4929e1c2290c86",
         "size": 59612
+      },
+      {
+        "file": "weapon12LevelData.w12d",
+        "sha256": "8ebb64ea5630a783e0d50ba923456570166353ace9d5356f798a7fd5e25df837",
+        "size": 12840
       },
       {
         "file": "weapon12MsgData.w12m",
@@ -518,6 +597,11 @@
         "size": 53125
       },
       {
+        "file": "weapon13LevelData.w13d",
+        "sha256": "42b7ffafe6071495fe04f93eabf47a61c0555e51638dc937f46b9dff83761b91",
+        "size": 8228
+      },
+      {
         "file": "weapon13MsgData.w13m",
         "sha256": "9347863621dab0556701d736d210ee5ab4ec5bd3ab4b1203f7462bc3cf260aab",
         "size": 340
@@ -526,6 +610,11 @@
         "file": "weapon13MsgData_jpn.gmd",
         "sha256": "8a428eaef09b33cf5eecc9780324e31a4b07433efaaa72ca3f842dc6863efa73",
         "size": 39083
+      },
+      {
+        "file": "weapon14LevelData.w14d",
+        "sha256": "46fe21a7d0b0cdd444e5095808fcbdca4bf47eed4a6722e87f0580eb10190215",
+        "size": 9086
       },
       {
         "file": "weapon14MsgData.w14m",
@@ -564,7 +653,7 @@
       "weapon_sword_and_shield": 129
     }
   },
-  "generator_version": "2.0.0",
+  "generator_version": "2.1.0",
   "sources": {
     "dex_dump_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
     "mhxx_dex_exe_sha256": "5e0508b80b02565c5c7217861c315911878896567b07659631c34b7f7dae46c7",
