@@ -46,6 +46,7 @@ private:
     bool m_uiDirty = false;
     QLabel *m_status = nullptr;
     QLabel *m_pageTitle = nullptr;
+    QLabel *m_subtitle = nullptr;
     QPushButton *m_characterButton = nullptr;
     QPushButton *m_itemsButton = nullptr;
     QPushButton *m_equipmentButton = nullptr;

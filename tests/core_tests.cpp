@@ -1,5 +1,6 @@
 #include "mhgu_save.hpp"
 #include "game_data.hpp"
+#include "transfer_forms.hpp"
 
 #include <QCoreApplication>
 #include <QDir>
@@ -49,14 +50,31 @@ void require(bool condition, const char *message)
     }
 }
 
-QByteArray syntheticSystem()
+bool changesOnlyIn(const QByteArray &before, const QByteArray &after, int offset, int length)
 {
-    QByteArray bytes(int(MhguSave::FileSize), char(0));
-    const quint32 bases[] = {0x1000, 0x140000, 0x280000};
+    if (before.size() != after.size()) return false;
+    for (int i = 0; i < before.size(); ++i)
+        if (before[i] != after[i] && (i < offset || i >= offset + length)) return false;
+    return true;
+}
+
+std::array<quint32, 3> syntheticBases(MhguSaveFormat format)
+{
+    if (format == MhguSaveFormat::Mhxx3ds) return {{0x126474, 0x244C34, 0x3633F4}};
+    return {{0x18CC78, 0x2AC53C, 0x3CBE00}};
+}
+
+QByteArray syntheticSystem(MhguSaveFormat format = MhguSaveFormat::MhguNsRaw)
+{
+    const qint64 size = format == MhguSaveFormat::Mhxx3ds ? MhguSave::MhxxFileSize : MhguSave::MhguFileSize;
+    QByteArray bytes(int(size), char(0));
+    const std::array<quint32, 3> bases = syntheticBases(format);
     const QString names[] = {QStringLiteral("Slot One"), QStringLiteral("存档二"), QStringLiteral("Slot Three")};
+    write32(bytes, 0, 0xC6);
+    write32(bytes, 0x08, 0x1C);
     for (int i = 0; i < 3; ++i) {
         bytes[0x04 + i] = 1;
-        write32(bytes, 0x10 + i * 4, bases[i]);
+        write32(bytes, 0x10 + i * 4, bases[size_t(i)]);
         writeString(bytes, int(bases[i] + 0x23B7D), 32, names[i]);
         write32(bytes, int(bases[i] + 0x20), 3600u * quint32(i + 1));
         write32(bytes, int(bases[i] + 0x24), 1000u * quint32(i + 1));
@@ -206,6 +224,8 @@ int main(int argc, char **argv)
     const QByteArray original = syntheticSystem();
     require(writeFile(path, original), "write synthetic system");
     require(save.open(path), "open synthetic system");
+    require(save.format() == MhguSaveFormat::MhguNsRaw && save.formatName().contains(QStringLiteral("MHGU")),
+            "detect raw MHGU system");
     require(!save.setPalico(0, regularCat(false, 6, 6)), "Palico write requires a selected slot");
     const QVector<MhguSlotInfo> slotList = save.slotInfos();
     require(slotList.size() == 3 && slotList[0].name == QStringLiteral("Slot One"), "parse slot one");
@@ -213,12 +233,18 @@ int main(int argc, char **argv)
     require(save.selectSlot(1), "select second slot");
     require(save.character().money == 2000 && save.character().playTime == 7200, "parse character fields");
     QByteArray invalidSystem = original;
-    write32(invalidSystem, 0x14, quint32(MhguSave::FileSize - 8));
+    write32(invalidSystem, 0x14, quint32(MhguSave::MhguFileSize - 8));
     const QString invalidPath = temp.filePath(QStringLiteral("invalid-system"));
     require(writeFile(invalidPath, invalidSystem), "write invalid full-size system");
     require(!save.open(invalidPath), "reject invalid full-size system");
     require(save.isOpen() && save.path() == path && save.selectedSlot() == 1
             && save.character().money == 2000, "failed open preserves current system and slot");
+    QByteArray invalidMagic = original;
+    write32(invalidMagic, 0, 0);
+    const QString invalidMagicPath = temp.filePath(QStringLiteral("invalid-magic-system"));
+    require(writeFile(invalidMagicPath, invalidMagic) && !save.open(invalidMagicPath),
+            "reject correct-size file with invalid system marker");
+    require(save.path() == path && save.selectedSlot() == 1, "invalid marker preserves current system");
     require(!save.isDirty(), "clean immediately after open");
     require(save.save(), "save unchanged system");
     require(readFile(path) == original, "unchanged save is byte-identical");
@@ -229,6 +255,7 @@ int main(int argc, char **argv)
     const QString headeredPath = temp.filePath(QStringLiteral("system-headered"));
     require(writeFile(headeredPath, headeredOriginal), "write headered system");
     require(save.open(headeredPath), "open headered system");
+    require(save.format() == MhguSaveFormat::MhguNsHeadered, "detect headered MHGU system");
     require(save.selectSlot(0), "select slot in headered system");
     require(save.save(), "save unchanged headered system");
     require(readFile(headeredPath) == headeredOriginal, "headered unchanged save is byte-identical");
@@ -245,6 +272,54 @@ int main(int argc, char **argv)
     require(save.isOpen() && save.path() == headeredPath && save.character().money == 7654321,
             "rejected backup preserves current headered system");
     require(QFile::remove(backup), "remove synthetic named backup after rejection test");
+
+    const QString xxPath = temp.filePath(QStringLiteral("mhxx-system"));
+    const QByteArray xxOriginal = syntheticSystem(MhguSaveFormat::Mhxx3ds);
+    require(writeFile(xxPath, xxOriginal), "write synthetic MHXX system");
+    MhguSave xxSave;
+    require(xxSave.open(xxPath) && xxSave.format() == MhguSaveFormat::Mhxx3ds,
+            "detect synthetic MHXX 3DS system");
+    require(xxSave.formatName() == QStringLiteral("MHXX（3DS）"), "report MHXX platform name");
+    require(xxSave.selectSlot(1) && xxSave.character().name == QStringLiteral("存档二")
+            && xxSave.character().hunterRank == 11, "parse MHXX slot with common relative offsets");
+    require(xxSave.save() && readFile(xxPath) == xxOriginal, "unchanged MHXX save is byte-identical");
+
+    MhguCharacter xxCharacter = xxSave.character();
+    const QByteArray beforeCharacter = xxSave.bytes();
+    xxCharacter.money = 424242;
+    require(xxSave.setCharacter(xxCharacter), "edit MHXX character");
+    require(changesOnlyIn(beforeCharacter, xxSave.bytes(), 0x244C34 + 0x24, 4),
+            "MHXX character edit changes only money bytes");
+    const QByteArray beforeItems = xxSave.bytes();
+    require(xxSave.setItem(17, MhguItem{1234, 77}), "edit MHXX bit-packed item");
+    require(xxSave.items()[17].id == 1234 && xxSave.items()[17].count == 77,
+            "round-trip MHXX item");
+    require(changesOnlyIn(beforeItems, xxSave.bytes(), 0x244C34 + 0x278, 5463),
+            "MHXX item edit stays in item box");
+    MhguEquipment xxEquipment;
+    xxEquipment.type = 14; xxEquipment.id = 22; xxEquipment.level = 3;
+    const QByteArray beforeEquipment = xxSave.bytes();
+    require(xxSave.setEquipment(0, xxEquipment), "edit MHXX hunter equipment");
+    require(xxSave.equipment(0).type == 14 && xxSave.equipment(0).id == 22,
+            "round-trip MHXX hunter equipment");
+    require(changesOnlyIn(beforeEquipment, xxSave.bytes(), 0x244C34 + 0x62EE, 36),
+            "MHXX hunter equipment edit stays in target record");
+    MhguPalicoEquipment xxCatEquipment;
+    xxCatEquipment.rawType = 22; xxCatEquipment.id = 100; xxCatEquipment.appearanceId = 101;
+    const QByteArray beforeCatEquipment = xxSave.bytes();
+    require(xxSave.setPalicoEquipment(0, xxCatEquipment), "edit MHXX Palico equipment");
+    require(xxSave.palicoEquipment(0).id == 100, "round-trip MHXX Palico equipment");
+    require(changesOnlyIn(beforeCatEquipment, xxSave.bytes(), 0x244C34 + 0x17C2E, 36),
+            "MHXX Palico equipment edit stays in target record");
+    MhguPalico xxCat = regularCat(false, 6, 6);
+    xxCat.name = QStringLiteral("XX Cat");
+    const QByteArray beforeCat = xxSave.bytes();
+    require(xxSave.setPalico(0, xxCat), "edit MHXX Palico record");
+    require(xxSave.palico(0).name == QStringLiteral("XX Cat"), "round-trip MHXX Palico record");
+    require(changesOnlyIn(beforeCat, xxSave.bytes(), 0x244C34 + 0x23BB6, 324),
+            "MHXX Palico edit stays in target record");
+    require(xxSave.save() && readFile(xxPath).size() == MhguSave::MhxxFileSize,
+            "MHXX save keeps original size");
 
     require(save.open(path) && save.selectSlot(1), "return to unheadered system");
 
@@ -276,7 +351,7 @@ int main(int argc, char **argv)
     QString cacheWarning;
     require(save.setEquipment(5, equippedSource, &cacheWarning) && cacheWarning.isEmpty(), "edit unique equipped box source");
     const QByteArray afterCacheSync = save.bytes();
-    const int equippedHead = 0x140000 + 0x110 + 44;
+    const int equippedHead = 0x2AC53C + 0x110 + 44;
     require(quint8(afterCacheSync[equippedHead + 4]) == 99 && quint8(afterCacheSync[equippedHead + 5]) == 0,
             "synchronize uniquely matched equipped cache");
 
@@ -286,6 +361,67 @@ int main(int argc, char **argv)
     palicoEquipment.appearanceId = 502;
     require(save.setPalicoEquipment(0, palicoEquipment), "set Palico equipment");
     require(save.palicoEquipment(0).id == 501, "round-trip Palico equipment");
+
+    const QByteArray itemForm = MhxxGuTransfer::exportItems(save.items());
+    require(itemForm.startsWith("MHXX_GU_TRANSFER,1,ITEM_BOX\r\n"), "versioned item transfer preamble");
+    QVector<MhxxGuTransfer::ItemUpdate> itemUpdates;
+    QString transferError;
+    require(MhxxGuTransfer::parseItems(itemForm, &itemUpdates, &transferError)
+            && itemUpdates.size() == MhguSave::ItemCount, "parse versioned item transfer");
+    QVector<MhguItem> xxImportedItems = xxSave.items();
+    for (const MhxxGuTransfer::ItemUpdate &update : itemUpdates) xxImportedItems[update.index] = update.value;
+    require(xxSave.setItems(xxImportedItems) && xxSave.items()[0].id == save.items()[0].id,
+            "transfer item box GU to XX through logical values");
+    require(MhxxGuTransfer::parseItems(QByteArray("slot,id,count\n2,77,6\n"), &itemUpdates, &transferError)
+            && itemUpdates.size() == 1 && itemUpdates[0].index == 1,
+            "accept legacy unversioned GU item form");
+    require(!MhxxGuTransfer::parseItems(QByteArray("slot,id,count\n2,77,6\n2,88,7\n"),
+                                        &itemUpdates, &transferError),
+            "reject duplicate item transfer slot");
+
+    QVector<MhguEquipmentUpdate> exportHunter;
+    QVector<MhguPalicoEquipmentUpdate> exportPalico;
+    MhguEquipmentUpdate exportHunterRow; exportHunterRow.index = 0; exportHunterRow.value = save.equipment(0);
+    MhguPalicoEquipmentUpdate exportPalicoRow; exportPalicoRow.index = 0; exportPalicoRow.value = save.palicoEquipment(0);
+    exportHunter.push_back(exportHunterRow); exportPalico.push_back(exportPalicoRow);
+    const QByteArray equipmentForm = MhxxGuTransfer::exportEquipment(exportHunter, exportPalico);
+    require(equipmentForm.startsWith("MHXX_GU_TRANSFER,1,EQUIPMENT_BOX\r\n"),
+            "versioned equipment transfer preamble");
+    QVector<MhguEquipmentUpdate> importedHunter;
+    QVector<MhguPalicoEquipmentUpdate> importedPalico;
+    require(MhxxGuTransfer::parseEquipment(equipmentForm, &importedHunter, &importedPalico, &transferError)
+            && importedHunter.size() == 1 && importedPalico.size() == 1,
+            "parse versioned equipment transfer");
+    require(xxSave.setEquipmentBatch(importedHunter, importedPalico)
+            && xxSave.equipment(0).id == save.equipment(0).id
+            && xxSave.palicoEquipment(0).id == save.palicoEquipment(0).id,
+            "transfer equipment GU to XX through logical values");
+    const QByteArray beforeNoOpBatch = xxSave.bytes();
+    require(xxSave.setEquipmentBatch(importedHunter, importedPalico) && xxSave.bytes() == beforeNoOpBatch,
+            "unchanged equipment batch preserves unknown record bytes");
+    const QByteArray legacyEquipment(
+        "domain,slot,type,id,appearance_id,level,decoration_1,decoration_2,decoration_3,skill_1,skill_1_points,skill_2,skill_2_points,talisman_slots\n"
+        "hunter,3,14,10,0,2,0,0,0,0,0,0,0,0\n");
+    require(MhxxGuTransfer::parseEquipment(legacyEquipment, &importedHunter, &importedPalico, &transferError)
+            && importedHunter.size() == 1 && importedHunter[0].index == 2,
+            "accept legacy unversioned GU equipment form");
+    const QByteArray duplicateEquipment = legacyEquipment
+        + QByteArray("hunter,3,14,11,0,2,0,0,0,0,0,0,0,0\n");
+    require(!MhxxGuTransfer::parseEquipment(duplicateEquipment, &importedHunter, &importedPalico, &transferError),
+            "reject duplicate equipment transfer slot");
+    MhguEquipmentUpdate stagedHunter; stagedHunter.index = 8; stagedHunter.value = save.equipment(0);
+    MhguPalicoEquipmentUpdate invalidPalico; invalidPalico.index = MhguSave::PalicoEquipmentCount; invalidPalico.value = palicoEquipment;
+    const QByteArray beforeFailedBatch = save.bytes();
+    require(!save.setEquipmentBatch({stagedHunter}, {invalidPalico}) && save.bytes() == beforeFailedBatch,
+            "failed equipment batch leaves memory byte-identical");
+    MhguEquipment reverseEquipment = xxSave.equipment(0);
+    reverseEquipment.type = 14; reverseEquipment.id = 222;
+    require(xxSave.setEquipment(0, reverseEquipment), "prepare reverse XX equipment transfer");
+    MhguEquipmentUpdate reverseRow; reverseRow.index = 0; reverseRow.value = xxSave.equipment(0);
+    const QByteArray reverseForm = MhxxGuTransfer::exportEquipment({reverseRow}, {});
+    require(MhxxGuTransfer::parseEquipment(reverseForm, &importedHunter, &importedPalico, &transferError)
+            && save.setEquipmentBatch(importedHunter, importedPalico) && save.equipment(0).id == 222,
+            "transfer equipment XX to GU through logical values");
 
     for (int pattern = 0; pattern < 7; ++pattern) {
         const MhguPalico patternCat = regularCat(false, pattern, pattern);
@@ -408,6 +544,32 @@ int main(int argc, char **argv)
         require(unknownEquipment == 0, "all used sample equipment IDs resolve to names");
     }
 
-    std::cout << "All MHGU core tests passed.\n";
+    const int mhxxSampleArg = args.indexOf(QStringLiteral("--mhxx-sample"));
+    if (mhxxSampleArg >= 0 && mhxxSampleArg + 1 < args.size()) {
+        const QByteArray privateMhxxBytes = readFile(args[mhxxSampleArg + 1]);
+        MhguSave privateMhxx;
+        require(privateMhxx.open(args[mhxxSampleArg + 1]), "open private MHXX sample");
+        require(privateMhxx.format() == MhguSaveFormat::Mhxx3ds, "private sample detected as MHXX 3DS");
+        const QVector<MhguSlotInfo> mhxxSlots = privateMhxx.slotInfos();
+        require(mhxxSlots[0].used && mhxxSlots[0].name == QStringLiteral("sdd")
+                && mhxxSlots[0].hunterRank == 0, "private MHXX slot/name/HR");
+        require(!mhxxSlots[1].used && !mhxxSlots[2].used, "private MHXX unused slots");
+        require(privateMhxx.selectSlot(0), "select private MHXX slot");
+        const int weaponTypes[] = {7, 14, 8, 18, 9, 19, 10, 16, 15, 21, 20, 13, 11, 17};
+        for (int i = 0; i < 14; ++i)
+            require(privateMhxx.equipment(i).type == weaponTypes[i] && privateMhxx.equipment(i).id == 1,
+                    "private MHXX starter weapon record");
+        for (int i = 0; i < 5; ++i)
+            require(privateMhxx.equipment(14 + i).type == i + 1 && privateMhxx.equipment(14 + i).id == 3,
+                    "private MHXX starter armor record");
+        const QString privateCopyPath = temp.filePath(QStringLiteral("private-mhxx-system-copy"));
+        require(writeFile(privateCopyPath, privateMhxxBytes), "copy private MHXX sample for save test");
+        MhguSave privateCopy;
+        require(privateCopy.open(privateCopyPath) && privateCopy.selectSlot(0) && privateCopy.save(),
+                "unchanged private MHXX sample save");
+        require(readFile(privateCopyPath) == privateMhxxBytes, "private MHXX no-op save is byte-identical");
+    }
+
+    std::cout << "All MHGU / MHXX core tests passed.\n";
     return 0;
 }

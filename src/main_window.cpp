@@ -19,7 +19,7 @@
 MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
 {
     setObjectName(QStringLiteral("mainSurface"));
-    setWindowTitle(QStringLiteral("MHGU 存档修改器"));
+    setWindowTitle(QStringLiteral("MHGU / MHXX 存档修改器"));
     if (!m_data.load(QStringLiteral("cn")))
         QMessageBox::critical(this, QStringLiteral("数据加载失败"), m_data.error());
 
@@ -35,7 +35,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     auto *navigation = new QVBoxLayout(sidebar);
     navigation->setContentsMargins(18, 24, 18, 20);
     navigation->setSpacing(8);
-    auto *brand = new QLabel(QStringLiteral("MHGU"), sidebar);
+    auto *brand = new QLabel(QStringLiteral("MHGU / MHXX"), sidebar);
     brand->setObjectName(QStringLiteral("sidebarTitle"));
     auto *caption = new QLabel(QStringLiteral("存档修改器"), sidebar);
     caption->setObjectName(QStringLiteral("sidebarCaption"));
@@ -71,10 +71,10 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     auto *heading = new QVBoxLayout;
     m_pageTitle = new QLabel(QStringLiteral("存档管理"), workspace);
     m_pageTitle->setObjectName(QStringLiteral("pageTitle"));
-    auto *subtitle = new QLabel(QStringLiteral("Nintendo Switch · system 三槽存档"), workspace);
-    subtitle->setObjectName(QStringLiteral("appSubtitle"));
+    m_subtitle = new QLabel(QStringLiteral("Nintendo Switch / Nintendo 3DS · system 三槽存档"), workspace);
+    m_subtitle->setObjectName(QStringLiteral("appSubtitle"));
     heading->addWidget(m_pageTitle);
-    heading->addWidget(subtitle);
+    heading->addWidget(m_subtitle);
     header->addLayout(heading);
     header->addStretch();
     workspaceLayout->addLayout(header);
@@ -94,7 +94,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     auto *emptyTitle = new QLabel(QStringLiteral("尚未读取存档"), m_emptyPage);
     emptyTitle->setObjectName(QStringLiteral("emptyTitle"));
     emptyTitle->setAlignment(Qt::AlignCenter);
-    auto *emptyHint = new QLabel(QStringLiteral("点击右下角“读取存档”，选择 system（支持无头或带 36 字节头）。"), m_emptyPage);
+    auto *emptyHint = new QLabel(QStringLiteral("点击右下角“读取存档”，选择 MHXX（3DS）或 MHGU（NS）的 system。"), m_emptyPage);
     emptyHint->setObjectName(QStringLiteral("appSubtitle"));
     emptyHint->setAlignment(Qt::AlignCenter);
     emptyLayout->addWidget(emptyTitle);
@@ -237,8 +237,8 @@ bool MainWindow::maybeLeaveDirty()
 void MainWindow::openFile()
 {
     if (!maybeLeaveDirty()) return;
-    const QString path = QFileDialog::getOpenFileName(this, QStringLiteral("读取 MHGU system"), {},
-        QStringLiteral("MHGU system (system);;所有文件 (*)"));
+    const QString path = QFileDialog::getOpenFileName(this, QStringLiteral("读取 MHGU / MHXX system"), {},
+        QStringLiteral("MHGU / MHXX system (system);;所有文件 (*)"));
     if (path.isEmpty()) return;
     if (!m_save.open(path)) {
         QMessageBox::critical(this, QStringLiteral("读取失败"), m_save.error());
@@ -332,16 +332,19 @@ void MainWindow::refresh()
     m_openButton->setText(open ? QStringLiteral("读取其他存档") : QStringLiteral("读取存档"));
     if (ready) {
         const MhguCharacter character = m_save.character();
-        m_status->setText(QStringLiteral("%1 · 存档 %2 · %3 · %4")
-            .arg(QFileInfo(m_save.path()).fileName()).arg(m_save.selectedSlot() + 1).arg(character.name,
+        m_status->setText(QStringLiteral("%1 · %2 · 存档 %3 · %4 · %5")
+            .arg(m_save.formatName(), QFileInfo(m_save.path()).fileName()).arg(m_save.selectedSlot() + 1).arg(character.name,
                  hasUnsavedChanges() ? QStringLiteral("未保存") : QStringLiteral("已保存")));
     } else if (open) {
-        m_status->setText(QStringLiteral("%1 · 请选择存档槽 1 / 2 / 3").arg(QFileInfo(m_save.path()).fileName()));
+        m_status->setText(QStringLiteral("%1 · %2 · 请选择存档槽 1 / 2 / 3")
+            .arg(m_save.formatName(), QFileInfo(m_save.path()).fileName()));
     } else {
         m_status->setText(QStringLiteral("尚未读取存档"));
         m_pages->setCurrentWidget(m_emptyPage);
         m_pageTitle->setText(QStringLiteral("存档管理"));
     }
+    m_subtitle->setText(open ? QStringLiteral("%1 · system 三槽存档").arg(m_save.formatName())
+                             : QStringLiteral("Nintendo Switch / Nintendo 3DS · system 三槽存档"));
     m_status->setProperty("loaded", ready);
     m_status->setProperty("dirty", hasUnsavedChanges());
     m_status->style()->unpolish(m_status);

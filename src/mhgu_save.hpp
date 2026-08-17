@@ -2,6 +2,7 @@
 
 #include <QByteArray>
 #include <QString>
+#include <QStringList>
 #include <QVector>
 
 #include <array>
@@ -50,6 +51,23 @@ struct MhguPalicoEquipment {
     quint8 rawType = 0;
     quint16 id = 0;
     quint16 appearanceId = 0;
+};
+
+struct MhguEquipmentUpdate {
+    int index = -1;
+    MhguEquipment value;
+};
+
+struct MhguPalicoEquipmentUpdate {
+    int index = -1;
+    MhguPalicoEquipment value;
+};
+
+enum class MhguSaveFormat {
+    Unknown = 0,
+    Mhxx3ds,
+    MhguNsRaw,
+    MhguNsHeadered,
 };
 
 struct MhguPalico {
@@ -110,9 +128,11 @@ struct MhguPalicoStructure {
 
 class MhguSave {
 public:
-    static constexpr qint64 FileSize = 5159064;
+    static constexpr qint64 MhxxFileSize = 4726152;
+    static constexpr qint64 MhguFileSize = 5159064;
+    static constexpr qint64 FileSize = MhguFileSize;
     static constexpr qint64 HeaderSize = 36;
-    static constexpr qint64 HeaderedFileSize = FileSize + HeaderSize;
+    static constexpr qint64 HeaderedFileSize = MhguFileSize + HeaderSize;
     static constexpr int ItemCount = 2300;
     static constexpr int EquipmentCount = 2000;
     static constexpr int PalicoEquipmentCount = 1000;
@@ -126,6 +146,9 @@ public:
     bool isDirty() const { return m_dirty; }
     QString path() const { return m_path; }
     QString error() const { return m_error; }
+    MhguSaveFormat format() const { return m_format; }
+    QString formatName() const;
+    bool isMhxx() const { return m_format == MhguSaveFormat::Mhxx3ds; }
     QVector<MhguSlotInfo> slotInfos() const;
     bool selectSlot(int index);
     int selectedSlot() const { return m_selectedSlot; }
@@ -141,6 +164,9 @@ public:
     bool setEquipment(int index, const MhguEquipment &value, QString *warning = nullptr);
     MhguPalicoEquipment palicoEquipment(int index) const;
     bool setPalicoEquipment(int index, const MhguPalicoEquipment &value);
+    bool setEquipmentBatch(const QVector<MhguEquipmentUpdate> &hunter,
+                           const QVector<MhguPalicoEquipmentUpdate> &palico,
+                           QStringList *warnings = nullptr);
 
     MhguPalico palico(int index) const;
     bool setPalico(int index, const MhguPalico &value);
@@ -168,6 +194,7 @@ private:
     QByteArray m_header;
     QString m_path;
     QString m_error;
+    MhguSaveFormat m_format = MhguSaveFormat::Unknown;
     int m_selectedSlot = -1;
     bool m_dirty = false;
 };

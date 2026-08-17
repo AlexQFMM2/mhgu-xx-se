@@ -20,6 +20,49 @@ constexpr quint32 PalicoEquipmentOffset = 0x17C2E;
 constexpr quint32 PalicoOffset = 0x23BB6;
 constexpr int PalicoSize = 324;
 
+struct SaveLayout {
+    MhguSaveFormat format;
+    qint64 payloadSize;
+    std::array<quint32, 3> slotBases;
+    quint32 slotStride;
+};
+
+constexpr SaveLayout MhxxLayout{
+    MhguSaveFormat::Mhxx3ds,
+    MhguSave::MhxxFileSize,
+    {{0x126474, 0x244C34, 0x3633F4}},
+    0x11E7C0,
+};
+
+constexpr SaveLayout MhguRawLayout{
+    MhguSaveFormat::MhguNsRaw,
+    MhguSave::MhguFileSize,
+    {{0x18CC78, 0x2AC53C, 0x3CBE00}},
+    0x11F8C4,
+};
+
+const SaveLayout *layoutFor(MhguSaveFormat format)
+{
+    if (format == MhguSaveFormat::Mhxx3ds) return &MhxxLayout;
+    if (format == MhguSaveFormat::MhguNsRaw || format == MhguSaveFormat::MhguNsHeadered)
+        return &MhguRawLayout;
+    return nullptr;
+}
+
+bool sameEquipment(const MhguEquipment &left, const MhguEquipment &right)
+{
+    return left.type == right.type && left.level == right.level && left.id == right.id
+        && left.appearanceId == right.appearanceId && left.decorations == right.decorations
+        && left.skill1 == right.skill1 && left.skill2 == right.skill2
+        && left.skill1Points == right.skill1Points && left.skill2Points == right.skill2Points
+        && left.talismanSlots == right.talismanSlots;
+}
+
+bool samePalicoEquipment(const MhguPalicoEquipment &left, const MhguPalicoEquipment &right)
+{
+    return left.rawType == right.rawType && left.id == right.id && left.appearanceId == right.appearanceId;
+}
+
 template <size_t N>
 bool compact(const std::array<quint8, N> &values)
 {
@@ -93,25 +136,33 @@ bool MhguSave::open(const QString &path)
     const QByteArray bytes = file.readAll();
     QByteArray header;
     QByteArray raw;
-    if (bytes.size() == FileSize) {
+    MhguSaveFormat detectedFormat = MhguSaveFormat::Unknown;
+    if (bytes.size() == MhxxFileSize) {
         raw = bytes;
+        detectedFormat = MhguSaveFormat::Mhxx3ds;
+    } else if (bytes.size() == MhguFileSize) {
+        raw = bytes;
+        detectedFormat = MhguSaveFormat::MhguNsRaw;
     } else if (bytes.size() == HeaderedFileSize) {
         header = bytes.left(int(HeaderSize));
         raw = bytes.mid(int(HeaderSize));
+        detectedFormat = MhguSaveFormat::MhguNsHeadered;
     } else {
-        m_error = QStringLiteral("文件大小不正确：应为 %1 字节（无头）或 %2 字节（带 36 字节头），实际为 %3 字节。")
-                      .arg(FileSize).arg(HeaderedFileSize).arg(bytes.size());
+        m_error = QStringLiteral("文件大小不正确：MHXX（3DS）应为 %1 字节；MHGU（NS）应为 %2 字节（无头）或 %3 字节（带 36 字节头），实际为 %4 字节。")
+                      .arg(MhxxFileSize).arg(MhguFileSize).arg(HeaderedFileSize).arg(bytes.size());
         return false;
     }
 
     const QByteArray previousRaw = m_raw;
     const QByteArray previousHeader = m_header;
     const QString previousPath = m_path;
+    const MhguSaveFormat previousFormat = m_format;
     const int previousSlot = m_selectedSlot;
     const bool previousDirty = m_dirty;
     m_raw = raw;
     m_header = header;
     m_path = QFileInfo(path).absoluteFilePath();
+    m_format = detectedFormat;
     m_selectedSlot = -1;
     m_dirty = false;
     QString validationError;
@@ -119,6 +170,7 @@ bool MhguSave::open(const QString &path)
         m_raw = previousRaw;
         m_header = previousHeader;
         m_path = previousPath;
+        m_format = previousFormat;
         m_selectedSlot = previousSlot;
         m_dirty = previousDirty;
         m_error = validationError;
@@ -170,8 +222,19 @@ void MhguSave::close()
     m_raw.clear();
     m_header.clear();
     m_path.clear();
+    m_format = MhguSaveFormat::Unknown;
     m_selectedSlot = -1;
     m_dirty = false;
+}
+
+QString MhguSave::formatName() const
+{
+    switch (m_format) {
+    case MhguSaveFormat::Mhxx3ds: return QStringLiteral("MHXX（3DS）");
+    case MhguSaveFormat::MhguNsRaw: return QStringLiteral("MHGU（NS，无头）");
+    case MhguSaveFormat::MhguNsHeadered: return QStringLiteral("MHGU（NS，带头）");
+    default: return QStringLiteral("未知格式");
+    }
 }
 
 QVector<MhguSlotInfo> MhguSave::slotInfos() const
@@ -394,6 +457,31 @@ bool MhguSave::setPalicoEquipment(int index, const MhguPalicoEquipment &value)
         lead[5] = char(value.appearanceId >> 8);
     }
     markIfChanged(offset, lead);
+    return true;
+}
+
+bool MhguSave::setEquipmentBatch(const QVector<MhguEquipmentUpdate> &hunter,
+                                 const QVector<MhguPalicoEquipmentUpdate> &palico,
+                                 QStringList *warnings)
+{
+    if (warnings) warnings->clear();
+    MhguSave staged = *this;
+    QStringList stagedWarnings;
+    for (const MhguEquipmentUpdate &update : hunter) {
+        if (update.index >= 0 && update.index < EquipmentCount
+            && sameEquipment(staged.equipment(update.index), update.value)) continue;
+        QString warning;
+        if (!staged.setEquipment(update.index, update.value, &warning)) return false;
+        if (!warning.isEmpty()) stagedWarnings.push_back(warning);
+    }
+    for (const MhguPalicoEquipmentUpdate &update : palico) {
+        if (update.index >= 0 && update.index < PalicoEquipmentCount
+            && samePalicoEquipment(staged.palicoEquipment(update.index), update.value)) continue;
+        if (!staged.setPalicoEquipment(update.index, update.value)) return false;
+    }
+    m_raw = staged.m_raw;
+    m_dirty = staged.m_dirty;
+    if (warnings) *warnings = stagedWarnings;
     return true;
 }
 
@@ -701,12 +789,26 @@ QVector<PalicoValidationIssue> MhguSave::validatePalico(const MhguPalico &value)
 bool MhguSave::validate(QString *error) const
 {
     auto fail = [error](const QString &message) { if (error) *error = message; return false; };
-    if (m_raw.size() != FileSize) return fail(QStringLiteral("system 缓冲区尺寸不正确。"));
-    for (const MhguSlotInfo &slot : slotInfos()) {
+    const SaveLayout *layout = layoutFor(m_format);
+    if (!layout || m_raw.size() != layout->payloadSize)
+        return fail(QStringLiteral("system 缓冲区尺寸与识别格式不一致。"));
+    if (read32(0) != 0xC6 || read32(0x08) != 0x1C)
+        return fail(QStringLiteral("system 文件标识不正确。"));
+    for (int i = 0; i < 3; ++i) {
+        if (quint8(m_raw[0x04 + i]) > 1)
+            return fail(QStringLiteral("存档槽 %1 的使用标记无效。").arg(i + 1));
+        if (read32(0x10 + i * 4) != layout->slotBases[size_t(i)])
+            return fail(QStringLiteral("存档槽 %1 的角色基址与 %2 布局不一致。")
+                        .arg(i + 1).arg(formatName()));
+    }
+    const QVector<MhguSlotInfo> slotList = slotInfos();
+    for (const MhguSlotInfo &slot : slotList) {
         if (!slot.used) continue;
         if (slot.base == 0) return fail(QStringLiteral("存档槽 %1 的角色基址为 0。").arg(slot.index + 1));
         const quint64 knownEnd = quint64(slot.base) + PalicoOffset + quint64(PalicoCount) * PalicoSize;
-        if (knownEnd > quint64(m_raw.size())) return fail(QStringLiteral("存档槽 %1 的角色数据越界。").arg(slot.index + 1));
+        const quint64 slotEnd = quint64(slot.base) + layout->slotStride;
+        if (knownEnd > slotEnd || slotEnd > quint64(m_raw.size()))
+            return fail(QStringLiteral("存档槽 %1 的角色数据越界。").arg(slot.index + 1));
     }
     if (m_selectedSlot >= 0) {
         const QVector<MhguSlotInfo> all = slotInfos();

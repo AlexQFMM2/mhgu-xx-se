@@ -2,6 +2,7 @@
 
 #include "game_data.hpp"
 #include "mhgu_save.hpp"
+#include "transfer_forms.hpp"
 
 #include <QAbstractItemView>
 #include <QCheckBox>
@@ -1335,20 +1336,15 @@ void ItemBoxDialog::addFirstEmpty()
 void ItemBoxDialog::exportForm()
 {
     const QString path = QFileDialog::getSaveFileName(this, QStringLiteral("导出道具箱表单"),
-        QStringLiteral("mhgu-item-box.csv"), QStringLiteral("CSV 表单 (*.csv);;所有文件 (*)"));
+        QStringLiteral("mhxx-gu-item-box.csv"), QStringLiteral("CSV 表单 (*.csv);;所有文件 (*)"));
     if (path.isEmpty()) return;
-    QByteArray csv("slot,id,count\n");
-    const QVector<MhguItem> items = m_save->items();
-    for (int i = 0; i < items.size(); ++i) {
-        csv += QByteArray::number(i + 1) + ',' + QByteArray::number(items[i].id) + ','
-            + QByteArray::number(items[i].count) + '\n';
-    }
+    const QByteArray csv = MhxxGuTransfer::exportItems(m_save->items());
     QFile file(path);
     if (!file.open(QIODevice::WriteOnly | QIODevice::Truncate) || file.write(csv) != csv.size()) {
         QMessageBox::critical(this, windowTitle(), QStringLiteral("无法导出表单：%1").arg(file.errorString()));
         return;
     }
-    QMessageBox::information(this, windowTitle(), QStringLiteral("已导出全部 2300 个道具格。"));
+    QMessageBox::information(this, windowTitle(), QStringLiteral("已导出全部 2300 个道具格，可在 MHXX 与 MHGU 间导入。"));
 }
 
 void ItemBoxDialog::importForm()
@@ -1361,37 +1357,16 @@ void ItemBoxDialog::importForm()
         QMessageBox::critical(this, windowTitle(), QStringLiteral("无法读取表单：%1").arg(file.errorString()));
         return;
     }
-    const QList<QByteArray> lines = file.readAll().split('\n');
-    if (lines.isEmpty() || lines.first().trimmed() != QByteArray("slot,id,count")) {
-        QMessageBox::warning(this, windowTitle(), QStringLiteral("表单首行必须是 slot,id,count。"));
+    QVector<MhxxGuTransfer::ItemUpdate> parsed;
+    QString parseError;
+    if (!MhxxGuTransfer::parseItems(file.readAll(), &parsed, &parseError)) {
+        QMessageBox::warning(this, windowTitle(), parseError);
         return;
     }
     QVector<MhguItem> updated = m_save->items();
-    QSet<int> seen;
-    int parsed = 0;
-    for (int lineNumber = 1; lineNumber < lines.size(); ++lineNumber) {
-        const QByteArray line = lines[lineNumber].trimmed();
-        if (line.isEmpty()) continue;
-        const QList<QByteArray> fields = line.split(',');
-        bool slotOk = false, idOk = false, countOk = false;
-        const int slot = fields.value(0).trimmed().toInt(&slotOk);
-        const int id = fields.value(1).trimmed().toInt(&idOk);
-        const int count = fields.value(2).trimmed().toInt(&countOk);
-        if (fields.size() != 3 || !slotOk || !idOk || !countOk || slot < 1 || slot > MhguSave::ItemCount
-            || id < 0 || id > 0x0FFF || count < 0 || count > 0x7F || seen.contains(slot)) {
-            QMessageBox::warning(this, windowTitle(), QStringLiteral("第 %1 行格式或数值无效，未修改存档。").arg(lineNumber + 1));
-            return;
-        }
-        seen.insert(slot);
-        updated[slot - 1] = id == 0 ? MhguItem{} : MhguItem{quint16(id), quint8(count)};
-        ++parsed;
-    }
-    if (!parsed) {
-        QMessageBox::information(this, windowTitle(), QStringLiteral("表单中没有可导入的道具格。"));
-        return;
-    }
+    for (const MhxxGuTransfer::ItemUpdate &update : parsed) updated[update.index] = update.value;
     if (!confirmImport(this, QStringLiteral("确认导入道具箱"),
-            QStringLiteral("表单包含 %1 个道具格。\n\n导入会覆盖表单中列出的格子，未列出的格子保持不变。").arg(parsed))) return;
+            QStringLiteral("表单包含 %1 个道具格。\n\n导入会覆盖表单中列出的格子，未列出的格子保持不变。").arg(parsed.size()))) return;
     if (!m_save->setItems(updated)) {
         QMessageBox::critical(this, windowTitle(), QStringLiteral("批量写入道具箱失败。"));
         return;
@@ -1580,29 +1555,25 @@ void EquipmentBoxDialog::editPalico()
 void EquipmentBoxDialog::exportForm()
 {
     const QString path = QFileDialog::getSaveFileName(this, QStringLiteral("导出装备箱表单"),
-        QStringLiteral("mhgu-equipment-box.csv"), QStringLiteral("CSV 表单 (*.csv);;所有文件 (*)"));
+        QStringLiteral("mhxx-gu-equipment-box.csv"), QStringLiteral("CSV 表单 (*.csv);;所有文件 (*)"));
     if (path.isEmpty()) return;
-    QByteArray csv("domain,slot,type,id,appearance_id,level,decoration_1,decoration_2,decoration_3,skill_1,skill_1_points,skill_2,skill_2_points,talisman_slots\n");
-    auto append = [&csv](const QList<qint64> &values, const QByteArray &domain) {
-        csv += domain;
-        for (qint64 value : values) csv += ',' + QByteArray::number(value);
-        csv += '\n';
-    };
+    QVector<MhguEquipmentUpdate> hunter;
+    QVector<MhguPalicoEquipmentUpdate> palico;
+    hunter.reserve(MhguSave::EquipmentCount);
+    palico.reserve(MhguSave::PalicoEquipmentCount);
     for (int i = 0; i < MhguSave::EquipmentCount; ++i) {
-        const MhguEquipment e = m_save->equipment(i);
-        append({i + 1, e.type, e.id, e.appearanceId, e.level, e.decorations[0], e.decorations[1],
-            e.decorations[2], e.skill1, e.skill1Points, e.skill2, e.skill2Points, e.talismanSlots}, "hunter");
+        MhguEquipmentUpdate row; row.index = i; row.value = m_save->equipment(i); hunter.push_back(row);
     }
     for (int i = 0; i < MhguSave::PalicoEquipmentCount; ++i) {
-        const MhguPalicoEquipment e = m_save->palicoEquipment(i);
-        append({i + 1, e.rawType, e.id, e.appearanceId, 0, 0, 0, 0, 0, 0, 0, 0, 0}, "palico");
+        MhguPalicoEquipmentUpdate row; row.index = i; row.value = m_save->palicoEquipment(i); palico.push_back(row);
     }
+    const QByteArray csv = MhxxGuTransfer::exportEquipment(hunter, palico);
     QFile file(path);
     if (!file.open(QIODevice::WriteOnly | QIODevice::Truncate) || file.write(csv) != csv.size()) {
         QMessageBox::critical(this, windowTitle(), QStringLiteral("无法导出表单：%1").arg(file.errorString()));
         return;
     }
-    QMessageBox::information(this, windowTitle(), QStringLiteral("已导出 2000 个猎人装备格和 1000 个猫装备格。"));
+    QMessageBox::information(this, windowTitle(), QStringLiteral("已导出 2000 个猎人装备格和 1000 个猫装备格，可在 MHXX 与 MHGU 间导入。"));
 }
 
 void EquipmentBoxDialog::importForm()
@@ -1615,79 +1586,27 @@ void EquipmentBoxDialog::importForm()
         QMessageBox::critical(this, windowTitle(), QStringLiteral("无法读取表单：%1").arg(file.errorString()));
         return;
     }
-    const QByteArray header("domain,slot,type,id,appearance_id,level,decoration_1,decoration_2,decoration_3,skill_1,skill_1_points,skill_2,skill_2_points,talisman_slots");
-    const QList<QByteArray> lines = file.readAll().split('\n');
-    if (lines.isEmpty() || lines.first().trimmed() != header) {
-        QMessageBox::warning(this, windowTitle(), QStringLiteral("装备箱表单的表头不正确。请先用本程序导出模板。"));
+    QVector<MhguEquipmentUpdate> hunter;
+    QVector<MhguPalicoEquipmentUpdate> palico;
+    QString parseError;
+    if (!MhxxGuTransfer::parseEquipment(file.readAll(), &hunter, &palico, &parseError)) {
+        QMessageBox::warning(this, windowTitle(), parseError);
         return;
     }
-    struct ParsedEntry { bool palico = false; int slot = 0; MhguEquipment hunter; MhguPalicoEquipment cat; };
-    QVector<ParsedEntry> parsed;
     QStringList legalityWarnings;
-    QSet<QString> seen;
-    for (int lineNumber = 1; lineNumber < lines.size(); ++lineNumber) {
-        const QByteArray line = lines[lineNumber].trimmed();
-        if (line.isEmpty()) continue;
-        const QList<QByteArray> fields = line.split(',');
-        if (fields.size() != 14) {
-            QMessageBox::warning(this, windowTitle(), QStringLiteral("第 %1 行列数不正确，未修改存档。").arg(lineNumber + 1));
-            return;
-        }
-        const QByteArray domain = fields[0].trimmed();
-        if (domain != "hunter" && domain != "palico") {
-            QMessageBox::warning(this, windowTitle(), QStringLiteral("第 %1 行 domain 必须是 hunter 或 palico。").arg(lineNumber + 1));
-            return;
-        }
-        qint64 values[13];
-        bool numbersOk = true;
-        for (int column = 0; column < 13; ++column) {
-            bool ok = false;
-            values[column] = fields[column + 1].trimmed().toLongLong(&ok);
-            numbersOk &= ok;
-        }
-        const bool palico = domain == "palico";
-        const int maxSlots = palico ? MhguSave::PalicoEquipmentCount : MhguSave::EquipmentCount;
-        const QString key = QString::fromLatin1(domain) + QLatin1Char(':') + QString::number(values[0]);
-        const bool commonOk = values[0] >= 1 && values[0] <= maxSlots && values[2] >= 0 && values[2] <= 0xFFFF
-            && values[3] >= 0 && values[3] <= 0xFFFF;
-        const bool palicoTypeOk = values[1] == 0 || values[1] == 22 || values[1] == 23 || values[1] == 24;
-        const bool hunterTypeOk = (values[1] >= 0 && values[1] <= 11) || (values[1] >= 13 && values[1] <= 21);
-        const bool hunterOk = hunterTypeOk && values[4] >= 0 && values[4] <= 31
-            && values[5] >= 0 && values[5] <= 0xFFFF && values[6] >= 0 && values[6] <= 0xFFFF
-            && values[7] >= 0 && values[7] <= 0xFFFF && values[8] >= 0 && values[8] <= 0xFF
-            && values[9] >= -128 && values[9] <= 127 && values[10] >= 0 && values[10] <= 0xFF
-            && values[11] >= -128 && values[11] <= 127 && values[12] >= 0 && values[12] <= 0xFF;
-        if (!numbersOk || !commonOk || (palico ? !palicoTypeOk : !hunterOk) || seen.contains(key)) {
-            QMessageBox::warning(this, windowTitle(), QStringLiteral("第 %1 行格式、数值或格号无效，未修改存档。").arg(lineNumber + 1));
-            return;
-        }
-        seen.insert(key);
-        ParsedEntry entry;
-        entry.palico = palico;
-        entry.slot = int(values[0]) - 1;
-        if (palico) {
-            entry.cat.rawType = quint8(values[1]); entry.cat.id = quint16(values[2]); entry.cat.appearanceId = quint16(values[3]);
-        } else {
-            entry.hunter.type = quint8(values[1]); entry.hunter.id = quint16(values[2]); entry.hunter.appearanceId = quint16(values[3]);
-            entry.hunter.level = quint8(values[4]); entry.hunter.decorations = {{quint16(values[5]), quint16(values[6]), quint16(values[7])}};
-            entry.hunter.skill1 = quint8(values[8]); entry.hunter.skill1Points = qint8(values[9]);
-            entry.hunter.skill2 = quint8(values[10]); entry.hunter.skill2Points = qint8(values[11]); entry.hunter.talismanSlots = quint8(values[12]);
-        }
+    for (const MhguEquipmentUpdate &entry : hunter) {
         QString validationError;
-        const bool entryValid = palico
-            ? validatePalicoEquipment(m_data, entry.cat, &validationError)
-            : validateHunterEquipment(m_data, entry.hunter, &validationError);
-        if (!entryValid)
-            legalityWarnings.push_back(QStringLiteral("第 %1 行：%2").arg(lineNumber + 1).arg(validationError));
-        parsed.push_back(entry);
+        if (!validateHunterEquipment(m_data, entry.value, &validationError))
+            legalityWarnings.push_back(QStringLiteral("猎人装备格 %1：%2").arg(entry.index + 1).arg(validationError));
     }
-    if (parsed.isEmpty()) {
-        QMessageBox::information(this, windowTitle(), QStringLiteral("表单中没有可导入的装备格。"));
-        return;
+    for (const MhguPalicoEquipmentUpdate &entry : palico) {
+        QString validationError;
+        if (!validatePalicoEquipment(m_data, entry.value, &validationError))
+            legalityWarnings.push_back(QStringLiteral("猫装备格 %1：%2").arg(entry.index + 1).arg(validationError));
     }
     QString confirmation = QStringLiteral(
         "表单包含 %1 个装备格。\n\n导入会覆盖表单中列出的格子，未列出的格子保持不变。"
-    ).arg(parsed.size());
+    ).arg(hunter.size() + palico.size());
     if (!legalityWarnings.isEmpty()) {
         confirmation += QStringLiteral(
             "\n\n检测到 %1 个可能不合法的组合，但程序不会阻止导入。请自行承担游戏重置、显示异常或崩溃风险。"
@@ -1697,17 +1616,21 @@ void EquipmentBoxDialog::importForm()
         if (legalityWarnings.size() > previewCount) confirmation += QStringLiteral("\n• ……");
     }
     if (!confirmImport(this, QStringLiteral("确认导入装备箱"), confirmation)) return;
-    for (const ParsedEntry &entry : parsed) {
-        const bool ok = entry.palico ? m_save->setPalicoEquipment(entry.slot, entry.cat)
-                                     : m_save->setEquipment(entry.slot, entry.hunter);
-        if (!ok) {
-            QMessageBox::critical(this, windowTitle(), QStringLiteral("装备箱批量写入失败。"));
-            return;
-        }
+    QStringList cacheWarnings;
+    if (!m_save->setEquipmentBatch(hunter, palico, &cacheWarnings)) {
+        QMessageBox::critical(this, windowTitle(), QStringLiteral("装备箱批量写入失败，存档内存未发生变化。"));
+        return;
     }
     emit modified();
     populateHunter(); populatePalico();
-    QMessageBox::information(this, windowTitle(), QStringLiteral("装备箱已导入。请回到主窗口保存 system。"));
+    QString result = QStringLiteral("装备箱已导入。请回到主窗口保存 system。");
+    if (!cacheWarnings.isEmpty()) {
+        result += QStringLiteral("\n\n%1 条已穿戴装备未能安全同步：").arg(cacheWarnings.size());
+        const int previewCount = std::min(3, cacheWarnings.size());
+        for (int i = 0; i < previewCount; ++i) result += QStringLiteral("\n• %1").arg(cacheWarnings[i]);
+        if (cacheWarnings.size() > previewCount) result += QStringLiteral("\n• ……");
+    }
+    QMessageBox::information(this, windowTitle(), result);
 }
 
 PalicoListDialog::PalicoListDialog(MhguSave *save, GameData *data, QWidget *parent)
