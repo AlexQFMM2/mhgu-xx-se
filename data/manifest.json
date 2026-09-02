@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "path": "cn/active_skills.csv",
+      "rows": 326,
+      "sha256": "26d0291031860145c2285c19b351bc1298591a258b3ed932baae4445fdcf979e"
+    },
+    {
       "path": "cn/armor_arms.csv",
       "rows": 1158,
       "sha256": "ab4d85572ecd5a7796d28df0912851005bb2965aeaecaaa353cf651d7c589ea1"
@@ -21,9 +26,24 @@
       "sha256": "662e71cf2914286db2443e4b9eb6281d521cf594da4bd2545a1c886b7d41ad4e"
     },
     {
+      "path": "cn/armor_skill_points.csv",
+      "rows": 14086,
+      "sha256": "600d18430189da37c82c5784638b0f2469cc3dfce14a89953585620b12c262c6"
+    },
+    {
+      "path": "cn/armor_stats.csv",
+      "rows": 5637,
+      "sha256": "605a836ec3a655442630df24ddbccdab86a94bb623308f7615bf9eff09f4988b"
+    },
+    {
       "path": "cn/armor_waist.csv",
       "rows": 1108,
       "sha256": "1faf5f74550cc84c065cafc1afb429431b77120ab8bfad128b3ce999c26e207d"
+    },
+    {
+      "path": "cn/decoration_skill_points.csv",
+      "rows": 424,
+      "sha256": "f50f96f52fe1e00ffcc5071f62dd61ba11faa840d48f1b1bc51785ba4129300e"
     },
     {
       "path": "cn/decorations.csv",
@@ -106,9 +126,14 @@
       "sha256": "9aa94beae461e38d03d937573788a48192e45435eec05b75863dbf0d0c3f1f75"
     },
     {
+      "path": "cn/talisman_slot_thresholds.csv",
+      "rows": 80,
+      "sha256": "c283aa06ae09b4d515cb3a3acffc9e1790aff143a4a5b0efe0a920df97b3b7ae"
+    },
+    {
       "path": "cn/talismans.csv",
       "rows": 11,
-      "sha256": "aadac342d5ea2ab315c05562bcb6fa31e499c2b8e8b9e2cd48105eed20a98358"
+      "sha256": "ee01c22615abd0d2a8121bbb37832b4939c73cce295e5b036c5e0a16c2ae22bc"
     },
     {
       "path": "cn/weapon_bow.csv",
@@ -186,6 +211,11 @@
       "sha256": "fa993b67770c9719c85c5c54ae56c6c13026c88142b8d5e6a81972b98bc53435"
     },
     {
+      "path": "en/active_skills.csv",
+      "rows": 326,
+      "sha256": "26d0291031860145c2285c19b351bc1298591a258b3ed932baae4445fdcf979e"
+    },
+    {
       "path": "en/armor_arms.csv",
       "rows": 1158,
       "sha256": "92f477e834a25df8e8f40dadade375d2404c2545ea5b141be78dd622a8a00a7c"
@@ -206,9 +236,24 @@
       "sha256": "88d166e5f970bfb51ddf47869bc74d4fc3652b30e889968ff767ba9b418467a8"
     },
     {
+      "path": "en/armor_skill_points.csv",
+      "rows": 14086,
+      "sha256": "600d18430189da37c82c5784638b0f2469cc3dfce14a89953585620b12c262c6"
+    },
+    {
+      "path": "en/armor_stats.csv",
+      "rows": 5637,
+      "sha256": "605a836ec3a655442630df24ddbccdab86a94bb623308f7615bf9eff09f4988b"
+    },
+    {
       "path": "en/armor_waist.csv",
       "rows": 1108,
       "sha256": "0a097bc7eaacb1a6be575af8215f0d1f21eeec89047b398261e3f0f97f53c602"
+    },
+    {
+      "path": "en/decoration_skill_points.csv",
+      "rows": 424,
+      "sha256": "f50f96f52fe1e00ffcc5071f62dd61ba11faa840d48f1b1bc51785ba4129300e"
     },
     {
       "path": "en/decorations.csv",
@@ -291,9 +336,14 @@
       "sha256": "9aa94beae461e38d03d937573788a48192e45435eec05b75863dbf0d0c3f1f75"
     },
     {
+      "path": "en/talisman_slot_thresholds.csv",
+      "rows": 80,
+      "sha256": "c283aa06ae09b4d515cb3a3acffc9e1790aff143a4a5b0efe0a920df97b3b7ae"
+    },
+    {
       "path": "en/talismans.csv",
       "rows": 11,
-      "sha256": "9e0051d0434fa7cdb2f8c5e11e4c12cc3f23ff3672f96246745329f31dba4517"
+      "sha256": "028a3846f9c85cfbb8e2a6b19ea7c033bbbbfc5fc010c3af0efee8e506afe694"
     },
     {
       "path": "en/weapon_bow.csv",
@@ -719,6 +769,23 @@
   "generator_version": "2.5.0",
   "sources": {
     "dex_dump_manifest_sha256": "c603519b5796d5ace1205d4fc4d0f4045fb12728e9a220b8982d6faae7c5bce0",
+    "mhgu_ass_charm_slots": {
+      "commit": "ae7f125d1d381278d15908d7ce5b092076423918",
+      "files": {
+        "ancient_slots.csv": "3c465fbf35ada25fb880469dfaadaceed8fc618b3a01b3c4f82fa5b662868e6a",
+        "enduring_slots.csv": "4211958fcddbd59c0bc93f098f2cdc36d8960dd777334920735023c6d3afe1a8",
+        "mystery_slots.csv": "61ce1a78c3d1d9e13de91c5e24b0560e412e2558d7f76d10b106a37da3c89f52",
+        "shining_slots.csv": "e1d585f8eac7eacf20e715b9a033bd5406f5a03ce71292c48092bdb8a28e28fd"
+      },
+      "license": "MIT",
+      "repository": "https://github.com/AthenaADP/MHGU-ASS"
+    },
+    "mhgudb_ios": {
+      "commit": "a91a02bc076883df671c2a4fff3ac53be7d710a8",
+      "database_sha256": "4f1e1f64dffc66c0f088dffe4a4586559623483755c5eee8e58fce5ab9258be1",
+      "license": "MIT",
+      "repository": "https://github.com/JoeLago/MHGUDB-iOS"
+    },
     "mhxx_dex_exe_sha256": "5e0508b80b02565c5c7217861c315911878896567b07659631c34b7f7dae46c7",
     "palico_cn_translation_sha256": "e83abe3813020389a0591dde40bb4a853d77a962b9346c58066532fa0e9820b9",
     "palico_native_rules_sha256": "64a42cab0e2a4742a8142104fe56435e0bd516740f328885694e313c1a41810a",

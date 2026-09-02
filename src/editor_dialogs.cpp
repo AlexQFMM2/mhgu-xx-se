@@ -150,122 +150,12 @@ static bool isWeaponType(int type) { return type >= 7 && type <= 21 && type != 1
 
 static bool validateHunterEquipment(GameData *data, const MhguEquipment &entry, QString *error)
 {
-    if (entry.type == 0) return true;
-    const QString table = data->equipmentTable(entry.type);
-    if (table.isEmpty() || !data->contains(table, entry.id)) {
-        if (error) *error = QStringLiteral("装备类型 %1 与实际 ID %2 不匹配。").arg(entry.type).arg(entry.id);
-        return false;
-    }
-    if (isArmorType(entry.type) && entry.appearanceId && !data->contains(table, entry.appearanceId)) {
-        if (error) *error = QStringLiteral("防具幻化 ID %1 不属于相同部位。").arg(entry.appearanceId);
-        return false;
-    }
-    if (isWeaponType(entry.type) && entry.appearanceId) {
-        if (error) *error = QStringLiteral("MHGU 原版不支持武器幻化，请将武器幻化设为无。");
-        return false;
-    }
-
-    bool slotsFound = false;
-    int available = 0;
-    QString slotSource;
-    if (isArmorType(entry.type)) {
-        available = data->armorSlots(entry.type, entry.id, &slotsFound);
-        slotSource = QStringLiteral("该防具");
-    } else if (isWeaponType(entry.type)) {
-        available = data->weaponSlots(entry.type, entry.id, entry.level, &slotsFound);
-        slotSource = QStringLiteral("该武器当前等级");
-        if (!slotsFound) {
-            if (error) *error = QStringLiteral(
-                "游戏原生 weaponXXLevelData 中不存在此武器与等级组合。存档等级 %1 对应游戏显示等级 %2。"
-            ).arg(entry.level).arg(entry.level + 1);
-            return false;
-        }
-    } else if (entry.type == 6) {
-        slotsFound = entry.talismanSlots <= 3;
-        available = entry.talismanSlots;
-        slotSource = QStringLiteral("该护石");
-        if ((entry.skill1 && !data->contains(QStringLiteral("skills"), entry.skill1))
-                || (entry.skill2 && !data->contains(QStringLiteral("skills"), entry.skill2))) {
-            if (error) *error = QStringLiteral("护石包含不存在的技能 ID。");
-            return false;
-        }
-        const auto validateSkill = [&](int position, int skillId, int points) {
-            if (skillId == 0) {
-                if (points == 0) return true;
-                if (error) *error = QStringLiteral("护石技能 %1 为“无”时，技能点必须为 0。")
-                    .arg(position);
-                return false;
-            }
-            int minimum = 0;
-            int maximum = 0;
-            if (!data->talismanSkillRange(entry.id, skillId, position, &minimum, &maximum)) {
-                if (error) *error = QStringLiteral("没有护石 ID %1、技能 ID %2 的合法范围记录。")
-                    .arg(entry.id).arg(skillId);
-                return false;
-            }
-            const QString skillName = data->name(QStringLiteral("skills"), skillId);
-            if (minimum == 0 && maximum == 0) {
-                if (error) *error = QStringLiteral("%1不能作为%2的第 %3 技能。")
-                    .arg(skillName, data->name(QStringLiteral("talismans"), entry.id))
-                    .arg(position);
-                return false;
-            }
-            if (points < minimum || points > maximum) {
-                if (error) *error = QStringLiteral(
-                    "%1作为%2的第 %3 技能时，合法点数为 %4～%5，当前为 %6。"
-                ).arg(skillName, data->name(QStringLiteral("talismans"), entry.id))
-                 .arg(position).arg(minimum).arg(maximum).arg(points);
-                return false;
-            }
-            return true;
-        };
-        if (!validateSkill(1, entry.skill1, entry.skill1Points)
-                || !validateSkill(2, entry.skill2, entry.skill2Points))
-            return false;
-    }
-    if (!slotsFound) {
-        if (error) *error = QStringLiteral("游戏原生数据中不存在此装备的孔位记录。");
-        return false;
-    }
-
-    int used = 0;
-    for (quint16 decorationId : entry.decorations) {
-        bool costFound = false;
-        used += data->decorationSlotCost(decorationId, &costFound);
-        if (!costFound) {
-            if (error) *error = QStringLiteral(
-                "装饰珠 ID %1 不在游戏原生 decoData 中。"
-            ).arg(decorationId);
-            return false;
-        }
-    }
-    if (used > available) {
-        if (error) *error = QStringLiteral(
-            "装饰珠共占 %1 孔，但%2只有 %3 孔。"
-        ).arg(used).arg(slotSource).arg(available);
-        return false;
-    }
-    return true;
+    return data->validateHunterEquipment(entry, error);
 }
 
 static bool validatePalicoEquipment(GameData *data, const MhguPalicoEquipment &entry, QString *error)
 {
-    if (entry.rawType == 0) return true;
-    const QString table = data->palicoEquipmentTable(entry.rawType);
-    if (table.isEmpty() || !data->contains(table, entry.id)) {
-        if (error) *error = QStringLiteral("猫装备类型与实际 ID 不匹配。");
-        return false;
-    }
-    if (entry.rawType == 22 && entry.appearanceId) {
-        if (error) *error = QStringLiteral("MHGU 原版武器幻化不生效，请将猫武器幻化设为无。");
-        return false;
-    }
-    if ((entry.rawType == 23 || entry.rawType == 24) && entry.appearanceId
-            && !data->contains(table, entry.appearanceId)) {
-        if (error) *error = QStringLiteral("猫防具幻化 ID 不属于相同部位。");
-        return false;
-    }
-    return true;
+    return data->validatePalicoEquipment(entry, error);
 }
 
 class HunterEquipmentEditDialog : public QDialog {
@@ -313,7 +203,7 @@ public:
         m_warning->setMaximumHeight(46);
         m_slotStatus = new QLabel(this);
         m_slotStatus->setWordWrap(true);
-        m_slotStatus->setToolTip(QStringLiteral("红色仅表示可能不符合游戏生成规则，不会阻止应用或保存。"));
+        m_slotStatus->setToolTip(QStringLiteral("红色表示严格合法性校验失败，应用与保存都会被阻止。"));
         auto *form = new QFormLayout;
         form->addRow(QStringLiteral("装备类型"), m_type);
         form->addRow(QStringLiteral("实际装备"), m_id);
@@ -412,7 +302,13 @@ private:
         const QString table = m_data->equipmentTable(type);
         fillCombo(m_id, m_data->entries(table), type == m_original.type ? m_original.id : 0);
         fillCombo(m_appearance, m_data->entries(table), type == m_original.type ? m_original.appearanceId : 0);
+        if (!isWeaponType(type))
+            m_level->setValue(type == m_original.type ? m_original.level : 0);
         m_appearance->setEnabled(isArmorType(type));
+        m_level->setEnabled(isWeaponType(type));
+        m_level->setToolTip(isArmorType(type)
+            ? QStringLiteral("防具强化等级规则未纳入当前安全数据，保持存档原值；不能写入猜测值。")
+            : QString());
         m_talisman->setVisible(type == 6);
         if (isWeaponType(type))
             m_warning->setText(QStringLiteral("MHGU 原版武器幻化不生效，已停用武器外观编辑。"));
@@ -884,7 +780,7 @@ public:
         rawCodes->addRow(QStringLiteral("0x55 行动有效区域长度"), m_rawActionLength);
         rawCodes->addRow(QStringLiteral("0x56 技能模式编号"), m_rawSkillPattern);
         rawCodes->addRow(QStringLiteral("0x57 技能有效区域长度"), m_rawSkillLength);
-        auto *advancedWarning = new QLabel(QStringLiteral("高级值会逐字节写入。非法只会标红提示，不会被自动修正、清除或阻止保存。"), m_advanced);
+        auto *advancedWarning = new QLabel(QStringLiteral("高级值必须通过全部已确认规则；非法或无法确认合法时会拒绝写入。"), m_advanced);
         advancedWarning->setObjectName(QStringLiteral("warningLabel"));
         advancedWarning->setWordWrap(true);
         advancedBox->addWidget(advancedWarning);
@@ -1096,7 +992,7 @@ private:
         if (!m_actionDiagnostics || m_updating) return;
         m_actionState->setText(!m_ruleActive && !m_advanced->isChecked()
             ? QStringLiteral("当前猫是外来/配信猫或结构无法识别。数组保持原样；点击“按当前倾向重建”才套用普通布局。")
-            : QStringLiteral("规则只用于提示。红色配置仍可应用并保存，程序不会替换或清除。"));
+            : QStringLiteral("严格合法模式：红色配置会被拒绝，不会写入存档。"));
         const MhguPalico current = candidate();
         int equippedSkillCount = 0;
         for (quint8 id : current.equippedSkills) if (id != 0) ++equippedSkillCount;
@@ -1141,7 +1037,7 @@ private:
         edited.coatColor = parseRgba(m_colors[0]->text()); edited.rightEyeColor = parseRgba(m_colors[1]->text());
         edited.leftEyeColor = parseRgba(m_colors[2]->text()); edited.vestColor = parseRgba(m_colors[3]->text());
         if (!m_save->setPalico(m_index, edited)) {
-            QMessageBox::critical(this, windowTitle(), QStringLiteral("猫猫记录写入越界或索引无效。"));
+            QMessageBox::critical(this, windowTitle(), QStringLiteral("猫猫记录未通过严格合法性校验，未写入存档。"));
             return;
         }
         accept();
@@ -1531,7 +1427,8 @@ void EquipmentBoxDialog::editHunter()
     HunterEquipmentEditDialog dialog(m_data, m_save->equipment(index), this);
     if (dialog.exec() == QDialog::Accepted) {
         QString warning;
-        if (!m_save->setEquipment(index, dialog.value(), &warning)) QMessageBox::warning(this, QStringLiteral("装备箱"), QStringLiteral("装备值无效。"));
+        if (!m_save->setEquipment(index, dialog.value(), &warning)) QMessageBox::warning(this, QStringLiteral("装备箱"),
+            warning.isEmpty() ? QStringLiteral("装备值未通过严格合法性校验，已拒绝写入。") : warning);
         else {
             emit modified();
             if (!warning.isEmpty()) QMessageBox::warning(this, QStringLiteral("穿戴缓存未同步"), warning);
@@ -1604,17 +1501,15 @@ void EquipmentBoxDialog::importForm()
         if (!validatePalicoEquipment(m_data, entry.value, &validationError))
             legalityWarnings.push_back(QStringLiteral("猫装备格 %1：%2").arg(entry.index + 1).arg(validationError));
     }
+    if (!legalityWarnings.isEmpty()) {
+        QString message = QStringLiteral("导入已取消：检测到 %1 个非法或无法确认合法的装备记录。\n").arg(legalityWarnings.size());
+        message += legalityWarnings.mid(0, 20).join(QStringLiteral("\n"));
+        QMessageBox::critical(this, QStringLiteral("严格合法性校验失败"), message);
+        return;
+    }
     QString confirmation = QStringLiteral(
         "表单包含 %1 个装备格。\n\n导入会覆盖表单中列出的格子，未列出的格子保持不变。"
     ).arg(hunter.size() + palico.size());
-    if (!legalityWarnings.isEmpty()) {
-        confirmation += QStringLiteral(
-            "\n\n检测到 %1 个可能不合法的组合，但程序不会阻止导入。请自行承担游戏重置、显示异常或崩溃风险。"
-        ).arg(legalityWarnings.size());
-        const int previewCount = std::min(3, legalityWarnings.size());
-        for (int i = 0; i < previewCount; ++i) confirmation += QStringLiteral("\n• %1").arg(legalityWarnings[i]);
-        if (legalityWarnings.size() > previewCount) confirmation += QStringLiteral("\n• ……");
-    }
     if (!confirmImport(this, QStringLiteral("确认导入装备箱"), confirmation)) return;
     QStringList cacheWarnings;
     if (!m_save->setEquipmentBatch(hunter, palico, &cacheWarnings)) {

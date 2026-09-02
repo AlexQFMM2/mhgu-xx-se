@@ -25,6 +25,10 @@ files by hand.
   skill order comes from `skillTypeData` and the ranges come directly from the
   eight native `amuletSkillData00..07` tables. Dex IDs are never used as save
   skill IDs.
+- `talisman_slot_thresholds.csv` records native charm-generation slot
+  thresholds by rarity marker and fulfillment value, pinned to AthenaADP/MHGU-ASS
+  commit `ae7f125d1d381278d15908d7ce5b092076423918` (MIT). The four source CSV
+  hashes are recorded in `manifest.json`.
 - MHGU has no MH4G-style relic equipment, so no relic-only fields are emitted.
 - Palico weapons/head/body armor come from Dex. Support-move names are reviewed
   against the linked Bahamut MHXX article and Axibug wiki; passive-skill names
@@ -50,8 +54,17 @@ Rebuild and validate:
 ```bash
 python3 tools/export_game_names.py /path/to/extracted/romfs/table /tmp/mhxx-game-resources.json
 python3 tools/build_data.py --input /path/to/mhxx-dex-raw --game-names /tmp/mhxx-game-resources.json --output data
+python3 tools/import_loadout_data.py /path/to/MHGUDB/Assets/databases/mhgu.db \
+  '/path/to/MHGU-ASS/Run/Data/Charm Generation' data
 python3 tools/validate_data.py data --game-names /tmp/mhxx-game-resources.json
+python3 tools/build_sqlite_data.py data
+python3 tools/validate_data.py data
 ```
+
+`mhgu.sqlite` is the deterministic runtime package of the audited CSV tree.
+`mhgu-sqlite-manifest.json` pins its SHA-256 and every source-table row count.
+The editor verifies the hash before opening SQLite and only falls back to CSV
+when the SQLite pair is absent; a mismatched pair is rejected.
 
 Create the raw dump on 32-bit-capable Windows first:
 

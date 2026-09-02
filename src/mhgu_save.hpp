@@ -45,6 +45,7 @@ struct MhguEquipment {
     qint8 skill1Points = 0;
     qint8 skill2Points = 0;
     quint8 talismanSlots = 0;
+    QByteArray record;
 };
 
 struct MhguPalicoEquipment {
@@ -57,6 +58,7 @@ struct MhguEquipmentUpdate {
     int index = -1;
     MhguEquipment value;
 };
+class GameData;
 
 struct MhguPalicoEquipmentUpdate {
     int index = -1;
@@ -144,6 +146,9 @@ public:
 
     bool isOpen() const { return !m_raw.isEmpty(); }
     bool isDirty() const { return m_dirty; }
+    bool isReadOnly() const { return m_readOnly; }
+    QStringList contentErrors() const { return m_contentErrors; }
+    void setValidationData(const GameData *data) { m_validationData = data; }
     QString path() const { return m_path; }
     QString error() const { return m_error; }
     MhguSaveFormat format() const { return m_format; }
@@ -175,6 +180,8 @@ public:
     static QVector<PalicoValidationIssue> validatePalico(const MhguPalico &value);
 
     bool validate(QString *error = nullptr) const;
+    bool validateContent(QStringList *errors = nullptr) const;
+    bool validateAllContent(QStringList *errors = nullptr) const;
     QByteArray bytes() const { return m_raw; }
 
 private:
@@ -197,4 +204,7 @@ private:
     MhguSaveFormat m_format = MhguSaveFormat::Unknown;
     int m_selectedSlot = -1;
     bool m_dirty = false;
+    bool m_readOnly = false;
+    QStringList m_contentErrors;
+    const GameData *m_validationData = nullptr;
 };

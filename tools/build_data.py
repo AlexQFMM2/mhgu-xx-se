@@ -28,6 +28,7 @@ MARKER = "<!-- generated-by: tools/build_data.py -->"
 
 BASE_COLUMNS = ("id", "name", "english", "source")
 EQUIPMENT_COLUMNS = BASE_COLUMNS + ("rarity",)
+TALISMAN_COLUMNS = EQUIPMENT_COLUMNS + ("max_slots",)
 ARMOR_COLUMNS = EQUIPMENT_COLUMNS + ("slots",)
 DECORATION_COLUMNS = BASE_COLUMNS + ("slot_cost",)
 
@@ -500,8 +501,17 @@ def build_language(
         english = str(entry["english"])
         name = TALISMAN_CN[identifier] if language == "cn" else english
         source = SAVE_SOURCE
-        talismans.append({"id": identifier, "name": name, "english": english, "source": source, "rarity": 0})
-    counts["talismans.csv"] = write_csv(output / "talismans.csv", EQUIPMENT_COLUMNS, talismans)
+        talismans.append({"id": identifier, "name": name, "english": english, "source": source,
+                          "rarity": TALISMAN_RARITY[identifier],
+                          "max_slots": min(3, max(0, identifier - 0))})
+    # The first two charm classes are mystery (maximum one slot), the next two
+    # shining (maximum two), and all later classes can reach three.  These
+    # maxima are independently audited against the MHGU-ASS native generation
+    # tables; skill/fulfillment thresholds remain in talisman_slot_thresholds.
+    for row in talismans:
+        identifier = int(row["id"])
+        row["max_slots"] = 0 if identifier == 0 else 1 if identifier <= 2 else 2 if identifier <= 4 else 3
+    counts["talismans.csv"] = write_csv(output / "talismans.csv", TALISMAN_COLUMNS, talismans)
 
     rarity_prefix = {97: "mystery", 98: "shining", 99: "timeworn", 100: "enduring"}
     talisman_limit_rows = []
@@ -805,6 +815,8 @@ Rebuild and validate:
 ```bash
 python3 tools/export_game_names.py /path/to/extracted/romfs/table /tmp/mhxx-game-resources.json
 python3 tools/build_data.py --input /path/to/mhxx-dex-raw --game-names /tmp/mhxx-game-resources.json --output data
+python3 tools/import_loadout_data.py /path/to/MHGUDB/Assets/databases/mhgu.db \
+  '/path/to/MHGU-ASS/Run/Data/Charm Generation' data
 python3 tools/validate_data.py data --game-names /tmp/mhxx-game-resources.json
 ```
 

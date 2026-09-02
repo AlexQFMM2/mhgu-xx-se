@@ -126,6 +126,16 @@ $qwindows = $qwindowsCandidates | Where-Object { Test-Path $_ } | Select-Object 
 if (-not $qwindows) { throw "qwindows.dll was not found." }
 Copy-Item $qwindows (Join-Path $platformDir "qwindows.dll") -Force
 
+$sqlDir = Join-Path $Package "sqldrivers"
+New-Item -ItemType Directory -Force -Path $sqlDir | Out-Null
+$qsqliteCandidates = @(
+    (Join-Path $QtRoot "share\qt5\plugins\sqldrivers\qsqlite.dll"),
+    (Join-Path $QtRoot "plugins\sqldrivers\qsqlite.dll")
+)
+$qsqlite = $qsqliteCandidates | Where-Object { Test-Path $_ } | Select-Object -First 1
+if (-not $qsqlite) { throw "qsqlite.dll was not found." }
+Copy-Item $qsqlite (Join-Path $sqlDir "qsqlite.dll") -Force
+
 $Objdump = Join-Path $QtBin "objdump.exe"
 if (-not (Test-Path $Objdump)) { throw "objdump.exe was not found in $QtBin" }
 Copy-ImportedDlls $Package $QtBin $Objdump
@@ -135,7 +145,11 @@ $required = @(
     (Join-Path $Package "Qt5Core.dll"),
     (Join-Path $Package "Qt5Gui.dll"),
     (Join-Path $Package "Qt5Widgets.dll"),
-    (Join-Path $Package "platforms\qwindows.dll")
+    (Join-Path $Package "Qt5Sql.dll"),
+    (Join-Path $Package "platforms\qwindows.dll"),
+    (Join-Path $Package "sqldrivers\qsqlite.dll"),
+    (Join-Path $Package "data\mhgu.sqlite"),
+    (Join-Path $Package "data\mhgu-sqlite-manifest.json")
 )
 foreach ($file in $required) {
     if (-not (Test-Path $file)) { throw "Required portable file is missing: $file" }

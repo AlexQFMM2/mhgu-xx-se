@@ -7,6 +7,7 @@ import argparse
 import csv
 import hashlib
 import json
+import sqlite3
 from pathlib import Path
 
 
@@ -67,6 +68,13 @@ EXPECTED_WEAPON_TYPES = {
 EXPECTED_WEAPON_LEVEL_ROWS = 10925
 EXPECTED_ARMOR_SLOT_ROWS = 1287 * 5
 EXPECTED_TALISMAN_LIMIT_ROWS = 10 * 206
+EXPECTED_TALISMAN_SLOT_ROWS = 80
+EXPECTED_LOADOUT_ROWS = {
+    "armor_stats.csv": 5637,
+    "armor_skill_points.csv": 14086,
+    "decoration_skill_points.csv": 424,
+    "active_skills.csv": 326,
+}
 
 
 def sha256(path: Path) -> str:
@@ -94,8 +102,10 @@ def id_index(path: Path, rows: list[dict[str, str]]) -> dict[int, dict[str, str]
         identifier = int(row["id"])
         require(identifier >= 0, f"{path}: negative id {identifier}")
         require(identifier not in result, f"{path}: duplicate id {identifier}")
-        require(row.get("name", "").strip() != "", f"{path}: id {identifier} has blank name")
-        require(row.get("english", "").strip() != "", f"{path}: id {identifier} has blank english")
+        if "name" in row:
+            require(row.get("name", "").strip() != "", f"{path}: id {identifier} has blank name")
+        if "english" in row:
+            require(row.get("english", "").strip() != "", f"{path}: id {identifier} has blank english")
         require(row.get("source", "").strip() != "", f"{path}: id {identifier} has blank source")
         result[identifier] = row
     return result
@@ -142,7 +152,7 @@ def main() -> int:
         for path in root.rglob("*.csv")
     }
     require(set(manifest_files) == disk_files, "manifest CSV set does not match data directory")
-    require(len(disk_files) == 74, f"expected 74 CSV files, found {len(disk_files)}")
+    require(len(disk_files) == 84, f"expected 84 CSV files, found {len(disk_files)}")
 
     tables: dict[str, list[dict[str, str]]] = {}
     indexes: dict[str, dict[int, dict[str, str]]] = {}
@@ -178,16 +188,23 @@ def main() -> int:
         cn_index, en_index = indexes[cn_key], indexes[en_key]
         require(set(cn_index) == set(en_index), f"{name}: cn/en ID sets differ")
         for identifier in cn_index:
-            require(
-                cn_index[identifier]["english"] == en_index[identifier]["english"],
-                f"{name}: English differs at id {identifier}",
-            )
-            require(
-                en_index[identifier]["name"] == en_index[identifier]["english"],
-                f"{name}: English name column differs at id {identifier}",
-            )
+            if "english" in cn_index[identifier]:
+                require(
+                    cn_index[identifier]["english"] == en_index[identifier]["english"],
+                    f"{name}: English differs at id {identifier}",
+                )
+                require(
+                    en_index[identifier]["name"] == en_index[identifier]["english"],
+                    f"{name}: English name column differs at id {identifier}",
+                )
+            else:
+                require(cn_index[identifier] == en_index[identifier],
+                        f"{name}: language-neutral row differs at id {identifier}")
 
     for language in ("cn", "en"):
+        for filename, expected in EXPECTED_LOADOUT_ROWS.items():
+            require(len(tables[f"{language}/{filename}"]) == expected,
+                    f"{language}/{filename}: expected {expected} verified rows")
         item_ids = sorted(indexes[f"{language}/items.csv"])
         require(item_ids == list(range(EXPECTED_GAME_COUNTS["items"])), f"{language}/items.csv: IDs are not 0..2990")
         for key, count in EXPECTED_GAME_COUNTS.items():
@@ -273,6 +290,31 @@ def main() -> int:
                 f"{language}: Creator Talisman Expert ranges differ")
         require(limits_by_key[(10, 72)] == (1, 5, -1, 3),
                 f"{language}: Creator Talisman Chain Crit ranges differ")
+        talismans = indexes[f"{language}/talismans.csv"]
+        require([int(talismans[i]["rarity"]) for i in range(1, 11)] ==
+                [97, 97, 98, 98, 99, 99, 99, 100, 100, 100],
+                f"{language}: talisman rarity markers differ")
+        require([int(talismans[i]["max_slots"]) for i in range(1, 11)] ==
+                [1, 1, 2, 2, 3, 3, 3, 3, 3, 3],
+                f"{language}: talisman maximum slots differ")
+        slot_rows = tables[f"{language}/talisman_slot_thresholds.csv"]
+        require(len(slot_rows) == EXPECTED_TALISMAN_SLOT_ROWS,
+                f"{language}: talisman slot-threshold row count differs")
+        slot_keys: set[tuple[int, int]] = set()
+        for row in slot_rows:
+            marker, fulfillment = int(row["rarity_marker"]), int(row["fulfillment"])
+            thresholds = [int(row[key]) for key in
+                          ("slot1_threshold", "slot2_threshold", "slot3_threshold")]
+            require(marker in {97, 98, 99, 100} and 1 <= fulfillment <= 20,
+                    f"{language}: invalid talisman slot threshold key")
+            require(0 <= thresholds[0] <= thresholds[1] <= thresholds[2] <= 100,
+                    f"{language}: invalid talisman slot thresholds")
+            require((marker, fulfillment) not in slot_keys,
+                    f"{language}: duplicate talisman slot threshold")
+            slot_keys.add((marker, fulfillment))
+        require(slot_keys == {(marker, fulfillment) for marker in (97, 98, 99, 100)
+                              for fulfillment in range(1, 21)},
+                f"{language}: talisman slot-threshold coverage differs")
 
         for armor_name in ("armor_head", "armor_chest", "armor_arms", "armor_waist", "armor_legs"):
             for identifier, row in indexes[f"{language}/{armor_name}.csv"].items():
@@ -406,6 +448,23 @@ def main() -> int:
                     identifier for identifier, japanese in enumerate(tables_from_game[key]) if japanese != "―"
                 }
                 require(set(indexes[f"{language}/{key}.csv"]) == expected, f"{language}/{key}.csv differs from game ID set")
+
+    sqlite_manifest_path = root / "mhgu-sqlite-manifest.json"
+    sqlite_path = root / "mhgu.sqlite"
+    if sqlite_manifest_path.exists() or sqlite_path.exists():
+        require(sqlite_manifest_path.is_file() and sqlite_path.is_file(),
+                "SQLite database and manifest must be shipped together")
+        sqlite_manifest = json.loads(sqlite_manifest_path.read_text(encoding="utf-8"))
+        require(sqlite_manifest.get("format") == "mhgu-save-editor-data-v1", "unsupported SQLite manifest")
+        require(sqlite_manifest.get("database", {}).get("sha256") == sha256(sqlite_path),
+                "SQLite SHA-256 differs")
+        db = sqlite3.connect(f"file:{sqlite_path}?mode=ro", uri=True)
+        try:
+            for entry in sqlite_manifest.get("tables", []):
+                count = db.execute(f'SELECT count(*) FROM "{entry["table"]}"').fetchone()[0]
+                require(count == entry["rows"], f'SQLite table {entry["table"]} row count differs')
+        finally:
+            db.close()
 
     print(f"validated {len(disk_files)} CSV files ({sum(len(rows) for rows in tables.values())} rows)")
     return 0

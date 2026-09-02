@@ -1,0 +1,1185 @@
+{
+  "format": "mhgu-save-editor-data-v1",
+  "database": {
+    "file": "mhgu.sqlite",
+    "sha256": "7a099a6d5275ad920a3f0081718efa53c6927c16839b1340c3f98bf03bf91465",
+    "bytes": 7184384,
+    "user_version": 1
+  },
+  "tables": [
+    {
+      "table": "cn__active_skills",
+      "rows": 326,
+      "columns": [
+        "id",
+        "skill_id",
+        "points",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "cn/active_skills.csv",
+      "sha256": "26d0291031860145c2285c19b351bc1298591a258b3ed932baae4445fdcf979e"
+    },
+    {
+      "table": "cn__armor_arms",
+      "rows": 1158,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "cn/armor_arms.csv",
+      "sha256": "ab4d85572ecd5a7796d28df0912851005bb2965aeaecaaa353cf651d7c589ea1"
+    },
+    {
+      "table": "cn__armor_chest",
+      "rows": 1189,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "cn/armor_chest.csv",
+      "sha256": "0030ad32750a2257fb5d147177d5b65ca253734f9735e76d9066cbaad5faefb4"
+    },
+    {
+      "table": "cn__armor_head",
+      "rows": 1204,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "cn/armor_head.csv",
+      "sha256": "ce9995c128289bfd53715a482897dd13c9c3f87dafc577f68e5d68ee795b2193"
+    },
+    {
+      "table": "cn__armor_legs",
+      "rows": 1177,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "cn/armor_legs.csv",
+      "sha256": "662e71cf2914286db2443e4b9eb6281d521cf594da4bd2545a1c886b7d41ad4e"
+    },
+    {
+      "table": "cn__armor_skill_points",
+      "rows": 14086,
+      "columns": [
+        "id",
+        "equipment_type",
+        "armor_id",
+        "skill_id",
+        "points",
+        "source"
+      ],
+      "path": "cn/armor_skill_points.csv",
+      "sha256": "600d18430189da37c82c5784638b0f2469cc3dfce14a89953585620b12c262c6"
+    },
+    {
+      "table": "cn__armor_stats",
+      "rows": 5637,
+      "columns": [
+        "id",
+        "equipment_type",
+        "armor_id",
+        "gender",
+        "combat",
+        "base_defense",
+        "max_defense",
+        "fire_res",
+        "water_res",
+        "thunder_res",
+        "ice_res",
+        "dragon_res",
+        "source"
+      ],
+      "path": "cn/armor_stats.csv",
+      "sha256": "605a836ec3a655442630df24ddbccdab86a94bb623308f7615bf9eff09f4988b"
+    },
+    {
+      "table": "cn__armor_waist",
+      "rows": 1108,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "cn/armor_waist.csv",
+      "sha256": "1faf5f74550cc84c065cafc1afb429431b77120ab8bfad128b3ce999c26e207d"
+    },
+    {
+      "table": "cn__decoration_skill_points",
+      "rows": 424,
+      "columns": [
+        "id",
+        "decoration_id",
+        "skill_id",
+        "points",
+        "source"
+      ],
+      "path": "cn/decoration_skill_points.csv",
+      "sha256": "f50f96f52fe1e00ffcc5071f62dd61ba11faa840d48f1b1bc51785ba4129300e"
+    },
+    {
+      "table": "cn__decorations",
+      "rows": 263,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "slot_cost"
+      ],
+      "path": "cn/decorations.csv",
+      "sha256": "a0c31cd05fb6c7b6a09b261fe81c67130825a186ae3de110d8e13066eddcb7f9"
+    },
+    {
+      "table": "cn__equipment_lookups",
+      "rows": 157,
+      "columns": [
+        "domain",
+        "equipment_type",
+        "variant",
+        "value",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "cn/equipment_lookups.csv",
+      "sha256": "c6d0de1723f4c6d35a0095fc5a74b955bbfb2032f3f18659280684f654a73646"
+    },
+    {
+      "table": "cn__equipment_types",
+      "rows": 21,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "cn/equipment_types.csv",
+      "sha256": "20628ea3f6022db026c6266482546cfaf8630cb167dcfcf9e332944e3f512e38"
+    },
+    {
+      "table": "cn__items",
+      "rows": 2991,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "cn/items.csv",
+      "sha256": "7cbe1a0312bf11c362aec6117dddf1e20b3fea05e30ca66cb3e0ce4a193498cb"
+    },
+    {
+      "table": "cn__palico_armor",
+      "rows": 524,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity"
+      ],
+      "path": "cn/palico_armor.csv",
+      "sha256": "e7250bfc93f4f65dd5c7e7ad03d47150e8763468173502b5d37f27d4208f3783"
+    },
+    {
+      "table": "cn__palico_forte_grants",
+      "rows": 39,
+      "columns": [
+        "forte_id",
+        "kind",
+        "role",
+        "entry_id",
+        "source"
+      ],
+      "path": "cn/palico_forte_grants.csv",
+      "sha256": "87a344323a18baf11dc950ab90f890cdffc2052b972ae0e68f4abb3783675478"
+    },
+    {
+      "table": "cn__palico_fortes",
+      "rows": 8,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "cn/palico_fortes.csv",
+      "sha256": "02d9ceee0ee887eaf1cd221fd1d2663d111e82bae91a765fdf08b3370f415ecc"
+    },
+    {
+      "table": "cn__palico_generation_patterns",
+      "rows": 22,
+      "columns": [
+        "scope",
+        "pattern_id",
+        "sequence",
+        "valid_length",
+        "weight",
+        "source"
+      ],
+      "path": "cn/palico_generation_patterns.csv",
+      "sha256": "fff5117f91ae77033e09c7bbe537df9b31cca224e3b23b2395033f4b1a9ca551"
+    },
+    {
+      "table": "cn__palico_head",
+      "rows": 502,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity"
+      ],
+      "path": "cn/palico_head.csv",
+      "sha256": "cdb991b1f88a40b81c42baaac289e67b78d45c2b65570d061ee50f9f450f1eee"
+    },
+    {
+      "table": "cn__palico_limits",
+      "rows": 4,
+      "columns": [
+        "key",
+        "value",
+        "source"
+      ],
+      "path": "cn/palico_limits.csv",
+      "sha256": "4309b3b097275495319acbeecac8ef1225671d0c0c6ed0d1ec0120ef78d81115"
+    },
+    {
+      "table": "cn__palico_skills",
+      "rows": 97,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "generation_tier",
+        "generation_group",
+        "role",
+        "teachable",
+        "memory_cost",
+        "generation_weights"
+      ],
+      "path": "cn/palico_skills.csv",
+      "sha256": "5f94c439569cc8b601a5e7c11fa896f88207f62580387f291318910ffa8713f8"
+    },
+    {
+      "table": "cn__palico_support_moves",
+      "rows": 58,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "generation_tier",
+        "generation_group",
+        "role",
+        "teachable",
+        "memory_cost",
+        "generation_weights"
+      ],
+      "path": "cn/palico_support_moves.csv",
+      "sha256": "73e466f4726c9a63064854819f651737d00ed6dbaa23713c11fd693ed5507002"
+    },
+    {
+      "table": "cn__palico_targets",
+      "rows": 6,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "cn/palico_targets.csv",
+      "sha256": "7a2941107edc7144739c0b75b03369ffc7d746cf305c118045a9f83b04dff0e1"
+    },
+    {
+      "table": "cn__palico_weapons",
+      "rows": 509,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity"
+      ],
+      "path": "cn/palico_weapons.csv",
+      "sha256": "9ca6e30c03cf0762b9ea0f59e89273f9b884b1dd2494393cef840879eb645f61"
+    },
+    {
+      "table": "cn__skills",
+      "rows": 206,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "cn/skills.csv",
+      "sha256": "c781104a86bf8f3c95771a0a3dd262754938ab008b1b904fa7404989da313db7"
+    },
+    {
+      "table": "cn__talisman_skill_limits",
+      "rows": 2060,
+      "columns": [
+        "talisman_id",
+        "skill_id",
+        "skill1_min",
+        "skill1_max",
+        "skill2_min",
+        "skill2_max",
+        "source"
+      ],
+      "path": "cn/talisman_skill_limits.csv",
+      "sha256": "9aa94beae461e38d03d937573788a48192e45435eec05b75863dbf0d0c3f1f75"
+    },
+    {
+      "table": "cn__talisman_slot_thresholds",
+      "rows": 80,
+      "columns": [
+        "id",
+        "rarity_marker",
+        "fulfillment",
+        "slot1_threshold",
+        "slot2_threshold",
+        "slot3_threshold",
+        "source"
+      ],
+      "path": "cn/talisman_slot_thresholds.csv",
+      "sha256": "c283aa06ae09b4d515cb3a3acffc9e1790aff143a4a5b0efe0a920df97b3b7ae"
+    },
+    {
+      "table": "cn__talismans",
+      "rows": 11,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_slots"
+      ],
+      "path": "cn/talismans.csv",
+      "sha256": "ee01c22615abd0d2a8121bbb37832b4939c73cce295e5b036c5e0a16c2ae22bc"
+    },
+    {
+      "table": "cn__weapon_bow",
+      "rows": 108,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_bow.csv",
+      "sha256": "4f70b562ed06f0c4ccaafcca3e9036eaf02efe9757121eb7ae1e15e7f4386c35"
+    },
+    {
+      "table": "cn__weapon_charge_blade",
+      "rows": 81,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_charge_blade.csv",
+      "sha256": "ea8f14c524b6903fc6be6d6e5fb25b57e385e19244a9621c62e8978c6687bf03"
+    },
+    {
+      "table": "cn__weapon_dual_blades",
+      "rows": 126,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_dual_blades.csv",
+      "sha256": "38d2f0961ff20195c7153fc0063c6c4fb6ffadbcb9dcb6c8b4095b84ebf368d3"
+    },
+    {
+      "table": "cn__weapon_great_sword",
+      "rows": 137,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_great_sword.csv",
+      "sha256": "5583faff1d9456eb5b63d02feda27051429554c930a8b0337a1c61e23ef82f33"
+    },
+    {
+      "table": "cn__weapon_gunlance",
+      "rows": 115,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_gunlance.csv",
+      "sha256": "aff33574157e40bcc6dd7d695de4b6e11df3952a876dcbf2191c3929917dd316"
+    },
+    {
+      "table": "cn__weapon_hammer",
+      "rows": 132,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_hammer.csv",
+      "sha256": "86b5da711bf137aa77cff5c618abe87695a9996af6308d7aa1aeb94fa0cd9be9"
+    },
+    {
+      "table": "cn__weapon_heavy_bowgun",
+      "rows": 109,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_heavy_bowgun.csv",
+      "sha256": "34cc0cf8d3c630ad5c89a8c60f47f3ef522994771494b3a10f569b9ef88996e2"
+    },
+    {
+      "table": "cn__weapon_hunting_horn",
+      "rows": 112,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_hunting_horn.csv",
+      "sha256": "48f8719deae531b28a70821c6c929d4e9361188614a579f9baaaa5ad17cd3972"
+    },
+    {
+      "table": "cn__weapon_insect_glaive",
+      "rows": 83,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_insect_glaive.csv",
+      "sha256": "63d248fa991ad2d98dff75906f65794c70821ba70cb4d568b1ce43a548b97021"
+    },
+    {
+      "table": "cn__weapon_lance",
+      "rows": 127,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_lance.csv",
+      "sha256": "15e0acbb424138f50632e32eb4ee619e81a5a8f5d018d6ff27d6d7876381f7e2"
+    },
+    {
+      "table": "cn__weapon_level_slots",
+      "rows": 10925,
+      "columns": [
+        "equipment_type",
+        "weapon_id",
+        "save_level",
+        "display_level",
+        "slots",
+        "source"
+      ],
+      "path": "cn/weapon_level_slots.csv",
+      "sha256": "9a83b40b2554939c77ca1f3a3a64f184b89e3b613bbdc24148679585f468e048"
+    },
+    {
+      "table": "cn__weapon_light_bowgun",
+      "rows": 110,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_light_bowgun.csv",
+      "sha256": "7f3329bce64e8142adac449a694211279c47053a51e14e3c2a1e508a3cc9532d"
+    },
+    {
+      "table": "cn__weapon_long_sword",
+      "rows": 127,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_long_sword.csv",
+      "sha256": "136d320070c13bca6ed7f95da099547b828e11b4dd5b3040114c4e957a7d0d5d"
+    },
+    {
+      "table": "cn__weapon_switch_axe",
+      "rows": 110,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_switch_axe.csv",
+      "sha256": "c6661f8357cccd0c095f4e023a44b4c7fe76e2b4301a26471975631faa0dac78"
+    },
+    {
+      "table": "cn__weapon_sword_and_shield",
+      "rows": 129,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "cn/weapon_sword_and_shield.csv",
+      "sha256": "fa993b67770c9719c85c5c54ae56c6c13026c88142b8d5e6a81972b98bc53435"
+    },
+    {
+      "table": "en__active_skills",
+      "rows": 326,
+      "columns": [
+        "id",
+        "skill_id",
+        "points",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "en/active_skills.csv",
+      "sha256": "26d0291031860145c2285c19b351bc1298591a258b3ed932baae4445fdcf979e"
+    },
+    {
+      "table": "en__armor_arms",
+      "rows": 1158,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "en/armor_arms.csv",
+      "sha256": "92f477e834a25df8e8f40dadade375d2404c2545ea5b141be78dd622a8a00a7c"
+    },
+    {
+      "table": "en__armor_chest",
+      "rows": 1189,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "en/armor_chest.csv",
+      "sha256": "e9dd8cece95cc865ec509802f7a48f4c5c25a3e7fd4d8dcdc5788264da5a323f"
+    },
+    {
+      "table": "en__armor_head",
+      "rows": 1204,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "en/armor_head.csv",
+      "sha256": "b22ae0073f2efd2fe4d64f6b1ebec3b59f019f7a3d491379edf70c39bbbeeb02"
+    },
+    {
+      "table": "en__armor_legs",
+      "rows": 1177,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "en/armor_legs.csv",
+      "sha256": "88d166e5f970bfb51ddf47869bc74d4fc3652b30e889968ff767ba9b418467a8"
+    },
+    {
+      "table": "en__armor_skill_points",
+      "rows": 14086,
+      "columns": [
+        "id",
+        "equipment_type",
+        "armor_id",
+        "skill_id",
+        "points",
+        "source"
+      ],
+      "path": "en/armor_skill_points.csv",
+      "sha256": "600d18430189da37c82c5784638b0f2469cc3dfce14a89953585620b12c262c6"
+    },
+    {
+      "table": "en__armor_stats",
+      "rows": 5637,
+      "columns": [
+        "id",
+        "equipment_type",
+        "armor_id",
+        "gender",
+        "combat",
+        "base_defense",
+        "max_defense",
+        "fire_res",
+        "water_res",
+        "thunder_res",
+        "ice_res",
+        "dragon_res",
+        "source"
+      ],
+      "path": "en/armor_stats.csv",
+      "sha256": "605a836ec3a655442630df24ddbccdab86a94bb623308f7615bf9eff09f4988b"
+    },
+    {
+      "table": "en__armor_waist",
+      "rows": 1108,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "slots"
+      ],
+      "path": "en/armor_waist.csv",
+      "sha256": "0a097bc7eaacb1a6be575af8215f0d1f21eeec89047b398261e3f0f97f53c602"
+    },
+    {
+      "table": "en__decoration_skill_points",
+      "rows": 424,
+      "columns": [
+        "id",
+        "decoration_id",
+        "skill_id",
+        "points",
+        "source"
+      ],
+      "path": "en/decoration_skill_points.csv",
+      "sha256": "f50f96f52fe1e00ffcc5071f62dd61ba11faa840d48f1b1bc51785ba4129300e"
+    },
+    {
+      "table": "en__decorations",
+      "rows": 263,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "slot_cost"
+      ],
+      "path": "en/decorations.csv",
+      "sha256": "5592ba6ee771f4a64ea58d2253421fa067ba3b2b7b970d70a72af5340419178a"
+    },
+    {
+      "table": "en__equipment_lookups",
+      "rows": 157,
+      "columns": [
+        "domain",
+        "equipment_type",
+        "variant",
+        "value",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "en/equipment_lookups.csv",
+      "sha256": "557588a17f1f045063c18ed134695981e60ca7d4e35c4dab9f10ec8563d33a8c"
+    },
+    {
+      "table": "en__equipment_types",
+      "rows": 21,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "en/equipment_types.csv",
+      "sha256": "07db8fa3bfc62c3e200faee29387b49cd77d8570e31e8dd1f535df49dd170fa0"
+    },
+    {
+      "table": "en__items",
+      "rows": 2991,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "en/items.csv",
+      "sha256": "968e4931e6075ccc6a234bfefee098c3282bbd537c11d87d5cb5a038031ab308"
+    },
+    {
+      "table": "en__palico_armor",
+      "rows": 524,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity"
+      ],
+      "path": "en/palico_armor.csv",
+      "sha256": "c45acbb3a094fcb424bc2e504248bbf835a33500d98e0dda0b9f12f409b95303"
+    },
+    {
+      "table": "en__palico_forte_grants",
+      "rows": 39,
+      "columns": [
+        "forte_id",
+        "kind",
+        "role",
+        "entry_id",
+        "source"
+      ],
+      "path": "en/palico_forte_grants.csv",
+      "sha256": "87a344323a18baf11dc950ab90f890cdffc2052b972ae0e68f4abb3783675478"
+    },
+    {
+      "table": "en__palico_fortes",
+      "rows": 8,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "en/palico_fortes.csv",
+      "sha256": "efdeab91572d3085af7194a1d535c234c6800d680e7a7e6e9f3fa8f060e7cd7a"
+    },
+    {
+      "table": "en__palico_generation_patterns",
+      "rows": 22,
+      "columns": [
+        "scope",
+        "pattern_id",
+        "sequence",
+        "valid_length",
+        "weight",
+        "source"
+      ],
+      "path": "en/palico_generation_patterns.csv",
+      "sha256": "fff5117f91ae77033e09c7bbe537df9b31cca224e3b23b2395033f4b1a9ca551"
+    },
+    {
+      "table": "en__palico_head",
+      "rows": 502,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity"
+      ],
+      "path": "en/palico_head.csv",
+      "sha256": "c60fa2817ee8f6e98ca3f033fd648b51bc7082ff64efd77263ffc794d1972bc4"
+    },
+    {
+      "table": "en__palico_limits",
+      "rows": 4,
+      "columns": [
+        "key",
+        "value",
+        "source"
+      ],
+      "path": "en/palico_limits.csv",
+      "sha256": "4309b3b097275495319acbeecac8ef1225671d0c0c6ed0d1ec0120ef78d81115"
+    },
+    {
+      "table": "en__palico_skills",
+      "rows": 97,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "generation_tier",
+        "generation_group",
+        "role",
+        "teachable",
+        "memory_cost",
+        "generation_weights"
+      ],
+      "path": "en/palico_skills.csv",
+      "sha256": "da07d2b8a69a3e7aa28680f4dfba4d851907d5012db94d9a68ca4e819f504c03"
+    },
+    {
+      "table": "en__palico_support_moves",
+      "rows": 58,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "generation_tier",
+        "generation_group",
+        "role",
+        "teachable",
+        "memory_cost",
+        "generation_weights"
+      ],
+      "path": "en/palico_support_moves.csv",
+      "sha256": "36c3525d0fe0f257aeef3945a5875fba1cb6573a7d95ce67d3c023e1661b3e16"
+    },
+    {
+      "table": "en__palico_targets",
+      "rows": 6,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "en/palico_targets.csv",
+      "sha256": "cd279eba7d86a513e0621994cb360ac1fd99fe85444dd75e52b8e17d69913840"
+    },
+    {
+      "table": "en__palico_weapons",
+      "rows": 509,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity"
+      ],
+      "path": "en/palico_weapons.csv",
+      "sha256": "319d74c34a5f68e6692fb194b1796401bc408a2c1c36da0de62438151453c694"
+    },
+    {
+      "table": "en__skills",
+      "rows": 206,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source"
+      ],
+      "path": "en/skills.csv",
+      "sha256": "675671c882f7ea2e75872e05f5e1ec868b587fd609d3aade30175c9c69b06420"
+    },
+    {
+      "table": "en__talisman_skill_limits",
+      "rows": 2060,
+      "columns": [
+        "talisman_id",
+        "skill_id",
+        "skill1_min",
+        "skill1_max",
+        "skill2_min",
+        "skill2_max",
+        "source"
+      ],
+      "path": "en/talisman_skill_limits.csv",
+      "sha256": "9aa94beae461e38d03d937573788a48192e45435eec05b75863dbf0d0c3f1f75"
+    },
+    {
+      "table": "en__talisman_slot_thresholds",
+      "rows": 80,
+      "columns": [
+        "id",
+        "rarity_marker",
+        "fulfillment",
+        "slot1_threshold",
+        "slot2_threshold",
+        "slot3_threshold",
+        "source"
+      ],
+      "path": "en/talisman_slot_thresholds.csv",
+      "sha256": "c283aa06ae09b4d515cb3a3acffc9e1790aff143a4a5b0efe0a920df97b3b7ae"
+    },
+    {
+      "table": "en__talismans",
+      "rows": 11,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_slots"
+      ],
+      "path": "en/talismans.csv",
+      "sha256": "028a3846f9c85cfbb8e2a6b19ea7c033bbbbfc5fc010c3af0efee8e506afe694"
+    },
+    {
+      "table": "en__weapon_bow",
+      "rows": 108,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_bow.csv",
+      "sha256": "38d4028b42a833a19c20af8a48a0bc52197b00ab5ec09a6a856ab269b74d2d19"
+    },
+    {
+      "table": "en__weapon_charge_blade",
+      "rows": 81,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_charge_blade.csv",
+      "sha256": "ddbf2f61ad40a658bfcdcbaea98f8bad50563a996368b82b32a1b85e14acb86b"
+    },
+    {
+      "table": "en__weapon_dual_blades",
+      "rows": 126,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_dual_blades.csv",
+      "sha256": "558d0cd417123f4fb2009180dbff4ded8a24e2fa0a10e2f8d87e675653426493"
+    },
+    {
+      "table": "en__weapon_great_sword",
+      "rows": 137,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_great_sword.csv",
+      "sha256": "2d6240b815c3e4c9e5f3975c84a8d2253df6adf60a0f83a303019df080f0383e"
+    },
+    {
+      "table": "en__weapon_gunlance",
+      "rows": 115,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_gunlance.csv",
+      "sha256": "0f8e12f88d926369dc9a0f111d7b1ca77235777c05476bc6f7f44d70c08ff066"
+    },
+    {
+      "table": "en__weapon_hammer",
+      "rows": 132,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_hammer.csv",
+      "sha256": "389594abdc6b3215737ef67f9d544ae06e21dd8bd8e71ff2bfa60b1f8a987fba"
+    },
+    {
+      "table": "en__weapon_heavy_bowgun",
+      "rows": 109,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_heavy_bowgun.csv",
+      "sha256": "f5488fca406bec585b12cee3117b91bc4a5d6c46ab040320c3b0fb6cee0378c4"
+    },
+    {
+      "table": "en__weapon_hunting_horn",
+      "rows": 112,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_hunting_horn.csv",
+      "sha256": "7577d378c6f2cbecdde1eef8f53ae44b0f0922352c16b7ba27c131421a08cfab"
+    },
+    {
+      "table": "en__weapon_insect_glaive",
+      "rows": 83,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_insect_glaive.csv",
+      "sha256": "0d5c2f7b9d0063add51bd4622198ff31d26f41faeba9b424d72bf3a43037c979"
+    },
+    {
+      "table": "en__weapon_lance",
+      "rows": 127,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_lance.csv",
+      "sha256": "822e8a826419ba087a420d201bdfe9cf5c6b707f9af665d03adf2c0f3945aff3"
+    },
+    {
+      "table": "en__weapon_level_slots",
+      "rows": 10925,
+      "columns": [
+        "equipment_type",
+        "weapon_id",
+        "save_level",
+        "display_level",
+        "slots",
+        "source"
+      ],
+      "path": "en/weapon_level_slots.csv",
+      "sha256": "9a83b40b2554939c77ca1f3a3a64f184b89e3b613bbdc24148679585f468e048"
+    },
+    {
+      "table": "en__weapon_light_bowgun",
+      "rows": 110,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_light_bowgun.csv",
+      "sha256": "bfb8a830074e9fb187a5ed9630c2bb798cac23c5e4e25eae3a9574d57d592a4a"
+    },
+    {
+      "table": "en__weapon_long_sword",
+      "rows": 127,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_long_sword.csv",
+      "sha256": "a7433b04ba57cd903c113b26d27795c88812aef12463b01633d410a4f46a9b49"
+    },
+    {
+      "table": "en__weapon_switch_axe",
+      "rows": 110,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_switch_axe.csv",
+      "sha256": "dae33f8207449e9b0b8d0c07dc19663e7c6bef6ac5ad4604f36de615c8c909fb"
+    },
+    {
+      "table": "en__weapon_sword_and_shield",
+      "rows": 129,
+      "columns": [
+        "id",
+        "name",
+        "english",
+        "source",
+        "rarity",
+        "max_level"
+      ],
+      "path": "en/weapon_sword_and_shield.csv",
+      "sha256": "ecd295d02cb82165ab279fdb37c32e5d225d314a4b3eb046636cfd11cbf130ba"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 #include "mhgu_save.hpp"
+#include "game_data.hpp"
 
 #include <QFile>
 #include <QFileInfo>
@@ -165,6 +166,8 @@ bool MhguSave::open(const QString &path)
     m_format = detectedFormat;
     m_selectedSlot = -1;
     m_dirty = false;
+    m_readOnly = false;
+    m_contentErrors.clear();
     QString validationError;
     if (!validate(&validationError)) {
         m_raw = previousRaw;
@@ -175,6 +178,11 @@ bool MhguSave::open(const QString &path)
         m_dirty = previousDirty;
         m_error = validationError;
         return false;
+    }
+    m_contentErrors.clear();
+    if (m_validationData) {
+        validateAllContent(&m_contentErrors);
+        m_readOnly = !m_contentErrors.isEmpty();
     }
     m_error.clear();
     return true;
@@ -189,6 +197,11 @@ bool MhguSave::save()
     QString validationError;
     if (!validate(&validationError)) {
         m_error = validationError;
+        return false;
+    }
+    if (m_readOnly || (m_validationData && !validateAllContent(&m_contentErrors))) {
+        m_error = m_contentErrors.isEmpty() ? QStringLiteral("存档包含未确认合法的数据，已禁止保存。")
+                                             : QStringLiteral("存档包含未确认合法的数据，已禁止保存：\n%1").arg(m_contentErrors.join(QStringLiteral("\n")));
         return false;
     }
     const QFileInfo target(m_path);
@@ -225,6 +238,8 @@ void MhguSave::close()
     m_format = MhguSaveFormat::Unknown;
     m_selectedSlot = -1;
     m_dirty = false;
+    m_readOnly = false;
+    m_contentErrors.clear();
 }
 
 QString MhguSave::formatName() const
@@ -263,6 +278,11 @@ bool MhguSave::selectSlot(int index)
         return false;
     }
     m_selectedSlot = index;
+    m_contentErrors.clear();
+    if (m_validationData) {
+        validateAllContent(&m_contentErrors);
+        m_readOnly = !m_contentErrors.isEmpty();
+    }
     m_error.clear();
     return true;
 }
@@ -287,6 +307,7 @@ MhguCharacter MhguSave::character() const
 
 bool MhguSave::setCharacter(const MhguCharacter &value)
 {
+    if (m_readOnly) return false;
     const quint32 base = selectedBase();
     if (!base) return false;
     writeUtf8(quint64(base) + NameOffset, 32, value.name);
@@ -344,6 +365,7 @@ void MhguSave::encodeItems(const QVector<MhguItem> &items)
 
 bool MhguSave::setItem(int index, const MhguItem &value)
 {
+    if (m_readOnly) return false;
     if (index < 0 || index >= ItemCount || value.id > 0x0FFF || value.count > 0x7F || !selectedBase()) return false;
     QVector<MhguItem> all = decodeItems();
     all[index] = value.id == 0 ? MhguItem{} : value;
@@ -353,6 +375,7 @@ bool MhguSave::setItem(int index, const MhguItem &value)
 
 bool MhguSave::setItems(const QVector<MhguItem> &values)
 {
+    if (m_readOnly) return false;
     if (!selectedBase() || values.size() != ItemCount) return false;
     for (const MhguItem &value : values)
         if (value.id > 0x0FFF || value.count > 0x7F) return false;
@@ -379,15 +402,81 @@ MhguEquipment MhguSave::equipment(int index) const
     out.skill1Points = qint8(m_raw[int(offset + 14)]);
     out.skill2Points = qint8(m_raw[int(offset + 15)]);
     out.talismanSlots = quint8(m_raw[int(offset + 16)]);
+    out.record = m_raw.mid(int(offset), EquipmentSize);
     return out;
 }
 
 bool MhguSave::setEquipment(int index, const MhguEquipment &value, QString *warning)
 {
+    if (m_readOnly) { if (warning) *warning = QStringLiteral("当前存档槽处于严格校验只读保护。 "); return false; }
     const quint32 base = selectedBase();
     const quint64 offset = quint64(base) + EquipmentOffset + quint64(index) * EquipmentSize;
     const bool validType = value.type <= 11 || (value.type >= 13 && value.type <= 21);
     if (!base || index < 0 || index >= EquipmentCount || !validType || value.level > 31 || !rangeOk(offset, EquipmentSize)) return false;
+    if (value.type != 0 && !m_validationData) {
+        if (warning) *warning = QStringLiteral("严格装备数据尚未加载，已拒绝写入。");
+        return false;
+    }
+    const MhguEquipment previous = equipment(index);
+    bool trustedRecordSource = value.record.isEmpty() && value.type != 20;
+    bool matchedExistingRecordSource = false;
+    if (value.record.size() == EquipmentSize) {
+        for (int candidate = 0; candidate < EquipmentCount; ++candidate) {
+            const MhguEquipment sourceValue = equipment(candidate);
+            if (sourceValue.type == value.type && sourceValue.id == value.id &&
+                    sourceValue.level == value.level && sourceValue.record.size() == EquipmentSize &&
+                    sourceValue.record.mid(12) == value.record.mid(12)) {
+                trustedRecordSource = true;
+                matchedExistingRecordSource = true;
+                break;
+            }
+        }
+        bool canonical = value.type != 20;
+        if (value.type == 6) {
+            static const quint8 rarityMarkers[] = {0, 97, 97, 98, 98, 99, 99, 99, 100, 100, 100};
+            bool generatedForm = true;
+            for (int offsetIndex = 17; generatedForm && offsetIndex < EquipmentSize; ++offsetIndex)
+                generatedForm = quint8(value.record[offsetIndex]) == 0;
+            bool persistedForm = quint8(value.record[17]) == 0 && value.id < std::size(rarityMarkers) &&
+                quint8(value.record[18]) == rarityMarkers[value.id] && quint8(value.record[19]) == 1;
+            for (int offsetIndex = 20; persistedForm && offsetIndex < EquipmentSize; ++offsetIndex)
+                persistedForm = quint8(value.record[offsetIndex]) == 0;
+            canonical = generatedForm || persistedForm;
+        } else {
+            for (int offsetIndex = 12; canonical && offsetIndex < EquipmentSize; ++offsetIndex)
+                canonical = quint8(value.record[offsetIndex]) == 0;
+        }
+        trustedRecordSource = trustedRecordSource || canonical;
+    }
+    if (!trustedRecordSource || (!value.record.isEmpty() && value.record.size() != EquipmentSize)) {
+        if (warning) *warning = value.type == 20
+            ? QStringLiteral("操虫棍的猎虫实例规则尚未完成确认；只能保留或复制当前装备箱中相同武器的原始记录。")
+            : QStringLiteral("装备包含无法确认来源的扩展字段，已拒绝写入。");
+        return false;
+    }
+    if (value.type >= 1 && value.type <= 5 && value.level != 0) {
+        bool trustedOriginal = previous.type == value.type && previous.id == value.id &&
+            previous.level == value.level;
+        trustedOriginal = trustedOriginal || matchedExistingRecordSource;
+        if (!trustedOriginal && value.record.size() == EquipmentSize) {
+            for (int candidate = 0; candidate < EquipmentCount; ++candidate) {
+                const quint64 source = quint64(base) + EquipmentOffset + quint64(candidate) * EquipmentSize;
+                if (m_raw.mid(int(source), EquipmentSize) == value.record) {
+                    trustedOriginal = true;
+                    break;
+                }
+            }
+        }
+        if (!trustedOriginal) {
+            if (warning) *warning = QStringLiteral("防具强化等级规则尚未完成确认；只能原样保留或复制当前存档中已有的合法记录。");
+            return false;
+        }
+    }
+    QString legality;
+    if (m_validationData && !m_validationData->validateHunterEquipment(value, &legality)) {
+        if (warning) *warning = legality.isEmpty() ? QStringLiteral("缺少严格装备合法性数据，已拒绝写入。") : legality;
+        return false;
+    }
 
     const QByteArray oldKey = m_raw.mid(int(offset), 12);
     QVector<quint64> matchingLoadouts;
@@ -402,6 +491,7 @@ bool MhguSave::setEquipment(int index, const MhguEquipment &value, QString *warn
     }
 
     auto writeEntry = [this, &value](quint64 target) {
+        if (value.record.size() == EquipmentSize) markIfChanged(target, value.record);
         quint16 packed = read16(target);
         packed = quint16((packed & 0xFC00) | ((value.level & 0x1F) << 5) | (value.type & 0x1F));
         write16(target, packed);
@@ -410,7 +500,7 @@ bool MhguSave::setEquipment(int index, const MhguEquipment &value, QString *warn
         for (int i = 0; i < 3; ++i) write16(target + 6 + i * 2, value.decorations[i]);
         if (value.type == 6) {
             static const quint8 rarityMarkers[] = {0, 97, 97, 98, 98, 99, 99, 99, 100, 100, 100};
-            QByteArray talisman(24, char(0));
+            QByteArray talisman = m_raw.mid(int(target + 12), 24);
             talisman[0] = char(value.skill1);
             talisman[1] = char(value.skill2);
             talisman[2] = char(value.skill1Points);
@@ -443,9 +533,12 @@ MhguPalicoEquipment MhguSave::palicoEquipment(int index) const
 
 bool MhguSave::setPalicoEquipment(int index, const MhguPalicoEquipment &value)
 {
+    if (m_readOnly) return false;
     const quint64 offset = quint64(selectedBase()) + PalicoEquipmentOffset + quint64(index) * EquipmentSize;
     if (index < 0 || index >= PalicoEquipmentCount || !rangeOk(offset, EquipmentSize)) return false;
     if (value.rawType != 0 && value.rawType != 22 && value.rawType != 23 && value.rawType != 24) return false;
+    if (value.rawType != 0 && !m_validationData) return false;
+    if (m_validationData && !m_validationData->validatePalicoEquipment(value)) return false;
     QByteArray lead = m_raw.mid(int(offset), 6);
     lead[0] = char(value.rawType);
     if (value.rawType == 0) {
@@ -464,6 +557,7 @@ bool MhguSave::setEquipmentBatch(const QVector<MhguEquipmentUpdate> &hunter,
                                  const QVector<MhguPalicoEquipmentUpdate> &palico,
                                  QStringList *warnings)
 {
+    if (m_readOnly) return false;
     if (warnings) warnings->clear();
     MhguSave staged = *this;
     QStringList stagedWarnings;
@@ -529,10 +623,14 @@ MhguPalico MhguSave::palico(int index) const
 
 bool MhguSave::setPalico(int index, const MhguPalico &value)
 {
+    if (m_readOnly || !m_validationData) return false;
     const quint32 base = selectedBase();
     if (base == 0) return false;
     const quint64 p = quint64(base) + PalicoOffset + quint64(index) * PalicoSize;
     if (index < 0 || index >= PalicoCount || !rangeOk(p, PalicoSize)) return false;
+    const QVector<PalicoValidationIssue> issues = validatePalico(value);
+    for (const PalicoValidationIssue &issue : issues)
+        if (issue.severity == PalicoIssueSeverity::Error) return false;
     writeUtf8(p, 32, value.name);
     const quint8 previousLevel = quint8(m_raw[int(p + 0x24)]) + 1;
     write32(p + 0x20, previousLevel == value.level ? value.experience : experienceForLevel(value.level));
@@ -816,6 +914,59 @@ bool MhguSave::validate(QString *error) const
     }
     if (error) error->clear();
     return true;
+}
+
+bool MhguSave::validateContent(QStringList *errors) const
+{
+    QStringList issues;
+    if (!m_validationData || !isOpen()) { if (errors) errors->clear(); return true; }
+    for (int i = 0; i < EquipmentCount; ++i) {
+        const MhguEquipment value = equipment(i);
+        if (value.type == 0) continue;
+        QString issue;
+        if (!m_validationData->validateHunterEquipment(value, &issue))
+            issues.push_back(QStringLiteral("猎人装备格 %1：%2").arg(i + 1).arg(issue));
+    }
+    for (int i = 0; i < PalicoEquipmentCount; ++i) {
+        const MhguPalicoEquipment value = palicoEquipment(i);
+        if (value.rawType == 0) continue;
+        QString issue;
+        if (!m_validationData->validatePalicoEquipment(value, &issue))
+            issues.push_back(QStringLiteral("猫装备格 %1：%2").arg(i + 1).arg(issue));
+    }
+    for (int i = 0; i < PalicoCount; ++i) {
+        const MhguPalico value = palico(i);
+        bool nonEmpty = !value.name.isEmpty();
+        for (quint8 id : value.learnedActions) nonEmpty = nonEmpty || (id != 0 && id != 57);
+        for (quint8 id : value.learnedSkills) nonEmpty = nonEmpty || (id != 0 && id != 96);
+        if (!nonEmpty) continue;
+        const QVector<PalicoValidationIssue> catIssues = validatePalico(value);
+        for (const PalicoValidationIssue &catIssue : catIssues)
+            if (catIssue.severity == PalicoIssueSeverity::Error)
+                issues.push_back(QStringLiteral("猫 %1：%2").arg(i + 1).arg(catIssue.message));
+    }
+    if (errors) *errors = issues;
+    return issues.isEmpty();
+}
+
+bool MhguSave::validateAllContent(QStringList *errors) const
+{
+    QStringList allIssues;
+    if (!m_validationData || !isOpen()) { if (errors) errors->clear(); return true; }
+    const QVector<MhguSlotInfo> saveSlots = slotInfos();
+    for (const MhguSlotInfo &slot : saveSlots) {
+        if (!slot.used) continue;
+        MhguSave selected = *this;
+        selected.m_selectedSlot = slot.index;
+        selected.m_readOnly = false;
+        selected.m_contentErrors.clear();
+        QStringList issues;
+        selected.validateContent(&issues);
+        for (const QString &issue : issues)
+            allIssues.push_back(QStringLiteral("存档槽 %1 · %2").arg(slot.index + 1).arg(issue));
+    }
+    if (errors) *errors = allIssues;
+    return allIssues.isEmpty();
 }
 
 quint32 MhguSave::selectedBase() const

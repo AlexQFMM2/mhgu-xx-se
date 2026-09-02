@@ -1,0 +1,327 @@
+id,skill_id,points,name,english,source
+1,1,10,Negate Poison,Negate Poison,mhgudb-ios-mit-a91a02b
+2,1,-10,Double Poison,Double Poison,mhgudb-ios-mit-a91a02b
+3,2,10,Negate Paralysis,Negate Paralysis,mhgudb-ios-mit-a91a02b
+4,2,-10,Double Paralysis,Double Paralysis,mhgudb-ios-mit-a91a02b
+5,3,10,Negate Sleep,Negate Sleep,mhgudb-ios-mit-a91a02b
+6,3,-10,Double Sleep,Double Sleep,mhgudb-ios-mit-a91a02b
+7,4,15,Negate Stun,Negate Stun,mhgudb-ios-mit-a91a02b
+8,4,10,Halve Stun,Halve Stun,mhgudb-ios-mit-a91a02b
+9,4,-10,Double Stun,Double Stun,mhgudb-ios-mit-a91a02b
+10,5,15,HG Earplugs,HG Earplugs,mhgudb-ios-mit-a91a02b
+11,5,10,Earplugs,Earplugs,mhgudb-ios-mit-a91a02b
+12,6,15,Windproof (Hi),Windproof (Hi),mhgudb-ios-mit-a91a02b
+13,6,10,Windproof (Lo),Windproof (Lo),mhgudb-ios-mit-a91a02b
+14,7,10,Tremor Res,Tremor Res,mhgudb-ios-mit-a91a02b
+15,8,10,Negate Bind,Negate Bind,mhgudb-ios-mit-a91a02b
+16,9,10,Heat Cancel,Heat Cancel,mhgudb-ios-mit-a91a02b
+17,9,-10,Heat Surge,Heat Surge,mhgudb-ios-mit-a91a02b
+18,10,10,Cold Cancel,Cold Cancel,mhgudb-ios-mit-a91a02b
+19,10,-10,Cold Surge,Cold Surge,mhgudb-ios-mit-a91a02b
+20,11,10,Polar Hunter,Polar Hunter,mhgudb-ios-mit-a91a02b
+21,12,10,Tropic Hunter,Tropic Hunter,mhgudb-ios-mit-a91a02b
+22,13,10,Anti-Theft,Anti-Theft,mhgudb-ios-mit-a91a02b
+23,14,10,Iron Skin,Iron Skin,mhgudb-ios-mit-a91a02b
+24,15,10,Antivirus,Antivirus,mhgudb-ios-mit-a91a02b
+25,16,15,Bio Master,Bio Master,mhgudb-ios-mit-a91a02b
+26,16,10,Bio Researcher,Bio Researcher,mhgudb-ios-mit-a91a02b
+27,17,10,Negate Bleeding,Negate Bleeding,mhgudb-ios-mit-a91a02b
+28,17,-10,Double Bleeding,Double Bleeding,mhgudb-ios-mit-a91a02b
+29,18,20,Attack Up (L),Attack Up (L),mhgudb-ios-mit-a91a02b
+30,18,15,Attack Up (M),Attack Up (M),mhgudb-ios-mit-a91a02b
+31,18,10,Attack Up (S),Attack Up (S),mhgudb-ios-mit-a91a02b
+32,18,-10,Attack Down (S),Attack Down (S),mhgudb-ios-mit-a91a02b
+33,18,-15,Attack Down (M),Attack Down (M),mhgudb-ios-mit-a91a02b
+34,18,-20,Attack Down (L),Attack Down (L),mhgudb-ios-mit-a91a02b
+35,19,20,Defense Up (L),Defense Up (L),mhgudb-ios-mit-a91a02b
+36,19,15,Defense Up (M),Defense Up (M),mhgudb-ios-mit-a91a02b
+37,19,10,Defense Up (S),Defense Up (S),mhgudb-ios-mit-a91a02b
+38,19,-10,Defense Down (S),Defense Down (S),mhgudb-ios-mit-a91a02b
+39,19,-15,Defense Down (M),Defense Down (M),mhgudb-ios-mit-a91a02b
+40,19,-20,Defense Down (L),Defense Down (L),mhgudb-ios-mit-a91a02b
+41,20,15,Health +50,Health +50,mhgudb-ios-mit-a91a02b
+42,20,10,Health +20,Health +20,mhgudb-ios-mit-a91a02b
+43,20,-10,Health -10,Health -10,mhgudb-ios-mit-a91a02b
+44,20,-15,Health -30,Health -30,mhgudb-ios-mit-a91a02b
+45,21,15,Fire Res +20,Fire Res +20,mhgudb-ios-mit-a91a02b
+46,21,10,Fire Res +15,Fire Res +15,mhgudb-ios-mit-a91a02b
+47,21,-10,Fire Res -20,Fire Res -20,mhgudb-ios-mit-a91a02b
+48,22,15,Water Res +20,Water Res +20,mhgudb-ios-mit-a91a02b
+49,22,10,Water Res +15,Water Res +15,mhgudb-ios-mit-a91a02b
+50,22,-10,Water Res -20,Water Res -20,mhgudb-ios-mit-a91a02b
+51,23,15,Thunder Res +20,Thunder Res +20,mhgudb-ios-mit-a91a02b
+52,23,10,Thunder Res +15,Thunder Res +15,mhgudb-ios-mit-a91a02b
+53,23,-10,Thunder Res -20,Thunder Res -20,mhgudb-ios-mit-a91a02b
+54,24,15,Ice Res +20,Ice Res +20,mhgudb-ios-mit-a91a02b
+55,24,10,Ice Res +15,Ice Res +15,mhgudb-ios-mit-a91a02b
+56,24,-10,Ice Res -20,Ice Res -20,mhgudb-ios-mit-a91a02b
+57,25,15,Dragon Res +20,Dragon Res +20,mhgudb-ios-mit-a91a02b
+58,25,10,Dragon Res +15,Dragon Res +15,mhgudb-ios-mit-a91a02b
+59,25,-10,Dragon Res -20,Dragon Res -20,mhgudb-ios-mit-a91a02b
+60,26,10,Blightproof,Blightproof,mhgudb-ios-mit-a91a02b
+61,27,15,Fire Atk +2,Fire Atk +2,mhgudb-ios-mit-a91a02b
+62,27,10,Fire Atk +1,Fire Atk +1,mhgudb-ios-mit-a91a02b
+63,27,-10,Fire Atk Down,Fire Atk Down,mhgudb-ios-mit-a91a02b
+64,28,15,Water Atk +2,Water Atk +2,mhgudb-ios-mit-a91a02b
+65,28,10,Water Atk +1,Water Atk +1,mhgudb-ios-mit-a91a02b
+66,28,-10,Water Atk Down,Water Atk Down,mhgudb-ios-mit-a91a02b
+67,29,15,Thunder Atk +2,Thunder Atk +2,mhgudb-ios-mit-a91a02b
+68,29,10,Thunder Atk +1,Thunder Atk +1,mhgudb-ios-mit-a91a02b
+69,29,-10,Thunder Atk Down,Thunder Atk Down,mhgudb-ios-mit-a91a02b
+70,30,15,Ice Atk +2,Ice Atk +2,mhgudb-ios-mit-a91a02b
+71,30,10,Ice Atk +1,Ice Atk +1,mhgudb-ios-mit-a91a02b
+72,30,-10,Ice Atk Down,Ice Atk Down,mhgudb-ios-mit-a91a02b
+73,31,15,Dragon Atk +2,Dragon Atk +2,mhgudb-ios-mit-a91a02b
+74,31,10,Dragon Atk +1,Dragon Atk +1,mhgudb-ios-mit-a91a02b
+75,31,-10,Dragon Atk Down,Dragon Atk Down,mhgudb-ios-mit-a91a02b
+76,32,10,Element Atk Up,Element Atk Up,mhgudb-ios-mit-a91a02b
+77,32,-10,Element Atk Down,Element Atk Down,mhgudb-ios-mit-a91a02b
+78,33,15,Status Atk +2,Status Atk +2,mhgudb-ios-mit-a91a02b
+79,33,10,Status Atk +1,Status Atk +1,mhgudb-ios-mit-a91a02b
+80,33,-10,Status Atk Down,Status Atk Down,mhgudb-ios-mit-a91a02b
+81,34,10,Speed Sharpening,Speed Sharpening,mhgudb-ios-mit-a91a02b
+82,34,-10,Slow Sharpening,Slow Sharpening,mhgudb-ios-mit-a91a02b
+83,35,15,Sharpness +2,Sharpness +2,mhgudb-ios-mit-a91a02b
+84,35,10,Sharpness +1,Sharpness +1,mhgudb-ios-mit-a91a02b
+85,36,10,Razor Sharp,Razor Sharp,mhgudb-ios-mit-a91a02b
+86,36,-10,Blunt Edge,Blunt Edge,mhgudb-ios-mit-a91a02b
+87,37,10,Mind's Eye,Mind's Eye,mhgudb-ios-mit-a91a02b
+88,37,-10,Blind Eye,Blind Eye,mhgudb-ios-mit-a91a02b
+89,38,10,Heavy Polish,Heavy Polish,mhgudb-ios-mit-a91a02b
+90,39,10,Bludgeoner,Bludgeoner,mhgudb-ios-mit-a91a02b
+91,40,10,Critical Draw,Critical Draw,mhgudb-ios-mit-a91a02b
+92,41,10,Punishing Draw,Punishing Draw,mhgudb-ios-mit-a91a02b
+93,42,10,Quick Sheath,Quick Sheath,mhgudb-ios-mit-a91a02b
+94,43,10,Challenge Sheath,Challenge Sheath,mhgudb-ios-mit-a91a02b
+95,44,10,Bladescale Hone,Bladescale Hone,mhgudb-ios-mit-a91a02b
+96,45,20,Reload Speed +3,Reload Speed +3,mhgudb-ios-mit-a91a02b
+97,45,15,Reload Speed +2,Reload Speed +2,mhgudb-ios-mit-a91a02b
+98,45,10,Reload Speed +1,Reload Speed +1,mhgudb-ios-mit-a91a02b
+99,45,-10,Reload Speed -1,Reload Speed -1,mhgudb-ios-mit-a91a02b
+100,45,-15,Reload Speed -2,Reload Speed -2,mhgudb-ios-mit-a91a02b
+101,45,-20,Reload Speed -3,Reload Speed -3,mhgudb-ios-mit-a91a02b
+102,46,20,Recoil Down +3,Recoil Down +3,mhgudb-ios-mit-a91a02b
+103,46,15,Recoil Down +2,Recoil Down +2,mhgudb-ios-mit-a91a02b
+104,46,10,Recoil Down +1,Recoil Down +1,mhgudb-ios-mit-a91a02b
+105,46,-10,Recoil Down -1,Recoil Down -1,mhgudb-ios-mit-a91a02b
+106,46,-15,Recoil Down -2,Recoil Down -2,mhgudb-ios-mit-a91a02b
+107,46,-20,Recoil Down -3,Recoil Down -3,mhgudb-ios-mit-a91a02b
+108,47,15,Steadiness +2,Steadiness +2,mhgudb-ios-mit-a91a02b
+109,47,10,Steadiness +1,Steadiness +1,mhgudb-ios-mit-a91a02b
+110,47,-10,Steadiness -1,Steadiness -1,mhgudb-ios-mit-a91a02b
+111,47,-15,Steadiness -2,Steadiness -2,mhgudb-ios-mit-a91a02b
+112,48,10,Normal/Rapid Up,Normal/Rapid Up,mhgudb-ios-mit-a91a02b
+113,49,10,Pierce/Pierce Up,Pierce/Pierce Up,mhgudb-ios-mit-a91a02b
+114,50,10,Pellet/Spread Up,Pellet/Spread Up,mhgudb-ios-mit-a91a02b
+115,51,10,Heavy/Heavy Up,Heavy/Heavy Up,mhgudb-ios-mit-a91a02b
+116,52,10,Use Any Normal S,Use Any Normal S,mhgudb-ios-mit-a91a02b
+117,53,15,Use Any Pierce S,Use Any Pierce S,mhgudb-ios-mit-a91a02b
+118,53,10,Use Lv1 Pierce S,Use Lv1 Pierce S,mhgudb-ios-mit-a91a02b
+119,54,15,Use Any Pellet S,Use Any Pellet S,mhgudb-ios-mit-a91a02b
+120,54,10,Use Lv1 Pellet S,Use Lv1 Pellet S,mhgudb-ios-mit-a91a02b
+121,55,15,Use Any Crag S,Use Any Crag S,mhgudb-ios-mit-a91a02b
+122,55,10,Use Lv1 Crag S,Use Lv1 Crag S,mhgudb-ios-mit-a91a02b
+123,56,15,Use Any Clust S,Use Any Clust S,mhgudb-ios-mit-a91a02b
+124,56,10,Use Lv1 Clust S,Use Lv1 Clust S,mhgudb-ios-mit-a91a02b
+125,57,10,Use Poison Coat,Use Poison Coat,mhgudb-ios-mit-a91a02b
+126,58,10,Use Para Coat,Use Para Coat,mhgudb-ios-mit-a91a02b
+127,59,10,Use Sleep Coat,Use Sleep Coat,mhgudb-ios-mit-a91a02b
+128,60,15,Power Phial (All),Power Phial (All),mhgudb-ios-mit-a91a02b
+129,60,10,Power Phial (Lv1),Power Phial (Lv1),mhgudb-ios-mit-a91a02b
+130,61,15,Element Phial (All),Element Phial (All),mhgudb-ios-mit-a91a02b
+131,61,10,Element Phial (Lv1),Element Phial (Lv1),mhgudb-ios-mit-a91a02b
+132,62,10,Use C.Range Coat,Use C.Range Coat,mhgudb-ios-mit-a91a02b
+133,63,10,Use Exhaust Coat,Use Exhaust Coat,mhgudb-ios-mit-a91a02b
+134,64,10,Use Blast Coat,Use Blast Coat,mhgudb-ios-mit-a91a02b
+135,65,10,Bonus Shot,Bonus Shot,mhgudb-ios-mit-a91a02b
+136,66,10,Shot Booster,Shot Booster,mhgudb-ios-mit-a91a02b
+137,67,10,Load Up,Load Up,mhgudb-ios-mit-a91a02b
+138,68,10,TrueShot Up,TrueShot Up,mhgudb-ios-mit-a91a02b
+139,69,10,Ammo Saver,Ammo Saver,mhgudb-ios-mit-a91a02b
+140,70,20,Critical Eye +3,Critical Eye +3,mhgudb-ios-mit-a91a02b
+141,70,15,Critical Eye +2,Critical Eye +2,mhgudb-ios-mit-a91a02b
+142,70,10,Critical Eye +1,Critical Eye +1,mhgudb-ios-mit-a91a02b
+143,70,-10,Critical Eye -1,Critical Eye -1,mhgudb-ios-mit-a91a02b
+144,70,-15,Critical Eye -2,Critical Eye -2,mhgudb-ios-mit-a91a02b
+145,70,-20,Critical Eye -3,Critical Eye -3,mhgudb-ios-mit-a91a02b
+146,71,10,Weakness Exploit,Weakness Exploit,mhgudb-ios-mit-a91a02b
+147,72,10,Repeat Offender,Repeat Offender,mhgudb-ios-mit-a91a02b
+148,73,10,Status Crit,Status Crit,mhgudb-ios-mit-a91a02b
+149,74,10,Elemental Crit,Elemental Crit,mhgudb-ios-mit-a91a02b
+150,75,10,Critical Boost,Critical Boost,mhgudb-ios-mit-a91a02b
+151,76,10,Bitter Affinity,Bitter Affinity,mhgudb-ios-mit-a91a02b
+152,77,10,Focus,Focus,mhgudb-ios-mit-a91a02b
+153,77,-10,Distraction,Distraction,mhgudb-ios-mit-a91a02b
+154,78,10,Marathon Runner,Marathon Runner,mhgudb-ios-mit-a91a02b
+155,78,-10,Short Sprinter,Short Sprinter,mhgudb-ios-mit-a91a02b
+156,79,15,Constitution +2,Constitution +2,mhgudb-ios-mit-a91a02b
+157,79,10,Constitution +1,Constitution +1,mhgudb-ios-mit-a91a02b
+158,79,-10,Constitution -1,Constitution -1,mhgudb-ios-mit-a91a02b
+159,79,-15,Constitution -2,Constitution -2,mhgudb-ios-mit-a91a02b
+160,80,10,Stam Recov Up,Stam Recov Up,mhgudb-ios-mit-a91a02b
+161,80,-10,Stam Recov Down,Stam Recov Down,mhgudb-ios-mit-a91a02b
+162,81,10,Endurance Runner,Endurance Runner,mhgudb-ios-mit-a91a02b
+163,82,15,Evasion +2,Evasion +2,mhgudb-ios-mit-a91a02b
+164,82,10,Evasion +1,Evasion +1,mhgudb-ios-mit-a91a02b
+165,82,-10,Evasion Down,Evasion Down,mhgudb-ios-mit-a91a02b
+166,83,10,Evade Extender,Evade Extender,mhgudb-ios-mit-a91a02b
+167,84,10,Bubbly Dance,Bubbly Dance,mhgudb-ios-mit-a91a02b
+168,85,15,Guard +2,Guard +2,mhgudb-ios-mit-a91a02b
+169,85,10,Guard +1,Guard +1,mhgudb-ios-mit-a91a02b
+170,85,-10,Guard -1,Guard -1,mhgudb-ios-mit-a91a02b
+171,86,10,Guard Up,Guard Up,mhgudb-ios-mit-a91a02b
+172,87,10,Knockout King,Knockout King,mhgudb-ios-mit-a91a02b
+173,88,10,Stamina Thief,Stamina Thief,mhgudb-ios-mit-a91a02b
+174,89,10,Horn Maestro,Horn Maestro,mhgudb-ios-mit-a91a02b
+175,90,15,Artillery Expert,Artillery Expert,mhgudb-ios-mit-a91a02b
+176,90,10,Artillery Novice,Artillery Novice,mhgudb-ios-mit-a91a02b
+177,91,10,Partbreaker,Partbreaker,mhgudb-ios-mit-a91a02b
+178,92,10,Bombardier,Bombardier,mhgudb-ios-mit-a91a02b
+179,93,15,Latent Power +2,Latent Power +2,mhgudb-ios-mit-a91a02b
+180,93,10,Latent Power +1,Latent Power +1,mhgudb-ios-mit-a91a02b
+181,94,15,Challenger +2,Challenger +2,mhgudb-ios-mit-a91a02b
+182,94,10,Challenger +1,Challenger +1,mhgudb-ios-mit-a91a02b
+183,95,10,Peak Performance,Peak Performance,mhgudb-ios-mit-a91a02b
+184,96,10,Trump Card,Trump Card,mhgudb-ios-mit-a91a02b
+185,97,10,Dragonheart,Dragonheart,mhgudb-ios-mit-a91a02b
+186,98,15,Adrenaline +2,Adrenaline +2,mhgudb-ios-mit-a91a02b
+187,98,10,Adrenaline +1,Adrenaline +1,mhgudb-ios-mit-a91a02b
+188,98,-10,Worrywart,Worrywart,mhgudb-ios-mit-a91a02b
+189,99,10,Fortify,Fortify,mhgudb-ios-mit-a91a02b
+190,100,10,Resentment,Resentment,mhgudb-ios-mit-a91a02b
+191,101,10,Resuscitate,Resuscitate,mhgudb-ios-mit-a91a02b
+192,102,10,Guts,Guts,mhgudb-ios-mit-a91a02b
+193,103,10,Sneak,Sneak,mhgudb-ios-mit-a91a02b
+194,103,-10,Taunt,Taunt,mhgudb-ios-mit-a91a02b
+195,104,10,Palico Rally,Palico Rally,mhgudb-ios-mit-a91a02b
+196,105,10,Palico Cheer,Palico Cheer,mhgudb-ios-mit-a91a02b
+197,106,10,Mounting Master,Mounting Master,mhgudb-ios-mit-a91a02b
+198,106,-10,Saddle Sore,Saddle Sore,mhgudb-ios-mit-a91a02b
+199,107,10,Airborne,Airborne,mhgudb-ios-mit-a91a02b
+200,108,10,Composed,Composed,mhgudb-ios-mit-a91a02b
+201,109,10,Chance Seizer,Chance Seizer,mhgudb-ios-mit-a91a02b
+202,110,10,Longer SP,Longer SP,mhgudb-ios-mit-a91a02b
+203,111,15,Autotracker,Autotracker,mhgudb-ios-mit-a91a02b
+204,111,10,Detect,Detect,mhgudb-ios-mit-a91a02b
+205,112,10,Capture Guru,Capture Guru,mhgudb-ios-mit-a91a02b
+206,113,10,Outdoorsman,Outdoorsman,mhgudb-ios-mit-a91a02b
+207,114,10,Pro Transporter,Pro Transporter,mhgudb-ios-mit-a91a02b
+208,115,10,Divine Blessing,Divine Blessing,mhgudb-ios-mit-a91a02b
+209,115,-10,Demonic Blessing,Demonic Blessing,mhgudb-ios-mit-a91a02b
+210,116,10,Hero's Talisman,Hero's Talisman,mhgudb-ios-mit-a91a02b
+211,117,10,Recovery Up,Recovery Up,mhgudb-ios-mit-a91a02b
+212,117,-10,Recovery Down,Recovery Down,mhgudb-ios-mit-a91a02b
+213,118,15,Recovery Spd +2,Recovery Spd +2,mhgudb-ios-mit-a91a02b
+214,118,10,Recovery Spd +1,Recovery Spd +1,mhgudb-ios-mit-a91a02b
+215,118,-10,Recovery Spd -1,Recovery Spd -1,mhgudb-ios-mit-a91a02b
+216,118,-15,Recovery Spd -2,Recovery Spd -2,mhgudb-ios-mit-a91a02b
+217,119,10,Item Use Up,Item Use Up,mhgudb-ios-mit-a91a02b
+218,119,-10,Item Use Down,Item Use Down,mhgudb-ios-mit-a91a02b
+219,120,15,Wide-Range +2,Wide-Range +2,mhgudb-ios-mit-a91a02b
+220,120,10,Wide-Range +1,Wide-Range +1,mhgudb-ios-mit-a91a02b
+221,121,15,Negate Hunger,Negate Hunger,mhgudb-ios-mit-a91a02b
+222,121,10,Halve Hunger,Halve Hunger,mhgudb-ios-mit-a91a02b
+223,121,-10,Raise Hunger,Raise Hunger,mhgudb-ios-mit-a91a02b
+224,121,-15,Double Hunger,Double Hunger,mhgudb-ios-mit-a91a02b
+225,122,15,Scavenger,Scavenger,mhgudb-ios-mit-a91a02b
+226,122,10,Gourmand,Gourmand,mhgudb-ios-mit-a91a02b
+227,123,15,Speed Eating +2,Speed Eating +2,mhgudb-ios-mit-a91a02b
+228,123,10,Speed Eating +1,Speed Eating +1,mhgudb-ios-mit-a91a02b
+229,123,-10,Slow Eater,Slow Eater,mhgudb-ios-mit-a91a02b
+230,124,10,Rationer,Rationer,mhgudb-ios-mit-a91a02b
+231,125,10,Meat Lover,Meat Lover,mhgudb-ios-mit-a91a02b
+232,126,10,Mushromancer,Mushromancer,mhgudb-ios-mit-a91a02b
+233,127,15,Pro Herbology,Pro Herbology,mhgudb-ios-mit-a91a02b
+234,127,10,Herbology,Herbology,mhgudb-ios-mit-a91a02b
+235,128,15,Combination +45%,Combination +45%,mhgudb-ios-mit-a91a02b
+236,128,10,Combination +20%,Combination +20%,mhgudb-ios-mit-a91a02b
+237,128,-10,Combination -10%,Combination -10%,mhgudb-ios-mit-a91a02b
+238,128,-15,Combination -20%,Combination -20%,mhgudb-ios-mit-a91a02b
+239,129,10,Combination Pro,Combination Pro,mhgudb-ios-mit-a91a02b
+240,130,10,Trap Master,Trap Master,mhgudb-ios-mit-a91a02b
+241,131,15,Gathering +2,Gathering +2,mhgudb-ios-mit-a91a02b
+242,131,10,Gathering +1,Gathering +1,mhgudb-ios-mit-a91a02b
+243,131,-10,Gathering -1,Gathering -1,mhgudb-ios-mit-a91a02b
+244,132,10,Honey Hunter,Honey Hunter,mhgudb-ios-mit-a91a02b
+245,133,15,Charm Chaser,Charm Chaser,mhgudb-ios-mit-a91a02b
+246,133,10,Charm Collector,Charm Collector,mhgudb-ios-mit-a91a02b
+247,134,15,Divine Whim,Divine Whim,mhgudb-ios-mit-a91a02b
+248,134,10,Spirit's Whim,Spirit's Whim,mhgudb-ios-mit-a91a02b
+249,134,-10,Spectre's Whim,Spectre's Whim,mhgudb-ios-mit-a91a02b
+250,134,-15,Devil's Whim,Devil's Whim,mhgudb-ios-mit-a91a02b
+251,135,20,Miraculous Luck,Miraculous Luck,mhgudb-ios-mit-a91a02b
+252,135,15,Great Luck,Great Luck,mhgudb-ios-mit-a91a02b
+253,135,10,Good Luck,Good Luck,mhgudb-ios-mit-a91a02b
+254,135,-10,Bad Luck,Bad Luck,mhgudb-ios-mit-a91a02b
+255,135,-15,Horrible Luck,Horrible Luck,mhgudb-ios-mit-a91a02b
+256,136,15,Carving Celebrity,Carving Celebrity,mhgudb-ios-mit-a91a02b
+257,136,10,Carving Pro,Carving Pro,mhgudb-ios-mit-a91a02b
+258,137,15,Capture Master,Capture Master,mhgudb-ios-mit-a91a02b
+259,137,10,Capture Expert,Capture Expert,mhgudb-ios-mit-a91a02b
+260,138,10,Soul of Bherna,Soul of Bherna,mhgudb-ios-mit-a91a02b
+261,139,10,Soul of Kokoto,Soul of Kokoto,mhgudb-ios-mit-a91a02b
+262,140,10,Soul of Pokke,Soul of Pokke,mhgudb-ios-mit-a91a02b
+263,141,10,Soul of Yukumo,Soul of Yukumo,mhgudb-ios-mit-a91a02b
+264,142,10,Soaratorium Soul,Soaratorium Soul,mhgudb-ios-mit-a91a02b
+265,143,10,Flying Pub Soul,Flying Pub Soul,mhgudb-ios-mit-a91a02b
+266,144,10,Redhelm Soul,Redhelm Soul,mhgudb-ios-mit-a91a02b
+267,145,10,Snowbaron Soul,Snowbaron Soul,mhgudb-ios-mit-a91a02b
+268,146,10,Stonefist Soul,Stonefist Soul,mhgudb-ios-mit-a91a02b
+269,147,10,Drilltusk Soul,Drilltusk Soul,mhgudb-ios-mit-a91a02b
+270,148,10,Dreadqueen Soul,Dreadqueen Soul,mhgudb-ios-mit-a91a02b
+271,149,10,Crystalbeard Soul,Crystalbeard Soul,mhgudb-ios-mit-a91a02b
+272,150,10,Silverwind Soul,Silverwind Soul,mhgudb-ios-mit-a91a02b
+273,151,10,Deadeye Soul,Deadeye Soul,mhgudb-ios-mit-a91a02b
+274,152,10,Dreadking Soul,Dreadking Soul,mhgudb-ios-mit-a91a02b
+275,153,10,Thunderlord Soul,Thunderlord Soul,mhgudb-ios-mit-a91a02b
+276,154,10,Grimclaw Soul,Grimclaw Soul,mhgudb-ios-mit-a91a02b
+277,155,10,Hellblade Soul,Hellblade Soul,mhgudb-ios-mit-a91a02b
+278,156,10,Nightcloak Soul,Nightcloak Soul,mhgudb-ios-mit-a91a02b
+279,157,10,Rustrazor Soul,Rustrazor Soul,mhgudb-ios-mit-a91a02b
+280,158,10,Soulseer Soul,Soulseer Soul,mhgudb-ios-mit-a91a02b
+281,159,10,Boltreaver Soul,Boltreaver Soul,mhgudb-ios-mit-a91a02b
+282,160,10,Elderfrost Soul,Elderfrost Soul,mhgudb-ios-mit-a91a02b
+283,161,10,Bloodbath Soul,Bloodbath Soul,mhgudb-ios-mit-a91a02b
+284,162,10,Redhelm Soul X,Redhelm Soul X,mhgudb-ios-mit-a91a02b
+285,163,10,Snowbaron Soul X,Snowbaron Soul X,mhgudb-ios-mit-a91a02b
+286,164,10,Stonefist Soul X,Stonefist Soul X,mhgudb-ios-mit-a91a02b
+287,165,10,Drilltusk Soul X,Drilltusk Soul X,mhgudb-ios-mit-a91a02b
+288,166,10,D.queen Soul X,D.queen Soul X,mhgudb-ios-mit-a91a02b
+289,167,10,C.beard Soul X,C.beard Soul X,mhgudb-ios-mit-a91a02b
+290,168,10,Silverwind Soul X,Silverwind Soul X,mhgudb-ios-mit-a91a02b
+291,169,10,Deadeye Soul X,Deadeye Soul X,mhgudb-ios-mit-a91a02b
+292,170,10,Dreadking Soul X,Dreadking Soul X,mhgudb-ios-mit-a91a02b
+293,171,10,Thunderlord Soul X,Thunderlord Soul X,mhgudb-ios-mit-a91a02b
+294,172,10,Grimclaw Soul X,Grimclaw Soul X,mhgudb-ios-mit-a91a02b
+295,173,10,Hellblade Soul X,Hellblade Soul X,mhgudb-ios-mit-a91a02b
+296,174,10,Nightcloak Soul X,Nightcloak Soul X,mhgudb-ios-mit-a91a02b
+297,175,10,Rustrazor Soul X,Rustrazor Soul X,mhgudb-ios-mit-a91a02b
+298,176,10,Soulseer Soul X,Soulseer Soul X,mhgudb-ios-mit-a91a02b
+299,177,10,Boltreaver Soul X,Boltreaver Soul X,mhgudb-ios-mit-a91a02b
+300,178,10,Elderfrost Soul X,Elderfrost Soul X,mhgudb-ios-mit-a91a02b
+301,179,10,Bloodbath Soul X,Bloodbath Soul X,mhgudb-ios-mit-a91a02b
+302,180,10,Pro Dirty Fencer,Pro Dirty Fencer,mhgudb-ios-mit-a91a02b
+303,181,10,Steady Hand,Steady Hand,mhgudb-ios-mit-a91a02b
+304,182,10,Alloy Stomach,Alloy Stomach,mhgudb-ios-mit-a91a02b
+305,183,10,Explosive Trapper,Explosive Trapper,mhgudb-ios-mit-a91a02b
+306,184,10,Crushing Blow,Crushing Blow,mhgudb-ios-mit-a91a02b
+307,185,10,Benediction,Benediction,mhgudb-ios-mit-a91a02b
+308,186,10,Clandestine,Clandestine,mhgudb-ios-mit-a91a02b
+309,187,10,Honed Blade,Honed Blade,mhgudb-ios-mit-a91a02b
+310,188,10,Silver Bullet,Silver Bullet,mhgudb-ios-mit-a91a02b
+311,189,10,Wellness,Wellness,mhgudb-ios-mit-a91a02b
+312,190,10,Wrath Awoken,Wrath Awoken,mhgudb-ios-mit-a91a02b
+313,191,10,Acrobat,Acrobat,mhgudb-ios-mit-a91a02b
+314,192,10,Sheath Control,Sheath Control,mhgudb-ios-mit-a91a02b
+315,193,10,Iron Wall,Iron Wall,mhgudb-ios-mit-a91a02b
+316,194,10,Ruthlessness,Ruthlessness,mhgudb-ios-mit-a91a02b
+317,195,10,Shield Bearer,Shield Bearer,mhgudb-ios-mit-a91a02b
+318,196,10,Fleet Feet,Fleet Feet,mhgudb-ios-mit-a91a02b
+319,197,10,Elementality,Elementality,mhgudb-ios-mit-a91a02b
+320,198,10,Pack Rat,Pack Rat,mhgudb-ios-mit-a91a02b
+321,199,10,Bounty Hunter,Bounty Hunter,mhgudb-ios-mit-a91a02b
+322,200,10,Hazefur Talisman,Hazefur Talisman,mhgudb-ios-mit-a91a02b
+323,201,10,Pyroscale Talisman,Pyroscale Talisman,mhgudb-ios-mit-a91a02b
+324,202,10,Steelshell Talisman,Steelshell Talisman,mhgudb-ios-mit-a91a02b
+326,204,10,Skill +2,Skill +2,mhgudb-ios-mit-a91a02b
+327,205,10,Double Talisman,Double Talisman,mhgudb-ios-mit-a91a02b

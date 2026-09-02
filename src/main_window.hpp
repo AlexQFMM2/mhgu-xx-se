@@ -13,6 +13,7 @@ class QLabel;
 class QPushButton;
 class QStackedWidget;
 class QCloseEvent;
+class LoadoutPage;
 
 class MainWindow : public QMainWindow {
     Q_OBJECT
@@ -28,6 +29,7 @@ private slots:
     void showItems();
     void showEquipment();
     void showPalicos();
+    void showLoadout();
     void markModified();
 private:
     void createPages();
@@ -51,6 +53,7 @@ private:
     QPushButton *m_itemsButton = nullptr;
     QPushButton *m_equipmentButton = nullptr;
     QPushButton *m_palicosButton = nullptr;
+    QPushButton *m_loadoutButton = nullptr;
     QPushButton *m_openButton = nullptr;
     QPushButton *m_saveButton = nullptr;
     QPushButton *m_switchButton = nullptr;
@@ -63,4 +66,5 @@ private:
     ItemBoxDialog *m_itemsPage = nullptr;
     EquipmentBoxDialog *m_equipmentPage = nullptr;
     PalicoListDialog *m_palicosPage = nullptr;
+    LoadoutPage *m_loadoutPage = nullptr;
 };

@@ -14,7 +14,15 @@ This project is licensed under GPL-3.0-or-later.
   hashes and source details.
 - Palico Chinese translations include reviewed community material attributed
   in `tools/reference/palico_cn_translation.json`.
+- Armor statistics, resistances and skill contributions are imported from the
+  MIT-licensed `JoeLago/MHGUDB-iOS` database at commit
+  `a91a02bc076883df671c2a4fff3ac53be7d710a8`; its database SHA-256 and ID
+  cross-checks are pinned in the data manifest.
+- Talisman slot-generation thresholds and their fulfillment formula are from
+  the MIT-licensed `AthenaADP/MHGU-ASS` at commit
+  `ae7f125d1d381278d15908d7ce5b092076423918`. They are combined with the
+  independently extracted native RomFS skill ranges; unknown combinations are
+  rejected rather than approximated.
 
 Monster Hunter, MHGU and MHXX are trademarks of Capcom. This is an unofficial
 fan tool and is not affiliated with or endorsed by Capcom.
-

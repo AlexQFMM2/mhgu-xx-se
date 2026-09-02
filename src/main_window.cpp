@@ -1,6 +1,7 @@
 #include "main_window.hpp"
 
 #include "editor_dialogs.hpp"
+#include "loadout.hpp"
 
 #include <QAbstractButton>
 #include <QCloseEvent>
@@ -22,6 +23,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     setWindowTitle(QStringLiteral("MHGU / MHXX 存档修改器"));
     if (!m_data.load(QStringLiteral("cn")))
         QMessageBox::critical(this, QStringLiteral("数据加载失败"), m_data.error());
+    m_save.setValidationData(&m_data);
 
     auto *surface = new QWidget(this);
     setCentralWidget(surface);
@@ -55,12 +57,14 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     m_itemsButton = makeNavigation(QStringLiteral("道具箱"));
     m_equipmentButton = makeNavigation(QStringLiteral("装备箱"));
     m_palicosButton = makeNavigation(QStringLiteral("猫猫"));
+    m_loadoutButton = makeNavigation(QStringLiteral("配装器"));
     navigation->addWidget(m_switchButton);
     navigation->addSpacing(8);
     navigation->addWidget(m_characterButton);
     navigation->addWidget(m_itemsButton);
     navigation->addWidget(m_equipmentButton);
     navigation->addWidget(m_palicosButton);
+    navigation->addWidget(m_loadoutButton);
     navigation->addStretch();
 
     auto *workspace = new QWidget(surface);
@@ -153,6 +157,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     connect(m_itemsButton, &QPushButton::clicked, this, &MainWindow::showItems);
     connect(m_equipmentButton, &QPushButton::clicked, this, &MainWindow::showEquipment);
     connect(m_palicosButton, &QPushButton::clicked, this, &MainWindow::showPalicos);
+    connect(m_loadoutButton, &QPushButton::clicked, this, &MainWindow::showLoadout);
     connect(m_openButton, &QPushButton::clicked, this, &MainWindow::openFile);
     connect(m_saveButton, &QPushButton::clicked, this, &MainWindow::saveFile);
     resize(1100, 700);
@@ -167,14 +172,17 @@ void MainWindow::createPages()
     m_itemsPage = new ItemBoxDialog(&m_save, &m_data, m_pages);
     m_equipmentPage = new EquipmentBoxDialog(&m_save, &m_data, m_pages);
     m_palicosPage = new PalicoListDialog(&m_save, &m_data, m_pages);
+    m_loadoutPage = new LoadoutPage(&m_save, &m_data, m_pages);
     m_pages->addWidget(m_characterPage);
     m_pages->addWidget(m_itemsPage);
     m_pages->addWidget(m_equipmentPage);
     m_pages->addWidget(m_palicosPage);
+    m_pages->addWidget(m_loadoutPage);
     connect(m_characterPage, &CharacterDialog::modified, this, &MainWindow::markModified);
     connect(m_itemsPage, &ItemBoxDialog::modified, this, &MainWindow::markModified);
     connect(m_equipmentPage, &EquipmentBoxDialog::modified, this, &MainWindow::markModified);
     connect(m_palicosPage, &PalicoListDialog::modified, this, &MainWindow::markModified);
+    connect(m_loadoutPage, &LoadoutPage::modified, this, &MainWindow::markModified);
 }
 
 void MainWindow::loadPages()
@@ -185,6 +193,7 @@ void MainWindow::loadPages()
     m_itemsPage->loadFromModel();
     m_equipmentPage->loadFromModel();
     m_palicosPage->loadFromModel();
+    m_loadoutPage->loadFromModel();
 }
 
 bool MainWindow::commitPages(QString *error)
@@ -194,6 +203,7 @@ bool MainWindow::commitPages(QString *error)
     if (!m_itemsPage->commitToModel(error)) { showItems(); return false; }
     if (!m_equipmentPage->commitToModel(error)) { showEquipment(); return false; }
     if (!m_palicosPage->commitToModel(error)) { showPalicos(); return false; }
+    if (!m_loadoutPage->commitToModel(error)) { showLoadout(); return false; }
     return true;
 }
 
@@ -298,6 +308,12 @@ void MainWindow::selectSlot(int index)
     loadPages();
     showCharacter();
     refresh();
+    if (m_save.isReadOnly()) {
+        const QStringList errors = m_save.contentErrors();
+        QMessageBox::critical(this, QStringLiteral("严格合法性校验失败"),
+            QStringLiteral("此存档槽包含无法确认合法的数据，已进入只读保护并禁止保存。\n\n%1")
+                .arg(errors.mid(0, 12).join(QStringLiteral("\n"))));
+    }
 }
 
 void MainWindow::switchSlot()
@@ -318,6 +334,7 @@ void MainWindow::showCharacter() { setCurrentPage(m_characterPage, m_characterBu
 void MainWindow::showItems() { setCurrentPage(m_itemsPage, m_itemsButton, QStringLiteral("道具箱")); }
 void MainWindow::showEquipment() { setCurrentPage(m_equipmentPage, m_equipmentButton, QStringLiteral("装备箱")); }
 void MainWindow::showPalicos() { setCurrentPage(m_palicosPage, m_palicosButton, QStringLiteral("猫猫")); }
+void MainWindow::showLoadout() { setCurrentPage(m_loadoutPage, m_loadoutButton, QStringLiteral("配装器")); }
 
 void MainWindow::refresh()
 {
@@ -328,13 +345,15 @@ void MainWindow::refresh()
     m_itemsButton->setEnabled(ready);
     m_equipmentButton->setEnabled(ready);
     m_palicosButton->setEnabled(ready);
-    m_saveButton->setEnabled(ready);
+    m_loadoutButton->setEnabled(ready);
+    m_saveButton->setEnabled(ready && !m_save.isReadOnly());
     m_openButton->setText(open ? QStringLiteral("读取其他存档") : QStringLiteral("读取存档"));
     if (ready) {
         const MhguCharacter character = m_save.character();
-        m_status->setText(QStringLiteral("%1 · %2 · 存档 %3 · %4 · %5")
+        m_status->setText(QStringLiteral("%1 · %2 · 存档 %3 · %4 · %5%6")
             .arg(m_save.formatName(), QFileInfo(m_save.path()).fileName()).arg(m_save.selectedSlot() + 1).arg(character.name,
-                 hasUnsavedChanges() ? QStringLiteral("未保存") : QStringLiteral("已保存")));
+                 hasUnsavedChanges() ? QStringLiteral("未保存") : QStringLiteral("已保存"),
+                 m_save.isReadOnly() ? QStringLiteral(" · 严格校验失败（只读）") : QString()));
     } else if (open) {
         m_status->setText(QStringLiteral("%1 · %2 · 请选择存档槽 1 / 2 / 3")
             .arg(m_save.formatName(), QFileInfo(m_save.path()).fileName()));

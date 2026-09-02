@@ -1,15 +1,22 @@
 #include "mhgu_save.hpp"
 #include "game_data.hpp"
 #include "transfer_forms.hpp"
+#include "loadout_search.hpp"
+#include "loadout_format.hpp"
 
 #include <QCoreApplication>
 #include <QDir>
 #include <QFile>
 #include <QFileInfo>
+#include <QJsonDocument>
+#include <QJsonObject>
 #include <QTemporaryDir>
 
 #include <cstdlib>
+#include <atomic>
+#include <chrono>
 #include <iostream>
+#include <thread>
 
 namespace {
 void write16(QByteArray &bytes, int offset, quint16 value)
@@ -82,10 +89,9 @@ QByteArray syntheticSystem(MhguSaveFormat format = MhguSaveFormat::MhguNsRaw)
     }
     const int boxEntry = int(bases[1] + 0x62EE + 5 * 36);
     const int equippedHead = int(bases[1] + 0x110 + 1 * 44);
-    write16(bytes, boxEntry, quint16(1 | (4 << 5)));
-    write16(bytes, boxEntry + 2, 77);
-    write16(bytes, boxEntry + 4, 88);
-    write16(bytes, boxEntry + 6, 9);
+    write16(bytes, boxEntry, quint16(1));
+    write16(bytes, boxEntry + 2, 3);
+    write16(bytes, boxEntry + 4, 3);
     for (int i = 0; i < 12; ++i) bytes[equippedHead + i] = bytes[boxEntry + i];
     return bytes;
 }
@@ -138,6 +144,44 @@ bool hasIssue(const QVector<PalicoValidationIssue> &issues, const QString &code)
 {
     for (const PalicoValidationIssue &issue : issues) if (issue.code == code) return true;
     return false;
+}
+
+MhguEquipment naturalEquipment(int type, int id, int level = 0)
+{
+    MhguEquipment value;
+    value.type = quint8(type);
+    value.id = quint16(id);
+    value.level = quint8(level);
+    value.record = QByteArray(36, char(0));
+    const quint16 packed = quint16(type | (level << 5));
+    value.record[0] = char(packed & 0xff);
+    value.record[1] = char(packed >> 8);
+    value.record[2] = char(id & 0xff);
+    value.record[3] = char((id >> 8) & 0xff);
+    return value;
+}
+
+QJsonObject equipmentObject(const MhguEquipment &value)
+{
+    return {{QStringLiteral("save_type"), int(value.type)},
+        {QStringLiteral("save_id"), int(value.id)},
+        {QStringLiteral("record_hex"), QString::fromLatin1(value.record.toHex())}};
+}
+
+QByteArray loadoutJson(const QString &version, int armorLevel = 0)
+{
+    QJsonObject armor;
+    const char *keys[] = {"head", "chest", "arms", "waist", "legs"};
+    for (int part = 1; part <= 5; ++part)
+        armor.insert(QString::fromLatin1(keys[part - 1]), equipmentObject(naturalEquipment(part, 1, armorLevel)));
+    QJsonObject root{{QStringLiteral("schema"), QStringLiteral("MH_LOADOUT")},
+        {QStringLiteral("schema_version"), 1}, {QStringLiteral("game"), QStringLiteral("mhgu")},
+        {QStringLiteral("data_version"), version}, {QStringLiteral("name"), QStringLiteral("测试配装")},
+        {QStringLiteral("gender"), QStringLiteral("male")},
+        {QStringLiteral("weapon"), equipmentObject(naturalEquipment(7, 1))},
+        {QStringLiteral("armor"), armor},
+        {QStringLiteral("charm"), equipmentObject(naturalEquipment(6, 1))}};
+    return QJsonDocument(root).toJson(QJsonDocument::Compact);
 }
 }
 
@@ -198,6 +242,183 @@ int main(int argc, char **argv)
             "unknown talisman skill has no legal range");
     require(data.name(QStringLiteral("armor_chest"), 1281) == QStringLiteral("飞龙装束･天"), "armor uses real chest save ID");
     require(data.name(QStringLiteral("armor_arms"), 1080) == QStringLiteral("祖龙护肘"), "armor save ID is mapped per part");
+    require(data.dataVersion() != QStringLiteral("csv-fallback") && data.dataVersion().size() == 64,
+            "runtime prefers hashed SQLite data");
+    QStringList missingAutoData;
+    require(data.automaticLoadoutDataComplete(&missingAutoData) && missingAutoData.isEmpty(),
+            "automatic loadout data passes the complete verified-data gate");
+    require(data.loadoutArmor(1).size() == 1163 && data.loadoutDecorations().size() == 251
+            && data.activeSkills().size() == 260,
+            "verified armor, decoration and active-skill snapshots are populated");
+    MhguEquipment legalWeapon;
+    legalWeapon.type = 7; legalWeapon.id = 1; legalWeapon.level = 0;
+    require(data.validateHunterEquipment(legalWeapon), "strict validator accepts native weapon level");
+    MhguEquipment invalidWeapon = legalWeapon; invalidWeapon.level = 31;
+    require(!data.validateHunterEquipment(invalidWeapon), "strict validator rejects unknown weapon level");
+    MhguEquipment legalCharm;
+    legalCharm.type = 6; legalCharm.id = 10; legalCharm.skill1 = 72; legalCharm.skill1Points = 5;
+    legalCharm.skill2 = 70; legalCharm.skill2Points = 10; legalCharm.talismanSlots = 3;
+    require(data.validateHunterEquipment(legalCharm), "strict validator accepts confirmed talisman ranges");
+    MhguEquipment invalidCharm = legalCharm; invalidCharm.skill2Points = 11;
+    require(!data.validateHunterEquipment(invalidCharm), "strict validator rejects out-of-range talisman points");
+    MhguEquipment impossibleSlots = legalCharm; impossibleSlots.id = 1;
+    require(!data.validateHunterEquipment(impossibleSlots),
+            "strict validator rejects slots impossible for a mystery-rarity talisman");
+    require(data.talismanMaxSlots(1) == 1 && data.talismanMaxSlots(3) == 2
+            && data.talismanMaxSlots(10) == 3,
+            "talisman rarity maximum slots come from audited generation rules");
+
+    LoadoutSearchRequest searchRequest;
+    searchRequest.weapon = legalWeapon;
+    searchRequest.gender = 0;
+    searchRequest.maxSeconds = 1;
+    searchRequest.skills.push_back({31, 18, 10, QStringLiteral("Attack Up (S)")});
+    LoadoutSearchSnapshot searchSnapshot;
+    QString searchError;
+    require(buildLoadoutSearchSnapshot(searchRequest, data, &searchSnapshot, &searchError),
+            "build complete in-memory automatic loadout snapshot");
+    require(searchSnapshot.complete && searchSnapshot.weaponSlots == 0
+            && !searchSnapshot.charms.isEmpty() && !searchSnapshot.decorations.isEmpty(),
+            "search snapshot fixes weapon and contains verified candidates");
+    LoadoutSearchRequest fixedRequest = searchRequest;
+    fixedRequest.fixedArmor[0] = naturalEquipment(1, searchSnapshot.candidates[0].first().record.id);
+    fixedRequest.fixedCharm = searchSnapshot.charms.first().record;
+    LoadoutSearchSnapshot fixedSnapshot;
+    require(buildLoadoutSearchSnapshot(fixedRequest, data, &fixedSnapshot, &searchError),
+            "strict fixed armour and charm enter the automatic snapshot");
+    for (const LoadoutSearchArmor &candidate : fixedSnapshot.candidates[0])
+        require(candidate.record.id == fixedRequest.fixedArmor[0].id,
+                "fixed armour excludes every other head candidate");
+    for (const LoadoutSearchCharm &candidate : fixedSnapshot.charms)
+        require(candidate.record.id == fixedRequest.fixedCharm.id &&
+                candidate.record.skill1 == fixedRequest.fixedCharm.skill1 &&
+                candidate.record.skill1Points == fixedRequest.fixedCharm.skill1Points &&
+                candidate.record.skill2 == fixedRequest.fixedCharm.skill2 &&
+                candidate.record.skill2Points == fixedRequest.fixedCharm.skill2Points &&
+                candidate.record.talismanSlots == fixedRequest.fixedCharm.talismanSlots,
+                "fixed charm excludes every other natural combination");
+    LoadoutSearchRequest illegalFixedRequest = searchRequest;
+    illegalFixedRequest.fixedCharm = legalCharm;
+    illegalFixedRequest.fixedCharm.skill2Points = 127;
+    require(!buildLoadoutSearchSnapshot(illegalFixedRequest, data, &fixedSnapshot, &searchError),
+            "illegal fixed charm is rejected before worker creation");
+    LoadoutSearchRequest wrongGenderFixed = searchRequest;
+    for (const LoadoutArmorData &armor : data.loadoutArmor(1)) {
+        if (armor.gender == 1 && (armor.combat == 0 || armor.combat == 2)) {
+            wrongGenderFixed.fixedArmor[0] = naturalEquipment(1, armor.id);
+            break;
+        }
+    }
+    require(wrongGenderFixed.fixedArmor[0].type == 1 &&
+            !buildLoadoutSearchSnapshot(wrongGenderFixed, data, &fixedSnapshot, &searchError),
+            "fixed female-only armour is rejected in a male search branch");
+
+    MhguLoadoutDocument parsedLoadout;
+    QStringList loadoutErrors;
+    const QByteArray validLoadoutJson = loadoutJson(data.dataVersion());
+    require(parseMhguLoadoutJson(validLoadoutJson, data.dataVersion(), data,
+                                 &parsedLoadout, &loadoutErrors),
+            "strict MHGU loadout JSON parser accepts a complete native loadout");
+    require(validateMhguLoadoutProvenance(parsedLoadout, {}, &loadoutErrors),
+            "canonical natural records do not require current-box provenance");
+    MhguLoadoutDocument unknownExternal = parsedLoadout;
+    unknownExternal.records[0].record[35] = 1;
+    require(!validateMhguLoadoutProvenance(unknownExternal, {}, &loadoutErrors),
+            "unknown external record bytes require exact current-box provenance");
+    require(validateMhguLoadoutProvenance(unknownExternal, {unknownExternal.records[0]}, &loadoutErrors),
+            "an exact current-box record may preserve its unknown bytes losslessly");
+    MhguLoadoutDocument insectGlaiveExternal = parsedLoadout;
+    insectGlaiveExternal.records[0] = naturalEquipment(20, 1);
+    require(!validateMhguLoadoutProvenance(insectGlaiveExternal, {}, &loadoutErrors),
+            "insect glaive requires an exact box record until kinsect instance rules are confirmed");
+    require(validateMhguLoadoutProvenance(insectGlaiveExternal,
+                                          {insectGlaiveExternal.records[0]}, &loadoutErrors),
+            "exact current-box insect glaive record is preserved without reconstruction");
+    QJsonObject uppercaseRoot = QJsonDocument::fromJson(validLoadoutJson).object();
+    QJsonObject uppercaseWeapon = uppercaseRoot.value(QStringLiteral("weapon")).toObject();
+    QString uppercaseRecord = uppercaseWeapon.value(QStringLiteral("record_hex")).toString();
+    uppercaseRecord[20] = QLatin1Char('A');
+    uppercaseWeapon.insert(QStringLiteral("record_hex"), uppercaseRecord);
+    uppercaseRoot.insert(QStringLiteral("weapon"), uppercaseWeapon);
+    require(!parseMhguLoadoutJson(QJsonDocument(uppercaseRoot).toJson(QJsonDocument::Compact),
+                                  data.dataVersion(), data,
+                                  &parsedLoadout, &loadoutErrors),
+            "loadout JSON parser rejects non-lowercase hexadecimal records");
+    require(!parseMhguLoadoutJson(loadoutJson(QStringLiteral("wrong-version")),
+                                  data.dataVersion(), data, &parsedLoadout, &loadoutErrors),
+            "loadout JSON parser rejects a mismatched data version");
+    MhguLoadoutDocument upgradedLoadout;
+    require(parseMhguLoadoutJson(loadoutJson(data.dataVersion(), 1), data.dataVersion(),
+                                 data, &upgradedLoadout, &loadoutErrors),
+            "structurally legal upgraded armour remains parseable before provenance gate");
+    require(!validateMhguLoadoutProvenance(upgradedLoadout, {}, &loadoutErrors),
+            "external upgraded armour is rejected without an exact current-box source");
+    QVector<MhguEquipment> knownUpgrade{upgradedLoadout.records[3]};
+    require(validateMhguLoadoutProvenance(upgradedLoadout, knownUpgrade, &loadoutErrors) == false,
+            "every upgraded armour part independently requires exact provenance");
+    for (int part = 1; part <= 5; ++part) knownUpgrade.push_back(upgradedLoadout.records[part]);
+    require(validateMhguLoadoutProvenance(upgradedLoadout, knownUpgrade, &loadoutErrors),
+            "upgraded armour is accepted only when all exact records already exist in the box");
+    QVector<LoadoutSearchResult> searchResults;
+    bool searchFinished = false;
+    LoadoutSearchWorker searchWorker(searchSnapshot);
+    QObject::connect(&searchWorker, &LoadoutSearchWorker::result,
+                     [&searchResults](const LoadoutSearchResult &result) { searchResults.push_back(result); });
+    QObject::connect(&searchWorker, &LoadoutSearchWorker::finished,
+                     [&searchFinished](bool, const QString &) { searchFinished = true; });
+    searchWorker.run();
+    require(searchFinished, "automatic loadout worker completes within deadline");
+    QSet<QString> searchFingerprints;
+    QMap<QString, LoadoutSearchResult> equipmentCombinations;
+    for (const LoadoutSearchResult &result : searchResults) {
+        QVector<MhguEquipment> records;
+        QStringList key;
+        for (const MhguEquipment &record : result.records) {
+            records.push_back(record);
+            key.push_back(QStringLiteral("%1:%2:%3:%4:%5:%6:%7:%8")
+                .arg(record.type).arg(record.id).arg(record.level)
+                .arg(record.skill1).arg(record.skill1Points)
+                .arg(record.skill2).arg(record.skill2Points).arg(record.talismanSlots));
+        }
+        require(data.validateLoadout(records), "every emitted automatic result passes strict validation again");
+        require(!searchFingerprints.contains(result.fingerprint), "automatic result fingerprints are unique");
+        const QString combination = key.join(QLatin1Char('|'));
+        if (equipmentCombinations.contains(combination))
+            require(result.freeSlots >= equipmentCombinations.value(combination).freeSlots,
+                    "replacement for an equipment combination is not worse");
+        searchFingerprints.insert(result.fingerprint);
+        equipmentCombinations.insert(combination, result);
+    }
+
+    LoadoutSearchWorker cancelledWorker(searchSnapshot);
+    bool cancelledFinished = false;
+    QObject::connect(&cancelledWorker, &LoadoutSearchWorker::finished,
+                     [&cancelledFinished](bool cancelled, const QString &) { cancelledFinished = cancelled; });
+    cancelledWorker.cancel();
+    cancelledWorker.run();
+    require(cancelledFinished, "pre-cancelled automatic worker exits cleanly");
+    LoadoutSearchWorker pausedWorker(searchSnapshot);
+    std::atomic_bool pausedFinished{false};
+    QObject::connect(&pausedWorker, &LoadoutSearchWorker::finished,
+                     [&pausedFinished](bool, const QString &) { pausedFinished = true; });
+    pausedWorker.pause();
+    std::thread pausedThread([&pausedWorker] { pausedWorker.run(); });
+    std::this_thread::sleep_for(std::chrono::milliseconds(50));
+    require(!pausedFinished.load(), "paused automatic worker does not advance to completion");
+    pausedWorker.resume();
+    pausedThread.join();
+    require(pausedFinished.load(), "paused automatic worker resumes and exits cleanly");
+
+    LoadoutSearchWorker pausedCancelledWorker(searchSnapshot);
+    std::atomic_bool pausedCancelled{false};
+    QObject::connect(&pausedCancelledWorker, &LoadoutSearchWorker::finished,
+                     [&pausedCancelled](bool cancelled, const QString &) { pausedCancelled = cancelled; });
+    pausedCancelledWorker.pause();
+    std::thread pausedCancelledThread([&pausedCancelledWorker] { pausedCancelledWorker.run(); });
+    std::this_thread::sleep_for(std::chrono::milliseconds(50));
+    pausedCancelledWorker.cancel();
+    pausedCancelledThread.join();
+    require(pausedCancelled.load(), "cancelling a paused automatic worker wakes and exits it");
     require(data.entries(QStringLiteral("palico_weapons")).size() == 509, "Palico weapon count");
     require(data.entries(QStringLiteral("palico_head")).size() == 502, "Palico head count");
     require(data.entries(QStringLiteral("palico_armor")).size() == 524, "Palico armor count");
@@ -217,6 +438,7 @@ int main(int argc, char **argv)
             "unconfirmed Palico memory cost stays unknown");
 
     MhguSave save;
+    save.setValidationData(&data);
     const QString wrong = temp.filePath(QStringLiteral("wrong"));
     require(writeFile(wrong, QByteArray(10, char(0))), "write wrong-size file");
     require(!save.open(wrong), "reject wrong-size file");
@@ -277,6 +499,7 @@ int main(int argc, char **argv)
     const QByteArray xxOriginal = syntheticSystem(MhguSaveFormat::Mhxx3ds);
     require(writeFile(xxPath, xxOriginal), "write synthetic MHXX system");
     MhguSave xxSave;
+    xxSave.setValidationData(&data);
     require(xxSave.open(xxPath) && xxSave.format() == MhguSaveFormat::Mhxx3ds,
             "detect synthetic MHXX 3DS system");
     require(xxSave.formatName() == QStringLiteral("MHXX（3DS）"), "report MHXX platform name");
@@ -305,7 +528,7 @@ int main(int argc, char **argv)
     require(changesOnlyIn(beforeEquipment, xxSave.bytes(), 0x244C34 + 0x62EE, 36),
             "MHXX hunter equipment edit stays in target record");
     MhguPalicoEquipment xxCatEquipment;
-    xxCatEquipment.rawType = 22; xxCatEquipment.id = 100; xxCatEquipment.appearanceId = 101;
+    xxCatEquipment.rawType = 23; xxCatEquipment.id = 100; xxCatEquipment.appearanceId = 101;
     const QByteArray beforeCatEquipment = xxSave.bytes();
     require(xxSave.setPalicoEquipment(0, xxCatEquipment), "edit MHXX Palico equipment");
     require(xxSave.palicoEquipment(0).id == 100, "round-trip MHXX Palico equipment");
@@ -333,18 +556,22 @@ int main(int argc, char **argv)
 
     MhguEquipment equipment;
     equipment.type = 1;
-    equipment.level = 7;
+    equipment.level = 0;
     equipment.id = 123;
-    equipment.appearanceId = 456;
-    equipment.decorations = {{10, 11, 12}};
+    equipment.appearanceId = 123;
     require(save.setEquipment(0, equipment), "set hunter equipment");
     const MhguEquipment decoded = save.equipment(0);
-    require(decoded.type == 1 && decoded.id == 123 && decoded.appearanceId == 456, "round-trip hunter equipment");
+    require(decoded.type == 1 && decoded.id == 123 && decoded.appearanceId == 123, "round-trip hunter equipment");
     equipment.type = 12;
     require(!save.setEquipment(1, equipment), "reject reserved hunter equipment type 12");
-    equipment.type = 21;
+    equipment.type = 21; equipment.id = 1; equipment.appearanceId = 0;
     require(save.setEquipment(1, equipment) && save.equipment(1).type == 21,
             "round-trip Charge Blade save type 21");
+    MhguEquipment unsourcedInsectGlaive = naturalEquipment(20, 1);
+    const QByteArray beforeUnsourcedInsectGlaive = save.bytes();
+    require(!save.setEquipment(2, unsourcedInsectGlaive) &&
+            save.bytes() == beforeUnsourcedInsectGlaive,
+            "reject generated insect glaive while kinsect instance rules are unconfirmed");
 
     MhguEquipment equippedSource = save.equipment(5);
     equippedSource.appearanceId = 99;
@@ -415,12 +642,12 @@ int main(int argc, char **argv)
     require(!save.setEquipmentBatch({stagedHunter}, {invalidPalico}) && save.bytes() == beforeFailedBatch,
             "failed equipment batch leaves memory byte-identical");
     MhguEquipment reverseEquipment = xxSave.equipment(0);
-    reverseEquipment.type = 14; reverseEquipment.id = 222;
+    reverseEquipment.type = 14; reverseEquipment.id = 1; reverseEquipment.level = 0; reverseEquipment.appearanceId = 0;
     require(xxSave.setEquipment(0, reverseEquipment), "prepare reverse XX equipment transfer");
     MhguEquipmentUpdate reverseRow; reverseRow.index = 0; reverseRow.value = xxSave.equipment(0);
     const QByteArray reverseForm = MhxxGuTransfer::exportEquipment({reverseRow}, {});
     require(MhxxGuTransfer::parseEquipment(reverseForm, &importedHunter, &importedPalico, &transferError)
-            && save.setEquipmentBatch(importedHunter, importedPalico) && save.equipment(0).id == 222,
+            && save.setEquipmentBatch(importedHunter, importedPalico) && save.equipment(0).id == 1,
             "transfer equipment XX to GU through logical values");
 
     for (int pattern = 0; pattern < 7; ++pattern) {
@@ -475,10 +702,9 @@ int main(int argc, char **argv)
             hasIssue(illegal, QStringLiteral("skill.pattern.unknown")) &&
             hasIssue(illegal, QStringLiteral("action.equipped.not_learned")),
             "illegal Palico structure reports concrete advisory reasons");
-    require(save.setPalico(1, cat), "illegal Palico configuration still writes");
-    const MhguPalico illegalRoundTrip = save.palico(1);
-    require(illegalRoundTrip.actionValidLength == 1 && illegalRoundTrip.skillPattern == 8 &&
-            illegalRoundTrip.learnedActions[4] == 4, "advanced illegal bytes round-trip unchanged");
+    const QByteArray beforeIllegalPalico = save.bytes();
+    require(!save.setPalico(1, cat), "illegal Palico configuration is rejected");
+    require(save.bytes() == beforeIllegalPalico, "rejected Palico edit is transactional");
 
     MhguPalico special = regularCat(false, 6, 6);
     special.skillPattern = 8;
@@ -486,30 +712,15 @@ int main(int argc, char **argv)
     special.learnedSkills[10] = 95;
     special.learnedSkills[11] = 96;
     special.received = true;
-    require(save.setPalico(2, special), "write special Palico fixture");
-    MhguPalico renamedSpecial = save.palico(2);
-    const auto specialActions = renamedSpecial.learnedActions;
-    const auto specialSkills = renamedSpecial.learnedSkills;
-    const quint8 specialActionPattern = renamedSpecial.actionPattern;
-    const quint8 specialActionLength = renamedSpecial.actionValidLength;
-    const quint8 specialSkillPattern = renamedSpecial.skillPattern;
-    const quint8 specialSkillLength = renamedSpecial.skillValidLength;
-    renamedSpecial.name = QStringLiteral("Only Name Changed");
-    require(save.setPalico(2, renamedSpecial), "rename special Palico without rebuilding");
-    const MhguPalico specialAfterRename = save.palico(2);
-    require(specialAfterRename.learnedActions == specialActions && specialAfterRename.learnedSkills == specialSkills &&
-            specialAfterRename.actionPattern == specialActionPattern && specialAfterRename.actionValidLength == specialActionLength &&
-            specialAfterRename.skillPattern == specialSkillPattern && specialAfterRename.skillValidLength == specialSkillLength,
-            "special Palico action/skill bytes stay unchanged on unrelated edit");
+    require(!save.setPalico(2, special), "unconfirmed special Palico pattern is rejected");
 
     require(save.save(), "save edited system");
     require(readFile(path).size() == MhguSave::FileSize, "saved size remains fixed");
     MhguSave persistedPalicos;
+    persistedPalicos.setValidationData(&data);
     require(persistedPalicos.open(path) && persistedPalicos.selectSlot(1), "reopen saved Palico fixture");
-    const MhguPalico persistedIllegal = persistedPalicos.palico(1);
-    require(persistedIllegal.actionValidLength == 1, "illegal Palico effective length persists to disk");
-    require(persistedIllegal.skillPattern == 8, "illegal Palico pattern persists to disk");
-    require(persistedIllegal.learnedActions[4] == 4, "illegal Palico array byte persists to disk");
+    require(persistedPalicos.palico(1).actionValidLength == 0,
+            "rejected illegal Palico does not persist to disk");
     require(!save.isDirty(), "clean after save");
     require(!QFileInfo::exists(temp.filePath(QStringLiteral("system_backup"))) &&
             !QFileInfo::exists(path + QStringLiteral(".bak")), "saving creates no backup files");
@@ -518,6 +729,7 @@ int main(int argc, char **argv)
     const int sampleArg = args.indexOf(QStringLiteral("--sample"));
     if (sampleArg >= 0 && sampleArg + 1 < args.size()) {
         MhguSave privateSample;
+        privateSample.setValidationData(&data);
         require(privateSample.open(args[sampleArg + 1]), "open private sample");
         const QVector<MhguSlotInfo> sampleSlots = privateSample.slotInfos();
         require(sampleSlots[0].used && sampleSlots[0].name == QStringLiteral("QM_Hammer"), "private sample slot/name");
@@ -548,6 +760,7 @@ int main(int argc, char **argv)
     if (mhxxSampleArg >= 0 && mhxxSampleArg + 1 < args.size()) {
         const QByteArray privateMhxxBytes = readFile(args[mhxxSampleArg + 1]);
         MhguSave privateMhxx;
+        privateMhxx.setValidationData(&data);
         require(privateMhxx.open(args[mhxxSampleArg + 1]), "open private MHXX sample");
         require(privateMhxx.format() == MhguSaveFormat::Mhxx3ds, "private sample detected as MHXX 3DS");
         const QVector<MhguSlotInfo> mhxxSlots = privateMhxx.slotInfos();
@@ -565,8 +778,14 @@ int main(int argc, char **argv)
         const QString privateCopyPath = temp.filePath(QStringLiteral("private-mhxx-system-copy"));
         require(writeFile(privateCopyPath, privateMhxxBytes), "copy private MHXX sample for save test");
         MhguSave privateCopy;
-        require(privateCopy.open(privateCopyPath) && privateCopy.selectSlot(0) && privateCopy.save(),
-                "unchanged private MHXX sample save");
+        privateCopy.setValidationData(&data);
+        require(privateCopy.open(privateCopyPath) && privateCopy.selectSlot(0),
+                "open private MHXX sample copy");
+        if (!privateCopy.save()) {
+            std::cerr << "MHXX strict errors:\n"
+                      << privateCopy.contentErrors().join(QLatin1Char('\n')).toStdString() << '\n';
+            require(false, "unchanged private MHXX sample save");
+        }
         require(readFile(privateCopyPath) == privateMhxxBytes, "private MHXX no-op save is byte-identical");
     }
 

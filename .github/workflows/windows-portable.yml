@@ -34,7 +34,9 @@ jobs:
 
       - name: Validate generated data
         shell: pwsh
-        run: python .\tools\validate_data.py .\data
+        run: |
+          python .\tools\validate_data.py .\data
+          python .\tools\build_sqlite_data.py .\data
 
       - name: Build portable package
         shell: pwsh

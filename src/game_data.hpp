@@ -1,8 +1,12 @@
 #pragma once
 
 #include <QMap>
+#include <QSet>
 #include <QString>
 #include <QVector>
+
+struct MhguEquipment;
+struct MhguPalicoEquipment;
 
 struct GameDataEntry {
     int id = 0;
@@ -19,6 +23,7 @@ struct GameDataEntry {
     QString generationWeights;
     int slotCost = -1;
     int nativeSlots = -1;
+    QMap<QString, QString> attributes;
 };
 
 struct PalicoPattern {
@@ -43,6 +48,37 @@ struct TalismanSkillLimit {
     int skill2Max = 0;
 };
 
+struct LoadoutArmorData {
+    int type = 0;
+    int id = 0;
+    QString name;
+    int gender = 2; // source convention: 0 male, 1 female, 2 both
+    int combat = 2; // 0 blade, 1 gunner, 2 both
+    int slotCount = 0;
+    int baseDefense = 0;
+    int maxDefense = 0;
+    int fireRes = 0;
+    int waterRes = 0;
+    int thunderRes = 0;
+    int iceRes = 0;
+    int dragonRes = 0;
+    QMap<int, int> skills;
+};
+
+struct LoadoutDecorationData {
+    int id = 0;
+    QString name;
+    int slotCount = 0;
+    QMap<int, int> skills;
+};
+
+struct ActiveSkillData {
+    int id = 0;
+    int skillId = 0;
+    int points = 0;
+    QString name;
+};
+
 class GameData {
 public:
     bool load(const QString &language = QStringLiteral("cn"));
@@ -61,10 +97,26 @@ public:
     int decorationSlotCost(int itemId, bool *found = nullptr) const;
     bool talismanSkillRange(int talismanId, int skillId, int position,
                             int *minimum, int *maximum) const;
+    int talismanMaxSlots(int talismanId, bool *found = nullptr) const;
+    bool talismanSlotsLegal(int talismanId, int skill1Id, int skill1Points,
+                            int skill2Id, int skill2Points, int slotCount) const;
     QVector<PalicoPattern> patterns(const QString &scope) const;
     PalicoPattern pattern(const QString &scope, int id) const;
     QVector<PalicoForteGrant> forteGrants(int forteId, const QString &kind,
                                           const QString &role = {}) const;
+    bool validateHunterEquipment(const MhguEquipment &entry, QString *error = nullptr) const;
+    // Validate a complete seven-piece set without mutating any caller-owned
+    // state.  This is the common gate used by the loadout editor, JSON
+    // import and future search-result回填 paths.
+    bool validateLoadout(const QVector<MhguEquipment> &entries,
+                         QStringList *errors = nullptr,
+                         const QString &gender = {}) const;
+    bool validatePalicoEquipment(const MhguPalicoEquipment &entry, QString *error = nullptr) const;
+    QString dataVersion() const;
+    bool automaticLoadoutDataComplete(QStringList *missing = nullptr) const;
+    QVector<LoadoutArmorData> loadoutArmor(int type) const;
+    QVector<LoadoutDecorationData> loadoutDecorations() const;
+    QVector<ActiveSkillData> activeSkills() const;
 
 private:
     static QStringList parseCsvLine(const QString &line);
@@ -72,6 +124,8 @@ private:
     QString findDataRoot() const;
 
     QMap<QString, QMap<int, GameDataEntry>> m_tables;
+    QMap<QString, QSet<QString>> m_tableColumns;
+    QMap<QString, int> m_tableRowCounts;
     QMap<quint32, int> m_weaponLevelSlots;
     QMap<quint32, TalismanSkillLimit> m_talismanSkillLimits;
     QVector<PalicoPattern> m_patterns;
