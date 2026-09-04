@@ -1,8 +1,12 @@
 # MHGU / MHXX Save Editor
 
 Monster Hunter Generations Ultimate（Nintendo Switch）/ Monster Hunter XX
-（Nintendo 3DS）存档修改器。当前支持 MHGU 的无头/带36字节头 `system`；MHXX
-（3DS）支持无头 `system` 的解析、合成写回和未修改往返校验，修改后放回真实设备仍需用户实测。
+（Nintendo 3DS）存档修改器。当前支持 Citra 的 MHXX（3DS 模拟器）无头 `system`，以及 Yuzu 的
+MHGU（NS 模拟器）无头/带36字节头 `system`；不支持实体机原始存档。读取后主界面会持续显示当前
+游戏、模拟器和文件格式。
+
+Yuzu 的 MHXX Nintendo Switch Ver. 当前尚未支持。由于它与 MHGU 同属 NS 模拟器 `system`
+场景，读取 NS 格式后程序会要求用户明确确认文件来自 MHGU；取消确认不会进入编辑页面。
 
 界面采用与 MH3G、MH4G 统一的中文管理台，左侧切换存档槽、角色、道具箱、装备箱
 和猫猫，右侧在同一窗口编辑。防具幻化已经实机验证可用；MHGU 原版武器幻化只会
@@ -14,7 +18,8 @@ Monster Hunter Generations Ultimate（Nintendo Switch）/ Monster Hunter XX
 ## 开发进度（2026-09-04）
 
 - MHGU / MHXX 已完成 SQLite 数据迁移、严格校验基础编辑闭环和自动配装器；正式桌面版本为
-  `v0.2.0`，Windows portable 已通过 GitHub Actions 构建并发布。
+  `v0.2.1`，Windows portable 由 GitHub Action 自动构建并发布；本版本增加 Citra/Yuzu 模拟器格式
+  常驻标识、读取确认提示，并将应用版本号同步为 `0.2.1`。
 - 自动配装固定普通武器，支持男女分支、动态技能目标、固定装备、独立孔容量、装珠剪枝、
   暂停/继续/取消、独立倒计时和批量结果刷新；不生成发掘武器/防具或未经确认的非法数据。
 - 已接入 MHED 平台，GU 与 XX 统一使用 `game=mhgu`；平台生产已部署严格 36 字节记录校验。

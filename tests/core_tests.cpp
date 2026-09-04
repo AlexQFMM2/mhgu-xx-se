@@ -446,7 +446,8 @@ int main(int argc, char **argv)
     const QByteArray original = syntheticSystem();
     require(writeFile(path, original), "write synthetic system");
     require(save.open(path), "open synthetic system");
-    require(save.format() == MhguSaveFormat::MhguNsRaw && save.formatName().contains(QStringLiteral("MHGU")),
+    require(save.format() == MhguSaveFormat::MhguNsRaw &&
+            save.formatName() == QStringLiteral("MHGU（NS 模拟器 · Yuzu，无头）"),
             "detect raw MHGU system");
     require(!save.setPalico(0, regularCat(false, 6, 6)), "Palico write requires a selected slot");
     const QVector<MhguSlotInfo> slotList = save.slotInfos();
@@ -478,6 +479,8 @@ int main(int argc, char **argv)
     require(writeFile(headeredPath, headeredOriginal), "write headered system");
     require(save.open(headeredPath), "open headered system");
     require(save.format() == MhguSaveFormat::MhguNsHeadered, "detect headered MHGU system");
+    require(save.formatName() == QStringLiteral("MHGU（NS 模拟器 · Yuzu，带头）"),
+            "report headered MHGU emulator format");
     require(save.selectSlot(0), "select slot in headered system");
     require(save.save(), "save unchanged headered system");
     require(readFile(headeredPath) == headeredOriginal, "headered unchanged save is byte-identical");
@@ -502,7 +505,8 @@ int main(int argc, char **argv)
     xxSave.setValidationData(&data);
     require(xxSave.open(xxPath) && xxSave.format() == MhguSaveFormat::Mhxx3ds,
             "detect synthetic MHXX 3DS system");
-    require(xxSave.formatName() == QStringLiteral("MHXX（3DS）"), "report MHXX platform name");
+    require(xxSave.formatName() == QStringLiteral("MHXX（3DS 模拟器 · Citra）"),
+            "report MHXX emulator format");
     require(xxSave.selectSlot(1) && xxSave.character().name == QStringLiteral("存档二")
             && xxSave.character().hunterRank == 11, "parse MHXX slot with common relative offsets");
     require(xxSave.save() && readFile(xxPath) == xxOriginal, "unchanged MHXX save is byte-identical");

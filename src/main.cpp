@@ -99,7 +99,7 @@ int main(int argc, char *argv[])
     QCoreApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
     QApplication app(argc, argv);
     QCoreApplication::setApplicationName(QStringLiteral("MHGU / MHXX Save Editor"));
-    QCoreApplication::setApplicationVersion(QStringLiteral("0.1.0"));
+    QCoreApplication::setApplicationVersion(QStringLiteral("0.2.1"));
     applyApplicationStyle(app);
     MainWindow window;
     window.show();

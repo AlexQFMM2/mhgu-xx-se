@@ -75,7 +75,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     auto *heading = new QVBoxLayout;
     m_pageTitle = new QLabel(QStringLiteral("存档管理"), workspace);
     m_pageTitle->setObjectName(QStringLiteral("pageTitle"));
-    m_subtitle = new QLabel(QStringLiteral("Nintendo Switch / Nintendo 3DS · system 三槽存档"), workspace);
+    m_subtitle = new QLabel(QStringLiteral("Citra（3DS 模拟器）/ Yuzu（NS 模拟器）· system 三槽存档"), workspace);
     m_subtitle->setObjectName(QStringLiteral("appSubtitle"));
     heading->addWidget(m_pageTitle);
     heading->addWidget(m_subtitle);
@@ -98,7 +98,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     auto *emptyTitle = new QLabel(QStringLiteral("尚未读取存档"), m_emptyPage);
     emptyTitle->setObjectName(QStringLiteral("emptyTitle"));
     emptyTitle->setAlignment(Qt::AlignCenter);
-    auto *emptyHint = new QLabel(QStringLiteral("点击右下角“读取存档”，选择 MHXX（3DS）或 MHGU（NS）的 system。"), m_emptyPage);
+    auto *emptyHint = new QLabel(QStringLiteral("点击右下角“读取存档”，选择 Citra 的 MHXX 或 Yuzu 的 MHGU system。\nYuzu 的 MHXX Nintendo Switch Ver. 暂未支持。"), m_emptyPage);
     emptyHint->setObjectName(QStringLiteral("appSubtitle"));
     emptyHint->setAlignment(Qt::AlignCenter);
     emptyLayout->addWidget(emptyTitle);
@@ -255,6 +255,27 @@ void MainWindow::openFile()
         refresh();
         return;
     }
+    if (m_save.format() == MhguSaveFormat::MhguNsRaw ||
+        m_save.format() == MhguSaveFormat::MhguNsHeadered) {
+        QMessageBox confirmation(QMessageBox::Information, QStringLiteral("确认当前游戏"),
+            QStringLiteral("检测到 Nintendo Switch 模拟器 system 格式。\n\n"
+                           "当前读取：%1\n\n"
+                           "MHXX Nintendo Switch Ver.（Yuzu）目前尚未支持。"
+                           "只有当此文件来自 MHGU 时才能继续。")
+                .arg(m_save.formatName()), QMessageBox::NoButton, this);
+        QAbstractButton *proceed = confirmation.addButton(QStringLiteral("这是 MHGU，继续"), QMessageBox::AcceptRole);
+        confirmation.addButton(QStringLiteral("不是，取消"), QMessageBox::RejectRole);
+        confirmation.exec();
+        if (confirmation.clickedButton() != proceed) {
+            m_save.close();
+            refresh();
+            return;
+        }
+    } else {
+        QMessageBox::information(this, QStringLiteral("已识别存档"),
+            QStringLiteral("当前读取：%1\n\n修改器将按此游戏和模拟器格式读取、校验并保存。")
+                .arg(m_save.formatName()));
+    }
     m_uiDirty = false;
     showSlotSelection();
     refresh();
@@ -358,12 +379,12 @@ void MainWindow::refresh()
         m_status->setText(QStringLiteral("%1 · %2 · 请选择存档槽 1 / 2 / 3")
             .arg(m_save.formatName(), QFileInfo(m_save.path()).fileName()));
     } else {
-        m_status->setText(QStringLiteral("尚未读取存档"));
+        m_status->setText(QStringLiteral("尚未读取存档 · 支持 Citra（3DS 模拟器）的 MHXX 或 Yuzu（NS 模拟器）的 MHGU"));
         m_pages->setCurrentWidget(m_emptyPage);
         m_pageTitle->setText(QStringLiteral("存档管理"));
     }
     m_subtitle->setText(open ? QStringLiteral("%1 · system 三槽存档").arg(m_save.formatName())
-                             : QStringLiteral("Nintendo Switch / Nintendo 3DS · system 三槽存档"));
+                             : QStringLiteral("Citra（3DS 模拟器）/ Yuzu（NS 模拟器）· system 三槽存档"));
     m_status->setProperty("loaded", ready);
     m_status->setProperty("dirty", hasUnsavedChanges());
     m_status->style()->unpolish(m_status);

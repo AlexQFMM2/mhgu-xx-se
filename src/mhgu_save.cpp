@@ -245,9 +245,9 @@ void MhguSave::close()
 QString MhguSave::formatName() const
 {
     switch (m_format) {
-    case MhguSaveFormat::Mhxx3ds: return QStringLiteral("MHXX（3DS）");
-    case MhguSaveFormat::MhguNsRaw: return QStringLiteral("MHGU（NS，无头）");
-    case MhguSaveFormat::MhguNsHeadered: return QStringLiteral("MHGU（NS，带头）");
+    case MhguSaveFormat::Mhxx3ds: return QStringLiteral("MHXX（3DS 模拟器 · Citra）");
+    case MhguSaveFormat::MhguNsRaw: return QStringLiteral("MHGU（NS 模拟器 · Yuzu，无头）");
+    case MhguSaveFormat::MhguNsHeadered: return QStringLiteral("MHGU（NS 模拟器 · Yuzu，带头）");
     default: return QStringLiteral("未知格式");
     }
 }
